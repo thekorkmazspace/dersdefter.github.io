@@ -1,0 +1,1344 @@
+{
+  "meta": {
+    "generated_at": "2026-02-23",
+    "timezone": "Europe/Istanbul",
+    "jurisdiction": "TR",
+    "authority": "T.C. Millî Eğitim Bakanlığı / Talim ve Terbiye Kurulu Başkanlığı (TTKB)",
+    "curriculum_family": "Türkiye Yüzyılı Maarif Modeli (TYMM)",
+    "notes": [
+      "Bu dosya MEB/TTKB tarafından yayımlanan öğretim programlarına (PDF) referans veren bir iskelettir.",
+      "Öğretim programlarındaki 'öğrenme çıktıları/kazanımlar' metinleri telifli içerik olduğundan burada tam metin olarak yer almamaktadır; alanlar boş bırakılmıştır."
+    ],
+    "source_portals": [
+      {
+        "name": "TTKB Müfredat Portalı (Öğretim Programları)",
+        "url": "https://mufredat.meb.gov.tr/Programlar.aspx"
+      },
+      {
+        "name": "Türkiye Yüzyılı Maarif Modeli (TYMM) Program Sayfaları",
+        "url": "https://tymm.meb.gov.tr/ogretim-programlari"
+      }
+    ]
+  },
+  "outcome_schema": {
+    "outcome_id": "string (benzersiz)",
+    "statement": "string|null (isteğe bağlı: kendi özetiniz / okulunuzun izin verdiği metin)",
+    "grade_or_age_band": "string|number",
+    "subject_code": "string",
+    "theme_or_unit": "string|null",
+    "tags": [
+      "string"
+    ],
+    "source": {
+      "program_id": "ttkb:PID:####",
+      "document_url": "string",
+      "page": "number|null",
+      "section_hint": "string|null"
+    }
+  },
+  "program_catalog": {
+    "ttkb:PID:1977": {
+      "program_id": "ttkb:PID:1977",
+      "title": "[TYMM] Okul Öncesi Eğitim Programı (2024)",
+      "year": 2024,
+      "level": "okul_oncesi",
+      "age_months_range": [
+        36,
+        72
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582516326689-okul%20%C3%B6ncesi.pdf",
+      "source_portal": "TTKB",
+      "tags": [
+        "alan_matrisi",
+        "ogrenme_ciktisi"
+      ]
+    },
+    "ttkb:PID:1973": {
+      "program_id": "ttkb:PID:1973",
+      "title": "[TYMM] İlkokul Türkçe Dersi (1-4) (2024)",
+      "year": 2024,
+      "level": "ilkokul",
+      "grade_range": [
+        1,
+        4
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025825154548470-ilkokul%20t%C3%BCrk%C3%A7e.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1972": {
+      "program_id": "ttkb:PID:1972",
+      "title": "[TYMM] İlkokul Matematik Dersi (1-4) (2024)",
+      "year": 2024,
+      "level": "ilkokul",
+      "grade_range": [
+        1,
+        4
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025825154457392-ilkokul%20matematik.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1971": {
+      "program_id": "ttkb:PID:1971",
+      "title": "[TYMM] Hayat Bilgisi Dersi (1-3) (2024)",
+      "year": 2024,
+      "level": "ilkokul",
+      "grade_range": [
+        1,
+        3
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025825154255361-hayat%20bilgisi.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1975": {
+      "program_id": "ttkb:PID:1975",
+      "title": "[TYMM] İnsan Hakları, Vatandaşlık ve Demokrasi (4. Sınıf) (2024)",
+      "year": 2024,
+      "level": "ilkokul",
+      "grade_range": [
+        4,
+        4
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025825154829877-insan%20haklar%C4%B1%20vatanda%C5%9Fl%C4%B1k.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:2005": {
+      "program_id": "ttkb:PID:2005",
+      "title": "[TYMM] Trafik Güvenliği Dersi (4. Sınıf) (2025)",
+      "year": 2025,
+      "level": "ilkokul",
+      "grade_range": [
+        4,
+        4
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025829164512920-trafik%20pdf.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1944": {
+      "program_id": "ttkb:PID:1944",
+      "title": "[TYMM] Beden Eğitimi ve Oyun Dersi (1-4) (2025)",
+      "year": 2025,
+      "level": "ilkokul",
+      "grade_range": [
+        1,
+        4
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582511143139-Beden%20E%C4%9Fitimi%20ve%20Oyun%20Dersi%20%C3%96%C4%9Fretim%20Program%C4%B1-23.07.2025.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:2043": {
+      "program_id": "ttkb:PID:2043",
+      "title": "[TYMM] Görsel Sanatlar Dersi (1-8) (2025)",
+      "year": 2025,
+      "level": "temel_egitim",
+      "grade_range": [
+        1,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025101416114957-g%C3%B6rselsanat.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1924": {
+      "program_id": "ttkb:PID:1924",
+      "title": "[TYMM] Müzik Dersi (1-8) (2025)",
+      "year": 2025,
+      "level": "temel_egitim",
+      "grade_range": [
+        1,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025819135241760-m%C3%BCzik18d%C3%B6p.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1970": {
+      "program_id": "ttkb:PID:1970",
+      "title": "[TYMM] Fen Bilimleri Dersi (3-8) (2024)",
+      "year": 2024,
+      "level": "temel_egitim",
+      "grade_range": [
+        3,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025825154137627-fen%20bilimleri.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1981": {
+      "program_id": "ttkb:PID:1981",
+      "title": "[TYMM] Sosyal Bilgiler Dersi (4-7) (2024)",
+      "year": 2024,
+      "level": "ortaokul",
+      "grade_range": [
+        4,
+        7
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582516728345-sosyal%20bilgiler.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1979": {
+      "program_id": "ttkb:PID:1979",
+      "title": "[TYMM] Ortaokul Türkçe Dersi (5-8) (2024)",
+      "year": 2024,
+      "level": "ortaokul",
+      "grade_range": [
+        5,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582516532361-ortaokul%20t%C3%BCrk%C3%A7e.pdf",
+      "source_portal": "TTKB",
+      "notes": [
+        "Bu PDF bağlantısı portaldaki indir linkinden alınmıştır (bazı ortamlarda URL kodlaması nedeniyle otomatik çekim hatası görülebilir)."
+      ]
+    },
+    "ttkb:PID:1978": {
+      "program_id": "ttkb:PID:1978",
+      "title": "[TYMM] Ortaokul Matematik Dersi (5-8) (2024)",
+      "year": 2024,
+      "level": "ortaokul",
+      "grade_range": [
+        5,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582516434252-ortaokul%20matematik.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1969": {
+      "program_id": "ttkb:PID:1969",
+      "title": "[TYMM] Din Kültürü ve Ahlak Bilgisi (4-8) (2024)",
+      "year": 2024,
+      "level": "temel_egitim",
+      "grade_range": [
+        4,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025825154011486-din%20k%C3%BClt%C3%BCr%C3%BC%204_8.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:2024": {
+      "program_id": "ttkb:PID:2024",
+      "title": "[TYMM] Bilişim Teknolojileri ve Yazılım Dersi (5-6) (2025)",
+      "year": 2025,
+      "level": "ortaokul",
+      "grade_range": [
+        5,
+        6
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202591115327350-bili%C5%9Fim%20d%C3%B6p.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1903": {
+      "program_id": "ttkb:PID:1903",
+      "title": "[TYMM] İngilizce Dersi (2-8) (2025)",
+      "year": 2025,
+      "level": "temel_egitim",
+      "grade_range": [
+        2,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202591011405337-26-08-ekli-english-regular.pdf",
+      "source_portal": "TTKB",
+      "notes": [
+        "Bu PDF bağlantısı portaldaki indir linkinden alınmıştır (bazı ortamlarda otomatik çekim hatası görülebilir)."
+      ]
+    },
+    "ttkb:PID:1974": {
+      "program_id": "ttkb:PID:1974",
+      "title": "[TYMM] T.C. İnkılap Tarihi ve Atatürkçülük (8. Sınıf) (2024)",
+      "year": 2024,
+      "level": "ortaokul",
+      "grade_range": [
+        8,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025825154713595-ink%C4%B1lap%208.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1946": {
+      "program_id": "ttkb:PID:1946",
+      "title": "[TYMM] Beden Eğitimi ve Spor (5-8) (2025)",
+      "year": 2025,
+      "level": "ortaokul",
+      "grade_range": [
+        5,
+        8
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025825113012649-Beden%20E%C4%9Fitimi%20ve%20Spor%20Dersi%20%C3%96%C4%9Fretim%20Program%C4%B1-23.07.2025.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1994": {
+      "program_id": "ttkb:PID:1994",
+      "title": "[TYMM] Türk Dili ve Edebiyatı (Hazırlık, 9-12) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/20258269564464-t%C3%BCrk%20dili%20edebiyat%C4%B1.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1991": {
+      "program_id": "ttkb:PID:1991",
+      "title": "[TYMM] Matematik (Hazırlık, 9-12) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582695225533-matematik.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1987": {
+      "program_id": "ttkb:PID:1987",
+      "title": "[TYMM] Fizik (9-12) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582694751283-fizik.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1989": {
+      "program_id": "ttkb:PID:1989",
+      "title": "[TYMM] Kimya (9-12) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/20258269501949-kimya.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1983": {
+      "program_id": "ttkb:PID:1983",
+      "title": "[TYMM] Biyoloji (9-12) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582694327111-biyoloji.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1993": {
+      "program_id": "ttkb:PID:1993",
+      "title": "[TYMM] Tarih (9-11) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        11
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582695425908-tarih.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1984": {
+      "program_id": "ttkb:PID:1984",
+      "title": "[TYMM] Coğrafya (9-12) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582694459330-co%C4%9Frafya.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1986": {
+      "program_id": "ttkb:PID:1986",
+      "title": "[TYMM] Felsefe (10-11) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        10,
+        11
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/20258269475986-felsefe.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1985": {
+      "program_id": "ttkb:PID:1985",
+      "title": "[TYMM] Din Kültürü ve Ahlak Bilgisi (9-12) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582694611611-din%20k%C3%BClt%C3%BCr%C3%BC%209_12.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1906": {
+      "program_id": "ttkb:PID:1906",
+      "title": "[TYMM] Ortaöğretim İngilizce (9-12) (2025)",
+      "year": 2025,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202591214813382-ingilizce912.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1955": {
+      "program_id": "ttkb:PID:1955",
+      "title": "[TYMM] Ortaöğretim Beden Eğitimi ve Spor (Hazırlık, 9-12) (2025)",
+      "year": 2025,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025826135315128-BEDEN%20E%C4%9E%C4%B0T%C4%B0M%20PROGRAM-21.07.2025%20.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:2003": {
+      "program_id": "ttkb:PID:2003",
+      "title": "[TYMM] Ortaöğretim Görsel Sanatlar (Hazırlık, 9-12) (2025)",
+      "year": 2025,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/2025912101051975-g%C3%B6rsel912.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:2025": {
+      "program_id": "ttkb:PID:2025",
+      "title": "[TYMM] Ortaöğretim Müzik (Hazırlık, 9-12) (2025)",
+      "year": 2025,
+      "level": "ortaogretim",
+      "grade_range": [
+        9,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202591210020850-m%C3%BCzikprogram912.pdf",
+      "source_portal": "TTKB"
+    },
+    "ttkb:PID:1988": {
+      "program_id": "ttkb:PID:1988",
+      "title": "[TYMM] T.C. İnkılap Tarihi ve Atatürkçülük (12. Sınıf) (2024)",
+      "year": 2024,
+      "level": "ortaogretim",
+      "grade_range": [
+        12,
+        12
+      ],
+      "download_url": "https://mufredat.meb.gov.tr/Dosyalar/202582694932783-ink%C4%B1lap%2012.pdf",
+      "source_portal": "TTKB"
+    }
+  },
+  "grade_subjects": {
+    "okul_oncesi": {
+      "age_bands_months": [
+        "36-48",
+        "48-60",
+        "60-72"
+      ],
+      "domains_tr": [
+        "Türkçe",
+        "Matematik",
+        "Fen",
+        "Sosyal",
+        "Hareket ve Sağlık",
+        "Sanat",
+        "Müzik"
+      ],
+      "program_id": "ttkb:PID:1977",
+      "outcomes": [],
+      "notes": [
+        "Okul öncesinde çıktı/alt çıktı matrisi yaş aralıklarına göre eklerde yer alır."
+      ]
+    },
+    "1": [
+      {
+        "subject_code": "TR",
+        "name_tr": "Türkçe",
+        "program_id": "ttkb:PID:1973",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1972",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "HB",
+        "name_tr": "Hayat Bilgisi",
+        "program_id": "ttkb:PID:1971",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Oyun",
+        "program_id": "ttkb:PID:1944",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2043",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:1924",
+        "mandatory": true,
+        "outcomes": []
+      }
+    ],
+    "2": [
+      {
+        "subject_code": "TR",
+        "name_tr": "Türkçe",
+        "program_id": "ttkb:PID:1973",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1972",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "HB",
+        "name_tr": "Hayat Bilgisi",
+        "program_id": "ttkb:PID:1971",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1903",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Oyun",
+        "program_id": "ttkb:PID:1944",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2043",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:1924",
+        "mandatory": true,
+        "outcomes": []
+      }
+    ],
+    "3": [
+      {
+        "subject_code": "TR",
+        "name_tr": "Türkçe",
+        "program_id": "ttkb:PID:1973",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1972",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "HB",
+        "name_tr": "Hayat Bilgisi",
+        "program_id": "ttkb:PID:1971",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SCI",
+        "name_tr": "Fen Bilimleri",
+        "program_id": "ttkb:PID:1970",
+        "mandatory": true,
+        "outcomes": [],
+        "notes": [
+          "3. sınıfta Fen Bilimleri programı başlar."
+        ]
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1903",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Oyun",
+        "program_id": "ttkb:PID:1944",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2043",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:1924",
+        "mandatory": true,
+        "outcomes": []
+      }
+    ],
+    "4": [
+      {
+        "subject_code": "TR",
+        "name_tr": "Türkçe",
+        "program_id": "ttkb:PID:1973",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1972",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SCI",
+        "name_tr": "Fen Bilimleri",
+        "program_id": "ttkb:PID:1970",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SS",
+        "name_tr": "Sosyal Bilgiler",
+        "program_id": "ttkb:PID:1981",
+        "mandatory": true,
+        "outcomes": [],
+        "notes": [
+          "Sosyal Bilgiler programı 4-7. sınıfları kapsar."
+        ]
+      },
+      {
+        "subject_code": "CIV",
+        "name_tr": "İnsan Hakları, Vatandaşlık ve Demokrasi",
+        "program_id": "ttkb:PID:1975",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1969",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1903",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "TRAF",
+        "name_tr": "Trafik Güvenliği",
+        "program_id": "ttkb:PID:2005",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Oyun",
+        "program_id": "ttkb:PID:1944",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2043",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:1924",
+        "mandatory": true,
+        "outcomes": []
+      }
+    ],
+    "5": [
+      {
+        "subject_code": "TR",
+        "name_tr": "Türkçe",
+        "program_id": "ttkb:PID:1979",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1978",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SCI",
+        "name_tr": "Fen Bilimleri",
+        "program_id": "ttkb:PID:1970",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SS",
+        "name_tr": "Sosyal Bilgiler",
+        "program_id": "ttkb:PID:1981",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1969",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1903",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ICT",
+        "name_tr": "Bilişim Teknolojileri ve Yazılım",
+        "program_id": "ttkb:PID:2024",
+        "mandatory": true,
+        "outcomes": [],
+        "grades": [
+          5,
+          6
+        ],
+        "notes": [
+          "Program 5-6 için tanımlıdır."
+        ]
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Spor",
+        "program_id": "ttkb:PID:1946",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2043",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:1924",
+        "mandatory": true,
+        "outcomes": []
+      }
+    ],
+    "6": [
+      {
+        "subject_code": "TR",
+        "name_tr": "Türkçe",
+        "program_id": "ttkb:PID:1979",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1978",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SCI",
+        "name_tr": "Fen Bilimleri",
+        "program_id": "ttkb:PID:1970",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SS",
+        "name_tr": "Sosyal Bilgiler",
+        "program_id": "ttkb:PID:1981",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1969",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1903",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ICT",
+        "name_tr": "Bilişim Teknolojileri ve Yazılım",
+        "program_id": "ttkb:PID:2024",
+        "mandatory": true,
+        "outcomes": [],
+        "grades": [
+          5,
+          6
+        ]
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Spor",
+        "program_id": "ttkb:PID:1946",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2043",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:1924",
+        "mandatory": true,
+        "outcomes": []
+      }
+    ],
+    "7": [
+      {
+        "subject_code": "TR",
+        "name_tr": "Türkçe",
+        "program_id": "ttkb:PID:1979",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1978",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SCI",
+        "name_tr": "Fen Bilimleri",
+        "program_id": "ttkb:PID:1970",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SS",
+        "name_tr": "Sosyal Bilgiler",
+        "program_id": "ttkb:PID:1981",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1969",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1903",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Spor",
+        "program_id": "ttkb:PID:1946",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2043",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:1924",
+        "mandatory": true,
+        "outcomes": []
+      }
+    ],
+    "8": [
+      {
+        "subject_code": "TR",
+        "name_tr": "Türkçe",
+        "program_id": "ttkb:PID:1979",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1978",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "SCI",
+        "name_tr": "Fen Bilimleri",
+        "program_id": "ttkb:PID:1970",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "HIST_TR",
+        "name_tr": "T.C. İnkılap Tarihi ve Atatürkçülük",
+        "program_id": "ttkb:PID:1974",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1969",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1903",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Spor",
+        "program_id": "ttkb:PID:1946",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2043",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:1924",
+        "mandatory": true,
+        "outcomes": []
+      }
+    ],
+    "9": [
+      {
+        "subject_code": "TDE",
+        "name_tr": "Türk Dili ve Edebiyatı",
+        "program_id": "ttkb:PID:1994",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1991",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PHY",
+        "name_tr": "Fizik",
+        "program_id": "ttkb:PID:1987",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "CHEM",
+        "name_tr": "Kimya",
+        "program_id": "ttkb:PID:1989",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "BIO",
+        "name_tr": "Biyoloji",
+        "program_id": "ttkb:PID:1983",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "HIST",
+        "name_tr": "Tarih",
+        "program_id": "ttkb:PID:1993",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "GEO",
+        "name_tr": "Coğrafya",
+        "program_id": "ttkb:PID:1984",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1985",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1906",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Spor",
+        "program_id": "ttkb:PID:1955",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2003",
+        "mandatory": false,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:2025",
+        "mandatory": false,
+        "outcomes": []
+      }
+    ],
+    "10": [
+      {
+        "subject_code": "TDE",
+        "name_tr": "Türk Dili ve Edebiyatı",
+        "program_id": "ttkb:PID:1994",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1991",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PHY",
+        "name_tr": "Fizik",
+        "program_id": "ttkb:PID:1987",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "CHEM",
+        "name_tr": "Kimya",
+        "program_id": "ttkb:PID:1989",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "BIO",
+        "name_tr": "Biyoloji",
+        "program_id": "ttkb:PID:1983",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "HIST",
+        "name_tr": "Tarih",
+        "program_id": "ttkb:PID:1993",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "GEO",
+        "name_tr": "Coğrafya",
+        "program_id": "ttkb:PID:1984",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PHIL",
+        "name_tr": "Felsefe",
+        "program_id": "ttkb:PID:1986",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1985",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1906",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Spor",
+        "program_id": "ttkb:PID:1955",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2003",
+        "mandatory": false,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:2025",
+        "mandatory": false,
+        "outcomes": []
+      }
+    ],
+    "11": [
+      {
+        "subject_code": "TDE",
+        "name_tr": "Türk Dili ve Edebiyatı",
+        "program_id": "ttkb:PID:1994",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1991",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PHY",
+        "name_tr": "Fizik",
+        "program_id": "ttkb:PID:1987",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "CHEM",
+        "name_tr": "Kimya",
+        "program_id": "ttkb:PID:1989",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "BIO",
+        "name_tr": "Biyoloji",
+        "program_id": "ttkb:PID:1983",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "HIST",
+        "name_tr": "Tarih",
+        "program_id": "ttkb:PID:1993",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "GEO",
+        "name_tr": "Coğrafya",
+        "program_id": "ttkb:PID:1984",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PHIL",
+        "name_tr": "Felsefe",
+        "program_id": "ttkb:PID:1986",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1985",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1906",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Spor",
+        "program_id": "ttkb:PID:1955",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2003",
+        "mandatory": false,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:2025",
+        "mandatory": false,
+        "outcomes": []
+      }
+    ],
+    "12": [
+      {
+        "subject_code": "TDE",
+        "name_tr": "Türk Dili ve Edebiyatı",
+        "program_id": "ttkb:PID:1994",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MATH",
+        "name_tr": "Matematik",
+        "program_id": "ttkb:PID:1991",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PHY",
+        "name_tr": "Fizik",
+        "program_id": "ttkb:PID:1987",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "CHEM",
+        "name_tr": "Kimya",
+        "program_id": "ttkb:PID:1989",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "BIO",
+        "name_tr": "Biyoloji",
+        "program_id": "ttkb:PID:1983",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "GEO",
+        "name_tr": "Coğrafya",
+        "program_id": "ttkb:PID:1984",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "HIST_TR",
+        "name_tr": "T.C. İnkılap Tarihi ve Atatürkçülük",
+        "program_id": "ttkb:PID:1988",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "REL",
+        "name_tr": "Din Kültürü ve Ahlak Bilgisi",
+        "program_id": "ttkb:PID:1985",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "EN",
+        "name_tr": "İngilizce",
+        "program_id": "ttkb:PID:1906",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "PE",
+        "name_tr": "Beden Eğitimi ve Spor",
+        "program_id": "ttkb:PID:1955",
+        "mandatory": true,
+        "outcomes": []
+      },
+      {
+        "subject_code": "ART",
+        "name_tr": "Görsel Sanatlar",
+        "program_id": "ttkb:PID:2003",
+        "mandatory": false,
+        "outcomes": []
+      },
+      {
+        "subject_code": "MUS",
+        "name_tr": "Müzik",
+        "program_id": "ttkb:PID:2025",
+        "mandatory": false,
+        "outcomes": []
+      }
+    ]
+  },
+  "population_guidance": {
+    "where_to_get_official_text": "TTKB Müfredat Portalı'ndaki ilgili program PDF'leri",
+    "recommended_storage": "outcomes[] alanına kendi sisteminizde ürettiğiniz outcome_id + sayfa referansı ile ekleyin; metin gerekiyorsa kurumunuzun telif politikasına göre ekleyin.",
+    "hint": "TYMM öğretim programlarında kazanımlar genellikle 'Öğrenme Çıktıları' başlığıyla geçer."
+  }
+}
