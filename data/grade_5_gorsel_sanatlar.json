@@ -1,0 +1,975 @@
+[
+  {
+    "outcome_id": "ART:5:GS.5.1.1",
+    "code": "GS.5.1.1",
+    "statement": "Edebî metinlerden ve yazı düzeninden faydalanarak çevre duyarlılığını yansıtan resimleme yapabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "HAYAT VE SANAT",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 4,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:SDB1.1",
+    "code": "SDB1.1",
+    "statement": "Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.3. Sosyal Farkındalık",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "HAYAT VE SANAT",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 8,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 12,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 14,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 24,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 37,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 8,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 12,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 14,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 24,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 37,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.1.1.1",
+    "code": "GS.1.1.1",
+    "statement": "Çevresindeki nesnelerin renklerini ve geometrik şekillerini algılayabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "HAYAT VE SANAT",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 5,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.1.1.2",
+    "code": "GS.1.1.2",
+    "statement": "Farklı renkler ve geometrik şekillerdeki doğal ve yapay malzemelerle kolaj yapabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "HAYAT VE SANAT",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 7,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.2.1",
+    "code": "GS.5.2.1",
+    "statement": "Anadolu Türk kültürüne ait motiflerdeki görsel mesajları okuyabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "SANATIN GÖRSEL DİLİ",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 8,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 8,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.2.2",
+    "code": "GS.5.2.2",
+    "statement": "Anadolu Türk kültürüne ait estetik motiflerle kolaj yapabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "SANATIN GÖRSEL DİLİ",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 10,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 11,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 10,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 11,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.3.1",
+    "code": "GS.5.3.1",
+    "statement": "Geleneksel minyatürlerle minyatür etkisi taşıyan çağdaş sanat eserlerini karşılaştırmalı olarak inceleyebilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "SANATÇILAR VE ESERLERİ",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 12,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 14,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 12,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 14,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.3.2",
+    "code": "GS.5.3.2",
+    "statement": "Tarihî ve mitolojik konularda minyatür özelliği gösteren sanatsal üretim yapabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "SANATÇILAR VE ESERLERİ",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 15,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 17,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 15,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 17,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.4.1",
+    "code": "GS.5.4.1",
+    "statement": "Doğal nesnelerin doku özelliklerini yansıtan desen yapabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "ÇİZİM VE GÖRSEL İFADE",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 18,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 19,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 21,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 22,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 18,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 19,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 21,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 22,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:SDB1.2",
+    "code": "SDB1.2",
+    "statement": "Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "ÇİZİM VE GÖRSEL İFADE",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 18,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 32,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 18,
+        "col": 9
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 32,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.5.1",
+    "code": "GS.5.5.1",
+    "statement": "Doğal ve yapay nesnelerin doku özelliklerini yansıtan iki renkli natürmort yapabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "RENK VE ESTETİK",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 24,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 26,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 27,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 28,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 24,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 26,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 27,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 28,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.6.1",
+    "code": "GS.5.6.1",
+    "statement": "Millî bayramlarla ilgili değerleri geleneksel çocuk oyunlarıyla ilişkilendirerek sanatsal üretim yapabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "MİLLÎ DEĞERLER VE SANAT",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 32,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 33,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 34,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 35,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 32,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 33,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 34,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 35,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.7.1",
+    "code": "GS.5.7.1",
+    "statement": "Sergileme mekânlarına göre müzeleri karşılaştırabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "MÜZE VE KÜLTÜR",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 38,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:GS.5.7.2",
+    "code": "GS.5.7.2",
+    "statement": "Okulunda arkeoloji müzesi yapabilme",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": "MÜZE VE KÜLTÜR",
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 39,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 40,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 41,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR  DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 42,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 39,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 40,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 41,
+        "col": 6
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 42,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:135aff715a",
+    "code": null,
+    "statement": "HAYAT VE SANAT",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 7,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:e36482a2d3",
+    "code": null,
+    "statement": "SANATIN GÖRSEL DİLİ",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 8,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 9,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 10,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 11,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:e70c53717e",
+    "code": null,
+    "statement": "SANATÇILAR VE ESERLERİ",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 12,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 14,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 15,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 16,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 17,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:a7c2a7c0e6",
+    "code": null,
+    "statement": "ÇİZİM VE GÖRSEL İFADE",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 18,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 19,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 20,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 21,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 22,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:ca7fb15ad9",
+    "code": null,
+    "statement": "RENK VE ESTETİK",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 24,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 25,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 26,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 27,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 28,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:860b92647f",
+    "code": null,
+    "statement": "SOSYAL ETKİNLİK",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 29,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 31,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:97b7d4f15c",
+    "code": null,
+    "statement": "MİLLÎ DEĞERLER VE SANAT",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 32,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 33,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 34,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 35,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:e8b789a72f",
+    "code": null,
+    "statement": "OKUL TEMELLİ PLANLAMA*",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 36,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 43,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 44,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "ART:5:bcd7f9af2a",
+    "code": null,
+    "statement": "MÜZE VE KÜLTÜR",
+    "grade": "5",
+    "subject_code": "ART",
+    "subject_name": "Görsel Sanatlar",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 37,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 38,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 39,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 40,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 41,
+        "col": 4
+      },
+      {
+        "file": "Görsel Sanatlar Dersi Yıllık Planlar-/TYMM GÖRSEL SANATLAR DERSİ 1. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "5. sınıf",
+        "row": 42,
+        "col": 4
+      }
+    ]
+  }
+]

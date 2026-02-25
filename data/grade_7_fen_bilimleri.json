@@ -1,0 +1,787 @@
+[
+  {
+    "outcome_id": "SCI:7:F.7.1.1.1",
+    "code": "F.7.1.1.1",
+    "statement": "Uzay teknolojilerini açıklar. F.7.1.1.2. Uzay kirliliğinin nedenlerini ifade ederek bu kirliliğin yol açabileceği olası sonuçları tahmin eder. F.7.1.1.3. Teknoloji ile uzay araştırmaları arasındaki ilişkiyi açıklar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 3,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:7eee7840c5",
+    "code": null,
+    "statement": "Okul dışı öğrenme etkinlikleri, ders yılı başı okul zümre öğretmenleri toplantısında belirlenecektir.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 3,
+        "col": 11
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.1.1.4",
+    "code": "F.7.1.1.4",
+    "statement": "Teleskobun yapısını ve ne işe yaradığını açıklar. F.7.1.1.5. Teleskobun gök bilimin gelişimindeki önemine yönelik çıkarımda bulunur. F.7.1.1.6. Basit bir teleskop modeli hazırlayarak sunar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 4,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.1.2.1",
+    "code": "F.7.1.2.1",
+    "statement": "Yıldız oluşum sürecinin farkına varır. F.7.1.2.2. Yıldız kavramını açıklar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 5,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.1.2.3",
+    "code": "F.7.1.2.3",
+    "statement": "Galaksilerin yapısını açıklar. F.7.1.2.4. Evren kavramını açıklar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 6,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.2.1.1",
+    "code": "F.7.2.1.1",
+    "statement": "Hayvan ve bitki hücrelerini, temel kısımları ve görevleri açısından karşılaştırır. F.7.2.1.2. Geçmişten günümüze, hücrenin yapısı ile ilgili görüşleri teknolojik gelişmelerle ilişkilendirerek tartışır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 7,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.2.1.3",
+    "code": "F.7.2.1.3",
+    "statement": "Hücre-doku-organ-sistem-organizma ilişkisini açıklar. F.7.2.2.1. Mitozun canlılar için önemini açıklar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 8,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 8,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.2.2.2",
+    "code": "F.7.2.2.2",
+    "statement": "Mitozun birbirini takip eden farklı evrelerden oluştuğunu açıklar. F.7.2.3.1. Mayozun canlılar için önemini açıklar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 9,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.2.3.2",
+    "code": "F.7.2.3.2",
+    "statement": "Üreme ana hücrelerinde mayozun nasıl gerçekleştiğini model üzerinde gösterir. F.7.2.3.3. Mayoz ve mitoz arasındaki farkları karşılaştırır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 10,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 10,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.3.1.1",
+    "code": "F.7.3.1.1",
+    "statement": "Kütleye etki eden yer çekimi kuvvetini ağırlık olarak adlandırır. F.7.3.1.2. Kütle ve ağırlık kavramlarını karşılaştırır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 11,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 11,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.3.1.3",
+    "code": "F.7.3.1.3",
+    "statement": "Yer çekimini kütle çekimi olarak gök cisimleri temelinde açıklar. F.7.3.2.1. Fiziksel anlamda yapılan işin, uygulanan kuvvet ve alınan yolla ilişkili olduğunu açıklar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 14,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 14,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.3.2.2",
+    "code": "F.7.3.2.2",
+    "statement": "Enerjiyi iş kavramı ile ilişkilendirerek, kinetik ve potansiyel enerji olarak sınıflandırır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 15,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 15,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.3.3.1",
+    "code": "F.7.3.3.1",
+    "statement": "Kinetik ve potansiyel enerji türlerinin birbirine dönüşümünden hareketle enerjinin korunduğu sonucunu çıkarır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 16,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.3.3.2",
+    "code": "F.7.3.3.2",
+    "statement": "Sürtünme kuvvetinin kinetik enerji üzerindeki etkisini örneklerle açıklar. F.7.3.3.3. Hava veya su direncinin etkisini azaltmaya yönelik bir araç tasarlar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 17,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 17,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.4.1.1",
+    "code": "F.7.4.1.1",
+    "statement": "Atomun yapısını ve yapısındaki temel parçacıklarını söyler. F.7.4.1.2. Geçmişten günümüze atom kavramı ile ilgili düşüncelerin nasıl değiştiğini sorgular.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 19,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.4.1.2",
+    "code": "F.7.4.1.2",
+    "statement": "a. Atom teorileri ile ilgili ayrıntıya girilmez. b. Bilimsel bilginin zamanla değişebileceğine vurgu yapılır. c. Bilimsel bilgi türlerinden teori hakkında genel bilgi verilir.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 19,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.4.1.3",
+    "code": "F.7.4.1.3",
+    "statement": "Aynı veya farklı atomların bir araya gelerek molekül oluşturacağını ifade eder. F.7.4.1.4. Çeşitli molekül modelleri oluşturarak sunar. F.7.4.2.1. Saf maddeleri, element ve bileşik olarak sınıflandırarak örnekler verir.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 21,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.4.2.2",
+    "code": "F.7.4.2.2",
+    "statement": "Periyodik sistemdeki ilk 18 elementin ve yaygın elementlerin (altın, gümüş, bakır, çinko, kurşun, civa, platin, demir ve iyot) isimlerini, sembollerini ve bazı kullanım alanlarını ifade eder. F.7.4.2.3. Yaygın bileşiklerin formüllerini, isimlerini ve bazı kullanım alanlarını ifade eder.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 22,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.4.3.1",
+    "code": "F.7.4.3.1",
+    "statement": "Karışımları, homojen ve heterojen olarak sınıflandırarak örnekler verir. F.7.4.3.2. Günlük yaşamda karşılaştığı çözücü ve çözünenleri kullanarak çözelti hazırlar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 23,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 23,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.4.3.3",
+    "code": "F.7.4.3.3",
+    "statement": "Çözünme hızına etki eden faktörleri deney yaparak belirler. F.7.4.4.1. Karışımların ayrılması için kullanılabilecek yöntemlerden uygun olanı seçerek uygular.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 24,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 24,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.4.4.1",
+    "code": "F.7.4.4.1",
+    "statement": "Karışımların ayrılması için kullanılabilecek yöntemlerden uygun olanı seçerek uygular. F.7.4.5.1. Evsel atıklarda geri dönüştürülebilen ve dönüştürülemeyen maddeleri ayırt eder. F.7.4.5.2. Evsel katı ve sıvı atıkların geri dönüşümüne ilişkin proje tasarlar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 27,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 27,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.4.5.3",
+    "code": "F.7.4.5.3",
+    "statement": "Geri dönüşümü, kaynakların etkili kullanımı açısından sorgular. F.7.4.5.4. Yakın çevresinde atık kontrolüne özen gösterir. F.7.4.5.5. Yeniden kullanılabilecek eşyalarını, ihtiyacı olanlara iletmeye yönelik proje geliştirir.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 28,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 28,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.5.1.1",
+    "code": "F.7.5.1.1",
+    "statement": "Işığın madde ile etkileşimi sonucunda madde tarafından soğurulabileceğini keşfeder. F.7.5.1.2. Beyaz ışığın tüm ışık renklerinin bileşiminden oluştuğu sonucunu çıkarır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 29,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.5.1.3",
+    "code": "F.7.5.1.3",
+    "statement": "Gözlemleri sonucunda cisimlerin, siyah, beyaz ve renkli görünmesinin nedenini, ışığın yansıması ve soğurulmasıyla ilişkilendirir. F.7.5.1.4. Güneş enerjisinin günlük yaşam ve teknolojideki yenilikçi uygulamalarına örnekler verir.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 30,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 30,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.5.1.5",
+    "code": "F.7.5.1.5",
+    "statement": "Güneş enerjisinden gelecekte nasıl yararlanılacağına ilişkin ürettiği fikirleri tartışır. F.7.5.2.1. Ayna çeşitlerini gözlemleyerek kullanım alanlarına örnekler verir.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 31,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.5.2.2",
+    "code": "F.7.5.2.2",
+    "statement": "Düz, çukur ve tümsek aynalarda oluşan görüntüleri karşılaştırır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 32,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 32,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.5.3.1",
+    "code": "F.7.5.3.1",
+    "statement": "Ortam değiştiren ışığın izlediği yolu gözlemleyerek kırılma olayının sebebini ortam değişikliği ile ilişkilendirir. F.7.5.3.2. Işığın kırılmasını, ince ve kalın kenarlı mercekler kullanarak deneyle gözlemler.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 35,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 35,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.5.3.3",
+    "code": "F.7.5.3.3",
+    "statement": "İnce ve kalın kenarlı merceklerin odak noktalarını deneyerek belirler. F.7.5.3.4. Merceklerin günlük yaşam ve teknolojideki kullanım alanlarına örnekler verir.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 36,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 36,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.5.3.5",
+    "code": "F.7.5.3.5",
+    "statement": "Ayna veya mercekleri kullanarak bir görüntüleme aracı tasarlar. F.7.6.1.1. İnsanda üremeyi sağlayan yapı ve organları şema üzerinde göstererek açıklar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 37,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.6.1.2",
+    "code": "F.7.6.1.2",
+    "statement": "Sperm, yumurta, zigot, embriyo, fetüs ve bebek arasındaki ilişkiyi açıklar. F.7.6.1.3. Embriyonun sağlıklı gelişebilmesi için alınması gereken tedbirleri, araştırma verilerine dayalı olarak tartışır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 38,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.6.2.1",
+    "code": "F.7.6.2.1",
+    "statement": "Bitki ve hayvanlardaki üreme çeşitlerini karşılaştırır.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 40,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 40,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.6.2.2",
+    "code": "F.7.6.2.2",
+    "statement": "Bitki ve hayvanlardaki büyüme ve gelişme süreçlerini örnekler vererek açıklar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 41,
+        "col": 6
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 41,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.6.2.3",
+    "code": "F.7.6.2.3",
+    "statement": "Bitki ve hayvanlarda büyüme ve gelişmeye etki eden temel faktörleri açıklar. F.7.6.2.4. Bir bitki veya hayvanın bakımını üstlenir ve gelişim sürecini rapor eder.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 42,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.7.1.1",
+    "code": "F.7.7.1.1",
+    "statement": "Seri ve paralel bağlı ampullerden oluşan bir devre şeması çizer. F.7.7.1.2. Ampullerin seri ve paralel bağlandığı durumlardaki parlaklıklarını devre üzerinde gözlemleyerek çıkarımda bulunur. F.7.7.1.3. Elektrik akımını tanımlar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 43,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.7.1.4",
+    "code": "F.7.7.1.4",
+    "statement": "Elektrik enerjisinin devrelere akım yoluyla aktarıldığını açıklar. F.7.7.1.5. Bir devre elemanının uçları arasındaki gerilim ile üzerinden geçen akımı ilişkilendirir. F.7.7.1.6. Özgün bir aydınlatma aracı tasarlar.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 44,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:F.7.7.1.5",
+    "code": "F.7.7.1.5",
+    "statement": "a. Gerilim kavramı piller üzerinden açıklanır. b. Bir iletkende gerilim, akım ve direnç arasındaki ilişki Ohm Yasası üzerinden açıklanır. Matematiksel hesaplamalara girilmez. F.7.7.1.6. Öncelikle tasarımını çizimle ifade etmesi istenir. Şartlar uygunsa üç boyutlu modele dönüştürmesi istenebilir.",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 44,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "SCI:7:bc62fddc1e",
+    "code": null,
+    "statement": "Öğrencilerin yıl içerisinde ortaya çıkardıkları ürünü etkili bir şekilde sunmaları",
+    "grade": "7",
+    "subject_code": "SCI",
+    "subject_name": "Fen Bilimleri",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 46,
+        "col": 7
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 47,
+        "col": 7
+      },
+      {
+        "file": "Fen Bilimleri Dersi Taslak Yıllık Planlar/2025-2026 FEN BİLİMLERİ ÇERÇEVE YILLIK PLAN (3-8).xlsx",
+        "sheet": "FEN BİLİMLERİ 7",
+        "row": 49,
+        "col": 7
+      }
+    ]
+  }
+]

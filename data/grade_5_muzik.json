@@ -1,0 +1,800 @@
+[
+  {
+    "outcome_id": "MUS:5:MÜZ.1.1.1",
+    "code": "MÜZ.1.1.1",
+    "statement": "İstiklâl Marşı’nın başlıca ögelerini çözümleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 5,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:SDB2.1",
+    "code": "SDB2.1",
+    "statement": "İletişim Becerisi SDB2.2. İş Birliği Becerisi",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 14,
+        "col": 9
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 14,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.1.2",
+    "code": "MÜZ.1.1.2",
+    "statement": "Doğadan/çevreden/nesnelerden duyulan seslerin özelliklerini karşılaştırabilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 7,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.1.3",
+    "code": "MÜZ.1.1.3",
+    "statement": "Müziksel dinleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 8,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.1.4",
+    "code": "MÜZ.1.1.4",
+    "statement": "Farklı türdeki eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 10,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 14,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 15,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.1.5",
+    "code": "MÜZ.1.1.5",
+    "statement": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 11,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 12,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.1.6",
+    "code": "MÜZ.1.1.6",
+    "statement": "Ortak repertuvardaki eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 17,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.1.7",
+    "code": "MÜZ.1.1.7",
+    "statement": "Müzik eserlerine bedensel hareketlerle eşlik edebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 18,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 21,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:072e97453c",
+    "code": null,
+    "statement": "MÜZ. 5.1.6. Müzik yazısını çözümleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 19,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 17,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 18,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 19,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.2.1",
+    "code": "MÜZ.1.2.1",
+    "statement": "Müzik dinleme/söyleme kurallarını çözümleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 26,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 27,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:SDB1.1",
+    "code": "SDB1.1",
+    "statement": "Kendini Tanıma (Öz Farkındalık Becerisi) SDB2.1. İletişim Becerisi, SDB2.2. İş Birliği Becerisi SDB2.3. Sosyal Farkındalık Becerisi",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 25,
+        "col": 9
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 32,
+        "col": 9
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 25,
+        "col": 9
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 32,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.2.2",
+    "code": "MÜZ.1.2.2",
+    "statement": "Ritim veren vurmalı çalgıların özelliklerini karşılaştırabilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 28,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 29,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 30,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.2.3",
+    "code": "MÜZ.1.2.3",
+    "statement": "Farklı türdeki eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 32,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 33,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 34,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 35,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 37,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.2.4",
+    "code": "MÜZ.1.2.4",
+    "statement": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 36,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 40,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.2.5",
+    "code": "MÜZ.1.2.5",
+    "statement": "Ortak repertuvardaki eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 39,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.1.2.6",
+    "code": "MÜZ.1.2.6",
+    "statement": "Müzik eserlerine bedensel hareketlerle eşlik edebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 41,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 42,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 1. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK-5",
+        "row": 43,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.1.1",
+    "code": "MÜZ.5.1.1",
+    "statement": "İstiklâl Marşı’nı ezgisine dikkat ederek söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 5,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.1.2",
+    "code": "MÜZ.5.1.2",
+    "statement": "Farklı türdeki eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 8,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.1.4",
+    "code": "MÜZ.5.1.4",
+    "statement": "Ortak repertuvardaki eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 10,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.1.3",
+    "code": "MÜZ.5.1.3",
+    "statement": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 11,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 12,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 15,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.1.5",
+    "code": "MÜZ.5.1.5",
+    "statement": "Müzik eserlerine bedensel hareketlerle eşlik edebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 14,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 16,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.1.7",
+    "code": "MÜZ.5.1.7",
+    "statement": "Güzel sanatlarla ilgili kavramları sınıflandırabilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK DİLİ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 21,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.2.1",
+    "code": "MÜZ.5.2.1",
+    "statement": "Atatürk’ün güzel sanatlara verdiği önemi özetleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 25,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.2.2",
+    "code": "MÜZ.5.2.2",
+    "statement": "Farklı türdeki eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 26,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 27,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 28,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.2.3",
+    "code": "MÜZ.5.2.3",
+    "statement": "Nefesli çalgıların özelliklerini karşılaştırabilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 29,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 32,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.2.5",
+    "code": "MÜZ.5.2.5",
+    "statement": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 30,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 36,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 40,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.2.4",
+    "code": "MÜZ.5.2.4",
+    "statement": "Klavyeli çalgıların özelliklerini karşılaştırabilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 33,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.2.6",
+    "code": "MÜZ.5.2.6",
+    "statement": "Popüler müzik türlerini karşılaştırabilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 34,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 35,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.2.7",
+    "code": "MÜZ.5.2.7",
+    "statement": "Ortak repertuvardaki eserleri söyleyebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 39,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 41,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MUS:5:MÜZ.5.2.8",
+    "code": "MÜZ.5.2.8",
+    "statement": "Müzik eserlerine bedensel hareketlerle eşlik edebilme",
+    "grade": "5",
+    "subject_code": "MUS",
+    "subject_name": "Müzik",
+    "theme_or_unit": "MÜZİK KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 42,
+        "col": 6
+      },
+      {
+        "file": "Müzik Dersi Yıllık Planlar-/TYMM MÜZİK DERSİ 5. SINIF  TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "MÜZİK 5 (TYMM)",
+        "row": 43,
+        "col": 6
+      }
+    ]
+  }
+]

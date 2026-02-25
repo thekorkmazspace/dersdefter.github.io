@@ -1,0 +1,790 @@
+[
+  {
+    "outcome_id": "TR:8:8d7bac5f36",
+    "code": null,
+    "statement": "DİNLEME/İZLEME",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 3,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:518a1175f2",
+    "code": null,
+    "statement": "ERDEMLER",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "ERDEMLER",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 16,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 17,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 18,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 19,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:1e47ea4fac",
+    "code": null,
+    "statement": "Okul dışı öğrenme etkinlikleri, ders yılı başı okul zümre öğretmenleri toplantısında belirlenecektir.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "ERDEMLER",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 4,
+        "col": 13
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 4,
+        "col": 13
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:T.8.1.1",
+    "code": "T.8.1.1",
+    "statement": "Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.8.1.2.Dinlediklerinde/izlediklerinde geçen bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.8.1.3. Dinlediklerini/izlediklerini özetler. T.8.1.4. Dinledikleri/izlediklerine yönelik sorulara cevap verir. T.8.1.5. Dinlediklerinin/izlediklerinin konusunu tespit eder. T.8.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu tespit eder. T.8.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "ERDEMLER",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 30,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:6a9eca3663",
+    "code": null,
+    "statement": "DOĞA VE EVREN",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "DOĞA VE EVREN",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 9,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 11,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 12,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 13,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 40,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 42,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 43,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 44,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:T.8.1.2",
+    "code": "T.8.1.2",
+    "statement": "Dinlediklerinde/izlediklerinde geçen bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.8.1.4. Dinledikleri/izlediklerine yönelik sorulara cevap verir. T.8.1.5. Dinlediklerinin/izlediklerinin konusunu tespit eder. T.8.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu tespit eder. T.8.1.9. Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.8.1.12. Dinlediklerinde/izlediklerinde başvurulan düşünceyi geliştirme yollarını tespit eder. Düşünceyi geliştirme yollarından örneklendirme, tanık gösterme ve sayısal verilerden yararlanma belirlenir. T.8.1.14. Dinleme stratejilerini uygular. Seçici, yaratıcı, eleştirel, empati kurarak, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "DOĞA VE EVREN",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 13,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 19,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 30,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 39,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 44,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 50,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 39,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:8b54cd62ac",
+    "code": null,
+    "statement": "MİLLÎ KÜLTÜRÜMÜZ",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ KÜLTÜRÜMÜZ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 16,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 17,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 18,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 19,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 21,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 23,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 24,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 25,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:T.8.1.13",
+    "code": "T.8.1.13",
+    "statement": "Konuşmacının sözlü olmayan mesajlarını kavrar.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ KÜLTÜRÜMÜZ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 18,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 12,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:919ee83fff",
+    "code": null,
+    "statement": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 21,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 23,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 24,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 25,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 9,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 11,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 12,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 13,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:f9753d2edf",
+    "code": null,
+    "statement": "VATANDAŞLIK",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "VATANDAŞLIK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 27,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 28,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 29,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 30,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:74e00f25e4",
+    "code": null,
+    "statement": "SAĞLIK VE SPOR",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "SAĞLIK VE SPOR",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 32,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 34,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 37,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 39,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 46,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 47,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 49,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 50,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:3ffd486864",
+    "code": null,
+    "statement": "SANAT",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "SANAT",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 40,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 42,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 43,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 44,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:1f40010f28",
+    "code": null,
+    "statement": "BİLİM VE TEKNOLOJİ",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "BİLİM VE TEKNOLOJİ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 46,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 47,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 49,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf Hecce Yayınları",
+        "row": 50,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 27,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:91991f554d",
+    "code": null,
+    "statement": "OKUMA KÜLTÜRÜ",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "OKUMA KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 7,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:T.8.1.14",
+    "code": "T.8.1.14",
+    "statement": "Dinleme stratejilerini uygular. Seçici, yaratıcı, eleştirel, empati kurarak, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "OKUMA KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 5,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:T.8.1.3",
+    "code": "T.8.1.3",
+    "statement": "Dinlediklerini/izlediklerini özetler. T.8.1.4. Dinlediklerine/izlediklerine yönelik sorulara cevap verir. T.8.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.8.1.10. Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir. T.8.1.14. Dinleme stratejilerini uygular. Seçici, yaratıcı, eleştirel, empati kurarak, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "OKUMA KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 7,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:T.8.1.11",
+    "code": "T.8.1.11",
+    "statement": "Dinledikleri/izledikleri medya metinlerini değerlendirir. Medya metinlerinin amacını ve kaynağını sorgulamaları sağlanır.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 11,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:T.8.1.4",
+    "code": "T.8.1.4",
+    "statement": "Dinlediklerine/izlediklerine yönelik sorulara cevap verir. T.8.1.14. Dinleme stratejilerini uygular. Seçici, yaratıcı, eleştirel, empati kurarak, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 13,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 19,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 23,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 44,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 50,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:T.8.1.10",
+    "code": "T.8.1.10",
+    "statement": "Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir.",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "ERDEMLER",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 18,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:0a5b8ed871",
+    "code": null,
+    "statement": "BİLİM VE TEKNOLOJK",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "BİLİM VE TEKNOLOJK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 28,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:c104bc6fdd",
+    "code": null,
+    "statement": "BİLİM VE TEKNOLOJ",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "BİLİM VE TEKNOLOJ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 29,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 30,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:8:f55c092c1b",
+    "code": null,
+    "statement": "DUYGULAR",
+    "grade": "8",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "DUYGULAR",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 32,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 34,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 37,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 8. Sınıf MEB Yayınları",
+        "row": 39,
+        "col": 4
+      }
+    ]
+  }
+]

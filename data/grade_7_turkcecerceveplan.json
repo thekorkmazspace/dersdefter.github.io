@@ -1,0 +1,1724 @@
+[
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta 8-12 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "MARTI"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta 15-19 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "PEYAMİ SAFA'NIN ÖYKÜSÜ"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta 22-26 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "KANATLARIN ALTINDAKİ RÜZGÂR"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta 29 Eylül-3 Ekim",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "NE DİNLEYELİM? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.11. Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak, katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta 6-10 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "OLAMAM"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta 13-17 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "BARIŞ ÇOCUK ATATÜRK'LE KURTULUŞ SAVAŞINDA"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta 20-24 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "ÇANAKKALE SEDDÜLBAHİR KAHRAMANLARI"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "8. Hafta 27-31 Ekim 9. Hafta 3-7 Kasım",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "MUSTAFA KEMAL'İN KAĞNISI (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.14. Konuşmacının sözlü olmayan mesajlarını kavrar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta 17-21 Kasım",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "BİRUNİ"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta 24-28 Kasım",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "JULES VERNE'DEN GELECEĞE DAİR"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta 1-5 Aralık",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YERİN DAYANILMAZ ÇEKİCİLİĞİ"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta 8-12 Aralık",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YAPAY ZEKÂ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.9. Dinlediklerinde/izlediklerinde başvurulan düşünceyi geliştirme yollarını tespit eder. Düşünceyi geliştirme yollarından tanımlama, karşılaştırma ve benzetmenin belirlenmesi sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta 15-19 Aralık",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "İYİLİK ÜZERİNE"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta 22-26 Aralık 16. Hafta 29 Aralık-2 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ÜÇ OĞUL"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta 5-9 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "İNSANLIK GELİP ÇALAR KAPINIZI"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta 12-16 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "YANARDAĞLAR MİSALİ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.3. Dinlediklerini/izlediklerini özetler. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta 2-6 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TÜRKÜLER DOLUSU"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta 9-13 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "NİNEMİN GÖZLERİ"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta 16-20 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "KÖÇÜRME (MANGALA)"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta 23-27 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TÜRK HALK EDEBİYATI: NEŞET ERTAŞ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta 2-6 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "KUŞLARIN GÜZEL EVİ"
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta 9-13 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "TOPRAK"
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta 23-27 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "BEYAZ GEMİ"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta 30 Mart-3 Nisan 27. Hafta 6-10 Nisan",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "İNSANLARI DA KÜÇÜLTEBİLİR MİSİN? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.10. Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta 13-17 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "AZI KARAR ÇOĞU ZARAR"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta 20-24 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "DOĞA YÜRÜYÜŞÜ"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "30. Hafta 27 Nisan-1 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "CANIM ARKADAŞIM"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta 4-8 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "SOL AYAĞIM (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta 11-15 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "SANAT"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta 18-22 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "İKİ DİRHEM BİR ÇEKİRDEK"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "34. Hafta 1-5 Haziran 35. Hafta 8-12 Haziran",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "DİŞÇİDEN KORKAN PİCASSO"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta 15-19 Haziran",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "KLASİK (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta 8-12 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "MATEMATİĞİN ŞİİRSELLİĞİ"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta 15-19 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "ÇİZGİ FİLM NASIL YAPILIR?"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta 22-26 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "TEKONOLJİ GELİŞİYOR, DÜNYA DEĞİŞİYOR"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta 29 Eylül-3 Ekim",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YARATICI BEYİN (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.7.1.10 Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta 6-10 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLİ MÜCADELE VE ATATÜRK",
+    "konu": "YÜZBAŞI İSMAİL HAKKI BEY KARANLIK LİMANIN MARTISI"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta 13-17 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLİ MÜCADELE VE ATATÜRK",
+    "konu": "ATATÜRK NELER OKUDU, NASIL OKURDU?"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta 20-24 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "GAZİ MUSTAFA KEMAL ATATÜRK"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "8. Hafta 27-31 Ekim 9. Hafta 3-7 Kasım",
+    "saat": "5 SAAT",
+    "unite": "MİLLî MÜCADELE VE ATATÜRK",
+    "konu": "DÜŞMAN ASKERİ NEDEN AĞLIYORDU? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.7.1.3 Dinlediklerini/izlediklerini özetler. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta 17-21 Kasım",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "OKUMAK"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "ŞİİR"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta 1-5 Aralık",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "GÜZEL KİTAP"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta 8-12 Aralık",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "E-KİTAPLAR (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta 15-19 Aralık",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ADALET HEYBESİ"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta 22-26 Aralık 16. Hafta 29 Aralık-2 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ÇERÇİ BEKİR"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta 5-9 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ODUNCUNUN EŞEĞİ"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta 12-16 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "TUHAF BİR ŞAKA (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.7.1.10 Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.7.1.11 Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta 2-6 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "HASAN LATİF SARIYÜCE"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta 9-13 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "DİNLEYEN İNSAN OLABİLMEK"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta 16-20 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "AĞAÇ VE SEN"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta 23-27 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "FİNLANDİYA'DAN (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.7.1.9 Dinlediklerinde/izlediklerinde başvurulan düşünceyi geliştirme yollarını tespit eder. Düşünceyi geliştirme yollarından tanımlama, karşılaştırma ve benzetmenin belirlenmesi sağlanır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta 2-6 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TEL İLE ÖRÜLEN DANTEL:TELKÂRİ"
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta 9-13 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TAŞTIN YİNE DELİ GÖNÜL"
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta 23-27 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "BİR SICAK ÇORBADA ANADOLU"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta 30 Mart-3 Nisan 27. Hafta 6-10 Nisan",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "İNŞALLAH (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta 13-17 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "DENGELİ BESLENME"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "İKİZ KARDEŞ: MÜZİK VE ŞİFA"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "BİR HAYALİM VAR BENİM"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta 4-8 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "KOCA YUSUF (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır. T.",
+      "7.1.14. Konuşmacının sözlü olmayan mesajlarını kavrar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta 11-15 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "SEVGİ DÖNGÜSÜ"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta 18-22 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "SAVAŞA GİDENİN KÖPEĞİ"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "34. Hafta 1-5 Haziran 35. Hafta 8-12 Haziran",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "BAHAR TÜRKÜSÜ"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta 15-19 Haziran",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "RÜZGAR (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta 8-12 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "MARTI"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta 15-19 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "PEYAMİ SAFA'NIN ÖYKÜSÜ"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta 22-26 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "KANATLARIN ALTINDAKİ RÜZGÂR"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta 29 Eylül-3 Ekim",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "NE DİNLEYELİM? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.11. Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak, katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta 6-10 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "OLAMAM"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta 13-17 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "BARIŞ ÇOCUK ATATÜRK'LE KURTULUŞ SAVAŞINDA"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta 20-24 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "ÇANAKKALE SEDDÜLBAHİR KAHRAMANLARI"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "8. Hafta 27-31 Ekim 9. Hafta 3-7 Kasım",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "MUSTAFA KEMAL'İN KAĞNISI (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.14. Konuşmacının sözlü olmayan mesajlarını kavrar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta 17-21 Kasım",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "BİRUNİ"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta 24-28 Kasım",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "JULES VERNE'DEN GELECEĞE DAİR"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta 1-5 Aralık",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YERİN DAYANILMAZ ÇEKİCİLİĞİ"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta 8-12 Aralık",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YAPAY ZEKÂ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.9. Dinlediklerinde/izlediklerinde başvurulan düşünceyi geliştirme yollarını tespit eder. Düşünceyi geliştirme yollarından tanımlama, karşılaştırma ve benzetmenin belirlenmesi sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta 15-19 Aralık",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "İYİLİK ÜZERİNE"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta 22-26 Aralık 16. Hafta 29 Aralık-2 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ÜÇ OĞUL"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta 5-9 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "İNSANLIK GELİP ÇALAR KAPINIZI"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta 12-16 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "YANARDAĞLAR MİSALİ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.3. Dinlediklerini/izlediklerini özetler. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta 2-6 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TÜRKÜLER DOLUSU"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta 9-13 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "NİNEMİN GÖZLERİ"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta 16-20 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "KÖÇÜRME (MANGALA)"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta 23-27 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TÜRK HALK EDEBİYATI: NEŞET ERTAŞ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta 2-6 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "KUŞLARIN GÜZEL EVİ"
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta 9-13 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "TOPRAK"
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta 23-27 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "BEYAZ GEMİ"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta 30 Mart-3 Nisan 27. Hafta 6-10 Nisan",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "İNSANLARI DA KÜÇÜLTEBİLİR MİSİN? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.10. Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta 13-17 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "AZI KARAR ÇOĞU ZARAR"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta 20-24 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "DOĞA YÜRÜYÜŞÜ"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "30. Hafta 27 Nisan-1 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "CANIM ARKADAŞIM"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta 4-8 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "SOL AYAĞIM (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta 11-15 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "SANAT"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta 18-22 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "İKİ DİRHEM BİR ÇEKİRDEK"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "34. Hafta 1-5 Haziran 35. Hafta 8-12 Haziran",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "DİŞÇİDEN KORKAN PİCASSO"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta 15-19 Haziran",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "KLASİK (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta 8-12 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "MATEMATİĞİN ŞİİRSELLİĞİ"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta 15-19 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "ÇİZGİ FİLM NASIL YAPILIR?"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta 22-26 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "TEKONOLJİ GELİŞİYOR, DÜNYA DEĞİŞİYOR"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta 29 Eylül-3 Ekim",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YARATICI BEYİN (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.7.1.10 Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta 6-10 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLİ MÜCADELE VE ATATÜRK",
+    "konu": "YÜZBAŞI İSMAİL HAKKI BEY KARANLIK LİMANIN MARTISI"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta 13-17 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLİ MÜCADELE VE ATATÜRK",
+    "konu": "ATATÜRK NELER OKUDU, NASIL OKURDU?"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta 20-24 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "GAZİ MUSTAFA KEMAL ATATÜRK"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "8. Hafta 27-31 Ekim 9. Hafta 3-7 Kasım",
+    "saat": "5 SAAT",
+    "unite": "MİLLî MÜCADELE VE ATATÜRK",
+    "konu": "DÜŞMAN ASKERİ NEDEN AĞLIYORDU? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.7.1.3 Dinlediklerini/izlediklerini özetler. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta 17-21 Kasım",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "OKUMAK"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "ŞİİR"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta 1-5 Aralık",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "GÜZEL KİTAP"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta 8-12 Aralık",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "E-KİTAPLAR (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta 15-19 Aralık",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ADALET HEYBESİ"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta 22-26 Aralık 16. Hafta 29 Aralık-2 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ÇERÇİ BEKİR"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta 5-9 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ODUNCUNUN EŞEĞİ"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta 12-16 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "TUHAF BİR ŞAKA (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.7.1.10 Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.7.1.11 Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta 2-6 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "HASAN LATİF SARIYÜCE"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta 9-13 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "DİNLEYEN İNSAN OLABİLMEK"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta 16-20 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "AĞAÇ VE SEN"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta 23-27 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "FİNLANDİYA'DAN (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.7.1.9 Dinlediklerinde/izlediklerinde başvurulan düşünceyi geliştirme yollarını tespit eder. Düşünceyi geliştirme yollarından tanımlama, karşılaştırma ve benzetmenin belirlenmesi sağlanır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta 2-6 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TEL İLE ÖRÜLEN DANTEL:TELKÂRİ"
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta 9-13 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TAŞTIN YİNE DELİ GÖNÜL"
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta 23-27 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "BİR SICAK ÇORBADA ANADOLU"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta 30 Mart-3 Nisan 27. Hafta 6-10 Nisan",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "İNŞALLAH (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta 13-17 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "DENGELİ BESLENME"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "İKİZ KARDEŞ: MÜZİK VE ŞİFA"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "BİR HAYALİM VAR BENİM"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta 4-8 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "KOCA YUSUF (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır. T.",
+      "7.1.14. Konuşmacının sözlü olmayan mesajlarını kavrar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta 11-15 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "SEVGİ DÖNGÜSÜ"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta 18-22 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "SAVAŞA GİDENİN KÖPEĞİ"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "34. Hafta 1-5 Haziran 35. Hafta 8-12 Haziran",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "BAHAR TÜRKÜSÜ"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta 15-19 Haziran",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "RÜZGAR (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta 8-12 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "MARTI"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta 15-19 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "PEYAMİ SAFA'NIN ÖYKÜSÜ"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta 22-26 Eylül",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "KANATLARIN ALTINDAKİ RÜZGÂR"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta 29 Eylül-3 Ekim",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "NE DİNLEYELİM? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.11. Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak, katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta 6-10 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "OLAMAM"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta 13-17 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "BARIŞ ÇOCUK ATATÜRK'LE KURTULUŞ SAVAŞINDA"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta 20-24 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "ÇANAKKALE SEDDÜLBAHİR KAHRAMANLARI"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "8. Hafta 27-31 Ekim 9. Hafta 3-7 Kasım",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "MUSTAFA KEMAL'İN KAĞNISI (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.14. Konuşmacının sözlü olmayan mesajlarını kavrar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta 17-21 Kasım",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "BİRUNİ"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta 24-28 Kasım",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "JULES VERNE'DEN GELECEĞE DAİR"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta 1-5 Aralık",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YERİN DAYANILMAZ ÇEKİCİLİĞİ"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta 8-12 Aralık",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YAPAY ZEKÂ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.9. Dinlediklerinde/izlediklerinde başvurulan düşünceyi geliştirme yollarını tespit eder. Düşünceyi geliştirme yollarından tanımlama, karşılaştırma ve benzetmenin belirlenmesi sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta 15-19 Aralık",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "İYİLİK ÜZERİNE"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta 22-26 Aralık 16. Hafta 29 Aralık-2 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ÜÇ OĞUL"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta 5-9 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "İNSANLIK GELİP ÇALAR KAPINIZI"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta 12-16 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "YANARDAĞLAR MİSALİ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.3. Dinlediklerini/izlediklerini özetler. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta 2-6 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TÜRKÜLER DOLUSU"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta 9-13 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "NİNEMİN GÖZLERİ"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta 16-20 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "KÖÇÜRME (MANGALA)"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta 23-27 Şubat",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TÜRK HALK EDEBİYATI: NEŞET ERTAŞ (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta 2-6 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "KUŞLARIN GÜZEL EVİ"
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta 9-13 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "TOPRAK"
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta 23-27 Mart",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "BEYAZ GEMİ"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta 30 Mart-3 Nisan 27. Hafta 6-10 Nisan",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "İNSANLARI DA KÜÇÜLTEBİLİR MİSİN? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.10. Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta 13-17 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "AZI KARAR ÇOĞU ZARAR"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta 20-24 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "DOĞA YÜRÜYÜŞÜ"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "30. Hafta 27 Nisan-1 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "CANIM ARKADAŞIM"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta 4-8 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "SOL AYAĞIM (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.",
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta 11-15 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "SANAT"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta 18-22 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "İKİ DİRHEM BİR ÇEKİRDEK"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "34. Hafta 1-5 Haziran 35. Hafta 8-12 Haziran",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "DİŞÇİDEN KORKAN PİCASSO"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta 15-19 Haziran",
+    "saat": "5 SAAT",
+    "unite": "SANAT",
+    "konu": "KLASİK (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta 8-12 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "MATEMATİĞİN ŞİİRSELLİĞİ"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta 15-19 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "ÇİZGİ FİLM NASIL YAPILIR?"
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta 22-26 Eylül",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "TEKONOLJİ GELİŞİYOR, DÜNYA DEĞİŞİYOR"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta 29 Eylül-3 Ekim",
+    "saat": "5 SAAT",
+    "unite": "BİLİM VE TEKNOLOJİ",
+    "konu": "YARATICI BEYİN (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.7.1.10 Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta 6-10 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLİ MÜCADELE VE ATATÜRK",
+    "konu": "YÜZBAŞI İSMAİL HAKKI BEY KARANLIK LİMANIN MARTISI"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta 13-17 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLİ MÜCADELE VE ATATÜRK",
+    "konu": "ATATÜRK NELER OKUDU, NASIL OKURDU?"
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta 20-24 Ekim",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "konu": "GAZİ MUSTAFA KEMAL ATATÜRK"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "8. Hafta 27-31 Ekim 9. Hafta 3-7 Kasım",
+    "saat": "5 SAAT",
+    "unite": "MİLLî MÜCADELE VE ATATÜRK",
+    "konu": "DÜŞMAN ASKERİ NEDEN AĞLIYORDU? (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.1. Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.7.1.3 Dinlediklerini/izlediklerini özetler. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta 17-21 Kasım",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "OKUMAK"
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "ŞİİR"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta 1-5 Aralık",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "GÜZEL KİTAP"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta 8-12 Aralık",
+    "saat": "5 SAAT",
+    "unite": "OKUMA KÜLTÜRÜ",
+    "konu": "E-KİTAPLAR (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta 15-19 Aralık",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ADALET HEYBESİ"
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta 22-26 Aralık 16. Hafta 29 Aralık-2 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ÇERÇİ BEKİR"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta 5-9 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "ODUNCUNUN EŞEĞİ"
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta 12-16 Ocak",
+    "saat": "5 SAAT",
+    "unite": "ERDEMLER",
+    "konu": "TUHAF BİR ŞAKA (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.7.1.10 Dinlediklerinde/izlediklerinde tutarlılığı sorgular. T.7.1.11 Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta 2-6 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "HASAN LATİF SARIYÜCE"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta 9-13 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "DİNLEYEN İNSAN OLABİLMEK"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta 16-20 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "AĞAÇ VE SEN"
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta 23-27 Şubat",
+    "saat": "5 SAAT",
+    "unite": "KİŞİSEL GELİŞİM",
+    "konu": "FİNLANDİYA'DAN (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.7.1.9 Dinlediklerinde/izlediklerinde başvurulan düşünceyi geliştirme yollarını tespit eder. Düşünceyi geliştirme yollarından tanımlama, karşılaştırma ve benzetmenin belirlenmesi sağlanır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta 2-6 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TEL İLE ÖRÜLEN DANTEL:TELKÂRİ"
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta 9-13 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "TAŞTIN YİNE DELİ GÖNÜL"
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta 23-27 Mart",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "BİR SICAK ÇORBADA ANADOLU"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta 30 Mart-3 Nisan 27. Hafta 6-10 Nisan",
+    "saat": "5 SAAT",
+    "unite": "MİLLÎ KÜLTÜRÜMÜZ",
+    "konu": "İNŞALLAH (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta 13-17 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "DENGELİ BESLENME"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "İKİZ KARDEŞ: MÜZİK VE ŞİFA"
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "BİR HAYALİM VAR BENİM"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta 4-8 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "SAĞLIK VE SPOR",
+    "konu": "KOCA YUSUF (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır. T.",
+      "7.1.14. Konuşmacının sözlü olmayan mesajlarını kavrar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta 11-15 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "SEVGİ DÖNGÜSÜ"
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta 18-22 Mayıs",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "SAVAŞA GİDENİN KÖPEĞİ"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "34. Hafta 1-5 Haziran 35. Hafta 8-12 Haziran",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "BAHAR TÜRKÜSÜ"
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta 15-19 Haziran",
+    "saat": "5 SAAT",
+    "unite": "DOĞA VE EVREN",
+    "konu": "RÜZGAR (Dinleme/İzleme Metni)",
+    "kazanimlar": [
+      "7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.",
+      "7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.",
+      "7.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.",
+      "7.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.",
+      "7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.",
+      "7.1.8. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.",
+      "7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.",
+      "7.1.13. Dinleme stratejilerini uygular. Empati kurarak,katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır."
+    ]
+  }
+]

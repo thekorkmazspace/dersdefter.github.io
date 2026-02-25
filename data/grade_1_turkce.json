@@ -1,0 +1,2982 @@
+[
+  {
+    "outcome_id": "TR:1:T.D.1.2",
+    "code": "T.D.1.2",
+    "statement": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "İLK OKUMA YAZMA HAZIRLIK ÇALIŞMALARI",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 8,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 18,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 28,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 48,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 58,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 69,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 79,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 90,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 100,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 110,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 120,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 130,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 139,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 149,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 158,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 167,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 178,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 221,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 233,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 248,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 260,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 272,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 284,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 301,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 318,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 335,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 352,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 369,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 388,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 405,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 422,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:SDB1.2",
+    "code": "SDB1.2",
+    "statement": "Kendini Düzenleme (Öz Düzenleme Becerisi), SDB2.2. İş Birliği, SDB3.1. Uyum",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "İLK OKUMA YAZMA HAZIRLIK ÇALIŞMALARI",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 4,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.D.1.3",
+    "code": "T.D.1.3",
+    "statement": "Dinlediklerini/izlediklerini çözümleyebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 19,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 29,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 39,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 49,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 59,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 70,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 80,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 91,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 101,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 111,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 121,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 131,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 140,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 150,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 159,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 168,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 179,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 188,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 199,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 210,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 222,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 234,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 249,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 261,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 273,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 285,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 302,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 319,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 336,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 353,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 370,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 389,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 406,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 423,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.Y.1.1",
+    "code": "T.Y.1.1",
+    "statement": "Yazılı anlatım becerilerini yönetebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 14,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 24,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 34,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 44,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 54,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 64,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 75,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 85,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 96,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 106,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 116,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 126,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 136,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 145,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 155,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 164,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 173,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 184,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 195,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 206,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 217,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 229,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 241,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 256,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 268,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 280,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 296,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 313,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 330,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 347,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 364,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 381,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 400,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 417,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 434,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.D.1.1",
+    "code": "T.D.1.1",
+    "statement": "Dinleme/izlemeyi yönetebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "1.TEMA: GÜZEL DAVRANIŞLARIMIZ (a-A sesi)",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 17,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 27,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 47,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 57,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 68,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 78,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 89,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 99,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 109,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 119,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 129,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 138,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 148,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 157,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 166,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 177,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 187,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 198,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 209,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 220,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 232,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 247,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 259,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 271,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 283,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 300,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 317,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 334,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 351,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 368,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 387,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 404,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 421,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:SDB1.1",
+    "code": "SDB1.1",
+    "statement": "Kendini Tanıma (Öz Farkındalık Becerisi), SDB2.1. İletişim",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "1.TEMA: GÜZEL DAVRANIŞLARIMIZ (a-A sesi)",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 7,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 17,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 27,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 37,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 166,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 187,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 198,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 209,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 220,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 232,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 247,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 259,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 271,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 283,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 300,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 317,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 334,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 351,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 368,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 387,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 404,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 421,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.D.1.4",
+    "code": "T.D.1.4",
+    "statement": "Dinleme/izleme sürecini değerlendirebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 10,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 30,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 40,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 50,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 60,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 71,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 81,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 92,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 102,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 112,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 122,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 132,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 141,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 151,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 160,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 169,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 180,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 286,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 303,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 320,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 337,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 354,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 371,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 390,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 407,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 424,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.K.1.2",
+    "code": "T.K.1.2",
+    "statement": "Konuşmalarında içerik oluşturabilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 11,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 21,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 31,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 41,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 51,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 61,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 72,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 82,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 93,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 103,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 113,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 123,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 133,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 142,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 152,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 161,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 170,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 181,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 190,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 201,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 212,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 224,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 236,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 251,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 263,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 275,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 288,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 305,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 322,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 339,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 356,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 373,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 392,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 409,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 426,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.K.1.3",
+    "code": "T.K.1.3",
+    "statement": "Konuşma kurallarını uygulayabilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 12,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 22,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 32,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 42,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 52,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 62,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 73,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 83,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 94,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 104,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 114,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 124,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 134,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 143,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 153,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 162,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 171,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 182,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 191,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 202,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 213,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 225,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 237,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 252,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 264,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 276,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 289,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 306,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 323,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 340,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 357,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 374,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 393,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 410,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 427,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.O.1.1",
+    "code": "T.O.1.1",
+    "statement": "Okuma sürecini yönetebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 13,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 23,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 33,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 43,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 53,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 63,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 74,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 84,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 95,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 105,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 115,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 125,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 135,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 144,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 154,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 163,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 172,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 183,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 192,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 203,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 214,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 226,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 238,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 253,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 265,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 277,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 291,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 308,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 325,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 342,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 359,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 376,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 395,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 412,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 429,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.Y.1.2",
+    "code": "T.Y.1.2",
+    "statement": "Yazılarında içerik oluşturabilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 15,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 35,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 45,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 55,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 65,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 76,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 86,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 97,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 107,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 117,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 127,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 174,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 185,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 196,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 207,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 218,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 230,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 242,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 257,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 269,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 281,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 297,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 314,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 331,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 348,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 365,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 382,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 401,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 418,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 435,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.Y.1.3",
+    "code": "T.Y.1.3",
+    "statement": "Yazma kurallarını uygulayabilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 26,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 36,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 46,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 56,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 66,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 77,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 87,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 98,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 108,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 118,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 128,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 137,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 146,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 156,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 165,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 175,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 186,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 197,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 208,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 219,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 231,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 243,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 258,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 270,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 282,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 298,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 315,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 332,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 349,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 366,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 383,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 402,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 419,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 436,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:SDB2.1",
+    "code": "SDB2.1",
+    "statement": "İletişim",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "2. TEMA: MUSTAFA KEMAL'DEN ATATÜRK'E (i-İ sesi)",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 47,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 57,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 68,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 78,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 89,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 99,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 109,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 119,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 129,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 138,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 148,
+        "col": 9
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 157,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.K.1.1",
+    "code": "T.K.1.1",
+    "statement": "Konuşmalarını yönetebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 189,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 200,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 211,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 223,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 235,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 250,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 262,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 274,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 287,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 304,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 321,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 338,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 355,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 372,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 391,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 408,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 425,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.O.1.2",
+    "code": "T.O.1.2",
+    "statement": "Okudukları ile ilgili anlam oluşturabilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 193,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 204,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 215,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 227,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 239,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 254,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 266,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 278,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 292,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 309,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 326,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 343,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 360,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 377,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 396,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 413,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 430,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.O.1.3",
+    "code": "T.O.1.3",
+    "statement": "Okuduklarını çözümleyebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 194,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 205,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 216,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 228,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 240,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 255,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 267,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 279,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 293,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 310,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 327,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 344,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 361,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 378,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 397,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 414,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 431,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.K.1.4",
+    "code": "T.K.1.4",
+    "statement": "Konuşma sürecini değerlendirebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 290,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 307,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 324,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 341,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 358,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 375,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 394,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 411,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 428,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.O.1.4",
+    "code": "T.O.1.4",
+    "statement": "Okuma sürecine etki eden durumları gözden geçirebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 294,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 311,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 328,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 345,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 362,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 379,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 398,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 415,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 432,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.O.1.5",
+    "code": "T.O.1.5",
+    "statement": "Okuma sürecini değerlendirebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 295,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 312,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 329,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 346,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 363,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 380,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 399,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 416,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 433,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:1:T.Y.1.4",
+    "code": "T.Y.1.4",
+    "statement": "Yazma sürecini değerlendirebilme",
+    "grade": "1",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 299,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 316,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 333,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 350,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 367,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 384,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 403,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 420,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe1_TYMM",
+        "row": 437,
+        "col": 6
+      }
+    ]
+  }
+]

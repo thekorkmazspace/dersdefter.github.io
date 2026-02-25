@@ -1,0 +1,789 @@
+[
+  {
+    "outcome_id": "TR:3:0d9e4163a9",
+    "code": null,
+    "statement": "DİNLEME / İZLEME",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 3,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:e5db727996",
+    "code": null,
+    "statement": "Okul dışı öğrenme etkinlikleri, ders yılı başında yapılacak okul zümre öğretmenleri toplantısında belirlenecektir.",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 3,
+        "col": 13
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 4,
+        "col": 13
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:4ccb29bcd8",
+    "code": null,
+    "statement": "ÇOCUK DÜNYASI",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "ÇOCUK DÜNYASI",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 8,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:T.3.1.1",
+    "code": "T.3.1.1",
+    "statement": "Görselden/görsellerden hareketle dinleyeceği/izleyeceği metnin konusunu tahmin eder. T.3.1.4. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. T.3.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.3.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.3.1.7. Dinlediklerine/izlediklerine yönelik sorulara cevap verir. T.3.1.8. Dinlediklerine/izlediklerine farklı başlıklar önerir. T.3.1.11. Sözlü yönergeleri uygular.",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "ÇOCUK DÜNYASI",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 12,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 22,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 26,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 32,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 35,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 44,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 46,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 53,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:4a322cd410",
+    "code": null,
+    "statement": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 10,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 11,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 12,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 13,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:954b277e89",
+    "code": null,
+    "statement": "ERDEMLER",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "ERDEMLER",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 17,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 18,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 20,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 22,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 7,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:7130345212",
+    "code": null,
+    "statement": "DUYGULAR",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "DUYGULAR",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 23,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 24,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 25,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 26,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:591678bf65",
+    "code": null,
+    "statement": "KİŞİSEL GELİŞİM",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "KİŞİSEL GELİŞİM",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 31,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 32,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 33,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 34,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:73d5dcaddf",
+    "code": null,
+    "statement": "MİLLÎ KÜLTÜRÜMÜZ",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ KÜLTÜRÜMÜZ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 35,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 37,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 39,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 40,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:T.3.1.12",
+    "code": "T.3.1.12",
+    "statement": "Dinleme stratejilerini uygular.",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ KÜLTÜRÜMÜZ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 37,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:28f02d351b",
+    "code": null,
+    "statement": "SANAT",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "SANAT",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 44,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 46,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 47,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 48,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:T.3.1.2",
+    "code": "T.3.1.2",
+    "statement": "Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.3.1.4. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. T.3.1.11. Sözlü yönergeleri uygular.",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "SANAT",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 48,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 19,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:edfa34945f",
+    "code": null,
+    "statement": "DOĞA VE EVREN",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "DOĞA VE EVREN",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 52,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 55,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 56,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 57,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 46,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 49,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 51,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 53,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 54,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:3.1.2",
+    "code": "3.1.2",
+    "statement": "Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.3.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.3.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.3.1.7. Dinlediklerine/izlediklerine yönelik sorulara cevap verir.",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "DOĞA VE EVREN",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. MEB",
+        "row": 56,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:T.3.1.4",
+    "code": "T.3.1.4",
+    "statement": "Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. T.3.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.3.1.7. Dinlediklerine/izlediklerine yönelik sorulara cevap verir. T.3.1.8. Dinlediklerine/izlediklerine farklı başlıklar önerir. T.3.1.9. Dinlediği/izlediği hikâye edici metinleri canlandırır. T.3.1.12. Dinleme stratejilerini uygular.",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Erdemler",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 13,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 30,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 45,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:8faca5cb3d",
+    "code": null,
+    "statement": "Millî Mücadele ve Atatürk",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Millî Mücadele ve Atatürk",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 9,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 11,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 12,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 13,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:efa53e1f2a",
+    "code": null,
+    "statement": "Bilim ve Teknoloji",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Bilim ve Teknoloji",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 15,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 16,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 17,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 19,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:836bfe05a0",
+    "code": null,
+    "statement": "Sağlık ve Spor",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Sağlık ve Spor",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 20,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 22,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 24,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 25,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:0dca1b8139",
+    "code": null,
+    "statement": "Vatandaşlık",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Vatandaşlık",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 27,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 28,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 29,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 30,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:95a2247db9",
+    "code": null,
+    "statement": "Millî Kültürümüz",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Millî Kültürümüz",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 33,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 35,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 37,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 38,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:T.3.1.3",
+    "code": "T.3.1.3",
+    "statement": "Dinlediği/izlediği metni ana hatlarıyla anlatır. T.3.1.4. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. T.3.1.5. Dinlediklerinin/izlediklerinin konusunu belirler. T.3.1.6. Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler. T.3.1.7. Dinlediklerine/izlediklerine yönelik sorulara cevap verir. T.3.1.8. Dinlediklerine/izlediklerine farklı başlıklar önerir. T.3.1.12. Dinleme stratejilerini uygular.",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Millî Kültürümüz",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 38,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:4f34fff0c3",
+    "code": null,
+    "statement": "Çocuk Dünyası",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Çocuk Dünyası",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 40,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 42,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 44,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 45,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:3:T.3.1.10",
+    "code": "T.3.1.10",
+    "statement": "Dinledikleriyle/izledikleriyle ilgili görüşlerini ifade eder.",
+    "grade": "3",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "Doğa ve Evren",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/Türkçe (1-4) Çerçeve Yıllık Planlar 2025-2026.xlsx",
+        "sheet": "Türkçe3_2019 Prog. İLKE Yay.",
+        "row": 49,
+        "col": 6
+      }
+    ]
+  }
+]

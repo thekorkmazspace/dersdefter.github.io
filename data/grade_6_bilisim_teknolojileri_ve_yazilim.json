@@ -1,0 +1,654 @@
+[
+  {
+    "outcome_id": "ICT:6:BTY.6.1.1",
+    "code": "BTY.6.1.1",
+    "statement": "Yenilikçi bilişim teknolojilerini sınıflandırabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 4,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:SDB1.1",
+    "code": "SDB1.1",
+    "statement": "Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 5,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 6,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 7,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 9,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 11,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 12,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 15,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 17,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 20,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 21,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 22,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 23,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.1.2",
+    "code": "BTY.6.1.2",
+    "statement": "Bilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 5,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.2.1",
+    "code": "BTY.6.2.1",
+    "statement": "Tablolama programlarından yararlanabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 6,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.2.2",
+    "code": "BTY.6.2.2",
+    "statement": "Tablolama programlarının kullanımına yönelik problemleri belirleyebilme BTY.6.2.3. Tablolama dosyasında kullanılacak verileri toplayabilme ve düzenleyebilme BTY.6.2.4. Tablolama programları kullanarak bulgulara ulaşabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 7,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.2.5",
+    "code": "BTY.6.2.5",
+    "statement": "Ses düzenleme programlarından yararlanabilme BTY.6.2.6. Ses dosyası için kurgu oluşturabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 9,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.2.7",
+    "code": "BTY.6.2.7",
+    "statement": "Ses dosyası geliştirebilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 11,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.2.8",
+    "code": "BTY.6.2.8",
+    "statement": "Video düzenleme programlarından yararlanabilme BTY.6.2.9. Video dosyası için kurgu oluşturabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 12,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.2.10",
+    "code": "BTY.6.2.10",
+    "statement": "Video dosyası geliştirebilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 15,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 17,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.3.1",
+    "code": "BTY.6.3.1",
+    "statement": "İnternet ile amacına uygun olarak çalışabilme BTY.6.3.2. İletişim teknolojilerini sınıflandırabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilgisayar Ağları ve İletişim",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 20,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.3.3",
+    "code": "BTY.6.3.3",
+    "statement": "İletişim teknolojileri ile çalışabilme BTY.6.4.1. Bilişim etiği kapsamında güvenlik önlemlerini yönetebilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilgisayar Ağları ve İletişim / Bilişim Etiği ve Siber Güvenlik",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 21,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.4.2.Telif",
+    "code": "BTY.6.4.2.Telif",
+    "statement": "hakkı kavramını sorgulayabilme BTY.6.4.3. Siber ortamda güvenlik önlemlerini yönetebilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Etiği ve Siber Güvenlik",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 22,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.4.4.Kullanım",
+    "code": "BTY.6.4.4.Kullanım",
+    "statement": "haklarına göre lisans türlerini karşılaştırabilme BTY.6.5.1. Yapay zekâ girdileri hakkında bilgi toplayabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Etiği ve Siber Güvenlik / Yapay Zekâ",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 23,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.5.1",
+    "code": "BTY.6.5.1",
+    "statement": "Yapay zekâ girdileri hakkında bilgi toplayabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yapay Zekâ",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 26,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:SDB1.2",
+    "code": "SDB1.2",
+    "statement": "Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yapay Zekâ",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 26,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 28,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 31,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 32,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 34,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 37,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 38,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 39,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 40,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 44,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 46,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 50,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 51,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 53,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 55,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 57,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 58,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 59,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 62,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 63,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 66,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 69,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 71,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.5.2",
+    "code": "BTY.6.5.2",
+    "statement": "Yapay zekâ araç ve teknolojileri ile çalışabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yapay Zekâ",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 28,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 31,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 32,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.5.3",
+    "code": "BTY.6.5.3",
+    "statement": "Yapay zekâ araç ve teknolojileri ile model geliştirebilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yapay Zekâ",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 34,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.6.1",
+    "code": "BTY.6.6.1",
+    "statement": "Blok tabanlı ortamda yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yazılım Tasarımı ve Programlama",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 39,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY.6.6.2",
+    "code": "BTY.6.6.2",
+    "statement": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yazılım Tasarımı ve Programlama",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 40,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 44,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 46,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 50,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 51,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 53,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 55,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 57,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:6:BTY6.6.3",
+    "code": "BTY6.6.3",
+    "statement": "Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme",
+    "grade": "6",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yazılım Tasarımı ve Programlama",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 58,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 59,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 62,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 63,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 66,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 69,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 6. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_6",
+        "row": 71,
+        "col": 6
+      }
+    ]
+  }
+]

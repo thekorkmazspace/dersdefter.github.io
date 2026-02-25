@@ -1,0 +1,360 @@
+[
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.1. VEKTÖRLER",
+    "kazanimlar": [
+      "11.1.1.1. Vektörlerin özelliklerini açıklar.",
+      "11.1.1.2. İki ve üç boyutlu kartezyen koordinat sisteminde vektörleri çizer."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.1. VEKTÖRLER",
+    "kazanimlar": [
+      "11.1.1.3. Vektörlerin bileşkelerini farklı yöntemleri kullanarak hesaplar.",
+      "11.1.1.4. Bir vektörün iki boyutlu kartezyen koordinat sisteminde bileşenlerini çizerek büyüklüklerini hesaplar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.2. BAĞIL HAREKET",
+    "kazanimlar": [
+      "11.1.2.1. Sabit hızlı iki cismin hareketini birbirine göre yorumlar.",
+      "11.1.2.2. Hareketli bir ortamdaki sabit hızlı cisimlerin hareketini farklı gözlem çerçevelerine göre yorumlar.",
+      "11.1.2.3. Bağıl hareket ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.3. NEWTON’IN HAREKET YASALARI",
+    "kazanimlar": [
+      "11.1.3.1. Net kuvvetin yönünü belirleyerek büyüklüğünü hesaplar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-110 Ekim",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.3. NEWTON’IN HAREKET YASALARI",
+    "kazanimlar": [
+      "11.1.3.2. Net kuvvet etkisindeki cismin hareketi ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.4. BİR BOYUTTA SABİT İVMELİ HAREKET",
+    "kazanimlar": [
+      "11.1.4.1. Bir boyutta sabit ivmeli hareketi analiz eder."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.4. BİR BOYUTTA SABİT İVMELİ HAREKET",
+    "kazanimlar": [
+      "11.1.4.2. Bir boyutta sabit ivmeli hareket ile ilgili hesaplamalar yapar"
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.4. BİR BOYUTTA SABİT İVMELİ HAREKET",
+    "kazanimlar": [
+      "11.1.4.3. Hava direncinin ihmal edildiği ortamda düşen cisimlerin hareketlerini analiz eder."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.4. BİR BOYUTTA SABİT İVMELİ HAREKET",
+    "kazanimlar": [
+      "11.1.4.4. Düşen cisimlere etki eden hava direnç kuvvetinin bağlı olduğu değişkenleri analiz eder.",
+      "11.1.4.5. Limit hız kavramını açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.4. BİR BOYUTTA SABİT İVMELİ HAREKET",
+    "kazanimlar": [
+      "11.1.4.6. Düşey doğrultuda ilk hızı olan ve sabit ivmeli hareket yapan cisimlerin hareketlerini analiz eder."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.5. İKİ BOYUTTA HAREKET",
+    "kazanimlar": [
+      "11.1.5.1. Atış hareketlerini yatay ve düşey boyutta analiz eder.",
+      "11.1.5.2. İki boyutta sabit ivmeli hareket ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.6. ENERJİ VE HAREKET",
+    "kazanimlar": [
+      "11.1.6.1. Yapılan iş ile enerji arasındaki ilişkiyi analiz eder."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.6. ENERJİ VE HAREKET",
+    "kazanimlar": [
+      "11.1.6.2. Cisimlerin hareketini mekanik enerjinin korunumunu kullanarak analiz eder."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.6. ENERJİ VE HAREKET",
+    "kazanimlar": [
+      "11.1.6.3. Sürtünmeli yüzeylerde enerji korunumunu ve dönüşümlerini analiz eder."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.7. İTME VE ÇİZGİSEL MOMENTUM",
+    "kazanimlar": [
+      "11.1.7.1. İtme ve çizgisel momentum kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.7. İTME VE ÇİZGİSEL MOMENTUM",
+    "kazanimlar": [
+      "11.1.7.2. İtme ile çizgisel momentum değişimi arasında ilişki kurar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.7. İTME VE ÇİZGİSEL MOMENTUM",
+    "kazanimlar": [
+      "11.1.7.3. Çizgisel momentumun korunumunu analiz eder."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 13-16 Ocak",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.7. İTME VE ÇİZGİSEL MOMENTUM",
+    "kazanimlar": [
+      "11.1.7.4. Çizgisel momentumun korunumu ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.8. TORK",
+    "kazanimlar": [
+      "11.1.8.1. Tork kavramını açıklar.",
+      "11.1.8.2. Torkun bağlı olduğu değişkenleri analiz eder.",
+      "11.1.8.3. Tork ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 19-13 Şubat",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.9. DENGE VE DENGE ŞARTLARI",
+    "kazanimlar": [
+      "11.1.9.1. Cisimlerin denge şartlarını açıklar.",
+      "11.1.9.2. Kütle merkezi ve ağırlık merkezi kavramlarını açıklar.",
+      "11.1.9.3. Kütle merkezi ve ağırlık merkezi ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "11.1. KUVVET VE HAREKET",
+    "konu": "11.1.10. BASİT MAKİNELER",
+    "kazanimlar": [
+      "11.1.10.1. Günlük hayatta kullanılan basit makinelerin işlevlerini açıklar.",
+      "11.1.10.2. Basit makineler ile ilgili hesaplamalar yapar.",
+      "11.1.10.3. Hayatı kolaylaştırmak amacıyla basit makinelerden oluşan güvenli bir sistem tasarlar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.1. ELEKTRİKSEL KUVVET VE ELEKTRİK ALAN",
+    "kazanimlar": [
+      "11.2.1.1. Yüklü cisimler arasındaki elektriksel kuvveti etkileyen değişkenleri belirler.",
+      "11.2.1.2. Noktasal yük için elektrik alanı açıklar.",
+      "11.2.1.3. Noktasal yüklerde elektriksel kuvvet ve elektrik alanı ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.2. ELEKTRİKSEL POTANSİYEL",
+    "kazanimlar": [
+      "11.2.2.1. Noktasal yükler için elektriksel potansiyel enerji, elektriksel potansiyel, elektriksel potansiyel farkı ve elektriksel iş kavramlarını açıklar.",
+      "11.2.2.2. Düzgün bir elektrik alan içinde iki nokta arasındaki potansiyel farkını hesaplar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.2. ELEKTRİKSEL POTANSİYEL",
+    "kazanimlar": [
+      "11.2.2.3. Noktasal yükler için elektriksel potansiyel enerji, elektriksel potansiyel, elektriksel potansiyel farkı ve elektriksel iş ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.3. DÜZGÜN ELEKTRİK ALAN VE SIĞA",
+    "kazanimlar": [
+      "11.2.3.1. Yüklü, iletken ve paralel levhalar arasında oluşan elektrik alanı, alan çizgilerini çizerek açıklar.",
+      "11.2.3.2. Yüklü, iletken ve paralel levhalar arasında oluşan elektrik alanının bağlı olduğu değişkenleri analiz eder.",
+      "11.2.3.3. Yüklü parçacıkların düzgün elektrik alanıdaki davranışını açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.3. DÜZGÜN ELEKTRİK ALAN VE SIĞA",
+    "kazanimlar": [
+      "11.2.3.4. Sığa (kapasite) kavramını açıklar.",
+      "11.2.3.5. Sığanın bağlı olduğu değişkenleri analiz eder.",
+      "11.2.3.6. Yüklü levhaların özelliklerinden faydalanarak sığacın (kondansatör) işlevini açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.4. MANYETİZMA VE ELEKTROMANYETİK İNDÜKLENME",
+    "kazanimlar": [
+      "11.2.4.1. Üzerinden akım geçen iletken düz bir telin çevresinde, halkanın merkezinde ve akım makarasının (bobin) merkez ekseninde oluşan manyetik alanın şiddetini etkileyen değişkenleri analiz eder.",
+      "11.2.4.2. Üzerinden akım geçen iletken düz bir telin çevresinde, halkanın merkezinde ve akım makarasının merkez ekseninde oluşan manyetik alan ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 14-17 Nisan",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.4. MANYETİZMA VE ELEKTROMANYETİK İNDÜKLENME",
+    "kazanimlar": [
+      "11.2.4.3. Üzerinden akım geçen iletken düz bir tele manyetik alanda etki eden kuvvetin yönünün ve şiddetinin bağlı olduğu değişkenleri analiz eder."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.4. MANYETİZMA VE ELEKTROMANYETİK İNDÜKLENME",
+    "kazanimlar": [
+      "11.2.4.4. Manyetik alan içerisinde akım taşıyan dikdörtgen tel çerçeveye etki eden kuvvetlerin döndürme etkisini açıklar.",
+      "11.2.4.5. Yüklü parçacıkların manyetik alan içindeki hareketini analiz eder."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.4. MANYETİZMA VE ELEKTROMANYETİK İNDÜKLENME",
+    "kazanimlar": [
+      "11.2.4.6. Manyetik akı kavramını açıklar.",
+      "11.2.4.7. İndüksiyon akımını oluşturan sebeplere ilişkin çıkarım yapar.",
+      "11.2.4.8. Manyetik akı ve indüksiyon akımı ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.4. MANYETİZMA VE ELEKTROMANYETİK İNDÜKLENME",
+    "kazanimlar": [
+      "11.2.4.9. Öz-indüksiyon akımının oluşum sebebini açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.4. MANYETİZMA VE ELEKTROMANYETİK İNDÜKLENME",
+    "kazanimlar": [
+      "11.2.4.10. Yüklü parçacıkların manyetik alan ve elektrik alandaki davranışını açıklar.",
+      "11.2.4.11. Elektromotor kuvveti oluşturan sebeplere ilişkin çıkarım yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.5. ALTERNATİF AKIM",
+    "kazanimlar": [
+      "11.2.5.1. Alternatif akımı açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.5. ALTERNATİF AKIM",
+    "kazanimlar": [
+      "11.2.5.2. Alternatif ve doğru akımı karşılaştırır."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.5. ALTERNATİF AKIM",
+    "kazanimlar": [
+      "11.2.5.3. Alternatif ve doğru akım devrelerinde direncin, bobinin ve sığacın davranışını açıklar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.5. ALTERNATİF AKIM",
+    "kazanimlar": [
+      "11.2.5.4. İndüktans, kapasitans, rezonans ve empedans kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "unite": "11.2. ELEKTRİK VE MANYETİZMA",
+    "konu": "11.2.6. TRANSFORMATÖRLER",
+    "kazanimlar": [
+      "11.2.6.1. Transformatörlerin çalışma prensibini açıklar.",
+      "11.2.6.2. Transformatörlerin kullanım amaçlarını açıklar."
+    ]
+  }
+]

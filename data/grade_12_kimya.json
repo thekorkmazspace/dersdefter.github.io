@@ -1,0 +1,670 @@
+[
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.1. İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+    "kazanimlar": [
+      "12.1.1.1. Redoks tepkimelerini tanır."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.1. İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+    "kazanimlar": [
+      "12.1.1.2. Redoks tepkimeleriyle elektrik enerjisi arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.2. Elektrotlar ve Elektrokimyasal Hücreler",
+    "kazanimlar": [
+      "12.1.2.1. Elektrot ve elektrokimyasal hücre kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.2.Elektrotlar ve Elektrokimyasal Hücreler",
+    "kazanimlar": [
+      "12.1.2.1. Elektrot ve elektrokimyasal hücre kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-10 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.3. Elektrot Potansiyelleri",
+    "kazanimlar": [
+      "12.1.3.1. Redoks tepkimelerinin istemliliğini standart elektrot potansiyellerini kullanarak açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.3. Elektrot Potansiyelleri",
+    "kazanimlar": [
+      "12.1.3.1. Redoks tepkimelerinin istemliliğini standart elektrot potansiyellerini kullanarak açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.4. Kimyasallardan Elektrik Üretimi",
+    "kazanimlar": [
+      "12.1.4.1. Standart koşullarda galvanik pillerin voltajını ve kullanım ömrünü örnekler vererek açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.4. Kimyasallardan Elektrik Üretimi",
+    "kazanimlar": [
+      "12.1.4.2. Lityum iyon pillerinin önemini kullanım alanlarıyla ilişkilendirerek açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.5. Elektroliz",
+    "kazanimlar": [
+      "12.1.5.1. Elektroliz olayını elektrik akımı, zaman ve değişime uğrayan madde kütlesi açısından açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.5. Elektroliz",
+    "kazanimlar": [
+      "12.1.5.2. Kimyasal maddelerin elektroliz yöntemiyle elde ediliş sürecini açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.6. Korozyon",
+    "kazanimlar": [
+      "12.1.6.1. Korozyon önleme yöntemlerinin elektrokimyasal temellerini açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.1. Anorganik ve Organik Bileşikler",
+    "kazanimlar": [
+      "12.2.1.1. Anorganik ve organik bileşikleri ayırt eder."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.2. Basit Formül ve Molekül Formülü",
+    "kazanimlar": [
+      "12.2.2.1. Organik bileşiklerin basit ve molekül formüllerinin bulunması ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.3. Doğada Karbon",
+    "kazanimlar": [
+      "12.2.3.1. Karbon allotroplarının özelliklerini yapılarıyla ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.3. Doğada Karbon",
+    "kazanimlar": [
+      "12.2.3.1. Karbon allotroplarının özelliklerini yapılarıyla ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.4. Lewis Formülleri",
+    "kazanimlar": [
+      "12.2.4.1. Kovalent bağlı kimyasal türlerin Lewis formüllerini yazar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "kazanimlar": [
+      "12.2.5.1. Tek, çift ve üçlü bağların oluşumunu hibrit ve atom orbitalleri temelinde açıklar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 12-16 Ocak",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "kazanimlar": [
+      "12.2.5.2. Moleküllerin geometrilerini merkez atomu orbitallerinin hibritleşmesi esasına göre belirler."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "kazanimlar": [
+      "12.2.5.2. Moleküllerin geometrilerini merkez atomu orbitallerinin hibritleşmesi esasına göre belirler."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 9-13 Şubat",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.1. Hidrokarbon türlerini ayırt eder.",
+      "12.3.1.2. Basit alkanların adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.3. Basit alkenlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.3. Basit alkenlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.4. Basit alkinlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.5. Basit aromatik bileşiklerin adlarını, formüllerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.2. Fonksiyonel Gruplar",
+    "kazanimlar": [
+      "12.3.2.1. Organik bileşikleri fonksiyonel gruplarına göre sınıflandırır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.3. Alkoller",
+    "kazanimlar": [
+      "12.3.3.1. Alkolleri sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.4. Eterler",
+    "kazanimlar": [
+      "12.3.4.1. Eterleri sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 13-17 Nisan",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.5. Karbonil Bileşikleri",
+    "kazanimlar": [
+      "12.3.5.1. Karbonil bileşiklerini sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.6. Karboksilik Asitler",
+    "kazanimlar": [
+      "12.3.6.1. Karboksilik asitleri sınıflandırarak adlarını, formüllerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.7. Esterler",
+    "kazanimlar": [
+      "12.3.7.1. Esterlerin adlarını, formüllerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.1. Fosil Yakıtlar",
+    "kazanimlar": [
+      "12.4.1.1. Fosil yakıtların çevreye zararlı etkilerini azaltmak için çözüm önerilerinde bulunur."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.2. Alternatif Enerji Kaynakları",
+    "kazanimlar": [
+      "12.4.2.1. Alternatif enerji kaynaklarını tanır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.2. Alternatif Enerji Kaynakları",
+    "kazanimlar": [
+      "12.4.2.1. Alternatif enerji kaynaklarını tanır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.2. Alternatif Enerji Kaynakları",
+    "kazanimlar": [
+      "12.4.2.2. Nükleer enerjiyi bilim, toplum, teknoloji, çevre ve ekonomi açısından değerlendirir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.3. Sürdürülebilirlik",
+    "kazanimlar": [
+      "12.4.3.1. Sürdürülebilir hayat ve kalkınmanın toplum ve çevre için önemini kimya bilimi ile ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.4. Nanoteknoloji",
+    "kazanimlar": [
+      "12.4.4.1. Nanoteknoloji alanındaki gelişmeleri bilim, toplum, teknoloji, çevre ve ekonomiye etkileri açısından değerlendirir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.4. Nanoteknoloji",
+    "kazanimlar": [
+      "12.4.4.1. Nanoteknoloji alanındaki gelişmeleri bilim, toplum, teknoloji, çevre ve ekonomiye etkileri açısından değerlendirir."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.1. İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+    "kazanimlar": [
+      "12.1.1.1. Redoks tepkimelerini tanır."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.1. İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+    "kazanimlar": [
+      "12.1.1.2. Redoks tepkimeleriyle elektrik enerjisi arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.2. Elektrotlar ve Elektrokimyasal Hücreler",
+    "kazanimlar": [
+      "12.1.2.1. Elektrot ve elektrokimyasal hücre kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.2. Elektrotlar ve Elektrokimyasal Hücreler",
+    "kazanimlar": [
+      "12.1.2.1. Elektrot ve elektrokimyasal hücre kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-10 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.3. Elektrot Potansiyelleri",
+    "kazanimlar": [
+      "12.1.3.1. Redoks tepkimelerinin istemliliğini standart elektrot potansiyellerini kullanarak açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.3. Elektrot Potansiyelleri",
+    "kazanimlar": [
+      "12.1.3.1. Redoks tepkimelerinin istemliliğini standart elektrot potansiyellerini kullanarak açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.4. Kimyasallardan Elektrik Üretimi",
+    "kazanimlar": [
+      "12.1.4.1. Standart koşullarda galvanik pillerin voltajını ve kullanım ömrünü örnekler vererek açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.4. Kimyasallardan Elektrik Üretimi",
+    "kazanimlar": [
+      "12.1.4.2. Güneş pilleri, yakıt pilleri ve lityum iyon pillerinin önemini kullanım alanlarıyla ilişkilendirerek açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.5. Elektroliz",
+    "kazanimlar": [
+      "12.1.5.1. Elektroliz olayını elektrik akımı, zaman ve değişime uğrayan madde kütlesi açısından açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.5 Elektroliz",
+    "kazanimlar": [
+      "12.1.5.2. Kimyasal maddelerin elektroliz yöntemiyle elde ediliş sürecini açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "unite": "12.1. KİMYA VE ELEKTRİK",
+    "konu": "12.1.6. Korozyon",
+    "kazanimlar": [
+      "12.1.6.1. Korozyon önleme yöntemlerinin elektrokimyasal temellerini açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.1. Anorganik ve Organik Bileşikler",
+    "kazanimlar": [
+      "12.2.1.1. Anorganik ve organik bileşiklerin özelliklerini açıklar.",
+      "12.2.1.2. Anorganik ve organik bileşikleri ayırt eder."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.2. Basit Formül ve Molekül Formülü",
+    "kazanimlar": [
+      "12.2.2.1. Organik bileşiklerin basit ve molekül formüllerinin bulunması ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.3. Doğada Karbon",
+    "kazanimlar": [
+      "12.2.3.1. Karbon allotroplarının özelliklerini yapılarıyla ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.3. Doğada Karbon",
+    "kazanimlar": [
+      "12.2.3.1. Karbon allotroplarının özelliklerini yapılarıyla ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.4. Lewis Formülleri",
+    "kazanimlar": [
+      "12.2.4.1. Kovalent bağlı kimyasal türlerin Lewis formüllerini yazar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "kazanimlar": [
+      "12.2.5.1. Tek, çift ve üçlü bağların oluşumunu hibrit ve atom orbitalleri temelinde açıklar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 12-16 Ocak",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "kazanimlar": [
+      "12.2.5.2. Moleküllerin geometrilerini merkez atomu orbitallerinin hibritleşmesi esasına göre belirler."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "unite": "12.2. KARBON KİMYASINA GİRİŞ",
+    "konu": "12.2.5. Hibritleşme-Molekül Geometrileri",
+    "kazanimlar": [
+      "12.2.5.2. Moleküllerin geometrilerini merkez atomu orbitallerinin hibritleşmesi esasına göre belirler."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 9-13 Şubat",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.1. Hidrokarbon türlerini ayırt eder."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.2. Basit alkanların adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.3. Basit alkenlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.4. Basit alkinlerin adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.1. Hidrokarbonlar",
+    "kazanimlar": [
+      "12.3.1.5. Basit aromatik bileşiklerin adlarını, formüllerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.2. Fonksiyonel Gruplar",
+    "kazanimlar": [
+      "12.3.2.1. Organik bileşikleri fonksiyonel gruplarına göre sınıflandırır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.3. Alkoller",
+    "kazanimlar": [
+      "12.3.3.1. Alkolleri sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.4. Eterler",
+    "kazanimlar": [
+      "12.3.4.1. Eterleri sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 13-17 Nisan",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.5. Karbonil Bileşikleri",
+    "kazanimlar": [
+      "12.3.5.1. Karbonil bileşiklerini sınıflandırarak adlarını, formüllerini, özelliklerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.6. Karboksilik Asitler",
+    "kazanimlar": [
+      "12.3.6.1. Karboksilik asitleri sınıflandırarak adlarını, formüllerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "unite": "12.3. ORGANİK BİLEŞİKLER",
+    "konu": "12.3.7. Esterler",
+    "kazanimlar": [
+      "12.3.7.1. Esterlerin adlarını, formüllerini ve kullanım alanlarını açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.1. Fosil Yakıtlar",
+    "kazanimlar": [
+      "12.4.1.1. Fosil yakıtların çevreye zararlı etkilerini azaltmak için çözüm önerilerinde bulunur."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.2. Alternatif Enerji Kaynakları",
+    "kazanimlar": [
+      "12.4.2.1. Alternatif enerji kaynaklarını tanır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.2. Alternatif Enerji Kaynakları",
+    "kazanimlar": [
+      "12.4.2.1. Alternatif enerji kaynaklarını tanır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.2. Alternatif Enerji Kaynakları",
+    "kazanimlar": [
+      "12.4.2.2. Nükleer enerjiyi bilim, toplum, teknoloji, çevre ve ekonomi açısından değerlendirir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.3. Sürdürülebilirlik",
+    "kazanimlar": [
+      "12.4.3.1. Sürdürülebilir hayat ve kalkınmanın toplum ve çevre için önemini kimya bilimi ile ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.4. Nanoteknoloji",
+    "kazanimlar": [
+      "12.4.4.1. Nanoteknoloji alanındaki gelişmeleri bilim, toplum, teknoloji, çevre ve ekonomiye etkileri açısından değerlendirir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "unite": "12.4. ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+    "konu": "12.4.4. Nanoteknoloji",
+    "kazanimlar": [
+      "12.4.4.1. Nanoteknoloji alanındaki gelişmeleri bilim, toplum, teknoloji, çevre ve ekonomiye etkileri açısından değerlendirir."
+    ]
+  }
+]

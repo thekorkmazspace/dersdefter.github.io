@@ -1,0 +1,469 @@
+[
+  {
+    "outcome_id": "PE:6:BES.6.1.1",
+    "code": "BES.6.1.1",
+    "statement": "Sağlıkla ilgili fiziksel uygunluğu sağlayabilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 5,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:SDB1.1",
+    "code": "SDB1.1",
+    "statement": "Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 4,
+        "col": 12
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 12,
+        "col": 12
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 16,
+        "col": 12
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 19,
+        "col": 12
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 47,
+        "col": 12
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 64,
+        "col": 12
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.1.2",
+    "code": "BES.6.1.2",
+    "statement": "Fiziksel uygunluk ve zindelik arasındaki ilişkiyi çözümleyebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 7,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.1.3",
+    "code": "BES.6.1.3",
+    "statement": "Fiziksel aktivite sırasında meydana gelebilecek yaralanmalarda temel ilk yardım uygulamalarını sergileyebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 9,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.1.4",
+    "code": "BES.6.1.4",
+    "statement": "Fiziksel aktiviteye katılımı destekleyen teknolojik araçları belirleyebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 11,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.2.1",
+    "code": "BES.6.2.1",
+    "statement": "Hedef oyunlarına ilişkin hareket kavramlarını uygulayabilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "HEDEF OYUNLARI",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 12,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 19,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.2.2",
+    "code": "BES.6.2.2",
+    "statement": "Hedef oyunlarına ilişkin hareket becerilerini sergileyebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "HEDEF OYUNLARI",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 21,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.2.3",
+    "code": "BES.6.2.3",
+    "statement": "Hedef oyunlarına ilişkin taktik ve strateji geliştirebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "HEDEF OYUNLARI",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 22,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 25,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.3.1",
+    "code": "BES.6.3.1",
+    "statement": "Engelli sporlarına ilişkin hareket kavramlarını uygulayabilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SPOR ENGEL TANIMAZ",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 27,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:SDB1.2",
+    "code": "SDB1.2",
+    "statement": "Kendini Düzenleme (Öz Düzenleme) SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SPOR ENGEL TANIMAZ",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 27,
+        "col": 12
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 35,
+        "col": 12
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 46,
+        "col": 12
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.3.2",
+    "code": "BES.6.3.2",
+    "statement": "Engelli sporlarına ilişkin hareket becerilerini sergileyebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SPOR ENGEL TANIMAZ",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 28,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.3.3",
+    "code": "BES.6.3.3",
+    "statement": "Engelli sporlarına ilişkin taktik ve strateji geliştirebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "SPOR ENGEL TANIMAZ",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 30,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 32,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.4.1",
+    "code": "BES.6.4.1",
+    "statement": "Mustafa Kemal Atatürk’ün spora verdiği önemi yorumlayabilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 35,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 36,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.4.2",
+    "code": "BES.6.4.2",
+    "statement": "Seçili halk oyununa ilişkin hareket becerilerini sergileyebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 41,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.4.3",
+    "code": "BES.6.4.3",
+    "statement": "Geleneksel oyunlara ilişkin hareket becerilerini sergileyebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 43,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 46,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.5.1",
+    "code": "BES.6.5.1",
+    "statement": "Hücum oyunlarında güvenli ortam oluşturabilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "HÜCUM OYUNLARI",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 47,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.5.2",
+    "code": "BES.6.5.2",
+    "statement": "Hücum oyunlarına ilişkin hareket kavramlarını uygulayabilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "HÜCUM OYUNLARI",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 49,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 51,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 53,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.5.3",
+    "code": "BES.6.5.3",
+    "statement": "Hücum oyunlarına ilişkin hareket becerilerini sergileyebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "HÜCUM OYUNLARI",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 54,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 55,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 58,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "PE:6:BES.6.5.4",
+    "code": "BES.6.5.4",
+    "statement": "Hücum oyunlarına ilişkin taktik ve strateji geliştirebilme",
+    "grade": "6",
+    "subject_code": "PE",
+    "subject_name": "Beden Eğitimi",
+    "theme_or_unit": "HÜCUM OYUNLARI",
+    "sources": [
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 59,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 64,
+        "col": 6
+      },
+      {
+        "file": "Beden Eğitimi ve Spor Dersi Yıllık Planlar/6. Sınıf Beden Eğitimi ve Spor Dersi Çerçeve Yıllık Plan düzeltilmiş Son Hali .xlsx",
+        "sheet": "6.Sınıf",
+        "row": 65,
+        "col": 6
+      }
+    ]
+  }
+]

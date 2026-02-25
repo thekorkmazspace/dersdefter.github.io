@@ -1,0 +1,827 @@
+[
+  {
+    "outcome_id": "MATH:7:M.7.1.1.1",
+    "code": "M.7.1.1.1",
+    "statement": "Tam sayılarla toplama ve çıkarma işlemlerini yapar, ilgili problemleri çözer.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 3,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:e58666ee53",
+    "code": null,
+    "statement": "Okul dışı öğrenme etkinlikleri, ders yılı başı okul zümre öğretmenleri toplantısında belirlenecektir.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 3,
+        "col": 11
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.1.2",
+    "code": "M.7.1.1.2",
+    "statement": "Toplama işleminin özelliklerini akıcı işlem yapmak için birer strateji olarak kullanır.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 4,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 4,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.1.3",
+    "code": "M.7.1.1.3",
+    "statement": "Tam sayılarla çarpma ve bölme işlemlerini yapar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 5,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.1.4",
+    "code": "M.7.1.1.4",
+    "statement": "Tam sayıların kendileri ile tekrarlı çarpımını üslü nicelik olarak ifade eder.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 6,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 6,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.1.5",
+    "code": "M.7.1.1.5",
+    "statement": "Tam sayılarla işlemler yapmayı gerektiren problemleri çözer.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 8,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.2.1",
+    "code": "M.7.1.2.1",
+    "statement": "Rasyonel sayıları tanır ve sayı doğrusunda gösterir. M.7.1.2.2. Rasyonel sayıları ondalık gösterimle ifade eder.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 9,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 9,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.2.3",
+    "code": "M.7.1.2.3",
+    "statement": "Devirli olan ve olmayan ondalık gösterimleri rasyonel sayı olarak ifade eder. M.7.1.2.4. Rasyonel sayıları sıralar ve karşılaştırır.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 10,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.2.4",
+    "code": "M.7.1.2.4",
+    "statement": "Rasyonel sayılar karşılaştırılırken kesirler için kullanılan stratejiler dikkate alınabilir.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 10,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.3.1",
+    "code": "M.7.1.3.1",
+    "statement": "Rasyonel sayılarla toplama ve çıkarma işlemlerini yapar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 11,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 11,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.3.2",
+    "code": "M.7.1.3.2",
+    "statement": "Rasyonel sayılarla çarpma ve bölme işlemlerini yapar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 14,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 14,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.3.3",
+    "code": "M.7.1.3.3",
+    "statement": "Rasyonel sayılarla çok adımlı işlemleri yapar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 15,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 15,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.3.4",
+    "code": "M.7.1.3.4",
+    "statement": "Rasyonel sayıların kare ve küplerini hesaplar. M.7.1.3.5. Rasyonel sayılarla işlem yapmayı gerektiren problemleri çözer.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 16,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.3.5",
+    "code": "M.7.1.3.5",
+    "statement": "Rasyonel sayılarla işlem yapmayı gerektiren problemleri çözer. M.7.2.1.1. Cebirsel ifadelerle toplama ve çıkarma işlemleri yapar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 17,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.2.1.1",
+    "code": "M.7.2.1.1",
+    "statement": "Cebirsel ifadelerle toplama ve çıkarma işleminde uygun modeller kullanılır.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 17,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.2.1.2",
+    "code": "M.7.2.1.2",
+    "statement": "Bir doğal sayı ile bir cebirsel ifadeyi çarpar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 19,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 19,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.2.1.3",
+    "code": "M.7.2.1.3",
+    "statement": "Sayı örüntülerinin kuralını harfle ifade eder, kuralı harfle ifade edilen örüntünün istenilen terimini bulur. M.7.2.2.1. Eşitliğin korunumu ilkesini anlar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 21,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 21,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.2.2.2",
+    "code": "M.7.2.2.2",
+    "statement": "Birinci dereceden bir bilinmeyenli denklemi tanır ve verilen gerçek hayat durumlarına uygun birinci dereceden bir bilinmeyenli denklem kurar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 22,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 23,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.2.2.3",
+    "code": "M.7.2.2.3",
+    "statement": "Birinci dereceden bir bilinmeyenli denklemleri çözer.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 24,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 24,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.2.2.4",
+    "code": "M.7.2.2.4",
+    "statement": "Birinci dereceden bir bilinmeyenli denklem kurmayı gerektiren problemleri çözer. M.7.1.4.1. Oranda çokluklardan birinin 1 olması durumunda diğerinin alacağı değeri belirler.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 27,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.4.1",
+    "code": "M.7.1.4.1",
+    "statement": "Örneğin 24 TL’ye 3 kg deterjan alınabiliyorsa 1 kg deterjanın 8 TL’ye alınması ( ), pilav tarifinde 2 bardak pirince 3 bardak su konuluyorsa 1 bardak pirince düşen su miktarının 3/2 bardak olması gibi durumlar incelenir.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 27,
+        "col": 7
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 28,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 28,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.4.3",
+    "code": "M.7.1.4.3",
+    "statement": "Gerçek hayat durumlarını inceleyerek iki çokluğun orantılı olup olmadığına karar verir. M.7.1.4.4. Doğru orantılı iki çokluk arasındaki ilişkiyi ifade eder. M.7.1.4.5. Doğru orantılı iki çokluğa ait orantı sabitini belirler ve yorumlar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 29,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 29,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.4.6",
+    "code": "M.7.1.4.6",
+    "statement": "Gerçek hayat durumlarını inceleyerek iki çokluğun ters orantılı olup olmadığına karar verir. M.7.1.4.7. Doğru ve ters orantıyla ilgili problemleri çözer.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 30,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 30,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.4.7",
+    "code": "M.7.1.4.7",
+    "statement": "Doğru ve ters orantıyla ilgili problemleri çözer. M.7.1.5.1. Bir çokluğun belirtilen bir yüzdesine karşılık gelen miktarını ve belirli bir yüzdesi verilen çokluğun tamamını bulur.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 31,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 31,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.5.2",
+    "code": "M.7.1.5.2",
+    "statement": "Bir çokluğu diğer bir çokluğun yüzdesi olarak hesaplar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 32,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 32,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.5.3",
+    "code": "M.7.1.5.3",
+    "statement": "Bir çokluğu belirli bir yüzde ile arttırmaya veya azaltmaya yönelik hesaplamalar yapar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 35,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.1.5.4",
+    "code": "M.7.1.5.4",
+    "statement": "Yüzde ile ilgili problemleri çözer. M.7.3.1.1. Bir açıyı iki eş açıya ayırarak açıortayı belirler.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 36,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.1.1",
+    "code": "M.7.3.1.1",
+    "statement": "Dinamik geometri yazılımlarından yararlanılabilir.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 36,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.1.2",
+    "code": "M.7.3.1.2",
+    "statement": "İki paralel doğruyla bir keseninin oluşturduğu yöndeş, ters, iç ters, dış ters açıları belirleyerek özelliklerini inceler; oluşan açıların eş veya bütünler olanlarını belirler; ilgili problemleri çözer.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 37,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.2.1",
+    "code": "M.7.3.2.1",
+    "statement": "Düzgün çokgenlerin kenar ve açı özelliklerini açıklar. M.7.3.2.2. Çokgenlerin köşegenlerini, iç ve dış açılarını belirler; iç açılarının ve dış açılarının ölçüleri toplamını hesaplar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 38,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.2.3",
+    "code": "M.7.3.2.3",
+    "statement": "Dikdörtgen, paralelkenar, yamuk ve eşkenar dörtgeni tanır; açı özelliklerini belirler. M.7.3.2.4. Eşkenar dörtgen ve yamuğun alan bağıntılarını oluşturur, ilgili problemleri çözer.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 40,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 40,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.2.5",
+    "code": "M.7.3.2.5",
+    "statement": "Alan ile ilgili problemleri çözer.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 41,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 41,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.3.1",
+    "code": "M.7.3.3.1",
+    "statement": "Çemberde merkez açıları, gördüğü yayları ve açı ölçüleri arasındaki ilişkileri belirler. M.7.3.3.2. Çemberin ve çember parçasının uzunluğunu hesaplar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 42,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.3.2",
+    "code": "M.7.3.3.2",
+    "statement": "Merkez açı ile çember parçasının uzunluğu ilişkilendirilirken orandan yararlanmaya yönelik çalışmalara yer verilir.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 42,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.3.3",
+    "code": "M.7.3.3.3",
+    "statement": "Dairenin ve daire diliminin alanını hesaplar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 43,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 43,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.4.1.1",
+    "code": "M.7.4.1.1",
+    "statement": "Verilere ilişkin çizgi grafiği oluşturur ve yorumlar. M.7.4.1.2. Bir veri grubuna ait ortalama, ortanca ve tepe değeri bulur ve yorumlar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 44,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 44,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.4.1.3",
+    "code": "M.7.4.1.3",
+    "statement": "Bir veri grubuna ilişkin daire grafiğini oluşturur ve yorumlar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 46,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 46,
+        "col": 7
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.4.1.4",
+    "code": "M.7.4.1.4",
+    "statement": "Verileri sütun, daire veya çizgi grafiği ile gösterir ve bu gösterimler arasında uygun olan dönüşümleri yapar.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 47,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:7:M.7.3.4.1",
+    "code": "M.7.3.4.1",
+    "statement": "Üç boyutlu cisimlerin farklı yönlerden iki boyutlu görünümlerini çizer. M.7.3.4.2. Farklı yönlerden görünümlerine ilişkin çizimleri verilen yapıları oluşturur.",
+    "grade": "7",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 49,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "7.Sınıf",
+        "row": 49,
+        "col": 7
+      }
+    ]
+  }
+]

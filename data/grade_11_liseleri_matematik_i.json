@@ -1,0 +1,335 @@
+[
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.1.1. Yönlü açıyı açıklar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.1.2. Açı ölçü birimlerini açıklayarak birbiri ile ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.2.1. Trigonometrik fonksiyonları birim çember yardımıyla açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.2.2. Kosinüs teoremiyle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-110 Ekim",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.2.3. Sinüs teoremiyle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.2.4. Trigonometrik fonksiyon grafiklerini çizer."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.2.4. Trigonometrik fonksiyon grafiklerini çizer."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.2.5. Sinüs, kosinüs, tanjant fonksiyonlarının ters fonksiyonlarını açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.2.5. Sinüs, kosinüs, tanjant fonksiyonlarının ters fonksiyonlarını açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "11.1.2.5. Sinüs, kosinüs, tanjant fonksiyonlarının ters fonksiyonlarını açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "unite": "GEOMETRİ",
+    "konu": "Analitik Geometri",
+    "kazanimlar": [
+      "11.2.1.2. Bir doğru parçasını belli bir oranda (içten veya dıştan) bölen noktanın koordinatlarını hesaplar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Analitik Geometri",
+    "kazanimlar": [
+      "11.2.1.3. Analitik düzlemde doğruları inceleyerek işlemler yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Analitik Geometri",
+    "kazanimlar": [
+      "11.2.1.3. Analitik düzlemde doğruları inceleyerek işlemler yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Analitik Geometri",
+    "kazanimlar": [
+      "11.2.1.4. Bir noktanın bir doğruya uzaklığını hesaplar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Fonksiyonlarda Uygulamalar",
+    "kazanimlar": [
+      "11.3.1.1. Fonksiyonun grafik ve tablo temsilini kullanarak problem çözer."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Fonksiyonlarda Uygulamalar",
+    "kazanimlar": [
+      "11.3.1.1. Fonksiyonun grafik ve tablo temsilini kullanarak problem çözer."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Fonksiyonlarda Uygulamalar",
+    "kazanimlar": [
+      "11.3.2.1. İkinci dereceden bir değişkenli fonksiyonun grafiğini çizerek yorumlar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 13-16 Ocak",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Fonksiyonlarda Uygulamalar",
+    "kazanimlar": [
+      "11.3.2.2. İkinci dereceden fonksiyonlarla modellenebilen problemleri çözer"
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Fonksiyonlarda Uygulamalar",
+    "kazanimlar": [
+      "11.3.3.1. Bir fonksiyonun grafiğinden, dönüşümler yardımı ile yeni fonksiyon grafikleri çizer."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 19-13 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Fonksiyonlarda Uygulamalar",
+    "kazanimlar": [
+      "11.3.3.1. Bir fonksiyonun grafiğinden, dönüşümler yardımı ile yeni fonksiyon grafikleri çizer."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlik Sistemleri",
+    "kazanimlar": [
+      "11.4.1.1. İkinci dereceden İki bilinmeyenli denklem sistemlerinin çözüm kümesini bulur."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlik Sistemleri",
+    "kazanimlar": [
+      "11.4.1.1. İkinci dereceden İki bilinmeyenli denklem sistemlerinin çözüm kümesini bulur."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlik Sistemleri",
+    "kazanimlar": [
+      "11.4.2.1. İkinci dereceden bir bilinmeyenli eşitsizliklerin çözüm kümesini bulur."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlik Sistemleri",
+    "kazanimlar": [
+      "11.4.2.1. İkinci dereceden bir bilinmeyenli eşitsizliklerin çözüm kümesini bulur."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlik Sistemleri",
+    "kazanimlar": [
+      "11.4.2.2. İkinci dereceden bir bilinmeyenli eşitsizlik sistemlerinin çözüm kümesini bulur."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlik Sistemleri",
+    "kazanimlar": [
+      "11.4.2.2. İkinci dereceden bir bilinmeyenli eşitsizlik sistemlerinin çözüm kümesini bulur."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.5.1.1. Çemberde teğet, kiriş, çap, yay ve kesen kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 14-17 Nisan",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.5.2.1. Bir çemberde merkez, çevre, iç, dış ve teğet-kiriş açıların özelliklerini kullanarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.5.3.1. Çemberde teğetin özelliklerini göstererek işlemler yapar"
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.5.3.1. Çemberde teğetin özelliklerini göstererek işlemler yapar"
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.5.4.1. Dairenin çevre ve alan bağıntılarını oluşturur."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Uzay Geometri",
+    "kazanimlar": [
+      "11.6.1.1. Küre, dik dairesel silindir ve dik dairesel koninin alan ve hacim bağıntılarını oluşturarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Uzay Geometri",
+    "kazanimlar": [
+      "11.6.1.1. Küre, dik dairesel silindir ve dik dairesel koninin alan ve hacim bağıntılarını oluşturarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "unite": "VERİ, SAYMA VE OLASILIK",
+    "konu": "Olasılık",
+    "kazanimlar": [
+      "11.7.1.1. Koşullu olasılığı açıklayarak problemler çözer."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "unite": "VERİ, SAYMA VE OLASILIK",
+    "konu": "Olasılık",
+    "kazanimlar": [
+      "11.7.1.2. Bağımlı ve bağımsız olayları açıklayarak gerçekleşme olasılıklarını hesaplar"
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "unite": "VERİ, SAYMA VE OLASILIK",
+    "konu": "Olasılık",
+    "kazanimlar": [
+      "11.7.1.2. Bağımlı ve bağımsız olayları açıklayarak gerçekleşme olasılıklarını hesaplar"
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "unite": "VERİ, SAYMA VE OLASILIK",
+    "konu": "Olasılık",
+    "kazanimlar": [
+      "11.7.1.3. Bileşik olayı açıklayarak gerçekleşme olasılığını hesaplar."
+    ]
+  }
+]

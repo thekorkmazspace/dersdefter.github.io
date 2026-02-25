@@ -1,0 +1,556 @@
+{
+  "curriculum": [
+    {
+      "grade": "1",
+      "title": "1. Sınıf",
+      "subjects": [
+        {
+          "name": "Beden Eğitimi",
+          "file": "grade_1_beden_egitimi.json",
+          "code": "PE"
+        },
+        {
+          "name": "Hayat Bilgisi",
+          "file": "grade_1_hayat_bilgisi.json",
+          "code": "HB"
+        },
+        {
+          "name": "Görsel Sanatlar",
+          "file": "grade_1_gorsel_sanatlar.json",
+          "code": "ART"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_1_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Türkçe",
+          "file": "grade_1_turkce.json",
+          "code": "TR"
+        }
+      ]
+    },
+    {
+      "grade": "2",
+      "title": "2. Sınıf",
+      "subjects": [
+        {
+          "name": "Beden Eğitimi",
+          "file": "grade_2_beden_egitimi.json",
+          "code": "PE"
+        },
+        {
+          "name": "Hayat Bilgisi",
+          "file": "grade_2_hayat_bilgisi.json",
+          "code": "HB"
+        },
+        {
+          "name": "İngilizce",
+          "file": "grade_2_ingilizce.json",
+          "code": "EN"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_2_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Türkçe",
+          "file": "grade_2_turkce.json",
+          "code": "TR"
+        }
+      ]
+    },
+    {
+      "grade": "3",
+      "title": "3. Sınıf",
+      "subjects": [
+        {
+          "name": "Hayat Bilgisi",
+          "file": "grade_3_hayat_bilgisi.json",
+          "code": "HB"
+        },
+        {
+          "name": "Fen Bilimleri",
+          "file": "grade_3_fen_bilimleri.json",
+          "code": "SCI"
+        },
+        {
+          "name": "İngilizce",
+          "file": "grade_3_ingilizce.json",
+          "code": "EN"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_3_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Türkçe",
+          "file": "grade_3_turkce.json",
+          "code": "TR"
+        }
+      ]
+    },
+    {
+      "grade": "4",
+      "title": "4. Sınıf",
+      "subjects": [
+        {
+          "name": "Fen Bilimleri",
+          "file": "grade_4_fen_bilimleri.json",
+          "code": "SCI"
+        },
+        {
+          "name": "İngilizce",
+          "file": "grade_4_ingilizce.json",
+          "code": "EN"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_4_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Sosyal Bilgiler",
+          "file": "grade_4_sosyal_bilgiler.json",
+          "code": "SS"
+        },
+        {
+          "name": "Türkçe",
+          "file": "grade_4_turkce.json",
+          "code": "TR"
+        }
+      ]
+    },
+    {
+      "grade": "5",
+      "title": "5. Sınıf",
+      "subjects": [
+        {
+          "name": "Almanca",
+          "file": "grade_5_almanca.json",
+          "code": "DE"
+        },
+        {
+          "name": "Beden Eğitimi",
+          "file": "grade_5_beden_egitimi.json",
+          "code": "PE"
+        },
+        {
+          "name": "Bilişim Teknolojileri ve Yazılım",
+          "file": "grade_5_bilisim_teknolojileri_ve_yazilim.json",
+          "code": "ICT"
+        },
+        {
+          "name": "Fen Bilimleri",
+          "file": "grade_5_fen_bilimleri.json",
+          "code": "SCI"
+        },
+        {
+          "name": "Görsel Sanatlar",
+          "file": "grade_5_gorsel_sanatlar.json",
+          "code": "ART"
+        },
+        {
+          "name": "İngilizce",
+          "file": "grade_5_ingilizce.json",
+          "code": "EN"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_5_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Müzik",
+          "file": "grade_5_muzik.json",
+          "code": "MUS"
+        },
+        {
+          "name": "Sosyal Bilgiler",
+          "file": "grade_5_sosyal_bilgiler.json",
+          "code": "SS"
+        },
+        {
+          "name": "Türkçe",
+          "file": "grade_5_turkce.json",
+          "code": "TR"
+        }
+      ]
+    },
+    {
+      "grade": "6",
+      "title": "6. Sınıf",
+      "subjects": [
+        {
+          "name": "Almanca",
+          "file": "grade_6_almanca.json",
+          "code": "DE"
+        },
+        {
+          "name": "Beden Eğitimi",
+          "file": "grade_6_beden_egitimi.json",
+          "code": "PE"
+        },
+        {
+          "name": "Bilişim Teknolojileri ve Yazılım",
+          "file": "grade_6_bilisim_teknolojileri_ve_yazilim.json",
+          "code": "ICT"
+        },
+        {
+          "name": "Fen Bilimleri",
+          "file": "grade_6_fen_bilimleri.json",
+          "code": "SCI"
+        },
+        {
+          "name": "İngilizce",
+          "file": "grade_6_ingilizce.json",
+          "code": "EN"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_6_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Sosyal Bilgiler",
+          "file": "grade_6_sosyal_bilgiler.json",
+          "code": "SS"
+        },
+        {
+          "name": "Türkçe",
+          "file": "grade_6_turkce.json",
+          "code": "TR"
+        }
+      ]
+    },
+    {
+      "grade": "7",
+      "title": "7. Sınıf",
+      "subjects": [
+        {
+          "name": "Almanca",
+          "file": "grade_7_almanca.json",
+          "code": "DE"
+        },
+        {
+          "name": "Fen Bilimleri",
+          "file": "grade_7_fen_bilimleri.json",
+          "code": "SCI"
+        },
+        {
+          "name": "İngilizce",
+          "file": "grade_7_ingilizce.json",
+          "code": "EN"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_7_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Sosyal Bilgiler",
+          "file": "grade_7_sosyal_bilgiler.json",
+          "code": "SS"
+        },
+        {
+          "name": "Türkçe",
+          "file": "grade_7_turkce.json",
+          "code": "TR"
+        }
+      ]
+    },
+    {
+      "grade": "8",
+      "title": "8. Sınıf",
+      "subjects": [
+        {
+          "name": "Fen Bilimleri",
+          "file": "grade_8_fen_bilimleri.json",
+          "code": "SCI"
+        },
+        {
+          "name": "İngilizce",
+          "file": "grade_8_ingilizce.json",
+          "code": "EN"
+        },
+        {
+          "name": "İnkılap Tarihi ve Atatürkçülük",
+          "file": "grade_8_inkilap_tarihi_ve_ataturkculuk.json",
+          "code": "HIST_TR"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_8_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Türkçe",
+          "file": "grade_8_turkce.json",
+          "code": "TR"
+        }
+      ]
+    },
+    {
+      "grade": "9",
+      "title": "9. Sınıf",
+      "subjects": [
+        {
+          "name": "Beden Eğitimi ve Spor",
+          "file": "grade_9_beden_egitimi_ve_spor.json",
+          "code": "PE"
+        },
+        {
+          "name": "Fizik (Fen Lisesi)",
+          "file": "grade_9_fizik_fen_lisesi.json",
+          "code": "PHYS"
+        },
+        {
+          "name": "Biyoloji",
+          "file": "grade_9_biyoloji.json",
+          "code": "BIO"
+        },
+        {
+          "name": "Biyoloji (Fen Lisesi)",
+          "file": "grade_9_biyoloji_fen_lisesi.json",
+          "code": "BIO"
+        },
+        {
+          "name": "Coğrafya",
+          "file": "grade_9_cografya.json",
+          "code": "GEO"
+        },
+        {
+          "name": "Fizik",
+          "file": "grade_9_fizik.json",
+          "code": "PHYS"
+        },
+        {
+          "name": "Görsel Sanatlar",
+          "file": "grade_9_gorsel_sanatlar.json",
+          "code": "ART"
+        },
+        {
+          "name": "İngilizce",
+          "file": "grade_9_ingilizce.json",
+          "code": "EN"
+        },
+        {
+          "name": "Matematik",
+          "file": "grade_9_matematik.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Matematik (Fen Lisesi)",
+          "file": "grade_9_matematik_fen_lisesi.json",
+          "code": "MATH"
+        },
+        {
+          "name": "Tarih",
+          "file": "grade_9_tarih.json",
+          "code": "HIST"
+        },
+        {
+          "name": "Türk Dili ve Edebiyatı",
+          "file": "grade_9_turk_dili_ve_edebiyati.json",
+          "code": "TDE"
+        },
+        {
+          "name": "Türk Dili ve Edebiyatı (Sosyal Bilimler Lisesi)",
+          "file": "grade_9_turk_dili_ve_edebiyati_sosyal_bilimler_lisesi.json",
+          "code": "TDE"
+        }
+      ]
+    },
+    {
+      "grade": "10",
+      "title": "10. Sınıf",
+      "subjects": [
+        {
+          "name": "Beden Eği̇ti̇mi̇ ve Spor",
+          "file": "grade_10_beden_egitimi_ve_spor.json",
+          "code": "BED"
+        },
+        {
+          "name": "Görsel Sanatlar",
+          "file": "grade_10_gorsel_sanatlar.json",
+          "code": "GOR"
+        },
+        {
+          "name": "Müzi̇k",
+          "file": "grade_10_muzik.json",
+          "code": "MUZ"
+        }
+      ]
+    },
+    {
+      "grade": "11",
+      "title": "11. Sınıf",
+      "subjects": [
+        {
+          "name": "Beden Eği̇ti̇mi̇ ve Spor",
+          "file": "grade_11_beden_egitimi_ve_spor.json",
+          "code": "BED"
+        },
+        {
+          "name": "Coğrafya",
+          "file": "grade_11_cografya.json",
+          "code": "COG"
+        },
+        {
+          "name": "Fen Liseleri Felsefe",
+          "file": "grade_11_fen_liseleri_felsefe.json",
+          "code": "FEN"
+        },
+        {
+          "name": "Fen Liseleri Matematik",
+          "file": "grade_11_fen_liseleri_matematik.json",
+          "code": "FEN"
+        },
+        {
+          "name": "Fen Lisesi Bi̇yoloji̇",
+          "file": "grade_11_fen_lisesi_biyoloji.json",
+          "code": "FEN"
+        },
+        {
+          "name": "Fi̇zi̇k",
+          "file": "grade_11_fizik.json",
+          "code": "FIZ"
+        },
+        {
+          "name": "Görsel Sanatlar",
+          "file": "grade_11_gorsel_sanatlar.json",
+          "code": "GOR"
+        },
+        {
+          "name": "Ki̇mya",
+          "file": "grade_11_kimya.json",
+          "code": "KIM"
+        },
+        {
+          "name": "Liseleri Felsefe",
+          "file": "grade_11_liseleri_felsefe.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Liseleri Fizik",
+          "file": "grade_11_liseleri_fizik.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Liseleri Matematik",
+          "file": "grade_11_liseleri_matematik.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Liseleri Türk Dili ve Edebiyati",
+          "file": "grade_11_liseleri_turk_dili_ve_edebiyati.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Lisesi Biyoloji",
+          "file": "grade_11_lisesi_biyoloji.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Müzi̇k",
+          "file": "grade_11_muzik.json",
+          "code": "MUZ"
+        },
+        {
+          "name": "Sosyal Bilimler Liseleri Felsefe",
+          "file": "grade_11_sosyal_bilimler_liseleri_felsefe.json",
+          "code": "SOS"
+        },
+        {
+          "name": "Tari̇h ve Tc Tc İ T A",
+          "file": "grade_11_tarih_ve_tc_tc_i_t_a.json",
+          "code": "TAR"
+        },
+        {
+          "name": "Temel Düzey Matematik",
+          "file": "grade_11_temel_duzey_matematik.json",
+          "code": "TEM"
+        }
+      ]
+    },
+    {
+      "grade": "12",
+      "title": "12. Sınıf",
+      "subjects": [
+        {
+          "name": "Beden Eği̇ti̇mi̇ ve Spor",
+          "file": "grade_12_beden_egitimi_ve_spor.json",
+          "code": "BED"
+        },
+        {
+          "name": "Coğrafya",
+          "file": "grade_12_cografya.json",
+          "code": "COG"
+        },
+        {
+          "name": "Fen Liseleri Matematik",
+          "file": "grade_12_fen_liseleri_matematik.json",
+          "code": "FEN"
+        },
+        {
+          "name": "Fen Lisesi Bi̇yoloji̇",
+          "file": "grade_12_fen_lisesi_biyoloji.json",
+          "code": "FEN"
+        },
+        {
+          "name": "Fi̇zi̇k",
+          "file": "grade_12_fizik.json",
+          "code": "FIZ"
+        },
+        {
+          "name": "Görsel Sanatlar",
+          "file": "grade_12_gorsel_sanatlar.json",
+          "code": "GOR"
+        },
+        {
+          "name": "Ki̇mya",
+          "file": "grade_12_kimya.json",
+          "code": "KIM"
+        },
+        {
+          "name": "Liseleri Fizik",
+          "file": "grade_12_liseleri_fizik.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Liseleri Matematik",
+          "file": "grade_12_liseleri_matematik.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Liseleri Türk Dili ve Edebiyati",
+          "file": "grade_12_liseleri_turk_dili_ve_edebiyati.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Lisesi Biyoloji",
+          "file": "grade_12_lisesi_biyoloji.json",
+          "code": "LIS"
+        },
+        {
+          "name": "Müzi̇k",
+          "file": "grade_12_muzik.json",
+          "code": "MUZ"
+        },
+        {
+          "name": "Tari̇h ve Tc Tc İ T A",
+          "file": "grade_12_tarih_ve_tc_tc_i_t_a.json",
+          "code": "TAR"
+        },
+        {
+          "name": "Temel Düzey Matematik",
+          "file": "grade_12_temel_duzey_matematik.json",
+          "code": "TEM"
+        }
+      ]
+    }
+  ]
+}

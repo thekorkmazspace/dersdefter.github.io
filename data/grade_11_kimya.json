@@ -1,0 +1,676 @@
+[
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.1. Atomun Kuantum Modeli",
+    "kazanimlar": [
+      "11.1.1.1. Atomu kuantum modeliyle açıklar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.2.Periyodik Sistem ve Elektron Dizilimleri",
+    "kazanimlar": [
+      "11.1.2.1. Nötr atomların elektron dizilimleriyle periyodik sistemdeki yerleri arasında ilişki kurar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.3. Periyodik Özellikler",
+    "kazanimlar": [
+      "11.1.3.1. Periyodik özelliklerdeki değişim eğilimlerini sebepleriyle açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.3. Periyodik Özellikler",
+    "kazanimlar": [
+      "11.1.3.1. Periyodik özelliklerdeki değişim eğilimlerini sebepleriyle açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-10 Ekim",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.4. Elementleri Tanıyalım",
+    "kazanimlar": [
+      "11.1.4.1. Elementlerin periyodik sistemdeki konumu ile özellikleri arasındaki ilişkileri açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.5. Yükseltgenme Basamakları",
+    "kazanimlar": [
+      "11.1.5.1. Yükseltgenme basamakları ile elektron dizilimleri arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.1. Gazların Özellikleri ve Gaz Yasaları",
+    "kazanimlar": [
+      "11.2.1.1. Gazların betimlenmesinde kullanılan özellikleri açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.1 Gazların Özellikleri ve Gaz Yasaları",
+    "kazanimlar": [
+      "11.2.1.1. Gazların betimlenmesinde kullanılan özellikleri açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.1. İdeal Gaz Yasası",
+    "kazanimlar": [
+      "11.2.1.2. Gaz yasalarını açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.2. İdeal Gaz Yasası",
+    "kazanimlar": [
+      "11.2.2.1. Deneysel yoldan türetilmiş gaz yasaları ile ideal gaz yasası arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.2. İdeal Gaz Yasası",
+    "kazanimlar": [
+      "11.2.2.1. Deneysel yoldan türetilmiş gaz yasaları ile ideal gaz yasası arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.3 Gazlarda Kinetik Teori",
+    "kazanimlar": [
+      "11.2.3.1. Gaz davranışlarını kinetik teori ile açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.4 Gaz Karışımları",
+    "kazanimlar": [
+      "11.2.4.1. Gaz karışımlarının kısmi basınçlarını günlük hayattan örneklerle açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.5. Gerçek Gazlar",
+    "kazanimlar": [
+      "11.2.5.1. Gazların sıkışma/genleşme sürecinde gerçek gaz ve ideal gaz kavramlarını karşılaştırır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.1. Çözücü Çözünen Etkileşimleri",
+    "kazanimlar": [
+      "11.3.1.1. Kimyasal türler arası etkileşimleri kullanarak sıvı ortamda çözünme olayını açıklar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.2. Derişim Birimleri",
+    "kazanimlar": [
+      "11.3.2.1. Çözünen madde miktarı ile farklı derişim birimlerini ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.2.Derişim Birimleri",
+    "kazanimlar": [
+      "11.3.2.2. Farklı derişimlerde çözeltiler hazırlar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 12-16 Ocak",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.3. Koligatif Özellikler",
+    "kazanimlar": [
+      "11.3.3.1. Çözeltilerin koligatif özellikleri ile derişimleri arasında ilişki kurar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.4. Çözünürlük",
+    "kazanimlar": [
+      "11.3.4.1. Çözeltileri çözünürlük kavramı temelinde sınıflandırır."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 9-13 Şubat",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.5. Çözünürlüğe Etki Eden Faktörler",
+    "kazanimlar": [
+      "11.3.5.1. Çözünürlüğün sıcaklık ve basınçla ilişkisini açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.5. Çözünürlüğe Etki Eden Faktörler",
+    "kazanimlar": [
+      "11.3.5.1. Çözünürlüğün sıcaklık ve basınçla ilişkisini açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.1. Tepkimelerde Isı Değişimi",
+    "kazanimlar": [
+      "11.4.1.1. Tepkimelerde meydana gelen enerji değişimlerini açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.1. Tepkimelerde Isı Değişimi",
+    "kazanimlar": [
+      "11.4.1.1. Tepkimelerde meydana gelen enerji değişimlerini açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.2. Oluşum Entalpisi",
+    "kazanimlar": [
+      "11.4.2.1. Standart oluşum entalpileri üzerinden tepkime entalpilerini hesaplar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.3. Bağ Enerjileri",
+    "kazanimlar": [
+      "11.4.3.1. Bağ enerjileri ile tepkime entalpisi arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.4. Tepkime Isılarının Toplanabilirliği",
+    "kazanimlar": [
+      "11.4.4.1. Hess Yasasını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "unite": "11.5. KİMYASAL TEPKİMELERDE HIZ",
+    "konu": "11.5.1. Tepkime Hızları",
+    "kazanimlar": [
+      "11.5.1.1. Kimyasal tepkimeler ile tanecik çarpışmaları arasındaki ilişkiyi açıklar.",
+      "11.5.1.2. Kimyasal tepkimelerin hızlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 13-17 Nisan",
+    "unite": "11.5. KİMYASAL TEPKİMELERDE HIZ",
+    "konu": "11.5.2. Tepkime Hızını Etkileyen Faktörler",
+    "kazanimlar": [
+      "11.5.2.1. Tepkime hızına etki eden faktörleri açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.1. Kimyasal Denge",
+    "kazanimlar": [
+      "11.6.1.1. Fiziksel ve kimyasal değişimlerde dengeyi açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.2. Dengeyi Etkileyen Faktörler",
+    "kazanimlar": [
+      "11.6.2.1. Dengeyi etkileyen faktörleri açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.1. pH ve pOH kavramlarını suyun oto-iyonizasyonu üzerinden açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.2. Brönsted-Lowry asitlerini/bazlarını karşılaştırır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.3. Katyonların asitliğini ve anyonların bazlığını su ile etkileşimleri temelinde açıklar.",
+      "11.6.3.4. Asitlik/bazlık gücü ile ayrışma denge sabitleri arasında ilişki kurar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.5. Kuvvetli ve zayıf monoprotik asit/baz çözeltilerinin pH değerlerini hesaplar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.5. Kuvvetli ve zayıf monoprotik asit/baz çözeltilerinin pH değerlerini hesaplar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.6. Tampon çözeltilerin özellikleri ile günlük kullanım alanlarını ilişkilendirir.",
+      "11.6.3.7. Tuz çözeltilerinin asitlik/bazlık özelliklerini açıklar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.8. Kuvvetli asit/baz derişimlerini titrasyon yöntemiyle belirler.",
+      "11.6.3.9. Sulu ortamlarda çözünme-çökelme dengelerini açıklar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.1. Atomun Kuantum Modeli",
+    "kazanimlar": [
+      "11.1.1.1. Atomu kuantum modeliyle açıklar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.2. Periyodik Sistem ve Elektron Dizilimleri",
+    "kazanimlar": [
+      "11.1.2.1. Nötr atomların elektron dizilimleriyle periyodik sistemdeki yerleri arasında ilişki kurar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.3. Periyodik Özellikler",
+    "kazanimlar": [
+      "11.1.3.1. Periyodik özelliklerdeki değişim eğilimlerini sebepleriyle açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.3. Periyodik Özellikler",
+    "kazanimlar": [
+      "11.1.3.1. Periyodik özelliklerdeki değişim eğilimlerini sebepleriyle açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-10 Ekim",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.4. Elementleri Tanıyalım",
+    "kazanimlar": [
+      "11.1.4.1. Elementlerin periyodik sistemdeki konumu ile özellikleri arasındaki ilişkileri açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "unite": "11.1. MODERN ATOM TEORİSİ",
+    "konu": "11.1.5. Yükseltgenme Basamakları",
+    "kazanimlar": [
+      "11.1.5.1. Yükseltgenme basamakları ile elektron dizilimleri arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.1. Gazların Özellikleri ve Gaz Yasaları",
+    "kazanimlar": [
+      "11.2.1.1. Gazların betimlenmesinde kullanılan özellikleri açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.1. Gazların Özellikleri ve Gaz Yasaları",
+    "kazanimlar": [
+      "11.2.1.1. Gazların betimlenmesinde kullanılan özellikleri açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.1. Gazların Özellikleri ve Gaz Yasaları",
+    "kazanimlar": [
+      "11.2.1.2. Gaz yasalarını açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.2. İdeal Gaz Yasası",
+    "kazanimlar": [
+      "11.2.2.1. Deneysel yoldan türetilmiş gaz yasaları ile ideal gaz yasası arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.3. Gazlarda Kinetik Teori",
+    "kazanimlar": [
+      "11.2.3.1. Gaz davranışlarını açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.4. Gaz Karışımları",
+    "kazanimlar": [
+      "11.2.4.1. Gaz karışımlarının kısmi basınçlarını günlük hayattaki örnekler üzerinden açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.5. Gerçek Gazlar",
+    "kazanimlar": [
+      "11.2.5.1. Gazların sıkışma/genleşme sürecinde gerçek gaz ve ideal gaz kavramlarını karşılaştırır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "unite": "11.2. GAZLAR",
+    "konu": "11.2.5. Gerçek Gazlar",
+    "kazanimlar": [
+      "11.2.5.1. Gazların sıkışma/genleşme sürecinde gerçek gaz ve ideal gaz kavramlarını karşılaştırır."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.1. Çözücü Çözünen Etkileşimleri",
+    "kazanimlar": [
+      "11.3.1.1. Kimyasal türler arası etkileşimleri kullanarak sıvı ortamda çözünme olayını açıklar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.2. Derişim Birimleri",
+    "kazanimlar": [
+      "11.3.2.1. Çözünen madde miktarı ile farklı derişim birimlerini ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.2. Derişim Birimleri",
+    "kazanimlar": [
+      "11.3.2.1. Çözünen madde miktarı ile farklı derişim birimlerini ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 12-16 Ocak",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.2. Derişim Birimleri",
+    "kazanimlar": [
+      "11.3.2.2. Farklı derişimlerde çözeltiler hazırlar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.3. Koligatif Özellikler",
+    "kazanimlar": [
+      "11.3.3.1. Çözeltilerin koligatif özellikleri ile derişimleri arasında ilişki kurar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 9-13 Şubat",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.4. Çözünürlük",
+    "kazanimlar": [
+      "11.3.4.1. Çözeltileri çözünürlük kavramı temelinde sınıflandırır."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "11.3. SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
+    "konu": "11.3.5. Çözünürlüğe Etki Eden Faktörler",
+    "kazanimlar": [
+      "11.3.5.1. Çözünürlüğün sıcaklık ve basınçla ilişkisini açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.1. Tepkimelerde Isı Değişimi",
+    "kazanimlar": [
+      "11.4.1.1. Tepkimelerde meydana gelen enerji değişimlerini açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.1. Tepkimelerde Isı Değişimi",
+    "kazanimlar": [
+      "11.4.1.1. Tepkimelerde meydana gelen enerji değişimlerini açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.2. Oluşum Entalpisi",
+    "kazanimlar": [
+      "11.4.2.1. Standart oluşum entalpileri üzerinden tepkime entalpilerini hesaplar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.3. Bağ Enerjileri",
+    "kazanimlar": [
+      "11.4.3.1. Bağ enerjileri ile tepkime entalpisi arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "unite": "11.4. KİMYASAL TEPKİMELERDE ENERJİ",
+    "konu": "11.4.4. Tepkime Isılarının Toplanabilirliği",
+    "kazanimlar": [
+      "11.4.4.1. Hess Yasasını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "unite": "11.5. KİMYASAL TEPKİMELERDE HIZ",
+    "konu": "11.5.1. Tepkime Hızları",
+    "kazanimlar": [
+      "11.5.1.1. Kimyasal tepkimeler ile tanecik çarpışmaları arasındaki ilişkiyi açıklar.",
+      "11.5.1.2. Kimyasal tepkimelerin hızlarını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 13-17 Nisan",
+    "unite": "11.5. KİMYASAL TEPKİMELERDE HIZ",
+    "konu": "11.5.2. Tepkime Hızını Etkileyen Faktörler",
+    "kazanimlar": [
+      "11.5.2.1. Tepkime hızına etki eden faktörleri açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.1. Kimyasal Denge",
+    "kazanimlar": [
+      "11.6.1.1. Fiziksel ve kimyasal değişimlerde dengeyi açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.2. Dengeyi Etkileyen Faktörler",
+    "kazanimlar": [
+      "11.6.2.1. Dengeyi etkileyen faktörleri açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.1. pH ve pOH kavramlarını suyun oto-iyonizasyonu üzerinden açıklar.",
+      "11.6.3.2. Brönsted-Lowry asitlerini/bazlarını karşılaştırır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.3. Katyonların asitliğini ve anyonların bazlığını, su ile etkileşimleri temelinde açıklar.",
+      "11.6.3.4. Asitlik/bazlık gücü ile ayrışma denge sabitleri arasında ilişki kurar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.5. Kuvvetli ve zayıf monoprotik asit/baz çözeltilerinin pH değerlerini hesaplar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.6. Tampon çözeltilerin özellikleri ile günlük kullanım alanlarını ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.6. Tampon çözeltilerin özellikleri ile günlük kullanım alanlarını ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.7. Tuz çözeltilerinin asitlik/bazlık özelliklerini açıklar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "unite": "11.6. KİMYASAL TEPKİMELERDE DENGE",
+    "konu": "11.6.3. Sulu Çözelti Dengeleri",
+    "kazanimlar": [
+      "11.6.3.8. Kuvvetli asit/baz derişimlerini titrasyon yöntemiyle belirler.",
+      "11.6.3.9. Sulu ortamlarda çözünme-çökelme dengelerini açıklar."
+    ]
+  }
+]

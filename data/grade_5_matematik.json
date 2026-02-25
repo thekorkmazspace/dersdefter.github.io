@@ -1,0 +1,565 @@
+[
+  {
+    "outcome_id": "MATH:5:MAT.5.3.1",
+    "code": "MAT.5.3.1",
+    "statement": "Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK ŞEKİLLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 4,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:SDB1.1",
+    "code": "SDB1.1",
+    "statement": "Öz Farkındalık/Kendini Tanıma SDB1.2. Öz Düzenleme/Kendini Düzenleme SDB1.3. Öz Yansıtma/Kendine Uyarlama SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK ŞEKİLLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 4,
+        "col": 10
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 14,
+        "col": 10
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 43,
+        "col": 10
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 47,
+        "col": 10
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 54,
+        "col": 10
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.3.2",
+    "code": "MAT.5.3.2",
+    "statement": "Temel geometrik çizimlere dayalı deneyimlerini yansıtabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK ŞEKİLLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 5,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.3.3",
+    "code": "MAT.5.3.3",
+    "statement": "Açıları ölçmek için matematiksel araç ve teknolojiden yararlanabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK ŞEKİLLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 6,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.3.4",
+    "code": "MAT.5.3.4",
+    "statement": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK ŞEKİLLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 7,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.3.5",
+    "code": "MAT.5.3.5",
+    "statement": "Çokgenleri düzlemde ardışık olarak kesişen doğruların oluşturduğu kapalı şekiller olarak yorumlayabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK ŞEKİLLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 9,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.3.6",
+    "code": "MAT.5.3.6",
+    "statement": "Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK ŞEKİLLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 11,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.3.7",
+    "code": "MAT.5.3.7",
+    "statement": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik muhakeme yapabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK ŞEKİLLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 12,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 14,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.1.1",
+    "code": "MAT.5.1.1",
+    "statement": "Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "SAYILAR VE NİCELİKLER (1)",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 19,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:SDB2.2",
+    "code": "SDB2.2",
+    "statement": "İş Birliği SDB3.2. Esneklik",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "SAYILAR VE NİCELİKLER (1)",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 16,
+        "col": 10
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 19,
+        "col": 10
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.1.2",
+    "code": "MAT.5.1.2",
+    "statement": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "SAYILAR VE NİCELİKLER (1)",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 21,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 22,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 23,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:SDB2.1",
+    "code": "SDB2.1",
+    "statement": "İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "SAYILAR VE NİCELİKLER (1) GEOMETRİK NİCELİKLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 23,
+        "col": 10
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 26,
+        "col": 10
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 30,
+        "col": 10
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 42,
+        "col": 10
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.4.1",
+    "code": "MAT.5.4.1",
+    "statement": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme MAT.5.4.2. Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK NİCELİKLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 24,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.4.3",
+    "code": "MAT.5.4.3",
+    "statement": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK NİCELİKLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 26,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.4.4",
+    "code": "MAT.5.4.4",
+    "statement": "Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "GEOMETRİK NİCELİKLER",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 27,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 28,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.1.3",
+    "code": "MAT.5.1.3",
+    "statement": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "SAYILAR VE NİCELİKLER (2)",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 30,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 31,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 32,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 33,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.1.4",
+    "code": "MAT.5.1.4",
+    "statement": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "SAYILAR VE NİCELİKLER (2)",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 34,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 42,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.5.1",
+    "code": "MAT.5.5.1",
+    "statement": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 43,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 44,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 45,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 46,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.5.2",
+    "code": "MAT.5.5.2",
+    "statement": "Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme MAT.5.2.1. Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "İSTATİSTİKSEL ARAŞTIRMA SÜRECİ İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 47,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.2.1",
+    "code": "MAT.5.2.1",
+    "statement": "Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 48,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.2.2",
+    "code": "MAT.5.2.2",
+    "statement": "Karşılaştığı günlük hayat ya da matematiksel durumlarda işlem önceliğini yorumlayabilme MAT.5.2.3. Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 50,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.2.3",
+    "code": "MAT.5.2.3",
+    "statement": "Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 51,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.2.4",
+    "code": "MAT.5.2.4",
+    "statement": "Temel aritmetik işlem içeren durumlardaki algoritmaları yorumlayabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "İŞLEMLERLE CEBİRSEL DÜŞÜNME VERİDEN OLASILIĞA",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 54,
+        "col": 6
+      },
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 55,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:SDB1.2",
+    "code": "SDB1.2",
+    "statement": "Öz Düzenleme/Kendini Düzenleme SDB1.3. Öz Yansıtma/Kendini Uyarlama SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. Sorumlu Karar Verme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "VERİDEN OLASILIĞA",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 55,
+        "col": 10
+      }
+    ]
+  },
+  {
+    "outcome_id": "MATH:5:MAT.5.6.2",
+    "code": "MAT.5.6.2",
+    "statement": "Olayları az ya da çok olasılıklı şeklinde yapılandırabilme",
+    "grade": "5",
+    "subject_code": "MATH",
+    "subject_name": "Matematik",
+    "theme_or_unit": "VERİDEN OLASILIĞA",
+    "sources": [
+      {
+        "file": "Matematik Dersi Taslak Yıllık Planlar/Ortaokul matematik  Taslak Çerçeve Yillik Plan Matematik 18.09.2025.xlsx",
+        "sheet": "5.Sınıf",
+        "row": 56,
+        "col": 6
+      }
+    ]
+  }
+]

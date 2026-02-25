@@ -1,0 +1,660 @@
+[
+  {
+    "outcome_id": "TR:7:4a23e111c2",
+    "code": null,
+    "statement": "DİNLEME/İZLEME",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 3,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 3,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:caee20c1f4",
+    "code": null,
+    "statement": "KİŞİSEL GELİŞİM",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "KİŞİSEL GELİŞİM",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 22,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 23,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 24,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 25,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:2d6d436a75",
+    "code": null,
+    "statement": "Okul dışı öğrenme etkinlikleri, ders yılı başı okul zümre öğretmenleri toplantısında belirlenecektir.",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "KİŞİSEL GELİŞİM",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 4,
+        "col": 13
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 4,
+        "col": 13
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:T.7.1.2",
+    "code": "T.7.1.2",
+    "statement": "Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.7.1.7. Dinlediklerine/izlediklerine yönelik farklı başlıklar önerir. T.7.1.11. Dinledikleriyle/izledikleriyle ilgili görüşlerini bildirir. T.7.1.13. Dinleme stratejilerini uygular. Empati kurarak, katılımlı, katılımsız, not alarak dinleme gibi yöntem ve teknikleri uygulamaları sağlanır.",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "KİŞİSEL GELİŞİM",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 40,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 20,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 25,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 31,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 35,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 40,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:abafc37b99",
+    "code": null,
+    "statement": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 8,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 9,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 10,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 11,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 10,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 11,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:T.7.1.1",
+    "code": "T.7.1.1",
+    "statement": "Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur. T.7.1.2. Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder. Öğrencilerin kelime anlamlarına yönelik tahminleri ile sözlük anlamlarını karşılaştırmaları sağlanır. T.7.1.4. Dinledikleri/izlediklerine yönelik soruları cevaplar. T.7.1.12. Dinlediklerinin/izlediklerinin içeriğini değerlendirir. a) Medya metinlerindeki örtülü anlamı belirlemesi sağlanır. b) Medya metinlerinin hedef kitlesi ve amacınının sorgulanması sağlanır. T.7.1.14. Konuşmacının sözlü olmayan mesajlarını kavrar.",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ MÜCADELE VE ATATÜRK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 11,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 31,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 35,
+        "col": 6
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 11,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:05ec5113ec",
+    "code": null,
+    "statement": "BİLİM VE TEKNOLOJİ",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "BİLİM VE TEKNOLOJİ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 13,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 14,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 15,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 16,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 7,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:4d8e8713ac",
+    "code": null,
+    "statement": "ERDEMLER",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "ERDEMLER",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 17,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 18,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 19,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 20,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 17,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 18,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 19,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 20,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:271a3fe464",
+    "code": null,
+    "statement": "MİLLÎ KÜLTÜRÜMÜZ",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLÎ KÜLTÜRÜMÜZ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 22,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 23,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 24,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 25,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 26,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 27,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 30,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 31,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:448994e2a8",
+    "code": null,
+    "statement": "DOĞA VE EVREN",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "DOĞA VE EVREN",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 26,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 27,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 30,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 31,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 36,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 37,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 39,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 40,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:be59e3b949",
+    "code": null,
+    "statement": "SAĞLIK VE SPOR",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "SAĞLIK VE SPOR",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 32,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 33,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 34,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 35,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 32,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 33,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 34,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 35,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:4b6c49b8ed",
+    "code": null,
+    "statement": "SANAT",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "SANAT",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 36,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 37,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 39,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf MEB Yayınları",
+        "row": 40,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:1ce759f5a9",
+    "code": null,
+    "statement": "MİLLİ MÜCADELE VE ATATÜRK",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "MİLLİ MÜCADELE VE ATATÜRK",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 8,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 9,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "TR:7:353289ca6a",
+    "code": null,
+    "statement": "OKUMA KÜLTÜRÜ",
+    "grade": "7",
+    "subject_code": "TR",
+    "subject_name": "Türkçe",
+    "theme_or_unit": "OKUMA KÜLTÜRÜ",
+    "sources": [
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 13,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 14,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 15,
+        "col": 4
+      },
+      {
+        "file": "Türkçe Dersi Yıllık Planlar/2025-2026_Turkçe_Taslak_Çerçeve_Yillik_Plan.xlsx",
+        "sheet": "Türkçe 7. Sınıf Özgün Yayınları",
+        "row": 16,
+        "col": 4
+      }
+    ]
+  }
+]

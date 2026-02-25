@@ -1,0 +1,393 @@
+[
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "saat": "2 2",
+    "unite": "12.1. ÇEMBERSEL HAREKET",
+    "konu": "12.1.1. DÜZGÜN ÇEMBERSEL HAREKET",
+    "kazanimlar": [
+      "12.1.1.1. Düzgün çembersel hareketi açıklar.",
+      "12.1.1.2. Düzgün çembersel harekette merkezcil kuvvetin bağlı olduğu değişkenleri analiz eder."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "saat": "2 2",
+    "unite": "12.1. ÇEMBERSEL HAREKET",
+    "konu": "12.1.1. DÜZGÜN ÇEMBERSEL HAREKET",
+    "kazanimlar": [
+      "12.1.1.3. Düzgün çembersel hareket yapan cisimlerin hareketini analiz eder.",
+      "12.1.1.4. Yatay, düşey, eğimli zeminlerde araçların emniyetli dönüş şartları ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "saat": "1 1 2",
+    "unite": "12.1. ÇEMBERSEL HAREKET",
+    "konu": "12.1.2. DÖNEREK ÖTELEME HAREKETİ",
+    "kazanimlar": [
+      "12.1.2.1. Öteleme ve dönme hareketini karşılaştırır.",
+      "12.1.2.2. Eylemsizlik momenti kavramını açıklar.",
+      "12.1.2.3. Dönme ve dönerek öteleme hareketi yapan cismin kinetik enerjisinin bağlı olduğu değişkenleri açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "saat": "2 2",
+    "unite": "12.1. ÇEMBERSEL HAREKET",
+    "konu": "12.1.3. AÇISAL MOMENTUM",
+    "kazanimlar": [
+      "12.1.3.1. Açısal momentumun fiziksel bir nicelik olduğunu açıklar.",
+      "12.1.3.2. Açısal momentumu çizgisel momentum ile ilişkilendirerek açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-110 Ekim",
+    "saat": "2 2",
+    "unite": "12.1. ÇEMBERSEL HAREKET",
+    "konu": "12.1.3. AÇISAL MOMENTUM",
+    "kazanimlar": [
+      "12.1.3.3. Açısal momentumu torkla ilişkilendirir.",
+      "12.1.3.4. Açısal momentumun korunumunu günlük hayattan örneklerle açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "saat": "2 2",
+    "unite": "12.1. ÇEMBERSEL HAREKET",
+    "konu": "12.1.4. KÜTLE ÇEKİM KUVVETİ",
+    "kazanimlar": [
+      "12.1.4.1. Kütle çekim kuvvetini açıklar.",
+      "12.1.4.2. Newton’ın Hareket Kanunları’nı kullanarak kütle çekim ivmesinin bağlı olduğu değişkenleri belirler."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "saat": "4",
+    "unite": "12.1. ÇEMBERSEL HAREKET",
+    "konu": "12.1.4. KÜTLE ÇEKİM KUVVETİ",
+    "kazanimlar": [
+      "12.1.4.3. Kütle çekim potansiyel enerjisini açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "12.1. ÇEMBERSEL HAREKET",
+    "konu": "12.1.5. KEPLER KANUNLARI",
+    "kazanimlar": [
+      "12.1.5.1. Kepler Kanunları’nı açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "12.2. BASİT HARMONİK HAREKET",
+    "konu": "12.2.1. BASİT HARMONİK HAREKET",
+    "kazanimlar": [
+      "12.2.1.1. Basit harmonik hareketi düzgün çembersel hareketi kullanarak açıklar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "saat": "2 2",
+    "unite": "12.2. BASİT HARMONİK HAREKET",
+    "konu": "12.2.1. BASİT HARMONİK HAREKET",
+    "kazanimlar": [
+      "12.2.1.2. Basit harmonik harekette konumun zamana göre değişimini analiz eder.",
+      "12.2.1.3. Basit harmonik harekette kuvvet, hız ve ivmenin konuma göre değişimi ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "saat": "2 2",
+    "unite": "12.2. BASİT HARMONİK HAREKET",
+    "konu": "12.2.1. BASİT HARMONİK HAREKET",
+    "kazanimlar": [
+      "12.2.1.4. Yay sarkacı ve basit sarkaçta periyodun bağlı olduğu değişkenleri belirler.",
+      "12.2.1.5. Yay sarkacı ve basit sarkacın periyodu ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "saat": "2 2",
+    "unite": "12.2. BASİT HARMONİK HAREKET",
+    "konu": "12.2.1. BASİT HARMONİK HAREKET",
+    "kazanimlar": [
+      "12.2.1.4. Yay sarkacı ve basit sarkaçta periyodun bağlı olduğu değişkenleri belirler.",
+      "12.2.1.5. Yay sarkacı ve basit sarkacın periyodu ile ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "saat": "2 2",
+    "unite": "12.3. DALGA MEKANİĞİ",
+    "konu": "12.3.1. DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI",
+    "kazanimlar": [
+      "12.3.1.1. Su dalgalarında kırınım olayının dalga boyu ve yarık genişliği ile ilişkisini belirler.",
+      "12.3.1.2. Su dalgalarında girişim olayını açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "saat": "2 2",
+    "unite": "12.3. DALGA MEKANİĞİ",
+    "konu": "12.3.1. DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI",
+    "kazanimlar": [
+      "12.3.1.3. Işığın çift yarıkta girişimine etki eden değişkenleri açıklar.",
+      "12.3.1.4. Işığın tek yarıkta kırınımına etki eden değişkenleri açıklar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "saat": "2 2",
+    "unite": "12.3. DALGA MEKANİĞİ",
+    "konu": "12.3.1. DALGALARDA KIRINIM, GİRİŞİM VE DOPPLER OLAYI",
+    "kazanimlar": [
+      "12.3.1.5. Kırınım ve girişim olaylarını inceleyerek ışığın dalga doğası hakkında çıkarım yapar.",
+      "12.3.1.6. Doppler olayının etkilerini ışık ve ses dalgalarından örneklerle açıklar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "12.3. DALGA MEKANİĞİ",
+    "konu": "12.3.2. ELEKTROMANYETİK DALGALAR",
+    "kazanimlar": [
+      "12.3.2.1. Elektromanyetik dalgaların ortak özelliklerini açıklar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "12.3. DALGA MEKANİĞİ",
+    "konu": "12.3.2. ELEKTROMANYETİK DALGALAR",
+    "kazanimlar": [
+      "12.3.2.2. Elektromanyetik spektrumu günlük hayattan örneklerle ilişkilendirerek açıklar."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 13-16 Ocak",
+    "saat": "4",
+    "unite": "12.4. ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+    "konu": "12.4.1. ATOM KAVRAMININ TARİHSEL GELİŞİMİ",
+    "kazanimlar": [
+      "12.4.1.1. Atom kavramını açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "saat": "2 2",
+    "unite": "12.4. ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+    "konu": "12.4.1. ATOM KAVRAMININ TARİHSEL GELİŞİMİ",
+    "kazanimlar": [
+      "12.4.1.2. Atomun uyarılma yollarını açıklar.",
+      "12.4.1.3. Modern atom teorisinin önemini açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 19-13 Şubat",
+    "unite": "12.4. ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+    "konu": "12.4.2. BÜYÜK PATLAMA VE EVRENİN OLUŞUMU",
+    "kazanimlar": [
+      "12.4.2.1. Büyük patlama teorisini açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "12.4. ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+    "konu": "12.4.2. BÜYÜK PATLAMA VE EVRENİN OLUŞUMU",
+    "kazanimlar": [
+      "12.4.2.2. Atom altı parçacıkların özelliklerini temel düzeyde açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "saat": "2 2",
+    "unite": "12.4. ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+    "konu": "12.4.2. BÜYÜK PATLAMA VE EVRENİN OLUŞUMU",
+    "kazanimlar": [
+      "12.4.2.3. Madde oluşum sürecini açıklar.",
+      "12.4.2.4. Madde ve antimadde kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "saat": "2 2",
+    "unite": "12.4. ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+    "konu": "12.4.3. RADYOAKTİVİTE",
+    "kazanimlar": [
+      "12.4.3.1. Kararlı ve kararsız durumdaki atomların özelliklerini karşılaştırır."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "saat": "2 2",
+    "unite": "12.4. ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+    "konu": "12.4.3. RADYOAKTİVİTE",
+    "kazanimlar": [
+      "12.4.3.2. Radyoaktif bozunma sonucu atomun kütle numarası, atom numarası ve enerjisindeki değişimi açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "saat": "2 2",
+    "unite": "12.4. ATOM FİZİĞİNE GİRİŞ VE RADYOAKTİVİTE",
+    "konu": "12.4.3. RADYOAKTİVİTE",
+    "kazanimlar": [
+      "12.4.3.3. Nükleer fisyon ve füzyon olaylarını açıklar.",
+      "12.4.3.4. Radyasyonun canlılar üzerindeki etkilerini açıklar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "saat": "2 2",
+    "unite": "12.5. MODERN FİZİK",
+    "konu": "12.5.1. ÖZEL GÖRELİLİK",
+    "kazanimlar": [
+      "12.5.1.1. Michelson–Morley deneyinin amacını ve sonuçlarını açıklar.",
+      "12.5.1.2. Einstein’ın özel görelilik teorisinin temel postülalarını ifade eder."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "saat": "2 2",
+    "unite": "12.5. MODERN FİZİK",
+    "konu": "12.5.1. ÖZEL GÖRELİLİK",
+    "kazanimlar": [
+      "12.5.1.3. Göreli zaman ve göreli uzunluk kavramlarını açıklar.",
+      "12.5.1.4. Kütle-enerji eşdeğerliğini açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 14-17 Nisan",
+    "unite": "12.5. MODERN FİZİK",
+    "konu": "12.5.2. KUANTUM FİZİĞİNE GİRİŞ",
+    "kazanimlar": [
+      "12.5.2.1. Siyah cisim ışımasını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "saat": "2 2",
+    "unite": "12.5. MODERN FİZİK",
+    "konu": "12.5.3. FOTOELEKTRİK OLAYI",
+    "kazanimlar": [
+      "12.5.3.1. Foton kavramını açıklar.",
+      "12.5.3.2. Fotoelektrik olayını açıklar."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "saat": "2 2",
+    "unite": "12.5. MODERN FİZİK",
+    "konu": "12.5.3. FOTOELEKTRİK OLAYI",
+    "kazanimlar": [
+      "12.5.3.3. Farklı metaller için maksimum kinetik enerji-frekans grafiğini çizer.",
+      "12.5.3.4. Fotoelektronların sahip olduğu maksimum kinetik enerji, durdurma gerilimi ve metalin eşik enerjisi arasındaki matematiksel ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "saat": "2 2",
+    "unite": "12.5. MODERN FİZİK",
+    "konu": "12.5.3. FOTOELEKTRİK OLAYI",
+    "kazanimlar": [
+      "12.5.3.5. Fotoelektrik olayın günlük hayattaki uygulamalarına örnekler verir.",
+      "12.5.3.6. Fotoelektrik olayla ilgili hesaplamalar yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "saat": "2 2",
+    "unite": "12.5. MODERN FİZİK",
+    "konu": "12.5.4. COMPTON SAÇILMASI VE DE BROGLİE DALGA BOYU",
+    "kazanimlar": [
+      "12.5.4.1. Compton olayında foton ve elektron etkileşimini açıklar.",
+      "12.5.4.2. Compton ve fotoelektrik olaylarının benzer yönlerini belirterek ışığın tanecik doğası hakkında çıkarım yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "saat": "2 2",
+    "unite": "12.5. MODERN FİZİK",
+    "konu": "12.5.4. COMPTON SAÇILMASI VE DE BROGLİE DALGA BOYU",
+    "kazanimlar": [
+      "12.5.4.3. Işığın ikili doğasını açıklar.",
+      "12.5.4.4. Madde ve dalga arasındaki ilişkiyi açıklar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "saat": "2 2",
+    "unite": "12.6. MODERN FİZİĞİN TEKNOLOJİDEKİ UYGULAMALARI",
+    "konu": "12.6.1. GÖRÜNTÜLEME TEKNOLOJİLERİ",
+    "kazanimlar": [
+      "12.6.1.1. Görüntüleme cihazlarının çalışma prensiplerini açıklar.",
+      "12.6.1.2. LCD ve plazma teknolojilerinde fizik biliminin yerini açıklar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "konu": "12.6.2. YARI İLETKEN TEKNOLOJİSİ",
+    "kazanimlar": [
+      "12.6.2.1. Yarı iletken maddelerin genel özelliklerini açıklar.",
+      "12.6.2.2. Yarı iletken malzemelerin teknolojideki önemini açıklar.",
+      "12.6.2.3. LED teknolojisinin kullanıldığı yerlere örnekler verir."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "konu": "12.6.2. YARI İLETKEN TEKNOLOJİSİ",
+    "kazanimlar": [
+      "12.6.2.4. Güneş pillerinin çalışma şeklini açıklar.",
+      "12.6.2.5. Günlük hayatı kolaylaştıran, güneş pillerinin kullanıldığı sistem tasarlar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "saat": "1 2 1",
+    "konu": "12.6.3. SÜPER İLETKENLER 12.6.4. NANOTEKNOLOJİ 12.6.5. LASER IŞINLARI",
+    "kazanimlar": [
+      "12.6.3.1. Süper iletken maddenin temel özelliklerini açıklar.",
+      "12.6.3.2. Süper iletkenlerin teknolojideki kullanım alanlarına örnekler verir.",
+      "12.6.4.1. Nanobilimin temellerini açıklar.",
+      "12.6.4.2. Nanomalzemelerin temel özelliklerini açıklar.",
+      "12.6.4.3. Nanomalzemelerin teknolojideki kullanım alanlarına örnekler verir.",
+      "12.6.5.1. LASER ışınlarının elde edilişini açıklar.",
+      "12.6.5.2. LASER ışınlarının teknolojideki kullanım alanlarına örnekler verir."
+    ]
+  }
+]

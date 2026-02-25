@@ -1,0 +1,698 @@
+[
+  {
+    "outcome_id": "ICT:5:BTY.5.1.1",
+    "code": "BTY.5.1.1",
+    "statement": "Günlük yaşamda kullanılan bilişim teknolojilerini sınıflandırabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 4,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:SDB1.1",
+    "code": "SDB1.1",
+    "statement": "Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 4,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 5,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 6,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 7,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 9,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 11,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 12,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 26,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 28,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 31,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 32,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 38,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 39,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 40,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 44,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 46,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 50,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 51,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 53,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 55,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 57,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 58,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 59,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 62,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 63,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 66,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 69,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 71,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.1.2",
+    "code": "BTY.5.1.2",
+    "statement": "Bilişim teknolojilerinin birey ve toplum üzerindeki etkilerini özetleyebilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 6,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.1.3",
+    "code": "BTY.5.1.3",
+    "statement": "Dijital vatandaşlık uygulamalarını sınıflandırabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 9,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.1.4",
+    "code": "BTY.5.1.4",
+    "statement": "Yapay zekâ ile ilgili temel kavramları ve özellikleri sorgulayabilme BTY.5.1.5. Bilgisayar sistemlerini çözümleyebilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 11,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.1.5",
+    "code": "BTY.5.1.5",
+    "statement": "Bilgisayar sistemlerini çözümleyebilme BTY.5.1.6. Dosya ve klasör yönetimi ile ilgili temel işlemlerle çalışabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 12,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.2.1",
+    "code": "BTY.5.2.1",
+    "statement": "Görsel düzenleme programlarından yararlanabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 15,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 17,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:SDB1.2",
+    "code": "SDB1.2",
+    "statement": "Kendini Düzenleme (Öz Düzenleme) SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 15,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 17,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 20,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 21,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 22,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 23,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 34,
+        "col": 9
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 37,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.2.2",
+    "code": "BTY.5.2.2",
+    "statement": "Görsel için kurgu oluşturabilme BTY.5.2.3 Görsel dosyası geliştirebilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 20,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.2.3",
+    "code": "BTY.5.2.3",
+    "statement": "Görsel dosyası geliştirebilme BTY.5.2.4 Kelime işlemci programlarından yararlanabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 21,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.2.4",
+    "code": "BTY.5.2.4",
+    "statement": "Kelime işlemci programlarından yararlanabilme BTY.5.2.5 Kelime işlemci dosyası geliştirebilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 22,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.2.6",
+    "code": "BTY.5.2.6",
+    "statement": "Sunum programlarından yararlanabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 23,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.2.7",
+    "code": "BTY.5.2.7",
+    "statement": "Sunum dosyası geliştirebilme BTY.5.3.1. Bilgisayar ağları ve bileşenlerini sorgulayabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Dijital Ürün Tasarım ve Geliştirme / Bilgisayar Ağları ve İletişim",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 26,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.3.1",
+    "code": "BTY.5.3.1",
+    "statement": "Bilgisayar ağları ve bileşenlerini sorgulayabilme BTY.5.3.2. Bilgisayar ağları ve bağlanma yöntemlerini sınıflandırabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilgisayar Ağları ve İletişim",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 28,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.3.2",
+    "code": "BTY.5.3.2",
+    "statement": "Bilgisayar ağları ve bağlanma yöntemlerini sınıflandırabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilgisayar Ağları ve İletişim",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 31,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.3.3",
+    "code": "BTY.5.3.3",
+    "statement": "İnternet ile amacına uygun olarak çalışabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilgisayar Ağları ve İletişim",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 32,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.4.1",
+    "code": "BTY.5.4.1",
+    "statement": "Bilişim etiği kural ve ilkelerini yorumlayabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Etiği ve Siber Güvenlik",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 34,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.4.2",
+    "code": "BTY.5.4.2",
+    "statement": "Dijital ortamlarda gizlilik ve güvenlik önlemlerini yönetebilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Bilişim Etiği ve Siber Güvenlik",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 37,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.5.1",
+    "code": "BTY.5.5.1",
+    "statement": "Yapay zekâ uygulamalarını sınıflandırabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yapay Zekâ",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 38,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 39,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.5.2",
+    "code": "BTY.5.5.2",
+    "statement": "Yapay zekâya ilişkin etik ve güvenlik/gizlilik önlemlerini yönetebilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yapay Zekâ",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 40,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 44,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.6.1",
+    "code": "BTY.5.6.1",
+    "statement": "Problem çözümü için algoritmik düşünebilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yazılım Tasarımı ve Programlama",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 46,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 50,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 51,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 53,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 55,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.6.2",
+    "code": "BTY.5.6.2",
+    "statement": "Algoritma oluşturmada test edebilme-hata ayıklayabilme BTY.5.6.3. Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yazılım Tasarımı ve Programlama",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 57,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.6.3",
+    "code": "BTY.5.6.3",
+    "statement": "Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yazılım Tasarımı ve Programlama",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 58,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 59,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "ICT:5:BTY.5.6.4",
+    "code": "BTY.5.6.4",
+    "statement": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme",
+    "grade": "5",
+    "subject_code": "ICT",
+    "subject_name": "Bilişim Teknolojileri ve Yazılım",
+    "theme_or_unit": "Yazılım Tasarımı ve Programlama",
+    "sources": [
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 62,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 63,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 66,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 69,
+        "col": 6
+      },
+      {
+        "file": "Bilişim Teknolojileri ve Yazılım Dersi Yıllık Planlar-/TYMM BİLİŞİM TEKNOLOJİLERİ DERSİ 5. SINIF TASLAK ÇERÇEVE YILLIK PLANI.xlsx",
+        "sheet": "BTY_5",
+        "row": 71,
+        "col": 6
+      }
+    ]
+  }
+]

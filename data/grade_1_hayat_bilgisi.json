@@ -1,0 +1,793 @@
+[
+  {
+    "outcome_id": "UNK:1:b9edc24b7d",
+    "code": null,
+    "statement": "BEN VE OKULUM",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 6,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 7,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 8,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 9,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.1.1",
+    "code": "HB.1.1.1",
+    "statement": "Öğretmeni ve arkadaşlarıyla tanışabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 4,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:SDB2.1",
+    "code": "SDB2.1",
+    "statement": "İletişim SDB3.1. Uyum",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 4,
+        "col": 9
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.1.2",
+    "code": "HB.1.1.2",
+    "statement": "Okul ortamını tanıyabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 5,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 6,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.1.3",
+    "code": "HB.1.1.3",
+    "statement": "Sınıf ve okul ortamında kurallara uygun davranabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 7,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 8,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.1.4",
+    "code": "HB.1.1.4",
+    "statement": "Fiziksel özelliklerini ve temel duygularını açıklayabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 9,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:1e1497eb29",
+    "code": null,
+    "statement": "SAĞLIĞIM VE GÜVENLİĞİM",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 10,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 12,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 13,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 15,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 16,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 17,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.2.1",
+    "code": "HB.1.2.1",
+    "statement": "Sağlıklı büyüme ve gelişme için yapması gerekenleri belirleyebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 10,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.2.2",
+    "code": "HB.1.2.2",
+    "statement": "Kişisel alanının sınırlarını belirleyebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 12,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.2.3",
+    "code": "HB.1.2.3",
+    "statement": "Temel trafik kurallarına uygun davranabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 13,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 15,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.2.4",
+    "code": "HB.1.2.4",
+    "statement": "Acil durumlarda yapılması gerekenleri belirleyebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 16,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 17,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 18,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:d1d4047a59",
+    "code": null,
+    "statement": "AİLEM VE TOPLUM",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 18,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 19,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 20,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 22,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 23,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.3.1",
+    "code": "HB.1.3.1",
+    "statement": "Aile olmanın önemini fark edebilme HB.1.3.2. Aile yaşamında nezaket ve görgü kurallarına uygun davranabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 19,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.3.2",
+    "code": "HB.1.3.2",
+    "statement": "Aile yaşamında nezaket ve görgü kurallarına uygun davranabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 20,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.3.3",
+    "code": "HB.1.3.3",
+    "statement": "Aile bireylerinin görev ve sorumluluklarını çözümleyebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 22,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 23,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 24,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:e2b06302de",
+    "code": null,
+    "statement": "AİLEM VE TOPLUM YAŞADIĞIM YER VE ÜLKEM",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 24,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:a8d12f0df5",
+    "code": null,
+    "statement": "YAŞADIĞIM YER VE ÜLKEM",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 26,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 27,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 28,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 29,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 30,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 31,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 33,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.4.1",
+    "code": "HB.1.4.1",
+    "statement": "Yaşadığı yerin ve ülkemizin genel özelliklerini açıklayabilme HB.1.4.2. Türk Bayrağı ve İstiklâl Marşı’nın önemini ifade edebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 26,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.4.2",
+    "code": "HB.1.4.2",
+    "statement": "Türk Bayrağı ve İstiklâl Marşı’nın önemini ifade edebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 27,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.4.3",
+    "code": "HB.1.4.3",
+    "statement": "Mustafa Kemal Atatürk’ün hayatıyla ilgili bilgileri ifade edebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 28,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 29,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.4.4",
+    "code": "HB.1.4.4",
+    "statement": "Millî gün ve bayramlarda yaşadığı duyguları ifade edebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 30,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.4.5",
+    "code": "HB.1.4.5",
+    "statement": "Dinî gün ve bayramlarda yaşadığı duyguları ifade edebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 31,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 33,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:2d38c97c79",
+    "code": null,
+    "statement": "DOĞA VE ÇEVRE",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 34,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 36,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 37,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 38,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 39,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 40,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.5.1",
+    "code": "HB.1.5.1",
+    "statement": "Yakın çevresinde bulunan doğadaki varlıkları gözlemleyebilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 34,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.5.2",
+    "code": "HB.1.5.2",
+    "statement": "Modeller üzerinden gök cisimlerini karşılaştırabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 36,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.5.3",
+    "code": "HB.1.5.3",
+    "statement": "Afet türlerini tanıyabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 37,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 38,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.5.4",
+    "code": "HB.1.5.4",
+    "statement": "Geri dönüştürülebilen atıkları sınıflandırabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 39,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 40,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:9ff9019d21",
+    "code": null,
+    "statement": "BİLİM, TEKNOLOJİ VE SANAT",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 41,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 42,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 43,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 45,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 46,
+        "col": 4
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 47,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.6.1",
+    "code": "HB.1.6.1",
+    "statement": "Bilimle ilgili merak ettiklerini sorabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 41,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 42,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.6.2",
+    "code": "HB.1.6.2",
+    "statement": "Teknoloji ile ilgili merak ettiklerini sorabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 43,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "outcome_id": "UNK:1:HB.1.6.3",
+    "code": "HB.1.6.3",
+    "statement": "Sanatla ilgili merak ettiklerini sorabilme",
+    "grade": "1",
+    "subject_code": "UNK",
+    "subject_name": "Bilinmeyen",
+    "theme_or_unit": null,
+    "sources": [
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 45,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 46,
+        "col": 6
+      },
+      {
+        "file": "Hayat Bilgisi Dersi Taslak Yıllık Planlar-/Hayat Bilgisi Taslak Yıllık Planlar.xlsx",
+        "sheet": "1. sınıf",
+        "row": 47,
+        "col": 6
+      }
+    ]
+  }
+]
