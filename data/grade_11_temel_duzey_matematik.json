@@ -1,0 +1,335 @@
+[
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.1.1. Sayı kümelerini birbiriyle ilişkilendirir."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.1.2. Doğal sayıların çözümlenmesi ile ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.1.2. Doğal sayıların çözümlenmesi ile ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.1.3. Eşit miktarda artarak devam eden sınırlı sayıdaki doğal sayıların toplamını bulur."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-110 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.1.3. Eşit miktarda artarak devam eden sınırlı sayıdaki doğal sayıların toplamını bulur"
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.2.1. Tam sayılarda bölünebilme kurallarıyla ilgili işlemler yapar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.2.1. Tam sayılarda bölünebilme kurallarıyla ilgili işlemler yapar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.2.2. Bir tamsayının pozitif tamsayı bölenlerinin sayısını bulur"
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Sayılar",
+    "kazanimlar": [
+      "11.1.2.2. Bir tamsayının pozitif tamsayı bölenlerinin sayısını bulur"
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.1. Dik üçgenlerle ilgili problemler çözer"
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.1. Dik üçgenlerle ilgili problemler çözer"
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.1. Dik üçgenlerle ilgili problemler çözer"
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.2. Dik üçgende trigonometrik oranlarla ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.2. Dik üçgende trigonometrik oranlarla ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.2. Dik üçgende trigonometrik oranlarla ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.3. Üçgenlerin benzerliğiyle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.3. Üçgenlerin benzerliğiyle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 13-16 Ocak",
+    "unite": "GEOMETRİ",
+    "konu": "Üçgenler",
+    "kazanimlar": [
+      "11.2.1.3. Üçgenlerin benzerliğiyle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.1.1. Birinci dereceden bir veya iki bilinmeyenli denklemlerle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 19-13 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.1.1. Birinci dereceden bir veya iki bilinmeyenli denklemlerle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.1.1. Birinci dereceden bir veya iki bilinmeyenli denklemlerle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.1.1. Birinci dereceden bir veya iki bilinmeyenli denklemlerle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.1.2. Birinci dereceden bir bilinmeyenli eşitsizliklerle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.1.2. Birinci dereceden bir bilinmeyenli eşitsizliklerle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.1.2. Birinci dereceden bir bilinmeyenli eşitsizliklerle ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.2.1. Gelir-giderleri göz önüne alarak birey, aile ve kurum bütçesi oluşturur."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.2.1. Gelir-giderleri göz önüne alarak birey, aile ve kurum bütçesi oluşturur."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 14-17 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.2.1. Gelir-giderleri göz önüne alarak birey, aile ve kurum bütçesi oluşturur."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.2.2. Seyahatlerde mümkün olan alternatifleri karşılaştırır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Denklem ve Eşitsizlikler",
+    "kazanimlar": [
+      "11.3.2.2. Seyahatlerde mümkün olan alternatifleri karşılaştırır."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.4.1.1. Çemberin temel elemanlarını tanır"
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.4.1.1. Çemberin temel elemanlarını tanır"
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.4.2.1. Çemberlerde açıların özelliklerini kullanarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.4.2.1. Çemberlerde açıların özelliklerini kullanarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.4.2.1. Çemberlerde açıların özelliklerini kullanarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.4.3.1. Dairenin çevre ve alan bağıntılarını oluşturur"
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "unite": "GEOMETRİ",
+    "konu": "Çember ve Daire",
+    "kazanimlar": [
+      "11.4.3.1. Dairenin çevre ve alan bağıntılarını oluşturur"
+    ]
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "ay": "EYLÜL",
+    "hafta": "1. Hafta: 8-12 Eylül",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Üstel ve Logaritmik Fonksiyonlar",
+    "kazanimlar": [
+      "12.1.1.1. Üstel fonksiyonu açıklayarak grafiğini çizer."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "2. Hafta: 15-19 Eylül",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Üstel ve Logaritmik Fonksiyonlar",
+    "kazanimlar": [
+      "12.1.1.1. Üstel fonksiyonu açıklayarak grafiğini çizer."
+    ]
+  },
+  {
+    "ay": "EYLÜL",
+    "hafta": "3. Hafta: 22-26 Eylül",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Üstel ve Logaritmik Fonksiyonlar",
+    "kazanimlar": [
+      "12.1.2.1. Logaritma fonksiyonu ile üstel fonksiyonu ilişkilendirerek problemler çözer."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "4. Hafta: 29 Eylül-3 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Üstel ve Logaritmik Fonksiyonlar",
+    "kazanimlar": [
+      "12.1.2.2. 10 ve e tabanında logaritma fonksiyonu ile ilgili işlemler yapar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "5. Hafta: 6-110 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Üstel ve Logaritmik Fonksiyonlar",
+    "kazanimlar": [
+      "12.1.2.3. Logaritma fonksiyonunun özelliklerini kullanarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "6. Hafta: 13-17 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Üstel ve Logaritmik Fonksiyonlar",
+    "kazanimlar": [
+      "12.1.3.2. Üstel ve logaritmik fonksiyonları gerçek hayat durumlarını modellemede kullanır."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "7. Hafta: 20-24 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Diziler",
+    "kazanimlar": [
+      "12.2.1.1. Dizi kavramını fonksiyon kavramıyla ilişkilendirerek açıklar."
+    ]
+  },
+  {
+    "ay": "EKİM",
+    "hafta": "8. Hafta: 27 Ekim-31 Ekim",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Diziler",
+    "kazanimlar": [
+      "12.2.1.2. Genel terimi veya indirgeme bağıntısı verilen bir sayı dizisinin terimlerini bulur."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "9. Hafta: 3-7 Kasım",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Diziler",
+    "kazanimlar": [
+      "12.2.1.4. Diziler yardımıyla gerçek hayat durumları ile ilgili problemler çözer."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "10. Hafta: 17-21 Kasım",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "12.3.1.1. İki açının ölçüleri toplamının ve farkının trigonometrik değerlerine ait formülleri oluşturarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "KASIM",
+    "hafta": "11. Hafta: 24-28 Kasım",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "12.3.1.1. İki açının ölçüleri toplamının ve farkının trigonometrik değerlerine ait formülleri oluşturarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "12. Hafta: 1-5 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "12.3.1.2. İki kat açı formüllerini oluşturarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "13. Hafta: 8-12 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "12.3.2.1. Trigonometrik denklemlerin çözüm kümelerini bulur."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "14. Hafta: 15-19 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "12.3.2.1. Trigonometrik denklemlerin çözüm kümelerini bulur."
+    ]
+  },
+  {
+    "ay": "ARALIK",
+    "hafta": "15. Hafta: 22-26 Aralık",
+    "unite": "GEOMETRİ",
+    "konu": "Trigonometri",
+    "kazanimlar": [
+      "12.3.2.1. Trigonometrik denklemlerin çözüm kümelerini bulur."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "16. Hafta: 29 Aralık-2 Ocak",
+    "unite": "GEOMETRİ",
+    "konu": "Dönüşümler",
+    "kazanimlar": [
+      "12.4.1.1. Analitik düzlemde koordinatları verilen bir noktanın öteleme, dönme ve simetri dönüşümleri altındaki görüntüsünün koordinatlarını bulur."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "17. Hafta: 5-9 Ocak",
+    "unite": "GEOMETRİ",
+    "konu": "Dönüşümler",
+    "kazanimlar": [
+      "12.4.1.1. Analitik düzlemde koordinatları verilen bir noktanın öteleme, dönme ve simetri dönüşümleri altındaki görüntüsünün koordinatlarını bulur."
+    ]
+  },
+  {
+    "ay": "OCAK",
+    "hafta": "18. Hafta: 13-16 Ocak",
+    "unite": "GEOMETRİ",
+    "konu": "Dönüşümler",
+    "kazanimlar": [
+      "12.4.1.2. Temel dönüşümler ve bileşkeleriyle ilgili problem çözer."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "19. Hafta: 2-6 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Türev",
+    "kazanimlar": [
+      "12.5.1.1. Bir fonksiyonun bir noktadaki limiti, soldan limit ve sağdan limit kavramlarını açıklar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "20. Hafta: 19-13 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Türev",
+    "kazanimlar": [
+      "12.5.1.4. Belirsizlik durumlarını inceleyerek bu durumdaki fonksiyonların limitini hesaplar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "21. Hafta: 16-20 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Türev",
+    "kazanimlar": [
+      "12.5.2.1. Türev kavramını açıklayarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "ŞUBAT",
+    "hafta": "22. Hafta: 23-27 Şubat",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Türev",
+    "kazanimlar": [
+      "12.5.2.2. Bir fonksiyonun bir noktada ve bir aralıkta türevlenebilirliğini değerlendirir."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "23. Hafta: 2-6 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Türev",
+    "kazanimlar": [
+      "12.5.2.4. İki fonksiyonun bileşkesinin türevine ait kuralı (zincir kuralı) oluşturularak türev hesabı yapar."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "24. Hafta: 9-13 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Türev",
+    "kazanimlar": [
+      "12.5.3.1. Bir fonksiyonun artan veya azalan olduğu aralıkları türev yardımıyla belirler."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "25. Hafta: 23-27 Mart",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Türev",
+    "kazanimlar": [
+      "12.5.3.3. Bir fonksiyonun dönüm noktasını türev yardımıyla belirler."
+    ]
+  },
+  {
+    "ay": "MART",
+    "hafta": "26. Hafta: 30 Mart - 3 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "Türev",
+    "kazanimlar": [
+      "12.5.3.5. Maksimum ve minimum problemlerini türev kullanarak çözer."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "27. Hafta: 6-10 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "İntegral",
+    "kazanimlar": [
+      "12.6.1.1. Bir fonksiyonun belirsiz integralini açıklayarak integral alma kurallarını oluşturur."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "28. Hafta: 14-17 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "İntegral",
+    "kazanimlar": [
+      "12.6.1.1. Bir fonksiyonun belirsiz integralini açıklayarak integral alma kurallarını oluşturur."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "29. Hafta: 20-24 Nisan",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "İntegral",
+    "kazanimlar": [
+      "12.6.1.2. Belirsiz integral alma yöntemlerini kullanarak integral alır."
+    ]
+  },
+  {
+    "ay": "NİSAN",
+    "hafta": "30. Hafta: 27 Nisan-1 Mayıs",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "İntegral",
+    "kazanimlar": [
+      "12.6.2.1. Bir fonksiyonun grafiği ile x ekseni arasında kalan sınırlı bölgenin alanını Riemann toplamı yardımıyla yaklaşık olarak hesaplar"
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "31. Hafta: 4-8 Mayıs",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "İntegral",
+    "kazanimlar": [
+      "12.6.2.2. Bir fonksiyonun belirli ve belirsiz integralleri arasındaki ilişkiyi açıklayarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "32. Hafta: 11-15 Mayıs",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "İntegral",
+    "kazanimlar": [
+      "12.6.2.3. Belirli integralin özelliklerini kullanarak işlemler yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "33. Hafta: 18-22 Mayıs",
+    "unite": "SAYILAR VE CEBİR",
+    "konu": "İntegral",
+    "kazanimlar": [
+      "12.6.2.4. Belirli integral ile alan hesabı yapar."
+    ]
+  },
+  {
+    "ay": "MAYIS",
+    "hafta": "34. Hafta: 25-29 Mayıs",
+    "unite": "GEOMETRİ",
+    "konu": "Analitik Geometri",
+    "kazanimlar": [
+      "12.7.1.1. Merkezi ve yarıçapı verilen çemberin denklemini oluşturur."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "35. Hafta: 1-5 Haziran",
+    "unite": "GEOMETRİ",
+    "konu": "Analitik Geometri",
+    "kazanimlar": [
+      "12.7.1.1. Merkezi ve yarıçapı verilen çemberin denklemini oluşturur."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "36. Hafta: 8-12 Haziran",
+    "unite": "GEOMETRİ",
+    "konu": "Analitik Geometri",
+    "kazanimlar": [
+      "12.7.1.2. Denklemleri verilen doğru ile çemberin birbirine göre durumlarını belirleyerek işlemler yapar."
+    ]
+  },
+  {
+    "ay": "HAZİRAN",
+    "hafta": "37. Hafta: 15-19 Haziran",
+    "unite": "GEOMETRİ",
+    "konu": "Analitik Geometri",
+    "kazanimlar": [
+      "12.7.1.2. Denklemleri verilen doğru ile çemberin birbirine göre durumlarını belirleyerek işlemler yapar."
+    ]
+  }
+]
