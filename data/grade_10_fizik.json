@@ -1,0 +1,25 @@
+[
+  {
+    "unite": "KUVVET VE HAREKET",
+    "konu": "Kuvvet ve Hareket",
+    "kazanimlar": [
+      "FİZ.10.1.1 Yatay doğrultuda sabit hızlı hareket ile ilgili tümevarımsal akıl yürütebilme",
+      "FİZ.10.1.2 İvme ve hız değişimi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+      "FİZ.10.1.3 Yatay doğrultuda sabit ivmeyle hareket eden cisimlerin hareket grafiklerinden elde edilen matematiksel modelleri yorumlayabilme",
+      "FİZ.10.1.4 Serbest düşme hareketi yapan cisimlerin ivmesine yönelik tümevarımsal akıl yürütebilme",
+      "FİZ.10.1.5 Serbest düşme hareketi ile ilgili kanıt kullanabilme",
+      "FİZ.10.1.6 İki boyutta sabit ivmeli hareket ile ilgili tümevarımsal akıl yürütebilme"
+    ]
+  },
+  {
+    "unite": "ENERJİ",
+    "konu": "Enerji",
+    "kazanimlar": [
+      "FİZ.10.2.1 Kuvvet-yer değiştirme grafikleri kullanarak yapılan işe yönelik akıl yürütme ve iş kavramını yorumlayabilme",
+      "FİZ.10.2.2 İş, enerji ve güç kavramları arasındaki ilişkiyi analiz edebilme",
+      "FİZ.10.2.3 Enerji türleri ve enerji dönüşümleri hakkında karşılaştırma yapabilme",
+      "FİZ.10.2.4 Mekanik enerji kavramını basit sistemlerde analiz edebilme",
+      "FİZ.10.2.5 Yenilenebilir ve yenilenemeyen enerji kaynaklarını karşılaştırarak sürdürülebilirlik bağlamında değerlendirebilme"
+    ]
+  }
+]

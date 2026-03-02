@@ -1,0 +1,41 @@
+[
+  {
+    "unite": "ETKİLEŞİM",
+    "konu": "Kimyasal Etkileşimler",
+    "kazanimlar": [
+      "KİM.10.1.1 Kimyasal değişimlerin gözlemlenebilir kanıtlarını belirleyebilme",
+      "KİM.10.1.2 Kimyasal tepkimeleri moleküler düzeyde modelleyebilme",
+      "KİM.10.1.3 Kimyasal tepkime türlerini sınıflandırarak örneklerle açıklayabilme",
+      "KİM.10.1.4 Mol kavramını tanımlayarak atom ve molekül sayısı ile ilişkilendirebilme",
+      "KİM.10.1.5 Kimyasal denklemlerde kütle ve mol hesaplamaları yapabilme",
+      "KİM.10.1.6 Kimyasal denklemleri denkleştirebilme",
+      "KİM.10.1.7 Gaz kanunlarını kullanarak basit hesaplamalar yapabilme",
+      "KİM.10.1.8 Tepkime hızını etkileyen faktörleri yorumlayabilme",
+      "KİM.10.1.9 Kimyasal denge kavramını örneklerle açıklayabilme",
+      "KİM.10.1.10 Asit ve baz tepkimelerini modellerle açıklayabilme",
+      "KİM.10.1.11 Oksidasyon–indirgeme tepkimelerini tanımlayarak örneklendirebilme"
+    ]
+  },
+  {
+    "unite": "ÇEŞİTLİLİK",
+    "konu": "Maddelerin Çeşitliliği",
+    "kazanimlar": [
+      "KİM.10.2.1 Çözünme sürecini moleküler düzeyde modelleyebilme",
+      "KİM.10.2.2 Farklı maddelerin çözünebilme davranışlarını kanıtlarla açıklayabilme",
+      "KİM.10.2.3 Çözünme olaylarını sınıflandırabilme",
+      "KİM.10.2.4 Çözeltilerin derişimini niteleyen ifadeleri (yüzde, ppm vb.) yorumlayabilme",
+      "KİM.10.2.5 Çözünebilirliği deneysel bir büyüklük olarak tanımlayabilme",
+      "KİM.10.2.6 Çözünebilirliği etkileyen faktörleri belirleyebilme",
+      "KİM.10.2.7 Çözelti çeşitlerini (doymamış, doymuş, aşırı doymuş) sınıflandırabilme",
+      "KİM.10.2.8 Çözünen madde taneciklerinin çözeltinin kaynama ve donma noktaları üzerindeki etkilerini öngörebilme"
+    ]
+  },
+  {
+    "unite": "SÜRDÜRÜLEBİLİRLİK",
+    "konu": "Sürdürülebilir Kimya",
+    "kazanimlar": [
+      "KİM.10.3.1 Kimyasal deneylerde makro ve mikro ölçek uygulamaları ekosistem etkileri açısından değerlendirebilme",
+      "KİM.10.3.2 Atmosferde gerçekleşen kimyasal tepkimelerin iklim ve çevre üzerindeki etkilerini yorumlayarak çözüm önerileri sunabilme"
+    ]
+  }
+]
