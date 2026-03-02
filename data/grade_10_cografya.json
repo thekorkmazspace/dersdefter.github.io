@@ -5,5 +5,57 @@
     "kazanimlar": [
       "COĞ.10.1.1 Örnek olay, olgu ve/veya mekânı coğrafyanın temel kavramları (konum, mekân, zaman, hareket, bölge) ile ilişkilendirerek yakın ve uzak çevresindeki etkilerini sorgulayabilme"
     ]
+  },
+  {
+    "unite": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+    "konu": "Mekânsal Bilgi Teknolojileri",
+    "kazanimlar": [
+      "COĞ.10.2.1 Coğrafi Bilgi Sistemleri ve uzaktan algılama teknolojilerinin uygulama alanlarını tanımlayarak örneklendirebilme",
+      "COĞ.10.2.2 Temel harita ve CBS yazılımlarını kullanarak mekânsal veri toplayıp harita üzerinde gösterebilme"
+    ]
+  },
+  {
+    "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+    "konu": "Doğal Sistemler",
+    "kazanimlar": [
+      "COĞ.10.3.1 Yerkürenin tektonik yapısı ve levha hareketlerini analiz ederek yer şekillerinin oluşumunu açıklayabilme",
+      "COĞ.10.3.2 İklim, kayaç ve toprak süreçleri arasındaki ilişkileri değerlendirerek hava ve toprak oluşum süreçlerini açıklayabilme",
+      "COĞ.10.3.3 Erozyon ve birikim süreçlerini değerlendirerek yeryüzü şekillerinin oluşumunu analiz edebilme",
+      "COĞ.10.3.4 Doğal süreçleri yerinde gözlemleyerek yer şekillerinin oluşumunu saha çalışmalarıyla inceleyebilme"
+    ]
+  },
+  {
+    "unite": "BEŞERÎ SİSTEMLER VE SÜREÇLER",
+    "konu": "Beşerî Sistemler",
+    "kazanimlar": [
+      "COĞ.10.4.1 Yerleşmelerin kuruluş yerini belirleyen doğal ve beşerî faktörleri analiz edebilme",
+      "COĞ.10.4.2 Yerleşmeleri nüfus büyüklüğü ve işlevlerine göre sınıflandırarak özelliklerini karşılaştırabilme"
+    ]
+  },
+  {
+    "unite": "EKONOMİK FAALİYETLER VE ETKİLERİ",
+    "konu": "Ekonomik Faaliyetler",
+    "kazanimlar": [
+      "COĞ.10.5.1 Ekonomik faaliyetleri birincil, ikincil ve üçüncül sektörler olarak sınıflandırabilme",
+      "COĞ.10.5.2 Farklı ülkelerin ekonomik sektörlerdeki paylarını grafik ve tablolarla karşılaştırarak yorumlayabilme",
+      "COĞ.10.5.3 Türkiye’nin ekonomik sektörlerdeki dağılımını grafik ve haritalarla göstererek analiz edebilme"
+    ]
+  },
+  {
+    "unite": "AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE",
+    "konu": "Afetler ve Sürdürülebilir Çevre",
+    "kazanimlar": [
+      "COĞ.10.6.1 Afet yönetimi süreçlerini ve iyi uygulama örneklerini analiz ederek dayanıklı toplum bilinci geliştirebilme",
+      "COĞ.10.6.2 Depreme dayanıklı yaşam alanları ve planlama modellerini örneklerle açıklayabilme",
+      "COĞ.10.6.3 Coğrafi konuma göre afetlerden korunma yöntemleri ve risk faktörlerini belirleyerek uygun önlemler geliştirebilme",
+      "COĞ.10.6.4 Afet farkındalığını artırmaya yönelik çalışmaları değerlendirerek bireysel ve toplumsal katkılarını tartışabilme"
+    ]
+  },
+  {
+    "unite": "BÖLGELER, ÜLKELER VE KÜRESEL BAĞLANTILAR",
+    "konu": "Bölgeler ve Küresel Bağlantılar",
+    "kazanimlar": [
+      "COĞ.10.7.1 Türk dünyasının kültürel ortak özelliklerini ve coğrafi dağılımını araştırarak tanımlayabilme"
+    ]
   }
 ]

@@ -38,5 +38,125 @@
       "TDE4.3 Film şeridi hâline getirdiği yazısını düzenlerken anlatım kurallarını uygulayabilme",
       "TDE4.4 Film şeridi hâline getirdiği yazısına yönelik değerlendirmelerini yansıtabilme"
     ]
+  },
+  {
+    "unite": "KELİMELERİN RİTMİ",
+    "konu": "Dinleme/İzleme",
+    "kazanimlar": [
+      "TDE1.1 Ritmik yapıdaki metinlerde dinleme/izleme sürecini yönetebilme",
+      "TDE1.2 Ritmik yapıdaki metinlerde ritim ve ses öğelerini dikkate alarak anlam oluşturabilme",
+      "TDE1.3 Ritmik yapıdaki metinlerin yapısal özelliklerini ve ahenk unsurlarını çözümleyebilme",
+      "TDE1.4 Ritmik yapıdaki metinlere yönelik değerlendirmelerini paylaşabilme"
+    ]
+  },
+  {
+    "unite": "KELİMELERİN RİTMİ",
+    "konu": "Okuma",
+    "kazanimlar": [
+      "TDE2.1 Ritmik yapıdaki metinlerde okuma sürecini yönetebilme",
+      "TDE2.2 Ritmik ve uyak unsurlarını göz önünde bulundurarak anlam kurabilme",
+      "TDE2.3 Ritmik yapıdaki metinlerde ses ve ritim unsurlarını çözümleyebilme",
+      "TDE2.4 Ritmik yapıdaki metinlere ilişkin değerlendirmelerini ifade edebilme"
+    ]
+  },
+  {
+    "unite": "KELİMELERİN RİTMİ",
+    "konu": "Konuşma",
+    "kazanimlar": [
+      "TDE3.1 Ritmik ve müzik unsurlarını içeren bir dinleti veya podcast hazırlama ve sunma sürecini yönetebilme",
+      "TDE3.2 Dinletinin içeriğini ritim ve ses unsurlarıyla zenginleştirebilme",
+      "TDE3.3 Sunum sırasında vurgu, tonlama ve beden dili unsurlarını etkili kullanabilme",
+      "TDE3.4 Gerçekleştirilen sunuma yönelik değerlendirmelerini ifade edebilme"
+    ]
+  },
+  {
+    "unite": "KELİMELERİN RİTMİ",
+    "konu": "Yazma",
+    "kazanimlar": [
+      "TDE4.1 Ritmik bir metni farklı bir forma dönüştürme sürecini yönetebilme",
+      "TDE4.2 Yazacağı ritmik metne uygun içerik ve yapı oluşturabilme",
+      "TDE4.3 Ritim ve uyak unsurlarını kullanarak yazısını düzenleyebilme",
+      "TDE4.4 Yazısına yönelik değerlendirmelerini ifade edebilme"
+    ]
+  },
+  {
+    "unite": "DÜNDEN BUGÜNE",
+    "konu": "Dinleme/İzleme",
+    "kazanimlar": [
+      "TDE1.1 Tarihî ve epik metinlerde dinleme/izleme sürecini yönetebilme",
+      "TDE1.2 Geçmişten günümüze edebî ürünlerde ana fikir ve temayı belirleyebilme",
+      "TDE1.3 Dönemin dil ve kültür özellikleri ile geleneksel unsurları analiz edebilme",
+      "TDE1.4 Dinlediği metne ilişkin değerlendirmelerini ifade edebilme"
+    ]
+  },
+  {
+    "unite": "DÜNDEN BUGÜNE",
+    "konu": "Okuma",
+    "kazanimlar": [
+      "TDE2.1 Dönemsel metinleri okuma sürecini yönetebilme",
+      "TDE2.2 Tarihsel bağlam ve kültürel unsurları dikkate alarak anlam kurabilme",
+      "TDE2.3 Metnin dil ve anlatım özelliklerini analiz ederek çözümleyebilme",
+      "TDE2.4 Okuduğu metni günümüzle ilişkilendirerek değerlendirebilme"
+    ]
+  },
+  {
+    "unite": "DÜNDEN BUGÜNE",
+    "konu": "Konuşma",
+    "kazanimlar": [
+      "TDE3.1 Türk destanları veya masalları hakkında bir konuşma hazırlama ve sunabilme",
+      "TDE3.2 Sunumda destan ve masal unsurlarını doğru ve etkili aktarabilme",
+      "TDE3.3 Konuşma sırasında ses ve beden dilini uygun şekilde kullanabilme",
+      "TDE3.4 Sunuma ilişkin değerlendirmelerini ifade edebilme"
+    ]
+  },
+  {
+    "unite": "DÜNDEN BUGÜNE",
+    "konu": "Yazma",
+    "kazanimlar": [
+      "TDE4.1 Bilgilendirici bir metni fabl veya hikâyeye dönüştürme sürecini yönetebilme",
+      "TDE4.2 Dönüştürülecek metne uygun içerik oluşturabilme",
+      "TDE4.3 Fabl/hikâye yazım kurallarını uygulayarak yazısını düzenleyebilme",
+      "TDE4.4 Yazısına ilişkin değerlendirmelerini paylaşabilme"
+    ]
+  },
+  {
+    "unite": "NESİLLERİN MİRASI",
+    "konu": "Dinleme/İzleme",
+    "kazanimlar": [
+      "TDE1.1 Destan ve halk hikâyelerini dinleme sürecini yönetebilme",
+      "TDE1.2 Dinlediği metinlerdeki kültürel motifleri ve mesajları belirleyebilme",
+      "TDE1.3 Anlatım tekniklerini ve üslup özelliklerini çözümleyebilme",
+      "TDE1.4 Dinlediği destan veya hikâyeye ilişkin değerlendirmelerini paylaşabilme"
+    ]
+  },
+  {
+    "unite": "NESİLLERİN MİRASI",
+    "konu": "Okuma",
+    "kazanimlar": [
+      "TDE2.1 Geleneksel edebî ürünleri okurken kültürel motifleri tanımlayabilme",
+      "TDE2.2 Nesiller arası aktarımı sağlayan unsurları analiz ederek yorumlayabilme",
+      "TDE2.3 Metnin dil ve anlatım özelliklerini çözümleyebilme",
+      "TDE2.4 Okuduğu metinle ilgili görüş ve değerlendirmelerini ifade edebilme"
+    ]
+  },
+  {
+    "unite": "NESİLLERİN MİRASI",
+    "konu": "Konuşma",
+    "kazanimlar": [
+      "TDE3.1 Bir halk hikâyesini veya destanı kendi yorumuyla anlatma veya canlandırma sürecini yönetebilme",
+      "TDE3.2 Anlatım sırasında geleneksel anlatım kalıplarını uygulayabilme",
+      "TDE3.3 Beden dili, vurgu ve tonlamayı etkili kullanarak sunum yapabilme",
+      "TDE3.4 Anlatımına yönelik değerlendirmelerini paylaşabilme"
+    ]
+  },
+  {
+    "unite": "NESİLLERİN MİRASI",
+    "konu": "Yazma",
+    "kazanimlar": [
+      "TDE4.1 Bir destanı veya halk hikâyesini şiire dönüştürme sürecini yönetebilme",
+      "TDE4.2 Yazıya kültürel motif ve temaları yansıtarak içerik oluşturabilme",
+      "TDE4.3 Şiirsel anlatım tekniklerini kullanarak yazısını düzenleyebilme",
+      "TDE4.4 Yazıya ilişkin değerlendirmelerini ifade edebilme"
+    ]
   }
 ]
