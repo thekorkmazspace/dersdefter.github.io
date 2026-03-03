@@ -2,38 +2,8 @@
   "toplam": 14,
   "dosyalar": [
     {
-      "dosya": "grade_8_rehberlik_ve_kariyer_planlama_rehberlik-ve-kariyer-planlama-8-plan.json",
-      "sinif": "8",
-      "ders": "REHBERLİK VE KARİYER PLANLAMA",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_rehberlik_ve_yonlendirme_rehberlik-ve-yonlendirme-12-plan.json",
-      "sinif": "12",
-      "ders": "REHBERLİK VE YÖNLENDİRME",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_1_sinif_rehberlik_sinif-rehberlik-1-plan.json",
       "sinif": "1",
-      "ders": "SINIF REHBERLİK",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_sinif_rehberlik_sinif-rehberlik-10-plan.json",
-      "sinif": "10",
-      "ders": "SINIF REHBERLİK",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_sinif_rehberlik_sinif-rehberlik-11-plan.json",
-      "sinif": "11",
-      "ders": "SINIF REHBERLİK",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_sinif_rehberlik_sinif-rehberlik-12-plan.json",
-      "sinif": "12",
       "ders": "SINIF REHBERLİK",
       "kayit_sayisi": 42
     },
@@ -74,6 +44,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_8_rehberlik_ve_kariyer_planlama_rehberlik-ve-kariyer-planlama-8-plan.json",
+      "sinif": "8",
+      "ders": "REHBERLİK VE KARİYER PLANLAMA",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_8_sinif_rehberlik_sinif-rehberlik-8-plan.json",
       "sinif": "8",
       "ders": "SINIF REHBERLİK",
@@ -82,6 +58,30 @@
     {
       "dosya": "grade_9_sinif_rehberlik_sinif-rehberlik-9-plan.json",
       "sinif": "9",
+      "ders": "SINIF REHBERLİK",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_sinif_rehberlik_sinif-rehberlik-10-plan.json",
+      "sinif": "10",
+      "ders": "SINIF REHBERLİK",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_sinif_rehberlik_sinif-rehberlik-11-plan.json",
+      "sinif": "11",
+      "ders": "SINIF REHBERLİK",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_12_rehberlik_ve_yonlendirme_rehberlik-ve-yonlendirme-12-plan.json",
+      "sinif": "12",
+      "ders": "REHBERLİK VE YÖNLENDİRME",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_12_sinif_rehberlik_sinif-rehberlik-12-plan.json",
+      "sinif": "12",
       "ders": "SINIF REHBERLİK",
       "kayit_sayisi": 42
     }
