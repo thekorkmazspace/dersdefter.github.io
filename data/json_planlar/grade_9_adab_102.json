@@ -1,0 +1,374 @@
+{
+  "sinif": "9",
+  "ders": "ÂDÂB",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "1.ÜNİTE     GİRİŞ Temel Nezaket Kuralları",
+      "KONU": "A. Adab  Görgü   Nezaket Nedir",
+      "KAZANIM": "Adabgörgü ve nezaket kavramlarını tanımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "1.ÜNİTE     GİRİŞ Temel Nezaket Kuralları",
+      "KONU": "B. Nezaket ve Görgü Kuralları Nelerdir",
+      "KAZANIM": "Nezaket ve görgü kurallarına olan ihtiyacı izah eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "1.ÜNİTE     GİRİŞ Temel Nezaket Kuralları",
+      "KONU": "C  Selamlaşma Adabı",
+      "KAZANIM": "Selamlaşmada dikkat edilmesi gereken hususları açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "1.ÜNİTE     GİRİŞ Temel Nezaket Kuralları",
+      "KONU": "E Konuşma ve Dinleme Adabı",
+      "KAZANIM": "Konuşma adabını bilir ve uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "1.ÜNİTE     GİRİŞ Temel Nezaket Kuralları",
+      "KONU": "E Konuşma ve Dinleme Adabı",
+      "KAZANIM": "Dinleme adabını bilir ve uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "1.ÜNİTE     GİRİŞ Temel Nezaket Kuralları",
+      "KONU": "F Konuşma Sırasındaki Nezaket ve Görgü Kuralları",
+      "KAZANIM": "Konuşurken dikkat edilmesi gereken hususları açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "1.ÜNİTE     GİRİŞ Temel Nezaket Kuralları",
+      "KONU": "G Az Bilinen Görgü Kuralları",
+      "KAZANIM": "Az bilinen görgü kurallarını tanır.\nATATÜRK İLKELERİ\n Cumhuriyetçilik ilkesi\nTürkiye Cumhuriyetinin nitelikleri\nGücünü milletten alması\nEgemenliğin millete ait olması"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "1.ÜNİTE     GİRİŞ Temel Nezaket Kuralları",
+      "KONU": "h  Nezaket ve Görgü Kurallarının Faydaları",
+      "KAZANIM": "Nezaket ve görgü kurallarının faydalarını ifade eder.\n1.DÖNEM 1.YAZILI",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "2.ÜNİTE     SOFRA ADABI",
+      "KONU": "Sofra adabı ve görgü kuralları",
+      "KAZANIM": "1. Dönem 1. Sınav Sofra adabına riayet eder\nATATÜRKÜN HAYATI\n Atatürkle ilgili anılar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "2.ÜNİTE     SOFRA ADABI",
+      "KONU": "Sofra adabı ve görgü kuralları",
+      "KAZANIM": "Sofra adabına riayet eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "3. ÜNİTE     TEMİZLİK ADABI",
+      "KONU": "Kişisel Hijyen ve Bakım\n\n2.1.Hijyen ve Özbakım Kavramı",
+      "KAZANIM": "Hijyen kurallarına uyarak kişisel bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "3. ÜNİTE     TEMİZLİK ADABI",
+      "KONU": "2.2. Bireysel Hijyen ve Özbakım Uygulamalarında Dikkat Edilecek Kurallar",
+      "KAZANIM": "Hijyen kurallarına uyarak kişisel bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "3. ÜNİTE     TEMİZLİK ADABI",
+      "KONU": "2.3. Genel Vücut Temizliği\nA.  Banyo",
+      "KAZANIM": "Hijyen kurallarına uyarak kişisel bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "3. ÜNİTE     TEMİZLİK ADABI",
+      "KONU": "B.  Ağız Bakımı",
+      "KAZANIM": "Hijyen kurallarına uyarak kişisel bakım yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "3. ÜNİTE     TEMİZLİK ADABI",
+      "KONU": "C. Saç Bakımı",
+      "KAZANIM": "1.DÖNEM II.YAZILI",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "3. ÜNİTE     TEMİZLİK ADABI",
+      "KONU": "D  ElAyak ve Tırnak Bakımı",
+      "KAZANIM": "Hijyen kurallarına uyarak kişisel bakım yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "4. ÜNİTE    GİYİM ADABI",
+      "KONU": "A GiyiminYeri ve Önemi",
+      "KAZANIM": "1. Dönem 2. Sınav Giyim adabını bilir.Giyim ve kuşamda ölçülü olmaya ve gösterişten uzak durmaya özen gösterir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "4. ÜNİTE    GİYİM ADABI",
+      "KONU": "B Giyim Seçimini Etkileyen Etmenler",
+      "KAZANIM": "Kıyafet seçiminde ihtiyaçlarına uygun tercihler yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "4. ÜNİTE    GİYİM ADABI",
+      "KONU": "C  Yerine Göre Giyim",
+      "KAZANIM": "Kıyafet seçiminde ihtiyaçlarına uygun tercihler yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "5. ÜNİTE   MİSAFİRLİK ADABI",
+      "KONU": "A. Misafirperverlik ve Konukseverlik Nedir",
+      "KAZANIM": "Misafirperver insanların özelliklerini söyler."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "5. ÜNİTE   MİSAFİRLİK ADABI",
+      "KONU": "B. Misafirperverliğin Temel Kuralları",
+      "KAZANIM": "Misafir ağırlarken nezaket kelimelerini kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "5. ÜNİTE   MİSAFİRLİK ADABI",
+      "KONU": "C. Türk Kültüründe Konukseverlik\n\n-Dede Korkut Hikâyelerinde Konukseverlik-",
+      "KAZANIM": "Türk kültüründeki konukseverlik örneklerini öğrenir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "6. ÜNİTE    DAVET ADABI",
+      "KONU": "Davetler ve Kurallar",
+      "KAZANIM": "Davet kurallarını bilir ve uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "6. ÜNİTE    DAVET ADABI",
+      "KONU": "A.Davet Kuralları   Davet Kartları  Resmi Davet KartlarıÖzel Davet Kartları",
+      "KAZANIM": "Davet kurallarını bilir ve uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "6. ÜNİTE    DAVET ADABI",
+      "KONU": "B.  Davet Türleri  Resmi KabullerÇay DavetleriToplantı Davetleri",
+      "KAZANIM": "Davet kurallarını bilir ve uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "6. ÜNİTE    DAVET ADABI",
+      "KONU": "C.  Düğün ve Özel Davetlerde Davranış Kuralları",
+      "KAZANIM": "2. Dönem 1. Sınav Davet kurallarını bilir ve uygular.\n2.DÖNEM 1.YAZILI",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "7. ÜNİTE   SOSYAL MEDYA ADABII",
+      "KONU": "İletişim Teknolojileri ve Sanal Nezaket",
+      "KAZANIM": "İletişim araçlarını doğru ve yerinde kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "7. ÜNİTE   SOSYAL MEDYA ADABII",
+      "KONU": "A.   Dijital nezaket nedir",
+      "KAZANIM": "Dijital nezaket kavramını tanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "7. ÜNİTE   SOSYAL MEDYA ADABII",
+      "KONU": "B.   Sanal Dünyanın Görgü Kuralları",
+      "KAZANIM": "İletişim ve konuşma adabına uygun davranır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "7. ÜNİTE   SOSYAL MEDYA ADABII",
+      "KONU": "C  İletişim Teknolojileri ve Değişen Empati Kavramı",
+      "KAZANIM": "Empatinin iletişim düzeyine olumlu yansımalarını öğrenir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "8. ÜNİTE    İŞ GÖRÜŞMELERİ ADABI",
+      "KONU": "İş Göürşmelerinde beden dili",
+      "KAZANIM": "Beden dilini etkin kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "8. ÜNİTE    İŞ GÖRÜŞMELERİ ADABI",
+      "KONU": "A İş Hayatında Görgü Kuralları",
+      "KAZANIM": "İş hayatında görgü kurallarını bilir ve uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "8. ÜNİTE    İŞ GÖRÜŞMELERİ ADABI",
+      "KONU": "B  İşyerinde Nezaket ve Profesyonellik",
+      "KAZANIM": "İş hayatında görgü kurallarını bilir ve uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "9. ÜNİTE    SOSYAL SORUMLULUK VE ETİK",
+      "KONU": "Sosyal sorumluluk kavramı",
+      "KAZANIM": "2. Dönem 2. Sınav Sosyal sorumluluk kavramını öğrenebilme\n2.DÖNEM 2.YAZILI",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "9. ÜNİTE    SOSYAL SORUMLULUK VE ETİK",
+      "KONU": "A Sosyal Sorumluluk",
+      "KAZANIM": "Sosyal sorumluluk kavramını ortaya koyabilme\n\nEtik kavramını öğrenebilme\n\nTemel etik ilkelerini bilir .",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "9. ÜNİTE    SOSYAL SORUMLULUK VE ETİK",
+      "KONU": "B Temel Etik İlkeler",
+      "KAZANIM": "Sosyal sorumluluk kavramını ortaya koyabilme\n\nEtik kavramını öğrenebilme\n\nTemel etik ilkelerini bilir .",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

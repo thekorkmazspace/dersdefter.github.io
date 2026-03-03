@@ -1,0 +1,338 @@
+{
+  "sinif": "11",
+  "ders": "METAL DOĞRAMA TEKNOLOJİSİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ MAKİNELERDE KESME\n1. MAKİNE İLE TALAŞLI KESME\n1.1. Talaşlı kesme yapılacak malzemeye uygun makinelerin çalışma prensipleri\n1.2. Talaşlı kesme işlemi için kişisel ve makine koruyucuları kullanımı",
+      "KAZANIM": "Makinelerde uygun kesme hızında ve ölçüde talaşlı kesme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "2. MAKİNE İLE TALAŞSIZ KESME\n2.1. Talaşsız kesme yapılacak malzemeye uygun makinelerin çalışma prensipleri\n2.2. Talaşsız kesme işlemi için kişisel ve makine koruyucularını kullanılması gerekliliği",
+      "KAZANIM": "Makinelerde uygun kesme hızında ve ölçüde talaşsız kesme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ BORULARI BÜKME\n1. EL İLE BORU BÜKME\n1.1. Borularda açınım boyu\n1.2. El ile boru bükme işlemi",
+      "KAZANIM": "Soğuk şekillendirme kalıplarında el ile boru bükme işlemini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "2. MAKİNE İLE BORU BÜKME\n2.1. Bükülecek açı ve şekle göre açınım boyunu hesaplanması\n2.2. Makinalar ile boru bükme işlemi",
+      "KAZANIM": "Soğuk şekillendirme makine kalıplarında boru bükümünü açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ VİDALI VE KENETLİ BİRLEŞTİRME\n1. VİDA SAPLAMA İLE KÖR DELİK BİRLEŞTİRMESİ\n1.1. Birleştirme çeşitleri\n1.2. Vida çeşitleri\n1.3. Saplamaların kullanılma amaçları",
+      "KAZANIM": "Vida saplama ile kör deliğe birleştirme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "2. VİDACIVATA İLE SOMUNLU BİRLEŞTİRME\n2.1. Cıvata ve somunların çeşitleri\n2.2. Cıvata ve somunlu bağlantılarda dikkat edilecek hususlar",
+      "KAZANIM": "Cıvatalı ve somunlu birleştirme işlemini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "3. SAC VİDALARI İLE BİRLEŞTİRME\n3.1. Sac vidası çeşitleri\n3.2. Sac vidaları ile birleştirme işlemlerinde dikkat edilecek hususlar",
+      "KAZANIM": "Sac vidalarıyla birleştirme işlemini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "4. KENETLİ BİRLEŞTİRME\n4.1. Kenetli birleştirme yöntemi\n4.2. Kenetli birleştirmelerin kullanıldığı yerler\n4.3. Kenetli birleştirme yapmada kullanılan makine ve takımlar\n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Sac gereçlere kenetli birleştirme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ KABARTMA TEKNİĞİ\n1. FOLYO KABARTMA\n1.1. Folyo kabartma da kullanılan takımlar\n1.2. Folyo kabartmada dikkat edilecek hususlar",
+      "KAZANIM": "1. Dönem 1. Sınav Folyo kabartma takımları ile folyo gereçlere kabartma işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "2. SAC KABARTMA\n2.1. Sac kabartmada kullanılan takımlar\n2.2. Sac kabartmada dikkat edilecek hususlar",
+      "KAZANIM": "Sac kabartma takımları ile sac gereçlere kabartma işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ SACLARDAN PROFİLLER BÜKME\n1. KÖŞEBENT BÜKME\n1.1. Abkant pres çeşitleri\n1.2. Abkant preslerde çalışırken dikkat edilecek hususlar\n1.3. Sacların dayanımı için uygulanan değişik büküm şekilleri\n1.4. Köşebent bükmede işlem sırası",
+      "KAZANIM": "Makine ve kalıplarda çelik sac gereçlere köşebent bükme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "2. U BÜKÜM YAPMA\n2.1. U bükmede işlem sırası\n2.2. U bükmede dikkat edilecek hususlar",
+      "KAZANIM": "Makine ve kalıplarda çelik sac gereçlere U şeklinde bükme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "3. Z BÜKÜM YAPMA\n3.1. Z bükmede işlem sırası\n3.2. Z bükmede dikkat edilecek hususlar",
+      "KAZANIM": "Makine ve kalıplarda çelik sac gereçlere Z şeklinde bükme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "4. YUVARLAK KESİTLİ PROFİL BÜKME\n4.1. Yuvarlak kesitli profil bükmede işlem sırası\n4.2. Yuvarlak kesitli profil bükmede dikkat edilecek hususlar",
+      "KAZANIM": "Makine ve kalıplarda çelik sac gereçlerden yuvarlak kesitli bükme işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ SACLARIN KENARLARINI BÜKME\n1. KARE SACIN KENARLARINA TEK BÜKÜM YAPMA\n1.1. Köşe çıkarma teknikleri\n1.2. Kare sac kenarlarını tek büküm yapma tekniklerinde dikkat edilecek hususlar",
+      "KAZANIM": "Makine ve kalıplarda çelik sac kenarlarına tek büküm yapma işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "2. KARE SACIN KENARLARINA AYNI YÖNDE İKİ BÜKÜM\n2.1. Kare sacın kenarlarına aynı yönde iki büküm yapma tekniklerinde dikkat edilecek hususlar\n1.Dönem 2.Sınav",
+      "KAZANIM": "Makine ve kalıplarda çelik sac kenarlarına iki büküm yapma işlemini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "3. KARE SACIN KENARLARINA BİRİ FARKLI YÖNDE İKİ BÜKÜM YAPMA\n3.1. Kare sacın kenarlarına biri farklı yönde iki büküm yapma tekniklerinde dikkat edilecek hususlar",
+      "KAZANIM": "1. Dönem 2. Sınav Makine ve kalıplarda çelik sac kenarlarına birisi ters yönde iki büküm yapma işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ SAC BORULAR\n1. YUVARLAK KESİTLİ BORU YAPMA\n1.1. Arakesit ve açınım çizim metotları",
+      "KAZANIM": "Makine ve kalıplar ile çelik saclardan yuvarlak kesitli boru yapma işlemini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "1.2. Yuvarlak kesitli borunun yapımında dikkat edilecek noktalar",
+      "KAZANIM": "Makine ve kalıplar ile çelik saclardan yuvarlak kesitli boru yapma işlemini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2. KONİK BORU YAPMA\n2.1. Konik boruya ait arakesit ve açınım resminin çizilmesi",
+      "KAZANIM": "Makine ve kalıplar ile çelik saclardan konik boru yapma işlemini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "2.2. Konik boru yapımında takip edilecek işlem sırası",
+      "KAZANIM": "Makine ve kalıplar ile çelik saclardan konik boru yapma işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "3. DİRSEK YAPMA\n3.1. Dirsek boruya ait arakesit ve açınım resminin çizilmesi",
+      "KAZANIM": "Makine ve kalıplar ile çelik saclardan yuvarlak kesitli dirsek yapma işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "3.2. Dirsek boru yapımında takip edilecek işlem sırası",
+      "KAZANIM": "Makine ve kalıplar ile çelik saclardan yuvarlak kesitli dirsek yapma işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "4. KARE KESİTLİ BORU YAPMA\n4.1. Kare kesitli boruya ait arakesit ve açınım resminin çizilmesi\n4.2. Kare kesitli boru yapımında takip edilecek işlem sırası",
+      "KAZANIM": "Makine ve kalıplar ile çelik saclardan kare kesitli boru yapma işlemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ SERİ İŞ VE MONTAJ KALIPLARI\n1. ÖN BİÇİMLENDİRME YARDIMCI KALIPLARI YAPMA\n1.1. Elastik ve plastik şekillendirme\n1.2. Seri üretim kalıplarının kullanım amaçları\n\n2.Dönem 1.Sınav",
+      "KAZANIM": "Seri üretimde kullanılacak basit ön biçimlendirme kalıplarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "2. MONTAJ KALIBI YAPMA\n2.1. Montaj kalıbı yapımında dikkat edilecek hususlar",
+      "KAZANIM": "2. Dönem 1. Sınav Seri üretimde kullanılacak montaj kalıplarının açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "2.2. Kalıpta şekillendirmenin talaşlı imalata göre avantajları",
+      "KAZANIM": "Seri üretimde kullanılacak montaj kalıplarının açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ SOĞUK ŞEKİLLENDİRME KALIPLARI\n1. SOĞUK ŞEKİLLENDİRME KALIPLARINI PRESE BAĞLAMA\n1.1. Soğuk şekillendirme kalıplarını oluşturan elemanlar\n1.2. Soğuk şekillendirmede kullanılan preslerin çeşitleri\n1.3. Kalıpların preslere bağlanmasında dikkat edilecek hususlar",
+      "KAZANIM": "Soğuk şekillendirme makinelerinde kullanılan kalıpların kullanılma amaçlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "2. PRESE BAĞLANMIŞ SOĞUK ŞEKİLLENDİRME KALIBINDA ÇALIŞMA\n2.1. Preste çalışma sırasında kullanılan kişisel koruyucular ve makinaya ait koruyucu ve uyarı levhalarının önemi\n2.2. Soğuk şekillendirme kalıplarında çalışma sırasında dikkat edilecek hususlar",
+      "KAZANIM": "Prese bağlanmış kalıplarda eğme-bükme kesme çekme ve delme işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "2.2. Soğuk şekillendirme kalıplarında çalışma sırasında dikkat edilecek hususlar\n2.3. Soğuk şekillendirme kalıplarının bakımı",
+      "KAZANIM": "Prese bağlanmış kalıplarda eğme-bükme kesme çekme ve delme işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ ÇELİK EŞYA\n1. ÇELİK EŞYA RESİMLERİNİ İNCELEME\n1.1. Çelik eşya çeşitleri\n1.2. Çelik eşya yapımındaki standart ölçüler",
+      "KAZANIM": "Çelik eşyaların yapım resimlerini inceler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "1.3. Çelik eşya resimleri",
+      "KAZANIM": "Çelik eşyaların yapım resimlerini inceler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "2. ÇELİK EŞYA GEREÇLERİNİ HAZIRLAMA\n2.1. Çelik eşya üretiminde kullanılan makinelerin çalışma prensipleri",
+      "KAZANIM": "Çelik eşya gereçlerinin üretiminde kullanılan makineler ile kesme delme eğme ve bükme yapma işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "2.2. Çelik eşya üretimi öncesi yapılması gereken biçimlendirme işlemleri",
+      "KAZANIM": "2. Dönem 2. Sınav Çelik eşya gereçlerinin üretiminde kullanılan makineler ile kesme delme eğme ve bükme yapma işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "3. ÇELİK EŞYA İMALATI\n3.1. Çelik eşya üretiminde kullanılan birleştirme yöntemleri\n3.2. Çelik eşya gereçlerinin birleştirilmesinde dikkat edilecek hususlar\n2.Dönem 2.Sınav",
+      "KAZANIM": "Yapım resmine göre çelik eşya imalatını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "3.3. Çelik eşya üretiminde seri imalat yöntemleri",
+      "KAZANIM": "Yapım resmine göre çelik eşya imalatını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

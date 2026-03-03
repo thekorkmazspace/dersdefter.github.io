@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "DİKSİYON VE ETKL İLETİŞİM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ 1 GÜZEL KONUŞMA\n1.1. GÜZEL KONUŞMANIN ÖNEMI",
+      "KAZANIM": "Güzel konuşmanın önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "1.2. KONUŞMA ORGANLARI \n1.2.1. Dil \n1.2.2. Dudak \n1.2.3. Çene",
+      "KAZANIM": "Konuşma organlarının konuşmaya etkisini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "1.2.4. Gevşeme Egzersizleri \n1.3. NEFES \n1.3.1. Göğüs Nefesi\n1.3.2. Diyafram Nefesi",
+      "KAZANIM": "Dil diş dudak çene ve yüz ile ilgili egzersizler yapar.\nDoğru nefes diyafram nefesi alır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "1.4. SES VE SESİN NİTELİKLERİ \n1.4.1. Ses\n1.4.2. Sesin Nitelikleri",
+      "KAZANIM": "Ses ve sesin niteliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "1.5. İYİ BİR KONUŞMA SESİNİN ÖZELLİKLERİ\n1.6. TELAFFUZ SÖYLEYİŞ \n1.6.1. Harfler",
+      "KAZANIM": "İyi bir konuşma sesinin özelliklerini sıralar.\nTelaffuzun söyleyiş güzel konuşma için önemini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "1.7. İFADENIN KUVVETLENDIRILMESI \n1.7.1. Ton \n1.7.2. Durak \n1.7.3. Ulama\n1.7.4. Vurgu",
+      "KAZANIM": "İfadesini güçlendirmek için uygun ton durak ulama ve vurgulama yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "1.8. KONUŞMA DILININ ÖZELLIKLERI \n1.8.1. Konuşma ve Yazı Dili Arasındaki Farklar\n1.8.2. Konuşma Türkçesinin Özellikleri\n1.8.3. Türkçede Yaygın Yapılan Söyleyiş Hataları",
+      "KAZANIM": "Konuşma dili ile yazı dili arasındaki farkları sıralar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "1.9. BAŞARILI KONUŞMACININ ÖZELLİKLERİ  \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Başarılı bir konuşmacının temel öğelerini sıralar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "1.10. ETKİLİ KONUŞMA\n1.10.1. Etkili Konuşma İlkeleri\n1.10.2. Konuşma Kusurları",
+      "KAZANIM": "1. Dönem 1. Sınav Etkili konuşma ilkelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ 2 BEDEN DİLİ\n2.1. BEDEN DİLİNİN TEMELLERI\n2.1.1. Beden Dilinin Önemi",
+      "KAZANIM": "Beden dilinin konuşmaya katkısını kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "2.1.2. Beden Dili ile İlgili Uyarılar",
+      "KAZANIM": "Beden dilinin konuşmaya katkısını kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "2.2. JEST VE MİMİKLER\n2.2.1. Jestler",
+      "KAZANIM": "Beden dilinin konuşmaya katkısını kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "2.2.2. Mimikler Yüz İfadeleri\n2.2.3. Kişisel Alanlar",
+      "KAZANIM": "Beden dilinin konuşmaya katkısını kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "2.2.4. Oturma Düzenleri",
+      "KAZANIM": "Beden dilinin konuşmaya katkısını kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "2.3. DIŞ GÖRÜNÜŞ \n2.3.1. Giyim",
+      "KAZANIM": "Dış görünüşün konuşmaya etkisini kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "2.3.2. Kişisel Bakım\n2.3.3. Aksesuarlar \n1.Dönem 2.Sınav",
+      "KAZANIM": "Dış görünüşün konuşmaya etkisini kavrar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ 3 HİTABET\n3.1. HİTABETİN ÖZELLİKLERİ \n3.1.1. Hitabetin Önemi",
+      "KAZANIM": "1. Dönem 2. Sınav Hitabet sanatının özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "3.1.2. Hitabetin Özellikleri",
+      "KAZANIM": "Hitabet sanatının özelliklerini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "3.1.3. Hitabe Çeşitleri",
+      "KAZANIM": "Hitabet sanatının özelliklerini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "3.2. İYİ BİR KONUŞMACIDA BULUNMASI GEREKEN ÖZELLİKLER \n3.2.1. Topluluk Karşısında Yapılacak Konuşmalarda Dikkat Edilmesi Gerekenler",
+      "KAZANIM": "İyi bir konuşmacıda bulunması gereken özellikleri söyler."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "3.2.2. Gerekli Durumlarda Hitabelerde Teknolojiden Yararlanmanın Önemi",
+      "KAZANIM": "İyi bir konuşmacıda bulunması gereken özellikleri söyler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "3.2.3. Hitabet Kurallarına Uygun Konuşma Örnekleri",
+      "KAZANIM": "İyi bir konuşmacıda bulunması gereken özellikleri söyler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ 4 SUNUM\n4.1. SUNUM TÜRLERİ",
+      "KAZANIM": "Sunum türlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "4.2. SUNUMA HAZIRLIK\n4.2.1. Sunumu Planlama",
+      "KAZANIM": "Sunum hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "4.2.2. Sunuma Yönelik İçerik Hazırlama \n\n2.Dönem 1.Sınav",
+      "KAZANIM": "Sunum hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "4.2.3. Sunum İçin Görsel ve İşitsel Yardımcıların Tespiti \n4.2.4. Konuşma Planı Hazırlama",
+      "KAZANIM": "2. Dönem 1. Sınav Sunum hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "4.2.5. El Kartları Hazırlama \n4.2.6. Sunum Yapılacak Mekânın Hazırlanması ve Kontrolü",
+      "KAZANIM": "Sunum hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "4.3. SUNUM YAPMA",
+      "KAZANIM": "Sunum yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "4.3. SUNUM YAPMA",
+      "KAZANIM": "Sunum yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ 5 İLETİŞİM\n5.1. İLETİŞİMİN ÖNEMİ VE AMACI\n5.2. İLETİŞİM SÜRECİ VE İLETİŞİMİN ÖGELERİ \n5.2.1. Kaynak Gönderici\n5.2.2. Mesaj İleti",
+      "KAZANIM": "İletişimin önemini açıklar.\nİletişimin amaçlarını açıklar.\nİletişim süreci ve iletişimin öğelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "5.2.3. Kanal ve Araç \n5.2.4. Hedef Alıcı \n5.2.5. Geri bildirim Dönüt\n5.2.6. Gürültü",
+      "KAZANIM": "İletişim süreci ve iletişimin öğelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "5.3. İLETİŞİM TÜRLERİ \n5.3.1. Sözlü İletişim\n5.3.2. Sözsüz İletişim\n5.3.3. Yazılı İletişim",
+      "KAZANIM": "İletişim türlerini listeler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "5.4. İLETIŞIM ŞEKILLERI\n5.4.1. Mesajın Yönüne Göre İletişim Şekilleri \n5.4.2. Toplumsal İlişki Sistemine Göre İletişim Şekilleri \n5.4.3. Zaman ve Mekân Boyutuna Göre İletişim Şekilleri",
+      "KAZANIM": "İletişim şekillerini listeler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "5.5. ULUSLARARASI VE KÜLTÜRLER ARASI İLETİŞİM\n5.5.1. Kültürel Süreçler \n5.5.2. Kültürler Arası İletişimin Faydaları",
+      "KAZANIM": "2. Dönem 2. Sınav Uluslararası ve kültürler arası iletişimi açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "5.6. ETKILI İLETIŞIM KURMANIN YOLLARI \n5.6.1. Algı Kavramı \n5.6.2. Algının Özellikleri \n5.6.3. Empati \n5.6.4. Dinleme  \n2.Dönem 2.Sınav",
+      "KAZANIM": "Etkili iletişim kurmanın yollarını listeler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "5.7. İLETIŞIM ENGELLERİ \n5.7.1. Fiziksel ve Teknik Engeller",
+      "KAZANIM": "Etkili İletişimin engellerini listeler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

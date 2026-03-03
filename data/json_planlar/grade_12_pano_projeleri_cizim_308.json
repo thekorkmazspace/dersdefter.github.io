@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "PANO PROJELERİ ÇİZİM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "ÖĞRENME BİRİMİ PANO PROJELERİ ÇİZİMİ\n1. Kumanda Çizim Programı Kurulumu ve Çalıştırılması\n2. Kumanda Çizim Programı Çalışma Alanı \n3. Kumanda Çizim Programı Menüleri \nDemokrasinin önemi",
+      "KAZANIM": "Kumanda çizim programının kurulumunu ve çalıştırılmasını açıklar.\nKumanda çizim programı çalışma alanını açıklar.\nKumanda çizim programı menülerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "4. Kumanda Çizim Programı Araç Çubukları\n5. Kumanda Çizim Programı Sayfa Ayarları\n6. Kumanda Çizim Programı IEC Sembolleri",
+      "KAZANIM": "Kumanda çizim programı araç çubuklarını açıklar.\nKumanda çizim programının sayfa ayarlarını açıklar.\nKumanda çizim programında yer alan IEC sembollerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "7. Kumanda Çizim Programında Dosya Aktarma ve Yazdırma İşlemleri\n8. Kumanda Çizim Programında Rapor Oluşturma İşlemi\n9. Kumanda Çizim Programında Makro İşlemleri",
+      "KAZANIM": "Kumanda çizim programında dosyayı dışa aktarma dosyayı içe ekleme ve dosyayı yazdırma işlemlerini açıklar.\nKumanda çizim programında rapor oluşturma işlemini açıklar.\nKumanda çizim programında makroların yapılmasını makro eklenmesini ve malzeme makrolarının oluşturulmasını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "ÖĞRENME BİRİMİ KUMANDA ÇİZİM PROGRAMINDA TEMEL İŞLEMLER\n1. Proje Oluşturma ve Sayfa Ekleme İşlemleri\n2. Anket Şablonu Oluşturma ve Sayfa Ayarları",
+      "KAZANIM": "Proje oluşturmayı ve projeye sayfa ekleme işlemini açıklar.\nAnket şablonunu oluşturmayı ve sayfa ayarlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Kara Kutu Black Box\n4. Malzeme Listesi Oluşturma\n5. İçindekiler Tablosu Oluşturma",
+      "KAZANIM": "Kara kutunun özelliklerini açıklar.\nMalzeme listesinin oluşturulmasını açıklar.\nİçindekiler tablosunun oluşturulmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "6. Klemens Çizelgesi Oluşturma\n7. Kablo Çizelgesi Oluşturma",
+      "KAZANIM": "Klemens çizelgesinin oluşturulmasını açıklar.\nKablo çizelgesinin oluşturulmasını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "8. Şekil Yaratılması ve Nesne Çizimlerinin Yapılması\n9. Ölçülendirme İşlemi \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Şekillerin oluşturulmasını ve nesne çizimlerinin yapılmasını açıklar.\nÖlçülendirme işlemini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "ÖĞRENME BİRİMİ KUMANDA ÇİZİM PROGRAMINDA ELEMAN YERLEŞİMİ VE KABLO BAĞLANTILARI\n1. Aygıt ve Güç Kaynakları Yerleştirme \n1.Dönem 1.Sınav",
+      "KAZANIM": "Çalışma alanına aygıtların ve güç kaynaklarının yerleşimini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "2. Kontaktör Yerleştirme \nAtatürkün eğitime ve bilime verdiği önem",
+      "KAZANIM": "1. Dönem 1. Sınav Çalışma alanına kontaktör yerleşimini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "3. Aşırı Akım Rölesi Yerleştirme",
+      "KAZANIM": "Çalışma alanına aşırı akım rölesinin yerleşimini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "4. Motorları Yerleştirme",
+      "KAZANIM": "Çalışma alanına motorları yerleştirmeyi açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "5. Buton ve Sigorta Yerleştirme",
+      "KAZANIM": "Çalışma alanına buton ve sigorta yerleştirmeyi açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "6. Klemens Yerleştirme ve Numaralandırma",
+      "KAZANIM": "Çalışma alanına klemensleri yerleştirmeyi ve numaralandırmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "7. Kabloları Yerleştirme Kablolama",
+      "KAZANIM": "Çalışma alanında elemanlar arası kabloları yerleştirmeyi açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "8. Kesilme Noktaları ve Ek Yapma İşlemleri",
+      "KAZANIM": "Çalışma alanında bağlantı yapılan iletkenler arası kesilme noktalarını ve ek yapma işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "8. Kesilme Noktaları ve Ek Yapma İşlemleri \n1.Dönem 2.Sınav",
+      "KAZANIM": "Çalışma alanında bağlantı yapılan iletkenler arası kesilme noktalarını ve ek yapma işlemlerini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "9. Örnek Devre Uygulaması",
+      "KAZANIM": "1. Dönem 2. Sınav Örnek bir kumanda devresinin çizimini programda yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "9. Örnek Devre Uygulaması",
+      "KAZANIM": "Örnek bir kumanda devresinin çizimini programda yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "ÖĞRENME BİRİMİ KUMANDA ÇİZİM PROGRAMINDA TEMEL KUMANDA DEVRE ÇİZİMLERİ\n1. Üç Fazlı Asenkron Motor Kumanda ve Güç Devre Çizimi\n1.1. Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "1.1. Üç fazlı asenkron motorun bir yönde sürekli çalıştırılması",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "1.2.Üç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "1.2.Üç fazlı asenkron motorun buton kilitlemeli devir yönünün değiştirilerek çalıştırılması",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "1.3. Üç fazlı asenkron motorun devir yönünün değiştirilerek ileri  geri çalıştırılması",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "1.4. Üç fazlı asenkron motorun devir yönünün değiştirilerek ileri  geri çalıştırılması",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "1.5. Üç fazlı asenkron motorun zaman ayarlı çalıştırılması \nAtatürkün vatan ve millet sevgisi",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "1.6. Üç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması \n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "1.6. Üç fazlı asenkron motorun sınır anahtarıyla ileri-geri olarak çalıştırılması",
+      "KAZANIM": "Üç fazlı asenkron motor kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "2. PLC Kumanda ve Güç Devre Çizimi\n2.1. Bir fazlı asenkron motorun devir yönünün değiştirilmesi devresi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.1. Bir fazlı asenkron motorun devir yönünün değiştirilmesi devresi \nÇocuk insan sevgisi ve evrensellik",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.2. Otomatik yıldız-üçgen asenkron motora yol verme devresi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.2. Otomatik yıldız-üçgen asenkron motora yol verme devresi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.3. İleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresi \nAtatürkçü düşüncede yer alan temel fikirler",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.3. İleri-geri yönde çalışan otomatik yıldız-üçgen asenkron motora yol verme devresi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "2.4. Üç fazlı asenkron motorun dinamik frenlemesi devresini \n2.Dönem 2.Sınav",
+      "KAZANIM": "2. Dönem 2. Sınav PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "2.5. Problem şeklinde kumanda devre pano şemaları çizimi",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "2.6. Çizilen kumanda devresini pano üzerinde kurarak çalıştırma",
+      "KAZANIM": "PLC kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

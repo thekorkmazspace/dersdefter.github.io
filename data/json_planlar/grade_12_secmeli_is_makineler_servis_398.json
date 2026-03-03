@@ -1,0 +1,374 @@
+{
+  "sinif": "12",
+  "ders": "SEÇMELİ İŞ MAKİNELER SERVİS",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "1. Kompresyon ve silindir kaçak testi                                                          1.1. Silindir kaçak testinin amacı\n1.2. Silindir kaçak testi cihazının görevi ve çalışması                                                                     1.3. Silindir kaçak testinin yapılışı",
+      "KAZANIM": "1. Kompresyon ve silindir kaçak testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "1. Kompresyon ve silindir kaçak testi                                                          1.1. Silindir kaçak testinin amacı\n1.2. Silindir kaçak testi cihazının görevi ve çalışması                                                                     1.3. Silindir kaçak testinin yapılışı",
+      "KAZANIM": "1. Kompresyon ve silindir kaçak testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "1. Kompresyon ve silindir kaçak test                                                 1.4. Kompresyon testinin amacı\n1.5. Kompresyon testi cihazının görevi ve çalışması\n1.6. Kompresyon testinin yapılışı",
+      "KAZANIM": "1. Kompresyon ve silindir kaçak testini yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "1. Kompresyon ve silindir kaçak test                                                 1.4. Kompresyon testinin amacı\n1.5. Kompresyon testi cihazının görevi ve çalışması\n1.6. Kompresyon testinin yapılışı",
+      "KAZANIM": "1. Kompresyon ve silindir kaçak testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "2. Diagnoz ile Arıza tespiti                                                                      2.1. Diagnostik cihazı ile okunan arıza kodları açıklaması",
+      "KAZANIM": "2. Diagnostik cihazı ile arıza tespitini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "2. Diagnoz ile Arıza tespiti                                                                         2.2. Diagnostik cihazı ile görülen arıza kodlarına göre arıza tespiti yapılması",
+      "KAZANIM": "2. Diagnostik cihazı ile arıza tespitini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "2. Diagnoz ile Arıza tespiti                                                                        2.3. Diagnostik cihazı ile görülen arıza kodlarına göre arızalı parçaları değiştirilmesi \nATATÜRKÜN CUMHURİYETÇİLİK İLKESİ",
+      "KAZANIM": "2. Diagnostik cihazı ile arıza tespitini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "3. Monitör ile Arıza tespiti                                                                         3.1. Monitörlerin görevi çeşitleri yapısı ve çalışması                          3.2. Monitörün fiziki kontrolleri                                                            3.3. Monitör ile yapılan devre kontrolleri                                             1. DÖNEM 1. YAZILI SINAVI",
+      "KAZANIM": "3. Monitör ile arıza tespitini ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "3. Monitör ile Arıza tespiti                                                                                                                                   3.3. Monitör ile yapılan devre kontrolleri                                                 3.4. Monitörde görülen arıza kodlarına göre arıza tespiti   \n10 KASIM ATATÜKÜ ANMA",
+      "KAZANIM": "1. Dönem 1. Sınav 3. Monitör ile arıza tespitini ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "3. Monitör ile Arıza tespiti                                                                                                               3.5. Monitörde görülen arıza kodlarına göre onarım yapılması   3.6. Monitörde işe göre çalışma modlarının kontrolü\n24 KASIM  ÖĞRETMENLER GÜNÜ",
+      "KAZANIM": "3. Monitör ile arıza tespitini ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "4. Hidrolik devre takibi                                                                             4.1. Hidrolik devre şemalarında sistem takibi                                 4.2. Şema üzerinde ana basınç pilot basınç ve geri dönüş hatlarının devre elemanlarını tespiti",
+      "KAZANIM": "4. Hidrolik devre şemaları ile arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "4. Hidrolik devre takibi                                                                         4.3. Bom arm kova yürüyüş ve kule dönüş hatlarının devre elemanlarını tespiti                                                                     4.4. Hidrolik akış hatları takibi ile oluşabilecek arızalar",
+      "KAZANIM": "4. Hidrolik devre şemaları ile arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "4. Hidrolik devre takibi                                                                                             4.5.  Hidrolik akış hatlarında arıza teşhisi",
+      "KAZANIM": "4. Hidrolik devre şemaları ile arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "5. Elektrik devre takibi                                                                5.1. Elektrik devrelerini oluşturan elemanları                              5.2. Elektrik devre şemalarında sistem takibi                                                                                                                                                                                         ATATÜRKÜN SANAYİLEŞMEYE VERDİĞİ ÖNEM",
+      "KAZANIM": "5. Elektrik devre şemaları ile arıza tespiti yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "5. Elektrik devre takibi                                                                5.3. Elektrik devre şemalarında devre elemanlarının tespiti  5.4. Elektrik ve Hidrolik kompenentler arasındaki fonksiyonel ilişkileri",
+      "KAZANIM": "5. Elektrik devre şemaları ile arıza tespiti yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 İŞ MAKİNELERİ ARIZA TESPİTİ",
+      "KONU": "5. Elektrik devre takibi                                                          5.5. Elektrik devre şemalarını takip ederek arıza tespiti \nATATÜRKÜN DEVLETÇİLİK İLKESİ",
+      "KAZANIM": "5. Elektrik devre şemaları ile arıza tespiti yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "1. İlk 250 saatlik bakım                                                                       1.1. İlk 250 saatlik bakımın amacı\n1.2. Bakım öncesinde makineyi yağlama konumuna hazırlama\n1.3. Supap aralığını kontrol edip ayarlama                                           1. DÖNEM 2. YAZILI SINAVI",
+      "KAZANIM": "1. Dönem 2. Sınav 1. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin ilk 250 saatlik bakımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "1. İlk 250 saatlik bakım                                                                         1.4. Yakıt filtresini değiştirme\n1.5. HST yağı filtre elemanını değiştirme\n1.6. Hidrolik tank filtre elemanını değiştirme",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin ilk 250 saatlik bakımı yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "2. Gerektiğinde yapılan bakımlar                                                 2.1. Gerektiğinde yapılan bakımların amacı\n2.2. Hava filtresi elemanını kontrol etme\n2.3. Soğutma sisteminin içini temizleme\n2.4. Palet pabucu cıvataları kontrol etme\n2.5. Palet gerginliğinin kontrol edip ayarlama\n2.6. Elektrikli hava emme ısıtıcısını kontrol etme",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin periyodik bakım dışında kalan gerekli durumlardaki bakımlarını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "2. Gerektiğinde yapılan bakımlar                                        2.7. Kepçe dişlerini düşey ve yatay pim tipi değiştirme\n2.8. Kepçe açıklığını ayarlama\n2.9. Cam yıkama sıvısını kontrol etme\n2.10. Klimayı kontrol edip ayarlama\n2.11. Hidrolik sistemden hava tahliye edilmes\n2.12. Hidrolik devresindeki dâhili basıncı tahliye edilmesi",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin periyodik bakım dışında kalan gerekli durumlardaki bakımlarını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "3. 10 saatlik bakım                                                                     3.a. 10 saatlik bakımın günlük bakım amacı\n3.1. Soğutma suyunu kontrol edip ayarlama\n3.2. Yakıt deposundan suyu ve tortuyu tahliye etme\n3.3. Hidrolik tankındaki yağ seviyesini kontrol etme\n3.4. Motor yağ karterindeki yağ seviyesini kontrol etme\n3.5. Elektrik kablolarını kontrol etme                                                                                                                                                ATATÜRKÜN MİLLİYETÇİLİK İLKESİ",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 10 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "3. 10 saatlik bakım                                                                   3.6. Yakıt seviyesini kontrol etme\n3.7. Hortum ve boruların gevşeme ve sızıntısını kontrol etme\n3.8. Kornayı kontrol etme\n3.9. Tırnakların aşıntı ve gevşeklik kontrolü\n3.10. İş makinesinde gerekli kısımlara gres basma",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 10 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "4. 50 saatlik bakım                                                                      4.a. 50 saatlik bakımın haftalık bakım amacı\n4.1. 10 saatlik bakım yapma\n4.2. Motor kayışları gerginlik kontrolü\n12 MART İSTİKLAL MARŞININ KABULÜ VE M.AKİF ERSOYU ANMA",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 50 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "4. 50 saatlik bakım                                                                        4.3. Klima filtrelerini temizleme\n4.4. Bir defaya mahsus olmak üzere önemli komponentlerin bağlantı cıvatalarını torkunda sıkma\n4.5. İş makinesinde gerekli kısımlara gres koyma\n18 MART ÇANAKKALE ZAFERİ VE ÖNEMİ",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 50 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "5. 250 saatlik bakım                                                                         5.a. 250 saatlik bakımın amacı\n5.1. 10 saatlik bakım yapma\n5.2. 50 saatlik bakım yapma\n5.3. Motor yağ ve filtresini değiştirme\n5.4. Kule dönüş şanzımanındaki yağ seviyesini kontrol etme\n5.5. Kule dişlisini yağlama\n5.6. Cer kutusundaki yağ seviyesini kontrol etme\n5.7. Akü elektrolitinin seviyesini kontrol etme",
+      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 250 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "5. 250 saatlik bakım                                                                        5.8. Klima gaz kontrolü yapma\n5.9. Klima kompresör kayışının gerginliğini kontrol etme\n5.10. Karter havalandırma süzgecini temizleme\n5.11. Hava emiş sistemini kontrol etme\n5.12. Fan kayışı kontrol etme                                                                            5.12. Hidrolik tankından su tahliyesi yapma\n5.13. Hortumlar ve boruları kontrol etme\nATATÜRKÜN LAİKLİK İLKESİ                                                         2. DÖNEM 1. YAZILI SINAVI",
+      "KAZANIM": "2. Dönem 1. Sınav 5. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 250 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "6. 500 saatlik bakım                                                                   6.a. 500 saatlik bakımın amacı\n6.1. 10 saatlik bakım yapma\n6.2. 50 saatlik bakım yapma\n6.3. 250 saatlik bakım yapma\n6.4. Kule daire dişlisini yağlama\n6.5. Motor yağ ve filtresini değiştirme",
+      "KAZANIM": "6. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 500 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "6. 500 saatlik bakım                                                               6.6. Yakıt filtresinin kartuşunu değiştirme\n6.7. Kule dönüş pinyonu gres seviyesi kontrol etme\n6.8. Radyatör petekleri yağ soğutma suyu petekleri ve kondensör peteklerini kontrol etme\n6.9. Klima sistemindeki iç ve dış hava filtreleri temizleme\n6.10. Hidrolik deposu havalandırma elemanını değiştirme\n 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI",
+      "KAZANIM": "6. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 500 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "7. 1000 saatlik bakım                                                                     7.a. 1000 saatlik bakımın amacı\n7.1. 10 saatlik bakım yapma\n7.2. 50 saatlik bakım yapma\n7.3. 250 saatlik bakım yapma\n7.4. 500 saatlik bakım yapma\n7.5. Hidrolik filtre elemanını değiştirme\n7.6. Kule dönüş mekanizması haznesindeki yağı değiştirme\n7.7. Damper haznesi yağ seviyesini kontrol etme",
+      "KAZANIM": "7. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 1000 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "7.8. Turboşarjın kontrollerini yapma\n7.9. Fan kayışının gerginliğini kontrol etme\n7.10. Yakıt ana filtre kartuşunu değiştirme\n7.11. Motor egzoz borusu kelepçeleri sıkma noktalarını kontrol etme\n7.12. Kırıcı için akümülatördeki nitrojen gazı şarj basıncının kontrol etme\n7.13. Motor vibrasyon kasnağını kontrol etme\n7.14. Klima havalandırma filtresini değiştirme\n1 MAYIS EMEK VE DAYANIŞMA GÜNÜ",
+      "KAZANIM": "7. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 1000 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "8. 2000 saatlik bakım                                                             8.a. 2000 saatlik bakımın amacı\n8.1. 10 saatlik bakım yapma\n8.2. 50 saatlik bakım yapma\n8.3. 250 saatlik bakım yapma\n8.4. 500 saatlik bakım yapma\n8.5. 1000 saatlik bakım yapma",
+      "KAZANIM": "8. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 2000 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "8.6. Cer kutusundaki yağı değiştirme\n8.7. Hidrolik deposunun süzgecini temizleme\n8.8. Alternatör ve marş motorunun kontrolünü yapma\n8.9. Motor supap aralıklarını ayarlama\n8.10. Hidrolik tank süzgecini temizleme\n8.11. Akümülatördeki nitrojen gazı şarj basıncını kontrol etme                                                                                                                                                                                       19 Mayıs  ATATÜRK ü Anma Gençlik ve Spor Bayramı",
+      "KAZANIM": "8. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 2000 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "9. 4000 saatlik bakım                                                                 9.a. 4000 saatlik bakımın amacı\n9.1. 10 saatlik bakım yapma\n9.2. 50 saatlik bakım yapma\n9.3. 250 saatlik bakım yapma\n9.4. 500 saatlik bakım yapma\n9.5. 1000 saatlik bakım yapma\nATATÜRKÜN İNKILAPÇILIK İLKESİ",
+      "KAZANIM": "9. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 4000 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "9. 4000 saatlik bakım                                                                       9.6. 2000 saatlik bakım yapma\n9.7. Su pompasını kontrol etme\n9.8. Yüksek basınç boru hattı kelepçelerinin gevşeklik kontrolü\n9.9.  Lastiğin sertlik kontrolü \n9.10. Hidrolik tanktaki yağı değiştirme",
+      "KAZANIM": "2. Dönem 2. Sınav 9. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 4000 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "10. 8000 saatlik bakım                                                                        10.a. 8000 saatlik bakımın amacı\n10.1. 10 saatlik bakım yapma\n10.2. 50 saatlik bakım yapma\n10.3. 250 saatlik bakım yapma\n10.4. 500 saatlik bakım yapma                                                            2. DÖNEM 2. YAZILI SINAVI",
+      "KAZANIM": "10. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 8000 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 İŞ MAKİNELERİ PERİYODİK BAKIMI",
+      "KONU": "10. 8000 saatlik bakım                                                                     10.5. 1000 saatlik bakım yapma\n10.6. 2000 saatlik bakım yapma\n10.7. 4000 saatlik bakım yapma\n10.8. Yüksek basınç boru hattı kelepçesini değiştirme",
+      "KAZANIM": "10. İş sağlığı ve güvenliği tedbirlerini alarak iş makinelerinin 8000 saatlik periyodik bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

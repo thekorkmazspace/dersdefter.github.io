@@ -1,0 +1,338 @@
+{
+  "sinif": "10",
+  "ders": "ISITMA VE DOĞALGAZ TESSATI ATÖLYESİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "7",
+      "KONU": "1. ISITMA VE DOĞAL GAZ ATÖLYESİNİN DONANIMLARI\n1.1. Doğal Gaz ve Isıtma Tesisatı İşlerinde İş Sağlığı ve Güvenlik Tedbirleri\n1.1.1. İş Sağlığı\n1.1.2. İş Güvenliği\n1.1.3. İş Kazası\n1.1.4. Kişisel Koruyucu Donanımlar KKD\n1.2. Tehlikeli Durumlarda Acil Durum Prosedürleri\n1.2.1. Gaz Yangınına Karşı Alınacak Tedbirler\n1.2.2. Gaz Kaçağına Karşı Alınacak Tedbirler\n1.2.3. Doğal Gaz Zehirlenmelerine Karşı Alınacak Tedbirler\nDemokrasinin önemi",
+      "KAZANIM": "İş sağlığı ve güvenlik tedbirlerini alır ve kişisel koruyucu donanımları kullanır.\nTehlike durumlarında acil durum prosedürlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "7",
+      "KONU": "1.3. Doğal Kaynakların Tüketimimde Tasarruflu Hareket Etme\n1.3.1. Enerji Neden Verimli Kullanılmalıdır\n1.4. İşe Ait Kalite Gereklilikleri\n1.4.1. El Aletleri\n1.4.2. El Aletlerinin Kullanımında Dikkat Edilecek Hususlar\n1.4.3. Makineler\n1.4.4. Kalibrasyon\n1.5. İş Organizasyonu\n1.6. Çevre Güvenlik Önlemleri\n1.6.1. Havalandırma Menfezi",
+      "KAZANIM": "Doğal kaynakların tüketiminde tasarruflu hareket etmeyi açıklar.\nİşe ait kalite gerekliliklerini açıklar.\nÇalışma alanı özelliklerine göre iş organizasyonu yapar.\nÇalışma alanı özelliklerine göre çevre güvenlik önlemlerini alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "7",
+      "KONU": "2. GAZIN BİNAYA ALINMASI\n2.1. Doğal Gaz Çelik Boruların Kanal İçerisine Yerleştirilmesi\n2.1.1. Doğal Gaz ve Doğal Gazın Bileşenleri\n2.1.2. Doğal Gazın Başlıca Özellikleri\n2.1.3. Doğal Gazın Kullanım Alanları\n2.1.4. Doğal Gazın Avantajları\n2.1.5. Doğal Gaz Tesisatı ile İlgili Tanımlar\n2.1.6. Doğal Gaz Bina İçi Tesisatının Bölümleri\n2.1.7. Doğal Gaz Tesisatında Kullanılan Çelik Borular ve Birleştirme Parçaları\n2.1.8. Doğal Gaz Çelik Borularını Birleştirme Yöntemleri\n2.1.9. Doğal Gaz Çelik Boruların Kanala Yerleştirilmesi\n2.2. Doğal Gaz Polietilen Boruların Kanal İçerisine Yerleştirilmesi\n2.2.1. Polietilen Borular ve Ek Parçaları\n2.2.2. Polietilen Boruların Avantajları\n2.2.3. Polietilen Boruların Dezavantajları\n2.2.4. Polietilen Boruların Kanala Yerleştirilmesi\n2.2.5. Elektro Füzyon Kaynağında Dikkat Edilecek Hususlar",
+      "KAZANIM": "Kanal içerisine doğal gaz çelik boru uygulaması yapar.\nKanal içerisine doğal gaz polietilen boru uygulaması yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "7",
+      "KONU": "2.3. Boruların Korunması\n2.3.1. Katodik Koruma\n2.3.2. Sıcak Polietilen Sargı Bandı\n2.3.3. Soğuk Polietilen Sargı Bandı\n2.3.4. Kılıflı Geçişler\n2.4. Servis Kutusu Montajı\n2.4.1. Şebeke Hattı\n2.4.2. Saddle Tee Semer\n2.4.3. Doğal Gaz Servis Hattı\n2.4.4. Servis Kutusu\n2.4.5. Servis Kutusu Çeşitleri\n2.5. Servis Kutusuna Regülatör Bağlantısı\n2.5.1. Polietilen Bağlantılı Gaz Kesme Vanası\n2.5.2. Regülatör\n2.5.3. Regülatör Çeşitleri\n2.5.4. Regülatör Montajı\n2.6. Doğal Gaz Kolon Hattının Topraklanması\n2.6.1. Doğal Gaz Bina İçi Tesisatının Topraklanması",
+      "KAZANIM": "Boruların korunma işlemlerini yapar.\nServis kutusu montajı yapar.\nServis kutusuna regülatör bağlantısı yapar.\nDoğal gaz kolon hattına topraklama işlemi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "7",
+      "KONU": "3. DOĞAL GAZ KOLON TESİSATI\n3.1. Kolon Tesisatına Ana Kesme Vanası Montajı\n3.1.1. Doğal Gaz Dağıtım Borusu\n3.1.2. Bina Bağlantı Hattı\n3.1.3. Servis Kutusu Çıkışı Esnek Bağlantı Borusu\n3.1.4. Bina Bağlantı Hattının Toprak Altından Döşenerek Binaya Girmesi\n3.1.5. Bina Bağlantı Hattının Toprak Altına İnmeden Binaya Girmesi\n3.1.6. İzolasyon Mafsalı\n3.1.7. Doğal Gaz Ana Kesme Vanası AKV\n3.1.8. Ana Kesme Vanası Montajında Dikkat Edilecek Hususlar\n3.2. Deprem Vanası Montajı\n3.2.1. Deprem Vanası\n3.2.2. Doğal Gaz Tesisatlarında Deprem Vanalarının Önemi\n3.2.3. Deprem Vanası Çeşitleri\n3.2.4. Selenoid Vana",
+      "KAZANIM": "Kolon tesisatına ana kesme vanası montajı yapar.\nDeprem vanası montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "7",
+      "KONU": "3.3. Doğal Gaz Kolon Tesisatı Borulama\n3.3.1. Kolon Tesisatı\n3.3.2. Gaz Borularının Döşenmesinde Dikkat Edilecek Hususlar\n3.3.3. Duvar ve Döşeme Geçişleri\n3.3.4. Boruların Kelepçe ve Konsollarla Yapı Elemanlarına Sabitlenmesi\n3.3.5. Kolon Tesisatının Döşenmesi\n3.4. Bina İçi Regülatör Montajı\n3.4.1. Domestik Regülatör\n3.4.2. Domestik Hat Regülatör Montajı\n3.5. Daire İçi Doğal Gaz Sayaç Vanası\n3.5.1. Sayaç Bağlantı Hattı\n3.5.2. Sayaç Girişi Gaz Kesme Vanası",
+      "KAZANIM": "Projeye uygun doğal gaz kolon tesisatı yapar.\nBina içi regülatör montajı yapar.\nDaire içi doğal gaz sayaç vanası montajı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "7",
+      "KONU": "3.5.3. Esnek Bağlantı Borusu\n3.5.4. Sayaç Giriş ve Sayaç Çıkış Rakoru\n3.6. Doğal Gaz Sayaç Montajı\n3.6.1. Doğal Gaz Sayaçları\n3.6.2. Sayaçlarda Köprüleme Yapılması\n3.6.3. Doğal Gaz Sayaç Montajında Dikkat Edilecek Hususlar\n3.7. Doğal Gaz Kolon Hattı Sızdırmazlık ve Mukavemet Testi\n3.7.1. Doğal Gaz Tesisatında Kullanılan Manometreler\n3.7.2. Tesisatın Mukavemet Testi\n3.7.3. Tesisatın Sızdırmazlık Testi",
+      "KAZANIM": "Doğal gaz sayaç montajı yapar.\nKolon hattı sızdırmazlık ve mukavemet testini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "7",
+      "KONU": "4. DAİRE İÇİ DOĞAL GAZ TESİSATI\n4.1. Çelik Boru ile Daire İçi Doğal Gaz Tesisatı\n4.1.1. Daire İçi Doğal Gaz Tesisatı\n4.1.2. Tüketim Hattı\n4.1.3. Ayrım Hattı\n4.1.4. Test Nipeli\n4.1.5. Daire İçi Doğal Gaz Tesisatında Kullanılan Çelik Borular ve Bağlantı Şekli\n4.1.6. Daire İçi Doğal Gaz Tesisatında Kullanılan Sızdırmazlık Elemanları\nAtatürkün Cumhuriyetçilik İlkesi\n1.Dönem 1.Sınav",
+      "KAZANIM": "Çelik boru ile daire içi doğal gaz tesisatı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "7",
+      "KONU": "4.2. Bakır Boru ile Daire İçi Doğal Gaz Tesisatı\n4.2.1. Doğal Gaz Tesisatında Kullanılan Bakır Borular ve Birleştirme Yöntemi\n4.2.2. Bakır Boru Montajında Dikkat Edilecek Hususlar\n4.3. Esnek Boru ile Daire İçi Doğal Gaz Tesisatı\n4.3.1. Doğal Gaz Tesisatında Kullanılan Esnek Borular ve Birleştirme Yöntemi\n4.3.2. Esnek Boru Montajında Dikkat Edilecek Hususlar\n4.4. Cihaz Bağlantı Hattı\n4.4.1. Cihaz Bağlantı Hattı\nAtatürkün eğitime ve bilime verdiği önem",
+      "KAZANIM": "1. Dönem 1. Sınav Bakır boru ile daire içi doğal gaz tesisatı yapar.\nEsnek boru ile daire içi doğal gaz tesisatı yapar.\nCihaz bağlantı hattını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "7",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "7",
+      "KONU": "4.5. Gaz Kaçak Dedektörü\n4.5.1. Gaz Kaçak Dedektörü ve Yerinin Belirlenmesi\n4.5.2. Gaz Kaçak Dedektörü Montajında Dikkat Edilecek Hususlar\n4.5.3. Alarm Durumunda Yapılması Gerekenler\n4.6. Menfez Montajı\n4.6.1. Havalandırma Menfezi\n4.6.2. A Tipi Bacasız Cihazların Bulunduğu Ortamların Havalandırılması\n4.6.3. B Tipi Bacalı Cihazların Bulunduğu Ortamların Havalandırılması\n4.6.4. C Tipi Denge Bacalı Cihazların Bulunduğu Ortamların Havalandırılması",
+      "KAZANIM": "Gaz kaçak detektörü montajı yapar.\nBulunduğu hacme göre menfez montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "7",
+      "KONU": "4.7. Daire İçi Doğal Gaz Tesisatı Sızdırmazlık ve Mukavemet Testi\n4.7.1. Daire İçi Doğal Gaz Tesisatı Test Yönteminin Belirlenmesi\n4.7.2. Daire İçi Doğal Gaz Tesisatı Mukavemet Testi\n4.7.3. Daire İçi Doğal Gaz Tesisatı Sızdırmazlık Testi\n4.7.4. Tesisattaki Havanın Boşaltılması\n4.7.5. Doğal Gaz Tesisatına Gaz Verme İşlemi\n4.7.6. Doğal Gaz ile Yapılan Son Sızdırmazlık Testi\n4.7.7. Tesisattaki Gazın Boşaltılması",
+      "KAZANIM": "Daire içi doğal gaz sızdırmazlık ve mukavemet testini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "7",
+      "KONU": "5. DOĞAL GAZ YAKICI CİHAZ MONTAJI\n5.1. Pişiricilerin Montajı\n5.1.1. Ocak Montajı\n5.1.2. Ocak Montajında Dikkat Edilecek Hususlar\n5.2. Doğal Gaz Sobası Montajı\n5.2.1. Doğal Gaz Sobası Montajı",
+      "KAZANIM": "Montaj kılavuzuna uygun olarak pişiricilerin montajını yapar.\nMontaj kılavuzuna uygun olarak doğal gaz sobası montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "7",
+      "KONU": "5.2.2. Denge Bacalı Soba Montajı\n5.2.3. Bacalı Soba Montajı\n5.2.4. Doğal Gaz Sobası Montajında Dikkat Edilecek Hususlar\n5.3. Şofben Montajı\n5.3.1. Gazlı Şofbenler\n5.3.2. Denge Bacalı Şofben Montajı",
+      "KAZANIM": "Montaj kılavuzuna uygun olarak şofben montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "7",
+      "KONU": "5.3.3. Denge Bacalı Şofbenlerin Montajında Dikkat Edilecek Hususlar\n5.3.4. Bacalı Şofben Montajı\n5.3.5. Bacalı Şofbenlerin Montajında Dikkat Edilecek Hususlar\n5.4. Kombi Montajı\n5.4.1. Kombi ve Kombi Çeşitleri",
+      "KAZANIM": "Montaj kılavuzuna uygun olarak kombi montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "7",
+      "KONU": "5.5. Kazan Montajı\n5.5.1. Kazan Yerinin Hazırlanması\n5.5.2. Kazan Montajında Dikkat Edilecek Hususlar\n5.6. Kaskad Kazan Montajı\n5.6.1. Kaskad Kazanlar\n5.6.2. Kaskad Kazan Montajı",
+      "KAZANIM": "Montaj kılavuzuna uygun olarak kazan montajını yapar.\nMontaj kılavuzuna uygun olarak kaskad kazan montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "7",
+      "KONU": "6. KAZAN DAİRESİ TESİSATI\n6.1. Doğal Gaz Kazan Besleme Hattı\n6.1.1. Kazan Dairesi Tesisatı Montajında Dikkat Edilecek Hususlar\n6.2. Brülör Gaz Yolu Armatürleri Montajı\n6.2.1. Brülör Gaz Kontrol Hattında Kullanılan Armatürler\n6.3. Brülör Montajı\n6.3.1. Atmosferik Brülör Gaz Yolu Armatürleri\n6.3.2. Üflemeli Brülör Gaz Yolu Armatürleri\n6.3.3. Brülör Montajında Dikkat Edilecek Hususlar\n1.Dönem 2.Sınav",
+      "KAZANIM": "Kazan doğal gaz besleme hattı boru montajı yapar.\nBrülör gaz yolu armatürleri montajını yapar.\nMontaj kılavuzuna uygun olarak brülör montajı yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "7",
+      "KONU": "6.4. Kazan Dairesi Emniyet Elemanları\n6.4.1. Doğal Gaz Emniyeti\n6.4.2. Gaz Alarm Cihazı\n6.4.3. Selenoid Vana\n6.5. Gaz Hattı Sızdırmazlık Testi\n6.5.1. Kazan Dairesi Gaz Tesisatı Test Yönteminin Belirlenmesi\n6.5.2. Kazan Dairesi Gaz Tesisatı Mukavemet Testi",
+      "KAZANIM": "1. Dönem 2. Sınav Kazan dairesi emniyet elemanlarının montajını yapar.\nGaz hattı sızdırmazlık testi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "7",
+      "KONU": "6.5.3. Kazan Dairesi Gaz Tesisatı Sızdırmazlık Testi\n6.5.4. Tesisattaki Havanın Boşaltılması\n6.5.5. Doğal Gaz Tesisatına Gaz Verme İşlemi\n6.6. Kazan Dairesi Havalandırma Tesisatı\n6.6.1. Kazan Dairesinin Havalandırılması\n6.6.2. Doğal Tabii Havalandırma Sistemi\n6.6.3. Cebrî Mekanik Havalandırma Sistemi\n6.6.4. İyi Bir Havalandırma Kanalının Özellikleri",
+      "KAZANIM": "Kazan dairesi havalandırma tesisatı yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "7",
+      "KONU": "7. KATI YAKITLI CİHAZLARIN MONTAJI\n7.1. Katı ve Sıvı Yakıtlı Kat Kaloriferi Montajı\n7.1.1. Kazan Dairesinin Planlanması\n7.1.2. Kazan Montajı Yapma\n7.1.3. Kazanın İlk Montajı",
+      "KAZANIM": "Katı ve sıvı yakıtlı kat kaloriferi montajını yapar"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "7",
+      "KONU": "7.2. Eşanjör Montajı\n7.2.1. Borulu Silindirik Eşanjörler\n7.2.2. Paket Plakalı Eşanjör\n7.3. Boyler Montajı\n7.3.1. Gömlekli Boyler Çift Cidarlı",
+      "KAZANIM": "Montaj kılavuzuna uygun olarak eşanjör montajı yapar.\nMontaj kılavuzuna uygun olarak boyler montajı yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "7",
+      "KONU": "7.3.2. Serpantinli Boyler\n7.3.3. Boylerler ve Bağlantıları\n7.4. Genleşme Tankı Montajı\n7.4.1. Genleşme Depoları",
+      "KAZANIM": "Montaj kılavuzuna uygun olarak genleşme tankı montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "7",
+      "KONU": "7.5. Kazan Baca Bağlantıları\n7.5.1. Baca Tanımı\n7.5.2. Baca Çeşitleri\n7.5.3. Bacaların Çekme Şartları\n7.5.4. Duman Kanalları\n7.5.5. Duman Kanalı Sızdırmazlık Testi Yapmak",
+      "KAZANIM": "Kazan baca bağlantılarını yapar.\nKazan emniyet ve kontrol elemanları montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "7",
+      "KONU": "8. KAT ISITMA SİSTEMLERİ DEVRE ELEMANLARI\n8.1. Birim Mahal Isı Kaybı Hesabı\n8.1.1. Hesabı Yaptırılacak Alanın Seçilmesi\n8.1.2. Seçilen Alanın Isı Kaybı Hesabını Yapma\n8.1.3. Hava Sızıntısı Enfiltrasyon Isı Kaybı Qs\n8.2. Projeye Uygun Isıtıcı Seçimi Yapma\n8.2.1. Montaj Kılavuzuna Uygun Olarak Isıtıcı Montajı",
+      "KAZANIM": "Birim mahal ısı kaybı hesabı yapar.\nProjeye uygun ısıtıcı seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "7",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "7",
+      "KONU": "8.3. Isıtıcı Yeri Hazırlama\n8.3.1. Isıtıcı Montajı\n8.4. Isıtıcıya Uygun Boru ve Boru Çapı Seçimini Yapma\n8.4.1. Isıtıcıya Uygun Boru Seçimi Yapılırken Dikkat Edilecek Kurallar\n8.4.2. Projeye Uygun Boru Çapı Hesabı",
+      "KAZANIM": "Montaj kılavuzuna uygun olarak ısıtıcı montajı yapar.\nIsıtıcıya uygun boru ve boru çapı seçimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "7",
+      "KONU": "9. KAT KALORİFER TESİSATI MONTAJI\n9.1. Kat Kaloriferi Boru Tesisatı\n9.1.1. Kat Kaloriferi\n9.1.2. Kat Kaloriferlerinin Avantajları\n9.1.3. Kat Kaloriferi Kazan Çeşitleri\n9.2. Mobil Sistem ile Kat Kaloriferi Boru Tesisatı\n9.2.1. Mobil Sistem\n9.2.2. Mobil Sistem Özellikleri\nAtatürkün vatan ve millet sevgisi\n2.Dönem 1.Sınav",
+      "KAZANIM": "Projeye uygun kat kaloriferi boru tesisatını yapar.\nMobil sistem ile kat kaloriferi tesisatı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "7",
+      "KONU": "9.2.3. Mobil Sistem Bağlantı Elemanları\n9.2.4. Mobil Sistem Uygulaması\n9.2.5. PE-X Boruların Üstün Özellikleri\n9.2.6. Mobil Sistem Isıtma Borularının Montajında Dikkat Edilecek Hususlar\n9.3. Kollektör Montajı\n9.3.1. Kollektörler\n9.3.2. Kollektör Dolabı  Kollektör Kutusu\n9.3.3. Mini Küresel Vanalar",
+      "KAZANIM": "2. Dönem 1. Sınav Projeye uygun kolektör montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "7",
+      "KONU": "9.4. Yerden Isıtma ile Kat Kaloriferi Tesisatı\n9.4.1. Yerden Isıtma Nedir\n9.4.2. Yerden Isıtma Özellikleri\n9.4.3. Yerden Isıtma Sisteminde Kullanılan Malzemeler\n9.4.4. Yerden Isıtma Borularının Montajında Dikkat Edilecek Hususlar",
+      "KAZANIM": "Yerden ısıtma ile kat kaloriferi tesisatı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "7",
+      "KONU": "9.5. Kat Kalorifer Sisteminin Testi\n9.5.1. Sızdırmazlık Kontrolü\n9.5.2. Isıtma Tesisatını Doldurma\n9.5.3. Hidrometre Ayarı Yapma",
+      "KAZANIM": "Kat kaloriferi sistemi kaçak testini yapar.\nKat kaloriferi sistemini devreye alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "7",
+      "KONU": "9.5.4. Hava Alma Teknikleri\n9.5.5. Test Tulumbası\n9.6. Otomatik Kontrol Elemanları\n9.6.1. Termostatik Vana\n9.6.2. Oda Termostatı\nÇocuk insan sevgisi ve evrensellik",
+      "KAZANIM": "Otomatik kontrol elemanları montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "7",
+      "KONU": "10. MERKEZÎ ISITMA TESİSATI MONTAJI\n10.1. Ana Dağıtım Borularının Montajı\n10.1.1. Merkezî Isıtma Sistemleri\n10.1.2. Isıtma Sistemlerinde Tesisat Döşeme Şekilleri\n10.1.3. Merkezî Sistemlerin Avantajları\n10.1.4. Boru Güzergâhı Hazırlama\n10.1.5. Boru Birleştirme\n10.1.6. Ana Dağıtım Boruları Montajı",
+      "KAZANIM": "Ana dağıtım borularının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "7",
+      "KONU": "10.2. Gidiş ve Dönüş Kollektörleri\n10.2.1. Gidiş Kollektörü Hazırlama\n10.2.2. Dönüş Kollektörü Hazırlama\n10.2.3. Gidiş ve Dönüş Kollektörü Montajı\n10.3. Kollektör Montajı Pompa Bağlantılarını Yapma\n10.3.1. Kollektörler Sirkülasyon Pompası\n10.3.2. Sirkülasyon Pompası Bağlantıları\n10.4. Boyler ve Eşanjör Bağlantıları\n10.4.1. Boyler ve Eşanjör",
+      "KAZANIM": "Gidiş ve dönüş kolektörlerin montajını yapar.\nSirkülasyon pompa bağlantılarını yapar.\nBoyler ve Eşanjör bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "7",
+      "KONU": "10.4.2. Boyler ve Eşanjör Tesisat Bağlantılarını Yapma\n10.5. Kolon Borularının Montajı\n10.5.1. Kolon Boru Güzergâhı Hazırlama\n10.5.2. Kolon Boru Birleştirmeleri\n10.5.3. Kolon Boruların Montajı\n10.6. Kolon Borularının Montajı\n10.6.1. Kolon Boru Güzergâhı Hazırlama\n10.6.2. Branşman Boru Birleştirmeleri\n10.6.3. Branşman Boruların Montajı",
+      "KAZANIM": "Kolon borularının montajını yapar.\nBranşman hattı bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "7",
+      "KONU": "11. MERKEZÎ ISITMA TESİSATINI İŞLETMEYE ALMA\n11.1. Merkezî Isıtma Tesisatını Su ile Doldurma\n11.1.1. Merkezî Sistemi Kontrol Etme ve Isıtma Tesisatına Su Doldurma Kuralları\n11.1.2. Merkezî Isıtma Tesisatını Su ile Doldurma\n11.1.3. Merkezî Isıtma Tesisatında Hava Alma Teknikleri\nAtatürkçü düşüncede yer alan temel fikirler",
+      "KAZANIM": "Merkezi ısıtma tesisatını su ile doldurur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "7",
+      "KONU": "11.2. Kazan Dairesi Elektrik Tesisatı\n11.2.1. Elektrik Malzemeleri Hazırlama ve Topraklama Tesisatı\n11.2.2. Kazan Dairesi Elektrik Tesisatı\n11.3. Kazan Dairesi Emniyet Elemanları\n11.3.1. Kazan Dairesinin Kontrol ve Emniyet Cihazlarını Hazırlama\n11.3.2. Kazan Dairesi Emniyet Elemanlarının Montajı",
+      "KAZANIM": "2. Dönem 2. Sınav Kazan dairesi elektrik tesisatını yapar.\nKazan dairesi emniyet elemanlarının montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "7",
+      "KONU": "1.4. Merkezî Sistem Otomatik Kontrol Elemanları\n11.4.1. Kazan Kontrolü\n11.4.2. Termostatik Radyatör Vanası\n11.4.3. Bölge Zon Kontrolü\n11.4.4. Merkezî Sistem Otomatik Kontrol Elemanlarının Montajı\n11.5. Merkezî Sistemi Devreye Alma\n11.5.1. Merkezî Sistemi Kontrol Etme\n11.5.2. Merkezî Isıtma Tesisatı\n2.Dönem 2.Sınav",
+      "KAZANIM": "Merkezi ısıtma sistemi otomatik kontrol elemanlarının montajını yapar.\nMerkezi ısıtma sistemini devreye alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "7",
+      "KONU": "11.6. Merkezî Sistemin Yalıtımı\n11.6.1. Merkezî Isıtma Tesisatı Yalıtım Malzemeleri\n11.6.2. Akışkan Sıcaklığına Göre Tesisat Yalıtım Malzemeleri\n11.6.3. Merkezî Isıtma Tesisatı Yalıtımı ve Yalıtım Malzemesinin Kalınlığı",
+      "KAZANIM": "Merkezi ısıtma sistemin yalıtımını yapar.\nMerkezi ısıtma sistemini kullanıcıya teslim eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

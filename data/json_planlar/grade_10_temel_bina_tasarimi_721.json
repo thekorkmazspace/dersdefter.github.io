@@ -1,0 +1,339 @@
+{
+  "sinif": "10",
+  "ders": "TEMEL BİNA TASARIMI",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ ARSA VE YAPI MAHAL TASARIMI \n1.1. Yapı Taban ve Kat Alanı Hesapları\n1.1.1. Arsa ve Yapı Alan Hesapları",
+      "KAZANIM": "Matematik ve taslak çizim kurallarına uygun olarak yapı taban ve kat alanı hesaplamalarını yaparak krokilerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.2. Yapı Arsa Taslak Kroki Çizimleri",
+      "KAZANIM": "Matematik ve taslak çizim kurallarına uygun olarak yapı taban ve kat alanı hesaplamalarını yaparak krokilerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "1.2. Ergonomik Mekân Alanları Tasarımı \n1.2.1. Konut Mahal Listesi",
+      "KAZANIM": "Taslak kroki çizim kurallarına uygun olarak ergonomik mekân alanları tasarlar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.2. Mekân Alanları Ergonomik Boyutları",
+      "KAZANIM": "Taslak kroki çizim kurallarına uygun olarak ergonomik mekân alanları tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.3. Mahal Krokileri",
+      "KAZANIM": "Taslak kroki çizim kurallarına uygun olarak ergonomik mekân alanları tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "1.3. Yapı Mahal Tasarımı\n1.3.1. Konut Krokisi ve Tasarımı",
+      "KAZANIM": "Tasarım ilkeleri doğrultusunda konut ve mahal tasarımlarını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "1.3.2. Konut Mahalleri",
+      "KAZANIM": "Tasarım ilkeleri doğrultusunda konut ve mahal tasarımlarını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "1.3.3. Konut Mahal Tasarımları \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Tasarım ilkeleri doğrultusunda konut ve mahal tasarımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "1.4. Yapı Mahal Tefrişleri",
+      "KAZANIM": "1. Dönem 1. Sınav Taslak kroki çizim kurallarına uygun olarak mahal tefriş donatımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "1.4.1. Tefriş Elemanları",
+      "KAZANIM": "Taslak kroki çizim kurallarına uygun olarak mahal tefriş donatımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "1.4.2. Tefriş Elemanlarının Listelenmesi",
+      "KAZANIM": "Taslak kroki çizim kurallarına uygun olarak mahal tefriş donatımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "1.4.3. Islak Hacim Tefrişleri",
+      "KAZANIM": "Taslak kroki çizim kurallarına uygun olarak mahal tefriş donatımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "1.4.4. Yaşam Alanı Tefrişleri",
+      "KAZANIM": "Taslak kroki çizim kurallarına uygun olarak mahal tefriş donatımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "1.4.5. Yatma Alanı Tefrişleri",
+      "KAZANIM": "Taslak kroki çizim kurallarına uygun olarak mahal tefriş donatımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ MERDİVEN DENGELENDİRME VE HESAPLARI\n2.1. Merdiven Çeşitleri ve Merdiven Elemanları Özellikleri\n2.1.1. Merdiven Çeşitleri",
+      "KAZANIM": "Matematik teknik resim taslak çizim kurallarına uygun olarak tek kollu merdiven dengelendirme ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "2.1.2. Merdiveni Oluşturan Elemanlar ve Özellikleri\n2.1.3. Merdiven Hesaplarında Kullanılan Tanımlar \n1.Dönem 2.Sınav",
+      "KAZANIM": "Matematik teknik resim taslak çizim kurallarına uygun olarak tek kollu merdiven dengelendirme ve hesaplarını yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "2.2. Tek Kollu Merdiven Dengelendirme ve Hesapları\n2.2.1. Tek Kollu Merdiven Dengelendirme Kuralları",
+      "KAZANIM": "1. Dönem 2. Sınav Matematik teknik resim taslak çizim kurallarına uygun olarak tek kollu merdiven dengelendirme ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "2.2.2. Tek Kollu Merdiven Hesapları\n2.2.3. Tek Kollu Merdiven Taslak Dengelendirme Çizimi",
+      "KAZANIM": "Matematik teknik resim taslak çizim kurallarına uygun olarak tek kollu merdiven dengelendirme ve hesaplarını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2.3. İki Kollu Sahanlıklı Merdiven Dengelendirme ve Hesapları \n2.3.1. İki Kollu Sahanlıklı Merdiven Dengelendirme Kuralları",
+      "KAZANIM": "Matematik ve teknik resim taslak çizim kurallarına uygun olarak iki kollu sahanlıklı merdiven dengelendirme ve hesaplarını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "2.3.2. İki Kollu Sahanlıklı Merdiven Hesapları\n2.3.3. İki Kollu Sahanlıklı Merdiven Taslak Dengelendirme Çizimi",
+      "KAZANIM": "Matematik ve teknik resim taslak çizim kurallarına uygun olarak iki kollu sahanlıklı merdiven dengelendirme ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "2.4. Çeyrek Döner Merdiven Dengelendirme ve Hesapları \n2.4.1. Çeyrek Döner Merdiven Dengelendirme Kuralları",
+      "KAZANIM": "Matematik ve teknik resim taslak çizim kurallarına uygun olarak çeyrek döner merdiven dengelendirme ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "2.4.2. Çeyrek Döner Merdiven Hesapları \n2.4.3. Çeyrek Döner Merdiven Taslak Dengelendirme Çizimi",
+      "KAZANIM": "Matematik ve teknik resim taslak çizim kurallarına uygun olarak çeyrek döner merdiven dengelendirme ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "2.5. Yarım Döner Merdiven Dengelendirme ve Hesapları\n2.5.1. Yarım Döner Merdiven Dengelendirme Kuralları",
+      "KAZANIM": "Matematik ve teknik resim taslak çizim kurallarına uygun olarak yarım döner merdiven dengelendirme ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "2.5.2. Yarım Döner Merdiven Hesapları \n2.5.3. Yarım Döner Merdiven Taslak Dengelendirme Çizimi",
+      "KAZANIM": "Matematik ve teknik resim taslak çizim kurallarına uygun olarak yarım döner merdiven dengelendirme ve hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ ÇATI TANZİMİ\n3.1. Beşik Çatı \n3.1.1. Beşik Çatı Tanzimi \n\n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Çatı tanzim kurallarına uygun olarak beşik çatı tanzimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "3.1.2. Beşik Çatı Görünüş Çizimi",
+      "KAZANIM": "Çatı tanzim kurallarına uygun olarak beşik çatı tanzimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "3.2. Kırma Çatı\n3.2.1. Kırma Çatı Tanzimi",
+      "KAZANIM": "Çatı tanzim kurallarına uygun olarak kırma çatı tanzimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.2.2. Kırma Çatı Görünüş Çizimi",
+      "KAZANIM": "Çatı tanzim kurallarına uygun olarak kırma çatı tanzimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.3. Karışık Kırma Mürekkep Çatı\n3.3.1. Karışık Kırma Mürekkep Çatı Tanzimi",
+      "KAZANIM": "Çatı tanzim kurallarına uygun olarak mürekkep karışık çatı tanzimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.3.2. Karışık Kırma Mürekkep Çatı Görünüş Çizimi \n3.3.3. Bitişik Nizam Yapılarda Karışık Kırma Mürekkep Çatı Tanzimi",
+      "KAZANIM": "Çatı tanzim kurallarına uygun olarak mürekkep karışık çatı tanzimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.4. Çatı Makası ve Elemanları",
+      "KAZANIM": "Çatı tanzim kurallarına uygun olarak mürekkep karışık çatı tanzimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ KAPI VE PENCERE DOĞRAMA TASLAK DETAYLARI\n4.1. Kapı Doğramaları \n4.1.1. Kapıyı Oluşturan Kısımlar",
+      "KAZANIM": "Taslak çizim kurallarına uygun olarak kapı ve doğrama detaylarını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "4.1.2. Kapılarda Boyutlandırma Kuralları \n4.1.3. Kapı Çeşitleri \n4.1.4. Kapı Plan ve Detay Çizimleri",
+      "KAZANIM": "2. Dönem 2. Sınav Taslak çizim kurallarına uygun olarak kapı ve doğrama detaylarını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "4.2. Pencere Doğramaları\n4.2.1. Pencereleri Oluşturan Elemanlar \n4.2.2. Pencere Boyutlandırma Kuralları",
+      "KAZANIM": "Taslak çizim kurallarına uygun olarak pencere ve doğrama detaylarını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "4.2.3. Pencere Çeşitleri \n4.2.4. Pencere Camları \n4.2.5. Pencere Plan ve Detay Çizimleri \n2.Dönem 2.Sınav",
+      "KAZANIM": "Taslak çizim kurallarına uygun olarak pencere ve doğrama detaylarını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "BATARYA TEKNOLOJİSİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 1 Bataryalar",
+      "KONU": "1. Bataryaların Tarihçesi",
+      "KAZANIM": "1. Bataryaların tarihçesini açıklar.\n Bataryaların tarihçesi açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 1 Bataryalar",
+      "KONU": "2. Bataryalara İlişkin Terimleri.",
+      "KAZANIM": "2. Bataryalara ilişkin terimleri sıralar.\n Bataryalarda kullanılan terimleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 1 Bataryalar",
+      "KONU": "3. Batarya Çeşitleri",
+      "KAZANIM": "3. Batarya çeşitlerini sıralar.\n Bataryaların çeşitleri açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 1 Bataryalar",
+      "KONU": "4. Batarya Gruplama ve Paketler",
+      "KAZANIM": "4. Bataryalarda gruplama ve paket kavramlarını açıklar.\n Hücre modül paket kavramları açıklanır.\n Batarya gruplama ve gruplama paketleri açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 1 Bataryalar",
+      "KONU": "4. Batarya Gruplama ve \nPaketler",
+      "KAZANIM": "4. Bataryalarda gruplama ve paket kavramlarını açıklar.\n Hücre modül paket kavramları açıklanır.\n Batarya gruplama ve gruplama paketleri açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 2 Nikel Temelli Bataryalar",
+      "KONU": "1. Kimyasal Özellikleri",
+      "KAZANIM": "1. Nikel temelli bataryaların kimyasal \nözelliklerini açıklar.\n Nikel temelli bataryaların kimyasal özellikleri açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 2 Nikel Temelli Bataryalar",
+      "KONU": "2. Nikel Kadmiyum \nBataryalar",
+      "KAZANIM": "2. Nikel Kadmiyum bataryaların özelliklerini açıklar.\n Nikel Kadmiyum bataryaların kimyasal özellikleri açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 2 Nikel Temelli Bataryalar",
+      "KONU": "3. Nikel Metal Hidrit \nBataryalar",
+      "KAZANIM": "3. Nikel Metal Hidrit bataryaların özelliklerini açıklar.\n Nikel Metal Hidrit bataryaların kimyasal özellikleri açıklanır\nATATÜRKÜN CUMHURİYETÇİLİK İLKESİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 2 Nikel Temelli Bataryalar",
+      "KONU": "4. Nikel temelli Bataryaların karşılaştırılmasını yapar.",
+      "KAZANIM": "1. Dönem 1. Sınav 4. Nikel temelli bataryaların karşılaştırılmasını yapar.\n Nikel Temelli bataryaların karşılaştırılması \naçıklanır.  \n1. DÖNEM 1. YAZILI SINAVI",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 3 Lityum Temelli Bataryalar",
+      "KONU": "1. Kimyasal Özellikleri",
+      "KAZANIM": "1. Lityum temelli bataryaların kimyasal \nözelliklerini açıklar.\n Lityum temelli bataryaların kimyasal özellikleri açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 3 Lityum Temelli Bataryalar",
+      "KONU": "1. Kimyasal Özellikleri",
+      "KAZANIM": "1. Lityum temelli bataryaların kimyasal \nözelliklerini açıklar.\n Lityum temelli bataryaların kimyasal özellikleri açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 3 Lityum Temelli Bataryalar",
+      "KONU": "2. Lityum Demir Fosfat Bataryalar",
+      "KAZANIM": "2. Lityum Demir fosfat bataryaların kimyasal özelliklerini açıklar.\n Lityum demir fosfat bataryaların kimyasal özellikleri açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 3 Lityum Temelli Bataryalar",
+      "KONU": "2. Lityum Demir Fosfat Bataryalar",
+      "KAZANIM": "2. Lityum Demir fosfat bataryaların kimyasal özelliklerini açıklar.\n Lityum demir fosfat bataryaların kimyasal özellikleri açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 3 Lityum Temelli Bataryalar",
+      "KONU": "3. Lityum Manganez Kobalt Oksit Bataryalar",
+      "KAZANIM": "3. Lityum manganez kobalt oksit bataryaların kimyasal özelliklerini açıklar\n Lityum manganez kobalt oksit bataryaların kimyasal özellikleri açıklanır.                                                                                                                                                                                                             ATATÜRKÜN SANAYİLEŞMEYE VERDİĞİ ÖNEM",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 3 Lityum Temelli Bataryalar",
+      "KONU": "3. Lityum Manganez \nKobalt Oksit Bataryalar",
+      "KAZANIM": "3. Lityum manganez kobalt oksit bataryaların kimyasal özelliklerini açıklar.\n Lityum manganez kobalt oksit bataryaların kimyasal özellikleri açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 3 Lityum Temelli Bataryalar",
+      "KONU": "4. Lityum Polimer \nBataryalar",
+      "KAZANIM": "4. Lityum polimer bataryaların kimyasal \nözelliklerini açıklar.\n Lityum polimer bataryaların kimyasal özellikleri açıklanır\nATATÜRKÜN DEVLETÇİLİK İLKESİ"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 3 Lityum Temelli Bataryalar",
+      "KONU": "5. Lityum İyon \nBataryalar",
+      "KAZANIM": "1. Dönem 2. Sınav 5. Lityum iyon bataryaların kimyasal \nözelliklerini açıklar.\n Lityum iyon bataryaların kimyasal özellikleri açıklanır.    \n  1. DÖNEM 2. YAZILI SINAVI",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 4 SÜPER KAPASİTÖRLER",
+      "KONU": "1. Yapısı \n2. Çalışması",
+      "KAZANIM": "1. Süper kapasitörlerin yapısını açıklar.\n Süperkapasitörlerin yapısı açıklanır.\n2. Süper kapasitörlerin çalışmasını açıklar.\n Süperkapasitörlerin çalışması açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 4 SÜPER KAPASİTÖRLER",
+      "KONU": "3. Çeşitleri",
+      "KAZANIM": "3. Süper kapasitörlerin çeşitlerini sıralar.\n Süperkapasitelerin çeşitleri açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 4 SÜPER KAPASİTÖRLER",
+      "KONU": "4. Elektrikli Araçlarda Kullanımı",
+      "KAZANIM": "4. Elektrikli araçlarda kullanımını açıklar.\n Elektrikli araçlarda kullanımı açıklanır                                                                                                                                              ATATÜRKÜN MİLLİYETÇİLİK İLKESİ"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 5 Batarya Yönetim Sistemler",
+      "KONU": "1. Batarya Yönetim Sisteminin Parçaları aElektronik Kontrol Ünitesi bSensörler \ncGüvenlik ve Kumanda Sistemi",
+      "KAZANIM": "1. Batarya yönetim sisteminin parçalarını \nsıralar.\n Batarya yönetim sisteminin parçaları açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 5 Batarya Yönetim Sistemler",
+      "KONU": "2. Batarya Yönetim Sisteminin Görevleri",
+      "KAZANIM": "2. Batarya yönetim sisteminin görevlerini \naçıklar.\n Batarya yönetim sisteminin görevleri açıklanıri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 5 Batarya Yönetim Sistemler",
+      "KONU": "3. Batarya Şarj ve Deşarjının Yönetimi 4. Hücre Dengelemesi",
+      "KAZANIM": "3. Batarya şarj ve deşarjının yönetimini açıklar.\n Batarya şarj ve deşarjının yönetimi açıklanır.\n4. Hücre dengelemesini açıklar.\n Hücre dengelemesi açıklanır\n12 MART İSTİKLAL MARŞININ KABULÜ VE M.AKİF ERSOYU ANMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 6Batarya Termal Sistemleri",
+      "KONU": "1. Batarya Soğutma Sistemi\na Sistem Parçaları\nb Sistemin Çalışması",
+      "KAZANIM": "1. Bataryalarda soğutma sisteminin parçalarını \nve çalışmasını açıklar.\n Bataryalarda soğutma sisteminin parçaları ve \nçalışması açıklanır\n18 MART ÇANAKKALE ZAFERİ VE ÖNEMİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 6Batarya Termal Sistemleri",
+      "KONU": "1. Batarya Soğutma Sistemi\na Sistem Parçaları\nb Sistemin Çalışması",
+      "KAZANIM": "1. Bataryalarda soğutma sisteminin parçalarını \nve çalışmasını açıklar.\n Bataryalarda soğutma sisteminin parçaları ve \nçalışması açıklanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 6Batarya Termal Sistemleri",
+      "KONU": "2. Batarya Isıtma Sistemi\na Sistem Parçaları\nb Sistemin Çalışması",
+      "KAZANIM": "2. Dönem 1. Sınav 2. Bataryalarda ısıtma sistemini açıklar.\n Bataryalarda ısıtma sistemi parçaları ve çalışması açıklanır.\nATATÜRKÜN LAİKLİK İLKESİ                                               2. DÖNEM 1. YAZILI SINAVI",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 7Batarya Şarj Yöntemleri",
+      "KONU": "1. Şarj Aktarım Şekilleri\na DC Şarj\nb AC Şarj\nc Kablosuz Şar",
+      "KAZANIM": "1. Bataryalarda şarj aktarım şekillerini açıklar.\n Bataryalarda şarj aktarım şekilleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 7Batarya Şarj Yöntemleri",
+      "KONU": "1. Şarj Aktarım Şekilleri\na DC Şarj\nb AC Şarj\nc Kablosuz Şar",
+      "KAZANIM": "1. Bataryalarda şarj aktarım şekillerini açıklar.\n Bataryalarda şarj aktarım şekilleri açıklanır.\n 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 7Batarya Şarj Yöntemleri",
+      "KONU": "2. Şarj Soketleri ve \nİstasyonları",
+      "KAZANIM": "2. Şarj soketlerini ve istasyonlarını açıklar.\n Şarj soketleri ve istasyonları açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 8Besleme Kabloları",
+      "KONU": "1. Besleme Kabloları",
+      "KAZANIM": "1. Besleme kablolarını sınıflandırır.\n Besleme kabloları açıklanır\n1 MAYIS EMEK VE DAYANIŞMA GÜNÜ",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 8Besleme Kabloları",
+      "KONU": "2. Kontrolleri",
+      "KAZANIM": "2. Besleme kablolarının kontrollerini yapar.\n Besleme kablolarının kontrollerinin yapılması sağlanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 9Batarya Ölçme Teknikleri ve Atık Yönetimi",
+      "KONU": "1. Batarya Şarj Durumu\na Batarya Şarj Durumu \nKontrolü",
+      "KAZANIM": "1. Batarya şarj durumunu kontrol eder.\n Batarya şarj durumu kontrolü yapılması sağlanır                                                                                                                                                                               19 Mayıs  ATATÜRK ü Anma Gençlik ve Spor Bayramı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 9Batarya Ölçme Teknikleri ve Atık Yönetimi",
+      "KONU": "2. Batarya Kullanım \nÖmür Durumu",
+      "KAZANIM": "2. Batarya kullanım ömür durumunu açıklar.\n Batarya kullanım ömür durumu açıklanır\nATATÜRKÜN İNKILAPÇILIK İLKESİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 9Batarya Ölçme Teknikleri ve Atık Yönetimi",
+      "KONU": "3. Kullanım Ömrü \nKontrolü",
+      "KAZANIM": "2. Dönem 2. Sınav 3. Batarya kullanım ömür durumunun \nkontrolünü yapar.\n Batarya kullanım ömür durumunu kontrol edilmesi \nsağlanır",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 9Batarya Ölçme Teknikleri ve Atık Yönetimi",
+      "KONU": "4. Batarya Güvenlik \nKontrolü",
+      "KAZANIM": "4. Batarya değişimini yapar.\n Batarya güvenlik kontrolünün yapılması sağlanır.                             2. DÖNEM 2. YAZILI SINAVI",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ÖĞRENME BİRİMİ MODÜL 9Batarya Ölçme Teknikleri ve Atık Yönetimi",
+      "KONU": "5. Batarya Atık \nYönetimi",
+      "KAZANIM": "5. Batarya atık yönetimi prosedürünü uygular.\n Batarya atık yönetimiyle prosedürün \nuygulanmasını sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}
