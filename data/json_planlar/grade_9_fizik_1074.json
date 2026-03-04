@@ -1,0 +1,343 @@
+{
+  "sinif": "9",
+  "ders": "FİZİK",
+  "kaynak": "TYMMİLKORTA output_data",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n8 Eylül-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+      "KONU": "FİZ.9.1.1: Fizik biliminin tanımına yönelik tümevarımsal akıl yürütebilme\nSDB1.1: Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3. Kendine Uyarlama ",
+      "KAZANIM": "Fizik biliminin tanımına yönelik tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15 Eylül-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22 Eylül-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "FİZ.9.1.2: Fizik biliminin alt dallarını sınıflandırabilme\nFİZ.9.1.3: Fizik bilimine katkıda bulunmuş bilim insanlarının deneyimlerini yansıtabilme\nFİZ.9.1.4: Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili kari",
+      "KAZANIM": "Fizik biliminin alt dallarını sınıflandırabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Fizik bilimine katkıda bulunmuş bilim insanlarının deneyimlerini yansıtabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n6 Ekim-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili kariyer olanaklarını sorgulayabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13 Ekim-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Skaler ve vektörel nicelikleri karşılaştırabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20 Ekim-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerine yönelik bilimsel çıkarım yapabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Doğadaki temel kuvvetleri karşılaştırabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n3 Kasım-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Hareketin temel kavramlarının tanımlarına yönelik tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10 Kasım-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Hareket türlerini sınıflandırabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17 Kasım-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Sıvılarda basıncın kullanıldığı günlük hayat örneklerine ilişkin sorgulama yapabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24 Kasım-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Açık hava basıncına ilişkin çıkarım yapabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n1 Aralık-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kaldırma kuvvetini etkileyen değişkenleri belirlemeye yönelik deney yapabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n8 Aralık-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kaldırma kuvveti ile sıvılardaki basınca neden olan kuvvet arasındaki ilişkiye yönelik çıkarım yapabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15 Aralık-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22 Aralık-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Isı, öz ısı, ısı sığası ve sıcaklık farkı arasındaki matematiksel modele ilişkin tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n5 Ocak-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Hâl değiştirme sıcaklığında bulunan saf bir maddenin hâl değiştirmesi için alınan veya verilen ısı miktarının bağlı olduğu değişkenler hakkında bilimsel çıkarım yapabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12 Ocak-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Isıl denge durumu hakkında bilimsel gözlem yapabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19 Ocak-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Isı aktarım yollarını sınıflayabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n26 Ocak-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Isı aktarım yollarını sınıflayabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n2 Şubat-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Isı aktarım yollarını sınıflayabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n9 Şubat-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Isı aktarım yollarını sınıflayabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16 Şubat-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Isı aktarım yollarını sınıflayabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n23 Şubat-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Isı aktarım yollarını sınıflayabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n2 Mart-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "FİZ.9.2.1: SI birim sisteminde birimleri verilen temel ve türetilmiş nicelikleri sınıflandırabilme\nSDB1.1: Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2.\nFİZ.9.2.4: Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma",
+      "KAZANIM": "SI birim sisteminde birimleri verilen temel ve türetilmiş nicelikleri sınıflandırabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n9 Mart-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16 Mart-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "",
+      "KAZANIM": "Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralel kenar yöntemi ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23 Mart-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-3 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "",
+      "KAZANIM": "Hareket türlerini sınıflandırabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n6 Nisan-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "",
+      "KAZANIM": "Hareket türlerini sınıflandırabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13 Nisan-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "",
+      "KAZANIM": "Hareket türlerini sınıflandırabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20 Nisan-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "",
+      "KAZANIM": "Hareket türlerini sınıflandırabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "",
+      "KAZANIM": "Hareket türlerini sınıflandırabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n4 Mayıs-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "AKIŞKANLAR",
+      "KONU": "FİZ.9.3.1: Basınca yönelik çıkarımlarda bulunabilme\nSDB1.1: Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2.\nFİZ.9.3.2: Durgun sıvılarda basınca yönelik çıkarımlarda bulunabilme",
+      "KAZANIM": "Basınca yönelik çıkarımlarda bulunabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11 Mayıs-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "AKIŞKANLAR",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18 Mayıs-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "AKIŞKANLAR",
+      "KONU": "",
+      "KAZANIM": "Durgun sıvılarda basınca yönelik çıkarımlarda bulunabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n25 Mayıs-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "AKIŞKANLAR",
+      "KONU": "",
+      "KAZANIM": "Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n1 Haziran-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "AKIŞKANLAR",
+      "KONU": "",
+      "KAZANIM": "Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n8 Haziran-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "AKIŞKANLAR",
+      "KONU": "",
+      "KAZANIM": "Akışkanın geçtiği borunun kesit alanı ile akışkanın sürati ve boru çeperlerine yaptığı basınç arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15 Haziran-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "FİZ.9.4.1: İç enerjinin ısı ve sıcaklık ile arasındaki ilişki hakkında tümevarımsal akıl yürütebilme\nSDB1.1: Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3. Kendine Uyarlama \nFİZ.9.4.6: Günlük hayattaki deneyimlerinden yola çıkarak katı maddelerdeki ısı iletim hızını etkileyen etmenler",
+      "KAZANIM": "İç enerjinin ısı ve sıcaklık ile arasındaki ilişki hakkında tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22 Haziran-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık), SDB1.2. Kendini Düzenleme (Öz Düzenleme), SDB1.3. Kendine Uyarlama (Öz Yansıtma), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.3. Sorumlu Karar Verme"
+    }
+  ]
+}

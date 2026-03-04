@@ -1,0 +1,343 @@
+{
+  "sinif": "5",
+  "ders": "MÜZİK",
+  "kaynak": "TYMM 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n8 Eylül-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "SDB2.1: İletişim Becerisi SDB2.2. İş Birliği Becerisi\nMÜZ.1.1.1: İstiklâl Marşı’nın başlıca ögelerini çözümleyebilme\nMÜZ.1.1.2: Doğadan/çevreden/nesnelerden duyulan seslerin özelliklerini karşılaştırabilme",
+      "KAZANIM": "Doğadan/çevreden/nesnelerden duyulan seslerin özelliklerini karşılaştırabilme\nMüziksel dinleyebilme\nİletişim Becerisi SDB2.2. İş Birliği Becerisi\nİstiklâl Marşı’nın başlıca ögelerini çözümleyebilme\nFarklı türdeki eserleri söyleyebilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15 Eylül-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "İletişim Becerisi SDB2.2. İş Birliği Becerisi"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22 Eylül-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Doğadan/çevreden/nesnelerden duyulan seslerin özelliklerini karşılaştırabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Müziksel dinleyebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n6 Ekim-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Farklı türdeki eserleri söyleyebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13 Ekim-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20 Ekim-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Ortak repertuvardaki eserleri söyleyebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n3 Kasım-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "MÜZ. 5.1.6. Müzik yazısını çözümleyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10 Kasım-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "İstiklâl Marşı’nı ezgisine dikkat ederek söyleyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17 Kasım-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Farklı türdeki eserleri söyleyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24 Kasım-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Ortak repertuvardaki eserleri söyleyebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n1 Aralık-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n8 Aralık-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15 Aralık-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Güzel sanatlarla ilgili kavramları sınıflandırabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22 Aralık-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Güzel sanatlarla ilgili kavramları sınıflandırabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Güzel sanatlarla ilgili kavramları sınıflandırabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n5 Ocak-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Güzel sanatlarla ilgili kavramları sınıflandırabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12 Ocak-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Güzel sanatlarla ilgili kavramları sınıflandırabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19 Ocak-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Güzel sanatlarla ilgili kavramları sınıflandırabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n26 Ocak-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK DİLİ",
+      "KONU": "",
+      "KAZANIM": "Güzel sanatlarla ilgili kavramları sınıflandırabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n2 Şubat-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "MÜZ.1.2.2: Ritim veren vurmalı çalgıların özelliklerini karşılaştırabilme\nSDB1.1: Kendini Tanıma (Öz Farkındalık Becerisi) SDB2.1. İletişim Becerisi, SDB2.2. İş Birliği Becerisi SDB2.3. Sosyal Farkındalık Becerisi\nMÜZ.1.2.1: Müzik dinleme/söyleme kurallarını çözümleyebilme",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık Becerisi) SDB2.1. İletişim Becerisi, SDB2.2. İş Birliği Becerisi SDB2.3. Sosyal Farkındalık Becerisi\nRitim veren vurmalı çalgıların özelliklerini karşılaştırabilme\nFarklı türdeki eserleri söyleyebilme\nMüzik dinleme/söyleme kurallarını çözümleyebilme\nBelirli gün ve haftalarla ilgili eserleri söyleyebilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n9 Şubat-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık Becerisi) SDB2.1. İletişim Becerisi, SDB2.2. İş Birliği Becerisi SDB2.3. Sosyal Farkındalık Becerisi"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16 Şubat-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Ritim veren vurmalı çalgıların özelliklerini karşılaştırabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n23 Şubat-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Farklı türdeki eserleri söyleyebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n2 Mart-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n9 Mart-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Ortak repertuvardaki eserleri söyleyebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16 Mart-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23 Mart-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Atatürk’ün güzel sanatlara verdiği önemi özetleyebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-3 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Farklı türdeki eserleri söyleyebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n6 Nisan-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Nefesli çalgıların özelliklerini karşılaştırabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13 Nisan-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Belirli gün ve haftalarla ilgili eserleri söyleyebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20 Nisan-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Klavyeli çalgıların özelliklerini karşılaştırabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Popüler müzik türlerini karşılaştırabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n4 Mayıs-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Ortak repertuvardaki eserleri söyleyebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11 Mayıs-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18 Mayıs-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n25 Mayıs-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n1 Haziran-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n8 Haziran-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15 Haziran-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22 Haziran-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "",
+      "KAZANIM": "Müzik eserlerine bedensel hareketlerle eşlik edebilme"
+    }
+  ]
+}

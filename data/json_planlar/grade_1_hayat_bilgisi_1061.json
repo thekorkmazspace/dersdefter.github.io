@@ -1,0 +1,95 @@
+{
+  "sinif": "1",
+  "ders": "HAYAT BİLGİSİ",
+  "kaynak": "TYMM xlsx 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL-EKİM",
+      "HAFTA": "1. Hafta:\n 8-12 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Öğretmen ve Arkadaşlar\nOkul Ortamı\nSınıf ve Okul Kuralları\nFiziksel Özellikler ve Duygular",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "EKİM-KASIM",
+      "HAFTA": "5. Hafta:\n6-10 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Öğretmen ve Arkadaşlar\nOkul Ortamı\nSınıf ve Okul Kuralları\nFiziksel Özellikler ve Duygular",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n 3-7 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Sağlıklı Büyüme ve Gelişme\nKişisel Alan\nTemel Trafik Kuralları\nAcil Durumlar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "12. Hafta:\n1-5 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Sağlıklı Büyüme ve Gelişme\nKişisel Alan\nTemel Trafik Kuralları\nAcil Durumlar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n 23-26 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Ailenin Önemi\nAilede Nezaket ve Görgü Kuralları\nAiledeki Görev ve Sorumluluklar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ARALIK-OCAK",
+      "HAFTA": "16. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "3+(1)*",
+      "ÜNİTE": "",
+      "KONU": "Ailenin Önemi\nAilede Nezaket ve Görgü Kuralları\nAiledeki Görev ve Sorumluluklar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "19. Hafta:\n 2-6 Şubat",
+      "SAAT": "2+2",
+      "ÜNİTE": "",
+      "KONU": "Yaşadığımız Yer ve Ülkemizin Genel Özellikleri Türk Bayrağı ve İstiklâl Marşı\nMustafa Kemal Atatürk’ün Hayatı\nMillî Gün ve Bayramlar\nDinî Gün ve Bayramlar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "23. Hafta:\n 2-6 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Yaşadığımız Yer ve Ülkemizin Genel Özellikleri Türk Bayrağı ve İstiklâl Marşı\nMustafa Kemal Atatürk’ün Hayatı\nMillî Gün ve Bayramlar\nDinî Gün ve Bayramlar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "NİSAN-MAYIS",
+      "HAFTA": "27. Hafta:\n 6-10 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Doğayı Gözlemleme\nGök Cisimleri (Güneş, Dünya, Ay)\nAfetler\nGeri Dönüşüm",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "31. Hafta:\n4-8 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Doğayı Gözlemleme\nGök Cisimleri (Güneş, Dünya, Ay)\nAfetler\nGeri Dönüşüm",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "35. Hafta:\n1-5 Haziran",
+      "SAAT": "OKUL TEMELLİ PLANLAMA*",
+      "ÜNİTE": "",
+      "KONU": "",
+      "KAZANIM": ""
+    }
+  ]
+}

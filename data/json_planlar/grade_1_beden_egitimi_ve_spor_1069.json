@@ -1,0 +1,343 @@
+{
+  "sinif": "1",
+  "ders": "BEDEN EĞİTİMİ VE SPOR",
+  "kaynak": "TYMMİLKORTA output_data",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n8 Eylül-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "BEO.1.1.1: Oyunlarda hareket kavramlarını uygulayabilme\nSDB1.1: Kendini Tanıma (Öz Farkındalık) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. Sorumlu Karar Verme\nBEO.1.1.2: Oyunlar sırasında güvenli ortam oluşturabilme",
+      "KAZANIM": "Oyunlarda hareket kavramlarını uygulayabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15 Eylül-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22 Eylül-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlar sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini açıklayabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n6 Ekim-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13 Ekim-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20 Ekim-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n3 Kasım-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10 Kasım-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17 Kasım-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24 Kasım-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n1 Aralık-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n8 Aralık-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15 Aralık-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "BEO.1.2.1: Oyunlarda temel hareket becerilerini sergileyebilme\nBEO.1.2.2: Oyun kurallarını uygulayabilme\nBEO.1.2.3: Oyunlarda taktik ve stratejiyi kullanabilme",
+      "KAZANIM": "Oyunlarda temel hareket becerilerini sergileyebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22 Aralık-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun kurallarını uygulayabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda taktik ve stratejiyi kullanabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n5 Ocak-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda adil oyun anlayışına uygun davranabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12 Ocak-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda adil oyun anlayışına uygun davranabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19 Ocak-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda adil oyun anlayışına uygun davranabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n26 Ocak-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda adil oyun anlayışına uygun davranabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n2 Şubat-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda adil oyun anlayışına uygun davranabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n9 Şubat-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda adil oyun anlayışına uygun davranabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16 Şubat-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda adil oyun anlayışına uygun davranabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n23 Şubat-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNU KURALINA GÖRE OYNUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda adil oyun anlayışına uygun davranabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n2 Mart-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "SDB1.2: Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendini Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.2. İş ",
+      "KAZANIM": "Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendini Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.2. Esneklik"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n9 Mart-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendini Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.2. Esneklik"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16 Mart-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendini Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.2. Esneklik"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23 Mart-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "BEO.1.3.1: Ritmik hareket edebilme BEO.1.3.2. Eşle veya grupla hareket edebilme\nBEO.1.3.2: Eşle veya grupla hareket edebilme BEO.1.3.3. Takım veya grup liderliği sergileyebilme",
+      "KAZANIM": "Ritmik hareket edebilme BEO.1.3.2. Eşle veya grupla hareket edebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-3 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Eşle veya grupla hareket edebilme BEO.1.3.3. Takım veya grup liderliği sergileyebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n6 Nisan-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Eşle veya grupla hareket edebilme BEO.1.3.3. Takım veya grup liderliği sergileyebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13 Nisan-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Eşle veya grupla hareket edebilme BEO.1.3.3. Takım veya grup liderliği sergileyebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20 Nisan-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Eşle veya grupla hareket edebilme BEO.1.3.3. Takım veya grup liderliği sergileyebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Eşle veya grupla hareket edebilme BEO.1.3.3. Takım veya grup liderliği sergileyebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n4 Mayıs-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BÜYÜYORUM",
+      "KONU": "BEO.1.3.3: Takım veya grup liderliği sergileyebilme BEO.1.4.1. Fiziksel aktivite ve sağlık ilişkisini fark edeb",
+      "KAZANIM": "Takım veya grup liderliği sergileyebilme BEO.1.4.1. Fiziksel aktivite ve sağlık ilişkisini fark edebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11 Mayıs-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BÜYÜYORUM",
+      "KONU": "",
+      "KAZANIM": "Takım veya grup liderliği sergileyebilme BEO.1.4.1. Fiziksel aktivite ve sağlık ilişkisini fark edebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18 Mayıs-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BÜYÜYORUM",
+      "KONU": "",
+      "KAZANIM": "Takım veya grup liderliği sergileyebilme BEO.1.4.1. Fiziksel aktivite ve sağlık ilişkisini fark edebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n25 Mayıs-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BÜYÜYORUM",
+      "KONU": "BEO.1.4.1: Fiziksel aktivite ve sağlık ilişkisini fark edebilme\nBEO.1.4.2: Okul içi fiziksel aktiviteye katılabilme",
+      "KAZANIM": "Fiziksel aktivite ve sağlık ilişkisini fark edebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n1 Haziran-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BÜYÜYORUM",
+      "KONU": "",
+      "KAZANIM": "Okul içi fiziksel aktiviteye katılabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n8 Haziran-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BÜYÜYORUM",
+      "KONU": "",
+      "KAZANIM": "Okul içi fiziksel aktiviteye katılabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15 Haziran-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BÜYÜYORUM",
+      "KONU": "",
+      "KAZANIM": "Okul içi fiziksel aktiviteye katılabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22 Haziran-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "FİZİKSEL AKTİVİTEYE KATILIYORUM VE SAĞLIKLI BÜYÜYORUM",
+      "KONU": "",
+      "KAZANIM": "Okul içi fiziksel aktiviteye katılabilme"
+    }
+  ]
+}

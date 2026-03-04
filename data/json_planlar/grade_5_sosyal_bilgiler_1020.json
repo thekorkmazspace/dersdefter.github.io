@@ -1,0 +1,343 @@
+{
+  "sinif": "5",
+  "ders": "SOSYAL BİLGİLER",
+  "kaynak": "TYMM 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n8 Eylül-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "SB.5.1.2: Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yorumlayabilme\nSDB2.1: İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.2. Esneklik, SDB3.3. Sorumlu Karar Verme\nSB.5.1.1: Dâhil olduğu gruplar ve bu gruplardaki rolleri arasındaki ilişkileri çözümleyebilme",
+      "KAZANIM": "İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.2. Esneklik, SDB3.3. Sorumlu Karar Verme\nKültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yorumlayabilme\nDâhil olduğu gruplar ve bu gruplardaki rolleri arasındaki ilişkileri çözümleyebilme\nBİRLİKTE YAŞAMAK"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15 Eylül-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Dâhil olduğu gruplar ve bu gruplardaki rolleri arasındaki ilişkileri çözümleyebilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22 Eylül-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık, SDB3.2. Esneklik, SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yorumlayabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n6 Ekim-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yorumlayabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13 Ekim-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine katkı sağlayabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20 Ekim-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "BİRLİKTE YAŞAMAK EVİMİZ DÜNYA"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "EVİMİZ DÜNYA"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n3 Kasım-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Yaşadığı ilin göreceli konum özelliklerini belirleyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10 Kasım-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Yaşadığı ilde doğal ve beşerî çevredeki değişimi neden ve sonuçlarıyla yorumlayabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17 Kasım-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinlikleri düzenleyebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24 Kasım-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Ülkemize komşu devletler hakkında bilgi toplayabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n1 Aralık-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "ORTAK MİRASIMIZ"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n8 Aralık-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Yaşadığı ildeki ortak miras ögelerine ilişkin oluşturduğu ürünü paylaşabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15 Aralık-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarına yönelik bakış açısı geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22 Aralık-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını karşılaştırabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "ORTAK MİRASIMIZ YAŞAYAN DEMOKRASİMİZ"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n5 Ocak-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "YAŞAYAN DEMOKRASİMİZ"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12 Ocak-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Demokrasi ve cumhuriyet kavramları arasındaki ilişkiyi çözümleyebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19 Ocak-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Toplum düzenine etkisi bakımından etkin vatandaş olmanın önemine yönelik çıkarımda bulunabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n26 Ocak-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kendini Düzenleme (Öz Düzenleme Becerisi), SDB2.1. İletişim, SDB2.2. İş Birliği, SDB2.3. Sosyal Farkındalık"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n2 Şubat-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Temel insan hak ve sorumluluklarının önemini sorgulayabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n9 Şubat-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16 Şubat-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "YAŞAYAN DEMOKRASİMİZ HAYATIMIZDAKİ EKONOMİ"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n23 Şubat-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "HAYATIMIZDAKİ EKONOMİ"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n2 Mart-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yorumlayabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n9 Mart-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "İhtiyaç ve isteklerini karşılamak için gerekli bütçeyi planlayabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16 Mart-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23 Mart-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "TEKNOLOJİ VE SOSYAL BİLİMLER"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-3 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "gelişmelerin toplum hayatına etkilerini tartışabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n6 Nisan-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13 Nisan-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20 Nisan-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n4 Mayıs-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11 Mayıs-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18 Mayıs-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n25 Mayıs-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n1 Haziran-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n8 Haziran-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15 Haziran-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22 Haziran-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+    }
+  ]
+}

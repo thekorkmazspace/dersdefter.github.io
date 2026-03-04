@@ -1,0 +1,303 @@
+{
+  "sinif": "12",
+  "ders": "MÜZİK",
+  "kaynak": "TYMMİLKORTA 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n 8-12 Eylül",
+      "SAAT": 2,
+      "ÜNİTE": "SES VE MÜZİK",
+      "KONU": "İstiklâl Marşı",
+      "KAZANIM": "12.A.1. Istiklâl Marşı’nı yönetir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n 15-19 Eylül",
+      "SAAT": 2,
+      "ÜNİTE": "SES VE MÜZİK",
+      "KONU": "İstiklâl Marşı",
+      "KAZANIM": "12.A.1. Istiklâl Marşı’nı yönetir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n 22-26 Eylül",
+      "SAAT": 2,
+      "ÜNİTE": "SES VE MÜZİK",
+      "KONU": "MARŞLARIMIZ",
+      "KAZANIM": "12.A.2. Marşlarımızı anlamlarına uygun seslendirir."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n 29 Eylül-3 Ekim",
+      "SAAT": 2,
+      "ÜNİTE": "SES VE MÜZİK",
+      "KONU": "MARŞLARIMIZ",
+      "KAZANIM": "12.A.2. Marşlarımızı anlamlarına uygun seslendirir."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n 6-110 Ekim",
+      "SAAT": 2,
+      "ÜNİTE": "TEMEL MÜZİK BİLGİLERİ",
+      "KONU": "TEMEL MÜZİK BİLGİLERİ",
+      "KAZANIM": "12.B.2. Yatay ve dikey sekizli aralığı tanır."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n 13-17 Ekim",
+      "SAAT": 2,
+      "ÜNİTE": "TEMEL MÜZİK BİLGİLERİ",
+      "KONU": "AKSAK USULLER/ÖLÇÜLER",
+      "KAZANIM": "12.B.3. Aksak usulleri/ölçüleri tanır."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n 20-24 Ekim",
+      "SAAT": 2,
+      "ÜNİTE": "TEMEL MÜZİK BİLGİLERİ",
+      "KONU": "AKSAK USULLER/ÖLÇÜLER",
+      "KAZANIM": "12.B.3. Aksak usulleri/ölçüleri tanır."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n 27 Ekim-31 Ekim",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİNİN MAKAMSAL YAPISI",
+      "KAZANIM": "12.B.1. Türk müziğinin makamsal yapısını tanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n 3-7 Kasım",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİNİN MAKAMSAL YAPISI",
+      "KAZANIM": "12.B.1. Türk müziğinin makamsal yapısını tanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n17-21 Kasım",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİNİN MAKAMSAL YAPISI",
+      "KAZANIM": "12.B.1. Türk müziğinin makamsal yapısını tanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n24-28 Kasım",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİNE AİT MAKAMSAL ESERLER",
+      "KAZANIM": "12.A.5.  Türk müziğine ait makamsal eserleri seslendirir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "12. Hafta:\n 1-5 Aralık",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİNE AİT MAKAMSAL ESERLER",
+      "KAZANIM": "12.A.5.  Türk müziğine ait makamsal eserleri seslendirir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n 8-12 Aralık",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİNE AİT MAKAMSAL ESERLER",
+      "KAZANIM": "12.A.5.  Türk müziğine ait makamsal eserleri seslendirir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n 15-19 Aralık",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİNE AİT MAKAMSAL ESERLER",
+      "KAZANIM": "12.A.5.  Türk müziğine ait makamsal eserleri seslendirir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n 22-26 Aralık",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİ ESERLERİ",
+      "KAZANIM": "12.D.1. Türk müziği eserlerini dinleyerek dağarcık oluşturur."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "16. Hafta:\n 29 Aralık-2 Ocak",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "TÜRK MÜZİĞİ ESERLERİ",
+      "KAZANIM": "12.D.1. Türk müziği eserlerini dinleyerek dağarcık oluşturur."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n 5-9 Ocak",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "YİRMİNCİ YÜZYILDAN GÜNÜMÜZE TÜRK MÜZİĞİ",
+      "KAZANIM": "12.D.5. 20. yüzyıldan günümüze Türk müziğinin genel özelliklerini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n 13-16 Ocak",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "YİRMİNCİ YÜZYILDAN GÜNÜMÜZE TÜRK MÜZİĞİ",
+      "KAZANIM": "12.D.5. 20. yüzyıldan günümüze Türk müziğinin genel özelliklerini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "19. Hafta:\n 2-6 Şubat",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "CUMHURİYET DÖNEMİ BESTECİLERİ",
+      "KAZANIM": "12.D.3. Cumhuriyet Dönemi bestecilerinin eserleriyle Türk müziğine katkılarını yorumlar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "20. Hafta:\n 19-13 Şubat",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "ÇOK SESLİ TÜRK MÜZİĞİ VE KLASİK BATI MÜZİĞİ",
+      "KAZANIM": "12.D.2. Çok sesli Türk müziği ve Klasik Batı müziğinden seçkin eserler dinler."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n 16-20 Şubat",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "ÇOK SESLİ TÜRK MÜZİĞİ VE KLASİK BATI MÜZİĞİ",
+      "KAZANIM": "12.D.2. Çok sesli Türk müziği ve Klasik Batı müziğinden seçkin eserler dinler."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n 23-27 Şubat",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "ÇOK SESLİ TÜRK MÜZİĞİ VE KLASİK BATI MÜZİĞİ",
+      "KAZANIM": "12.D.2. Çok sesli Türk müziği ve Klasik Batı müziğinden seçkin eserler dinler."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n 2-6 Mart",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE MAKAM VE ÇOK SESLİ TÜRK MÜZİĞİ",
+      "KONU": "ÇOK SESLİ TÜRK MÜZİĞİ VE KLASİK BATI MÜZİĞİ",
+      "KAZANIM": "12.D.2. Çok sesli Türk müziği ve Klasik Batı müziğinden seçkin eserler dinler."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "24. Hafta:\n 9-13 Mart",
+      "SAAT": 2,
+      "ÜNİTE": "TÜRK HALK MÜZİĞİ",
+      "KONU": "TÜRK HALK MÜZİĞİ FORM VE TÜRLERİ",
+      "KAZANIM": "12.D.9. Türk halk müziği formlarını ayırt eder."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n 23-27 Mart",
+      "SAAT": 2,
+      "ÜNİTE": "TÜRK HALK MÜZİĞİ",
+      "KONU": "TÜRK HALK MÜZİĞİ FORM VE TÜRLERİ",
+      "KAZANIM": "12.D.10. Türk halk müziği türlerini ayırt eder."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n 30 Mart - 3 Nisan",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "TÜRK MÜZİĞİ BESTECİ VE YORUMCULARI",
+      "KAZANIM": "12.D.6. Türk müziği besteci ve yorumcularını tanır."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "27. Hafta:\n 6-10 Nisan",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "TÜRK MÜZİĞİ BESTECİ VE YORUMCULARI",
+      "KAZANIM": "12.D.6. Türk müziği besteci ve yorumcularını tanır."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "28. Hafta:\n 14-17 Nisan",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "ULUSAL HALK MÜZİĞİ ÇALGILARI",
+      "KAZANIM": "12.D.8. Dünyanın değişik bölgelerindeki halk müziği çalgılarını Türk müziği çalgılarıyla ilişkilendirir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "29. Hafta:\n 20-24 Nisan",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "ULUSAL HALK MÜZİĞİ ÇALGILARI",
+      "KAZANIM": "12.D.8.  Dünyanın değişik bölgelerindeki halk müziği çalgılarını Türk müziği çalgılarıyla ilişkilendirir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n 27 Nisan-1 Mayıs",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "ORKESTRA VE KORO ŞEFLERİ",
+      "KAZANIM": "12.D.7. Önde gelen orkestra-koro şefleri ve çalışmaları ile ilgili örnekler sergiler."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "31. Hafta:\n 4-8 Mayıs",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "ÜLKEMİZDEKİ BATI MÜZİĞİ YORUMCULARI",
+      "KAZANIM": "12.D.4. Ülkemizdeki Batı müziği yorumcularına örnekler verir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "32. Hafta:\n 11-15 Mayıs",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "KONU": "MÜZİK TÜRLERİNDEN ÖRNEKLER",
+      "KAZANIM": "12.A.3. Dinlediği müzikleri türlerine göre ayırt eder."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "33. Hafta:\n 18-22 Mayıs",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE YARATICILIK",
+      "KONU": "SES VE RİTİM OLUŞTURMA ÇALIŞMLARI",
+      "KAZANIM": "12.C.1. Kendi ritim kalıbını oluşturur."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n 25-29 Mayıs",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE YARATICILIK",
+      "KONU": "EZGİ OLUŞTURMA ÇALIŞMALARI",
+      "KAZANIM": "12.C.2. Kendi ezgisini oluşturur."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "35. Hafta:\n 1-5 Haziran",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE YARATICILIK",
+      "KONU": "EZGİ OLUŞTURMA ÇALIŞMALARI",
+      "KAZANIM": "12.C.2. Kendi ezgisini oluşturur."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "36. Hafta:\n 8-12 Haziran",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE YARATICILIK",
+      "KONU": "MÜZİK VE TEKNOLOJİ",
+      "KAZANIM": "12.C.3. Müzikle ilgili araştırma ve çalışmalarında bilişim teknolojilerinden yararlanır."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "37. Hafta:\n 15-19 Haziran",
+      "SAAT": 2,
+      "ÜNİTE": "MÜZİKTE YARATICILIK",
+      "KONU": "SANAT ETKİNLİKLERİ",
+      "KAZANIM": "12.A.4. Müzik çalışmalarını sergiler."
+    }
+  ]
+}

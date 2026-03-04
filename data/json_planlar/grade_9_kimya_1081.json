@@ -1,0 +1,383 @@
+{
+  "sinif": "9",
+  "ders": "KİMYA",
+  "kaynak": "TYMM xlsx ANADOLU LİSELERİ KİMYA DERSİ TASLAK YILLIK PLANI.xlsx",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n 8-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Kimya Hayattır: \n\nGünlük Hayatta Kimya",
+      "KAZANIM": "9.1.1. Kimya biliminin günlük hayata katkısına ilişkin çıkarım yapabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n 15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Kimyasal Maddelerin Kullanımı ve Güvenlik",
+      "KAZANIM": "9.1.2. Farklı ortamlarda kimyasal maddelerin kullanımından kaynaklanan problemleri\nçözebilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n 22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Kimyasal Maddelerin Kullanımı ve Güvenlik, Kimyanın\nAlt Disiplinleri, Kimya Alanında Kariyer Olanakları",
+      "KAZANIM": "9.1.2. Farklı ortamlarda kimyasal maddelerin kullanımından kaynaklanan problemleri\nçözebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n 29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Atomdan Periyodik Tabloya: \nAtom Teorileri (Bohr Atom Teorisi, Modern Atom Teorisi) ve Atomun Yapısı",
+      "KAZANIM": "9.1.3. Atom teorilerindeki varsayımları kullanarak bilimsel bilginin değişebilirliliğine ilişkin çıkarım yapabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n 6-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Atom Orbitalleri ve Elektron Dizilimi",
+      "KAZANIM": "9.1.4. Atom orbitallerinin bağıl enerjilerine ilişkin veriye dayalı tahminde bulunabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n 13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Atom Orbitalleri ve Elektron Dizilimi",
+      "KAZANIM": "9.1.4. Atom orbitallerinin bağıl enerjilerine ilişkin veriye dayalı tahminde bulunabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n 20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Atom Orbitalleri ve Elektron Dizilimi",
+      "KAZANIM": "9.1.5. Elektronların atom orbitallerine yerleşimine ilişkin tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n 27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Periyodik Tabloda Yer Bulma",
+      "KAZANIM": "9.1.6. Elementlerin periyodik tablodaki yerlerine ilişkin tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n 3-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Periyodik Tabloda Yer Bulma",
+      "KAZANIM": "9.1.6. Elementlerin periyodik tablodaki yerlerine ilişkin tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "1.  DÖNEM ARA TATİLİ: 10 - 14 KASIM 2025",
+      "HAFTA": "9. Hafta:\n 3-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Periyodik Özellikler (Atom Yarıçapı, İyonlaşma Enerjisi ve Elektronegatiflik)",
+      "KAZANIM": "9.1.7. İyon oluşumuna ilişkin tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİLEŞİM",
+      "KONU": "Periyodik Özellikler (Atom Yarıçapı, İyonlaşma Enerjisi ve Elektronegatiflik)",
+      "KAZANIM": "9.1.8. Elementlerin periyodik özelliklerinin periyodik tablodaki değişimini çözümleyebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "12. Hafta:\n 1-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Etkileşimler:\nMetalik Bağ",
+      "KAZANIM": "9.2.1. Metalik bağın oluşumuna yönelik tümevarımsal akıl yürütebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n 8-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "İyonik Bağ",
+      "KAZANIM": "9.2.2. İyonik bağın oluşumunu bilimsel gözleme dayalı tahmin edebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n 15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "İyonik Bağ",
+      "KAZANIM": "9.2.2. İyonik bağın oluşumunu bilimsel gözleme dayalı tahmin edebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n 22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Kovalent Bağ",
+      "KAZANIM": "9.2.3. Kovalent bağ oluşumunu bilimsel gözleme dayalı tahmin edebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "16. Hafta:\n 29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Kovalent Bağ",
+      "KAZANIM": "9.2.3. Kovalent bağ oluşumunu bilimsel gözleme dayalı tahmin edebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n 5-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Lewis Nokta Yapısı",
+      "KAZANIM": "9.2.4. Moleküllerin Lewis nokta yapısına ilişkin çıkarımda bulunabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n 12-16 Ocak",
+      "SAAT": "OKUL TEMELLİ PLANLAMA*",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "YARIYIL TATİLİ: 19 - 30 OCAK 2026",
+      "HAFTA": "18. Hafta:\n 12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "19. Hafta:\n 2-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Molekül Polarlığı ve Apolarlığı",
+      "KAZANIM": "9.2.5. Molekülleri polar ya da apolar olarak sınıflandırabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "20. Hafta:\n 9-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Bileşiklerin Adlandırılması",
+      "KAZANIM": "9.2.6. Bileşikleri adlandırma kurallarına ilişkin tümdengelimsel akıl yürütebilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n 16-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Bileşiklerin Adlandırılması",
+      "KAZANIM": "9.2.6. Bileşikleri adlandırma kurallarına ilişkin tümdengelimsel akıl yürütebilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n 23-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Etkileşimden Maddeye:\n\nMoleküller Arası Etkileşimler",
+      "KAZANIM": "9.2.7. Moleküller arası etkileşimleri sınıflandırabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "23. Hafta:\n 2-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Moleküller Arası Etkileşimler",
+      "KAZANIM": "9.2.7. Moleküller arası etkileşimleri sınıflandırabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "24. Hafta:\n 9-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Katılar ve Özellikleri (Amorf ve Kristal Katılar)",
+      "KAZANIM": "9.2.8. Etkileşimlerin katıların özelliklerine etkilerine ilişkin bilimsel çıkarım yapabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "24. Hafta:\n 9-13 Mart",
+      "SAAT": "2. DÖNEM ARA TATİLİ: 16 - 20  Mart 2026",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n 23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve Kohezyon Kuvvetleri, Yüzey Gerilimi)",
+      "KAZANIM": "9.2.9. Sıvıların buhar basıncını etkileyen faktörlere ilişkin hipotez oluşturabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n 30 Mart-3  Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve Kohezyon Kuvvetleri, Yüzey Gerilimi)",
+      "KAZANIM": "9.2.10. Sıvıların kaynama sıcaklığını etkileyen faktörleri belirlemeye yönelik kanıt kullanabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "27. Hafta:\n 6-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve Kohezyon Kuvvetleri, Yüzey Gerilimi)",
+      "KAZANIM": "9.2.10. Sıvıların kaynama sıcaklığını etkileyen faktörleri belirlemeye yönelik kanıt kullanabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "28. Hafta:\n 13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve Kohezyon Kuvvetleri, Yüzey Gerilimi)",
+      "KAZANIM": "9.2.11. Sıvıların viskozitesini etkileyen faktörlere ilişkin bilimsel gözlem yapabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "29. Hafta:\n 20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve Kohezyon Kuvvetleri, Yüzey Gerilimi)",
+      "KAZANIM": "9.2.12. Adezyon ve kohezyon kuvvetlerinin sıvıların özelliklerine etkilerine ilişkin çıkarım\nyapabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n 27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve Kohezyon Kuvvetleri, Yüzey Gerilimi)",
+      "KAZANIM": "9.2.13. Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin bilimsel sorgulama yapabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "31. Hafta:\n 4-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "32. Hafta:\n 11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "KONU": "Sıvılar ve Özellikleri (Kaynama Sıcaklığı ve Buhar Basıncı, Viskozite, Adezyon ve Kohezyon Kuvvetleri, Yüzey Gerilimi)",
+      "KAZANIM": "9.2.13. Sıvıların yüzey gerilimini etkileyen faktörlere ilişkin bilimsel sorgulama yapabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "33. Hafta:\n 18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "Nanoparçacıklar ve Ekolojik Sürdürülebilirlik:\n\n\nMetal Nanoparçacıklar",
+      "KAZANIM": "9.3.1. Evsel atıklardan metal nanoparçacık elde etmek üzere deney yapabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n 25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "Metal Nanoparçacıklar",
+      "KAZANIM": "9.3.1. Evsel atıklardan metal nanoparçacık elde etmek üzere deney yapabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "35. Hafta:\n 1-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "Metal, Alaşım ve\nMetal Nanoparçacıkların Çevresel Etkileri, Yeşil Kimyanın Atık Önleme İlkesi",
+      "KAZANIM": "9.3.2. Metal, alaşım ve metal nanoparçacıkların ekosistemdeki etkilerine ilişkin problem çözebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "36. Hafta:\n 8-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "Metal, Alaşım ve\nMetal Nanoparçacıkların Çevresel Etkileri, Yeşil Kimyanın Atık Önleme İlkesi",
+      "KAZANIM": "9.3.2. Metal, alaşım ve metal nanoparçacıkların ekosistemdeki etkilerine ilişkin problem çözebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "37. Hafta:\n 15-19 Haziran",
+      "SAAT": "OKUL TEMELLİ PLANLAMA*",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n 22-26 Haziran",
+      "SAAT": "SOSYAL ETKİNLİK",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n 22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n 22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n 22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n 22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n 22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n 22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "KONU": "",
+      "KAZANIM": ""
+    }
+  ]
+}

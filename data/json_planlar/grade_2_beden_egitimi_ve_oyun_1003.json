@@ -1,0 +1,343 @@
+{
+  "sinif": "2",
+  "ders": "BEDEN EĞİTİMİ VE OYUN",
+  "kaynak": "TYMM 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n8 Eylül-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKETİMİ GELİŞTİRİYORUM",
+      "KONU": "BEO.2.1.1: Temel hareket becerilerini sergileyebilme\nSDB1.1: Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.2. Esneklik\nBEO.2.1.2: Oyunlarda grupla hareket edebilme",
+      "KAZANIM": "Temel hareket becerilerini sergileyebilme\nOyunlarda grupla hareket edebilme\nKendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.2. Esneklik"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15 Eylül-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKETİMİ GELİŞTİRİYORUM",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.2. Esneklik"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22 Eylül-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKETİMİ GELİŞTİRİYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda grupla hareket edebilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKETİMİ GELİŞTİRİYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda grupla hareket edebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n6 Ekim-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKETİMİ GELİŞTİRİYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda grupla hareket edebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13 Ekim-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKETİMİ GELİŞTİRİYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda grupla hareket edebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20 Ekim-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKETİMİ GELİŞTİRİYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda grupla hareket edebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HAREKETİMİ GELİŞTİRİYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda grupla hareket edebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n3 Kasım-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "BEO.2.2.2: Oyun kurallarını uygulayabilme\nBEO.2.2.1: Oyunlarda hareket kavramlarını uygulayabilme\nSDB2.1: İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik",
+      "KAZANIM": "Oyun kurallarını uygulayabilme\nİletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik\nOyunlarda belirlenen taktik ve stratejiyi geliştirebilme\nOyunlarda hareket kavramlarını uygulayabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10 Kasım-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun kurallarını uygulayabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17 Kasım-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24 Kasım-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n1 Aralık-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n8 Aralık-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15 Aralık-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22 Aralık-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n5 Ocak-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "OYUNUN KURALLARINI UYGULUYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12 Ocak-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "SDB1.2: Kendini Düzenleme (Öz Düzenleme) SDB2.2. İş Birliği\nBEO.2.3.2: Eşle veya grupla ritmik hareket etme becerisini sergileyebilme\nBEO.2.3.1: Belirlenen tempodaki müziğe uygun hareket edebilme",
+      "KAZANIM": "İş Birliği SDB3.1. Uyum\nEşle veya grupla ritmik hareket etme becerisini sergileyebilme\nBelirlenen tempodaki müziğe uygun hareket edebilme\nKendini Düzenleme (Öz Düzenleme) SDB2.2. İş Birliği"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19 Ocak-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Kendini Düzenleme (Öz Düzenleme) SDB2.2. İş Birliği"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n26 Ocak-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n2 Şubat-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "İş Birliği SDB3.1. Uyum"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n9 Şubat-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "İş Birliği SDB3.1. Uyum"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16 Şubat-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "İş Birliği SDB3.1. Uyum"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n23 Şubat-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "İş Birliği SDB3.1. Uyum"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n2 Mart-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "İş Birliği SDB3.1. Uyum"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n9 Mart-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "İş Birliği SDB3.1. Uyum"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16 Mart-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "RİTİMLE HAREKET EDİYORUM",
+      "KONU": "",
+      "KAZANIM": "İş Birliği SDB3.1. Uyum"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23 Mart-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "BEO.2.4.2: Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme\nBEO.2.4.3: Fiziksel aktiviteye katılım hedefleri belirleyebilme\nBEO.2.4.1: Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme",
+      "KAZANIM": "Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme\nOyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme\nFiziksel aktiviteye katılım hedefleri belirleyebilme\nFiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme\nFiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-3 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n6 Nisan-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Fiziksel aktiviteye katılım hedefleri belirleyebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13 Nisan-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Fiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20 Nisan-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n4 Mayıs-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11 Mayıs-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18 Mayıs-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n25 Mayıs-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n1 Haziran-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n8 Haziran-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15 Haziran-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+      "KONU": "",
+      "KAZANIM": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22 Haziran-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİNLİK / DEĞERLENDİRME",
+      "KONU": "Dönem değerlendirmesi ve etkinlikler",
+      "KAZANIM": ""
+    }
+  ]
+}
