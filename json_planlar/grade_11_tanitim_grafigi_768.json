@@ -1,0 +1,338 @@
+{
+  "sinif": "11",
+  "ders": "TANITIM GRAFİĞİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ TAKVİM TASARIMI\n1. Takvim Tasarımı\n1.1. Takvim çeşitleri ve özellikleri",
+      "KAZANIM": "Konu özelliğine göre takvim tasarımı için eskiz çalışması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "5",
+      "KONU": "1.2. Takvim tasarımında dikkat edilecek hususlar",
+      "KAZANIM": "Konu özelliğine göre takvim tasarımı için eskiz çalışması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "5",
+      "KONU": "1.3. Konu ile ilgili araştırmalar yapılarak takvim tasarımı için elle eskiz çalışmaları yapılması",
+      "KAZANIM": "Konu özelliğine göre takvim tasarımı için eskiz çalışması yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "5",
+      "KONU": "2. Kolaj ve Montaj İşlemleri\n2.1. Pixel tabanlı programda kolajmontaj işleminde kullanılan araçlar ve özellikleri",
+      "KAZANIM": "Pixel tabanlı programda kolaj ve montaj çalışmaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "5",
+      "KONU": "2.2 Kolajmontaj işleminde dikkat edilecek hususlar\n2.3. Kolajmontaj işlemi ile yapılan çalışmaların takvim eskizinde kullanılabilecek örnek çalışmalar",
+      "KAZANIM": "Pixel tabanlı programda kolaj ve montaj çalışmaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "5",
+      "KONU": "3. Bilgisayarda Takvim Oluşturma\n3.1. Elle yaptığı eskiz çalışmasını bilgisayara aktarma",
+      "KAZANIM": "Belirlenen takvim eskizini dijital ortama aktararak istenilen sürede baskıya hazırlar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "5",
+      "KONU": "3.2. Gerekli programları kullanarak takvim tasarımı yapma",
+      "KAZANIM": "Belirlenen takvim eskizini dijital ortama aktararak istenilen sürede baskıya hazırlar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ AFİŞ TASARIMI\n1. Afiş Tasarımı\n1.1. Afiş çeşitleri ve özellikleri \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Konu özelliğine göre afiş tasarımı için eskiz çalışması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "5",
+      "KONU": "1.2. Afiş tasarımında dikkat edilecek hususlar",
+      "KAZANIM": "1. Dönem 1. Sınav Konu özelliğine göre afiş tasarımı için eskiz çalışması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "5",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "5",
+      "KONU": "1.3. Konu ile ilgili araştırmalar yapılarak afiş tasarımı için elle eskiz çalışmaları yapılması",
+      "KAZANIM": "Konu özelliğine göre afiş tasarımı için eskiz çalışması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "5",
+      "KONU": "2. Başkalaştırma manipülasyon\n2.1. Fotoğraf başkalaştırma manipülasyon örnekleri",
+      "KAZANIM": "Pixel tabanlı programda fotoğraf başkalaştırma manipülasyon çalışmaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "5",
+      "KONU": "2.2. Pixel tabanlı programda fotoğraf başkalaştırma manipülasyon yöntemleri \n2.3. Fotoğraf başkalaştırma manipülasyon yöntemlerinin afiş çalışmalarında kullanımı",
+      "KAZANIM": "Pixel tabanlı programda fotoğraf başkalaştırma manipülasyon çalışmaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "5",
+      "KONU": "3. Bilgisayarda Afiş Oluşturma\n3.1. Grafik programları vektörel ya da pixel tabanlı kullanılarak afiş oluşturma",
+      "KAZANIM": "Belirlenen afiş eskizini dijital ortama aktararak istenilen sürede baskıya hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "5",
+      "KONU": "3.2. Hazırlanan afişin çıktısını alma işlemi",
+      "KAZANIM": "Belirlenen afiş eskizini dijital ortama aktararak istenilen sürede baskıya hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ ETİKET TASARIMI\n1. Etiket tasarımı eskizi\n1.1. Etiketi tanımlanır ve etiket çeşitleri\n1.2. Etiket tasarımında dikkat edilmesi gereken noktalar",
+      "KAZANIM": "Ürün özelliğine göre etiket tasarımı için eskiz çalışması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "5",
+      "KONU": "1.3. Etiket tasarımını uygun grafik programlarında hazırlamanın aşamaları\n1.4. Ürüne uygun etiket ölçüsünü belirlenerek etiket eskizi çizilmesi \n1.Dönem 2.Sınav",
+      "KAZANIM": "Ürün özelliğine göre etiket tasarımı için eskiz çalışması yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "5",
+      "KONU": "2. Bilgisayarda etiket oluşturma\n2.1. Etiket eskizi sayısal dijital ortama aktarılarak uygun grafik programlarında oluşturma",
+      "KAZANIM": "1. Dönem 2. Sınav Belirlenen etiket eskizini sayısal dijital ortama aktararak istenilen sürede baskıya hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "5",
+      "KONU": "2.1. Etiket eskizi sayısal dijital ortama aktarılarak uygungrafik programlarında oluşturma \n2.2. Etiketi baskıya hazırlama",
+      "KAZANIM": "Belirlenen etiket eskizini sayısal dijital ortama aktararak istenilen sürede baskıya hazırlar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ AMBALAJ MAKETİ HAZIRLAMA\n1. Ambalaj Maketi Ön Hazırlıkları\n1.1.  Ambalajın özellikleri ve çeşitleri\n1.2. Ambalaj tasarımında dikkat edilmesi gereken hususlar",
+      "KAZANIM": "Ambalaj tasarımı maketi için gerekli ön hazırlıkları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "5",
+      "KONU": "1.3. Kutu ambalajının yapısal ögeleri ile kesim ve kırım çizgilerinin kullanılacağı yerler \n1.4. Ambalajda pencere kullanılabilecek durumlar\n1.5. Konunun araştırılarak verilerin bir dosyada toplanması",
+      "KAZANIM": "Ambalaj tasarımı maketi için gerekli ön hazırlıkları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "5",
+      "KONU": "2. Ambalaj Maketi Eskizi\n2.1. Örnek ambalaj çalışmaları",
+      "KAZANIM": "Ambalaj tasarımı için eskiz çalışmaları yaparak ambalajın maketini hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "5",
+      "KONU": "2.2. Ürün için uygun maket tasarımı belirlenmesi\n2.3. Maketin açılımının kesim ve kırım yerlerinin çizilmesi",
+      "KAZANIM": "Ambalaj tasarımı için eskiz çalışmaları yaparak ambalajın maketini hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "5",
+      "KONU": "2.3. Ürün için pencere veya separatör gerekliyse yer ve ölçülerin belirlenmesi \n2.4. Hazırlanan tasarımın kesim çizgisi yerlerinden kesilmesi\n2.5. Yapıştırma kulaklarından birleştirilerek üç boyutlu maket oluşturulması",
+      "KAZANIM": "Ambalaj tasarımı için eskiz çalışmaları yaparak ambalajın maketini hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "5",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ AMBALAJ ÜZERİ DÜZENLEME\n1. Ambalaj Eskizi\n1.1. Ambalaj üzeri düzenlemeyi oluşturan ögeler\n1.2. Örnek ambalaj çalışmaları",
+      "KAZANIM": "Ambalaj üzeri düzenlemeleri için elle eskiz çalışmaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "5",
+      "KONU": "1.3. Tasarımda dikkat edilmesi gereken noktalar \n\n2.Dönem 1.Sınav",
+      "KAZANIM": "Ambalaj üzeri düzenlemeleri için elle eskiz çalışmaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "5",
+      "KONU": "1.4. Konuya yönelik araştırma yapılarak verilerin bir dosyada toplanması",
+      "KAZANIM": "2. Dönem 1. Sınav Ambalaj üzeri düzenlemeleri için elle eskiz çalışmaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "5",
+      "KONU": "1.5. Ambalaj eskizinin elle hazırlanması\n1.6. Ambalajın üzerinde bulunması gereken öğelerin yönlerine dikkat edilerek yerleştirilmesi",
+      "KAZANIM": "Ambalaj üzeri düzenlemeleri için elle eskiz çalışmaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "5",
+      "KONU": "2. Bilgisayarda Ambalaj Tasarımı\n2.1. Bilgisayarda ambalaj üzeri tasarımının aşamaları",
+      "KAZANIM": "Elle yaptığı eskiz çalışmalarından uygun olanı bilgisayara aktarır ve gerekli programları kullanarak ambalaj üzeri düzenlemeleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.2. Ambalajın açılımı çizilerek ambalaj üzeri tasarımın hazırlanması",
+      "KAZANIM": "Elle yaptığı eskiz çalışmalarından uygun olanı bilgisayara aktarır ve gerekli programları kullanarak ambalaj üzeri düzenlemeleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.3. Bıçak kesim ve kırım yerlerinin belirlenmesi\n2.4. Ürün için pencere veya separatör gerekliyse yer ve ölçülerin belirlenmesi",
+      "KAZANIM": "Elle yaptığı eskiz çalışmalarından uygun olanı bilgisayara aktarır ve gerekli programları kullanarak ambalaj üzeri düzenlemeleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.5. Hazırlanan ambalaj tasarımının ürüne uygun malzemeye çıkartılması\n2.6. Ambalajın çizim yerlerinden kesilmesi",
+      "KAZANIM": "Elle yaptığı eskiz çalışmalarından uygun olanı bilgisayara aktarır ve gerekli programları kullanarak ambalaj üzeri düzenlemeleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.7. Ambalajın yapıştırma kulaklarından birleştirilerek maket üç boyutlu olarak oluşturulması",
+      "KAZANIM": "Elle yaptığı eskiz çalışmalarından uygun olanı bilgisayara aktarır ve gerekli programları kullanarak ambalaj üzeri düzenlemeleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ RAPORTLAMA TEKNİKLERİ\n1. Tam Düz Raport Sistemi\n1.1. Raport sistemi ve çeşitleri\n1.2. Düz tam raport sistemi ve uygulama aşamasındaki işlem basamakları",
+      "KAZANIM": "Deseni tam düz raport sistemine göre çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "5",
+      "KONU": "1.3. Desene göre motiflerin çizilmesi",
+      "KAZANIM": "2. Dönem 2. Sınav Deseni tam düz raport sistemine göre çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "5",
+      "KONU": "2. YarımSoter Raport Sistemi\n2.1. Yarım storter raport sistemi ve uygulama aşamasındaki işlem basamakları \n2.Dönem 2.Sınav",
+      "KAZANIM": "Deseni yarım storter raport sistemine göre çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "5",
+      "KONU": "2.2. Desene göre motiflerin aks çizgilerine uygun bütünlüğü bozulmadan eklenip çıkartılarak çizim yapılması",
+      "KAZANIM": "Deseni yarım storter raport sistemine göre çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

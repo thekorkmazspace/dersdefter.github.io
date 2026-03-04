@@ -1,0 +1,340 @@
+{
+  "sinif": "12",
+  "ders": "SİSTEM BAKIM ONARIM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "6",
+      "KONU": "MODÜL 1 SİSTEM KORUYUCU BAKIM 1 GEREKLİ KORUYUCU BAKIM İŞLEMİNİ YAPMA 2 ELEKTROSTATİK YÜKÜ BOŞALTMA 15 Temmuz  Demokrasi ve Milli Birlik Günü",
+      "KAZANIM": "Yönergelere uygun olarak gerekli koruyucu bakım işlemini yapar. Standartlara uygun olarak elektrostatik yükü boşaltır.\nAtatürkün Milli Eğitime verdiği önem\n15 Temmuz  Demokrasi ve Milli Birlik Günü  önemi kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "6",
+      "KONU": "MODÜL 1 SİSTEM KORUYUCU BAKIM 1 GEREKLİ KORUYUCU BAKIM İŞLEMİNİ YAPMA 2 ELEKTROSTATİK YÜKÜ BOŞALTMA 15 Temmuz  Demokrasi ve Milli Birlik Günü",
+      "KAZANIM": "Yönergelere uygun olarak gerekli koruyucu bakım işlemini yapar. Standartlara uygun olarak elektrostatik yükü boşaltır.\nAtatürkün Milli Eğitime verdiği önem\n15 Temmuz  Demokrasi ve Milli Birlik Günü  önemi kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "6",
+      "KONU": "MODÜL 2 GÜÇ KAYNAĞI POWER SUPPLY BAKIMI\n1 GÜÇ KAYNAĞI ÖZELLİKLERİNİN TESPİTİ",
+      "KAZANIM": "Bilgisayarın şebekeden çekeceği güce göre güç kaynağı özelliklerini tespit eder."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "6",
+      "KONU": "2 GÜÇ KAYNAĞI ARIZA TÜRLERİNİN TESPİTİ",
+      "KAZANIM": "Bilgisayar sistem bütünlüğüne dikkat ederek güç kaynağı arıza türlerini tespit eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "6",
+      "KONU": "MODÜL 3 ANAKARTLAR 1 ANAKART ÖZELLİKLERİNİN TESPİTİ",
+      "KAZANIM": "İstenilen niteliklere göre anakart özelliklerini tespit eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "6",
+      "KONU": "2 ANAKART ARIZA TÜRLERİNİN TESPİTİ",
+      "KAZANIM": "Bilgisayar sistem bütünlüğünü dikkate alarak anakart arıza türlerini tespit eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "6",
+      "KONU": "MODÜL 4 İŞLEMCİLER 1 İŞLEMCİ ÇALIŞMA PERFORMANSINI ETKİLEYEN FAKTÖRLERİ TESPİT ETME",
+      "KAZANIM": "İşlemci standartlarına uygun olarak işlemcinin çalışma performansını etkileyen faktörleri tespit eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "6",
+      "KONU": "2 İŞLEMCİ SOĞUTUCU BAKIMI",
+      "KAZANIM": "İşlemcinin çalışma performansına uygun işlemci soğutucu bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "6",
+      "KONU": "MODÜL 5 BELLEK BİRİMLERİ 1 BELLEK BİRİMİNİN ÇEŞİTLERİ 2 BELLEK BİRİMLERİNİN BAKIMLARI\n10 KASIM - ATATÜRKÜN KİŞİLİĞİ VE İNKILAPLARI ATATÜRK HAFTASI",
+      "KAZANIM": "1. Dönem 1. Sınav Sistem bütünlüğüne uygun bellek birim çeşitlerini seçer.\nÇalışma standartlarına uygun bellek birimlerinin bakımını yapar. 10 KASIM - ATATÜRKÜN KİŞİLİĞİ VE İNKILAPLARI ATATÜRK HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "6",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "6",
+      "KONU": "2 OPTİK SÜRÜCÜLERİN BAĞLANTI ARIZALARI\n24 Kasım Öğretmenler Günü ve Önemi",
+      "KAZANIM": "Bağlantı standartlarına uygun olarak optik sürücülerin bağlantı arızalarını giderir. 24 Kasım Öğretmenler Günü ve Önemini kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "6",
+      "KONU": "MODÜL 7 DONANIM KARTLARI 1 EKRAN KARTININ VE EK DONANIM KARTLARININ ÇEŞİTLERİNİ TESPİT ETME",
+      "KAZANIM": "Sistem bütünlüğüne uygun olarak ekran kartının ve ek donanım kartlarının çeşitlerini seçer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "6",
+      "KONU": "2 EKRAN KARTININ BAKIMINI YAPMA",
+      "KAZANIM": "Sistem bütünlüğünü koruyarak ekran kartının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "6",
+      "KONU": "3 EK DONANIM KARTLARININ BAKIMINI YAPMA",
+      "KAZANIM": "Sistemin doğru çalışması için ek donanımses TV ve diğer kartlarının bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "6",
+      "KONU": "MODÜL 8 POST İLK AÇILIŞ 1 KLAVYE FARE BARKOD OKUYUCU VE GÜÇ KABLOSUNUN BAKIMLARI",
+      "KAZANIM": "Sistemin düzgün çalışması için klavye fare barkod okuyucu ve güç kablosunun bakımlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "6",
+      "KONU": "1 BIOS YAPILANDIRMASI",
+      "KAZANIM": "Sisteme uygun BIOS yapılandırmasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "6",
+      "KONU": "2 BIOS YAPILANDIRMASI",
+      "KAZANIM": "Sisteme uygun BIOS yapılandırmasını yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "6",
+      "KONU": "3 İLK AÇILIŞ ESNASINDA OLUŞABİLECEK HATALARI GİDERME",
+      "KAZANIM": "1. Dönem 2. Sınav Sistemin düzgün çalışması için ilk açılış esnasında oluşabilecek hataları giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "6",
+      "KONU": "2 PLAZMA EKRANLARI BAĞLAMA",
+      "KAZANIM": "B. Bilgisayarın görüntü bağlantı noktalarına doğru olarak plazma ekranı bağlar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "6",
+      "KONU": "3 YANSITMA PROJEKSİYON EKRANLARI BAĞLAMA",
+      "KAZANIM": "C. Bilgisayarın görüntü bağlantı noktalarına doğru olarak yansıtma Projeksiyon ekranı bağlar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "6",
+      "KONU": "MODÜL 10 YAZICILAR 1 NOKTA VURUŞLU YAZICININ SİSTEME TANITIMI VE BAKIMI 2 MÜREKKEP PÜSKÜRTMELİ YAZICININ SİSTEME TANITIMI VE BAKIMI",
+      "KAZANIM": "A. Bilgisayar işletim sistemine uygun olarak uygun yazıcıyı sisteme tanıtıp bakımını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "6",
+      "KONU": "LAZER ve TERMAL YAZICILARIN SİSTEME TANITIMI VE BAKIMI",
+      "KAZANIM": "Bilgisayar işletim sistemine uygun olarak lazer ve termal yazıcıları sisteme tanıtıp bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "6",
+      "KONU": "MODÜL 11 DİZÜSTÜ BİLGİSAYARLAR\n1 LAPTOP KLAVYE BAKIMI VE ARIZALARI",
+      "KAZANIM": "Dizüstü bilgisayarların düzgün çalışması için klavye bakımını yapıp arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "6",
+      "KONU": "2 LAPTOP RAM ARIZALARINI GİDERME\n18 Mart Çanakkale Zaferi ve önemi",
+      "KAZANIM": "Dizüstü bilgisayarların RAM arızalarını giderir.\n18 Mart Çanakkale Zaferini ve yaşanan olayları söyleme. Atatürkün zaferdeki rolünü kavrama",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "6",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "6",
+      "KONU": "3 LAPTOP OPTİK SÜRÜCÜ BAKIMINI YAPMA",
+      "KAZANIM": "Dizüstü bilgisayarların optik sürücü bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "6",
+      "KONU": "4 LAPTOP FAN ARIZALARINI TESPİT ETME VE BAKIMINI YAPMA",
+      "KAZANIM": "Dizüstü bilgisayarların fan arızasını tespit ederek bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "6",
+      "KONU": "5 LAPTOP BATARYA ARIZALARINI TESPİT ETME",
+      "KAZANIM": "2. Dönem 1. Sınav Dizüstü bilgisayarların batarya arızalarını tespit eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "6",
+      "KONU": "MODÜL 12 TABLETLER 1 TABLET BİLGİSAYARIN TEMEL BAKIM İŞLEMLERİNİ YAPMA 23 Nisan Ulusal Egemenlik \nVe Çocuk Bayramı Ve Atatürkün Çocuk Sevgisi",
+      "KAZANIM": "Tablet bilgisayarın temel bakım işlemlerini yapar. 23 Nisanın anlamını söyleyebilme ve Atatürkün çocuk sevgisini öğrenme",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "6",
+      "KONU": "2 TABLET BİLGİSAYARLARDA OLUŞAN SORUNLARI GİDERME",
+      "KAZANIM": "Tablet bilgisayarlarda oluşan sorunları giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "6",
+      "KONU": "MODÜL 13 SİSTEM KORUYUCU YAZILIMLARI\n1 BİLGİSAYARIN ÇEVRE BİRİMLERİ İÇİN KORUYUCU BAKIMINI YAPMA 3 KORUYUCU BAKIM İÇİN GÜÇ KAYNAĞI BAĞLANTILARINI YAPMA",
+      "KAZANIM": "Standartlara uygun olarak bilgisayarın çevre birimleri için koruyucu bakımını yapar.\nYönergelere uygun olarak koruyucu bakım için güç kaynağı bağlantılarını ve ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "6",
+      "KONU": "2 KORUYUCU BAKIM İÇİN BİLGİSAYAR YAZILIMLARINI KULLANMA",
+      "KAZANIM": "Uygun olan yazılımlarla bilgisayarın sistem korunması için yazılımlar kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "6",
+      "KONU": "MODÜL 14 YAZILIM SORUNLARINI GİDERME\n1 SORUN GİDERMENİN TEMEL İŞLEMLERİNİ GERÇEKLEŞTİRME",
+      "KAZANIM": "Yazılım hatalarını tespit ederek düzeltme işlemlerini yapar.\nSistem açılışında oluşan sorunları giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "6",
+      "KONU": "2 SİSTEM AÇILIŞ SORUNLARINI GİDERME\n3 VERİ YEDEKLEME VE KURTARMA",
+      "KAZANIM": "Sistem güvenliği standartlarına uygun olarak verileri yedekler ve kurtarma işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "6",
+      "KONU": "MODÜL 15 İŞLETİM SİSTEMİ SORUNLARINI GİDERME\n1 GENEL İŞLETİM SİSTEMİ SORUNLARI",
+      "KAZANIM": "Standartlara uygun olarak genel işletim sistemi sorunlarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "6",
+      "KONU": "2 SUNUCU İŞLETİM SİSTEMİ SORUNLARI",
+      "KAZANIM": "2. Dönem 2. Sınav Standartlara uygun olarak sunucu işletim sistemi sorunlarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "KAZANIM": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

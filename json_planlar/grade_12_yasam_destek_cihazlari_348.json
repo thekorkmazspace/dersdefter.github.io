@@ -1,0 +1,337 @@
+{
+  "sinif": "12",
+  "ders": "YAŞAM DESTEK CİHAZLARI",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "Ameliyathane ve Yoğun Bakım",
+      "KAZANIM": "1. Ameliyathane ortamının yerleşim organizasyonunu yapar. 2. Yoğun bakım ortamının yerleşim organizasyonunu yapar.       3. Temiz oda ve iklimlendirme elemanlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "Ameliyathane ve Yoğun Bakım",
+      "KAZANIM": "4. Ameliyathane lambalarının kurulumunu yapar. 5. Ameliyathane lambalarının arızalarını giderir. 6. Ameliyathane lambalarını kullanır bakımını ve kalibrasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "Ameliyathane ve Yoğun Bakım",
+      "KAZANIM": "7. Ameliyathane masalarının kurulumunu yapar. 8. Ameliyathane masalarının arızalarını giderir ve bakımını yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "Acil Servis ve Hasta Nakil Araçları",
+      "KAZANIM": "1. Acil servis iş organizasyonlarını yapar ve biyomedikal donanımlarını kullanılır. 2. Hasta nakil araçlarındaki biyomedikal donanımlarının temel kontrollerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "Defibrilatör Cihazları",
+      "KAZANIM": "1. Defibrilatör cihazlarının kurulumunu yapar ve kullanır. 2. Defibrilatör cihazlarının yüksek gerilim ünitesinin arızalarını giderir.                   3. Defibrilatör cihazlarının elektronik kart arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "Defibrilatör Cihazları",
+      "KAZANIM": "4. Defibrilatör cihazlarının kaşık arızalarını giderir. 5. Defibrilatör cihazlarının bakımını ve kalibrasyonunu yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "Medikal Gazlar",
+      "KAZANIM": "1. Medikal gaz çeşitlerini ve korunma yöntemlerini bilir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "Medikal Gazlar",
+      "KAZANIM": "2. Medikal gaz hatlarının arızalarını tespit ederek giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "İşitme Cihazları",
+      "KAZANIM": "1. Dönem 1. Sınav 1. İşitme cihazlarının kurulumunu yapar ve kullanır. 2. İşitme cihazının arızalarını giderir. 3. İşitme cihazlarının bakımını ve kalibrasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "Ventilatör Cihazları",
+      "KAZANIM": "1. Ventilatör cihazını kurarak ilk kullanım için hazırlar. 2. Ventilatör cihazının kontrol ve görüntüleme birimlerinin arızalarını giderir",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "Ventilatör Cihazları",
+      "KAZANIM": "3. Ventilatör cihazının arıza kodlarını okur. 4. Ventilasyon istasyonuna ait pnömatik birim arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "Ventilatör Cihazları",
+      "KAZANIM": "5. Ventilasyon istasyonlarında bulunan elektronik ünitelerinin arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "Ventilatör Cihazları",
+      "KAZANIM": "6. Ventilatör cihazının güvenlik testlerini standart değerlere uygun olarak gerçekleştirir. 7. Ventilatör cihazının bakımını ve kalibrasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "Vücut Dışı Böbrek Taşı Kırma Cihazı ESWL",
+      "KAZANIM": "1. Vücut dışı böbrek taşı kırma ESWL cihazının kurulumunu yapar ve kullanır. 2. Vücut dışı böbrek taşı kırma ESWL cihazının şok dalga üreteci arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "Vücut Dışı Böbrek Taşı Kırma Cihazı ESWL",
+      "KAZANIM": "3. Vücut dışı böbrek taşı kırma ESWL cihazının hasta masası arızalarını giderir. 4. Vücut dışı böbrek taşı kırma ESWL cihazının elektronik kart monitör ve görüntü birimlerinin arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "Vücut Dışı Böbrek Taşı Kırma Cihazı ESWL",
+      "KAZANIM": "5. Vücut dışı böbrek taşı kırma ESWL cihazının güç ünite arızalarını giderir. 6. Vücut dışı böbrek taşı kırma ESWL cihazının bakımını ve kalibrasyonunu yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "Anestezi Cihazı",
+      "KAZANIM": "1. Dönem 2. Sınav 1. Anestezi cihazının kurulumunu yapar ve kullanır. 2. Anestezi cihazı arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "Anestezi Cihazı",
+      "KAZANIM": "3. Anestezi cihazının bakımını ve kalibrasyonunu yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "Kalp-Akciğer Makinesi",
+      "KAZANIM": "1. Kalp-akciğer makinesinin kurulumunu yapar ve kullanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "Kalp-Akciğer Makinesi",
+      "KAZANIM": "2. Peristaltik pompanın ısıtma sisteminin ve algılayıcıların arızasını giderir. 3. Görüntü birimi güç ünite ve elektronik kart arızasını giderir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "Kalp-Akciğer Makinesi",
+      "KAZANIM": "4. Kalp-akciğer makinesinin bakımını ve kalibrasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "Elektrokoter Cihazları",
+      "KAZANIM": "1. Elektrokoter cihazların kurulumunu yapar ve kullanır. 2. Elektrokoter cihazının devre kesicilerinin arızalarını giderir. 3. Elektrokoter cihazının yüksek frekanslı dalga üretici devresinin arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "Elektrokoter Cihazları",
+      "KAZANIM": "4. Elektrokoter cihazının elektrot arızalarını giderir. 5. Elektrokoter cihazının monitör ve görüntü biriminin arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "Elektrokoter Cihazları",
+      "KAZANIM": "6. Elektrokoter cihazının güç ünitesinin arızalarını giderir. 7. Elektrokotercihazının bakımını ve kalibrasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "Aspiratör Cihazları",
+      "KAZANIM": "1. Aspiratör cihazlarının kurulumunu yapar ve kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "Aspiratör Cihazları",
+      "KAZANIM": "2. Dönem 1. Sınav 2. Aspiratör cihazılarının arızalarını tespit eder ve giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "Aspiratör Cihazları",
+      "KAZANIM": "3. Aspiratör cihazlarının bakımını ve kalibrasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "Kuvöz Cihazları",
+      "KAZANIM": "1. Kuvöz cihazlarının kurulumunu yapar ve kullanır. 2. Kuvöz cihazlarının bakımını ve kalibrasyonunu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "Kuvöz Cihazları",
+      "KAZANIM": "3. Kuvöz cihazlarının olası arızalarını tespit eder ve giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "Diyaliz Cihazı",
+      "KAZANIM": "1. Diyaliz cihazının kurulumunu yapar ve kullanır. 2. Diyaliz cihazının bakımını ve kalibrasyonunu yapar. 3. Algılayıcının arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "Diyaliz Cihazı",
+      "KAZANIM": "4. Diyalizat tanknını arızasını giderir. 5. Diyalizat ısıtıcının arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "Diyaliz Cihazı",
+      "KAZANIM": "6. Diyalizat pompasının arızasını giderir. 7. Filtrelerin arızasını giderir. 8. Görüntü biriminin arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "Diyaliz Cihazı",
+      "KAZANIM": "9. Güç ünitesinin arızasını giderir. 10. Elektronik kartın arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "İnfüzyon Pompaları",
+      "KAZANIM": "2. Dönem 2. Sınav 1. İntravenöz cihazlarının kurulumunu yapar ve kullanır. 2. İntravenöz cihazlarının bakımını ve kalibrasyonunu yapar. 3. İntravenöz cihazlarının olası arızalarını tespit eder ve giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "Nemlendirme Cihazları",
+      "KAZANIM": "1. Nemlendirme cihazlarının kurulumunu yapar. 2. Nemlendirme cihazlarının bakımını ve kalibrasyonunu yapar. 3. Güç ünitesinin arızasını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KAZANIM": "4. Algılayıcıların arızalarını giderir. 5. Haznenin arızalarını giderir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "sinif": "3",
+  "ders": "FEN BİLİMLERİ",
+  "kaynak": "TYMM 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n8 Eylül-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "F.3.1.2.1: Dünya’nın yüzeyinde karaların ve suların yer aldığını kavrar. F.3.1.2.2. Dünya’da etrafımızı saran bir hava katmanının bulunduğunu açıklar.\nF.3.1.1.1: Dünya’nın şeklinin küreye benzediğinin farkına varır. F.3.1.1.2. Dünya’nın şekliyle ilgili model hazırlar.\nF.3.1.2.2: Dünya’da etrafımızı saran bir hava katmanının bulunduğunu açıklar. F.3.1.2.3. Dünya yüzeyindeki kara ve suların kapladığı alanları model üzerinde karşılaştırır.",
+      "KAZANIM": "Dünya’da etrafımızı saran bir hava katmanının bulunduğunu açıklar. F.3.1.2.3. Dünya yüzeyindeki kara ve suların kapladığı alanları model üzerinde karşılaştırır.\nDuyu organlarının önemini fark eder. F.3.2.1.2. Duyu organlarının temel görevlerini açıklar.\nDünya’nın şeklinin küreye benzediğinin farkına varır. F.3.1.1.2. Dünya’nın şekliyle ilgili model hazırlar.\nOkul dışı öğrenme etkinlikleri, ders yılı başı okul zümre öğretmenleri toplantısında belirlenecektir.\nDünya’nın yüzeyinde karaların ve suların yer aldığını kavrar. F.3.1.2.2. Dünya’da etrafımızı saran bir hava katmanının bulunduğunu açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15 Eylül-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Okul dışı öğrenme etkinlikleri, ders yılı başı okul zümre öğretmenleri toplantısında belirlenecektir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22 Eylül-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Dünya’nın yüzeyinde karaların ve suların yer aldığını kavrar. F.3.1.2.2. Dünya’da etrafımızı saran bir hava katmanının bulunduğunu açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Dünya’da etrafımızı saran bir hava katmanının bulunduğunu açıklar. F.3.1.2.3. Dünya yüzeyindeki kara ve suların kapladığı alanları model üzerinde karşılaştırır."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n6 Ekim-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Duyu organlarının önemini fark eder. F.3.2.1.2. Duyu organlarının temel görevlerini açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13 Ekim-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Duyu organlarının temel görevlerini açıklar. F.3.2.1.3. Duyu organlarının sağlığını korumak için yapılması gerekenleri açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20 Ekim-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Hareket eden varlıkları gözlemler ve hareket özelliklerini ifade eder."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "İtme ve çekmenin birer kuvvet olduğunu deneyerek keşfeder."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n3 Kasım-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "İtme ve çekme kuvvetlerinin hareket eden ve duran cisimler üzerindeki etkilerini gözlemleyerek kuvveti tanımlar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10 Kasım-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Günlük yaşamda hareketli cisimlerin sebep olabileceği tehlikeleri tartışır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17 Kasım-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Beş duyu organını kullanarak maddeyi niteleyen temel özellikleri açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24 Kasım-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Bazı maddelere dokunma, bakma, onları tatma ve koklamanın canlı vücuduna zarar verebileceğini tartışır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n1 Aralık-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Bireysel olarak veya gruplar hâlinde çalışırken gerekli güvenlik tedbirlerini almada sorumluluk üstlenir. F.3.4.2.1. Çevresindeki maddeleri, hâllerine göre sınıflandırır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n8 Aralık-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Maddenin hâllerine günlük yaşamdan örnekler verilir fakat yapılarına (akışkanlık, tanecikler arası uzaklık vb.) değinilmez."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15 Aralık-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Gözlemleri sonucunda görme olayının gerçekleşebilmesi için ışığın gerekli olduğu sonucunu çıkarır. F.3.5.2.1. Çevresindeki ışık kaynaklarını doğal ve yapay ışık kaynakları şeklinde sınıflandırır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22 Aralık-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Çevresindeki ışık kaynaklarını doğal ve yapay ışık kaynakları şeklinde sınıflandırır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Her sesin bir kaynağı olduğu ve sesin her yöne yayıldığı sonucunu çıkarır. F.3.5.3.2. İşitme duyusunu kullanarak ses kaynağının yaklaşıp uzaklaşması ve ses kaynağının yeri hakkında çıkarımlarda bulunur."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n5 Ocak-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Çevresindeki ses kaynaklarını doğal ve yapay ses kaynakları şeklinde sınıflandırır. F.3.5.4.1. Ses şiddetinin işitme için önemli olduğunu gözlemler ve her sesin insan kulağı tarafından işitilemeyeceğini fark eder"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12 Ocak-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Ses şiddetinin, sesi duyabilmemizi sağlayan özellik olduğu vurgulanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19 Ocak-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Ses şiddeti ile uzaklık arasındaki ilişkiyi açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n26 Ocak-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Şiddetli seslerin işitme kaybına sebep olabileceğini ifade eder. F.3.6.1.1. Çevresindeki örnekleri kullanarak varlıkları canlı ve cansız olarak sınıflandırır"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n2 Şubat-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "a. Canlıların sistematik sınıflandırılmasına girilmez. b. Canlı türlerinden sadece bitki ve hayvanlardan söz edilir. c. Canlı ve cansız kavramlarında literatürdeki kavram yanılgılarına dikkat edilir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n9 Şubat-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Bir bitkinin yaşam döngüsüne ait gözlem sonuçlarını sunar. F.3.6.2.1. Yaşadığı çevreyi tanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16 Şubat-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Yaşadığı çevreyi tanır. F.3.6.2.2. Yaşadığı çevrenin temizliğinde aktif görev alır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n23 Şubat-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Doğal ve yapay çevre arasındaki farkları açıklar. F.3.6.2.4. Yapay bir çevre tasarlar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n2 Mart-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Yapay bir çevre tasarlar. F.3.6.2.5. Doğal çevrenin canlılar için öneminin farkına varır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n9 Mart-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Millî parklar ve doğal anıtlara değinilir."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16 Mart-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Doğal çevreyi korumak için araştırma yaparak çözümler önerir. F.3.7.1.1. Elektrikli araç-gereçlere yakın çevresinden örnekler vererek elektriğin günlük yaşamdaki önemini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23 Mart-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektrikli araç-gereçlere yakın çevresinden örnekler vererek elektriğin günlük yaşamdaki önemini açıklar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-3 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "a. Elektrik kaynakları olarak şehir elektriği, akü, pil, batarya vb. üzerinde durulur. b. Pillerde kutup kavramına girilmez."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n6 Nisan-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Pil atıklarının çevreye vereceği zararları ve bu konuda yapılması gerekenleri tartışır. F.3.7.3.1. Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13 Nisan-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Pilin kimyasal yapısına ve sebep olacağı kimyasal kirliliğe değinilmez. F.3.7.3.1. Elektrikli araçların, açık kabloların, prizlere metal cisimler sokulmasının ve iletim hatlarının suyla temas etmesinin sebep olabileceği elektrik çarpması, arıza, yangın vb. tehlikeler üzerinde durulur."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20 Nisan-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n4 Mayıs-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11 Mayıs-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18 Mayıs-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n25 Mayıs-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n1 Haziran-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n8 Haziran-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15 Haziran-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22 Haziran-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "GENEL",
+      "KONU": "",
+      "KAZANIM": "Elektriğin güvenli kullanılmasına özen gösterir."
+    }
+  ]
+}

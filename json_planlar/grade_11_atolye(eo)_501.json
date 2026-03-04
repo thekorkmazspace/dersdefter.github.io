@@ -1,0 +1,338 @@
+{
+  "sinif": "11",
+  "ders": "ATÖLYE(EO)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "10",
+      "KONU": "ÖĞRENME BİRİMİ GÖRSEL PROGRAMLAMA ORTAMI\n1.\tEditör ve derleyici ortamını kullanmak\n1.1.\tBoş proje oluşturma\n1.2.\tProjeyi kaydetme kapatma ve açma işlemleri\n1.3.\tProgram menüleri",
+      "KAZANIM": "Editör ve derleyici ortamını kullanarak arayüz oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "10",
+      "KONU": "1.3.\tProgram menüleri\n1.4.\tProgram pencereleri\n1.5.\tProgramı kişiselleştirme",
+      "KAZANIM": "Editör ve derleyici ortamını kullanarak arayüz oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "10",
+      "KONU": "2.\tArayüz oluşturmak\n2.1.\tMetin düzenleme işlemleri\n2.2.\tÇalışma formu özellikleri\n2.3.\tForm olayları",
+      "KAZANIM": "Görsel programlama diline ait bileşenlerin özelliklerini ve olaylarını kullanarak arayüz oluşturur."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "10",
+      "KONU": "2.4.\tBileşenler ve Özellikleri\n2.5.\tButton\n2.6.\tEtiket\n2.7.\tEdit",
+      "KAZANIM": "Görsel programlama diline ait bileşenlerin özelliklerini ve olaylarını kullanarak arayüz oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "10",
+      "KONU": "2.8.\tPanel bileşeni\n2.9.\tMemo bileşeni\n2.10.\tAçılır yazı kutusu\n2.11.\tListe kutusu\n2.12.\tKontrol kutusu",
+      "KAZANIM": "Görsel programlama diline ait bileşenlerin özelliklerini ve olaylarını kullanarak arayüz oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "10",
+      "KONU": "2.13.\tRadyo grup\n2.14.\tZamanlayıcı\n2.15.\tResim bileşeni\n2.16.\tTarih saat seçme\n2.17.\tİzleme çubuğu",
+      "KAZANIM": "Görsel programlama diline ait bileşenlerin özelliklerini ve olaylarını kullanarak arayüz oluşturur."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "10",
+      "KONU": "ÖĞRENME BİRİMİ TEMEL PROGRAMLAMA\n1.\tDeğişkenler sabitler ve temel veri tiplerini kullanmak\n1.1.\tDeğişken ve değişken tipleri\n1.2.\tSabit tanımlama\n1.3.\tTemel operatörler",
+      "KAZANIM": "Değişkenler sabitler ve temel veri tipleri ile temel programlama yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "10",
+      "KONU": "1.4.\tVeri tipi dönüşüm işlemleri\n1.5.\tDiziler\n1.6.\tEnum yapısı\n1.7.\tListe veri yapısı \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Değişkenler sabitler ve temel veri tipleri ile temel programlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "10",
+      "KONU": "1.8.\tTarih ve saat veri tipleri \n1.9.\tTarih ve saat dönüşüm işlemleri\n1.10.\tMemo bileşeni ile kayıt \n1.11.\tPointer kavramı",
+      "KAZANIM": "1. Dönem 1. Sınav Değişkenler sabitler ve temel veri tipleri ile temel programlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "10",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "10",
+      "KONU": "2.\tAritmetiksel ve mantıksal operatörleri kullanmak\n2.1.\tMatematiksel operatörler\n2.2.\tMantıksal operatörler\n2.3.\tRastgele sayı üretme işlemi",
+      "KAZANIM": "Aritmetik ve mantıksal operatörleri şartlı ifadeleri ve döngü yapılarını temel programlamada kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "10",
+      "KONU": "3.\tŞartlı ifadeler döngü yapıları ve diziler\n3.1.\tKarar kontrol deyimleri\n3.2.\tIf then yapısı\n3.3.\tCase of yapısı",
+      "KAZANIM": "Aritmetik ve mantıksal operatörleri şartlı ifadeleri ve döngü yapılarını temel programlamada kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "10",
+      "KONU": "4.\tDöngü Deyimleri\n4.1.\tFor do döngüsü",
+      "KAZANIM": "Aritmetik ve mantıksal operatörleri şartlı ifadeleri ve döngü yapılarını temel programlamada kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "10",
+      "KONU": "4.2.\tWhile do döngüsü\n4.3.\tRepeat until döngüsü",
+      "KAZANIM": "Aritmetik ve mantıksal operatörleri şartlı ifadeleri ve döngü yapılarını temel programlamada kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "10",
+      "KONU": "5.\tGelişmiş dizi işlemleri\n5.1.\tTek boyutlu diziler\n5.2.\tİki boyutlu diziler",
+      "KAZANIM": "Aritmetik ve mantıksal operatörleri şartlı ifadeleri ve döngü yapılarını temel programlamada kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "10",
+      "KONU": "6.\tProsedürler\n6.1.\tProsedür tanımlama\n6.2.\tParametreli prosedürler\n6.3.\tDeğer döndürme işlemi\n6.4.\tHazır fonksiyonların kullanımı",
+      "KAZANIM": "Aritmetik ve mantıksal operatörleri şartlı ifadeleri ve döngü yapılarını temel programlamada kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "10",
+      "KONU": "ÖĞRENME BİRİMİ PORT KONTROLÜ\n1.\tSeri ve USB port kontrolü yapmak\n1.1.\tSeri port sürücülerini yükleme ve ayarlama \n1.Dönem 2.Sınav",
+      "KAZANIM": "Seri ve USB port kontrol uygulamaları yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "10",
+      "KONU": "1.2.\tGömülü sistemi USCO 01 kontrol kartına yükleme\n1.3.\tSeri port ve gösterge bileşenlerini yükleme",
+      "KAZANIM": "1. Dönem 2. Sınav Seri ve USB port kontrol uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "10",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "10",
+      "KONU": "1.4.\tLed yakıp söndürme anahtar toggle uygulaması\n1.5.\tDigital analog termometre ve potansiyometre uygulaması",
+      "KAZANIM": "Seri ve USB port kontrol uygulamaları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "10",
+      "KONU": "1.6.\tMultimetreden seri port aracılığı ile bilgi okuma\n1.7.\tUSCO-01 yerli gömülü sistem kullanma\n1.8.\tKontrol kartına bağlı sensör uygulamaları",
+      "KAZANIM": "Seri ve USB port kontrol uygulamaları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "10",
+      "KONU": "1.9.\tPWM uygulamaları\n1.10.\tMotor kontrol uygulaması\n1.11.\tKontrol kartına bağlı dış buton ile lamba 220V kontrol uygulaması",
+      "KAZANIM": "Seri ve USB port kontrol uygulamaları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "10",
+      "KONU": "2.\tEthernet port kontrolü yapmak\n2.1.\tHttp protokol bileşenlerini görsel programlama diline yükleme",
+      "KAZANIM": "Ethernet port kontrol uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "10",
+      "KONU": "2.2.\tKontrol kartı ile modem ve switche bağlanma\n2.3.\tUSCO-02 yerli gömülü sistemi kullanma",
+      "KAZANIM": "Ethernet port kontrol uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "10",
+      "KONU": "2.4.\tUSCO 02 ile uygulama geliştirme",
+      "KAZANIM": "Ethernet port kontrol uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "10",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "10",
+      "KONU": "3.\tBluetooth kontrolü\n3.1.\tMaster ve slave tip bluetooth modüllerinin AT komutları ile ayarlama\n3.2.\tBluetooth modülü ile haberleşme işlemi",
+      "KAZANIM": "Bluetooth port kontrol uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "10",
+      "KONU": "3.3.\tBluetooth modülü ile uygulama geliştirme \nAtatürkün vatan ve millet sevgisi \n2.Dönem 1.Sınav",
+      "KAZANIM": "Bluetooth port kontrol uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "10",
+      "KONU": "4.\t SQLITE Veri tabanı\n4.1.\tVeri tabanı yönetim programını kurma\n4.2.\tGörsel programalama diline veri tabanı bileşenlerini yükleme",
+      "KAZANIM": "2. Dönem 1. Sınav SQLite veri tabanı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "10",
+      "KONU": "4.3.\tVeritabanı oluşturma\n4.4.\tTablo oluşturma işlemi",
+      "KAZANIM": "SQLite veri tabanı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "10",
+      "KONU": "4.5.\tVeri kaydetme silme güncelleme işlemi\n4.6.\tVerileri listeleme",
+      "KAZANIM": "SQLite veri tabanı uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "10",
+      "KONU": "ÖĞRENME BİRİMİ MOBİL PROGRAMLAMA\n1.\tAndroid işletim sisteminin alt yapısını oluşturmak\n1.1.\tMobil programlama yazılımını kurma işlemi",
+      "KAZANIM": "Android işletim sistem programlamanın alt yapısını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "10",
+      "KONU": "1.2.\tYazılım geliştirme kitinin SDK kurulumu\n1.3.\tSDK ayarları",
+      "KAZANIM": "Android işletim sistem programlamanın alt yapısını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "10",
+      "KONU": "2.\tMobil arayüz oluşturmak\n2.1.\tYeni bir proje oluşturma ve kaydetme\n2.2.\tProje temel ayarları",
+      "KAZANIM": "Mobil arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "10",
+      "KONU": "2.3.\tArayüz tasarımı",
+      "KAZANIM": "Mobil arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "10",
+      "KONU": "2.4.\tMobile programlama dili bileşenleri",
+      "KAZANIM": "Mobil arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "10",
+      "KONU": "2.5.\tBileşenleri kullanarak uygulama geliştirme",
+      "KAZANIM": "2. Dönem 2. Sınav Mobil arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "10",
+      "KONU": "2.5.\tBileşenleri kullanarak uygulama geliştirme \n2.Dönem 2.Sınav",
+      "KAZANIM": "Mobil arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "10",
+      "KONU": "2.6.\tSQLite veri tabanı uygulaması yapma",
+      "KAZANIM": "Mobil arayüz tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "10",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

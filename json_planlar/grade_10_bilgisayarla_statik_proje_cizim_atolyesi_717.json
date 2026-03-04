@@ -1,0 +1,339 @@
+{
+  "sinif": "10",
+  "ders": "BİLGİSAYARLA STATİK PROJE ÇİZİM ATÖLYESİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "7",
+      "KONU": "1. İKİ BOYUTLU ÇİZİM AYARLARI VE KOMUTLARI \n1.1. Çizim Temel Bilgileri ve Paket Program\n1.2. Çizim Ayarları\n1.3. Ekran Kontrolü\n1.4. İki Boyutlu Çizim Komutları\n1.5. Bilgisayarla Dosyalama",
+      "KAZANIM": "Çizim programında temel bilgilerle paket programı çalıştırır.\nCAD programında çizim ayarlarını yapar.\nCAD programında ekran kontrolünü yapar.\nCAD programında iki boyutlu çizim komutları ile çalışır.\nCAD programında çizdiği planı dosyalar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "7",
+      "KONU": "2. BİLGİSAYARLA KAPI VE PENCERE ÇİZİMİ \n2.1. Katman Ayarları\n2.2. Bilgisayarla Geometrik Şekiller\n2.3. Bilgisayarla Kapı Çizimleri",
+      "KAZANIM": "CAD programında katman ayarlarını yapar.\nCAD programında geometrik şekilleri iki boyutlu çizim komutları ile çizer.\nKapıları iki boyutlu çizim komutları ile CAD programında çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "7",
+      "KONU": "2.4. Bilgisayarla Pencere Çizimleri\n2.5. Bilgisayarla Topal Kasa Çizimleri\n2.6. Kapı ve Pencere Blokları Oluşturma",
+      "KAZANIM": "Pencereleri iki boyutlu çizim komutları ile CAD programında çizer.\nTopal kasayı iki boyutlu çizim komutları ile CAD programında çizer.\nCAD programında kapı ve pencere bloğu oluşturur."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "7",
+      "KONU": "3. BİLGİSAYARLA MERDİVEN ÇİZİMİ\n3.1. Bilgisayarla İki Kollu Ortada Sahanlıklı Düz Merdiven Plan Görünüş ve Kesit Çizimi\n3.1.1. İki kollu merdiven elamanları boyutlandırılarak merdiven planı çizimi\n3.1.2.  İki kollu merdiven görünüş ve kesiti çizimi",
+      "KAZANIM": "Ortada sahanlıklı düz merdiven planı ve kesitini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "7",
+      "KONU": "3.2. Bilgisayarla Yarım Döner Merdiven Plan Görünüş ve Kesit Çizimi\n3.2.1. Yarım döner merdiven elamanları boyutlandırılarak merdiven planı çizimi\n3.2.2. Yarım döner merdiven görünüş ve kesiti çizimi",
+      "KAZANIM": "Çizim programında yarım döner merdiven planı ve kesitini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "7",
+      "KONU": "3.3. Bilgisayarla Dış Merdiven Plan ve Görünüş Çizimleri\n3.3.1. Dış merdiven elamanları boyutlandırılarak merdiven planı çizimi\n3.3.2. Dış merdiven görünüş çizimi",
+      "KAZANIM": "Çizim programında dış merdiven planı ve kesitini çizer."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "7",
+      "KONU": "3.4. Çıktı Alma ve Dosyalama\n3.4.1. Proje katlama kuralları\n3.4.2. Proje katlama ve dosyalama işlemi",
+      "KAZANIM": "CAD programında aldığı çıktıları dosyalar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "7",
+      "KONU": "4. KONUT BİNASI ETÜDÜ\n4.1. İhtiyaç Listesi ve Fizibilite\n4.2. İnsan ve Eşya Ölçülerini Dikkate Alarak Mekân Alanlarını Belirleme \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "İhtiyaç listesi ve fizibilite çalışmasını mimari proje düzenleme esaslarına uygun olarak yapar.\nMimari proje düzenleme esaslarına uygun olarak insan ve eşya ölçülerini dikkate alarak mekânların alanlarını tespit eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "7",
+      "KONU": "4.3. Kat Planı Etüdü\n4.4. Çizgisel ve Kotlu Ölçülendirme\n4.4.1. İç dış ve kotlu ölçülendirme kuralları",
+      "KAZANIM": "1. Dönem 1. Sınav Mimari proje düzenleme esaslarına uygun olarak kat planı etüdü yapar.\nTeknik resim kurallarına uygun olarak çizgisel ölçülendirme yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "7",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "7",
+      "KONU": "5. BİLGİSAYARLA KONUT BİNASI ZEMİN KAT PLANI ÇİZİMİ \n5.1. Bilgisayarla Zemin Kat Planı Elemanları \n5.2. Ölçülendirme ve Yazı Ayarları",
+      "KAZANIM": "Zemin kat planını CAD programında komutlarla çizer.\nZemin kat planı ölçülendirme ve yazı ayarlarını CAD programındaki ilgili komutlarla yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "7",
+      "KONU": "5.3. Bilgisayarla Zemin Kat Planı İç ve Dış Ölçülendirme \n5.4. Bilgisayarla Zemin Kat Eleman ve Mahal Yazıları",
+      "KAZANIM": "Zemin kat planının iç ve dış ölçülendirmesini CAD programında yapar.\nZemin kat planı eleman ve mahal bilgilerini CAD programında oluşturduğu yazı stilleri ile yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "7",
+      "KONU": "5.5. Bilgisayarla Zemin Kat Planı Tefriş ve Taramaları \n5.6. Bilgisayarla Zemin Kat Mahal Listesi ve Antet",
+      "KAZANIM": "Zemin kat planı tefriş ve taramalarını CAD programında yapar.\nZemin kat planı mahal listesi ve antedini CAD programında çeşitli komutlarla yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "7",
+      "KONU": "6. BİLGİSAYARLA KONUT BİNASI NORMAL KAT PLANI ÇİZİMİ\n6.1. Bilgisayarla Normal Kat Planı Elemanları \n6.2. Bilgisayarla Normal Kat Planı İç ve Dış Ölçülendirme",
+      "KAZANIM": "Normal kat planını CAD programında komutlarla çizer.\nNormal kat planının iç ve dış ölçülendirmesini CAD programında yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "7",
+      "KONU": "6.3. Bilgisayarla Normal Kat Eleman ve Mahal Yazıları \n6.4. Bilgisayarla Normal Kat Planı Tefriş ve Taramaları\n6.5. Bilgisayarla Normal Kat Mahal Listesi ve Antet",
+      "KAZANIM": "Normal kat planı eleman ve mahal bilgilerini CAD programında oluşturduğu yazı stilleri ile yazar.\nNormal kat planı tefriş ve taramalarını CAD programında yapar.\nNormal kat planı mahal listesi ve antedini CAD programında çeşitli komutlarla yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "7",
+      "KONU": "7. BİLGİSAYARLA KONUT BİNASI BODRUM KAT PLANI ÇİZİMİ \n7.1. Bilgisayarla Bodrum Kat Planı Elemanları\n7.2. Bilgisayarla Bordum Kat Planı İç ve Dış Ölçülendirme\n7.3. Bilgisayarla Bodrum Kat Eleman ve Mahal Yazıları",
+      "KAZANIM": "Bodrum kat planını CAD programında komutlarla çizer.\nBodrum kat planının iç ve dış ölçülendirmesini CAD programında yapar.\nBodrum kat planı eleman ve mahal isimlerini CAD programında oluşturduğu yazı stilleri ile yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "7",
+      "KONU": "7.4. Bilgisayarla Bodrum Kat Eleman ve Mahal Yazıları\n7.5. Bilgisayarla Bodrum Kat Planı Tefriş ve Taramaları\n7.6. Bilgisayarla Bodrum Kat Mahal Listesi ve Antet \n1.Dönem 2.Sınav",
+      "KAZANIM": "Bodrum kat planı tefriş ve taramalarını CAD programında yapar.\nBodrum kat planı mahal listesi ve antedini CAD programında çeşitli komutlarla yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "7",
+      "KONU": "8. BİLGİSAYARLA KONUT BİNASI YÜZEYSEL TEMEL PLANI ÇİZİMİ\n8.1. Bilgisayarla Yığma Bina Temel Planı Çizimi\n8.1.1. Yığma temeller \n8.1.2.  Yığma temel donatı planı açılımları detay ve kesitleri \n8.1.3. Yığma temel ölçülendirmesi",
+      "KAZANIM": "1. Dönem 2. Sınav Yığma temel planını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "7",
+      "KONU": "8.2. Bilgisayarla Tekil Münferit Temel Planı Çizimi\n8.2.1. Tekil temeller\n8.2.2. Tekil temel donatı planı açılımları detay ve kesitleri\n8.2.3. Tekil temel ölçülendirmesi",
+      "KAZANIM": "Tekil Münferit temel planını CAD programında komutlarla kurallara uygun olarak çizer."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "7",
+      "KONU": "8.3. Bilgisayarla Mütemadi Sürekli Temel Planı Çizimi\n8.3.1. Mütemadi temeller \n8.3.2. Mütemadi temel donatı planı  açılımları detay ve kesitleri\n8.3.3. Mütemadi temel ölçülendirmesi",
+      "KAZANIM": "Mütemadi Sürekli temel planını CAD programında komutlarla kurallara uygun olarak çizer."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "7",
+      "KONU": "8.4. Bilgisayarla Birleşik Temel Planı Çizimi\n8.4.1. Birleşik temeller\n8.4.2. Birleşik temel donatı planı açılımları detay ve kesitleri \n8.4.3. Birleşik temel ölçülendirmesi",
+      "KAZANIM": "Birleşik temel planını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "7",
+      "KONU": "9. BİLGİSAYARLA KONUT BİNASI DERİN TEMEL PLANI ÇİZİMİ\n9.1. Bilgisayarla Düz Radye Temel Planı Çizimi\n9.1.1. Düz radye temeller\n9.1.2. Düz radye temel donatı planı açılımları detay ve kesitleri",
+      "KAZANIM": "Düz radye temel planını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "7",
+      "KONU": "9.1.3. Düz radye temel donatı planı açılımları detay ve kesitleri\n9.1.4. Düz radye temel ölçülendirmesi",
+      "KAZANIM": "Düz radye temel planını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "7",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "7",
+      "KONU": "9.2. Bilgisayarla Alttan Kirişli Radye Temel Planı Çizimi\n9.2.1. Alttan kirişli radye temeller\n9.2.2. Alttan kirişli radye temel donatı planı açılımları detay ve kesitleri\n9.2.3. Alttan kirişli radye temel ölçülendirmesi",
+      "KAZANIM": "Alttan kirişli radye temel planını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "7",
+      "KONU": "9.3. Bilgisayarla Üstten Kirişli Radye Temel Planı Çizimi\n9.3.1. Üstten kirişli radye temeller\n9.3.2. Üstten kirişli radye temel donatı planı açılımları detay ve kesitleri\n9.3.3. Üstten kirişli radye temel ölçülendirmesi",
+      "KAZANIM": "Üstten kirişli radye temel planını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "7",
+      "KONU": "10. BİLGİSAYARLA KONUT BİNASI KOLON APLİKASYON PLANI ÇİZİMİ\n10.1. Bilgisayarla Aks ve Kolonları Çizimi\n10.2. Bilgisayarla Kolon ve Perde Donatılarını Çizimi \n \n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Kolon aplikasyon planını CAD programında komutlarla kurallara uygun olarak çizer.\nKolon ve perde duvar donatılarını CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "7",
+      "KONU": "10.3. Bilgisayarla Kolon ve Perde Duvar Donatı Detayları Çizimi\n10.4. Bilgisayarla Deprem Bölgesi Kolon - Kiriş Birleşim Detayını Çizimi\n10.5. Bilgisayarla Plan Bilgilerini Yazmak ve Antet Çizimi",
+      "KAZANIM": "Kolon ve perde duvar donatı detaylarını CAD programında komutlarla kurallara uygun olarak çizer.\nDeprem bölgesi kolon-kiriş birleşim detaylarını CAD programında kurallara uygun olarak çizer.\nPlan ve anted bilgilerini CAD programında kurallara uygun olarak oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "7",
+      "KONU": "11. BİLGİSAYARLA KONUT BİNASI PLAK DÖŞEME DONATI PLANI ÇİZİMİ \n11.1. Bilgisayarla Plak Döşeme Aks ve Kolonları Çizimi\n11.2. Bilgisayarla Plak Döşeme Kirişleri Çizimi",
+      "KAZANIM": "Plak döşeme aks ve kolonlarını CAD programında komutlarla kurallara uygun olarak çizer.\nPlak döşeme kirişlerini CAD programında kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "7",
+      "KONU": "11.3. Bilgisayarla Plak Döşeme Donatılarını Çizimi\n11.4. Bilgisayarla Plak Döşeme Kesitleri Çizimi\n11.5. Bilgisayarla Plak Döşeme Plan Bilgileri Yazımı",
+      "KAZANIM": "Plak döşeme donatılarını CAD programında kurallara uygun olarak çizer.\nPlak döşeme kesitlerini CAD programında komutlarla kurallara uygun olarak çizer.\nPlak döşeme planı bilgilerini CAD programında kurallara uygun olarak yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "7",
+      "KONU": "12. BİLGİSAYARLA KONUT BİNASI ASMOLEN DÖŞEME DONATI PLANI ÇİZİMİ\n12.1. Bilgisayarla Asmolen Döşeme Aks ve Kolonları Çizimi\n12.2. Bilgisayarla Asmolen Döşeme Kirişleri Çizimi",
+      "KAZANIM": "Asmolen döşeme aks ve kolonlarını CAD programında komutlarla kurallara uygun olarak çizer.\nAsmolen döşeme kirişlerini CAD programında komutlarla kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "7",
+      "KONU": "12.3. Bilgisayarla Asmolen Döşeme Donatılarını Çizimi\n12.4. Bilgisayarla Asmolen Döşeme Kesitleri Çizimi\n12.5. Bilgisayarla Asmolen Döşeme Plan Bilgileri Yazımı",
+      "KAZANIM": "Asmolen döşeme donatılarını CAD programında komutlarla kurallara uygun olarak çizer.\nAsmolen döşeme kesitlerini CAD programında komutlarla kurallara uygun olarak çizer.\nAsmolen döşeme planı bilgilerini CAD programında komutlarla kurallara uygun olarak yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "7",
+      "KONU": "13. BİLGİSAYARLA KONUT BİNASI KASET DÖŞEME DONATI PLANI ÇİZİMİ\n13.1. Bilgisayarla Kaset Döşeme Aks ve Kolonları Çizimi\n13.2. Bilgisayarla Kaset Döşeme Kirişleri Çizimi",
+      "KAZANIM": "Kaset döşeme aks ve kolonlarını CAD programında komutlarla kurallara uygun olarak çizer.\nKaset döşeme kirişlerini CAD programında komutlarla kurallara  uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "7",
+      "KONU": "13.3. Bilgisayarla Kaset Döşeme Donatıları Çizimi \n13.4. Bilgisayarla Kaset Döşeme Kesitleri Çizimi\n13.5. Bilgisayarla Kaset Döşeme Plan Bilgileri Yazımı",
+      "KAZANIM": "Kaset döşeme donatılarını CAD programında komutlarla kurallara uygun olarak çizer.\nKaset döşeme kesitlerini CAD programında komutlarla kurallara muygun olarak çizer.\nKaset döşeme planı bilgilerini CAD programında komutlarla  kurallara uygun olarak yazar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "7",
+      "KONU": "14. BİLGİSAYARLA KONUT BİNASI DİKDÖRTGEN VE TABLALI KİRİŞ DONATI AÇILIM DETAYLARI ÇİZİMİ\n14.1. Bilgisayarla Dikdörtgen Kesitli Kiriş Açılım ve Detayları Çizimi\n14.2. Bilgisayarla Tablalı Kiriş Açılım ve Detayları Çizimi\n14.3. Bilgisayarla Ters Kiriş Açılım ve Detayları Çizimi",
+      "KAZANIM": "2. Dönem 2. Sınav Dikdörtgen kesitli kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.\nTablalı kiriş açılım ve detaylarını CAD programında uygun olarak çizer.\nTers kiriş açılım ve detaylarını CAD programında uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "7",
+      "KONU": "15. BİLGİSAYARLA KONUT BİNASI NERVÜRLÜ VE KONSOLLU KİRİŞ DONATI AÇILIM DETAYLARI ÇİZİMİ\n15.1. Bilgisayarla Nervürlü Kiriş Açılım ve Detayları Çizimi\n15.2. Bilgisayarla Konsol Kiriş Açılım ve Detayları Çizimi\n15.3. Bilgisayarla Yatık Kiriş Açılım ve Detayları Çizimi",
+      "KAZANIM": "Nervürlü kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.\nKonsol kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.\nYatık kiriş açılım ve detaylarını CAD programında kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "7",
+      "KONU": "16. BİLGİSAYARLA KONUT BİNASI MERDİVEN VE ASANSÖR PERDE DUVAR DETAYLARI ÇİZİMİ\n16.1. Bilgisayarla Merdiven Donatı Planı Merdiven Kiriş Detayı ve Açılımlar Çizimi\n16.2. Bilgisayarla Asansör Perde Duvar ve Donatı Detayları Çizimi\n16.3. Bilgisayarla Betonarme Perde Duvar Donatı ve Açılım Detayları Çizimi  \n2.Dönem 2.Sınav",
+      "KAZANIM": "Merdiven donatı planı merdiven kiriş detayı ve açılımlarını CAD programında kurallara uygun olarak çizer.\nBilgisayarla asansör perde duvar ve donatı detaylarını CAD programında kurallara uygun olarak çizer.\nBetonarme perde duvar donatı ve açılımlarını CAD programında kurallara uygun olarak çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

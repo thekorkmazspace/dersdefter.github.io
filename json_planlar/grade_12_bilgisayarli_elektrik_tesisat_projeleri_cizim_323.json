@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "BİLGİSAYARLI ELEKTRİK TESİSAT PROJELERİ ÇİZİM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "Modül BİLGİSAYARDA ÇİZİM \n1. İKİ BOYUTLU ÇİZİM PROGRAMI\n1. 1. Programın Özellikleri\n1.1.1. Programın Yüklenmesi \n1.1.2. Programın Çalıştırılması \nDemokrasinin önemi",
+      "KAZANIM": "A. Zararlı yazılımlardan uzak durarak lisanslı iki boyutlu çizim programını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "1.1.3. Programın Tanıtılması \n1.1.4. Şablonların Tanıtılması\n1.1.5. Teknik Özellikleri\n1.2. Ana Menünün ve Araç Çubuklarının Tanıtımı \n1.2.1. Dosya Açma Kapama \n1.2.2. Önceden Kaydedilmiş Çizim Dosyasını Açmak",
+      "KAZANIM": "A. Zararlı yazılımlardan uzak durarak lisanslı iki boyutlu çizim programını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "1.2.3. Dosya Kaydetme ve İsimlendirme\n1.2.4. Kayıtlı Dosyada Değişiklik Yapma \n1.2.5. Programı Kapatma ve Çıkma\n1.2.6. Büyütme ve Küçültme \n1.2.7. Biçimlendirme Hizalama Döndürme ve Gruplama",
+      "KAZANIM": "A. Zararlı yazılımlardan uzak durarak lisanslı iki boyutlu çizim programını kullanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "2. İKİ BOYUTLU ÇİZİM UYGULAMALARI\n2.1. Çizgi Çeşitleri \n2.2. Çizgiyi Taşıma Boyutlandırma Döndürme ve Kopyalama \n2.3. Çizgi Biçimlendirme",
+      "KAZANIM": "B. Meslek resim kurallarına göre iki boyutlu çizim programı uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "2.4. Birden Fazla Çizgiyi Gruplama \n2.5. Çizginin Kullanıldığı Yere Göre Uygulamalar\n2.6. Norm Yazı İsocpeur Ekleme \n2.7. Doğruya Dik Çizme",
+      "KAZANIM": "B. Meslek resim kurallarına göre iki boyutlu çizim programı uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "2.8. Açılı Doğru Çizme \n2.9. Geometrik Şekillerin Çizimi \n2.10. Geometrik Şekillerin Ölçülendirilmesi \n2.11. Katman Layer Düzenleme",
+      "KAZANIM": "B. Meslek resim kurallarına göre iki boyutlu çizim programı uygulamalarını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "Modül AYDINLATMA PROJELERİ\n1. AYDINLATMA HESABI\n1.1. Aydınlatma Tanımı\n1.2. İyi Bir Aydınlatmanın Sağlayacağı Faydalar\n1.3. Işık Akısı Tanımı \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile katalog bilgilerinden faydalanarak aydınlatma hesabını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "1.4. Aydınlık Şiddeti Tanımı\n1.5. Aydınlatma Hesabı\n1.6. Elektrik İç Tesisleri Yönetmeliği\n1.7. Aydınlatma Hesabı Yapan Bilgisayar Programı İncelenmesi \n1.Dönem 1.Sınav",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile katalog bilgilerinden faydalanarak aydınlatma hesabını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "2. PROJE ÇİZME\n2.1. Aydınlatma Priz Zayıf Akım Sembolleri Çizimi\n2.2. Çizilmiş Bir Projenin İncelenmesi\n2.3. Mimari Plan Özellikleri ve Proje Ölçekleri\n2.4. Proje Kapağı Çizimi\n2.5. Vaziyet Planı Özellikleri ve Çizimi \nAtatürkün eğitime ve bilime verdiği önem",
+      "KAZANIM": "1. Dönem 1. Sınav B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre aydınlatma priz ve zayıf akım tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "2.6. Proje Çiziminde Uyulacak Kurallar\n2.7. Elektrik Projeleri Uygulama Standartları \n2.8. Mimari Plan Üzerinde\n2.9. Elektrik Tesisleri İç Tesisat Yönetmeliği\n2.10. Bayındırlık Bakanlığı Elektrik Tesisatı Genel Teknik Şartnamesi\n2.11. Fen Adamları Yönetmeliği",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre aydınlatma priz ve zayıf akım tesisat projesini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "3. KOLON ŞEMASI\n3.1. Kolon Şeması\n3.1.1.Tanımı\n3.1.2.Kolon şemasının çizimi\n3.2. Gerilim Düşümü ve Akım Kontrolü\n3.2.1.Gerilim düşümü yapılacak hat seçimi\n3.2.2.Gerilim düşümünde kullanılan formül",
+      "KAZANIM": "C. İki boyutlu çizim programı yardımı ile kolon şemasını çizer gerilim düşümü ve maliyet hesabını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "3.2.3.Gerilim düşümü sınırları\n3.2.4.Kabloların taşıyacağı akım kapasite tablosu\n3.2.5.Akım kontrolü hesabı\n3.2.6.Seçilen kablonun uygunluğunun kontrolü\n3.3. Yükleme Cetvelini Hazırlamak\n3.4. Maliyet Hesabını Yapma\n3.5. Formları ve Şartnameleri Hazırlama",
+      "KAZANIM": "C. İki boyutlu çizim programı yardımı ile kolon şemasını çizer gerilim düşümü ve maliyet hesabını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "4. AYDINLATMA TABLOLARI\n4.1. Aydınlatma Tabloları\n4.1.1.Tanımı\n4.1.2.Çizilmiş tablo çiziminin incelenmesi",
+      "KAZANIM": "D. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre aydınlatma tabloları çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "4.1.3.Tablo çiziminde dikkat edilecek hususlar\n4.1.4.Kat tablosu çizimi\n4.1.5.Sayaç tablosu çizimi\n4.1.6.Tablolarla ilgili yönetmelik ve şartnameler",
+      "KAZANIM": "D. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre aydınlatma tabloları çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "Modül ZAYIF AKIM PROJELERİ\n1. Zayıf akım tesisat sembolleri\n2. Zil kapı otomatiği tesisat proje çiziminde uyulacak kurallar\n3. Zil kapı otomatiği tesisat projesi çizim yöntemler\n4. Elektrik tesisat projesi çizim programı ile zil kapı otomatiği tesisat projesi çizimi",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre zayıf akım tesisat projesi çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "5. Diyafon tesisat proje çiziminde uyulacak kurallar\n6. Diyafon tesisat projesi çizim yöntemleri\n7. Elektrik tesisat projesi çizim programı ile diyafon tesisat projesi çizimi \n1.Dönem 2.Sınav",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre zayıf akım tesisat projesi çizer."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "8. Haberleşme tesisat sembolleri\n9. İnternet güvenlik tesisat proje çiziminde uyulacak kurallar\n10. İnternet güvenlik tesisat projesi çizim yöntemleri\n11. Elektrik tesisat projesi çizim programı ile internet güvenlik tesisat projesi çizimi",
+      "KAZANIM": "1. Dönem 2. Sınav B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre haberleşme tesisat projesi çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "12. Anten uydu tesisat proje çiziminde uyulacak kurallar\n13. Anten uydu tesisat projesi çizim yöntemleri\n14. Elektrik tesisat projesi çizim programı ile anten uydu tesisat projesi çizimi",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre haberleşme tesisat projesi çizer."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "Modül KUVVET PROJELERİ\n1. KUVVET TESİSATI\n1.1. Kuvvetli Akım Sembolleri Çizimi\n1.2. Çizilmiş Projenin İncelenmesi",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre kuvvet tesisatı projesi çizer."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "1.3. Proje Çiziminde Uyulacak Kurallar\n1.4. Vaziyet Planı ve Proje Kapağı Çizimi\n1.5. Kuvvet Projesi",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre kuvvet tesisatı projesi çizer."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "1.5.1. Kuvvet tesisatı projesi çizimi\n1.5.2. Kuvvet tesisinin aydınlatma projesi çizimi\n1.6. İç Tesisleri Yönetmeliği\n1.7. Kuvvetli Akım Tesisleri Yönetmeliği",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre kuvvet tesisatı projesi çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "2. KOLON ŞEMASI\n2.1. Kolon ŞemasıEnerji Dağıtım Şeması\n2.1.1. Tanımı\n2.1.2. Kolon şemasının çizimi\n2.2. Gerilim Düşümü ve Akım Kontrolü\n2.2.1. Gerilim düşümü yapılacak hat seçimi",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre kolon şemasını çizerek gerilim düşümü ve maliyet hesabını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "2.2.2. Gerilim düşümünde kullanılan formül\n2.2.3. Gerilim düşümü sınırları\n2.2.4. Kabloların taşıyacağı akım kapasite tablosu\n2.2.5. Akım kontrolü hesabı\n2.2.6. Seçilen kablonun uygunluğunun kontrolü\n2.3. Kompanzasyon Hesabını Yapma",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre kolon şemasını çizerek gerilim düşümü ve maliyet hesabını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "2.4. Atölye Aydınlatma Tablosunu Hazırlama\n2.5. Yükleme Cetvelini Hazırlamak\n2.6. Maliyet Hesabını Yapma\n2.7. Formları ve Şartnameleri Hazırlama\n2.8. Kuvvetli Akım Tesisleri Yönetmeliği",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre kolon şemasını çizerek gerilim düşümü ve maliyet hesabını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "3. KUVVET TABLOLARI\n3.1. Kuvvet Tabloları\n3.1.1. Tanımı\n3.1.2. Çizilmiş tablo çiziminin incelenmesi \nAtatürkün vatan ve millet sevgisi",
+      "KAZANIM": "C. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre kuvvet dağıtım tablo ve panolarının çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "3.1.3. Tablo çiziminde dikkat edilecek hususlar\n3.1.4. Kuvvet tablosu ve bağlantı şeması çizimi\n3.1.5. Kompanzasyon pano çizimi\n3.2. Tablo ve Panolarla İlgili Yönetmelik Teknik Şartnameler \n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav C. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre kuvvet dağıtım tablo ve panolarının çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "Modül DIŞ AYDINLATMA PROJELERİ\n1. DIŞ AYDINLATMA\n1.1. Dış Aydınlatma Hesapları\n1.1.1. Dış aydınlatmada aydınlık şiddetleri değerleri\n1.1.2. Aydınlatma araçlarının özellikleri",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile dış aydınlatma hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "1.1.3. Yol kavşak meydan aydınlatılmasında kullanılacak armatürlerin yerleştirilmesi\n1.1.4. Aydınlatma yapılacak yerde bulunacak armatür sayı ve yerleri\n1.2. Bilgisayar Ortamındaki Aydınlatma Hesabı Programının İncelenmesi",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile dış aydınlatma hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "2. DIŞ AYDINLATMA PROJELERİ\n2.1. Çizilmiş Örnek Dış Aydınlatma Projesini İnceleme\n2.2. Dış Aydınlatma Sembolleri Çizimi\n2.3. Dış Aydınlatma Proje Ölçekleri\n2.4. Dış Aydınlatma Projesi Çizimi \nÇocuk insan sevgisi ve evrensellik",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına uygun dış aydınlatma projesi ve armatür detayını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.5. Çevre Aydınlatma Direk ve Çim Armatür Detayı Çizimi\n2.6. Sokak Aydınlatma Direği Detayı Çizimi\n2.7. Kanal Detayı Çizimi\n2.8. Yönetmelik Ve Şartnameler",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına uygun dış aydınlatma projesi ve armatür detayını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "3. DIŞ AYDINLATMA PROJELERİ KOLON ŞEMASI\n3.1. Kuvvetli Akım Kolon Şeması Çizimi\n3.2. Gerilim Düşümü ve Akım Kontrolü\n3.2.1. Gerilim düşümünde kullanılan formül\n3.2.2. Gerilim düşümü sınırları",
+      "KAZANIM": "C. İki boyutlu çizim programı yardımı ile kolon şemasını çizerek gerilim düşümü ve maliyet hesabını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "3.2.3. Kabloların taşıyacağı akım kapasite tablosu\n3.2.4. Akım kontrolü hesabı\n3.2.5. Seçilen kablonun uygunluğunun kontrolü\n3.3. Yükleme Cetvelini Hazırlama\n3.4. Maliyet Hesabını Yapma\n3.5. Kuvvetli Akım Tesisleri Yönetmeliği \nAtatürkçü düşüncede yer alan temel fikirler",
+      "KAZANIM": "C. İki boyutlu çizim programı yardımı ile kolon şemasını çizerek gerilim düşümü ve maliyet hesabını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "Modül TOPRAKLAMA PROJELERİ\n1. TEMEL TOPRAKLAMA PROJE ÇİZİMİ\n1.1. Topraklama Proje Ölçek ve Sembolleri\n1.2. Çizilmiş Topraklama Projelerini İnceleme",
+      "KAZANIM": "A. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre temel topraklama planını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "1.3. Temel Topraklama Planı Çizimi\n1.4. Topraklamalar Yönetmeliği\n1.5. İç Tesisleri Yönetmeliği\n1.6. Fen Adamları Yönetmeliği \n2.Dönem 2.Sınav",
+      "KAZANIM": "2. Dönem 2. Sınav A. İki boyutlu çizim programı yardımı ile teknik ve meslek resim kurallarına göre temel topraklama planını çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "2. TOPRAKLAMA PROJESİ HESAPLARI\n2.1. Temel Topraklaması Hesabı\n2.1.1. Hesaplamalarda kullanılan değerler",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile temel topraklama proje hesaplamalarının standartlara uygunluğunu kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "2.1.2. Hesaplanacak değerler\n2.1.3. Standart direnç sınır değeri uygunluk kontrolü\n2.2. Topraklamalar Yönetmeliği",
+      "KAZANIM": "B. İki boyutlu çizim programı yardımı ile temel topraklama proje hesaplamalarının standartlara uygunluğunu kontrol eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

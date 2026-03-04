@@ -1,0 +1,339 @@
+{
+  "sinif": "11",
+  "ders": "OTOMATİK KONTROL SİSTEMLER",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ HİDROLİK DEVRE ELEMANLARI\n1.\tHİDROLİK DEVRE ELEMANLARINI SEÇİMİ \n1.1.\tHidrolik sistemin yapısı ve çalışma kuralları \n1.2.\tHidrolik Sistemin üstün ve zayıf yönleri",
+      "KAZANIM": "Hidrolik devre elemanları seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "6",
+      "KONU": "1.3.\tHidrolik elemanların görev ve sembolleri\n1.4.\tHidrolik kurallar ve sistem hesaplamaları",
+      "KAZANIM": "Hidrolik devre elemanları seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "6",
+      "KONU": "2.\tHİDROLİK DEVRE ÇİZİMLERİ\n2.1.\tHidrolik semboller",
+      "KAZANIM": "Hidrolik devre çizimleri yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "6",
+      "KONU": "2.2.\tŞematik grafikler \n2.3.\tHidrolik sembollerle devreler çizimi",
+      "KAZANIM": "Hidrolik devre çizimleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "6",
+      "KONU": "3.\tHİDROLİK DEVRE ELEMANLARI MONTAJI\n3.1.\tMontaj yapma \n3.2.\tMontaj yapmada dikkat edilecek hususlar",
+      "KAZANIM": "Hidrolik devre elemanları montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "6",
+      "KONU": "3.3.\tGüvenli tesisat montajı",
+      "KAZANIM": "Hidrolik devre elemanları montajı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "6",
+      "KONU": "3.4.\tHidrolik devre elemanlarının montajı",
+      "KAZANIM": "Hidrolik devre elemanları montajı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "6",
+      "KONU": "4.\tHİDROLİK BORU MONTAJI\n4.1.\tHidrolik devrede kullanılan boruların seçimi  \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Hidrolik boru montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "6",
+      "KONU": "4.2.\tDevre özelliklerine göre boruların bükülmesi",
+      "KAZANIM": "1. Dönem 1. Sınav Hidrolik boru montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "6",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "6",
+      "KONU": "4.3.\tBoru montajı \n4.4.\tHidrolik hortum montajı",
+      "KAZANIM": "Hidrolik boru montajı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "6",
+      "KONU": "5.\tHİDROLİK AKIŞKAN SEÇİMİ\n5.1.\tYağlama ve hidrolik akışkan seçiminin önemi",
+      "KAZANIM": "Hidrolik akışkan seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "6",
+      "KONU": "5.2.\tYağlama devrelerinde soğutma sisteminin önem ve gereği",
+      "KAZANIM": "Hidrolik akışkan seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ  HİDROLİK DEVRELERDE BAKIM PLANI\n1.\tHİDROLİK SİSTEM BAKIM PLANI HAZIRLAMA\n1.1.\tBakımı planı hazırlama",
+      "KAZANIM": "Bakım planı ve tamirat dosyasını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "6",
+      "KONU": "1.2.\tBakım dosyası hazırlama\n1.3.\tTamirat planı",
+      "KAZANIM": "Bakım planı ve tamirat dosyasını hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "6",
+      "KONU": "2.\tHİDROLİK SİSTEMLERDE ARIZA ARAMA\n2.1.\tArıza arama çizelgeleri",
+      "KAZANIM": "Arızalı tesisatları sökerek bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "6",
+      "KONU": "2.2.\tSistemlerde arıza arama\n2.3.\tHidrolik arıza aramalarında kullanılan aletler ve göstergeler \n1.Dönem 2.Sınav",
+      "KAZANIM": "Arızalı tesisatları sökerek bakımını yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "6",
+      "KONU": "2.4.\tArızalı tesisatları sökülerek bakımının yapımı",
+      "KAZANIM": "1. Dönem 2. Sınav Arızalı tesisatları sökerek bakımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ  HİDROLİK DEVRE ELEMANLARI BAKIM VE ONARIMI\n1.\tHİDROLİK VALFLERDE ARIZA ARAMA\n1.1.\tValflerde arıza arama yöntemleri \n1.2.\tPompalarda arıza arama",
+      "KAZANIM": "Hidrolik valflerde arıza arar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "6",
+      "KONU": "1.2.\tPompalarda arıza arama \n1.3.\tHidrolik valflerde bakım",
+      "KAZANIM": "Hidrolik valflerde arıza arar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "6",
+      "KONU": "2.\tHİDROLİK SİLİNDİRLERDE ARIZA ARAMA \n2.1.\tSilindirlerde arıza arama yöntemleri",
+      "KAZANIM": "Hidrolik silindirlerde arıza arar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "6",
+      "KONU": "2.2.\tSilindirlerde bakım",
+      "KAZANIM": "Hidrolik silindirlerde arıza arar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "6",
+      "KONU": "3.\tHİDROLİK POMPA VE MOTORLARDA  ARIZA ARAMA\n3.1.\tPompa ve motorlarda arıza arama yöntemleri",
+      "KAZANIM": "Hidrolik pompa ve motorlarda arıza arar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "6",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "6",
+      "KONU": "3.2.\tPompa ve motorlarda bakım",
+      "KAZANIM": "Hidrolik pompa ve motorlarda arıza arar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ PNÖMATİK DEVRE ELEMANLARI\n1.\tPNÖMATİK DEVRE ELEMANLARI SEÇİMİ \n1.1.\tPnömatik sistemin yapısı ve çalışma kuralları \n1.2.\tPnömatik sistemin üstün ve zayıf yönleri",
+      "KAZANIM": "Pnömatik devre elemanları seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "6",
+      "KONU": "1.3.\tPnömatik elemanların görev ve sembolleri \n1.4.\tPnömatik kurallar ve sistem hesaplamaları \n\n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Pnömatik devre elemanları seçimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "6",
+      "KONU": "2.\tPNÖMATİK DEVRE ÇİZİMİ\n2.1.\tPnömatik grafik tipleri \n2.2.\tGrafiklerin şematiğin özellikleri",
+      "KAZANIM": "Pnömatik devre çizimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "6",
+      "KONU": "2.3.\tSembollerle devre çizimi",
+      "KAZANIM": "Pnömatik devre çizimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "6",
+      "KONU": "3.\tPNÖMATİK DEVRE ELEMANLARI MONTAJI\n3.1.\tMontaj yapılacak devre elemanlarının hazırlanması",
+      "KAZANIM": "Pnömatik devre elemanları montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "6",
+      "KONU": "3.2.\tBoru montajı yapabilmek için gereken elemanların hazırlanması \n3.3.\tTüp-tipi boru montajı",
+      "KAZANIM": "Pnömatik devre elemanları montajını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "6",
+      "KONU": "4.\tPNÖMATİK-HİDROLİK SİSTEMLER KURULUMU\n4.1. Makine hava-yağ yükselticilerinin kontrolü",
+      "KAZANIM": "Pnömatik-Hidrolik sistemler kurulumu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "6",
+      "KONU": "4.2. Basınç yükselticilerinin kontrolü",
+      "KAZANIM": "Pnömatik-Hidrolik sistemler kurulumu yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ PNÖMATİK DEVRELERDE BAKIM PLANI\n1.\tPNÖMATİK SİSTEM BAKIM PLANI HAZIRLAMA\n1.1.\tSistem bakım planı hazırlama",
+      "KAZANIM": "Pnömatik sistem bakım planı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "6",
+      "KONU": "1.2.\tBakım dosyası ve tamirat planı",
+      "KAZANIM": "2. Dönem 2. Sınav Pnömatik sistem bakım planı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "6",
+      "KONU": "1.3.\tKompresör ve sistem bakımı",
+      "KAZANIM": "Pnömatik sistem bakım planı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "6",
+      "KONU": "2.\tPNÖMATİK SİSTEMLERDE ARIZA ARAMA\n2.1.\tSistemlerde arıza arama teknikleri \n2.Dönem 2.Sınav",
+      "KAZANIM": "Pnömatik sistemlerde arıza arar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "sinif": "6",
+  "ders": "BİLİŞİM TEKNOLOJİLERİ VE YAZILIM",
+  "kaynak": "TYMM 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n8 Eylül-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+      "KONU": "BTY.6.1.2: Bilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme\nSDB1.1: Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nBTY.6.1.1: Yenilikçi bilişim teknolojilerini sınıflandırabilme",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nBilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme\nYenilikçi bilişim teknolojilerini sınıflandırabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15 Eylül-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+      "KONU": "",
+      "KAZANIM": "Kendini Tanıma (Öz Farkındalık) SDB1.2. Kendini Düzenleme (Öz Düzenleme) SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22 Eylül-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+      "KONU": "",
+      "KAZANIM": "Bilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+      "KONU": "",
+      "KAZANIM": "Bilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n6 Ekim-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+      "KONU": "",
+      "KAZANIM": "Bilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13 Ekim-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Teknolojilerinin Hayatımızdaki Yeri",
+      "KONU": "",
+      "KAZANIM": "Bilişim teknolojinin gelecekteki durumlarına yönelik çıkarım yapabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20 Ekim-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "BTY.6.2.5: Ses düzenleme programlarından yararlanabilme BTY.6.2.6. Ses dosyası için kurgu oluşturabilme\nBTY.6.2.2: Tablolama programlarının kullanımına yönelik problemleri belirleyebilme BTY.6.2.3. Tablolama dosyasında kullanılacak verileri toplayabilme ve düzenleyebilme BTY.6.2.4. Tablolama programları\nBTY.6.2.1: Tablolama programlarından yararlanabilme",
+      "KAZANIM": "Video düzenleme programlarından yararlanabilme BTY.6.2.9. Video dosyası için kurgu oluşturabilme\nTablolama programlarının kullanımına yönelik problemleri belirleyebilme BTY.6.2.3. Tablolama dosyasında kullanılacak verileri toplayabilme ve düzenleyebilme BTY.6.2.4. Tablolama programları kullanarak bulgulara ulaşabilme\nTablolama programlarından yararlanabilme\nSes düzenleme programlarından yararlanabilme BTY.6.2.6. Ses dosyası için kurgu oluşturabilme\nSes dosyası geliştirebilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Tablolama programlarının kullanımına yönelik problemleri belirleyebilme BTY.6.2.3. Tablolama dosyasında kullanılacak verileri toplayabilme ve düzenleyebilme BTY.6.2.4. Tablolama programları kullanarak bulgulara ulaşabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n3 Kasım-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Ses düzenleme programlarından yararlanabilme BTY.6.2.6. Ses dosyası için kurgu oluşturabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10 Kasım-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Ses dosyası geliştirebilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17 Kasım-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video düzenleme programlarından yararlanabilme BTY.6.2.9. Video dosyası için kurgu oluşturabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24 Kasım-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video dosyası geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n1 Aralık-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video dosyası geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n8 Aralık-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video dosyası geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15 Aralık-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video dosyası geliştirebilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22 Aralık-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video dosyası geliştirebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video dosyası geliştirebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n5 Ocak-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video dosyası geliştirebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12 Ocak-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Ürün Tasarım ve Geliştirme",
+      "KONU": "",
+      "KAZANIM": "Video dosyası geliştirebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19 Ocak-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayar Ağları ve İletişim",
+      "KONU": "BTY.6.3.1: İnternet ile amacına uygun olarak çalışabilme BTY.6.3.2. İletişim teknolojilerini sınıflandırabilme",
+      "KAZANIM": "İnternet ile amacına uygun olarak çalışabilme BTY.6.3.2. İletişim teknolojilerini sınıflandırabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n26 Ocak-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayar Ağları ve İletişim",
+      "KONU": "",
+      "KAZANIM": "İnternet ile amacına uygun olarak çalışabilme BTY.6.3.2. İletişim teknolojilerini sınıflandırabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n2 Şubat-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayar Ağları ve İletişim / Bilişim Etiği ve Siber Güvenlik",
+      "KONU": "BTY.6.3.3: İletişim teknolojileri ile çalışabilme BTY.6.4.1. Bilişim etiği kapsamında güvenlik önlemlerini yönetebilme",
+      "KAZANIM": "İletişim teknolojileri ile çalışabilme BTY.6.4.1. Bilişim etiği kapsamında güvenlik önlemlerini yönetebilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n9 Şubat-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgisayar Ağları ve İletişim / Bilişim Etiği ve Siber Güvenlik",
+      "KONU": "",
+      "KAZANIM": "İletişim teknolojileri ile çalışabilme BTY.6.4.1. Bilişim etiği kapsamında güvenlik önlemlerini yönetebilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16 Şubat-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Etiği ve Siber Güvenlik",
+      "KONU": "BTY.6.4.2.Telif: hakkı kavramını sorgulayabilme BTY.6.4.3. Siber ortamda güvenlik önlemlerini yönetebilme",
+      "KAZANIM": "hakkı kavramını sorgulayabilme BTY.6.4.3. Siber ortamda güvenlik önlemlerini yönetebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n23 Şubat-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Etiği ve Siber Güvenlik",
+      "KONU": "",
+      "KAZANIM": "hakkı kavramını sorgulayabilme BTY.6.4.3. Siber ortamda güvenlik önlemlerini yönetebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n2 Mart-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Etiği ve Siber Güvenlik / Yapay Zekâ",
+      "KONU": "BTY.6.4.4.Kullanım: haklarına göre lisans türlerini karşılaştırabilme BTY.6.5.1. Yapay zekâ girdileri hakkında bilgi toplayabilme",
+      "KAZANIM": "haklarına göre lisans türlerini karşılaştırabilme BTY.6.5.1. Yapay zekâ girdileri hakkında bilgi toplayabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n9 Mart-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Bilişim Etiği ve Siber Güvenlik / Yapay Zekâ",
+      "KONU": "",
+      "KAZANIM": "haklarına göre lisans türlerini karşılaştırabilme BTY.6.5.1. Yapay zekâ girdileri hakkında bilgi toplayabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16 Mart-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Yapay Zekâ",
+      "KONU": "SDB1.2: Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nBTY.6.5.2: Yapay zekâ araç ve teknolojileri ile çalışabilme\nBTY.6.5.1: Yapay zekâ girdileri hakkında bilgi toplayabilme",
+      "KAZANIM": "Yapay zekâ araç ve teknolojileri ile çalışabilme\nKendini Düzenleme (Öz Düzenleme) SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nYapay zekâ girdileri hakkında bilgi toplayabilme\nYapay zekâ araç ve teknolojileri ile model geliştirebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23 Mart-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Yapay Zekâ",
+      "KONU": "",
+      "KAZANIM": "Kendini Düzenleme (Öz Düzenleme) SDB1.3. Kendine Uyarlama (Öz Yansıtma) SDB2.1. İletişim SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-3 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Yapay Zekâ",
+      "KONU": "",
+      "KAZANIM": "Yapay zekâ araç ve teknolojileri ile çalışabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n6 Nisan-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Yapay Zekâ",
+      "KONU": "",
+      "KAZANIM": "Yapay zekâ araç ve teknolojileri ile model geliştirebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13 Nisan-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Yapay Zekâ",
+      "KONU": "",
+      "KAZANIM": "Yapay zekâ araç ve teknolojileri ile model geliştirebilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20 Nisan-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Yapay Zekâ",
+      "KONU": "",
+      "KAZANIM": "Yapay zekâ araç ve teknolojileri ile model geliştirebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Yapay Zekâ",
+      "KONU": "",
+      "KAZANIM": "Yapay zekâ araç ve teknolojileri ile model geliştirebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n4 Mayıs-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Yapay Zekâ",
+      "KONU": "",
+      "KAZANIM": "Yapay zekâ araç ve teknolojileri ile model geliştirebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11 Mayıs-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Yazılım Tasarımı ve Programlama",
+      "KONU": "BTY.6.6.1: Blok tabanlı ortamda yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme\nBTY6.6.3: Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme\nBTY.6.6.2: Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme",
+      "KAZANIM": "Blok tabanlı ortamda yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme\nBlok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme\nBlok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18 Mayıs-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Yazılım Tasarımı ve Programlama",
+      "KONU": "",
+      "KAZANIM": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n25 Mayıs-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Yazılım Tasarımı ve Programlama",
+      "KONU": "",
+      "KAZANIM": "Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n1 Haziran-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Yazılım Tasarımı ve Programlama",
+      "KONU": "",
+      "KAZANIM": "Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n8 Haziran-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Yazılım Tasarımı ve Programlama",
+      "KONU": "",
+      "KAZANIM": "Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15 Haziran-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Yazılım Tasarımı ve Programlama",
+      "KONU": "",
+      "KAZANIM": "Blok tabanlı ortamda yapay zekâ destekli ürün ortaya koyabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22 Haziran-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİNLİK / DEĞERLENDİRME",
+      "KONU": "Dönem değerlendirmesi ve etkinlikler",
+      "KAZANIM": ""
+    }
+  ]
+}

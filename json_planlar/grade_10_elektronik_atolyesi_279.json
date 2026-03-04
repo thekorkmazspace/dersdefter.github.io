@@ -1,0 +1,338 @@
+{
+  "sinif": "10",
+  "ders": "ELEKTRONİK ATÖLYESİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "9",
+      "KONU": "ÖĞRENME BİRİMİ 1 ANAHTARLAMA DEVRELERİ\n1.1. ARIZA ARAMA YÖNTEMLERİ \n1.1.1. Arıza Tespiti \n1.1.2. Arıza Giderme Yöntemleri \n1.2. RÖLELİ ANAHTARLAMA DEVRELERİ \n1.2.1. Manyetik Rölenin Yapısı \n1.2.2. Manyetik Röle Üzerindeki Değerlerin Anlamları \n1.2.3. Manyetik Rölenin Çalışma Prensibi \nDemokrasinin önemi",
+      "KAZANIM": "Arıza arama yöntemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "9",
+      "KONU": "1.2.4. Röleler İçin Koruma Diyotları \n1.2.5. Röle Arızaları ve Sebepleri \nTEMRİN 1 Röle Uçlarının Bulunması \nTEMRİN 2 Röle İle Mühürleme \nTEMRİN 3 Röle İle Motor Yönü Değiştirme\n1.3. TRANSİSTÖRLÜ ANAHTARLAMA DEVRELERİ \n1.3.1. Transistörün Anahtar Olarak Kullanımı",
+      "KAZANIM": "Röleli anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "9",
+      "KONU": "1.3.2. Transistörlü Zaman Gecikmeli Devreler \n1.3.3. Schmitt Şimit Trigger Tiriger-Tetikleyici Devresi \nTEMRİN 4 Transistörün Anahtar Olarak Kullanımı \nTEMRİN 5 Transistörün Potansiyometre Ile Anahtarlanması \nTEMRİN 6 Zaman Gecikmeli Çalışan Devre Turn On \nTEMRİN 7 Zaman Gecikmeli Duran Devre Turn Off \nTEMRİN 8 Transistörlü Schmitt Trigger Devresi",
+      "KAZANIM": "Transistörlü anahtarlama devreleri yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "9",
+      "KONU": "1.4. FET VE MOSFETLİ ANAHTARLAMA DEVRELERİ \n1.4.1. FET Field Effect Transistör Alan Etkili Transistörler \n1.4.2. FET Transistör Çeşitleri \n1.4.3. JFET ve MOSFETin Sağlamlık Kontrolü \nTEMRİN 9 FETli Zaman Gecikmeli Duran Devre \nTEMRİN 10 MOSFETin Sağlamlık Kontrolü \nTEMRİN 11 MOSFET Ile DC Motor Hız Kontrolü",
+      "KAZANIM": "FET ve MOSFETli anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "9",
+      "KONU": "1.5. IGBTLİ ANAHTARLAMA DEVRELERİ \n1.5.1. IGBT \n1.5.2. IGBTnin İçyapısı \n1.5.3. IGBT Çeşitleri \nTEMRİN 12 IGBT Ile Dimmer Uygulaması \n1.6. TRİSTÖRLÜ ANAHTARLAMA DEVRELERİ \n1.6.1. Tristörün Yapısı",
+      "KAZANIM": "IGBTli anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "9",
+      "KONU": "1.6.2. Tristörlerin Çalışması \n1.6.3. Tristörü Tetikleme İletime Geçirme Yöntemleri \n1.6.4. Tristörü Durdurma Kesime Sokma Yöntemleri \n1.6.5. Tristörlerin Uçlarının Tespiti \nTEMRİN 13 Tristörün DCde Tetiklenmesi \nTEMRİN 14 Tristörün Durdurulması Uygulamaları \nTEMRİN 15 Tristörün ACde Çalışması",
+      "KAZANIM": "Tristörlü anahtarlama devreleri yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "9",
+      "KONU": "1.7. TRİYAKLI ANAHTARLAMA DEVRELERİ \n1.7.1. Diyakın Yapısı ve Çalışması \n1.7.2. Triyakın Yapısı \n1.7.3. Triyakların Çalışması \n1.7.4. Triyak Tetikleme Şekilleri \n1.7.5. Triyakın AVOmetre ile Sağlamlık Kontrolü \n1.7.6. Triyakın AVOmetre ile Uçlarının Tespiti \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Triyaklı anahtarlama devreleri yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "9",
+      "KONU": "TEMRİN 16 Triyakın DCde Çalışması \nTEMRİN 17 Triyaklı Dimmer Devresi \n1.8. OPTÖKUPLÖRLÜ ANAHTARLAMA DEVRELERİ \n1.8.1. Optokuplörün Görevi \n1.8.2. Optokuplör Çeşitleri \nTEMRİN 18 Optokuplörün Sağlamlık Kontrolü \nTEMRİN 19 Opto Triyak Ile Flaşör Devresi \n1.Dönem 1.Sınav",
+      "KAZANIM": "Optokuplörlü anahtarlama devreleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "9",
+      "KONU": "ÖĞRENME BİRİMİ 2 SENSÖR UYGULAMALARI\n2.1. SENSÖRLER VE TRANSDÜSERLER \n2.1.1. Sensör ve Transdüserlerin Özellikleri \n2.1.2. Sensör ve Transdüserlerin Çeşitleri \n2.1.3. Kullanım Alanları \n2.1.4. Sensör ve Transdüserlerin Seçiminde Dikkat Edilecek Hususlar \n2.1.5. Sensörler ve Transdüserlerin Çıkış Sinyalleri \nAtatürkün eğitime ve bilime verdiği önem",
+      "KAZANIM": "1. Dönem 1. Sınav Sensörlerin ve transdüserlerin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "9",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "9",
+      "KONU": "2.2. SICAKLIK SENSÖR UYGULAMALARI \n2.2.1. Termistörler Thermistors \n2.2.2. Termokupl Thermocouple \n2.2.3. Rezistans Termometreler RTD-Resistance Temperature Detector \n2.2.4. Termostat \n2.2.5. Entegre Tipi Sıcaklık Sensörü \nTEMRİN 20 NTCli Sıcaklıkta Çalışan Devre Yapımı \nTEMRİN 21 PTCli Sıcaklıkta Çalışan Devre Yapımı",
+      "KAZANIM": "Isı sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "9",
+      "KONU": "TEMRİN 22 Termokupl Uygulaması \nTEMRİN 23 PT100 Uygulaması \nTEMRİN 24 LM35li Sıcaklıkta Çalışan Devre Yapımı \n2.3. MANYETİK SENSÖR UYGULAMALARI \n2.3.1. Reed Röle \n2.3.2. Hall Sensörü \nTEMRİN 25 Reed Röle Dil Kontak Uygulaması \nTEMRİN 26 Manyetik Sensör Hall Sensörü Uygulaması",
+      "KAZANIM": "Manyetik sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "9",
+      "KONU": "2.4. BASINÇ SENSÖR UYGULAMALARI \n2.4.1. Kapasitif Basınç Ölçme Sensörleri \n2.4.2. Rezistif Basınç Kuvvet Algılama Sensörleri \n2.4.3. Piezodirençli Basınç Kuvvet Algılama Sensörleri \n2.4.4. Piezoelektrik Özellikli Basınç Ölçme Sensörleri \n2.4.5. Strain Gauge Gerinim Ölçer Sensörleri \n2.4.6. Load Cell Yük Hücresi Kuvvet Sensörleri \nTEMRİN 27 Piezo Sensörlü Devre Yapımı \nTEMRİN 28 Ağırlık Sensör Uygulaması",
+      "KAZANIM": "Basınç sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "9",
+      "KONU": "2.5. OPTİK SENSÖR UYGULAMALARI \n2.5.1. Foto Direnç LDRLight Dependent Resistor \n2.5.2. Foto Diyot Photo Diode \n2.5.3. Foto Transistör Photo Transistor \n2.5.4. Fotovoltaik Pil PV \nTEMRİN 29 LDRli Karanlıkta Çalışan Devre Yapımı \nTEMRİN 30 Işık LDR Kontrollü Dimmer Uygulaması",
+      "KAZANIM": "Optik sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "9",
+      "KONU": "TEMRİN 31 IR Alıcı Verici \nTEMRİN 32 Kumanda Test Devresi Yapımı \nTEMRİN 33 IR Alıcıyla Yük Kotrolü \nTEMRİN 34 Güneş Pili Uygulaması \n2.6. SES SENSÖR UYGULAMALARI \n2.6.1. Mikrofon Microphone \n2.6.2. Hoparlör Speakers Loudspeakers \nTEMRİN 35 Alkışla Çalışan Devre Yapımı",
+      "KAZANIM": "Ses sensör uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "9",
+      "KONU": "ÖĞRENME BİRİMİ 3 İŞLEMSEL YÜKSELTEÇ DEVRELERİ\n3.1. İŞLEMSEL YÜKSELTEÇLERİN ÖZELLİKLERİ \n3.1.1. Genel Yükselteçler \n3.1.2. İşlemsel Yükselteçlerin Yapısı \n3.1.3. İşlemsel Yükselteçlerin Devreye Bağlanması \n3.1.4. İşlemsel Yükselteçlerde Negatif Geri Besleme",
+      "KAZANIM": "İşlemsel yükselteçlerin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "9",
+      "KONU": "3.2. İŞLEMSEL YÜKSELTEÇ UYGULAMALARI \n3.2.1. Eviren Yükselteç Uygulaması \nTEMRİN 36 Eviren Yükseltecin AC Giriş Uygulaması \nTEMRİN 37 Eviren Yükseltecin DC Giriş Uygulaması \n3.2.2. Evirmeyen Yükselteç Uygulaması \nTEMRİN 38 Evirmeyen Yükseltecin AC Giriş Uygulaması \nTEMRİN 39 Evirmeyen Yükseltecin DC Giriş Uygulaması \n1.Dönem 2.Sınav",
+      "KAZANIM": "İşlemsel yükselteç devre uygulamaları yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "9",
+      "KONU": "3.2.3. Gerilim İzleyici Uygulamasi \nTEMRİN 40 İşlemsel Yükselteçli Gerilim İzleyici Uygulaması \n3.2.4. Karşılaştırıcı Devre Uygulaması \nTEMRİN 41 İşlemsel Yükselteçli Karşılaştırıcı Devre Uygulaması \nTEMRİN 42 LDRli Karşılaştırıcı Devre Uygulaması \nTEMRİN 43 NTCli Karşılaştırıcı Devre Uygulaması",
+      "KAZANIM": "1. Dönem 2. Sınav İşlemsel yükselteç devre uygulamaları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "9",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "9",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "9",
+      "KONU": "TEMRİN 44 İşlemsel Yükselteçli Turn On Devre Uygulaması \nTEMRİN 45 İşlemsel Yükselteçli Turn Off Devre Uygulaması \n3.2.5. Çıkarıcı Devre Uygulaması \nTEMRİN 46 İşlemsel Yükselteçli Çıkarıcı Devre Uygulaması \n3.2.6. Toplayıcı Devre Uygulaması \nTEMRİN 47 İşlemsel Yükselteçli Toplayıcı Devre Uygulaması \n3.2.7. Türev Alıcı Devre Uygulaması \nTEMRİN 48 İşlemsel Yükselteçli Türev Alıcı Devre Uygulaması",
+      "KAZANIM": "İşlemsel yükselteç devre uygulamaları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "9",
+      "KONU": "3.2.8. İntegral Alıcı Devre Uygulaması \nTEMRİN 49 İşlemsel Yükselteçli İntegral Alıcı Devre Uygulaması \n3.2.9. Doğrultmaç Devre Uygulaması \nTEMRİN 50 İşlemsel Yükselteçli Yarım Dalga Doğrultmaç Uygulaması \n3.2.10. Enstrümantasyon Yükselteç Devre Uygulaması \nTEMRİN 51 Enstrümantasyon Yükselteç Devre Uygulaması\n3.2.11. İşlemsel Yükselteçli Schmitt Trigger Devre Uygulaması \nTEMRİN 52 İşlemsel Yükselteçli Schmitt Trigger Devre Uygulaması",
+      "KAZANIM": "İşlemsel yükselteç devre uygulamaları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "9",
+      "KONU": "ÖĞRENME BİRİMİ 4 OSİLATÖR VE FİLTRE DEVRELERİ\n4.1. OSİLATÖR \n4.1.1. LC Osilatörler \n4.1.2. Kristal Osilatörler \n4.1.3. RC Osilatör \n4.1.4. Multivibratörler \nTEMRİN 53 Colpitts Osilatör Devresi Yapımı",
+      "KAZANIM": "Osilatör devrelerini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "9",
+      "KONU": "TEMRİN 54 Hartley Osilatör Devresi Yapımı \nTEMRİN 55 Kristal Osilatör Devresi Yapımı \nTEMRİN 56 RC Faz Kaymalı Osilatör Devresi Yapımı \nTEMRİN 57 Wien Köprü Osilatör Devresi Yapımı \nTEMRİN 58 Transistörlü Tek Kararlı Multivibratör Devresi Yapımı \nTEMRİN 59 Transistörlü Çift Kararlı Multivibratör Devresi Yapımı \nTEMRİN 60 Transistörlü Kararsız Multivibratör Devresi Yapımı",
+      "KAZANIM": "Osilatör devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "9",
+      "KONU": "4.2. PALS DEVRELERİ \n4.2.1. Kırpıcı Devreler Clipping Circuits \n4.2.2. Kenetleyici kilitleme devreleri Clamper Circuits \n4.2.3. Pals Üreteçleri \nTEMRİN 61 Kırpıcı Devreleri Yapımı \nTEMRİN 62 Kenetleyici Devreleri Yapımı",
+      "KAZANIM": "Pals devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "9",
+      "KONU": "TEMRİN 63 Miller Devresi Yapımı \nTEMRİN 64 Boot Strobe Devresi Yapımı \nTEMRİN 65 Schmitt Trigger Devresi Yapımı \nTEMRİN 66 555li Osilatör Devresi Yapımı \nTEMRİN 67 555li PWM Devresi Yapımı \nTEMRİN 68 555li Tek Kararlı Multivibratör Devresi Yapımı \nTEMRİN 69 555li Çift Kararlı Multivibratör Devresi Yapımı",
+      "KAZANIM": "Pals devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "9",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "9",
+      "KONU": "4.3. FİLTRE DEVRELERİ \n4.3.1. Pasif Filtreler \n4.3.2. Aktif Filtreler \nTEMRİN 70 Alçak Geçiren Aktif Filtre Devresi Yapımı \nTEMRİN 71 Yüksek Geçiren Aktif Filtre Devresi Yapımı \nTEMRİN 72 Bant Geçiren Aktif Filtre Devresi Yapımı \nTEMRİN 73 Bant Durduran Aktif Filtre Devresi Yapımı",
+      "KAZANIM": "Filtre devrelerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "9",
+      "KONU": "ÖĞRENME BİRİMİ 5 SES FREKANS DEVRELERİ\n5.1. TRANSİSTÖRLÜ YÜKSELTEÇLER AMPLİFİKATÖR \n5.1.1. Transistörlerde Polarma Metotları \nAtatürkün vatan ve millet sevgisi",
+      "KAZANIM": "Ön amplifikatör yükselteç devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "9",
+      "KONU": "5.1.2. Transistörlü Yükselteçlerde Geri Besleme \n5.1.3. Transistörlü Yükselteçlerde Bağlantı Şekilleri \n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Ön amplifikatör yükselteç devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "9",
+      "KONU": "5.1.4. Transistörlü Yükselteçlerde Çalışma Sınıfları \n5.1.5. Transistörlü Yükselteçlerin Çalışmasını Etkileyen Faktörler",
+      "KAZANIM": "Ön amplifikatör yükselteç devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "9",
+      "KONU": "5.2. YÜKSELTEÇLERDE KUPLAJ YÖNTEMLERI \n5.2.1. Doğrudan Kuplaj \n5.2.2. Direnç-Kondansatör RC Kuplaj",
+      "KAZANIM": "Güç amplifikatör yükselteç devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "9",
+      "KONU": "5.2.2. Direnç-Kondansatör RC Kuplaj \n5.2.3. Transformatörlü Kuplaj \nÇocuk insan sevgisi ve evrensellik",
+      "KAZANIM": "Güç amplifikatör yükselteç devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "9",
+      "KONU": "5.3. SES FREKANS YÜKSELTEÇ DEVRELERI \n5.3.1. Ön Yükselteç Preamplifilatör Devresi \n5.3.2. Ses Karıştırıcı Mikser Devresi",
+      "KAZANIM": "Baz-tiz devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "9",
+      "KONU": "5.3.3. Baz-Tiz Devresi \n5.3.4. Echo Eko Devresi",
+      "KAZANIM": "Baz-tiz devresi yapar.\nEcho devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "9",
+      "KONU": "5.3.5. Vumetre Devresi \n5.3.6. Güç Yükselteç Devresi \nAtatürkçü düşüncede yer alan temel fikirler",
+      "KAZANIM": "Vumetre devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "9",
+      "KONU": "TEMRİN 74 Ön Yükselteç Devresi Yapımı",
+      "KAZANIM": "Ön amplifikatör yükselteç devresini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "9",
+      "KONU": "TEMRİN 75 Mikser Devresi Yapımı \nTEMRİN 76 Bas Tiz Devresi Yapımı \n2.Dönem 2.Sınav",
+      "KAZANIM": "2. Dönem 2. Sınav Baz-tiz devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "9",
+      "KONU": "TEMRİN 77 Eko Devresi Yapımı \nTEMRİN 78 Vumetre Devresi Yapımı",
+      "KAZANIM": "Echo devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "9",
+      "KONU": "TEMRİN 79 14 W Ses Yükselteç Devresi Yapımı \nTEMRİN 80 100 W Ses Yükselteç Devresi Yapımı",
+      "KAZANIM": "Vumetre devresi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "9",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

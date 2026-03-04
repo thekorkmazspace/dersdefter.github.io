@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "EMLAK YÖNETİM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ EMLAK VE MÜŞTERİ PORTFÖYÜ\n1.\tTEMEL EMLAK BİLGİLERİ\n1.1.\tEmlak sektörünü etkileyen unsurlar \n1.2.\tEmlak sektöründeki temel ilkeler",
+      "KAZANIM": "Temel emlak bilgilerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "7",
+      "KONU": "1.3.\tEmlak çeşitleri \n1.4.\tDünyada ve Türkiyede emlakçılık sektörünün gelişimi",
+      "KAZANIM": "Temel emlak bilgilerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "7",
+      "KONU": "2.\tMÜŞTERİ PORTFÖYÜ \n2.1.Müşterilerin satın alma özellikleri",
+      "KAZANIM": "Müşteri portföyünü açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "7",
+      "KONU": "2.2.Emlak taraması",
+      "KAZANIM": "Müşteri portföyünü açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "7",
+      "KONU": "3.\tEMLAK SATIŞINDA TALEP TOPLAMA\n3.1.Talep toplamaya ilişkin dikkat edilecek hususlar \n3.2.Tanıtım ve reklam faaliyetleri",
+      "KAZANIM": "Emlak satışında talep toplamayı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "7",
+      "KONU": "3.3.Taleplerin sınıflandırılması",
+      "KAZANIM": "Emlak satışında talep toplamayı açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "7",
+      "KONU": "4.\tEMLAK ALIM SATIM VE KİRALAMA\n4.1.Emlakın özellikleri \n4.2.Emlak alım satım işlemleri süreci",
+      "KAZANIM": "Emlak alım satım ve kiralamayı açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "7",
+      "KONU": "4.3.Alım satımdan vazgeçme durumundaki önlemler   \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Emlak alım satım ve kiralamayı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "7",
+      "KONU": "4.4.Kiraya verme ve kiralama sonucu elde edilecek faydalar",
+      "KAZANIM": "1. Dönem 1. Sınav Emlak alım satım ve kiralamayı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "7",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "7",
+      "KONU": "4.5.Kiralanmadığında karşılaşılabilecek problemler",
+      "KAZANIM": "Emlak alım satım ve kiralamayı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ EMLAK SÖZLEŞMELERİ VE EMLAK VERGİSİ İŞLEMLERİ\n1.\tKİRALAMA SÖZLEŞMESİ\n1.1.\tYetki belgesi \n1.2.\tYer gösterme sözleşmesi düzenleme basamakları",
+      "KAZANIM": "Kiralama sözleşmesi hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "7",
+      "KONU": "1.3.\tKira kontratı hazırlama sürecindeki işlemler",
+      "KAZANIM": "Kiralama sözleşmesi hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "7",
+      "KONU": "2.\tALIM SATIM SÖZLEŞMESİ\n2.1.Yetki belgesini hazırlama\n2..2.Yer gösterme sözleşmesi",
+      "KAZANIM": "Alım satım sözleşmesi hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "7",
+      "KONU": "2.3.Alım satım hizmet sözleşmesi",
+      "KAZANIM": "Alım satım sözleşmesi hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "7",
+      "KONU": "3.\tEMLAK VERGİSİ\n3.1.Belediyelerin emlak vergisi ile ilgili işlemleri",
+      "KAZANIM": "Emlak vergisini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "7",
+      "KONU": "3.2.Belediyelerden emlak beyan değerini almanın önemi  \n1.Dönem 2.Sınav",
+      "KAZANIM": "Emlak vergisini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "7",
+      "KONU": "4.\tİMAR İŞLEMLERİNİ YAPMA\n4.1.İmar ve imar planı",
+      "KAZANIM": "1. Dönem 2. Sınav İmar işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "7",
+      "KONU": "4.2.Mesleği ile ilgili imar mevzuatında takip etmesi gereken hususlar",
+      "KAZANIM": "İmar işlemlerini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "7",
+      "KONU": "5.\tEMLAK VERGİSİ MUAFİYETİ\n5.1.Matbu muafiyet belgesi",
+      "KAZANIM": "Emlak vergisi muafiyetini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "7",
+      "KONU": "5.2.Matbu muafiyet belgesi düzenleme işlemleri",
+      "KAZANIM": "Emlak vergisi muafiyetini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "7",
+      "KONU": "6.\tVERASET İNTİKAL İŞLEMLERİ\n6.1.Veraset intikal belgeleri",
+      "KAZANIM": "Veraset intikal işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "7",
+      "KONU": "6.2.Veraset intikal belgelerinin düzenlenmesi",
+      "KAZANIM": "Veraset intikal işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ TAPU SİCİL İŞLEMLERİ\n1.\tTAPU SİCİL İŞLEMLERİ\n1.1.\tTapu sicil işlemlerinde gerekli olan evraklar \n1.2.\tTapu devir işlemleri",
+      "KAZANIM": "Tapu sicil işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "7",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "7",
+      "KONU": "1.3.\tVekâlet işlemleri \n1.4.\tVekâlet işlem evrakları",
+      "KAZANIM": "Tapu sicil işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "7",
+      "KONU": "1.5.\tVekâlete bağlı tapu devir işlemleri  \n\n2.Dönem 1.Sınav",
+      "KAZANIM": "Tapu sicil işlemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "7",
+      "KONU": "2.\tSATIŞ VE HİBE İŞLEMLERİ\n2.1.Satış veya bağışlama işlemleri için Tapu Sicil Müdürlüğüne verilecek dilekçe örneği",
+      "KAZANIM": "2. Dönem 1. Sınav Satış ve hibe işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "7",
+      "KONU": "2.2.Satış işlemlerinde ödemenin gerçekleştirilmesi\n2.3.Hibe işleminde gerekli işlem basamakları ve evraklar",
+      "KAZANIM": "Satış ve hibe işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "7",
+      "KONU": "2.4.Tapu senedinin hazırlanması",
+      "KAZANIM": "Satış ve hibe işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "7",
+      "KONU": "3.\tİPOTEK TRAMPA VE TAKSİM İŞLEMLERİ\n3.1.Tapuda ipotek konulacak belgeler",
+      "KAZANIM": "İpotek trampa ve taksim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "7",
+      "KONU": "3.2.İpotek resmi senedi \n3.3.Trampa için taşınmazların rayiç değerlerinin tespit edilmesi",
+      "KAZANIM": "İpotek trampa ve taksim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "7",
+      "KONU": "3.4.Trampa resmi senedinin düzenlenmesi",
+      "KAZANIM": "İpotek trampa ve taksim işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "7",
+      "KONU": "4.\tKAT MÜLKİYETİ VE KAT İRTİFAKI İŞLEMLERİ\n4.1.Tapu sicil müdürlüğünde kat irtifakı tesisikat mülkiyeti tesisi talebinde bulunulması",
+      "KAZANIM": "Kat mülkiyeti ve kat irtifakı işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "7",
+      "KONU": "4.2.Tapu işlemlerinde mali prosedürler",
+      "KAZANIM": "Kat mülkiyeti ve kat irtifakı işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ EMLAKÇILIK MEVZUATI\n1.\tGAYRİMENKUL VE EŞYA HUKUKU\n1.1.\tGayrimenkul \n1.2.\tGayrimenkul hukuku ilkeleri \n1.3.\tEşya hukuku ilkeleri",
+      "KAZANIM": "2. Dönem 2. Sınav Gayrimenkul ve eşya hukukunu açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "7",
+      "KONU": "2.\tSÖZLEŞMELER HUKUKU\n2.1.Sözleşme ve türleri \n2.2.Sözleşmeler hukuku ilkeleri \n3.\tTAPU SİCİL TÜZÜĞÜ\n3.1.Tapu Sicil Tüzüğü ilkeleri \n3.2.Tüzüğün ana maddeleri  \n2.Dönem 2.Sınav",
+      "KAZANIM": "Sözleşmeler hukukunu açıklar.\nTapu sicil tüzüğünü açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "7",
+      "KONU": "4.\tKADASTRO KANUNU\n4.1.Kadastro",
+      "KAZANIM": "Kadastro kanununu açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

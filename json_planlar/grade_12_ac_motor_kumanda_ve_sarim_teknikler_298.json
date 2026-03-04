@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "AC MOTOR KUMANDA VE SARIM TEKNİKLER",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ KUMANDA DEVRE ELEMANLARI\n1. Asenkron Motorların Yapısı ve Etiketleri\n1.1. Asenkron motorun kullanım alanları\n1.2. Asenkron motorların yapısı ve çeşitleri\n1.3. Asenkron motorların etiket bilgileri\n1.4. Asenkron motor kataloglarının kullanımı\n2. Asenkron Motor Klemens Bağlantıları \nDemokrasinin önemi",
+      "KAZANIM": "Asenkron motorun yapısını ve etiket bilgilerini açıklar.\nAsenkron motor klemens bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "7",
+      "KONU": "3. Kontaktör Seçimi ve Bağlantıları\n4. Aşırı Akım Rölesi Bağlantıları\n5. Zaman Rölesi Bağlantıları",
+      "KAZANIM": "Kontaktör seçimini ve bağlantılarını yapar.\nAşırı akım rölesi bağlantılarını yapar.\nZaman rölesi bağlantılarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "7",
+      "KONU": "6. Koruma Röleleri Bağlantıları\n7. Paket Şalterlerin Bağlantıları",
+      "KAZANIM": "Koruma rölelerinin bağlantılarını yapar.\nPaket şalterlerin bağlantılarını yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ASENKRON MOTOR KUMANDA TEKNİKLERİ\n1. Kumanda Devre Elemanları\n1.1. Kumanda devresi kurulumunda dikkat edilecek hususlar",
+      "KAZANIM": "Kumanda devre elemanlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "7",
+      "KONU": "1.2. Kumanda ve güç devrelerinin malzemeleri\n1.3. Kumanda devrelerinde kullanılan kablo çeşitleri",
+      "KAZANIM": "Kumanda devre elemanlarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "7",
+      "KONU": "2. Kumanda ve Güç Devre Sembolleri Çizimi\n2.1. Kumanda ve güç devresinde kullanılan sembol normları\n2.2. Kumanda ve güç devresinde kullanılan sembollerin çizimi",
+      "KAZANIM": "Kumanda ve güç devresi sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "7",
+      "KONU": "3. Kumanda ve Güç Devreleri Çizimi\n3.1. Kumanda ve güç devresinin özellikleri ve kullanım alanları \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Kumanda ve güç devrelerinin çizimini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "7",
+      "KONU": "3.2. Kumanda ve güç devresinin çizim yöntemleri \n1.Dönem 1.Sınav",
+      "KAZANIM": "Kumanda ve güç devrelerinin çizimini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "7",
+      "KONU": "4. Kumanda ve Güç Devre Uygulamaları\n4.1. Kumanda ve güç devrelerinin bağlantıları \nAtatürkün eğitime ve bilime verdiği önem",
+      "KAZANIM": "1. Dönem 1. Sınav Kumanda ve güç devrelerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "7",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ASENKRON MOTORLARA YOL VERME TEKNİKLERİ\n1. Asenkron Motorlarda Kalkınma ve Etkileri\n1.1. Asenkron motorların güçlerine göre ilk kalkış anının etkisi\n1.2. Asenkron motorlarda kalkış akımının azaltılması",
+      "KAZANIM": "Asenkron motorların kalkınmasını ve etkilerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "7",
+      "KONU": "2. Asenkron Motorlara Yol Verme Yöntemleri\n2.1. Asenkron motorlara yol vermenin önemi\n2.2. Asenkron motorlara yol verme yöntemleri",
+      "KAZANIM": "Asenkron motorlara yol verme yöntemleri uygulamalarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "7",
+      "KONU": "3. AC Motor Sürücüleri ile Devir Ayarları\n3.1. Frekans ile asenkron motor devir sayısı değişimi\n3.2. Asenkron motorların devir sayısı değiştirme yöntemleri",
+      "KAZANIM": "AC motor sürücüleri ile devir ayarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "7",
+      "KONU": "4. Çift Devirli Asenkron Motorlara Yol Verme Yöntemleri\n4.1. Çift devirli asenkron motorların özellikleri ve kullanım alanları \n4.2. Çift devirli asenkron motorların klemensi ve bağlantı şekilleri",
+      "KAZANIM": "Çift devirli asenkron motorlara yol verme uygulamasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "7",
+      "KONU": "4.3. Çift devirli asenkron motor çalıştırılması devresi\n4.4. Çift devirli asenkron motorlarda yol verme devresi\n4.5. Çift devirli asenkron motorlarda devir yönü değiştirme devresi",
+      "KAZANIM": "Çift devirli asenkron motorlara yol verme uygulamasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ASENKRON MOTORLARDA FRENLEME\n1. Frenleme Sistemleri\n1.1. Frenlemenin önemi ve kullanım alanı",
+      "KAZANIM": "Frenleme sisteminin özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "7",
+      "KONU": "2. Üç Fazlı Asenkron Motora Balatalı Frenleme Sistemleri\n2.1. Frenleme sisteminde kullanılan malzemeler ve montaj teknikleri\n2.2. Balatalı frenleme devreleri \n1.Dönem 2.Sınav",
+      "KAZANIM": "Üç fazlı asenkron motora balatalı frenleme sistemlerini kurar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "7",
+      "KONU": "3. Üç Fazlı Asenkron Motora Dinamik Frenleme Sistemleri\n3.1. Dinamik frenleme sisteminin özellikleri\n3.2. Frenleme gerilim ve akımının hesaplanması\n3.3. Dinamik frenleme devreleri",
+      "KAZANIM": "1. Dönem 2. Sınav Üç fazlı asenkron motora dinamik frenleme sistemlerini kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ KOLEKTÖRSÜZ MOTORUN ELEKTRİK VE MEKANİK BAKIMI\n1. Kolektörsüz Motorun Elektriki Arızaları\n2. Arızalı Kondansatörlerin Değiştirilmesi",
+      "KAZANIM": "Kolektörsüz motorun elektriki arıza tespitini yapar.\nArızalı kondansatörü değiştirir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "7",
+      "KONU": "3. Arızalı Merkezkaç Anahtar Grubunun Değiştirilmesi\n4. Rotor Kontrolü\n5. Motor Tipi Tespiti",
+      "KAZANIM": "Arızalı merkezkaç anahtar grubunu değiştirir.\nRotor tipine uygun rotor kontrolünü yapar.\nMotor tipini tespit eder."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ KOLEKTÖRSÜZ MOTOR MONTAJI\n1. Bobin Bağlantıları\n2. Motor İzolasyonu\n3. Motor Testi",
+      "KAZANIM": "Bobinlerin grup ve klemens bağlantılarını yapar.\nMotor izolasyonunu yapar.\nMotorun testini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "7",
+      "KONU": "4. Motor Montajı\n5. Motorun Son Kontrolleri\n6. Motor Karteksi Hazırlama",
+      "KAZANIM": "Motorun montajını yapar.\nMotorun son kontrollerini yapar.\nMotorun karteksini hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ EL TİPİ SARIM\n1. El Tipi Stator Sargı Sökümü\n1.1. Stator sargılarının gerekli kontrolleri\n1.2. Stator sargıları söküm yöntemleri",
+      "KAZANIM": "El tipi stator sargılarını söker.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "7",
+      "KONU": "2. El Tipi Stator Sarımı\n2.1. El tipi sarım hesabı formülleri\n2.2. El tipi sarım şeması çizim tekniği",
+      "KAZANIM": "El tipi stator sarımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "7",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ YARIM KALIP SARIM\n1. Yarım Kalıp Stator Sargı Sökümü\n1.1. Sargının sökülmesi sırasında takip edilecek işlemler",
+      "KAZANIM": "Yarım kalıp stator sargılarını söker.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "7",
+      "KONU": "2. Yarım Kalıp Stator Sarımı\n2.1. Yarım kalıp sarım hesabı formülleri\n2.2. Yarım kalıp sarım şeması çizim tekniği \nAtatürkün vatan ve millet sevgisi",
+      "KAZANIM": "Yarım kalıp stator sarımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ TAM KALIP SARIM\n1. Tam Kalıp Stator Sargı Sökümü\n1.1. Tam kalıp sarımı sökerken dikkat edilmesi gereken hususlar \n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Tam kalıp stator sargılarını söker.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "7",
+      "KONU": "2. Tam Kalıp Stator Sarımı\n2.1. Tam kalıp sarım hesabı formülleri\n2.2. Tam kalıp sarım şeması çizim tekniği",
+      "KAZANIM": "Tam kalıp stator sarımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ÖZEL SARIMLAR\n1. Kısa Adımlı Stator Sarımı\n1.1. Kısa adımlı sarım hesabı formülleri\n1.2. Kısa adımlı sarım şeması çizim tekniği",
+      "KAZANIM": "Kısa adımlı stator sarımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "7",
+      "KONU": "2. Kademeli Yarım Kalıp Stator Sarımı\n2.1. Kademeli yarım kalıp sarım hesabı formülleri\n2.2. Kademeli yarım kalıp sarım şeması çizim tekniği\n3. Dahlender Sarımı\n3.1. Dahlender sarım hesabı formülleri\n3.2. Dahlender sarım şeması çizim tekniği \nÇocuk insan sevgisi ve evrensellik",
+      "KAZANIM": "Kademeli yarım kalıp sarım yapar.\nDahlender sarımı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ BİR FAZLI MOTOR SARIMI\n1.    Bir Fazlı Yardımcı Sargılı Motor Sarımı\n1.1. Bir fazlı yardımcı sargılı motor sarım hesabı formülleri\n1.2. Bir fazlı yardımcı sargılı motor sarım şeması çizim tekniği",
+      "KAZANIM": "Bir fazlı yardımcı sargılı motor sarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "7",
+      "KONU": "2.    Gölge Kutuplu Motor Sarımı\n2.1. Gölge kutuplu motorların çalışması\n2.2. Gölge kutuplu motorun stator sargılarını sökerken dikkat edilecek hususlar\n3.    Relüktans Motor Sarımı\n3.1. Relüktans motorların çalışması\n3.2. Relüktans motorun stator sargılarını sökerken dikkat edilecek hususlar",
+      "KAZANIM": "Gölge kutuplu motor sarımını yapar.\nRelüktans motor sarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ALTERNATÖR SARIMI\n1.    Alternatör Stator Sarımı Öncesi Hazırlıklar\n1.1. Alternatörün çalışması\n1.2. Alternatör parçaları\n1.3. Alternatör arızalarını tespit ve giderme teknikleri \nAtatürkçü düşüncede yer alan temel fikirler",
+      "KAZANIM": "Alternatör statorunu sarıma hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "7",
+      "KONU": "2.Alternatör Stator Sarımı\n2.1. Alternatörün bağlantı ve çalıştırılması\n2.2. Alternatör sarım hesabı formülleri\n2.3. Alternatör sarım şeması çizim teknikleri",
+      "KAZANIM": "Alternatör stator sarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ STEP-SERVO MOTORLAR\n1.    Step Motor Sürücü Bağlantıları\n1.1. Step motor sürüm teknikleri\n1.2. Step motor bağlantı uçları\n1.3. Step motor sürücü bağlantı yöntemleri \n2.Dönem 2.Sınav",
+      "KAZANIM": "2. Dönem 2. Sınav Step motorların sürücülerini bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "7",
+      "KONU": "2. Servo Motor Sürücü Bağlantıları\n2.1. Servo motor sürüm teknikleri\n2.2. Servo motor bağlantı uçları\n2.3. Servo motorların sürücüleri",
+      "KAZANIM": "Servo motorların sürücülerini bağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ SERVO MOTORUN MEKANİK BAKIMI\n1. Servo Motor Sökümü\n2. Servo Motor Bakım Onarımı",
+      "KAZANIM": "Servo motoru söker.\nServo motorun onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "sinif": "10",
+  "ders": "MESLEKİ HESAPLARI",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "1. ÖĞRENME BİRİMİ ÖLÇÜ VE ÖLÇEK HESAPLARI\n1.1. ÖLÇÜ BİRİMİ VE DÖNÜŞÜM HESAPLARI \n1.1.1. Ölçü Birimleri ve Kullanıldığı Yerler",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçü birimi dönüşüm hesapları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.2. Ölçü Birimi Dönüşüm Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçü birimi dönüşüm hesapları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.2. Ölçü Birimi Dönüşüm Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçü birimi dönüşüm hesapları yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2. ÖLÇEK HESAPLARI \n1.2.1. Ölçek Çeşitleri",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçek hesapları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.2. Ölçeklerin Kullanıldığı Yerler",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçek hesapları yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.3. Ölçek Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçek hesapları yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.3. Ölçek Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçek hesapları yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "1.3. ÖLÇEKLERİN YAPI HESAPLARINDA KULLANILMASI \n1.3.1. Yapı Projelerinde Ölçeklerin Kullanılması \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçekleri yapı hesaplarında kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "1.3.1. Yapı Projelerinde Ölçeklerin Kullanılması",
+      "KAZANIM": "1. Dönem 1. Sınav Matematiksel işlem kurallarına uygun olarak ölçekleri yapı hesaplarında kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "1.3.2. Planlarda Ölçekler ve Ölçek Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçekleri yapı hesaplarında kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "1.3.2. Planlarda Ölçekler ve Ölçek Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçekleri yapı hesaplarında kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "1.3.2. Planlarda Ölçekler ve Ölçek Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak ölçekleri yapı hesaplarında kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "2. ÖĞRENME BİRİMİ GEOMERTİK ŞEKİL VE CİSİMLERDE BOYUT HESAPLARI\n2.1. DÜZGÜN GEOMETRİK ŞEKİLLERİN BOYUT HESAPLARI\n2.1.1. Geometrik Şekiller",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak düzgün geometrik şekillerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "2.1.2. Geometrik Şekil Çeşitleri",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak düzgün geometrik şekillerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "2.1.3. Geometrik Şekillerin Çevre Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak düzgün geometrik şekillerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "2.1.4.Geometrik Şekillerin Alan Hesabı  \n1.Dönem 2.Sınav",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak düzgün geometrik şekillerin boyut hesaplarını yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "2.2. DÜZGÜN OLMAYAN GEOMETRİK ŞEKİLLERİN BOYUT HESAPLARI \n2.2.1. Düzgün Olmayan Geometrik Şekiller",
+      "KAZANIM": "1. Dönem 2. Sınav Matematiksel işlem kurallarına uygun olarak düzgün olmayan geometrik şekillerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "2.2.2. Geometrik Olmayan Şekillerin Çevre Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak düzgün olmayan geometrik şekillerin boyut hesaplarını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2.2.3. Geometrik Olmayan Şekillerin Alan Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak düzgün olmayan geometrik şekillerin boyut hesaplarını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "2.3. CİSİMLERİN BOYUT HESAPLARI \n2.3.1. Hacim Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak cisimlerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "2.3.2. Hacim Hesabı Uygulamaları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak cisimlerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "2.3.2. Hacim Hesabı Uygulamaları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak cisimlerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "2.3.3. Birleşik Geometrik Cisimlerin Hacim Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak cisimlerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "2.3.3. Birleşik Geometrik Cisimlerin Hacim Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak cisimlerin boyut hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "3. ÖĞRENME BİRİMİ YAPI BOYUT HESAPLARI\n3.1. YAPI ELEMANLARI KESİT VE YÜZEY ALAN HESAPLARI\n3.1.1. Temeller \n\n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Matematiksel işlem kurallarına uygun olarak yapı elemanları kesit ve yüzey alanı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "3.1.2. Kolonlar",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elemanları kesit ve yüzey alanı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "3.1.3. Kirişler",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elemanları kesit ve yüzey alanı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.4. Döşemeler",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elemanları kesit ve yüzey alanı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.5. Duvarlar",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elemanları kesit ve yüzey alanı hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.2. YAPI ELEMANLARI HACİM HESAPLARI \n3.2.1. Yapı Elemanlarında Hacim Hesaplamaları Yapmanın Önemi",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elamanlarının hacim hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.2.2. Yapı Elemanlarında Hacim Hesabı Yapmak İçin İşlem Basamakları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elamanlarının hacim hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.2.2. Yapı Elemanlarında Hacim Hesabı Yapmak İçin İşlem Basamakları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elamanlarının hacim hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2.3. TEMELLERDE HACIM HESAPLARI \n3.2.4. Kolonlarda Hacim Hesaplamaları",
+      "KAZANIM": "2. Dönem 2. Sınav Matematiksel işlem kurallarına uygun olarak yapı elamanlarının hacim hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2.5. Kirişlerde Hacim Hesapları",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elamanlarının hacim hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2.6. Döşemelerde Hacim Hesapları  \n2.Dönem 2.Sınav",
+      "KAZANIM": "Matematiksel işlem kurallarına uygun olarak yapı elamanlarının hacim hesaplarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}
