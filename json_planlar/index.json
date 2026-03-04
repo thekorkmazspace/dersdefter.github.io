@@ -1,5 +1,5 @@
 {
-  "toplam": 730,
+  "toplam": 774,
   "dosyalar": [
     {
       "dosya": "grade_1_gorsel_sanatlar_232.json",
@@ -4380,6 +4380,270 @@
       "sinif": "8",
       "ders": "TÜRKÇE",
       "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_beden_egitimi_ve_spor_1039.json",
+      "sinif": "10",
+      "ders": "BEDEN EĞİTİMİ VE SPOR",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_10_gorsel_sanatlar_1040.json",
+      "sinif": "10",
+      "ders": "GÖRSEL SANATLAR",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_10_muzik_1041.json",
+      "sinif": "10",
+      "ders": "MÜZİK",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_11_beden_egitimi_ve_spor_1042.json",
+      "sinif": "11",
+      "ders": "BEDEN EĞİTİMİ VE SPOR",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_11_biyoloji_1043.json",
+      "sinif": "11",
+      "ders": "BİYOLOJİ",
+      "kayit_sayisi": 74
+    },
+    {
+      "dosya": "grade_11_cografya_1044.json",
+      "sinif": "11",
+      "ders": "COĞRAFYA",
+      "kayit_sayisi": 264
+    },
+    {
+      "dosya": "grade_11_felsefe_1045.json",
+      "sinif": "11",
+      "ders": "FELSEFE",
+      "kayit_sayisi": 74
+    },
+    {
+      "dosya": "grade_11_fen_bilimleri_1046.json",
+      "sinif": "11",
+      "ders": "FEN BİLİMLERİ",
+      "kayit_sayisi": 243
+    },
+    {
+      "dosya": "grade_11_fizik_1047.json",
+      "sinif": "11",
+      "ders": "FİZİK",
+      "kayit_sayisi": 74
+    },
+    {
+      "dosya": "grade_11_gorsel_sanatlar_1048.json",
+      "sinif": "11",
+      "ders": "GÖRSEL SANATLAR",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_11_kimya_1049.json",
+      "sinif": "11",
+      "ders": "KİMYA",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_11_muzik_1050.json",
+      "sinif": "11",
+      "ders": "MÜZİK",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_11_tarih_1051.json",
+      "sinif": "11",
+      "ders": "TARİH",
+      "kayit_sayisi": 111
+    },
+    {
+      "dosya": "grade_12_beden_egitimi_ve_spor_1052.json",
+      "sinif": "12",
+      "ders": "BEDEN EĞİTİMİ VE SPOR",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_12_biyoloji_1053.json",
+      "sinif": "12",
+      "ders": "BİYOLOJİ",
+      "kayit_sayisi": 74
+    },
+    {
+      "dosya": "grade_12_cografya_1054.json",
+      "sinif": "12",
+      "ders": "COĞRAFYA",
+      "kayit_sayisi": 268
+    },
+    {
+      "dosya": "grade_12_fen_bilimleri_1055.json",
+      "sinif": "12",
+      "ders": "FEN BİLİMLERİ",
+      "kayit_sayisi": 208
+    },
+    {
+      "dosya": "grade_12_fizik_1056.json",
+      "sinif": "12",
+      "ders": "FİZİK",
+      "kayit_sayisi": 74
+    },
+    {
+      "dosya": "grade_12_gorsel_sanatlar_1057.json",
+      "sinif": "12",
+      "ders": "GÖRSEL SANATLAR",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_12_kimya_1058.json",
+      "sinif": "12",
+      "ders": "KİMYA",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_12_muzik_1059.json",
+      "sinif": "12",
+      "ders": "MÜZİK",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_12_t_c_inkilap_tarihi_ve_ataturkculuk_1060.json",
+      "sinif": "12",
+      "ders": "T.C. İNKILAP TARİHİ VE ATATÜRKÇÜLÜK",
+      "kayit_sayisi": 111
+    },
+    {
+      "dosya": "grade_1_hayat_bilgisi_1061.json",
+      "sinif": "1",
+      "ders": "HAYAT BİLGİSİ",
+      "kayit_sayisi": 11
+    },
+    {
+      "dosya": "grade_2_hayat_bilgisi_1062.json",
+      "sinif": "2",
+      "ders": "HAYAT BİLGİSİ",
+      "kayit_sayisi": 11
+    },
+    {
+      "dosya": "grade_3_hayat_bilgisi_1063.json",
+      "sinif": "3",
+      "ders": "HAYAT BİLGİSİ",
+      "kayit_sayisi": 8
+    },
+    {
+      "dosya": "grade_11_matematik_1064.json",
+      "sinif": "11",
+      "ders": "MATEMATİK",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_11_turk_dili_ve_edebiyati_1065.json",
+      "sinif": "11",
+      "ders": "TÜRK DİLİ VE EDEBİYATI",
+      "kayit_sayisi": 36
+    },
+    {
+      "dosya": "grade_12_matematik_1066.json",
+      "sinif": "12",
+      "ders": "MATEMATİK",
+      "kayit_sayisi": 37
+    },
+    {
+      "dosya": "grade_12_turk_dili_ve_edebiyati_1067.json",
+      "sinif": "12",
+      "ders": "TÜRK DİLİ VE EDEBİYATI",
+      "kayit_sayisi": 38
+    },
+    {
+      "dosya": "grade_12_tarih_1068.json",
+      "sinif": "12",
+      "ders": "TARİH",
+      "kayit_sayisi": 111
+    },
+    {
+      "dosya": "grade_1_beden_egitimi_ve_spor_1069.json",
+      "sinif": "1",
+      "ders": "BEDEN EĞİTİMİ VE SPOR",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_2_beden_egitimi_ve_spor_1070.json",
+      "sinif": "2",
+      "ders": "BEDEN EĞİTİMİ VE SPOR",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_beden_egitimi_ve_spor_1071.json",
+      "sinif": "9",
+      "ders": "BEDEN EĞİTİMİ VE SPOR",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_biyoloji_1072.json",
+      "sinif": "9",
+      "ders": "BİYOLOJİ",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_cografya_1073.json",
+      "sinif": "9",
+      "ders": "COĞRAFYA",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_fizik_1074.json",
+      "sinif": "9",
+      "ders": "FİZİK",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_gorsel_sanatlar_1075.json",
+      "sinif": "9",
+      "ders": "GÖRSEL SANATLAR",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_ingilizce_1076.json",
+      "sinif": "9",
+      "ders": "İNGİLİZCE",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_matematik_1077.json",
+      "sinif": "9",
+      "ders": "MATEMATİK",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_tarih_1078.json",
+      "sinif": "9",
+      "ders": "TARİH",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_turk_dili_ve_edebiyati_1079.json",
+      "sinif": "9",
+      "ders": "TÜRK DİLİ VE EDEBİYATI",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_1_muzik_1080.json",
+      "sinif": "1",
+      "ders": "MÜZİK",
+      "kayit_sayisi": 67
+    },
+    {
+      "dosya": "grade_9_kimya_1081.json",
+      "sinif": "9",
+      "ders": "KİMYA",
+      "kayit_sayisi": 47
+    },
+    {
+      "dosya": "grade_10_kimya_1082.json",
+      "sinif": "10",
+      "ders": "KİMYA",
+      "kayit_sayisi": 46
     }
   ]
 }

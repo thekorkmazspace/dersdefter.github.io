@@ -1,0 +1,599 @@
+{
+  "sinif": "11",
+  "ders": "BİYOLOJİ",
+  "kaynak": "TYMMİLKORTA 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n 8-12 Eylül",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.1. Sinir sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n 15-19 Eylül",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.1. Sinir sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n 22-26 Eylül",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.1. Sinir sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n 29 Eylül-3 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.1. Sinir sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n 6-110 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.2. Endokrin bezleri ve bu bezlerin salgıladıkları hormonları açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n 13-17 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzeleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.3. Sinir sistemi rahatsızlıklarına örnekler verir.  11.1.1.4. Sinir sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin\nçıkarımlarda bulunur."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n 20-24 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.5. Duyu organlarının yapısını ve işleyişini açıklar.    11.1.1.6. Duyu organları rahatsızlıklarını açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n 27 Ekim-31 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.7. Duyu organlarının sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n 3-7 Kasım",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.2. Destek ve Hareket Sistemi",
+      "KAZANIM": "11.1.2.1. Destek ve hareket sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n17-21 Kasım",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.2. Destek ve Hareket Sistemi",
+      "KAZANIM": "11.1.2.2. Destek ve hareket sistemi rahatsızlıklarını açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n24-28 Kasım",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.2. Destek ve Hareket Sistemi",
+      "KAZANIM": "11.1.2.3. Destek ve hareket sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "12. Hafta:\n 1-5 Aralık",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.3. Sindirim Sistemi",
+      "KAZANIM": "11.1.3.1. Sindirim sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n 8-12 Aralık",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.3. Sindirim Sistemi",
+      "KAZANIM": "11.1.3.2. Sindirim sistemi rahatsızlıklarını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n 15-19 Aralık",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.3. Sindirim Sistemi",
+      "KAZANIM": "11.1.3.3. Sindirim sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n 22-26 Aralık",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.1. Kalp, kan ve damarların yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "16. Hafta:\n 29 Aralık-2 Ocak",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.1. Kalp, kan ve damarların yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n 5-9 Ocak",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.1. Kalp, kan ve damarların yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n 13-16 Ocak",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.2. Lenf dolaşımını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "19. Hafta:\n 2-6 Şubat",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.3. Dolaşım sistemi rahatsızlıklarını açıklar.   11.1.4.4. Dolaşım sisteminin sağlıklı yapısının korunması için yapılması gerekenlere\nilişkin çıkarımlarda bulunur."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "20. Hafta:\n 19-13 Şubat",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.5.Bağışıklık çeşitlerini ve vücudun doğal savunma mekanizmalarını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n 16-20 Şubat",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.5.Bağışıklık çeşitlerini ve vücudun doğal savunma mekanizmalarını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n 23-27 Şubat",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.5. Solunum Sistemi",
+      "KAZANIM": "11.1.5.1. Solunum sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n 2-6 Mart",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.5. Solunum Sistemi",
+      "KAZANIM": "11.1.5.2. Alveollerden dokulara ve dokulardan alveollere gaz taşınmasını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "24. Hafta:\n 9-13 Mart",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.5. Solunum Sistemi",
+      "KAZANIM": "11.1.5.3. Solunum sistemi hastalıklarına örnekler verir.   \n11.1.5.4. Solunum sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin\nçıkarımlarda bulunur."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n 23-27 Mart",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.6. Üriner Sistem",
+      "KAZANIM": "11.1.6.1. Üriner sistemin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n 30 Mart - 3 Nisan",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.6. Üriner Sistem",
+      "KAZANIM": "11.1.6.2. Homeostasinin sağlanmasında böbreklerin rolünü belirtir.\n11.1.6.3. Üriner Sistem rahatsızlıklarına örnekler verir. \n11.1.6.4. Üriner sistemin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin\nçıkarımlarda bulunur."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "27. Hafta:\n 6-10 Nisan",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.7. Üreme Sistemi ve Embriyonik Gelişim",
+      "KAZANIM": "11.1.7.1. Üreme sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "28. Hafta:\n 14-17 Nisan",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.7. Üreme Sistemi ve Embriyonik Gelişim",
+      "KAZANIM": "11.1.7.2. Üreme sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "29. Hafta:\n 20-24 Nisan",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.7. Üreme Sistemi ve Embriyonik Gelişim",
+      "KAZANIM": "11.1.7.3. İnsanda embriyonik gelişim sürecini açıklar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n 27 Nisan-1 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE VE POPÜLASYON EKOLOJİSİ",
+      "KONU": "11.2. Komünite ve Popülasyon Ekolojisi\n11.2.1. Komünite Ekolojisi",
+      "KAZANIM": "11.2.1.1. Komünitenin yapısına etki eden faktörleri açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "31. Hafta:\n 4-8 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE VE POPÜLASYON EKOLOJİSİ",
+      "KONU": "11.2.1. Komünite Ekolojisi",
+      "KAZANIM": "11.2.1.2. Komünitede tür içi ve türler arasındaki rekabeti örneklerle açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "32. Hafta:\n 11-15 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE VE POPÜLASYON EKOLOJİSİ",
+      "KONU": "11.2.1. Komünite Ekolojisi",
+      "KAZANIM": "11.2.1.3. Komünitede türler arasında simbiyotik ilişkileri örneklerle açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "33. Hafta:\n 18-22 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE VE POPÜLASYON EKOLOJİSİ",
+      "KONU": "11.2.1. Komünite Ekolojisi",
+      "KAZANIM": "11.2.1.4. Komünitelerdeki süksesyonu örneklerle açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n 25-29 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE VE POPÜLASYON EKOLOJİSİ",
+      "KONU": "11.2.2. Popülasyon Ekolojisi",
+      "KAZANIM": "11.2.2.1. Popülasyon dinamiğine etki eden faktörleri analiz eder."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "35. Hafta:\n 1-5 Haziran",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE VE POPÜLASYON EKOLOJİSİ",
+      "KONU": "11.2.2. Popülasyon Ekolojisi",
+      "KAZANIM": "11.2.2.1. Popülasyon dinamiğine etki eden faktörleri analiz eder."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "36. Hafta:\n 8-12 Haziran",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE VE POPÜLASYON EKOLOJİSİ",
+      "KONU": "11.2.2. Popülasyon Ekolojisi",
+      "KAZANIM": "11.2.2.1. Popülasyon dinamiğine etki eden faktörleri analiz eder."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "37. Hafta:\n 15-19 Haziran",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE VE POPÜLASYON EKOLOJİSİ",
+      "KONU": "11.2.2. Popülasyon Ekolojisi",
+      "KAZANIM": "11.2.2.1. Popülasyon dinamiğine etki eden faktörleri analiz eder."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n 8-12 Eylül",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.1. Sinir sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n 15-19 Eylül",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.1. Sinir sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n 22-26 Eylül",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.1. Sinir sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n 29 Eylül-3 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.1. Sinir sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n 6-110 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.2. Endokrin bezleri ve bu bezlerin salgıladıkları hormonları açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n 13-17 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.3 Duyu organlarının yapısını ve işleyişini açıklar.                                                                           11.1.4.Sinir sisteminin sağlıklı yapısının  korunması için yapılması gerekenlere ilişkin  çıkarımlarda bulunur."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n 20-24 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1. İnsan Fizyolojisi\n11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.5. Duyu organlarının yapısını ve işleyişini açıklar.                                                                         11.1.1.6. Duyu organları rahatsızlıklarını açıklar.    11.1.1.7. Duyu organlarının sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n 27 Ekim-31 Ekim",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.1. Denetleyici ve Düzenleyici Sistem, Duyu Organları",
+      "KAZANIM": "11.1.1.7. Duyu organlarının sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n 3-7 Kasım",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.2. Destek ve Hareket Sistemi",
+      "KAZANIM": "11.1.2.1. Destek ve hareket sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n17-21 Kasım",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.2. Destek ve Hareket Sistemi",
+      "KAZANIM": "11.1.2.2. Destek ve hareket sistemi rahatsızlıklarını açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n24-28 Kasım",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.2. Destek ve Hareket Sistemi",
+      "KAZANIM": "11.1.2.3. Destek ve hareket sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur.                                       11.1.2.4. Destek ve hareket sistemi ile doğrudan ilişkili güncel uygulamalara örnekler verir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "12. Hafta:\n 1-5 Aralık",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.3. Sindirim Sistemi",
+      "KAZANIM": "11.1.3.1. Sindirim sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n 8-12 Aralık",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.3. Sindirim Sistemi",
+      "KAZANIM": "11.1.3.2. Sindirim sistemi rahatsızlıklarını açıklar"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n 15-19 Aralık",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.3. Sindirim Sistemi",
+      "KAZANIM": "11.1.3.3. Sindirim sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n 22-26 Aralık",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.1. Kalp, kan ve damarların yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "16. Hafta:\n 29 Aralık-2 Ocak",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.1. Kalp, kan ve damarların yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n 5-9 Ocak",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.1. Kalp, kan ve damarların yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n 13-16 Ocak",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.2. Lenf dolaşımını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "19. Hafta:\n 2-6 Şubat",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.3. Dolaşım sistemi rahatsızlıklarını açıklar.   11.1.4.4. Dolaşım sisteminin sağlıklı yapısının korunması için yapılması gerekenlere\nilişkin çıkarımlarda bulunur."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "20. Hafta:\n 19-13 Şubat",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.5.Bağışıklık çeşitlerini ve vücudun doğal savunma mekanizmalarını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n 16-20 Şubat",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.4. Dolaşım Sistemleri",
+      "KAZANIM": "11.1.4.5.Bağışıklık çeşitlerini ve vücudun doğal savunma mekanizmalarını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n 23-27 Şubat",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.5. Solunum Sistemi",
+      "KAZANIM": "11.1.5.1. Solunum sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n 2-6 Mart",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.5. Solunum Sistemi",
+      "KAZANIM": "11.1.5.2. Alveollerden dokulara ve dokulardan alveollere gaz taşınmasını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "24. Hafta:\n 9-13 Mart",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.5. Solunum Sistemi",
+      "KAZANIM": "11.1.5.3. Solunum sistemi hastalıklarına örnekler verir.                                                   \n11.1.5.4. Solunum sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin\nçıkarımlarda bulunur."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n 23-27 Mart",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.6. Üriner Sistem",
+      "KAZANIM": "11.1.6.1. Üriner sistemin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n 30 Mart - 3 Nisan",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.6. Üriner Sistem",
+      "KAZANIM": "11.1.6.2. Homeostasinin sağlanmasında böbreklerin rolünü belirtir.\n11.1.6.3. Üriner Sistem rahatsızlıklarına örnekler verir.\n 11.1.6.4. Üriner sistemin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin\nçıkarımlarda bulunur."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "27. Hafta:\n 6-10 Nisan",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.7. Üreme Sistemi ve Embriyonik Gelişim",
+      "KAZANIM": "11.1.7.1. Üreme sisteminin yapı, görev ve işleyişini açıklar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "28. Hafta:\n 14-17 Nisan",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.7. Üreme Sistemi ve Embriyonik Gelişim",
+      "KAZANIM": "11.1.7.2. Üreme sisteminin sağlıklı yapısının korunması için yapılması gerekenlere ilişkin çıkarımlarda bulunur.\n11.1.7.3. İnsanda embriyonik gelişim sürecini açıklar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "29. Hafta:\n 20-24 Nisan",
+      "SAAT": 4,
+      "ÜNİTE": "İNSAN FİZYOLOJİSİ",
+      "KONU": "11.1.7. Üreme Sistemi ve Embriyonik Gelişim",
+      "KAZANIM": "11.1.7.3. İnsanda embriyonik gelişim sürecini açıklar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n 27 Nisan-1 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE \nVE POPULASYON EKOLOJİSİ",
+      "KONU": "11.2. Komünite ve Popülasyon Ekolojisi\n11.2.1. Komünite Ekolojisi",
+      "KAZANIM": "11.2.1.1. Komünitenin yapısına etki eden faktörleri açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "31. Hafta:\n 4-8 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE \nVE POPULASYON EKOLOJİSİ",
+      "KONU": "11.2.1. Komünite Ekolojisi",
+      "KAZANIM": "11.2.1.2. Komünitede tür içi ve türler arasındaki rekabeti örneklerle açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "32. Hafta:\n 11-15 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE \nVE POPULASYON EKOLOJİSİ",
+      "KONU": "11.2.1. Komünite Ekolojisi",
+      "KAZANIM": "11.2.1.3. Komünitede türler arasında simbiyotik ilişkileri örneklerle açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "33. Hafta:\n 18-22 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE \nVE POPULASYON EKOLOJİSİ",
+      "KONU": "11.2.1. Komünite Ekolojisi",
+      "KAZANIM": "11.2.1.4. Komünitelerdeki süksesyonu örneklerle açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n 25-29 Mayıs",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE \nVE POPULASYON EKOLOJİSİ",
+      "KONU": "11.2.2. Popülasyon Ekolojisi",
+      "KAZANIM": "11.2.2.1. Popülasyon dinamiğine etki eden faktörleri analiz eder."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "35. Hafta:\n 1-5 Haziran",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE \nVE POPULASYON EKOLOJİSİ",
+      "KONU": "11.2.2. Popülasyon Ekolojisi",
+      "KAZANIM": "11.2.2.1. Popülasyon dinamiğine etki eden faktörleri analiz eder."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "36. Hafta:\n 8-12 Haziran",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE \nVE POPULASYON EKOLOJİSİ",
+      "KONU": "11.2.2. Popülasyon Ekolojisi",
+      "KAZANIM": "11.2.2.1. Popülasyon dinamiğine etki eden faktörleri analiz eder."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "37. Hafta:\n 15-19 Haziran",
+      "SAAT": 4,
+      "ÜNİTE": "KOMÜNİTE \nVE POPULASYON EKOLOJİSİ",
+      "KONU": "11.2.2. Popülasyon Ekolojisi",
+      "KAZANIM": "11.2.2.1. Popülasyon dinamiğine etki eden faktörleri analiz eder."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "sinif": "2",
+  "ders": "HAYAT BİLGİSİ",
+  "kaynak": "TYMM xlsx 2025-2026",
+  "plan": [
+    {
+      "AY": "EYLÜL-EKİM",
+      "HAFTA": "1. Hafta:\n 8-12 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Arkadaşlık İlişkilerini Etkileyen Duygu, Düşünce ve Davranışlar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "EKİM-KASIM",
+      "HAFTA": "5. Hafta:\n6-10 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Sınıf İçi Karar Alma Süreçleri",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n 3-7 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Sağlıklı Büyüme ve Gelişmeyi Etkileyen Etkenler",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "12. Hafta:\n1-5 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Acil Durumlardaki Davranışlar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n 23-26 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Ailede Nezaket ve Görgü Kuralları",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ARALIK-OCAK",
+      "HAFTA": "16. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "3+(1)*",
+      "ÜNİTE": "",
+      "KONU": "Ailedeki Görev ve Sorumluluklar",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "19. Hafta:\n 2-6 Şubat",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Tarihî Mekânlar ve Doğal Güzellikler",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "23. Hafta:\n 2-6 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Millî Gün ve Bayramların Önemi",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "NİSAN-MAYIS",
+      "HAFTA": "27. Hafta:\n 6-10 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Hava Olayları ve Mevsimler",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "31. Hafta:\n4-8 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "",
+      "KONU": "Kaynakları Tasarruflu Kullanma",
+      "KAZANIM": ""
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "35. Hafta:\n1-5 Haziran",
+      "SAAT": "OKUL TEMELLİ PLANLAMA*",
+      "ÜNİTE": "",
+      "KONU": "",
+      "KAZANIM": ""
+    }
+  ]
+}

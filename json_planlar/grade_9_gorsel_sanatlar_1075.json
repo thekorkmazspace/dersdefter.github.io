@@ -1,0 +1,343 @@
+{
+  "sinif": "9",
+  "ders": "GÖRSEL SANATLAR",
+  "kaynak": "TYMMİLKORTA output_data",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n8 Eylül-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "SANATA BAKIŞ",
+      "KONU": "GS.9.1.1: Sanat dalları ile ilgili görsel kılavuz tasarlayabilme\nSDB2.2: İş Birliği SDB2.1. İletişim\nGS.9.1.2: Sanat dalları ile ilgili görsel kılavuz oluşturabilme",
+      "KAZANIM": "Sanat dalları ile ilgili görsel kılavuz tasarlayabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15 Eylül-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "SANATA BAKIŞ",
+      "KONU": "",
+      "KAZANIM": "İş Birliği SDB2.1. İletişim"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22 Eylül-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "SANATA BAKIŞ",
+      "KONU": "",
+      "KAZANIM": "Sanat dalları ile ilgili görsel kılavuz oluşturabilme"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-3 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "SANATA BAKIŞ",
+      "KONU": "",
+      "KAZANIM": "Kendine mal etme yaklaşımı ile görsel kompozisyon oluşturabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n6 Ekim-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "SANATA BAKIŞ",
+      "KONU": "",
+      "KAZANIM": "Kendine mal etme yaklaşımı ile görsel kompozisyon oluşturabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13 Ekim-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "GS.9.2.1: Görsel tasarım öge ve ilkeleri ile sanatsal ürün tasarlayabilme\nSDB1.2: Kendini Düzenleme (Öz Düzenleme) SDB2.2. İş Birliği\nGS.9.2.2: Görsel tasarım öge ve ilkeleri ile sanatsal ürün oluşturabilme",
+      "KAZANIM": "Görsel tasarım öge ve ilkeleri ile sanatsal ürün tasarlayabilme"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20 Ekim-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Kendini Düzenleme (Öz Düzenleme) SDB2.2. İş Birliği"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27 Ekim-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Görsel tasarım öge ve ilkeleri ile sanatsal ürün oluşturabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n3 Kasım-7 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Üç boyutlu geometrik nesnelerin perspektif çizimini tasarlayabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10 Kasım-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Üç boyutlu geometrik nesnelerin perspektif çizimini oluşturabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17 Kasım-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Renk armonileri ile sanatsal ürün oluşturabilme"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24 Kasım-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Natürmort çizimi tasarlayabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n1 Aralık-5 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Natürmort çizimi oluşturabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n8 Aralık-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Yüzey doku ilişkisi ile rölyef tasarlayabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15 Aralık-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Yüzey doku ilişkisi ile rölyef oluşturabilme"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22 Aralık-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Yüzey doku ilişkisi ile rölyef oluşturabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-2 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Yüzey doku ilişkisi ile rölyef oluşturabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n5 Ocak-9 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÇİZGİDEN BOYUTA",
+      "KONU": "",
+      "KAZANIM": "Yüzey doku ilişkisi ile rölyef oluşturabilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12 Ocak-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "GS.9.3.1: İslamiyet öncesi Türk sanat eserini sanatsal olarak betimleyebilme GS.9.3.2. İslamiyet öncesi Türk s\nSDB2.1: İletişim SDB2.2. İş Birliği\nGS.9.3.3: İslamiyet öncesi Türk sanat eserini sanatsal olarak yorumlayabilme GS.9.3.4. İslamiyet öncesi Türk s",
+      "KAZANIM": "İslamiyet öncesi Türk sanat eserini sanatsal olarak betimleyebilme GS.9.3.2. İslamiyet öncesi Türk sanat eserini sanatsal olarak çözümleyebilme"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19 Ocak-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "İletişim SDB2.2. İş Birliği"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "21. Hafta:\n26 Ocak-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "İslamiyet öncesi Türk sanat eserini sanatsal olarak yorumlayabilme GS.9.3.4. İslamiyet öncesi Türk sanat eseri ile ilgili sanatsal yargıda bulunabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n2 Şubat-6 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "İslamiyet öncesi Türk sanatına özgü motiflerden yararlanarak tekstil desenitasarlayabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n9 Şubat-13 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "İslamiyet öncesi Türk sanatına özgü motiflerden yararlanarak tekstil deseni oluşturabilme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16 Şubat-20 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "Avrupa sanatının Rönesans, Maniyerizm, Barok Dönemleri’ni sanatsal olarak karşılaştırabilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "25. Hafta:\n23 Şubat-27 Şubat",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "Avrupa sanatının Rönesans, Maniyerizm, Barok Dönemleri’nden bir eseri nokta, çizgi ve leke açısından sanatsal olarak çözümleyebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n2 Mart-6 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "Avrupa sanatının Rönesans, Maniyerizm, Barok Dönemleri’nden bir eseri nokta, çizgi ve leke açısından sanatsal olarak çözümleyebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n9 Mart-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "Avrupa sanatının Rönesans, Maniyerizm, Barok Dönemleri’nden bir eseri nokta, çizgi ve leke açısından sanatsal olarak çözümleyebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16 Mart-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ZAMANIN İZİNDE SANAT",
+      "KONU": "",
+      "KAZANIM": "Avrupa sanatının Rönesans, Maniyerizm, Barok Dönemleri’nden bir eseri nokta, çizgi ve leke açısından sanatsal olarak çözümleyebilme"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23 Mart-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "GS.9.4.1: Ekslibris taslağı oluşturabilme\nSDB2.1: İletişim SDB2.2. İş Birliği SDB3.1. Uyum\nGS.9.4.2: Ekslibris tasarımı oluşturabilme",
+      "KAZANIM": "Ekslibris taslağı oluşturabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-3 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "İletişim SDB2.2. İş Birliği SDB3.1. Uyum"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n6 Nisan-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Ekslibris tasarımı oluşturabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13 Nisan-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "İllüstrasyon tasarlayabilme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20 Nisan-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "İllüstrasyon oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "34. Hafta:\n27 Nisan-1 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Afiş taslağı oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n4 Mayıs-8 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Afiş tasarımı oluşturabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11 Mayıs-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Sanatsal yerleştirme çalışması tasarlayabilme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18 Mayıs-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Sanatsal yerleştirme çalışması oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "38. Hafta:\n25 Mayıs-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Sanatsal yerleştirme çalışması oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n1 Haziran-5 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Sanatsal yerleştirme çalışması oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n8 Haziran-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Sanatsal yerleştirme çalışması oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15 Haziran-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SANAT VE TEKNOLOJİ EVRENİ",
+      "KONU": "",
+      "KAZANIM": "Sanatsal yerleştirme çalışması oluşturabilme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22 Haziran-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ETKİNLİK",
+      "KONU": "Dönem değerlendirmesi",
+      "KAZANIM": ""
+    }
+  ]
+}
