@@ -7,7 +7,7 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "7",
       "KONU": "1. ÖĞRENME BİRİMİ İKİ BOYUTLU ÇİZİM AYARLARI VE KOMUTLARI\n1.1. Çizim Temel Bilgileri ve Paket Programı\n1.2. Çizim Ayarları\n1.3. Ekran Kontrolü\n1.4. İki Boyutlu Çizim Komutları\n1.5. Bilgisayarla Dosyalama",
-      "KAZANIM": "Çizim programında temel bilgilerle paket programı çalıştırır.\nCAD programında çizim ayarlarını  yapar.\nCAD programında ekran kontrolünü  yapar.\nCAD programında iki boyutlu çizim  komutları ile çalışır.\nCAD programında çizdiği planı  dosyalar.",
+      "KAZANIM": "Çizim programında temel bilgilerle paket programı çalıştırır.\nCAD programında çizim ayarlarını  yapar.\nCAD programında ekran kontrolünü  yapar.\nCAD programında iki boyutlu çizim  komutları ile çalışır.\nCAD programında çizdiği PLANI  dosyalar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -30,7 +30,7 @@
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "7",
       "KONU": "3. ÖĞRENME BİRİMİ BİLGİSAYARLA MERDİVEN ÇİZİMİ \n3.1. Dış Merdiven Plan Kesit ve Görünüş Çizimleri",
-      "KAZANIM": "Çizim programında dış merdiven  planı ve kesitini çizer.",
+      "KAZANIM": "Çizim programında dış merdiven  PLANI ve kesitini çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,7 +38,7 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "7",
       "KONU": "3.1. Dış Merdiven Plan Kesit ve Görünüş Çizimleri",
-      "KAZANIM": "Çizim programında dış merdiven  planı ve kesitini çizer.",
+      "KAZANIM": "Çizim programında dış merdiven  PLANI ve kesitini çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -46,21 +46,21 @@
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "7",
       "KONU": "3.2. İki Kollu Ortada Sahanlıklı Düz Merdiven Plan ve Kesit Çizimi",
-      "KAZANIM": "Ortada sahanlıklı düz merdiven planı ve kesitini çizer."
+      "KAZANIM": "Ortada sahanlıklı düz merdiven PLANI ve kesitini çizer."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "7",
       "KONU": "3.2. İki Kollu Ortada Sahanlıklı Düz Merdiven Plan ve Kesit Çizimi",
-      "KAZANIM": "Ortada sahanlıklı düz merdiven planı ve kesitini çizer."
+      "KAZANIM": "Ortada sahanlıklı düz merdiven PLANI ve kesitini çizer."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "7",
       "KONU": "3.3. Yarım Döner Merdiven Plan ve Kesit Çizimi \n\n1.Dönem 1.Sınav",
-      "KAZANIM": "Çizim programında yarım döner merdiven planı ve kesitini çizer.\nCAD programında aldığı çıktıları  dosyalar.",
+      "KAZANIM": "Çizim programında yarım döner merdiven PLANI ve kesitini çizer.\nCAD programında aldığı çıktıları  dosyalar.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -86,14 +86,14 @@
       "SAAT": "7",
       "KONU": "4.3. Aydınlatma Armatürleri Çizimi\n4.4. Islak Hacim Elemanları Çizimi\n4.5. Isıtma ve Soğutma Elemanları Çizimi",
       "KAZANIM": "İç mekân aydınlatma armatürlerini CAD programında ilgili komutlarla çizer.\nİç mekânda ıslak mekân  elemanlarını CAD programında ilgili komutlarla çizer.\nİç mekânda ısıtma ve soğutma  elemanlarını CAD programında çeşitli  komutlarla çizer.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "7",
-      "KONU": "5. ÖĞRENME BİRİMİ DUBLEKS KONUT BİNA ETÜDÜ\n5.1. İhtiyaç Listesi ve Fizibilite Çalışması\n5.1.1. Fizibilite Çalışması ile Bina Sahibinin İstek ve İhtiyaçları Doğrultusunda Bina Etüdü Yapılması\n5.1.2. Konut ve Toplu Kullanım Bina Mahalleri\n5.2. Mekânlarda Ergonomi\n5.3. Kat Planı Etüdü",
-      "KAZANIM": "İhtiyaç listesi ve fizibilite çalışmasını mimari proje düzenleme esaslarına uygun olarak yapar.\nMimari proje düzenleme esaslarına  uygun olarak insan ve eşya ölçülerini  dikkate alarak mekânların alanlarını tespit eder.\nMimari proje düzenleme esaslarına  uygun olarak kat planı etüdü yapar.",
+      "KONU": "5. ÖĞRENME BİRİMİ DUBLEKS KONUT BİNA ETÜDÜ\n5.1. İhtiyaç Listesi ve Fizibilite Çalışması\n5.1.1. Fizibilite Çalışması ile Bina Sahibinin İstek ve İhtiyaçları Doğrultusunda Bina Etüdü Yapılması\n5.1.2. Konut ve Toplu Kullanım Bina Mahalleri\n5.2. Mekânlarda Ergonomi\n5.3. Kat PLANI Etüdü",
+      "KAZANIM": "İhtiyaç listesi ve fizibilite çalışmasını mimari proje düzenleme esaslarına uygun olarak yapar.\nMimari proje düzenleme esaslarına  uygun olarak insan ve eşya ölçülerini  dikkate alarak mekânların alanlarını tespit eder.\nMimari proje düzenleme esaslarına  uygun olarak kat PLANI etüdü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -108,24 +108,24 @@
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "7",
-      "KONU": "6. ÖĞRENME BİRİMİ BİLGİSAYARLA DUBLEKS KONUT ZEMİN KAT PLANI ÇİZİMİ\n6.1. Zemin Kat Planı Elemanları\n6.2. Zemin Kat Planı Ölçülendirme ve Yazı Ayarları\n6.2.1. Yazı Ayarları\n6.2.2. Ölçülendirme Ayarları",
-      "KAZANIM": "Zemin kat planını CAD programında komutlarla çizer.\nZemin kat planı ölçülendirme ve yazı  ayarlarını CAD programındaki ilgili  komutlarla yapar.",
+      "KONU": "6. ÖĞRENME BİRİMİ BİLGİSAYARLA DUBLEKS KONUT ZEMİN KAT PLANI ÇİZİMİ\n6.1. Zemin Kat PLANI Elemanları\n6.2. Zemin Kat PLANI Ölçülendirme ve Yazı Ayarları\n6.2.1. Yazı Ayarları\n6.2.2. Ölçülendirme Ayarları",
+      "KAZANIM": "Zemin kat planını CAD programında komutlarla çizer.\nZemin kat PLANI ölçülendirme ve yazı  ayarlarını CAD programındaki ilgili  komutlarla yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "7",
-      "KONU": "6.3. Zemin Kat Planı İç ve Dış Ölçülendirmeleri\n6.3.1. İç Ölçülendirme\n6.3.2. Dış Ölçülendirme\n6.3.3. Kotlu Ölçülendirme\n6.4. Zemin Kat Planı Eleman ve Mahal Bilgileri",
-      "KAZANIM": "Zemin kat planının iç ve dış ölçülendirmesini CAD programında yapar.\nZemin kat planı eleman ve mahal  bilgilerini CAD programında  oluşturduğu yazı stilleri ile yazar.",
+      "KONU": "6.3. Zemin Kat PLANI İç ve Dış Ölçülendirmeleri\n6.3.1. İç Ölçülendirme\n6.3.2. Dış Ölçülendirme\n6.3.3. Kotlu Ölçülendirme\n6.4. Zemin Kat PLANI Eleman ve Mahal Bilgileri",
+      "KAZANIM": "Zemin kat planının iç ve dış ölçülendirmesini CAD programında yapar.\nZemin kat PLANI eleman ve mahal  bilgilerini CAD programında  oluşturduğu yazı stilleri ile yazar.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "7",
-      "KONU": "6.5. Zemin Kat Planı Tefriş ve Taramaları\n6.5.1. Sabit Eşya Tefrişi\n6.5.2. Taşınabilir Hareketli Eşya Tefrişi\n6.5.3. Taramalar \n6.6. Zemin Kat Planı Anteti",
-      "KAZANIM": "Zemin kat planının tefriş ve taramalarını CAD programında yapar.\nZemin kat planı mahal listesi ve  antedini CAD programında çeşitli  komutlarla yapar.",
+      "KONU": "6.5. Zemin Kat PLANI Tefriş ve Taramaları\n6.5.1. Sabit Eşya Tefrişi\n6.5.2. Taşınabilir Hareketli Eşya Tefrişi\n6.5.3. Taramalar \n6.6. Zemin Kat PLANI Anteti",
+      "KAZANIM": "Zemin kat planının tefriş ve taramalarını CAD programında yapar.\nZemin kat PLANI mahal listesi ve  antedini CAD programında çeşitli  komutlarla yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
@@ -139,7 +139,7 @@
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "7",
-      "KONU": "8. ÖĞRENME BİRİMİ BİLGİSAYARLA DUBLEKS KONUT NORMAL KAT PLANI ÇİZİMİ\n8.1. Normal Kat Planı Elemanları\n8.2. Normal Kat Planı İç ve Dış Ölçülendirmesi",
+      "KONU": "8. ÖĞRENME BİRİMİ BİLGİSAYARLA DUBLEKS KONUT NORMAL KAT PLANI ÇİZİMİ\n8.1. Normal Kat PLANI Elemanları\n8.2. Normal Kat PLANI İç ve Dış Ölçülendirmesi",
       "KAZANIM": "1. Dönem 2. Sınav Normal kat planını CAD programında komutlarla çizer.\nNormal kat planının iç ve dış  ölçülendirmesini CAD programında  yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
@@ -179,22 +179,22 @@
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "7",
-      "KONU": "8.3. Normal Kat Planı Eleman ve Mahal Bilgileri\n8.4. Normal Kat Planı Tefriş ve Taramaları\n8.5. Normal Kat Planı Anteti",
-      "KAZANIM": "Normal kat planı eleman ve mahal bilgilerini CAD programında oluşturduğu yazı stilleri ile yazar.\nNormal kat planının tefriş ve  taramalarını CAD programında yapar.\nNormal kat planı mahal listesi ve  antedini CAD programında çeşitli  komutlarla yapar."
+      "KONU": "8.3. Normal Kat PLANI Eleman ve Mahal Bilgileri\n8.4. Normal Kat PLANI Tefriş ve Taramaları\n8.5. Normal Kat PLANI Anteti",
+      "KAZANIM": "Normal kat PLANI eleman ve mahal bilgilerini CAD programında oluşturduğu yazı stilleri ile yazar.\nNormal kat planının tefriş ve  taramalarını CAD programında yapar.\nNormal kat PLANI mahal listesi ve  antedini CAD programında çeşitli  komutlarla yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "7",
-      "KONU": "9. ÖĞRENME BİRİMİ BİLSAYARLA DUBLEKS KONUT BODRUM KAT PLANI ÇİZİMİ\n9.1. Bodrum Kat Planı Elemanları\n9.2. Bodrum Kat Planı İç ve Dış Ölçülendirmesi",
+      "KONU": "9. ÖĞRENME BİRİMİ BİLSAYARLA DUBLEKS KONUT BODRUM KAT PLANI ÇİZİMİ\n9.1. Bodrum Kat PLANI Elemanları\n9.2. Bodrum Kat PLANI İç ve Dış Ölçülendirmesi",
       "KAZANIM": "Bodrum kat planını CAD programında komutlarla çizer.\nBodrum kat planının iç ve dış  ölçülendirmesini CAD programında  yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "7",
-      "KONU": "9.3. Bodrum Kat Planı Eleman ve Mahal Bilgileri\n9.4. Bodrum Kat Planı Tefriş ve Taramaları\n9.5. Bodrum Kat Planı Anteti",
-      "KAZANIM": "Bodrum kat planı eleman ve mahal bilgilerini oluşturduğu yazı stilleri ile CAD programında yazar.\nBodrum kat planının tefriş ve  taramalarını CAD programında yapar.\nBodrum kat planı mahal listesi ve  antedini CAD programında çeşitli  komutlarla yapar.",
+      "KONU": "9.3. Bodrum Kat PLANI Eleman ve Mahal Bilgileri\n9.4. Bodrum Kat PLANI Tefriş ve Taramaları\n9.5. Bodrum Kat PLANI Anteti",
+      "KAZANIM": "Bodrum kat PLANI eleman ve mahal bilgilerini oluşturduğu yazı stilleri ile CAD programında yazar.\nBodrum kat planının tefriş ve  taramalarını CAD programında yapar.\nBodrum kat PLANI mahal listesi ve  antedini CAD programında çeşitli  komutlarla yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -226,7 +226,7 @@
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "7",
-      "KONU": "10.3. Çatı Planı Yazıları ve Ölçülendirmesi\n10.3.1. Yazı ve Ölçülendirme Ayarları\n10.3.2. Çatı Elemanlarının İsim ve Ebadı\n10.3.3. Plan ve Kesitin Ölçülendirmesi",
+      "KONU": "10.3. Çatı PLANI Yazıları ve Ölçülendirmesi\n10.3.1. Yazı ve Ölçülendirme Ayarları\n10.3.2. Çatı Elemanlarının İsim ve Ebadı\n10.3.3. Plan ve Kesitin Ölçülendirmesi",
       "KAZANIM": "CAD programında beşik çatı kesit çizimini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
@@ -234,7 +234,7 @@
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "7",
-      "KONU": "10.4. Çatı Makası ve Detay Çizimleri\n10.4.1. Çatı Makası Çizimi\n10.4.2. Aşık Birleşim Detayları\n10.5. Çatı Planı Taramaları ve Antet Çizimi",
+      "KONU": "10.4. Çatı Makası ve Detay Çizimleri\n10.4.1. Çatı Makası Çizimi\n10.4.2. Aşık Birleşim Detayları\n10.5. Çatı PLANI Taramaları ve Antet Çizimi",
       "KAZANIM": "CAD programında beşik çatı planının yazı ve ölçülendirmesini yapar.\nCAD programında çatı makası ve  detay çizimlerini yapar.\nCAD programında çatı planının  taramalarını ve antedi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
@@ -298,8 +298,8 @@
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "7",
-      "KONU": "13. ÖĞRENME BİRİMİ BİLGİSAYARLA DUBLEKS KONUT VAZİYET PLANI ÇİZİMİ\n13.1. Vaziyet Planı Çizimi",
-      "KAZANIM": "CAD programında vaziyet planı çizimini yapar.\nCAD programında vaziyet planına  bina kesitlerinin çizimini yapar.\nCAD programında vaziyet planının  ölçülendirme ve yazılarını yazar.",
+      "KONU": "13. ÖĞRENME BİRİMİ BİLGİSAYARLA DUBLEKS KONUT VAZİYET PLANI ÇİZİMİ\n13.1. Vaziyet PLANI Çizimi",
+      "KAZANIM": "CAD programında vaziyet PLANI çizimini yapar.\nCAD programında vaziyet planına  bina kesitlerinin çizimini yapar.\nCAD programında vaziyet planının  ölçülendirme ve yazılarını yazar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -307,7 +307,7 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "7",
       "KONU": "13.2. Çizici Plotter Ayarları ve Çıktı Alma",
-      "KAZANIM": "2. Dönem 2. Sınav CAD programında vaziyet planı tefriş ve donatımını yapar.\nÇıktı Plotter ayarlarını yapar.",
+      "KAZANIM": "2. Dönem 2. Sınav CAD programında vaziyet PLANI tefriş ve donatımını yapar.\nÇıktı Plotter ayarlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {

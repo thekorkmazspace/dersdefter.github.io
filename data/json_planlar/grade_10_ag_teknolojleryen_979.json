@@ -106,7 +106,7 @@
       "KONU": "Dinamik Yönlendirme",
       "KAZANIM": "Yönlendirici arayüzlerine IP adresi atama işlemini uygular.",
       "KAZANIM AÇIKLAMASI": "Yönlendirici arayüzlerine IP adresi atama işlemini açıklayarak uygulamasını yaptırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
@@ -223,26 +223,26 @@
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "3",
-      "ÜNİTE": "Yazılım Tabanlı Ağ SDN Teknolojisi",
+      "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "Ağ Sanallaştırma",
-      "KAZANIM": "Yazılım Tabanlı Ağ SDN mimarisini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Yazılım tabanlı ağ mimarisi açıklanır.\n       Yazılım tabanlı ağ mimarisinde kontrol düzlemi açıklanır.\n       Yazılım tabanlı ağ mimarisinde veri düzlemi açıklanır.\n       Yazılım tabanlı ağ mimarisinde yönetim düzlemi açıklanır.\n       SDN  mimarisinde kullanılan denetleyiciler açıklanır\n       SDN türleri açıklanır."
+      "KAZANIM": "YAZILIM Tabanlı Ağ SDN mimarisini açıklar.",
+      "KAZANIM AÇIKLAMASI": "YAZILIM tabanlı ağ mimarisi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde kontrol düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde veri düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde yönetim düzlemi açıklanır.\n       SDN  mimarisinde kullanılan denetleyiciler açıklanır\n       SDN türleri açıklanır."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "3",
-      "ÜNİTE": "Yazılım Tabanlı Ağ SDN Teknolojisi",
+      "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "Ağ Sanallaştırma",
-      "KAZANIM": "Yazılım Tabanlı Ağ SDN mimarisini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Yazılım tabanlı ağ mimarisi açıklanır.\n       Yazılım tabanlı ağ mimarisinde kontrol düzlemi açıklanır.\n       Yazılım tabanlı ağ mimarisinde veri düzlemi açıklanır.\n       Yazılım tabanlı ağ mimarisinde yönetim düzlemi açıklanır.\n       SDN  mimarisinde kullanılan denetleyiciler açıklanır\n       SDN türleri açıklanır.",
+      "KAZANIM": "YAZILIM Tabanlı Ağ SDN mimarisini açıklar.",
+      "KAZANIM AÇIKLAMASI": "YAZILIM tabanlı ağ mimarisi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde kontrol düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde veri düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde yönetim düzlemi açıklanır.\n       SDN  mimarisinde kullanılan denetleyiciler açıklanır\n       SDN türleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "3",
-      "ÜNİTE": "Yazılım Tabanlı Ağ SDN Teknolojisi",
+      "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "Spine-Leaf Teknolojisi",
       "KAZANIM": "Ağ sanallaştırma teknolojileri uygulamalarını yapar.",
       "KAZANIM AÇIKLAMASI": "Ağ sanallaştırma teknolojileri açıklanarak sanallaştırma uygulaması yapılır.",
@@ -252,7 +252,7 @@
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "3",
-      "ÜNİTE": "Yazılım Tabanlı Ağ SDN Teknolojisi",
+      "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "Spine-Leaf Teknolojisi",
       "KAZANIM": "Ağ sanallaştırma teknolojileri uygulamalarını yapar.",
       "KAZANIM AÇIKLAMASI": "Ağ sanallaştırma teknolojileri açıklanarak sanallaştırma uygulaması yapılır.",
@@ -271,8 +271,8 @@
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "3",
-      "ÜNİTE": "Yazılım Tabanlı Ağ SDN Teknolojisi",
-      "KONU": "Yazılım Tabanlı Ağlar",
+      "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
+      "KONU": "YAZILIM Tabanlı Ağlar",
       "KAZANIM": "Omurga-Kanat Spine-Leaf topolojisini açıklar.",
       "KAZANIM AÇIKLAMASI": "Spine-Leaf teknolojisi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
@@ -281,8 +281,8 @@
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "3",
-      "ÜNİTE": "Yazılım Tabanlı Ağ SDN Teknolojisi",
-      "KONU": "Yazılım Tabanlı Ağlar",
+      "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
+      "KONU": "YAZILIM Tabanlı Ağlar",
       "KAZANIM": "Omurga-Kanat Spine-Leaf topolojisini açıklar.",
       "KAZANIM AÇIKLAMASI": "Spine-Leaf teknolojisi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
@@ -291,8 +291,8 @@
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "3",
-      "ÜNİTE": "Yazılım Tabanlı Ağ SDN Teknolojisi",
-      "KONU": "Yazılım Tabanlı Ağlar",
+      "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
+      "KONU": "YAZILIM Tabanlı Ağlar",
       "KAZANIM": "2. Dönem 1. Sınav Omurga-Kanat Spine-Leaf topolojisini açıklar.",
       "KAZANIM AÇIKLAMASI": "Spine-Leaf teknolojisi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
@@ -301,8 +301,8 @@
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "3",
-      "ÜNİTE": "Yazılım Tabanlı Ağ SDN Teknolojisi",
-      "KONU": "Yazılım Tabanlı Ağlar",
+      "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
+      "KONU": "YAZILIM Tabanlı Ağlar",
       "KAZANIM": "Omurga-Kanat Spine-Leaf topolojisini açıklar.",
       "KAZANIM AÇIKLAMASI": "Spine-Leaf teknolojisi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"

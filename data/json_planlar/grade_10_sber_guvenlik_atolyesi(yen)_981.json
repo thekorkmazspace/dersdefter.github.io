@@ -9,7 +9,7 @@
       "ÜNİTE": "Siber Güvenliğe Giriş",
       "KONU": "Adli bilişim kavramları       Bilgi güvenliği standartları",
       "KAZANIM": "Siber güvenlik etik ilkelerini açıklar.Siber güvenlik kavramlarını açıklar.",
-      "KAZANIM AÇIKLAMASI": "Bilgi gizliliği ve etik kavramları açıklanır.\n       Bilgi güvenliği uygulamasıyla ilgili yasal problemler ve telif hakları açıklanır.\n       Siber güvenlik uzmanlarının ahlaki sorumlulukları açıklanır.\n       Güvenli dijital vatandaşlık özellikleri açıklanır.\n       Siber zorbalık kavramı açıklanır.\n       Gizlilik bütünlük ve erişebilirlik güvenlik unsurları açıklanır.\n       Siyah Şapkalı Beyaz şapkalı ve Gri Şapkalı Hacker özellikleri açıklanır.\n       Siber saldırı türleri açıklanır.\n       Arka kapı ve kötü amaçlı yazılım özellikleri açıklanır.",
+      "KAZANIM AÇIKLAMASI": "Bilgi gizliliği ve etik kavramları açıklanır.\n       Bilgi güvenliği uygulamasıyla ilgili yasal problemler ve telif hakları açıklanır.\n       Siber güvenlik uzmanlarının ahlaki sorumlulukları açıklanır.\n       Güvenli dijital vatandaşlık özellikleri açıklanır.\n       Siber zorbalık kavramı açıklanır.\n       Gizlilik bütünlük ve erişebilirlik güvenlik unsurları açıklanır.\n       Siyah Şapkalı Beyaz şapkalı ve Gri Şapkalı Hacker özellikleri açıklanır.\n       Siber saldırı türleri açıklanır.\n       Arka kapı ve kötü amaçlı YAZILIM özellikleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -98,7 +98,7 @@
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "5",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
@@ -135,7 +135,7 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "5",
       "ÜNİTE": "Mobil Uygulama Güvenliği",
-      "KONU": "Mobil sistemlerde zararlı yazılım analizi",
+      "KONU": "Mobil sistemlerde zararlı YAZILIM analizi",
       "KAZANIM": "Mobil uygulama kavramlarını açıklar.",
       "KAZANIM AÇIKLAMASI": "Mobil uygulama similatör arayüzü açıklanır.\n       Mobil uygulama kod blok yapısı açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
@@ -165,7 +165,7 @@
       "SAAT": "5",
       "ÜNİTE": "Mobil Uygulama Güvenliği",
       "KONU": "Mobil uygulamalarda güvenlik denetimi",
-      "KAZANIM": "1. Dönem 2. Sınav Mobil   sistemlerde   zararlı   yazılım   analiz yöntemlerini kullanır.",
+      "KAZANIM": "1. Dönem 2. Sınav Mobil   sistemlerde   zararlı   YAZILIM   analiz yöntemlerini kullanır.",
       "KAZANIM AÇIKLAMASI": "Statik kod analizi tekniklerini uygulatır.\n       Dinamik kod analizi tekniklerini uygulatır.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
@@ -199,7 +199,7 @@
       "SAAT": "5",
       "ÜNİTE": "Mobil Uygulama Güvenliği",
       "KONU": "Mobil uygulamalarda güvenlik denetimi",
-      "KAZANIM": "Mobil   sistemlerde   zararlı   yazılım   analiz yöntemlerini kullanır.",
+      "KAZANIM": "Mobil   sistemlerde   zararlı   YAZILIM   analiz yöntemlerini kullanır.",
       "KAZANIM AÇIKLAMASI": "Statik kod analizi tekniklerini uygulatır.\n       Dinamik kod analizi tekniklerini uygulatır."
     },
     {
@@ -208,7 +208,7 @@
       "SAAT": "5",
       "ÜNİTE": "Mobil Uygulama Güvenliği",
       "KONU": "Mobil uygulamalarda güvenlik denetimi",
-      "KAZANIM": "Mobil   sistemlerde   zararlı   yazılım   analiz yöntemlerini kullanır.",
+      "KAZANIM": "Mobil   sistemlerde   zararlı   YAZILIM   analiz yöntemlerini kullanır.",
       "KAZANIM AÇIKLAMASI": "Statik kod analizi tekniklerini uygulatır.\n       Dinamik kod analizi tekniklerini uygulatır."
     },
     {
@@ -306,7 +306,7 @@
       "ÜNİTE": "IoT Güvenliği",
       "KONU": "IoT zafiyet ve tehditleri       Nesnelerin İnterneti IoT mimarisi",
       "KAZANIM": "IoT güvenlik tedbirlerini açıklar.IoT güvenlik testini yapar.",
-      "KAZANIM AÇIKLAMASI": "IoT yazılım güvenlik tedbirleri açıklanır.\n       IoT donanım güvenlik tedbirleri açıklanır.\n       IoT yazılım güvenlik testi gerçekleştirir.\n       IoT donanım güvenlik testi gerçekleştirir.",
+      "KAZANIM AÇIKLAMASI": "IoT YAZILIM güvenlik tedbirleri açıklanır.\n       IoT donanım güvenlik tedbirleri açıklanır.\n       IoT YAZILIM güvenlik testi gerçekleştirir.\n       IoT donanım güvenlik testi gerçekleştirir.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {

@@ -14,7 +14,7 @@
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "6",
-      "KONU": "2. Üretim Tahmin Hesabı\n2.1. Meteorolojik Veriler üretim tahmini yapan paket programa aktarma\n2.2. Verilerin  güneş ve rüzgar santralleri için günlük aylık ve yıllık enerji hesaplamalarında kullanma",
+      "KONU": "2. Üretim Tahmin Hesabı\n2.1. Meteorolojik Veriler üretim tahmini yapan paket programa aktarma\n2.2. Verilerin  güneş ve rüzgar santralleri için günlük aylık ve YILLIK enerji hesaplamalarında kullanma",
       "KAZANIM": "Elde edilen verilere dayanarak üretim tahmini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
@@ -45,7 +45,7 @@
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "6",
-      "KONU": "6. Verilerin Kaydı\n6.1. Kumanda odası verilerini günlük haftalık aylık ve yıllık olarak yapılıp yapılmadığı inceleme\n6.2. Kayıt edilen verilerin dijital ortamda arşivleme",
+      "KONU": "6. Verilerin Kaydı\n6.1. Kumanda odası verilerini günlük haftalık aylık ve YILLIK olarak yapılıp yapılmadığı inceleme\n6.2. Kayıt edilen verilerin dijital ortamda arşivleme",
       "KAZANIM": "Kumanda odası verilerini kayıt eder."
     },
     {
@@ -86,7 +86,7 @@
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ Santral Şalt Manevraları\n1. Kesiciyi Manevraları\n1.1. Sistem üzerinden manevrası yapılacak kesici belirleme\n1.2. Scada üzerinden belirlenen kesici açıklama\n1.3. Bakım veya arıza giderildiğinde scada üzerinden kesiciyi kapama işlemi",
       "KAZANIM": "Kesici manevrası yapar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",

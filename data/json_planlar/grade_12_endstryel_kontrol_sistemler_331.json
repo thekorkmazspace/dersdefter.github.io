@@ -30,14 +30,14 @@
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "2.3.2. Küçük motorlar\n2.3.3. Selonoidler\n2.3.4. Röle ve motorlar\n2.4. Giriş Ve Çıkışların Adreslenmeleri Ve İfade Edilişleri\n3. PLCLİ KONTROL DEVRELERİNİN ÇİZİMİ\n3.1. Giriş Elemanlarının Besleme Ve PLC Bağlantılarının Çizimi\n3.2. Çıkış Elemanlarının Besleme Ve PLC Bağlantılarının Çizimi\n3.3. Çıkış elemanları üzerinden bağlanan yüksek akımlı alıcıların asenkron motor vb bağlantı çizimini",
-      "KAZANIM": "C. Teknik ve meslek resim kurallarına uygun olarak giriş çıkış adresleri hatasız olacak şekilde PLCli kontrol sistemlerinin şema çizimini yapar.",
+      "KAZANIM": "C. Teknik ve MESLEKİ resim kurallarına uygun olarak giriş çıkış adresleri hatasız olacak şekilde PLCli kontrol sistemlerinin şema çizimini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
-      "KONU": "Modül PLC PROGRAMLAMA TEKNİKLERİ\n1. PLC İÇİN KONTROL PROGRAMININ YAZILMASI\n1.1. PLCdeProgramlama Mantığı Ve Kontrol Programı Türleri\n1.2. PLC Program Yazılım Dilleri",
+      "KONU": "Modül PLC PROGRAMLAMA TEKNİKLERİ\n1. PLC İÇİN KONTROL PROGRAMININ YAZILMASI\n1.1. PLCdeProgramlama Mantığı Ve Kontrol Programı Türleri\n1.2. PLC Program YAZILIM Dilleri",
       "KAZANIM": "A. Sistem için gerekli PLC kontrol programını şartname ve iş sağlığı ve güvenliği önlemlerini alarak hatasız yazar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
@@ -86,7 +86,7 @@
       "SAAT": "2",
       "KONU": "Modül PLC İLE ÜNİTE KONTROLÜ\n1. TEMEL SEVİYE PLC ÜNİTE KURULUMU\n1.1. Ünite akış şemasının çıkarılması\n1.2. Güvenli çalışma için alınacak güvenlik önlemlerinin tespiti\n1.3. Ünitenin çalışma için gerekli malzemelerin temini\n1.4. Ünite için gerekli çalışma senaryosuna göre PLC kontrol programının yazımı",
       "KAZANIM": "A. İş sağlığı ve güvenliği önlemlerini alarak uygun teknik özellikteki giriş çıkış elemanları kullanıp montaj ve bağlantı tekniğine uygun şekilde PLC ile temel seviye ünite kontrolü yapar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
@@ -139,7 +139,7 @@
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
-      "KONU": "2.5. Hangi PLC Program yazılım dillerinin kullanılacağının tespiti\n2.6. Motorun çalışma şeklini gerçekleştirecek komut dizininin yazılması\n2.7. PLC kontrol programının kontrolü\n2.8. PLC kontrol programının PLC ye yüklenmesi\n2.9. PLC kontrol programının simülasyonu",
+      "KONU": "2.5. Hangi PLC Program YAZILIM dillerinin kullanılacağının tespiti\n2.6. Motorun çalışma şeklini gerçekleştirecek komut dizininin yazılması\n2.7. PLC kontrol programının kontrolü\n2.8. PLC kontrol programının PLC ye yüklenmesi\n2.9. PLC kontrol programının simülasyonu",
       "KAZANIM": "1. Dönem 2. Sınav B. İş sağlığı ve güvenliği önlemlerini alarak motor ya da motorların çalışma şekline uygun şekilde PLC programını hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },

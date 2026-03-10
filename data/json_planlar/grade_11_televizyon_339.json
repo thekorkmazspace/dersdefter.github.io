@@ -86,7 +86,7 @@
       "SAAT": "4",
       "KONU": "4. SİSTEM KONTROL KATI ARIZALARINI ONARMA\n4.1. Sistem kontrol katından kaynaklanan arızalar\n4.2. Arızanın teşhis edilmesi\n4.3. Uzaktan kumanda el ünitesinde oluşabilecek arızaların tespiti\n4.4. Sistem kontrol katı entegresinin kontrolü\n4.5. Hafıza kontrol entegresinin kontrolü\n4.6. Arızanın yerinin bulunması için dijital mantık probu kullanılması",
       "KAZANIM": "D. Ölçü aletinin doğru ölçme kademesinde olmasına Elektrostatik Deşarj ESD kurallarına ve iş sağlığı ve güvenliği kurallarına uyarak sistem kontrol katı arızalarını onarır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
@@ -313,16 +313,16 @@
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "4",
-      "KONU": "Modül UYDU ALICISI YAZILIMLARI\n1. YAZILIM VE VERSİYON GÜNCELLEMESİ YAPMA\n1.1. Uydu cihazı ile bilgisayar bağlantı ekipman ve yöntemleri\n1.2. Uydu cihazının yazılım ve versiyon güncelleme şekilleri",
-      "KAZANIM": "A. Uydu cihazına uygun program kullanmaya dikkat ederek yazılım ve versiyon güncellemesi yapar.",
+      "KONU": "Modül UYDU ALICISI YAZILIMLARI\n1. YAZILIM VE VERSİYON GÜNCELLEMESİ YAPMA\n1.1. Uydu cihazı ile bilgisayar bağlantı ekipman ve yöntemleri\n1.2. Uydu cihazının YAZILIM ve versiyon güncelleme şekilleri",
+      "KAZANIM": "A. Uydu cihazına uygun program kullanmaya dikkat ederek YAZILIM ve versiyon güncellemesi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "4",
-      "KONU": "1.3. Uydu güncelleme programı ve kullanım aşamaları\n2. YAZILIM YEDEKLEMESİ YAPMA\n2.1. Uydu yazılım yedekleme programı ve kullanım aşamaları",
-      "KAZANIM": "B. Uydu cihazına uygun program kullanmaya dikkat ederek yazılım yedeklemesi yapar.",
+      "KONU": "1.3. Uydu güncelleme programı ve kullanım aşamaları\n2. YAZILIM YEDEKLEMESİ YAPMA\n2.1. Uydu YAZILIM yedekleme programı ve kullanım aşamaları",
+      "KAZANIM": "B. Uydu cihazına uygun program kullanmaya dikkat ederek YAZILIM yedeklemesi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {

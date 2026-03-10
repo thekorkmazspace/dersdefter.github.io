@@ -1,14 +1,14 @@
 {
   "sinif": "10",
-  "ders": "BLŞM TEKNOLOJİLER VE YAZILIM",
+  "ders": "BİLİŞİM TEKNOLOJİLER VE YAZILIM",
   "plan": [
     {
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  1. PYTHON İLE PROGRAMLAMANIN TEMELLERİ",
-      "KONU": "1.1. Yazılım Geliştirme Süreci \n1.2. Neden Python",
-      "KAZANIM": "1.1.1. Yazılım geliştirme süreci konusunda bilgi sahibi olur.",
+      "KONU": "1.1. YAZILIM Geliştirme Süreci \n1.2. Neden Python",
+      "KAZANIM": "1.1.1. YAZILIM geliştirme süreci konusunda bilgi sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -96,7 +96,7 @@
       "ÜNİTE": "ÜNİTE  4. KOŞULLU DURUMLAR",
       "KONU": "4.5. Birleşik Boolean İfadesi 4.6. Pass İfadesi",
       "KAZANIM": "4.1.1.Program yazma sürecinde kullanılan koşullu durumlar konusunda bilgi sahibi olur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",

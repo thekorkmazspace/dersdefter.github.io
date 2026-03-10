@@ -1,6 +1,6 @@
 {
   "sinif": "8",
-  "ders": "BLŞM TEKNOLOJİLER VE YAZILIM (SEÇMELİ)",
+  "ders": "BİLİŞİM TEKNOLOJİLER VE YAZILIM (SEÇMELİ)",
   "plan": [
     {
       "AY": "EYLÜL",
@@ -8,7 +8,7 @@
       "SAAT": "2",
       "ÜNİTE": "1. ÜNİTE  BİLİŞİM TEKNOLOJİLERİ",
       "KONU": "SBT.8.1.1. Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi",
-      "KAZANIM": "SBT.8.1.1.1. Teknolojinin engelli bireylerin hayatında oynayabileceği rolü açıklar.\nSBT.8.1.1.2. Siber saldırı ve yazılım korsanlığı ile ilişkili sosyal ve ekonomik sonuçları tartışır.",
+      "KAZANIM": "SBT.8.1.1.1. Teknolojinin engelli bireylerin hayatında oynayabileceği rolü açıklar.\nSBT.8.1.1.2. Siber saldırı ve YAZILIM korsanlığı ile ilişkili sosyal ve ekonomik sonuçları tartışır.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -96,7 +96,7 @@
       "ÜNİTE": "3. ÜNİTE PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "SBT.8.3.2. Programlama",
       "KAZANIM": "SBT.8.3.1.4. Belirlenen problemin çözümü için doğru algoritmayı oluşturur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
@@ -198,7 +198,7 @@
       "SAAT": "2",
       "ÜNİTE": "3. ÜNİTE PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "SBT.8.3.2. Programlama",
-      "KAZANIM": "SBT. 8.3.2.9. Yazılım geliştirme sürecini açıklar."
+      "KAZANIM": "SBT. 8.3.2.9. YAZILIM geliştirme sürecini açıklar."
     },
     {
       "AY": "ŞUBAT",
@@ -206,7 +206,7 @@
       "SAAT": "2",
       "ÜNİTE": "3. ÜNİTE PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "SBT.8.3.2. Programlama",
-      "KAZANIM": "SBT. 8.3.2.10. Tüm programlama yapılarını içeren özgün bir yazılım projesi oluşturur."
+      "KAZANIM": "SBT. 8.3.2.10. Tüm programlama yapılarını içeren özgün bir YAZILIM projesi oluşturur."
     },
     {
       "AY": "ŞUBAT",
@@ -214,7 +214,7 @@
       "SAAT": "2",
       "ÜNİTE": "3. ÜNİTE PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "SBT.8.3.2. Programlama",
-      "KAZANIM": "SBT. 8.3.2.10. Tüm programlama yapılarını içeren özgün bir yazılım projesi oluşturur.",
+      "KAZANIM": "SBT. 8.3.2.10. Tüm programlama yapılarını içeren özgün bir YAZILIM projesi oluşturur.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {

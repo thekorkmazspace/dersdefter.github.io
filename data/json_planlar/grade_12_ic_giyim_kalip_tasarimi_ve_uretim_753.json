@@ -7,7 +7,7 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ ATLET ÜRETİMİ\n1.\tERKEKKADIN ATLET KALIBI \n1.1.\tİç giyimde kullanılan kumaşlar ve özellikleri \n1.2.\tİç giyimde kullanılan kumaşlarda esneme-çekme testleri ve oran hesaplamaları \n1.3.\tİç giyimde ölçü alma teknikleri",
-      "KAZANIM": "Giysi için gerekli ölçüleri beden standart ölçü tablosundan kullanır.\nErkekkadın atlet kalıbı hazırlar.",
+      "KAZANIM": "Giysi için gerekli ölçüleri BEDEN standart ölçü tablosundan kullanır.\nErkekkadın atlet kalıbı hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,14 +15,14 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "7",
       "KONU": "1.4.\tAtlet model analizi \n1.5.\tAtlet kalıbı çizimi ve şablonu \n1.6.\tAtlet seri farkları tablosu",
-      "KAZANIM": "Giysi için gerekli ölçüleri beden standart ölçü tablosundan kullanır.\nErkekkadın atlet kalıbı hazırlar.",
+      "KAZANIM": "Giysi için gerekli ölçüleri BEDEN standart ölçü tablosundan kullanır.\nErkekkadın atlet kalıbı hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "7",
-      "KONU": "2.\tERKEKKADIN ATLETİ ANA VE YARDIMCI MALZEME HESABI\n2.1.\tErkekkadın atlet pastal planı hazırlama\n2.2.\tPastal planı üzerinden ana ve yardımcı malzeme metraj hesabı",
+      "KONU": "2.\tERKEKKADIN ATLETİ ANA VE YARDIMCI MALZEME HESABI\n2.1.\tErkekkadın atlet pastal PLANI hazırlama\n2.2.\tPastal PLANI üzerinden ana ve yardımcı malzeme metraj hesabı",
       "KAZANIM": "ErkekKadın atleti ana ve yardımcı malzeme hesabını yapar."
     },
     {
@@ -59,7 +59,7 @@
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "7",
-      "KONU": "5.\tERKEKKADIN ATLET ÜRETİMİ \n5.1.\tErkekkadın atlet dikim planı\n5.2.\tErkekkadın atlet dikimi  \n \n1.Dönem 1.Sınav",
+      "KONU": "5.\tERKEKKADIN ATLET ÜRETİMİ \n5.1.\tErkekkadın atlet dikim PLANI\n5.2.\tErkekkadın atlet dikimi  \n \n1.Dönem 1.Sınav",
       "KAZANIM": "Erkekkadın atlet üretimini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
@@ -85,22 +85,22 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ KADIN BODY ÜRETİMİ\n1.\tKADIN BODY KALIBI\n1.1.\tKadın body kumaşında esnemeçekme testleri ve oran hesaplamaları \n1.2.\tKadın body model analiz işlemleri",
-      "KAZANIM": "Giysi için gerekli ölçüleri beden standart ölçü tablosundan kullanır.\nKadın body kalıbı hazırlar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "KAZANIM": "Giysi için gerekli ölçüleri BEDEN standart ölçü tablosundan kullanır.\nKadın body kalıbı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "7",
       "KONU": "1.3.\tKadın body kalıbı çizimi ve şablonu hazırlama\n1.4.\tKadın body seri farkları tablosu",
-      "KAZANIM": "Giysi için gerekli ölçüleri beden standart ölçü tablosundan kullanır.\nKadın body kalıbı hazırlar.",
+      "KAZANIM": "Giysi için gerekli ölçüleri BEDEN standart ölçü tablosundan kullanır.\nKadın body kalıbı hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "7",
-      "KONU": "2.\tKADIN BODY ANA VE YARDIMCI MALZEME HESABI\n2.1.\tKadın body pastal planı hazırlama\n2.2.\tPastal planı üzerinden ana ve yardımcı malzeme metraj hesabı",
+      "KONU": "2.\tKADIN BODY ANA VE YARDIMCI MALZEME HESABI\n2.1.\tKadın body pastal PLANI hazırlama\n2.2.\tPastal PLANI üzerinden ana ve yardımcı malzeme metraj hesabı",
       "KAZANIM": "Kadın body ana ve yardımcı malzeme hesabı yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
@@ -124,7 +124,7 @@
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "7",
-      "KONU": "4.\tKADIN BODY ÜRETİMİ \n4.1.\tKadın body dikim planı",
+      "KONU": "4.\tKADIN BODY ÜRETİMİ \n4.1.\tKadın body dikim PLANI",
       "KAZANIM": "Kadın body üretimi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
@@ -192,7 +192,7 @@
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "7",
-      "KONU": "2.\tKADIN KÜLOT ANA VE YARDIMCI MALZEME HESABI\n2.1.\tKadın külot pastal planı hazırlama\n2.2.\tPastal planı üzerinden ana ve yardımcı malzeme metraj hesabı",
+      "KONU": "2.\tKADIN KÜLOT ANA VE YARDIMCI MALZEME HESABI\n2.1.\tKadın külot pastal PLANI hazırlama\n2.2.\tPastal PLANI üzerinden ana ve yardımcı malzeme metraj hesabı",
       "KAZANIM": "Kadın külot ana ve yardımcı malzeme hesabı yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
@@ -208,7 +208,7 @@
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "7",
-      "KONU": "4.\tKADIN KÜLOTU ÜRETİMİ \n4.1.\tKadın külot dikim planı hazırlama",
+      "KONU": "4.\tKADIN KÜLOTU ÜRETİMİ \n4.1.\tKadın külot dikim PLANI hazırlama",
       "KAZANIM": "Kadın külot üretimi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
@@ -265,7 +265,7 @@
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "7",
-      "KONU": "2.\tGECELİK ANA VE YARDIMCI MALZEME \n2.1.\tGecelik pastal planı \n2.2.\tPastal planı üzerinden ana ve yardımcı malzeme metraj hesabı",
+      "KONU": "2.\tGECELİK ANA VE YARDIMCI MALZEME \n2.1.\tGecelik pastal PLANI \n2.2.\tPastal PLANI üzerinden ana ve yardımcı malzeme metraj hesabı",
       "KAZANIM": "Gecelik ana ve yardımcı malzeme hesabını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
@@ -297,7 +297,7 @@
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "7",
-      "KONU": "4.\tGECELİK ÜRETİMİ \n4.1.\tGecelik dikim planı",
+      "KONU": "4.\tGECELİK ÜRETİMİ \n4.1.\tGecelik dikim PLANI",
       "KAZANIM": "Gecelik üretimini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },

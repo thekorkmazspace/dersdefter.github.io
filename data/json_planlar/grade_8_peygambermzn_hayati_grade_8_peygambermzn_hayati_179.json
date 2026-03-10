@@ -1,0 +1,374 @@
+{
+  "sinif": "8",
+  "ders": "PEYGAMBERMZN HAYATI",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "1. Peygamberimizin Çocukluk ve Gençlik Yılları",
+      "KAZANIM": "1. Peygamberimizin çocukluk ve gençlik yıllarını ana hatlarıyla açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "2. Peygamberimizin Mekke Yılları ve Hicret",
+      "KAZANIM": "2. Peygamberimizin Mekke yıllarını ve Yesribe hicreti ana hatlarıyla açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "3. Peygamberimizin Medine Yılları",
+      "KAZANIM": "3. Peygamberimizin Medinede yaptığı toplumsal faaliyetleri kavrar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "3.1. Medinede İslam Toplumunun Oluşumu",
+      "KAZANIM": "3. Peygamberimizin Medinede yaptığı toplumsal faaliyetleri kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "3.2. Müşriklerle Mücadele",
+      "KAZANIM": "4. Müşriklerle münasebetleri sebep ve sonuçları açısından değerlendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "3.3. Yahudi ve Hristiyanlarla İlişkiler",
+      "KAZANIM": "5. Peygamberimizin diğer din mensuplarıyla ilişkilerinin dayandığı ilkeleri kavrar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "3.4. Mekkenin Fethi",
+      "KAZANIM": "6. Mekkenin fethini sebep ve sonuçları açısından değerlendirir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "3.5. Peygamberimizin Haccı ve Veda Hutbesi",
+      "KAZANIM": "7. Veda Haccının önemini ve Veda Hutbesindeki evrensel mesajları yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "3.5. Peygamberimizin Haccı ve Veda Hutbesi",
+      "KAZANIM": "1. Dönem 1. Sınav 7. Veda Haccının önemini ve Veda Hutbesindeki evrensel mesajları yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "3.6. Peygamberimizin Vefatı",
+      "KAZANIM": "7. Veda Haccının önemini ve Veda Hutbesindeki evrensel mesajları yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. PEYGAMBERİMİZİN MEDİNE YILLARI",
+      "KONU": "4. Bir Hadis Öğreniyorum",
+      "KAZANIM": "8. Müslümanların kardeşliği ile ilgili bir hadisi yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "2. PEYGAMBERİMİZİN DİNDEKİ KONUMU",
+      "KONU": "1. Peygamberimizin Vahyi İnsanlığa Ulaştırması",
+      "KAZANIM": "1. Peygamberimizin dindeki konumunu ayet ve hadislerle açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "2. PEYGAMBERİMİZİN DİNDEKİ KONUMU",
+      "KONU": "2. Peygamberimizin Vahyi Açıklaması",
+      "KAZANIM": "2. Peygamberimizin nebevi uygulamalarına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "2. PEYGAMBERİMİZİN DİNDEKİ KONUMU",
+      "KONU": "3. Peygamberimizin Hüküm Koyması",
+      "KAZANIM": "2. Peygamberimizin nebevi uygulamalarına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "2. PEYGAMBERİMİZİN DİNDEKİ KONUMU",
+      "KONU": "4. Peygamberimizin Vahyi Yaşayarak Öğretmesi",
+      "KAZANIM": "2. Peygamberimizin nebevi uygulamalarına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "2. PEYGAMBERİMİZİN DİNDEKİ KONUMU",
+      "KONU": "5. Peygamberimizin İnsanı Kötülüklerden Arındırması",
+      "KAZANIM": "2. Peygamberimizin nebevi uygulamalarına örnekler verir."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "2. PEYGAMBERİMİZİN DİNDEKİ KONUMU",
+      "KONU": "5. Peygamberimizin İnsanı Kötülüklerden Arındırması",
+      "KAZANIM": "1. Dönem 2. Sınav 2. Peygamberimizin nebevi uygulamalarına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "2. PEYGAMBERİMİZİN DİNDEKİ KONUMU",
+      "KONU": "6. Bir Hadis Öğreniyorum",
+      "KAZANIM": "3. Peygambere itaat ile ilgili bir hadisi yorumlar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "3. PEYGAMBERİMİZ VE SOSYAL HAYAT",
+      "KONU": "1. Adil Bir Yönetici Olarak Peygamberimiz",
+      "KAZANIM": "1. Peygamberimizin adaleti sağlamada ortaya koyduğu ilkeleri örneklerle açıklar"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "3. PEYGAMBERİMİZ VE SOSYAL HAYAT",
+      "KONU": "2. Sosyal Sorunların Çözümünde Peygamberimiz",
+      "KAZANIM": "2. Sosyal sorunlar karşısında Peygamberimizin çözüm yöntemlerine örnekler verir"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "3. PEYGAMBERİMİZ VE SOSYAL HAYAT",
+      "KONU": "2. Sosyal Sorunların Çözümünde Peygamberimiz",
+      "KAZANIM": "2. Sosyal sorunlar karşısında Peygamberimizin çözüm yöntemlerine örnekler verir",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "3. PEYGAMBERİMİZ VE SOSYAL HAYAT",
+      "KONU": "3. Çalışma Hayatı ve Peygamberimiz",
+      "KAZANIM": "3. Peygamberimizin çalışma hayatı ile ilgili ilkelerini benimser",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "3. PEYGAMBERİMİZ VE SOSYAL HAYAT",
+      "KONU": "4. Çevre Bilinci ve Peygamberimiz",
+      "KAZANIM": "4. Peygamberimizi örnek alarak çevreye karşı sorumluluklarını fark eder",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "3. PEYGAMBERİMİZ VE SOSYAL HAYAT",
+      "KONU": "5. Bir Hadis Öğreniyorum",
+      "KAZANIM": "5. Peygamberimizin tabiat sevgisi ile ilgili bir hadisini yorumlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "4. EN GÜZEL ÖRNEK PEYGAMBERİMİZ",
+      "KONU": "1. Peygamberimizin Hayatında Dünya ve Ahiret Dengesi",
+      "KAZANIM": "1. Peygamberimizin hayatındaki dünya ve ahiret dengesi ile ilgili örnekler verir",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "4. EN GÜZEL ÖRNEK PEYGAMBERİMİZ",
+      "KONU": "1. Peygamberimizin Hayatında Dünya ve Ahiret Dengesi",
+      "KAZANIM": "2. Dönem 1. Sınav 1. Peygamberimizin hayatındaki dünya ve ahiret dengesi ile ilgili örnekler verir",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "4. EN GÜZEL ÖRNEK PEYGAMBERİMİZ",
+      "KONU": "2. Peygamberimizin Hayatında İnfak ve Sadaka",
+      "KAZANIM": "2. Peygamberimizin hayatında infak ve sadakanın yerini kavrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "4. EN GÜZEL ÖRNEK PEYGAMBERİMİZ",
+      "KONU": "3. Peygamberimizin Hayatında Sadelik",
+      "KAZANIM": "3. Peygamberimizin sade yaşamına örnekler verir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "4. EN GÜZEL ÖRNEK PEYGAMBERİMİZ",
+      "KONU": "4. Peygamberimizin Affedici Olması",
+      "KAZANIM": "4. Peygamberimizin affediciliğini kendisine örnek alır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "4. EN GÜZEL ÖRNEK PEYGAMBERİMİZ",
+      "KONU": "5. Bir Hadis Öğreniyorum",
+      "KAZANIM": "5. Salih amel ile ilgili bir hadisi yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "5. İSLAM DAVETİ VE SAHABE",
+      "KONU": "1. İslam Davetinde Sahabenin Rolü",
+      "KAZANIM": "1. İslam dininin yayılmasında sahabenin rolünü kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "5. İSLAM DAVETİ VE SAHABE",
+      "KONU": "1. İslam Davetinde Sahabenin Rolü",
+      "KAZANIM": "1. İslam dininin yayılmasında sahabenin rolünü kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "5. İSLAM DAVETİ VE SAHABE",
+      "KONU": "2. Âlim Sahabiler",
+      "KAZANIM": "2. İslam dininin yaşanmasında sahabenin örnekliğini fark eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "5. İSLAM DAVETİ VE SAHABE",
+      "KONU": "2. Âlim Sahabiler",
+      "KAZANIM": "2. Dönem 2. Sınav 2. İslam dininin yaşanmasında sahabenin örnekliğini fark eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "5. İSLAM DAVETİ VE SAHABE",
+      "KONU": "3. Şehit Sahabiler",
+      "KAZANIM": "3. Bazı âlim ve şehit sahabilerin örnek vasıflarını benimser.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "5. İSLAM DAVETİ VE SAHABE",
+      "KONU": "4. Bir Hadis Öğreniyorum",
+      "KAZANIM": "4. İlim ile ilgili bir hadisi yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

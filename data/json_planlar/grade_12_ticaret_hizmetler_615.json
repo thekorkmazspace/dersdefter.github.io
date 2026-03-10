@@ -14,7 +14,7 @@
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
-      "KONU": "1.4.\tÖdeme kaydedici cihaz temini ile ilgili işlemler\n1.5.\tHangi eylemlerin vergi suçu olduğu ve bunlara uygulanacak cezalar \n1.6.\tMeslek odalarına kayıt işlemleri \n1.7.\tOda üyelik aidatları ödemesi",
+      "KONU": "1.4.\tÖdeme kaydedici cihaz temini ile ilgili işlemler\n1.5.\tHangi eylemlerin vergi suçu olduğu ve bunlara uygulanacak cezalar \n1.6.\tMESLEKİ odalarına kayıt işlemleri \n1.7.\tOda üyelik aidatları ödemesi",
       "KAZANIM": "Vergi Dairesinde yapılacak işlemleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
@@ -37,7 +37,7 @@
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
-      "KONU": "3.6.\tÜcret unsurları ve aylık ücret bordrosu \n3.7.\tMuhtasar ve prim hizmet beyannamesi\n3.8.\tSigortalı hesap fişi \n3.9.\tİşçi aylık hesap pusulası \n3.10.\tSigortalı işe giriş ve işten çıkış bildirgesi \n3.11.\tİş kazaları ve meslek hastalıklarını bildirme sorumlulukları",
+      "KONU": "3.6.\tÜcret unsurları ve aylık ücret bordrosu \n3.7.\tMuhtasar ve prim hizmet beyannamesi\n3.8.\tSigortalı hesap fişi \n3.9.\tİşçi aylık hesap pusulası \n3.10.\tSigortalı işe giriş ve işten çıkış bildirgesi \n3.11.\tİş kazaları ve MESLEKİ hastalıklarını bildirme sorumlulukları",
       "KAZANIM": "SGK Sosyal Güvenlik Kurumu ile ilgili iş ve işlemleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
@@ -86,13 +86,13 @@
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ TİCARİ BELGELER\n1.\tPERAKENDE SATIŞ BELGELERİ\n1.1.\tHesaplamalarda hesap makinası kullanımı\n1.2.\tYazar kasa kullanım zorunluluğu \n1.3.\tPos makinası kullanımı",
       "KAZANIM": "Perakende satış belgelerini düzenler.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
-      "KONU": "1.4.\tPerakende satış fişi \n1.5.\tSerbest meslek makbuzu \n1.6.\tAdisyon",
+      "KONU": "1.4.\tPerakende satış fişi \n1.5.\tSerbest MESLEKİ makbuzu \n1.6.\tAdisyon",
       "KAZANIM": "Perakende satış belgelerini düzenler.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
@@ -249,32 +249,32 @@
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
-      "KONU": "ÖĞRENME BİRİMİ SERBEST MESLEK KAZANÇ DEFTERİ\n1.\tSERBEST MESLEK KAZANÇ DEFTERİ GİDER KAYITLARI\n1.1.\tSerbest meslek kazanç defteri",
-      "KAZANIM": "Serbest meslek kazanç defteri gider kayıtlarını yapar.",
+      "KONU": "ÖĞRENME BİRİMİ SERBEST MESLEKİ KAZANÇ DEFTERİ\n1.\tSERBEST MESLEKİ KAZANÇ DEFTERİ GİDER KAYITLARI\n1.1.\tSerbest MESLEKİ kazanç defteri",
+      "KAZANIM": "Serbest MESLEKİ kazanç defteri gider kayıtlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
-      "KONU": "1.2.\tSerbest meslek kazanç defterinin beyan sistemi üzerinden düzenlenmesi",
-      "KAZANIM": "Serbest meslek kazanç defteri gider kayıtlarını yapar.",
+      "KONU": "1.2.\tSerbest MESLEKİ kazanç defterinin beyan sistemi üzerinden düzenlenmesi",
+      "KAZANIM": "Serbest MESLEKİ kazanç defteri gider kayıtlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
-      "KONU": "1.3.\tSerbest meslek kazanç defteri gider kayıtları",
-      "KAZANIM": "Serbest meslek kazanç defteri gider kayıtlarını yapar.",
+      "KONU": "1.3.\tSerbest MESLEKİ kazanç defteri gider kayıtları",
+      "KAZANIM": "Serbest MESLEKİ kazanç defteri gider kayıtlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
-      "KONU": "2.\tSERBEST MESLEK KAZANÇ DEFTERİ GELİR KAYITLARI\n2.1.\tSerbest meslek kazanç defteri gelir kayıtları",
-      "KAZANIM": "Serbest meslek kazanç defteri gelir kayıtlarını yapar.",
+      "KONU": "2.\tSERBEST MESLEKİ KAZANÇ DEFTERİ GELİR KAYITLARI\n2.1.\tSerbest MESLEKİ kazanç defteri gelir kayıtları",
+      "KAZANIM": "Serbest MESLEKİ kazanç defteri gelir kayıtlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -282,39 +282,39 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "2.2.\tStopaj hesaplamaları",
-      "KAZANIM": "Serbest meslek kazanç defteri gelir kayıtlarını yapar.",
+      "KAZANIM": "Serbest MESLEKİ kazanç defteri gelir kayıtlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
-      "KONU": "3.\tSERBEST MESLEK KAZANÇ ÖZETİ\n3.1.\tSerbest meslek kazancı özetinin unsurları",
-      "KAZANIM": "Serbest meslek kazancını düzenler.",
+      "KONU": "3.\tSERBEST MESLEKİ KAZANÇ ÖZETİ\n3.1.\tSerbest MESLEKİ kazancı özetinin unsurları",
+      "KAZANIM": "Serbest MESLEKİ kazancını düzenler.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
-      "KONU": "3.2.\tSerbest meslek kazancı amortisman hesaplamaları \n2.Dönem 2.Sınav",
-      "KAZANIM": "Serbest meslek kazancını düzenler.",
+      "KONU": "3.2.\tSerbest MESLEKİ kazancı amortisman hesaplamaları \n2.Dönem 2.Sınav",
+      "KAZANIM": "Serbest MESLEKİ kazancını düzenler.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
-      "KONU": "3.3.\tSerbest meslek kazancı hesaplanması",
-      "KAZANIM": "2. Dönem 2. Sınav Serbest meslek kazancını düzenler.",
+      "KONU": "3.3.\tSerbest MESLEKİ kazancı hesaplanması",
+      "KAZANIM": "2. Dönem 2. Sınav Serbest MESLEKİ kazancını düzenler.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
-      "KONU": "3.3.\tSerbest meslek kazancı hesaplanması",
-      "KAZANIM": "Serbest meslek kazancını düzenler.",
+      "KONU": "3.3.\tSerbest MESLEKİ kazancı hesaplanması",
+      "KAZANIM": "Serbest MESLEKİ kazancını düzenler.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {

@@ -15,7 +15,7 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "5",
       "KONU": "1.4. İki boyutlu çizim komutları\n1.4.1. Nokta yakalama komutlarının kullanılması \n1.4.2. Katman ayarları \n1.4.3. İki boyutlu çizim komutları ile basit geometrik şekiller \n1.5. Bilgisayarla dosyalama\n1.5.1. CAD programında yeni çalışma sayfası \n1.5.2. İki boyutlu çizim komutları ile geometrik şekiller\n1.5.3. Çalışma sayfasına isim verilerek uygun yere kaydetme\n1.5.4. Bir dosyayı farklı bir isimle versiyonla ya da aynı isimle farklı sürücülere kayıt etme",
-      "KAZANIM": "CAD programında iki boyutlu çizim komutları ile çalışır.\nCAD programında çizdiği planı dosyalar.",
+      "KAZANIM": "CAD programında iki boyutlu çizim komutları ile çalışır.\nCAD programında çizdiği PLANI dosyalar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
@@ -59,7 +59,7 @@
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "5",
-      "KONU": "3.2.Bilgisayarla ahşap yapı kat planlarını çizimi\n3.2.1. Ahşap yapı kat planı \n3.2.2. CAD programında ahşap yapı kat planları ve detayları çizdirme \n\n1.Dönem 1.Sınav",
+      "KONU": "3.2.Bilgisayarla ahşap yapı kat planlarını çizimi\n3.2.1. Ahşap yapı kat PLANI \n3.2.2. CAD programında ahşap yapı kat planları ve detayları çizdirme \n\n1.Dönem 1.Sınav",
       "KAZANIM": "Bilgisayarla ahşap yapı kat planlarını proje çizim esaslarına uygun olarak çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
@@ -86,21 +86,21 @@
       "SAAT": "5",
       "KONU": "3.4. Bilgisayarla ahşap yapı görünüşlerini çizimi\n3.4.1. Ahşap yapı görünüşleri \n3.4.2. CAD programında ahşap yapı görünüşleri çizdirme",
       "KAZANIM": "Bilgisayarla ahşap yapı görünüşlerini proje çizim esaslarına uygun olarak çizer.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "5",
-      "KONU": "3.5. Bilgisayarla ahşap yapı çatı planı çizimi\n3.5.1. CAD programında ahşap yapı çatı planı çizdirme\n3.5.2. CAD programında ahşap yapı çatı görünüşleri çizdirme",
-      "KAZANIM": "Bilgisayarla ahşap yapı çatı planı proje çizim esaslarına uygun olarak çizer.",
+      "KONU": "3.5. Bilgisayarla ahşap yapı çatı PLANI çizimi\n3.5.1. CAD programında ahşap yapı çatı PLANI çizdirme\n3.5.2. CAD programında ahşap yapı çatı görünüşleri çizdirme",
+      "KAZANIM": "Bilgisayarla ahşap yapı çatı PLANI proje çizim esaslarına uygun olarak çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "5",
-      "KONU": "3.6. Bilgisayarla ahşap yapı vaziyet planını çizimi\n3.6.1. Ahşap yapı vaziyet planı \n3.6.2. CAD programında ahşap yapı vaziyet planı çizdirme",
+      "KONU": "3.6. Bilgisayarla ahşap yapı vaziyet planını çizimi\n3.6.1. Ahşap yapı vaziyet PLANI \n3.6.2. CAD programında ahşap yapı vaziyet PLANI çizdirme",
       "KAZANIM": "Bilgisayarla ahşap yapı vaziyet planını proje çizim esaslarına uygun olarak çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
@@ -124,7 +124,7 @@
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "5",
-      "KONU": "4.2. Bilgisayarla kâgir yapı kat planlarını çizimi\n4.2.1.Kâgir yapı kat planı \n4.2.2. CAD programında kâgir yapı kat planları ve detayları çizdirme",
+      "KONU": "4.2. Bilgisayarla kâgir yapı kat planlarını çizimi\n4.2.1.Kâgir yapı kat PLANI \n4.2.2. CAD programında kâgir yapı kat planları ve detayları çizdirme",
       "KAZANIM": "Bilgisayarla kâgir yapı kat planlarını proje çizim esaslarına uygun olarak çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
@@ -179,14 +179,14 @@
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "5",
-      "KONU": "4.5. Bilgisayarla kâgir yapı vaziyet planını çizimi\n4.5.1. CAD programında kâgir yapı çatı planı \n4.5.2. CAD programında kâgir yapı çatı görünüşleri çizdirme",
-      "KAZANIM": "Bilgisayarla kâgir yapı çatı planı proje çizim esaslarına uygun olarak çizer."
+      "KONU": "4.5. Bilgisayarla kâgir yapı vaziyet planını çizimi\n4.5.1. CAD programında kâgir yapı çatı PLANI \n4.5.2. CAD programında kâgir yapı çatı görünüşleri çizdirme",
+      "KAZANIM": "Bilgisayarla kâgir yapı çatı PLANI proje çizim esaslarına uygun olarak çizer."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "5",
-      "KONU": "4.6. Bilgisayarla kâgir yapı çatı planını çizimi\n4.6.1. Kâgir yapı vaziyet planı \n4.6.2. CAD programında kâgir yapı vaziyet planı çizdirme",
+      "KONU": "4.6. Bilgisayarla kâgir yapı çatı planını çizimi\n4.6.1. Kâgir yapı vaziyet PLANI \n4.6.2. CAD programında kâgir yapı vaziyet PLANI çizdirme",
       "KAZANIM": "Bilgisayarla kâgir yapı vaziyet planını proje çizim esaslarına uygun olarak çizer."
     },
     {
@@ -201,7 +201,7 @@
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "5",
-      "KONU": "ÖĞRENME BİRİMİ BİLGİSAYARLA BETONARME YAPI MİMARİ PROJESİ\n5.1. Bilgisayarla betonarme yapı temel planını çizimi\n5.1.1.Bilgisayarla betonarme yapı temel planı\n5.1.2. Bilgisayarla betonarme yapı temel planını çizdirme",
+      "KONU": "ÖĞRENME BİRİMİ BİLGİSAYARLA BETONARME YAPI MİMARİ PROJESİ\n5.1. Bilgisayarla betonarme yapı temel planını çizimi\n5.1.1.Bilgisayarla betonarme yapı temel PLANI\n5.1.2. Bilgisayarla betonarme yapı temel planını çizdirme",
       "KAZANIM": "Bilgisayarla betonarme yapı temel planını mimari proje düzenleme esaslarına uygun olarak yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
@@ -209,7 +209,7 @@
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "5",
-      "KONU": "5.2. Bilgisayarla betonarme yapı kat planlarını çizimi\n5.2.1.Bilgisayarla betonarme yapı kat planı\n5.2.2. Bilgisayarla betonarme yapı temel planını çizdirme",
+      "KONU": "5.2. Bilgisayarla betonarme yapı kat planlarını çizimi\n5.2.1.Bilgisayarla betonarme yapı kat PLANI\n5.2.2. Bilgisayarla betonarme yapı temel planını çizdirme",
       "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı kat planını çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
@@ -242,7 +242,7 @@
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "5",
-      "KONU": "5.5. Bilgisayarla betonarme yapı çatı planını çizimi\n5.5.1.Bilgisayarla betonarme yapı çatı planı \n5.5.2. Bilgisayarla betonarme yapı çatı planı çizdirme \n\n2.Dönem 1.Sınav",
+      "KONU": "5.5. Bilgisayarla betonarme yapı çatı planını çizimi\n5.5.1.Bilgisayarla betonarme yapı çatı PLANI \n5.5.2. Bilgisayarla betonarme yapı çatı PLANI çizdirme \n\n2.Dönem 1.Sınav",
       "KAZANIM": "2. Dönem 1. Sınav Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı çatı planını çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
@@ -250,7 +250,7 @@
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "5",
-      "KONU": "5.6. Bilgisayarla betonarme yapı vaziyet planını çizimi\n5.6.1. Bilgisayarla betonarme yapı vaziyet planı \n5.6.2. Bilgisayarla betonarme yapı vaziyet planı çizdirme",
+      "KONU": "5.6. Bilgisayarla betonarme yapı vaziyet planını çizimi\n5.6.1. Bilgisayarla betonarme yapı vaziyet PLANI \n5.6.2. Bilgisayarla betonarme yapı vaziyet PLANI çizdirme",
       "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı vaziyet planını çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
@@ -258,7 +258,7 @@
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "5",
-      "KONU": "5.7. Bilgisayarla betonarme yapı detaylarını çizimi\n5.7.1. Bilgisayarla betonarme yapı detayları planı",
+      "KONU": "5.7. Bilgisayarla betonarme yapı detaylarını çizimi\n5.7.1. Bilgisayarla betonarme yapı detayları PLANI",
       "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı detaylarını çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
@@ -266,7 +266,7 @@
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "5",
-      "KONU": "5.7.2. Bilgisayarla betonarme yapı detayları planı çizdirme",
+      "KONU": "5.7.2. Bilgisayarla betonarme yapı detayları PLANI çizdirme",
       "KAZANIM": "Mimari proje düzenleme esaslarına uygun bilgisayarla betonarme yapı detaylarını çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
@@ -274,7 +274,7 @@
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "5",
-      "KONU": "ÖĞRENME BİRİMİ BİLGİSAYARLA ÇELİK YAPI PROJESİ\n6.1. Bilgisayarla çelik yapı temel planını çizimi\n6.1.1. Bilgisayarla çelik yapı temel planı \n6.1.2. Bilgisayarla çelik yapı temel planı çizdirme",
+      "KONU": "ÖĞRENME BİRİMİ BİLGİSAYARLA ÇELİK YAPI PROJESİ\n6.1. Bilgisayarla çelik yapı temel planını çizimi\n6.1.1. Bilgisayarla çelik yapı temel PLANI \n6.1.2. Bilgisayarla çelik yapı temel PLANI çizdirme",
       "KAZANIM": "Bilgisayarla çelik yapı temel planını proje çizim esaslarına uygun olarak çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
@@ -282,7 +282,7 @@
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "5",
-      "KONU": "6.2. Bilgisayarla çelik yapı kat planlarını çizimi\n6.2.1. Bilgisayarla çelik yapı kat planı \n6.2.2. Bilgisayarla çelik yapı kat planı çizdirme",
+      "KONU": "6.2. Bilgisayarla çelik yapı kat planlarını çizimi\n6.2.1. Bilgisayarla çelik yapı kat PLANI \n6.2.2. Bilgisayarla çelik yapı kat PLANI çizdirme",
       "KAZANIM": "Bilgisayarla çelik yapı kat planlarını proje çizim esaslarına uygun olarak çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
@@ -306,7 +306,7 @@
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "5",
-      "KONU": "6.5. Bilgisayarla çelik yapı çatı planını çizimi\n6.5.1. Bilgisayarla çelik yapının vaziyet planı çizim kuraları \n6.5.2. Bilgisayarla çelik yapının vaziyet planı çizdirme",
+      "KONU": "6.5. Bilgisayarla çelik yapı çatı planını çizimi\n6.5.1. Bilgisayarla çelik yapının vaziyet PLANI çizim kuraları \n6.5.2. Bilgisayarla çelik yapının vaziyet PLANI çizdirme",
       "KAZANIM": "2. Dönem 2. Sınav Bilgisayarla çelik yapı çatı planını proje çizim esaslarına uygun olarak çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
@@ -314,7 +314,7 @@
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "5",
-      "KONU": "6.6. Bilgisayarla çelik yapı vaziyet planını çizimi\n6.6.1. Bilgisayarla çelik yapı vaziyet planı \n6.6.2. Bilgisayarla çelik yapı vaziyet planı çizdirme",
+      "KONU": "6.6. Bilgisayarla çelik yapı vaziyet planını çizimi\n6.6.1. Bilgisayarla çelik yapı vaziyet PLANI \n6.6.2. Bilgisayarla çelik yapı vaziyet PLANI çizdirme",
       "KAZANIM": "Bilgisayarla çelik yapı detaylarını proje çizim esaslarına uygun olarak çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
