@@ -85,7 +85,7 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "1",
       "KONU": "Modül ANAHTARLAMA ELEMANLARI\n1. TRANSİSTÖRLER\n1.1. Transistörün Sağlamlık Kontrolü ve Uç Tespiti\n1.2. Transistörlerin Anahtarlama Elemanı Olarak Kullanılması\n1.3. Transistörün Zamanlayıcı Olarak Kullanılması\n1.4. Transistörlü Devrelerde Arıza Giderme",
-      "KAZANIM": "Transistörlerin analog ve dijital ölçü aletleriyle ölçümünü yapabilecek transistörlü anahtarlama ve zamanlama elemanlarını devrelerde kullanabilecektir.",
+      "KAZANIM": "Transistörlerin ANALOG ve dijital ölçü aletleriyle ölçümünü yapabilecek transistörlü anahtarlama ve zamanlama elemanlarını devrelerde kullanabilecektir.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +93,7 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "1",
       "KONU": "1.5. Fet ve Mosfetin Yapısı Çeşitleri ve Çalışma Prensipleri\n1.6. Fet ve Mosfetin Sağlamlık Kontrolü ve Uç Tespiti\n1.7. Fet ve Mosfetli Devreler\n1.8. Fet ve Mosfetli Devrelerde Arıza Giderme",
-      "KAZANIM": "Transistörlerin analog ve dijital ölçü aletleriyle ölçümünü yapabilecek transistörlü anahtarlama ve zamanlama elemanlarını devrelerde kullanabilecektir.",
+      "KAZANIM": "Transistörlerin ANALOG ve dijital ölçü aletleriyle ölçümünü yapabilecek transistörlü anahtarlama ve zamanlama elemanlarını devrelerde kullanabilecektir.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +101,7 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "1",
       "KONU": "2. TRİSTÖRLER SCR\n2.1. Tristörün Yapısı Özellikleri Ve Çalışması \n2.2. Tristör Tetikleme Yöntemleri\n2.3. Tristörü Durdurma Kesime Sokma Yöntemleri\n2.4. Tristörün Korunması",
-      "KAZANIM": "Tristörlerin yapısını ve özelliklerini UJT ile tetikleme yöntemlerini öğrenebilecek analog-dijital ölçü aletleriyle ölçümünü yapabilecek istenen özellikte tristör seçebilecek ve tristör kullanarak uygulama devresi yapabilecektir.",
+      "KAZANIM": "Tristörlerin yapısını ve özelliklerini UJT ile tetikleme yöntemlerini öğrenebilecek ANALOG-dijital ölçü aletleriyle ölçümünü yapabilecek istenen özellikte tristör seçebilecek ve tristör kullanarak uygulama devresi yapabilecektir.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +109,7 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "1",
       "KONU": "2.5. UJTler\n2.6. Tristörün UJT ile Tetiklenmesi\n2.7. Tristörün AVO Metre ile Sağlamlık Kontrolü\n2.8. Tristörün AVO Metre ile Uçlarının Tespiti",
-      "KAZANIM": "Tristörlerin yapısını ve özelliklerini UJT ile tetikleme yöntemlerini öğrenebilecek analog-dijital ölçü aletleriyle ölçümünü yapabilecek istenen özellikte tristör seçebilecek ve tristör kullanarak uygulama devresi yapabilecektir.",
+      "KAZANIM": "Tristörlerin yapısını ve özelliklerini UJT ile tetikleme yöntemlerini öğrenebilecek ANALOG-dijital ölçü aletleriyle ölçümünü yapabilecek istenen özellikte tristör seçebilecek ve tristör kullanarak uygulama devresi yapabilecektir.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -133,14 +133,14 @@
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "1",
       "KONU": "4. TRİYAK\n4.1. Yapısı ve Çalışması\n4.2. Özellikleri \n4.3. Triyakın AVO Metre ile Sağlamlık Kontrolü \n1.Dönem 2.Sınav",
-      "KAZANIM": "Triyakın yapısını ve özelliklerini tetikleme yöntemlerini öğrenebilecek analog ve dijital ölçü aletleriyle ölçümünü yapabilecek istenen özellikte triyak seçebilecek ve triyakla uygulama devresi yapabilecektir."
+      "KAZANIM": "Triyakın yapısını ve özelliklerini tetikleme yöntemlerini öğrenebilecek ANALOG ve dijital ölçü aletleriyle ölçümünü yapabilecek istenen özellikte triyak seçebilecek ve triyakla uygulama devresi yapabilecektir."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "1",
       "KONU": "4.4. AVO Metre ile Triyakın Uçlarının Tespiti\n4.5. AC Motor Hız Kontrol\n4.6. Dimmer \n4.7. Triyaklı devrelerde arıza giderme",
-      "KAZANIM": "1. Dönem 2. Sınav Triyakın yapısını ve özelliklerini tetikleme yöntemlerini öğrenebilecek analog ve dijital ölçü aletleriyle ölçümünü yapabilecek istenen özellikte triyak seçebilecek ve triyakla uygulama devresi yapabilecektir.",
+      "KAZANIM": "1. Dönem 2. Sınav Triyakın yapısını ve özelliklerini tetikleme yöntemlerini öğrenebilecek ANALOG ve dijital ölçü aletleriyle ölçümünü yapabilecek istenen özellikte triyak seçebilecek ve triyakla uygulama devresi yapabilecektir.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {

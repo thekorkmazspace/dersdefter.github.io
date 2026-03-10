@@ -37,8 +37,8 @@
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "4",
-      "KONU": "1.3. Analog Çıkışlı Sensörler \n1.3.1. Sıcaklık Sensörleri \n9. Uygulama Sıcaklık Sensörlerinin Devreye Bağlanması Ve Avometreyle Ölçümü \n10. Uygulama Sıcaklık Ve Nem Sensörünün İndikatöre Bağlanması",
-      "KAZANIM": "Analog çıkışlı sensörlü devreleri yapar.",
+      "KONU": "1.3. ANALOG Çıkışlı Sensörler \n1.3.1. Sıcaklık Sensörleri \n9. Uygulama Sıcaklık Sensörlerinin Devreye Bağlanması Ve Avometreyle Ölçümü \n10. Uygulama Sıcaklık Ve Nem Sensörünün İndikatöre Bağlanması",
+      "KAZANIM": "ANALOG çıkışlı sensörlü devreleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -46,7 +46,7 @@
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
       "KONU": "11. Uygulama Ntc Ve Sıcaklık Kontrol Cihazının Devreye Bağlanması \n12. Uygulama Ssr Sıcaklık Kontrol Cihazıyla Isı Ölçümü\n1.3.2. Basınç Sensörleri \n13. Uygulama Yük Hücresinin Devreye Bağlanması \n14. Uygulama Yük Hücresinin Tartım Terminaline Bağlanması",
-      "KAZANIM": "Analog çıkışlı sensörlü devreleri yapar."
+      "KAZANIM": "ANALOG çıkışlı sensörlü devreleri yapar."
     },
     {
       "AY": "EKIM",
@@ -208,8 +208,8 @@
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "4",
-      "KONU": "3.5. Dijital Ve Analog Modüller Ve Modül Bağlantıları \n3.6. Plc Programlama Program Yükleme Ve Programı Yedekleme",
-      "KAZANIM": "PLC ile dijital ve analog modülü ve giriş çıkış elemanlarının bağlantılarını yapar.\nPLCye programını yükler ve PLC programını yedekler.",
+      "KONU": "3.5. Dijital Ve ANALOG Modüller Ve Modül Bağlantıları \n3.6. Plc Programlama Program Yükleme Ve Programı Yedekleme",
+      "KAZANIM": "PLC ile dijital ve ANALOG modülü ve giriş çıkış elemanlarının bağlantılarını yapar.\nPLCye programını yükler ve PLC programını yedekler.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -241,7 +241,7 @@
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "4",
-      "KONU": "5. Uygulama Pnp Ve Npn Sensörlerin Plc Bağlantıları \n6. Uygulama Dijital Ve Analog Modül Plc Bağlantıları \n2.Dönem 1.Sınav",
+      "KONU": "5. Uygulama Pnp Ve Npn Sensörlerin Plc Bağlantıları \n6. Uygulama Dijital Ve ANALOG Modül Plc Bağlantıları \n2.Dönem 1.Sınav",
       "KAZANIM": "2. Dönem 1. Sınav PLCye programını yükler ve PLC programını yedekler.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
@@ -273,7 +273,7 @@
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "4",
-      "KONU": "13. Uygulama Plc Çıkışlarına Röle Ve Kontaktör Bağlayarak Yapılan Kontrol Uygulamaları\n14. Uygulama Plc Analog Giriş Sinyaline Göre Birden Fazla Çıkışın Kontrol Edilmesi",
+      "KONU": "13. Uygulama Plc Çıkışlarına Röle Ve Kontaktör Bağlayarak Yapılan Kontrol Uygulamaları\n14. Uygulama Plc ANALOG Giriş Sinyaline Göre Birden Fazla Çıkışın Kontrol Edilmesi",
       "KAZANIM": "PLCye programını yükler ve PLC programını yedekler.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
@@ -321,8 +321,8 @@
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "4",
-      "KONU": "4.2. Ac Motor Sürücünün Plc Analog Çıkışı İle Sürülmesi \n5. Uygulama Plc Ve Asenkron Motor Sürücünün Analog Girişi İle Hız Kontrolu",
-      "KAZANIM": "AC motor sürücüsünü PLC analog çıkışı ile sürer.",
+      "KONU": "4.2. Ac Motor Sürücünün Plc ANALOG Çıkışı İle Sürülmesi \n5. Uygulama Plc Ve Asenkron Motor Sürücünün ANALOG Girişi İle Hız Kontrolu",
+      "KAZANIM": "AC motor sürücüsünü PLC ANALOG çıkışı ile sürer.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {

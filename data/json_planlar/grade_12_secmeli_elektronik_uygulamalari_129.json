@@ -7,7 +7,7 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "4",
       "KONU": "Devreye göre direnç seçimi işlemleri\n Devreye göre kondansatör seçimi işlemleri\n15 Temmuz Demokrasi ve Millî Birlik Günü\nDemokrasinin önemi\nCovid 19 Bilgilendirmesi ve Hijyen\nKuralları",
-      "KAZANIM": "Analog DevreElemanları\n1. Devreye göre direnç seçimi yapar.\n Direnç renklerine göre direnç değerini okumayı\ngösterir.\n Kullanılacak devre gücüne göre direnç gücünü\nseçimini gösterir.\n2. Devreye göre kondansatör seçimi yapar.\n Devrede kullanılacak gerilime göre kondansatör\nseçimini gösterir.\n Kullanılacak devre gücüne göre kondansatör\nseçimini gösterir.",
+      "KAZANIM": "ANALOG DevreElemanları\n1. Devreye göre direnç seçimi yapar.\n Direnç renklerine göre direnç değerini okumayı\ngösterir.\n Kullanılacak devre gücüne göre direnç gücünü\nseçimini gösterir.\n2. Devreye göre kondansatör seçimi yapar.\n Devrede kullanılacak gerilime göre kondansatör\nseçimini gösterir.\n Kullanılacak devre gücüne göre kondansatör\nseçimini gösterir.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,7 +15,7 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "4",
       "KONU": "Devreye göre bobin seçimi işlemleri\n Devreye göre diyot seçimi işlemleri",
-      "KAZANIM": "Analog DevreElemanları\n3. Devreye göre bobin seçimi yapar.\n Devrede kullanılacak akıma göre bobin seçimini\ngösterir.\n Kullanılacak devre akımına göre bobin seçimini\ngösterir.\n4. Devreye göre diyot seçimi yapar.\n Devrede kullanılacak gerilime göre diyotun\nseçimini gösterir.\n Kullanılacak devreye göre diyot seçimini gösterir.",
+      "KAZANIM": "ANALOG DevreElemanları\n3. Devreye göre bobin seçimi yapar.\n Devrede kullanılacak akıma göre bobin seçimini\ngösterir.\n Kullanılacak devre akımına göre bobin seçimini\ngösterir.\n4. Devreye göre diyot seçimi yapar.\n Devrede kullanılacak gerilime göre diyotun\nseçimini gösterir.\n Kullanılacak devreye göre diyot seçimini gösterir.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
@@ -23,7 +23,7 @@
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
       "KONU": "Devreye göre\ntransistör seçimi işlemleri\n Devreye göre transformatör seçimi işlemleri",
-      "KAZANIM": "Analog DevreElemanları\n5. Devreye göre transistör seçimi yapar.\n Devrede kullanılacak gerilime göre transistör\nseçimini gösterir.\n Kullanılacak devreye göre transistör seçimini\ngösterir.\n6. Devreye göre transformatör seçimi yapar.\n Devrede kullanılacak gerilime göre Transformatör\nseçimini gösterir.\n Transformatörün devre bağlantılarını yaptırır."
+      "KAZANIM": "ANALOG DevreElemanları\n5. Devreye göre transistör seçimi yapar.\n Devrede kullanılacak gerilime göre transistör\nseçimini gösterir.\n Kullanılacak devreye göre transistör seçimini\ngösterir.\n6. Devreye göre transformatör seçimi yapar.\n Devrede kullanılacak gerilime göre Transformatör\nseçimini gösterir.\n Transformatörün devre bağlantılarını yaptırır."
     },
     {
       "AY": "EYLÜL",

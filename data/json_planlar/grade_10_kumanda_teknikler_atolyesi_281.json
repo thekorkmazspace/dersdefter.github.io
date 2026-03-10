@@ -22,8 +22,8 @@
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "9",
-      "KONU": "3. Analog Çıkışlı Sensörler\n3.1. Analog çıkışlı sensörlerin özellikleri\n3.2. Sıcaklık sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları \n3.3. Basınç sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları \n3.4. Mesafe ultrasonik ve lazer sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları\n3.5. Seviye sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları\n3.6. Analog çıkışlı sensörlerin devre bağlantıları",
-      "KAZANIM": "Analog çıkışlı sensörler ile devre uygulamaları yapar."
+      "KONU": "3. ANALOG Çıkışlı Sensörler\n3.1. ANALOG çıkışlı sensörlerin özellikleri\n3.2. Sıcaklık sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları \n3.3. Basınç sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları \n3.4. Mesafe ultrasonik ve lazer sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları\n3.5. Seviye sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları\n3.6. ANALOG çıkışlı sensörlerin devre bağlantıları",
+      "KAZANIM": "ANALOG çıkışlı sensörler ile devre uygulamaları yapar."
     },
     {
       "AY": "EYLÜL",
@@ -208,7 +208,7 @@
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "9",
-      "KONU": "5. PLC Donanım ve Ekipmanlarının Seçimi\n5.1. PLC dijital modülleri\n5.2. PLC analog modülleri\n5.3. PLC enerji cihaz modülleri\n5.4. PLC haberleşme modülleri\n5.5. PLC kablo ve ekipmanları\n5.6. Katalogdan PLC seçim işlemi",
+      "KONU": "5. PLC Donanım ve Ekipmanlarının Seçimi\n5.1. PLC dijital modülleri\n5.2. PLC ANALOG modülleri\n5.3. PLC enerji cihaz modülleri\n5.4. PLC haberleşme modülleri\n5.5. PLC kablo ve ekipmanları\n5.6. Katalogdan PLC seçim işlemi",
       "KAZANIM": "PLC donanımlarını ve ekipmanlarını seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },

@@ -1,0 +1,339 @@
+{
+  "sinif": "10",
+  "ders": "BİLGİSAYAR DESTEKLİ TIBB CİHAZ ÇİZİM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ 1 İKİ BOYUTLU TIBBİ CİHAZ ÇİZİMİ\n1.1. ÇİZİM SAYFASI\n1.1.1. Cad Programlarının Özellikleri\n1.1.2. Başlarken",
+      "KAZANIM": "Çizim sayfası açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.3. Ara Yüz\n1.1.4. Araç Çubukları ve Denetimi\n1.1.5. Menü Çubuğu",
+      "KAZANIM": "Çizim sayfası açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.6. Palet Rıbbon Sekmeleri\n1.1.7. Komut Giriş Yöntemleri\n1.1.8. Dosya Denetimi",
+      "KAZANIM": "Çizim sayfası açar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "1.1.9. Çizim Limitleri\n1.1.10. Dışarıdan Dosya Alma\n1.1.11. Çizim Limitleri",
+      "KAZANIM": "Çizim sayfası açar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2. ÇİZİM KOMUTLARI\n1.2.1. LineÇizgi\n1.2.2. Polylıne Bileşik Çizgi",
+      "KAZANIM": "Çizim komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.3. Circle Çember\n1.2.4. Arc Yay\n1.2.5. Rectangle Diktörtgen\n1.2.6. Polygon Çokgen",
+      "KAZANIM": "Çizim komutlarını kullanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.7. Ellipse Elips\n1.2.8. Point Nokta\n1.2.9. Spline Bileşik Eğri",
+      "KAZANIM": "Çizim komutlarını kullanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.10. Ray Işın\n1.2.11. Construction Lıne Yardımcı Çizgi\n1.2.12. Multiline Çoklu Çizgi\n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Çizim komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "1.2.13. Donut Halka\n1.2.14. Helix Çoklu Çizgi\n1.2.15. Hatch Tarama",
+      "KAZANIM": "1. Dönem 1. Sınav Çizim komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "1.3. DÜZENLEME KOMUTLARI\n1.3.1. Erase Silme\n1.3.2. Move Taşıma\n1.3.3. Copy Kopyalama",
+      "KAZANIM": "Düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "1.3.4. Rotate Döndürme\n1.3.5. Mirror Aynalama\n1.3.6. Offset Öteleme\n1.3.7. Trim Budama",
+      "KAZANIM": "Düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "1.3.8. Extend Uzatma\n1.3.9. Array Çoğaltma\n1.3.10. Scale Ölçeklendirme",
+      "KAZANIM": "Düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "1.3.11. Stretch Sündürme\n1.3.12. Fillet Radüs\n1.3.13. Chamfer Pah Kırma",
+      "KAZANIM": "Düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "1.3.14. Break Kırpma\n1.3.15. Join Birleştirme\n1.3.16. Explode Patlatma",
+      "KAZANIM": "Düzenleme komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "1.4. GÖRÜNTÜ KONTROL KOMUTLARI\n1.4.1. Redraw Yenileme\n1.4.2. Zoom BüyültmeKüçültme\n1.4.3. PanTaşıma",
+      "KAZANIM": "Görüntü kontrol komutlarını kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ 2 ÖZELLİKLER VE TANIMLAMA\n2.1. RESME YAZI EKLEME\n2.1.1. Text Style Yazı Sitili Ayarlama\n1.Dönem 2.Sınav",
+      "KAZANIM": "Resme yazı ekler."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "2.1.2. Single Text Tek Satırlı Yazı",
+      "KAZANIM": "1. Dönem 2. Sınav Resme yazı ekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "2.1.3. Multiline Text Çok Satırlı Yazı",
+      "KAZANIM": "Resme yazı ekler."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2.2. RESMİ ÖLÇÜLENDİRME\n2.2.1. Linear Doğrusal Ölçülendirme",
+      "KAZANIM": "Resmi ölçülendirir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "2.2.2. Aligned Hizalı Ölçülendirme\n2.2.3. Angular Açılı Ölçülendirme",
+      "KAZANIM": "Resmi ölçülendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "2.2.4. Arc Length Yay Boyu Ölçülendirme",
+      "KAZANIM": "Resmi ölçülendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "2.2.5. Radius Yarıçap Ölçülendirme\n2.2.6. Diameter Çap Ölçülendirme",
+      "KAZANIM": "Resmi ölçülendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "2.2.7. Ordinate Koordinat Belirleyici",
+      "KAZANIM": "Resmi ölçülendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "2.2.8. Jogged Kesikli Yarıçap Belirleyici\n2.2.9. Dimension Style Ölçü Düzenleme",
+      "KAZANIM": "Resmi ölçülendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "2.3. ÖZELLİK VE SORGULAMA KOMUTLARI\n2.3.1. Properties Özellikler\n\n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Özellik ve sorgulama komutları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "2.3.1. Properties Özellikler",
+      "KAZANIM": "Özellik ve sorgulama komutları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "2.3.2. Sorgulama Komutları",
+      "KAZANIM": "Özellik ve sorgulama komutları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "2.4. KATMANLAR RENKLER VE ÇİZGİLER\n2.4.1. Color Renk",
+      "KAZANIM": "Katmanlar renkler ve çizgileri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "2.4.2. Lineweight Çizgi Kalınlığı\n2.4.3. Linetype Çizgi Tipi",
+      "KAZANIM": "Katmanlar renkler ve çizgileri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "2.4.4. Layer Katman",
+      "KAZANIM": "Katmanlar renkler ve çizgileri kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ 3 TIBBI CİHAZ PERSPEKTİF ÇİZİMİ VE KÜTÜPHANE\n3.1. ÇİZİM KÜTÜPHANESİ OLUŞTURMA\n3.1.1. Make Block Blok Oluşturma",
+      "KAZANIM": "Çizim kütüphanesi oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.2. Insert Block Blok İndirme",
+      "KAZANIM": "Çizim kütüphanesi oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2. PERSPEKTİF ÇİZME\n3.2.1. Isometrik Drafting İzometrik Çizim",
+      "KAZANIM": "2. Dönem 2. Sınav Perspektifler çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2.2. İzometrik Çember Çizimi",
+      "KAZANIM": "Perspektifler çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2.3. İzometrik Çizim Ölçülendirme\n2.Dönem 2.Sınav",
+      "KAZANIM": "Perspektifler çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

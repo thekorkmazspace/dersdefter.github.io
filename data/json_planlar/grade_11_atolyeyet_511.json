@@ -84,8 +84,8 @@
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "9",
-      "KONU": "3.4. ANALOG GİRİŞ-ÇIKIŞ \n3.4.1. Analog Giriş \n3.4.2. Analog Çıkış",
-      "KAZANIM": "Mikrodenetleyicilerde seri haberleşme analog giriş çıkış işlemlerini yapar.",
+      "KONU": "3.4. ANALOG GİRİŞ-ÇIKIŞ \n3.4.1. ANALOG Giriş \n3.4.2. ANALOG Çıkış",
+      "KAZANIM": "Mikrodenetleyicilerde seri haberleşme ANALOG giriş çıkış işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,14 +93,14 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "9",
       "KONU": "3.4.3. Seri Port Ekranı Serial Monitor",
-      "KAZANIM": "Mikrodenetleyicilerde seri haberleşme analog giriş çıkış işlemlerini yapar.",
+      "KAZANIM": "Mikrodenetleyicilerde seri haberleşme ANALOG giriş çıkış işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "9",
-      "KONU": "3.5. ADC-DAC UYGULAMALARI \n3.5.1. ADC Analog Dijital Çevirici",
+      "KONU": "3.5. ADC-DAC UYGULAMALARI \n3.5.1. ADC ANALOG Dijital Çevirici",
       "KAZANIM": "Mikrodenetleyici ile ADCDAC dönüşümleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
@@ -108,7 +108,7 @@
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "9",
-      "KONU": "3.5.2. DAC Dijital Analog Çevirici",
+      "KONU": "3.5.2. DAC Dijital ANALOG Çevirici",
       "KAZANIM": "Mikrodenetleyici ile ADCDAC dönüşümleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },

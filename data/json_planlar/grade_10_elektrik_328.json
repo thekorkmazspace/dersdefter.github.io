@@ -192,7 +192,7 @@
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
-      "KONU": "Modül ANALOG DEVRE ELEMANLARI\n1. DİRENÇLER\n1.1. Tanımı ve İşlevi\n1.2. Çeşitleri\n1.3. Sabit Dirençlerin Renk Kodlarıyla Değerlerinin Bulunması\n1.4. Analog ve Dijital Ölçü Aleti Kullanarak Farklı Direnç Çeşitlerinin Ölçülmesi\n1.5. Direnç Bağlantıları\n1.5.1. Seri bağlantı\n1.5.2. Paralel bağlantı\n1.5.3. Karışık bağlantı",
+      "KONU": "Modül ANALOG DEVRE ELEMANLARI\n1. DİRENÇLER\n1.1. Tanımı ve İşlevi\n1.2. Çeşitleri\n1.3. Sabit Dirençlerin Renk Kodlarıyla Değerlerinin Bulunması\n1.4. ANALOG ve Dijital Ölçü Aleti Kullanarak Farklı Direnç Çeşitlerinin Ölçülmesi\n1.5. Direnç Bağlantıları\n1.5.1. Seri bağlantı\n1.5.2. Paralel bağlantı\n1.5.3. Karışık bağlantı",
       "KAZANIM": "İş sağlığı ve güvenliği önlemlerini alarak tekniğine uygun şekilde direncin devreye montajını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
@@ -208,7 +208,7 @@
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
-      "KONU": "4. TEMEL YARI İLETKEN ELEMANLAR DİYOTLAR\n4.1. İletken Yalıtkan ve Yarıiletken Maddeler\n4.2. P ve N Tipi Yarıiletkenler\n4.3. N ve P Tipi Yarıiletkenlerde Elektron ve Oyuk Hareketi\n4.4. P-N Yüzey Birleşmesi\n4.5. Diyotun Tanımı ve Yapısı\n4.6. Analog-Dijital Ölçü Aletiyle Diyotun Sağlamlık Kontrolü\n4.7. Analog-Dijital Ölçü Aletleriyle Diyotun Uçlarının Bulunması\n4.8. Diyot Uygulamaları",
+      "KONU": "4. TEMEL YARI İLETKEN ELEMANLAR DİYOTLAR\n4.1. İletken Yalıtkan ve Yarıiletken Maddeler\n4.2. P ve N Tipi Yarıiletkenler\n4.3. N ve P Tipi Yarıiletkenlerde Elektron ve Oyuk Hareketi\n4.4. P-N Yüzey Birleşmesi\n4.5. Diyotun Tanımı ve Yapısı\n4.6. ANALOG-Dijital Ölçü Aletiyle Diyotun Sağlamlık Kontrolü\n4.7. ANALOG-Dijital Ölçü Aletleriyle Diyotun Uçlarının Bulunması\n4.8. Diyot Uygulamaları",
       "KAZANIM": "İş sağlığı ve güvenliği önlemlerini alarak tekniğine uygun şekilde diyotun sağlamlık kontrolü ile uç tespitini yaparak devreye montajını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
@@ -225,7 +225,7 @@
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
-      "KONU": "5. TEMEL YARI İLETKEN ELEMANLAR TRANSİSTÖRLER\n5.1. BJT Transistörler\n5.1.1. PNP ve NPN tipi transistörlerin yapısı\n5.1.2. PNP ve NPN tipi transistörlerin doğru ve ters yönde polarmalandırılması ön gerilimleme\n5.1.3. PNP ve NPN tipi transistörlerde akım ve gerilim yönleri\n5.1.4. Transistörlerin yükselteç olarak çalıştırılması\n5.1.5. Transistörlerin çalışma kararlılığını etkileyen faktörler\n5.1.6. Transistörün anahtarlama elemanı olarak çalıştırılması\n5.1.7. Katalog kullanarak transistörlerin bilgilerinin ve karşılıklarının bulunması \n5.1.8. Transistörlerin üzerindeki harflerin ve rakamların okunması\n5.1.9. SMD Yüzey Montajlı transistörler\n5.1.10. Analog ve dijital ölçü aletleriyle transistörün sağlamlık kontrolünün yapılması\n5.1.11. Analog ve dijital ölçü aletleriyle transistörün uçlarının bulunması\n5.1.12. LDR ve Transistör ile bir rölenin kumanda edilmesi uygulaması\n5.1.13. Darlington bağlantı ile bir DC motorun çalıştırılması uygulaması",
+      "KONU": "5. TEMEL YARI İLETKEN ELEMANLAR TRANSİSTÖRLER\n5.1. BJT Transistörler\n5.1.1. PNP ve NPN tipi transistörlerin yapısı\n5.1.2. PNP ve NPN tipi transistörlerin doğru ve ters yönde polarmalandırılması ön gerilimleme\n5.1.3. PNP ve NPN tipi transistörlerde akım ve gerilim yönleri\n5.1.4. Transistörlerin yükselteç olarak çalıştırılması\n5.1.5. Transistörlerin çalışma kararlılığını etkileyen faktörler\n5.1.6. Transistörün anahtarlama elemanı olarak çalıştırılması\n5.1.7. Katalog kullanarak transistörlerin bilgilerinin ve karşılıklarının bulunması \n5.1.8. Transistörlerin üzerindeki harflerin ve rakamların okunması\n5.1.9. SMD Yüzey Montajlı transistörler\n5.1.10. ANALOG ve dijital ölçü aletleriyle transistörün sağlamlık kontrolünün yapılması\n5.1.11. ANALOG ve dijital ölçü aletleriyle transistörün uçlarının bulunması\n5.1.12. LDR ve Transistör ile bir rölenin kumanda edilmesi uygulaması\n5.1.13. Darlington bağlantı ile bir DC motorun çalıştırılması uygulaması",
       "KAZANIM": "İş sağlığı ve güvenliği önlemlerini alarak tekniğine uygun şekilde transistörün sağlamlık kontrolü ile uç tespitini yaparak devreye montajını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },

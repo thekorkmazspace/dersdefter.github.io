@@ -29,8 +29,8 @@
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "9",
-      "KONU": "3. ANALOG ÇIKIŞLI SENSÖRLER\n3.1. Analog çıkışlı sensörlerin özellikleri \n3.2. Sıcaklık sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları",
-      "KAZANIM": "Analog çıkışlı sensörler ile devre uygulamaları yapar.",
+      "KONU": "3. ANALOG ÇIKIŞLI SENSÖRLER\n3.1. ANALOG çıkışlı sensörlerin özellikleri \n3.2. Sıcaklık sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları",
+      "KAZANIM": "ANALOG çıkışlı sensörler ile devre uygulamaları yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,7 +38,7 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "9",
       "KONU": "3.3. Basınç sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları \n3.4. Mesafe ultrasonik ve lazer sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları \n3.5. Seviye sensörlerin yapısı çalışması bağlantısı avantaj ve dezavantajları",
-      "KAZANIM": "Analog çıkışlı sensörler ile devre uygulamaları yapar.",
+      "KAZANIM": "ANALOG çıkışlı sensörler ile devre uygulamaları yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -92,7 +92,7 @@
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "9",
-      "KONU": "5. PLC DONANIMLARI VE SEÇİMİ \n5.1. PLC dijital modülleri \n5.2. PLC analog modülleri \n5.3. PLC enerji cihaz modülleri \n5.4. PLC haberleşme modülleri \n5.5. PLC kablo ve ekipmanları \n5.6. Katalogdan PLC seçim işlemi",
+      "KONU": "5. PLC DONANIMLARI VE SEÇİMİ \n5.1. PLC dijital modülleri \n5.2. PLC ANALOG modülleri \n5.3. PLC enerji cihaz modülleri \n5.4. PLC haberleşme modülleri \n5.5. PLC kablo ve ekipmanları \n5.6. Katalogdan PLC seçim işlemi",
       "KAZANIM": "PLC donanımlarını ve ekipmanlarını seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
@@ -178,15 +178,15 @@
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "9",
-      "KONU": "4. PLC ANALOG İŞLEMLERİ\n4.1. Editörde analog modül ekleme ve donanım ayar yapma işlemleri \n4.2. Analog giriş adreslemeleri sinyal türleri akım-gerilim sinyal işleme dijital karşılıkları ve komutları",
-      "KAZANIM": "PLC ile analog işlemleri yapar."
+      "KONU": "4. PLC ANALOG İŞLEMLERİ\n4.1. Editörde ANALOG modül ekleme ve donanım ayar yapma işlemleri \n4.2. ANALOG giriş adreslemeleri sinyal türleri akım-gerilim sinyal işleme dijital karşılıkları ve komutları",
+      "KAZANIM": "PLC ile ANALOG işlemleri yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "9",
-      "KONU": "4.3. Analog çıkış adreslemeleri sinyal türleri akım-gerilim sinyal işleme dijital karşılıkları ve komutları",
-      "KAZANIM": "PLC ile analog işlemleri yapar."
+      "KONU": "4.3. ANALOG çıkış adreslemeleri sinyal türleri akım-gerilim sinyal işleme dijital karşılıkları ve komutları",
+      "KAZANIM": "PLC ile ANALOG işlemleri yapar."
     },
     {
       "AY": "ŞUBAT",

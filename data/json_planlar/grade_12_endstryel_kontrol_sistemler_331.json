@@ -178,22 +178,22 @@
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
-      "KONU": "Modül PLC İLE ANALOG İŞLEMLER\n1. PLCNİN İLAVE MODÜL BAĞLANTISI\n1.1. Analog Modülün Tanımı ve Yapısı\n1.2. Analog Veri Kullanım Teknikleri\n1.3. Analog Modüllerin Özellikleri\n1.4. Analog Modüllerin PLC ve Çevre Elamanları ile Bağlantısı",
+      "KONU": "Modül PLC İLE ANALOG İŞLEMLER\n1. PLCNİN İLAVE MODÜL BAĞLANTISI\n1.1. ANALOG Modülün Tanımı ve Yapısı\n1.2. ANALOG Veri Kullanım Teknikleri\n1.3. ANALOG Modüllerin Özellikleri\n1.4. ANALOG Modüllerin PLC ve Çevre Elamanları ile Bağlantısı",
       "KAZANIM": "A. İş sağlığı ve güvenliği önlemlerini alarak sistem ihtiyaçlarına göre seçilen ilave modülün bağlantı şeması ve kullanım kılavuzuna uygun şekilde PLCye bağlantısını yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
-      "KONU": "2. ANALOG İŞLEMLER\n2.1. Analog ve dijital veri tanımları\n2.2. Analog verinin dijital veriye dönüştürme hesapları\n2.3. Dijital verinin analog veriye dönüştürme hesapları",
-      "KAZANIM": "B. İş sağlığı ve güvenliği önlemlerini alarak sistemin gerektirdiği analog işlemleri PLC ile yapar."
+      "KONU": "2. ANALOG İŞLEMLER\n2.1. ANALOG ve dijital veri tanımları\n2.2. ANALOG verinin dijital veriye dönüştürme hesapları\n2.3. Dijital verinin ANALOG veriye dönüştürme hesapları",
+      "KAZANIM": "B. İş sağlığı ve güvenliği önlemlerini alarak sistemin gerektirdiği ANALOG işlemleri PLC ile yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
-      "KONU": "2.4. Analog girişe gelen akım veya gerilim bilgisinin yapılacak işleme uygun dijital veriye dönüşümü\n2.5. Dijital veriye dönüştürülen verinin hafıza alanlarına taşıma işlemleri\n2.6. Hafıza alanına taşınan analog veri karşılıklarının aritmetik işlem ve karşılaştırma işlemlerine tabi tutulması\n2.7. Elde edilen değişken analog veri karşılıkları istenen aralıklar için dijital veya analog çıkışların kontrol edilmesi işlemleri",
-      "KAZANIM": "B. İş sağlığı ve güvenliği önlemlerini alarak sistemin gerektirdiği analog işlemleri PLC ile yapar.",
+      "KONU": "2.4. ANALOG girişe gelen akım veya gerilim bilgisinin yapılacak işleme uygun dijital veriye dönüşümü\n2.5. Dijital veriye dönüştürülen verinin hafıza alanlarına taşıma işlemleri\n2.6. Hafıza alanına taşınan ANALOG veri karşılıklarının aritmetik işlem ve karşılaştırma işlemlerine tabi tutulması\n2.7. Elde edilen değişken ANALOG veri karşılıkları istenen aralıklar için dijital veya ANALOG çıkışların kontrol edilmesi işlemleri",
+      "KAZANIM": "B. İş sağlığı ve güvenliği önlemlerini alarak sistemin gerektirdiği ANALOG işlemleri PLC ile yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
