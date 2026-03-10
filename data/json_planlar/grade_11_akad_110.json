@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "AKAD",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "1. Akaid İlmi",
+      "KONU": "1. Ders müfredatı hakkında bilgi\n1. Dinin Kaynağı",
+      "KAZANIM": "1. Dinin kaynağını ayet ve hadislerle temellendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "1. Akaid İlmi",
+      "KONU": "2. Akaidin Tanımı Konusu ve Amacı",
+      "KAZANIM": "2. Akaid ilminin tanımını konusunu ve amacını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "1. Akaid İlmi",
+      "KONU": "3. İslam Akaidinin Temel Özellikleri",
+      "KAZANIM": "3. İslam akaidinin temel özelliklerini kavrar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "1. Akaid İlmi",
+      "KONU": "3. İslam Akaidinin Temel Özellikleri",
+      "KAZANIM": "3. İslam akaidinin temel özelliklerini kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "1. Akaid İlmi",
+      "KONU": "4. İslam Akaidinin Kaynakları",
+      "KAZANIM": "4. İslam akaidinin kaynaklarını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "2. İman Ve Mahiyeti",
+      "KONU": "1-İman ve İmanın Mahiyeti",
+      "KAZANIM": "Bu ünite sonunda öğrenciler\n1. İman kavramını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "2. İman Ve Mahiyeti",
+      "KONU": "2. İman Amel Arasındaki İlişki\n3. İmanın Geçerli Olmasının Şartları",
+      "KAZANIM": "2. İmanın mahiyetini kavrar.\n3. İmanın makbul olması için gerekli olan şartları açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "2. İman Ve Mahiyeti",
+      "KONU": "4. İnanç Bakımından İnsanlar\n4.1. Mümin\n4.2. Münafık",
+      "KAZANIM": "4. İman-amel arasındaki ilişkiyi temellendirir.\n5. İmanın rükünlerinin bir bütün olduğunu kavrar.\n6. İnanç bakımından insanları sınıflandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "3. Allaha İman",
+      "KONU": "4.3. Kâfir",
+      "KAZANIM": "1. Dönem 1. Sınav 4. İman-amel arasındaki ilişkiyi temellendirir.\n5. İmanın rükünlerinin bir bütün olduğunu kavrar.\n6. İnanç bakımından insanları sınıflandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "3. Allaha İman",
+      "KONU": "1. Allaha İman ve İslam Akaidindeki Yeri\n2. Allah İnancının Fıtriliği",
+      "KAZANIM": "1. Allaha imanın İslam akaidindeki yerini fark eder.\n2. Allah inancının fıtrîliğini örneklerle açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "3. Allaha İman",
+      "KONU": "3. Allahın Varlığı ve Birliği\n4. Allahın İsimleri",
+      "KAZANIM": "3. Allahın yaratma ve emretmedeki birliğini ayetlerle temellendirir.\n4. İman-amel arasındaki ilişkiyi temellendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "3. Allaha İman",
+      "KONU": "5. Allahın Sıfatları\n5.1. Zâtî Sıfatlar",
+      "KAZANIM": "5. İmanın rükünlerinin bir bütün olduğunu kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "3. Allaha İman",
+      "KONU": "5.2. Subûti Sıfatlar",
+      "KAZANIM": "6. İnanç bakımından insanları sınıflandırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "3. Allaha İman",
+      "KONU": "6. Allaha İmanın İnsana Kazandırdıkları",
+      "KAZANIM": "6. İman-amel arasındaki ilişkiyi temellendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "4. Meleklere İman",
+      "KONU": "1. Meleklerin Varlığı ve Mahiyeti\n2. Meleklerin Görevleri",
+      "KAZANIM": "1. Meleklerin varlığı ve mahiyetini naklî deliller ile açıklar.\n2. Ayet ve hadislerden hareketle meleklerin görevlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "4. Meleklere İman",
+      "KONU": "3. Meleklere İmanın İnsana Kazandırdıkları",
+      "KAZANIM": "3. Meleklere imanın bireyin davranışları üzerindeki etkisini fark eder."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "4. Meleklere İman",
+      "KONU": "4. Kuran-ı Kerime Göre Cinler",
+      "KAZANIM": "1. Dönem 2. Sınav 4. Cin ve şeytanın yaratılış gayesini kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "4. Meleklere İman",
+      "KONU": "5. Kuran-ı Kerime Göre Şeytanlar",
+      "KAZANIM": "5. Gözle görülmeyen varlıklar hakkında batıl inançları sorgular."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "5. Peygamberlere ve Kitaplara İman",
+      "KONU": "1. Nübüvvet Risalet ve Vahiy\n1.1. Peygamberlere Olan İhtiyaç",
+      "KAZANIM": "1. Nübüvvet risalet ve vahiy kavramlarını açıklar.\n2. Peygamberlerin gönderiliş amacını akli ve naklî delillerle temellendirir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "5. Peygamberlere ve Kitaplara İman",
+      "KONU": "1.2. Peygamberlerin Özellikleri\n1.3. Kur anda Adı Geçen Peygamberler",
+      "KAZANIM": "3. Peygamberlerin ortak özelliklerini açıklar.\n4. Kuranda adı geçen peygamberleri tanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "5. Peygamberlere ve Kitaplara İman",
+      "KONU": "1.4. Peygamberler ve Tevhid Mücadelesi\n1.5. Peygamberlere İmanın İnsana Kazandırdıkları",
+      "KAZANIM": "5. Peygamberlerin tevhid mücadelesini Kuran-ı Kerimden örneklerle açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "5. Peygamberlere ve Kitaplara İman",
+      "KONU": "2. Peygamberlere Gönderilen Kitaplar\n2.1. Tevrat",
+      "KAZANIM": "6. İlahi kitap kavramını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "5. Peygamberlere ve Kitaplara İman",
+      "KONU": "2.2. Zebur\n2.3. İncil",
+      "KAZANIM": "6. İlahi kitap kavramını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "5. Peygamberlere ve Kitaplara İman",
+      "KONU": "2.4. Kuran-ı Kerim",
+      "KAZANIM": "7. Kuran-ı Kerimin özgünlüğünü kavrar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "5. Peygamberlere ve Kitaplara İman",
+      "KONU": "2.5. Kitaplara İmanın İnsana Kazandırdıkları",
+      "KAZANIM": "8. Peygamberlere ve kitaplara imanın insana kazandırdıklarını değerlendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "6. Ahirete İman",
+      "KONU": "1. Dünya Hayatı ve Ahiret",
+      "KAZANIM": "2. Dönem 1. Sınav 1. Dünya hayatının amacını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "6. Ahirete İman",
+      "KONU": "2. Ahiret Hayatının Varlığının Delilleri",
+      "KAZANIM": "2. Ahiret inancını akli ve naklî delillerle temellendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "6. Ahirete İman",
+      "KONU": "3. Ahiret Hayatının Safhaları\n3.1. Berzah Âlemi",
+      "KAZANIM": "3. Ahiret hayatının safhalarını ayet ve hadislerle temellendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "6. Ahirete İman",
+      "KONU": "3.2. Kıyamet\n3.3. Bas\n3.4. Mahşer Hesap ve Mizan",
+      "KAZANIM": "4. Ahiret inancının hayatı anlamaya katkısını fark eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "6. Ahirete İman",
+      "KONU": "3.5. Sırat\n3.6. Cennet ve Cehennem",
+      "KAZANIM": "4. Ahiret inancının hayatı anlamaya katkısını fark eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "6. Ahirete İman",
+      "KONU": "4. Ahirete İmanın Hayatımıza Etkileri\n1. Kader ve Kaza",
+      "KAZANIM": "4. Ahiret inancının hayatı anlamaya katkısını fark eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "7. Kader ve Kazaya İman",
+      "KONU": "2. Kader ve Kaza İnancının Kuran ve Hadislerdeki Temelleri\n3. İnsan Kader İlişkisi\n3.1. Akıl",
+      "KAZANIM": "1. Kader ve kaza kavramlarını açıklar.\n2. Kader ve kaza inancını ayet ve hadislerle temellendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "7. Kader ve Kazaya İman",
+      "KONU": "3.2. İrade\n3.3. Sorumluluk\n4. Kaderle İlişkilendirilen Bazı Kavramlar\n4.1. Ecel",
+      "KAZANIM": "4. İrade kavramını tüm boyutları ile değerlendirir.\n3. İnsanın akıl irade ve sorumluluk sahibi olmasıyla kader arasında ilişki kurar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "7. Kader ve Kazaya İman",
+      "KONU": "4.2. Rızık\n4.3. Afet\n4.4. Sağlık ve Hastalık",
+      "KAZANIM": "2. Dönem 2. Sınav 5. Kaderle ilişkilendirilen bazı kavramları ayet ve hadisler ışığında yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "7. Kader ve Kazaya İman",
+      "KONU": "4.5. Başarı ve Başarısızlık\n4.6. Dua ve Tevekkül\n4.7. Sabır Teslimiyet ve Rıza",
+      "KAZANIM": "5. Kaderle ilişkilendirilen bazı kavramları ayet ve hadisler ışığında yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "7. Kader ve Kazaya İman",
+      "KONU": "4.8. Hayr ve Şer\n4.9. Hidayet ve Dalalet",
+      "KAZANIM": "5. Kaderle ilişkilendirilen bazı kavramları ayet ve hadisler ışığında yorumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

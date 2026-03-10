@@ -1,0 +1,339 @@
+{
+  "sinif": "9",
+  "ders": "AHŞAP KAGR ATÖLYESİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "5",
+      "KONU": "1. AHŞAP GEÇME VE EKLERİ \n1.1. AHŞAP ATÖLYESİ İŞ SAĞLIĞI VE GÜVENLİĞİ TEDBİRLERİ \n1.1.1. Ahşap Atölyesi Makine Araç-Gereç ve Çalışma Tezgâhlarında İş Sağlığı ve Güvenliği Tedbirleri \n1.1.2. Ahşap Atölyesi İş Sağlığı ve Güvenliği Risk ve Tedbirleri Uygulaması \n1.2. AHŞAP MALZEMELER DEPOLAMA VE İSTİF",
+      "KAZANIM": "Ahşap atölyesinde iş sağlığı ve güvenliği yönergesi doğrultusunda tedbirleri alır.\nAhşap malzemeyi istifleme kurullarına uygun olarak depolar",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "5",
+      "KONU": "1.3. AHŞAP İŞLERİNDE KULLANILAN EL ALETLERİ VE MALZEMELER \n1.3.1. Ahşap İşlemede Kullanılan El Aletleri\n1.3.2. Ahşap İşlemede Kullanılan El Aletlerinin Bakımı \n1.4. AHŞAP MALZEMEYİ İSTENİLEN ÖLÇÜYE GETİRME TEMRİN UYGULAMASI\n1.4.1. Ahşap Malzemeyi İstenilen Ölçüye Getirmek İçin Kullanılan Ölçü Aletleri",
+      "KAZANIM": "Ahşap araç gereç malzeme hazırlığını yönerge doğrultusunda yapar.\nİş resmine uygun markalama yaparak ahşap malzemeyi istenilen ölçülere getirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "5",
+      "KONU": "1.4.2. Ahşap Kesme Kuralları \n1.4.3. Ahşap Kesme Şekilleri \n1.5. AHŞAP EKLER\n1.5.1. Ahşap Ek Çeşitleri \n1.5.2. Ahşaba Ek Yapma Araçları\n1.5.3. Ahşaba Ek Yapma Kuralları",
+      "KAZANIM": "İş resmine uygun markalama yaparak ahşaba ekler yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "5",
+      "KONU": "1.6. DÜZ BİNDİRME EK TEMRİN UYGULAMASI ÇİZİMİ \n1.6.1. Düz Bindirme Ek Temrin Uygulaması Çizimi İşlem Basamakları \n1.6.2. Düz Bindirme Ek Temrin Çizimi\n1.7. DÜZ BİNDİRME EK TEMRİN UYGULAMASI\n1.7.1. Düz Bindirme Ek Temrin Uygulaması İşlem Basamakları",
+      "KAZANIM": "İş resmine uygun markalama yaparak geçmeler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "5",
+      "KONU": "1.8. KÖŞEDE DÜZ BİNDİRME EK TEMRİN UYGULAMASI ÇİZİMİ\n1.8.1. Köşede Düz Bindirme Ek Temrin Uygulaması Çizimi İşlem Basamakları\n1.8.2. Köşede Düz Bindirme Ek Temrin Çizimi \n1.9. KÖŞEDE DÜZ BİNDİRME EK TEMRİN UYGULAMASI\n1.9.1. Köşede Düz Bindirme Ek Temrin Uygulaması İşlem Basamakları",
+      "KAZANIM": "İş resmine uygun markalama yaparak geçmeler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "5",
+      "KONU": "1.10. ORTADA DÜZ BİNDİRME EK TEMRİN UYGULAMASI ÇİZİMİ \n1.10.1. Ortada Düz Bindirme Ek Temrin Uygulaması Çizimi İşlem Basamakları \n1.10.2. Ortada Düz Bindirme Ek Temrin Çizimi\n1.11. ORTADA DÜZ BİNDİRME EK TEMRİN UYGULAMASI \n1.11.1. Ortada Düz Bindirme Ek Temrin Uygulaması İşlem Basamakları",
+      "KAZANIM": "İş resmine uygun markalama yaparak geçmeler yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "5",
+      "KONU": "1.12. KURTAĞZI EK TEMRİN UYGULAMASI ÇİZİMİ \n1.12.1. Kurtağzı Ek Temrin Uygulaması Çizimi İşlem Basamakları \n1.12.2. Kurtağzı Ek Temrin Çizimi\n1.13. KURTAĞZI EK TEMRİN UYGULAMASI\n1.13.1. Kurtağzı Ek Temrin Uygulaması İşlem Basamakları",
+      "KAZANIM": "İş resmine uygun markalama yaparak geçmeler yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "5",
+      "KONU": "1.14. AHŞAP GEÇMELER \n1.14.1. Ahşap Geçme Çeşitleri \n1.14.2. Geçme Yapma Araçları\n1.14.3. Geçme Yapma Kuralları \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "İş resmine uygun markalama yaparak geçmeler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "5",
+      "KONU": "1.15. ZIVANALI GEÇME TEMRİN UYGULAMASI ÇİZİMİ\n1.15.1. Zıvanalı Geçme Temrin Uygulaması Çizimi İşlem Basamakları\n1.15.2. Zıvanalı Geçme Temrin Çizimi \n1.16. ZIVANALI GEÇME TEMRİN UYGULAMASI\n1.16.1. Zıvanalı Geçme Temrin Uygulaması İşlem Basamakları",
+      "KAZANIM": "1. Dönem 1. Sınav İş resmine uygun markalama yaparak geçmeler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "5",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "5",
+      "KONU": "1.17. BOYUNDURUK GEÇME TEMRİN UYGULAMASI ÇİZİMİ \n1.17.1. Boyunduruk Geçme Temrin Uygulaması Çizimi İşlem Basamakları\n1.17.2. Boyunduruk Geçme Temrin Çizimi \n1.18. BOYUNDURUK GEÇME TEMRİN UYGULAMASI \n1.18.1. Boyunduruk Geçme Temrin Uygulaması İşlem Basamakları",
+      "KAZANIM": "İş resmine uygun markalama yaparak geçmeler yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "5",
+      "KONU": "2. AHŞAP OTURTMA ÇATI MAKASI\n2.1. OTURTMA ÇATI ÇEŞİTLERİ VE ELEMANLARI\n2.1.2. Tek Dikmeli Oturtma Çatı Makası\n2.1.3. İki Dikmeli Oturtma Çatı Makası",
+      "KAZANIM": "Ahşap oturtma çatılar çeşitleri elemanları ve görevlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "5",
+      "KONU": "2.1.4. Üç Dikmeli Oturtma Çatı Makası \n2.1.5. Oturtma Çatı Makası Elemanları ve Nokta Detayları \n2.2. TEK DİKMELİ AHŞAP OTURTMA ÇATI UYGULAMA ÇİZİMLERİ\n2.2.1. Tek Dikmeli Ahşap Oturtma Çatı Uygulama Temrin Çizimleri",
+      "KAZANIM": "Ahşap oturtma çatılar çeşitleri elemanları ve görevlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "5",
+      "KONU": "2.3. OTURTMA ÇATI YAPIM KURALLARI \n2.3.1. Ahşap Oturtma Çatı Yapım Kuralları\n2.3.2. Tek Dikmeli Ahşap Oturtma Çatı Makası Temrin Uygulaması",
+      "KAZANIM": "Ahşap oturtma çatı makasını iş resmine ve ölçülerine uygun olarak oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "5",
+      "KONU": "2.3.2.1. Tek Dikmeli Ahşap Oturtma Çatı Makası Uygulaması Kullanılan Araç- Gereçler\n2.3.2.2. Tek Dikmeli Ahşap Oturtma Çatı Makası Oluşturma İşlem Basamakları",
+      "KAZANIM": "Ahşap oturtma çatı makasını iş resmine ve ölçülerine uygun olarak oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "5",
+      "KONU": "3. AHŞAP DİKDÖRTGEN KESİTLİ KOLON KALIBI \n3.1. AHŞAP DİKDÖRTGEN KESİTLİ KOLON KALIBI ELEMANLARI VE GÖREVLERİ\n3.1.1. Ahşap Kalıp Elemanları \n3.1.1.1. Kalıp Elemanları ve Görevleri",
+      "KAZANIM": "Ahşap kolon kalıpları çeşitleri elemanları ve görevlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "5",
+      "KONU": "3.1.1.2. Ahşap Kolon Kalıp Elemanları\n3.2. AHŞAP KOLON KALIBI UYGULAMA ÇİZİMLERİ\n3.2.1. Ahşap Dikdörtgen Kesitli Kolon Kalıbı Temrin Çizimleri \n1.Dönem 2.Sınav",
+      "KAZANIM": "Ahşap kolon kalıpları çeşitleri elemanları ve görevlerini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "5",
+      "KONU": "3.3. AHŞAP DİKDÖRTGEN KESİTLİ KOLON KALIBI\n3.3.1. Ahşap Kolon Kalıbı Yapım Kuralları",
+      "KAZANIM": "1. Dönem 2. Sınav Ahşap dikdörtgen kesitli kolon kalıbını iş resmine ve ölçülerine uygun olarak oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "5",
+      "KONU": "3.3.2. Ahşap Dikdörtgen Kesitli Kolon Kalıbı Temrin Uygulaması \n3.3.3. Ahşap Dikdörtgen Kesitli Kolon Kalıbı Uygulaması İşlem Basamakları",
+      "KAZANIM": "Ahşap dikdörtgen kesitli kolon kalıbını iş resmine ve ölçülerine uygun olarak oluşturur."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "5",
+      "KONU": "4. TUĞLA DUVAR ÖRME \n4.1. KÂGİR ATÖLYESİ İŞ SAĞLIĞI VE GÜVENLİĞİ TEDBİRLERİ \n4.1.1. Kâgir Atölyesi Makine Araç-Gereç ve Çalışma Tezgâhları ile İlgili İş Sağlığı ve Güvenliği\n4.1.2. Kâgir Atölyesi İş Sağlığı ve Güvenliği Risk ve Tedbirleri Uygulaması",
+      "KAZANIM": "Kâgir atölyesinde iş sağlığı ve güvenliği yönergesi doğrultusunda tedbirleri alır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "5",
+      "KONU": "4.2. KÂGİR MALZEMELER DEPOLANMASI VE İSTİFLENMESİ\n4.2.1. Kâgir Malzemeler ve Özellikleri \n4.2.2. Kâgir Malzeme Depolama ve İstif Kuralları \n4.2.3. Kâgir Malzemelerin Depolanması ve İstifleme",
+      "KAZANIM": "Kâgir malzemeleri depolama ve istifleme kurallarına uygun olarak depolar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "5",
+      "KONU": "4.3. TUĞLA DUVAR KÂGİR MALZEME ARAÇ-GEREÇ HAZIRLIKLARI \n4.3.1. Tuğla Duvar Yapımında Kullanılan Araçlar\n4.3.2. Kâgir Malzeme İşleme Aletlerinin Yüzeysel Bakımı \n4.3.3. Kâgir Malzemelerin Kullanıma Hazırlanması",
+      "KAZANIM": "Kâgir malzeme araç gereç hazırlığını yönerge doğrultusunda yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "5",
+      "KONU": "4.4. HARÇ ÇEŞİTLERİ ÖZELLİKLERİ VE HARÇ YAPIM KURALLARI\n4.4.1. Harç Çeşitleri ve Özellikleri\n4.4.2. Harç Yapma Kuralları \n4.5. TUĞLA DUVAR HARCI HAZIRLAMA UYGULAMASI\n4.5.1. Tuğla Duvar Harcı Hazırlama İşlem Basamakları",
+      "KAZANIM": "Tuğla duvar harcını homojen karışım ve plastik kıvamda olacak şekilde hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "5",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "5",
+      "KONU": "4.6. DÜZ SIRALI TUĞLA DUVAR MALZEMELERİ VE ÖRME KURALLARI \n4.6.1. Tuğlaların Özellikleri Çeşitleri ve Kullanım Yerleri \n4.6.2. Düz Sıralı Tuğla Duvar Örme Kuralları\n4.7. DÜZ SIRALI TUĞLA DUVAR TEMRİN UYGULAMA ÇİZİMLERİ \n4.8. DÜZ SIRALI TUĞLA DUVAR ÖRME TEMRİN UYGULAMASI \n4.9. DÜZ SIRALI TUĞLA DUVAR KÖŞEDE DİK BİRLEŞİM TEMRİN UYGULAMA ÇİZİMLERİ",
+      "KAZANIM": "Tuğla ile düz sıralı duvarı duvar örme kurallarına uygun olarak yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "5",
+      "KONU": "4.10. DÜZ SIRALI TUĞLA DUVAR KÖŞEDE DİK BİRLEŞİM TEMRİN UYGULAMASI \n4.10.1. Düz Sıralı Tuğla Duvar Köşede Dik Birleşim İşlem Basamakları \n4.11. DÜZ SIRALI TUĞLA DUVAR ORTADA DİK BİRLEŞİM TEMRİN UYGULAMA ÇİZİMLERİ\n4.12. DÜZ SIRALI TUĞLA DUVAR ORTADA DİK BİRLEŞİM TEMRİN UYGULAMASI \n4.12.1. Düz Sıralı Tuğla Duvar Ortada Dik Birleşim İşlem Basamakları",
+      "KAZANIM": "Tuğla ile düz sıralı duvarı duvar örme kurallarına uygun olarak yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "5",
+      "KONU": "5. KABA VE İNCE SIVA\n5.1. KABA VE İNCE SIVA ÖZELLİKLERİ ARAÇ-GEREÇ MAKİNE VE HARÇ ÇEŞİTLERİ\n5.1.1. Kaba ve İnce Sıva Genel Özellikleri \n5.1.2. Kaba ve İnce Sıva Yapımında Kullanılan Araç ve Makineler \n5.1.3. Kaba ve İnce Sıva Uygulamasında Kullanılan Gereçler \n\n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Düz duvar yüzeyine kaba sıvayı sıva yapım kurallarına uygun olarak yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "5",
+      "KONU": "5.1.4. Kaba ve İnce Sıva Uygulamasında Kullanılan Harçlar\n5.2. KABA VE İNCE SIVA UYGULAMA TEMRİN İŞ RESMİ ÇİZİMLERİ\n5.2.1. Kaba Sıva Uygulamaları Temrin İş Resmi Çizimleri \n5.2.2. İnce Sıva Uygulamaları Temrin İş Resmi Çizimleri",
+      "KAZANIM": "Düz duvar yüzeyine kaba sıvayı sıva yapım kurallarına uygun olarak yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "5",
+      "KONU": "5.3. DÜZ DUVAR YÜZEYİNE KABA SIVA TEMRİN UYGULAMASI \n5.3.1. Düz Duvar Yüzeyine Kaba Sıva İşlem Basamakları\n5.3.2. Düz Duvar Yüzeyine Kaba Sıva Mastarlık Ano Temrin Uygulaması",
+      "KAZANIM": "Düz yüzeye ince sıvayı sıva yapım kurallarına uygun olarak yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "5",
+      "KONU": "5.3.3. Düz Duvar Yüzeyine Kireç Harçlı Kaba Sıva Temrin Uygulaması\n5.3.4. Farklı Yüzeylere Takviyeli Harçla Kaba Sıva Ano Temrin Uygulaması \n5.3.5. Farklı Yüzeylere Takviyeli Harç İle Kaba Sıva Temrin Uygulaması",
+      "KAZANIM": "Düz yüzeye ince sıvayı sıva yapım kurallarına uygun olarak yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "5",
+      "KONU": "5.4. DÜZ YÜZEYE İNCE SIVA TEMRİN UYGULAMASI\n5.4.1. İnce Sıva Uygulaması İşlem Basamakları\n5.4.1 Düz Yüzeye Kireç Harçlı İnce Sıva Temrin Uygulaması\n5.4.2. Düz Yüzeye Takviyeli Harçla İnce Sıva Temrin Uygulaması",
+      "KAZANIM": "Düz yüzeye ince sıvayı sıva yapım kurallarına uygun olarak yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "5",
+      "KONU": "6. SERAMİK KARO KAPLAMA\n6.1. SERAMİK KARO KAPLAMA ÇEŞİTLERİ ÖZELLİKLERİ ARAÇ-GEREÇ MAKİNE VE HARÇ ÇEŞİTLERİ\n6.1.1 Seramik Karoların Sınıflandırılması\n6.1.2. Seramik Karoların Özellikleri",
+      "KAZANIM": "Düz duvar yüzeyine seramik karo uygulaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "5",
+      "KONU": "6.1.3. Seramik Karo Kaplamada Kullanılan Araç ve Makineler \n6.1.4. Seramik Karo Kaplama Uygulamasında Kullanılan Gereç ve Yapıştırma Harçları",
+      "KAZANIM": "Düz duvar yüzeyine seramik karo uygulaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "5",
+      "KONU": "6.2. SERAMİK KARO KAPLAMA TEMRİN UYGULAMA ÇİZİMLERİ \n6.2.1. Düz Duvar Yüzeyine Seramik Karo Kaplama Uygulama Temrin Çizimleri",
+      "KAZANIM": "Düz duvar yüzeyine seramik karo uygulaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "5",
+      "KONU": "6.2.2. Zemine Seramik Karo Uygulamaları Temrin Çizimleri",
+      "KAZANIM": "2. Dönem 2. Sınav Düz duvar yüzeyine seramik karo uygulaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "5",
+      "KONU": "6.3. DÜZ DUVAR YÜZEYİNE SERAMİK KARO KAPLAMA TEMRİN UYGULAMASI\n6.3.1. Düz Duvar Yüzeyine Seramik Karo Kaplama İşlem Basamakları\n6.3.2. Düz Duvar Yüzeyine Seramik Karo Kaplama Temrin Uygulaması",
+      "KAZANIM": "Düz zemin yüzeyine seramik karo kaplama uygulaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "5",
+      "KONU": "6.4. DÜZ ZEMİN YÜZEYİNE SERAMİK KARO KAPLAMA TEMRİN UYGULAMASI \n6.4.1.Düz Zemin Yüzeyine Seramik Karo Kaplama Uygulama İşlem Basamakları \n2.Dönem 2.Sınav",
+      "KAZANIM": "Düz zemin yüzeyine seramik karo kaplama uygulaması yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "sinif": "12",
+  "ders": "EMSYON KONTROL SİSTEMLER",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "A. Emisyonlar\n1.Tanımı\n2.Motorlu araç emisyonları ve hava kirliliğine etkisi",
+      "KAZANIM": "1. Emisyonun tanımını açıklar.                 2. Motorlu araç emisyonlarını ve hava kirliliğine etkisini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "3.Emisyonlarla İlgili yasal zorunluluklar\n   a.Uluslar arası standartlar\n   b.Ulusal standartlar",
+      "KAZANIM": "3. Emisyonla ilgili yasal zorunlulukları açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "4.Hava kirlenmesinin başlıca kaynakları",
+      "KAZANIM": "4. Hava kirliliğinin başlıca kaynaklarını sıralar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "5.Egzoz emisyon kontrolü  \na.Yakıtlar ve yanma\ni.Tanımı\nii.Özellikleri\niii.Yanma reaksiyonları",
+      "KAZANIM": "5. Yakıtlar ve yanmanın tanımını özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "b.Benzinli ve alternatif yakıtlı motorların emisyonları\ni.Karbon monoksit\nii.Karbon dioksit\niii.Hidro karbon\niv.Diğer gazlar",
+      "KAZANIM": "6. Benzinli ve alternatif yakıtlı motorların emisyonlarını sıralar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "c.Benzinli motor emisyon kontrol cihazları O2COHCCO2\ni.Görevi\nii.Ekipmanların ve cihazın kullanılması\niii.Cihazın periyodik bakımı                                                         iv.Cihazla ölçüm yaparken dikkat edilecek hususlar\nv.Emisyon değerlerinin yorumlanması",
+      "KAZANIM": "7. Benzinli motor emisyon kontrol cihazının görevini kullanımını periyodik bakımını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "B.Dizel Motorlarda Egzoz Emisyon Kontrolü\n1.Dizel motorların emisyonları\na.Karbon oksitler\nb.Azot oksitler                                                                          c.Kükürtlü bileşikler\nd.Hidrokarbonlar\ne.Aldehitler",
+      "KAZANIM": "8. Dizel motorların emisyonlarını sıralar.                                  Cumhuriyet  bayramının önemi kavrar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "2.Azot oksitlerin çevre ve insan sağlığına etkileri\n3.Dizel motorda azot oksit azaltma yöntemleri",
+      "KAZANIM": "9. Azotoksitlerin çevre ve insan sağlığına etkilerini sıralar.                                     10. Dizel motorlarda azot oksit azaltma yöntemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "2.Azot oksitlerin çevre ve insan sağlığına etkileri\n3.Dizel motorda azot oksit azaltma yöntemleri",
+      "KAZANIM": "1. Dönem 1. Sınav 10. Azotoksitlerin çevre ve insan sağlığına etkilerini sıralar.                                     10. Dizel motorlarda azot oksit azaltma yöntemlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "4.Araçta egzoz emisyonuna etki eden faktörler\na.Sıkıştırma oranı\nb.Hava yakıt oranı\nc.Ateşleme avansı",
+      "KAZANIM": "11. Egzoz emisyonuna etki eden faktörleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "d.Yakıt kalitesi\ne.Motorlarda alev hızı                                                               f.Motor sürtünmesi",
+      "KAZANIM": "11. Egzoz emisyonuna etki eden faktörleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "g.Motorlarda kullanılan yardımcı sistemler                                     h.Yanma odası tasarımı\ni.Taşıt tasarımı\nj.Taşıt aerodinamiği",
+      "KAZANIM": "11. Egzoz emisyonuna etki eden faktörleri açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "5.Motor bakımının ve ayarının emisyona etkisi",
+      "KAZANIM": "12. Motor bakımının ve ayarının emisyona etkilerini sıralar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "6.Motorlu araçları farkı çalışma şartlarının emisyona etkileri",
+      "KAZANIM": "13. Motorlu araçların farklı çalışma şartlarının emisyona etkilerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "7.Motorlu araçlardaki emisyonlarının düşürmek için kullanılan donanımlar",
+      "KAZANIM": "14. Motorlu araçlarda emisyonları düşürmek için kullanılan donanımları sıralar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "8.Dizel motor emisyon kontrol cihazları duman ölçer\na.Görevi b.Ekipmanların ve cihazın kullanılması",
+      "KAZANIM": "15. Dizel motor emisyon kontrol cihazının görevi ve çalışmasını açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "c.Cihazın periyodik bakımı\nd.Cihazla ölçüm yaparken dikkat edilecek hususlar\ne.Emisyon değerlerinin yorumlanması",
+      "KAZANIM": "1. Dönem 2. Sınav 16. Dizel motor emisyon kontrol cihazının periyodik bakımını açıklar.                                                          17. Dizel motor emisyon kontrol cihazını ile ölçüm yaparken dikkat edilecek hususları sıralar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL - 1- EGZOZ EMİSYON KONTROLÜ",
+      "KONU": "c.Cihazın periyodik bakımı\nd.Cihazla ölçüm yaparken dikkat edilecek hususlar\ne.Emisyon değerlerinin yorumlanması",
+      "KAZANIM": "16. Dizel motor emisyon kontrol cihazının periyodik bakımını açıklar.                                                          17. Dizel motor emisyon kontrol cihazını ile ölçüm yaparken dikkat edilecek hususları sıralar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "A.Motorlu Araçlarda Emisyonları Azaltıcı Sistemler\n1. Katalitik konvertörler\na. Tanımı ve önemi",
+      "KAZANIM": "1. Katalitik konvertörün tanımını ve önemini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "b.Görevleri\nc.Yapısı ve kısımları",
+      "KAZANIM": "2. Katalitik konvertörlerin görevlerini ve yapısını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "d.Çeşitleri\ne.Kontrolleri",
+      "KAZANIM": "3. Katalitik konvertörlerin çeşitlerini ve kontrollerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "f.Arızaları ve belirtileri\ng.Değiştirilmesi",
+      "KAZANIM": "4. Katalitik konvertörlerin arızalarını belirtilerini ve değiştirilmesini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "B.Karter havalandırma sistemi\n1.Görevleri\n2.Yapısal özellikleri",
+      "KAZANIM": "1. Karter havalandırma sisteminin görevlerini ve yapısal özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "3.Çalışması\n4.Çeşitleri",
+      "KAZANIM": "2. Karter havalandırma sisteminin çalışmasını ve çeşitlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "5.Kontrolleri\n6.Arızaları ve belirtileri",
+      "KAZANIM": "3. Karter havalandırma sisteminin kontrollerini arızalarını ve belirtilerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "C.Egzoz gazları resirkülasyon EGR sistemi\n1.EGR sisteminin kullanılma nedenleri\n2.EGR sisteminin görevleri                                                            ATATÜRKÜN LAİKLİK İLKESİ             1. YAZILI SINAV",
+      "KAZANIM": "2. Dönem 1. Sınav 1. EGR sisteminin kullanılma nedenlerini açıklar.                                    2. EGR sisteminin görevlerini sıralar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "3.EGR sistemini oluşturan parçalar\n4.EGR sisteminin çalışması",
+      "KAZANIM": "3. EGR sisteminin parçalarını ve çalışmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "5.Çeşitleri \n6.Kontrolleri\n7.Arızaları ve belirtileri",
+      "KAZANIM": "4. EGR sisteminin çeşitlerini açıklar.                                               5. EGR sisteminin kontrollerini arızalarını ve belirtilerini sıralar.                                         ATATÜRK ün çocuklara verdiği önemi bilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "8.EGR valfi\na.EGR valfinin kullanılma nedenleri\nb.EGR valfinin görevleri",
+      "KAZANIM": "6. EGR valfinin kullanılma nedenlerini açıklar.                              7. EGR valfinin görevlerini sıralar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "c.EGR valfinin çalışması\nd.Kontrolleri\ne.Arızaları ve belirtileri",
+      "KAZANIM": "8. EGR valfinin çalışmasını açıklar.                                                 9. EGR valfinin kontrollerini arızalarını ve belirtilerini sıralar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "D.Dizel Yakıt Enjeksiyon Sistemlerindeki Teknolojik Gelişmeler\n1.Karbon kanister valfi                                                                        a.Görevleri",
+      "KAZANIM": "1. Karbon kanister valfinin görevlerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "b.Yapısal özellikleri\nc.Çalışması",
+      "KAZANIM": "2. Karbon kanister valfinin yapısını ve çalışmasını açıklar.           ATATÜRKün Türk Gençliğine verdiği önemi bilir",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "2.Kurum Partikül Tutucu\na.Görevi\nb.Yapısı ve çalışması",
+      "KAZANIM": "3. Kurum partikül tutucunun görevlerini sıralar.                                4. Kurum partikül tutucunun yapısını ve çalışmasını açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "c.Arızası bakımı ve kontrolleri",
+      "KAZANIM": "2. Dönem 2. Sınav 5. Kurum partikül tutucunun arızalrını bakımını ve kontrollerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "3.Alev Söndürücü \na.Görevi",
+      "KAZANIM": "6. Alev söndürücünün görevini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL-2- EMİSYON AZALTICI SİSTEMLER",
+      "KONU": "b.Yapısı ve çalışması\nc.Arızası bakımı ve kontrolleri",
+      "KAZANIM": "7. Alev söndürücünün yapısını ve çalışmasını açıklar.                               8. Alev söndürücünün arızalarını bakımını ve kontrollerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

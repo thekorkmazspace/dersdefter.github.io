@@ -1,0 +1,374 @@
+{
+  "sinif": "12",
+  "ders": "OTOMOTİV ELEKTRİK ARIZA TESPT",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                               1.1. Motor yönetim sisteminin yapısını ve elektronik kontrol ünitesine giren bilgiler\n1.2. Elektronik kontrol ünitesine bilgi veren elemanlar\n1.3. Hava debimetresinin görevi  yapısal özellikleri ve kontrolleri",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                                  1.4. Emme havası sıcaklık sensörünün görevi  yapısal özellikleri ve kontrolleri\n1.5. Mutlak basınç sensörünün görevi  yapısal özellikleri ve kontrolleri",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                                   1.6. Gaz pedal konum sensörünün görevi  yapısal özellikleri ve kontrolleri\n1.7. Gaz kelebeği konum sensörünün görevi  yapısal özellikleri ve kontrolleri",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                                   1.8. Oksijen Lamda sensörünün görevi  yapısal özellikleri ve kontrolleri\n1.9. Motor soğutma suyu sıcaklık sensörünün görevi  yapısal özellikleri ve kontrolleri",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                                1.10. Yakıt sıcaklık sensörünün görevi  yapısal özellikleri ve kontrolleri\n1.11. Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerinin görevi  yapısal özellikleri ve kontrolleri",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                                   1.12. Kick-down sensörünün görevi  yapısal özellikleri ve kontrolleri\n1.13. Turbo şarj ve basınç sensörünün görevi  yapısal özellikleri ve kontrolleri",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                                1.14. Darbe sensörünün görevi  yapısal özellikleri ve kontrolleri\n1.15. Motor yağı sıcaklık sensörünün görevi  yapısal özellikleri ve kontrolleri\nATATÜRKÜN CUMHURİYETÇİLİK İLKESİ",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                              1.16. Motor yağ basınç ve seviye sensörünün görevi  yapısal özellikleri ve kontrolleri\n1.17. Krank mili konum sensörünün görevi  yapısal özellikleri ve kontrolleri                1. DÖNEM 1. YAZILI SINAVI",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "1. Sensörler                                                                               1.18. Kam mili konum sensörünün görevi  yapısal özellikleri ve kontrolleri\n1.19. Vuruntu sensörünün görevi  yapısal özellikleri ve kontrolleri\n10 KASIM ATATÜKÜ ANMA",
+      "KAZANIM": "1. Dönem 1. Sınav 1. İş sağlığı ve güvenliği tedbirlerini alarak sensörleri kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "2. Elektronik Kontrol Ünitesi                                                          2.1. Elektronik kontrol ünitesinin ECU bilgi verdiği ve aldığı elemanlar\n24 KASIM  ÖĞRETMENLER GÜNÜ",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak elektronik kontrol ünitesini ECU kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "2. Elektronik Kontrol Ünitesi                                                     2.2. Elektronik kontrol ünitesinin çalışma prensibi ve kısımları",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak elektronik kontrol ünitesini ECU kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "2. Elektronik Kontrol Ünitesi                                                        2.3. ECU kontrolleri ve arızaları\n2.4. Diagnostik arıza teşhis cihazını kullanarak Elektronik Kontrol Ünitesini ECU kontrol etme",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak elektronik kontrol ünitesini ECU kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "3. CAN-BUS Merkezi veri hattı                                                    3.1. Elektronik kontrol üniteleri arasında haberleşme yöntemleri\n3.2. CAN-BUS hattının görevi ve yapısal özellikleri",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak merkezî veri hattını CAN-BUS kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "3. CAN-BUS Merkezi veri hattı                                                 3.3. CAN-BUS hattının arıza ve belirtileri\n3.4. Diagnostik arıza teşhis cihazı ile CAN-BUS Merkezi veri hattını kontrolü                                                                                                                                                                                                      ATATÜRKÜN SANAYİLEŞMEYE VERDİĞİ ÖNEM",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak merkezî veri hattını CAN-BUS kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "4. Elektromanyetik enjektörler                                                     4.1. Elektromanyetik enjektörlerin görevleri ve çeşitleri\n4.2. Enjektörlerin yapısal özellikleri ve çalışması",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak enjektörleri kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "4. Elektromanyetik enjektörler                                                     4.3. Enjektörlerin kontrolleri\n4.4. Diagnostik arıza teşhis cihazıyla enjektörde arıza teşhisi\nATATÜRKÜN DEVLETÇİLİK İLKESİ",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak enjektörleri kontrol edip değiştirir."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "5. Ateşleme bobinleri                                                                  5.1. Ateşleme bobinlerinin görevleri ve yapısal özellikleri\n5.2. Ateşleme bobinlerinin çeşitleri ve çalışması                                 1. DÖNEM 2. YAZILI SINAVI",
+      "KAZANIM": "1. Dönem 2. Sınav 5. İş sağlığı ve güvenliği tedbirlerini alarak ateşleme bobinlerini kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "5. Ateşleme bobinleri                                                                 5.3. Ateşleme bobinlerinin kontrolleri\n5.4. Diagnostik arıza teşhis cihazını kullanarak bobinlerde arıza teşhisi",
+      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak ateşleme bobinlerini kontrol edip değiştirir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "6. Elektronik gaz kelebeği                                                             6.1. Elektronik kontrollü gaz kelebeğinin görevleri ve yapısal özellikleri",
+      "KAZANIM": "6. İş sağlığı ve güvenliği tedbirlerini alarak elektronik gaz kelebeğini kontrol edip bakımını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "6. Elektronik gaz kelebeği                                                          6.2. Elektronik kontrollü gaz kelebeğinin çalışması ve kontrolleri\n6.3. Diagnostik arıza teşhis cihazını kullanarak elektronik kontrollü gaz kelebeğinde arıza teşhisi",
+      "KAZANIM": "6. İş sağlığı ve güvenliği tedbirlerini alarak elektronik gaz kelebeğini kontrol edip bakımını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "7. Karbon kanister valfi                                                                7.1. Karbon kanister elektrovanasının görevleri ve yapısal özellikleri                                                                                                                                              ATATÜRKÜN MİLLİYETÇİLİK İLKESİ",
+      "KAZANIM": "7. İş sağlığı ve güvenliği tedbirlerini alarak karbon kanister valfini kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "7. Karbon kanister valfi                                                              7.2. Karbon kanister elektrovanasının çalışmasını ve kontrolleri\n7.3. Diagnostik arıza teşhis cihazını kullanarak karbon kanister elektrovanasının arıza teşhisi",
+      "KAZANIM": "7. İş sağlığı ve güvenliği tedbirlerini alarak karbon kanister valfini kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "8. Rölanti motoru                                                                         8.1. Rölanti motorunun aktüvatörü görevleri ve yapısal özellikleri\n12 MART İSTİKLAL MARŞININ KABULÜ VE M.AKİF ERSOYU ANMA",
+      "KAZANIM": "8. İş sağlığı ve güvenliği tedbirlerini alarak rölanti motorunu aktüvatörü kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 1 MOTOR YÖNETİM SİSTEMLERİ",
+      "KONU": "8. Rölanti motoru                                                                          8.2. Rölanti motorunun çalışması ve kontrolleri\n8.3. Diagnostik arıza teşhis cihazını kullanarak rölanti motorunun arıza teşhisi\n18 MART ÇANAKKALE ZAFERİ VE ÖNEMİ",
+      "KAZANIM": "8. İş sağlığı ve güvenliği tedbirlerini alarak rölanti motorunu aktüvatörü kontrol edip değiştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "1. Diagnostik                                                                               1.1. Elektronik kontrol ünitelerinin yapısı ve bilginin işlenmesi",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kontrol ve testleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "1. Diagnostik                                                                              1.2. Elektronik kontrol üniteleri arasında haberleşme yöntemleri\n1.3. CAN-BUS hattının yapısal özellikleri\nATATÜRKÜN LAİKLİK İLKESİ                                            2. DÖNEM 1. YAZILI SINAVI",
+      "KAZANIM": "2. Dönem 1. Sınav 1. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kontrol ve testleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "1. Diagnostik                                                                             1.4. Diagnostik cihazların çalışma prensibi ve tekniği\n1.5. Hata anında durum tespitini ve parametrelerin yorumlanması",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kontrol ve testleri yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "2. Diagnostik cihazı ile arıza teşhisi                                                2.1. Hata kodu okuma hata giderme-hata silme mantığı\n2.2. Hata çeşitleri\n 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "2. Diagnostik cihazı ile arıza teşhisi                                              2.3. Elektronik olarak kontrol edilen elemanların diagnostik cihazıyla bağımsız olarak çalıştırılması\n2.4. Bölgesel çalıştırma yöntemiyle arıza tespiti\n2.5. Hareketli sensör testi",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "2. Diagnostik cihazı ile arıza teşhisi                                              2.3. Elektronik olarak kontrol edilen elemanların diagnostik cihazıyla bağımsız olarak çalıştırılması\n2.4. Bölgesel çalıştırma yöntemiyle arıza tespiti\n2.5. Hareketli sensör testi\n1 MAYIS EMEK VE DAYANIŞMA GÜNÜ",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile arıza tespiti ve onarımını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "3. Diagnostik cihazı ile kodlama                                                    3.1. Değiştirilen parçaların araca tanıtılması\n3.2. Elektronik kontrol ünitesinin yeniden programlanması\n3.3. Güncellenmiş programların yüklenmesi",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kodlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "3. Diagnostik cihazı ile kodlama                                                3.1. Değiştirilen parçaların araca tanıtılması\n3.2. Elektronik kontrol ünitesinin yeniden programlanması\n3.3. Güncellenmiş programların yüklenmesi                                                                                                                                                                              19 Mayıs  ATATÜRK ü Anma Gençlik ve Spor Bayramı",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kodlama yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "4. Egzoz emisyon sistemleri                                                        4.1. Emisyonları tanımlar ve çeşitleri\n4.2. Benzinli ve dizel motorlarda egzoz emisyonlarını ve çevreye etkileri\nATATÜRKÜN İNKILAPÇILIK İLKESİ",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon sistemlerinin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "4. Egzoz emisyon sistemleri                                                        4.3. Motorlu araçlardaki egzoz emisyonuna etki eden faktörler\n4.4. Benzinli ve dizel motorlu araçlardaki emisyonları düşürmek için kullanılan donanımlar",
+      "KAZANIM": "2. Dönem 2. Sınav 4. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon sistemlerinin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "5. Egzoz emisyon ölçümü                                                             5.1. Benzinli ve dizel motorlarda kullanılan egzoz emisyon kontrol cihazlarının özelliklerini ve bakımları\n5.2. Egzoz emisyon kontrol cihazları ile ölçüm yaparken dikkat edilecek hususlar",
+      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon ölçümü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "MODÜL 2 ARIZA TESPİTİ",
+      "KONU": "5. Egzoz emisyon ölçümü                                                        \n5.3. Emisyon değerlerini yorumlama\n5.4. Emisyonlarla ilgili ulusal ve uluslar arası yasal zorunluluklar",
+      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon ölçümü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

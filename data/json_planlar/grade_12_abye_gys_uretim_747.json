@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "ABYE GYS ÜRETİM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "1. ABİYE ELBİSE KALIBI \n1.1. ABİYE ELBİSE MODEL TASARIMI\n1.1.1. Tasarımla İlgili Temel Kavramlar",
+      "KAZANIM": "Abiye elbise modeli tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "1.1.2. Abiye Elbise Tasarım Süreci",
+      "KAZANIM": "Abiye elbise modeli tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "1.1.3. Özgün Abiye Elbise Tasarımı",
+      "KAZANIM": "Abiye elbise modeli tasarlar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "1.1.3. Özgün Abiye Elbise Tasarımı",
+      "KAZANIM": "Abiye elbise modeli tasarlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "1.2. GİYSİ İÇİN GEREKLİ ÖLÇÜLERİ BEDEN ÜZERİNDEN ALMA STANDART ÖLÇÜ TABLOSUNU KULLANMA \n1.2.1. Giysi İçin Gerekli Ölçüleri Belirleme",
+      "KAZANIM": "Giysi için gerekli ölçüleri beden üzerinden alırstandart ölçü tablosundan kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "1.2.2. Standart Ölçü Tablosundan Gerekli Ölçülerin Alınması İşlemleri",
+      "KAZANIM": "Giysi için gerekli ölçüleri beden üzerinden alırstandart ölçü tablosundan kullanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "1.3. BİÇKİ YA DA DRAPAJ YÖNTEMİYLE ABİYE ELBİSE KALIBI HAZIRLAMA \n1.3.1. Model Analizi",
+      "KAZANIM": "Biçki ya da drapaj yöntemi ile abiye elbise kalıbı hazırlar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "1.3.2. Abiye Elbise Kalıbını Biçki Sistemiyle Hazırlama  \n \n1.Dönem 1.Sınav",
+      "KAZANIM": "Biçki ya da drapaj yöntemi ile abiye elbise kalıbı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "1.3.2. Abiye Elbise Kalıbını Biçki Sistemiyle Hazırlama",
+      "KAZANIM": "1. Dönem 1. Sınav Biçki ya da drapaj yöntemi ile abiye elbise kalıbı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "1.3.3. Abiye Elbise Kalıp Provası Yapma",
+      "KAZANIM": "Biçki ya da drapaj yöntemi ile abiye elbise kalıbı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "1.3.4. Abiye Elbise Kalıbı Düzeltme İşlemlerini Yapma",
+      "KAZANIM": "Biçki ya da drapaj yöntemi ile abiye elbise kalıbı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "1.3.5. Abiye Elbise Kalıbı Kesime Hazırlık İşlemleri",
+      "KAZANIM": "Biçki ya da drapaj yöntemi ile abiye elbise kalıbı hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "1.4. ABİYE ELBİSE ANA VE YARDIMCI MALZEME HESABI \n1.4.1. Abiye Elbise Ana ve Yardımcı Malzemeleri",
+      "KAZANIM": "Abiye elbise için ana ve yardımcı malzeme hesabı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "1.4.1. Abiye Elbise Ana ve Yardımcı Malzemeleri",
+      "KAZANIM": "Abiye elbise için ana ve yardımcı malzeme hesabı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "1.4.2. Abiye Elbise Ana ve Yardımcı Malzeme Hesabı",
+      "KAZANIM": "Abiye elbise için ana ve yardımcı malzeme hesabı yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "1.4.2. Abiye Elbise Ana ve Yardımcı Malzeme Hesabı  \n1.Dönem 2.Sınav",
+      "KAZANIM": "Abiye elbise için ana ve yardımcı malzeme hesabı yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "2. ABİYE ELBİSE DİKİMİ \n2.1. ABİYE ELBİSE KESİMİ \n2.1.1. Kumaşı ve Yardımcı Malzemeleri Kesime Hazırlama İşlemleri",
+      "KAZANIM": "1. Dönem 2. Sınav Abiye elbise kesimi yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "2.1.1. Kumaşı ve Yardımcı Malzemeleri Kesime Hazırlama İşlemleri",
+      "KAZANIM": "Abiye elbise kesimi yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "2.1.2. Abiye Elbise Kumaşı ve Yardımcı Malzemelerin Kesimi",
+      "KAZANIM": "Abiye elbise kesimi yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "2.1.2. Abiye Elbise Kumaşı ve Yardımcı Malzemelerin Kesimi",
+      "KAZANIM": "Abiye elbise kesimi yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "2.2. ABİYE ELBİSE PROVASI \n2.2.1. Kişiyi ve Prova Ortamını Hazırlama",
+      "KAZANIM": "Abiye elbise provasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "2.2.2. Abiye Elbise Provası",
+      "KAZANIM": "Abiye elbise provasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "2.2.2. Abiye Elbise Provası",
+      "KAZANIM": "Abiye elbise provasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "2.2.3.Kumaş Cinsine Uygun Karşılaştırma Teknikleri",
+      "KAZANIM": "Abiye elbise provasını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "2.3. ABİYE ELBİSE DİKİMİ VE SÜSLEMESİ \n2.3.1. Abiye Elbiseyi 2. Provaya Hazırlama İşlemleri  \n\n2.Dönem 1.Sınav",
+      "KAZANIM": "Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "2.3.2. Abiye Elbise Dikim Öncesi Süsleme İşlemleri",
+      "KAZANIM": "2. Dönem 1. Sınav Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "2.3.2. Abiye Elbise Dikim Öncesi Süsleme İşlemleri",
+      "KAZANIM": "Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "2.3.3. Abiye Elbise 2. Provası",
+      "KAZANIM": "Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "2.3.4. Abiye Elbise Dikimi",
+      "KAZANIM": "Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "2.3.4. Abiye Elbise Dikimi",
+      "KAZANIM": "Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "2.3.4. Abiye Elbise Dikimi",
+      "KAZANIM": "Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "2.3.5. Abiye Elbise Dikim Sonrası Süsleme İşlemleri",
+      "KAZANIM": "Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "2.3.5. Abiye Elbise Dikim Sonrası Süsleme İşlemleri",
+      "KAZANIM": "Abiye elbise dikimini ve süslemesini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "2.4. ABİYE ELBİSE SON ÜTÜ VE SON KONTROLÜ \n2.4.1. Abiye Elbise Son Ütüsü",
+      "KAZANIM": "2. Dönem 2. Sınav Abiye elbise son ütü ve son kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "2.4.1. Abiye Elbise Son Ütüsü  \n2.Dönem 2.Sınav",
+      "KAZANIM": "Abiye elbise son ütü ve son kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "2.4.2. Abiye Elbise Son Kontrolü",
+      "KAZANIM": "Abiye elbise son ütü ve son kontrol işlemlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

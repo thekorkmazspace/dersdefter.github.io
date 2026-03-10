@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "BLGSAYAR DESTEKL TESİSAT MESLEKİ RESMİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.1. ÇİZİM TEMEL BİLGİLERİ VE PAKET PROGRAM\n1.1.1. AutoCAD Program Menüleri \n1.1.2. Koordinat Sisteminde Çizim Esasları",
+      "KAZANIM": "1. Çizim temel bilgilerini açıklayıp paket programı çalıştırır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.1. ÇİZİM TEMEL BİLGİLERİ VE PAKET PROGRAM\n1.1.1. AutoCAD Program Menüleri \n1.1.2. Koordinat Sisteminde Çizim Esasları",
+      "KAZANIM": "2. İki boyutlu çizim komutları  koordinatları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.1. ÇİZİM TEMEL BİLGİLERİ VE PAKET PROGRAM\n1.1.1. AutoCAD Program Menüleri \n1.1.2. Koordinat Sisteminde Çizim Esasları",
+      "KAZANIM": "3. İlgili komutlarla bilgisayarda çizim alanını oluşturur."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.1.3. Çizim Ayarlarının Yapımı\n1.1.3.1. Application Uygulama Menüsü",
+      "KAZANIM": "4. Menüleri kullanarak çizim ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.1.3.2. Units Çalışma Biriminin Düzenlenmesi Menüsü\n1.1.3.3. Options AutoCAD Genel Ayarlar Menüsü",
+      "KAZANIM": "5. Menüleri kullanarak çizim ayarlarını yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.1.3.4. AutoCAD Arayüz Menüleri",
+      "KAZANIM": "6. CAD programı ara yüzlerinin  amacına uygun olarak düzenlemesini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.1.4. Araç Çubuklarının Düzenlenmesi \n1.1.4.1. Arayüz Tanıtımı \n1.1.4.2. Durum Çubuğu",
+      "KAZANIM": "7. CAD programı araç çubuklarının amacına uygun olarak düzenlemesini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.2. İKİ BOYUTLU ÇİZİM KOMUTLARI  KOORDİNATLARI\n1.2.1. CAD Menüleri ve Alt Menüler",
+      "KAZANIM": "8. İki boyutlu çizim komutları  koordinatları kullanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.3. BİLGİSAYARDA ÇİZİM ALANININ OLUŞTURULMASI\n1.DÖNEM 1. YAZILI YOKLAMA",
+      "KAZANIM": "1. Dönem 1. Sınav 9. İlgili komutlarla bilgisayarda çizim alanını oluşturur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.4. İKİ BOYUTLU ÇİZİM KOMUTLARI İLE GEOMETRİK ŞEKİL ÇİZİMİ",
+      "KAZANIM": "10. İki boyutlu çizim komutlarını kullanarak geometrik şekil çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.5. ÇİZİMLERİN ÖLÇÜLENDİRİLMESİ\n1.5.1. Annotation Menüsü",
+      "KAZANIM": "11. Ölçülendirme komutlarını kullanarak çizimleri ölçülendirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "1. İki Boyutlu Çizim Ayarları ve Komutları",
+      "KONU": "1.6. ÇİZİMLERE YAZI EKLENMESİ",
+      "KAZANIM": "12. Yazı yazma komutlarını kullanarak çizimlere yazı ekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "2. Bilgisayarla Çizim Uygulamaları",
+      "KONU": "2.1. ÇİZİM ŞABLON ÇERÇEVESİ ÇİZİMİ\n2.1.1. Şablon Çerçevesi Oluşturma\n2.1.1.1. Blok Hazırlama ve Yönetme",
+      "KAZANIM": "1. CAD programında çizim şablon çerçevesi çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "2. Bilgisayarla Çizim Uygulamaları",
+      "KONU": "2.1.2. Çerçeve Çizgilerini Kalınlaştırma\n2.1.2.1. Properties Düzenleme Komutu",
+      "KAZANIM": "Çerçeve çizgileri kalınlaştırma komutları uygulatılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "2. Bilgisayarla Çizim Uygulamaları",
+      "KONU": "2.1.3. Çizimleri Kaydetmek\n2.1.4. Çizimleri Yazdırmak",
+      "KAZANIM": "Çizimlerin kayıt edilmesi komutlarını uygular.\n Yazdırma komutlarını uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "2. Bilgisayarla Çizim Uygulamaları",
+      "KONU": "2.2. ANTET ÇİZİMİ\n2.3. İİKİ BOYUTLU ÇİZİM KOMUTLARI İLE GÖRÜNÜŞ ÇİZİMİ",
+      "KAZANIM": "2. CAD programında antet çizimi yapar.\n\n3. CAD programında İki boyutlu çizim komutları ile görünüş çizer."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "2. Bilgisayarla Çizim Uygulamaları",
+      "KONU": "2.4. İKİ BOYUTLU ÇİZİM KOMUTLARI İLE FLANŞ ÇİZME\n1.DÖNEM 2. YAZILI YOKLAMA",
+      "KAZANIM": "1. Dönem 2. Sınav 4. CAD programında İki boyutlu çizim komutları ile flanş çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "2. Bilgisayarla Çizim Uygulamaları",
+      "KONU": "2.5. KESİT ALMA",
+      "KAZANIM": "5. CAD programında kesit çizimini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.1. GAZ PROJELERİNDE KULLANILAN SEMBOLLER",
+      "KAZANIM": "1. Gaz projelerinde kullanılan sembolleri çizer."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.2. GAZIN BİNAYA ALINMASI DETAY RESİMLERİ",
+      "KAZANIM": "2. Gazın binaya alınması detay resimlerini çizer."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.2. GAZIN BİNAYA ALINMASI DETAY RESİMLERİ",
+      "KAZANIM": "2. Gazın binaya alınması detay resimlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.3. REGÜLATÖR VE SAYAÇLARIN MONTAJ RESİMLERİ",
+      "KAZANIM": "3. Regülatör ve sayaç montaj resimleri çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.4. KAZAN DAİRESİ GAZ TESİSATI ÇİZİMİ",
+      "KAZANIM": "4.  Kazan dairesi gaz tesisatı resimlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.4. KAZAN DAİRESİ GAZ TESİSATI ÇİZİMİ",
+      "KAZANIM": "4.  Kazan dairesi gaz tesisatı resimlerini çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.5. GAZ TÜKETİM CİHAZLARININ ÖLÇEKLİ MONTAJ ÇİZİMLERİ",
+      "KAZANIM": "5. Gaz tüketim cihazlarının ölçekli montaj çizimlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.5. GAZ TÜKETİM CİHAZLARININ ÖLÇEKLİ MONTAJ ÇİZİMLERİ",
+      "KAZANIM": "2. Dönem 1. Sınav 5. Gaz tüketim cihazlarının ölçekli montaj çizimlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "3. Doğalgaz Tesisatı Montaj ve Detay Resimleri",
+      "KONU": "3.6. HAVALANDIRMA BACA VE ATIK GAZ KANALLARI \nDETAY ÇİZİMLERİ\n2.DÖNEM 1. YAZILI YOKLAMA",
+      "KAZANIM": "6. Havalandırma baca ve atık gaz kanalları detay çizimlerini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.1. BİNA VAZİYET PLANI\n4.1.1. Doğal gaz Tesisatı Projesi Çizimi",
+      "KAZANIM": "1. CAD programında ölçeğine uygun olarak bina vaziyet planı çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.1. BİNA VAZİYET PLANI",
+      "KAZANIM": "1. CAD programında ölçeğine uygun olarak bina vaziyet planı çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.1.1. Doğal gaz Tesisatı Projesi Çizimi",
+      "KAZANIM": "1. CAD programında ölçeğine uygun olarak bina vaziyet planı çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.1. BİNA VAZİYET PLANI\n4.1.1. Doğal gaz Tesisatı Projesi Çizimi",
+      "KAZANIM": "1. CAD programında ölçeğine uygun olarak bina vaziyet planı çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.1. BİNA VAZİYET PLANI\n4.1.1. Doğal gaz Tesisatı Projesi Çizimi",
+      "KAZANIM": "1. CAD programında ölçeğine uygun olarak bina vaziyet planı çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.2. PLAN ÜZERİNE TÜKETİM CİHAZLARININ \nYERLEŞTİRİLMESİ",
+      "KAZANIM": "2. Ölçekli çizilmiş plan üzerine gaz yakıcı cihazlarını yerleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.3. REGÜLATÖR VE SAYAÇLARIN MONTAJ RESİMLERİ",
+      "KAZANIM": "2. Dönem 2. Sınav 3. Regülatör sayaç ana kesme vanasının yerlerini belirleyerek çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.4. GAZ BORULARININ PLAN ÜZERİNE ÇİZİLMESİ\n2.DÖNEM 2. YAZILI YOKLAMA",
+      "KAZANIM": "4. CAD programında gaz boru hattını plan üzerine çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "4. Doğalgaz Tesisat Projesi Çizimi",
+      "KONU": "4.4. GAZ BORULARININ PLAN ÜZERİNE ÇİZİLMESİ",
+      "KAZANIM": "4. CAD programında gaz boru hattını plan üzerine çizer.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "sinif": "10",
+  "ders": "ḊJ̇TAL UYGULAMALAR ATÖLYESİ̇(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "1.   Dijital devreler için sayı sistem dönüşümlerini yapma",
+      "KAZANIM": "Dijital devreler için sayı sistemi dönüşümlerini yapar.",
+      "KAZANIM AÇIKLAMASI": "Sayı sistemleri arasındaki dönüşümler kavratılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "1.   Dijital devreler için sayı sistem dönüşümlerini yapma",
+      "KAZANIM": "Dijital devreler için sayı sistemi dönüşümlerini yapar.",
+      "KAZANIM AÇIKLAMASI": "Sayı sistemleri arasında dört işlem yaptırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "1.   Dijital devreler için sayı sistem dönüşümlerini yapma",
+      "KAZANIM": "Dijital devreler için sayı sistemi dönüşümlerini yapar.",
+      "KAZANIM AÇIKLAMASI": "Sayı sistemleri arasında dört işlem yaptırılır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "2.   Lojik kapı devrelerini çalıştırma",
+      "KAZANIM": "Lojik kapı devrelerini çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Lojik kapıların çeşitleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "2.   Lojik kapı devrelerini çalıştırma",
+      "KAZANIM": "Lojik kapı devrelerini çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Lojik kapı devrelerinin çalıştırtılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "2.   Lojik kapı devrelerini çalıştırma",
+      "KAZANIM": "Lojik kapı devrelerini çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Hava   araçlarındaki   şematik   diyagramlar   takip ettirilerek    arıza    ve    hataların    tespit    edilmesi sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "3.   Analog bilgiyi dijital bilgiye çevirme",
+      "KAZANIM": "Analog bilgiyi dijital bilgiye çevirir.",
+      "KAZANIM AÇIKLAMASI": "Analog-dijital büyüklüklerin ölçümünü açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "3.   Analog bilgiyi dijital bilgiye çevirme",
+      "KAZANIM": "Analog bilgiyi dijital bilgiye çevirir.",
+      "KAZANIM AÇIKLAMASI": "Analogdan   dijitale   çevirici   devrelerin   kurulması sağlanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "3.   Analog bilgiyi dijital bilgiye çevirme",
+      "KAZANIM": "1. Dönem 1. Sınav Analog bilgiyi dijital bilgiye çevirir.",
+      "KAZANIM AÇIKLAMASI": "Analogdan dijitale çevirici devreler üzerinde ölçüm yaptırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "4.   Dijital bilgiyi analog bilgiye çevirme",
+      "KAZANIM": "Dijital bilgiyi analog bilgiye çevirir.",
+      "KAZANIM AÇIKLAMASI": "DA çeviriciler üzerinde yapılan ölçümler açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "4.   Dijital bilgiyi analog bilgiye çevirme",
+      "KAZANIM": "Dijital bilgiyi analog bilgiye çevirir.",
+      "KAZANIM AÇIKLAMASI": "DA çevirici devreler çalıştırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Sayı Sistemleri ve Data Çeviriciler",
+      "KONU": "4.   Dijital bilgiyi analog bilgiye çevirme",
+      "KAZANIM": "Dijital bilgiyi analog bilgiye çevirir.",
+      "KAZANIM AÇIKLAMASI": "DA çevirici devreler üzerinde ölçüm yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "1.   Aviyonik   genel   test ekipmanlarını çalıştırma.",
+      "KAZANIM": "Aviyonik genel test ekipmanlarını çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "ARINC   429  haberleşme  formatı  hakkında  bilgi verilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "1.   Aviyonik   genel   test ekipmanlarını çalıştırma.",
+      "KAZANIM": "Aviyonik genel test ekipmanlarını çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Aviyonik genel test ekipmanları sınıflandırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "1.   Aviyonik   genel   test ekipmanlarını çalıştırma.",
+      "KAZANIM": "Aviyonik genel test ekipmanlarını çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Aviyonik test ekipmanlarının bağlantısını yaptırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "2.   Çeşitli                tipteki ekranları çalıştırma.",
+      "KAZANIM": "Çeşitli tipteki ekranları çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Elektronik ekran tipleri sınıflandırılır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "2.   Çeşitli                tipteki ekranları çalıştırma.",
+      "KAZANIM": "1. Dönem 2. Sınav Çeşitli tipteki ekranları çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Bakım  dokümanlarında  AMM  belirtildiği  şekilde CRT-LCD      ekranların      sisteme      bağlanması sağlanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "2.   Çeşitli                tipteki ekranları çalıştırma.",
+      "KAZANIM": "Çeşitli tipteki ekranları çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Elektronik ekran tipleri çalıştırılır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "3.   Elektronik             alet sistemlerinin tipikkokpit yerleşimlerini inceleme.",
+      "KAZANIM": "Elektronik alet sistemlerinin tipik kokpit yerleşimlerini inceler.",
+      "KAZANIM AÇIKLAMASI": "Elektronik alet sistemlerinin tipik kokpit yerleşimini açıklatılır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "3.   Elektronik             alet sistemlerinin tipikkokpit yerleşimlerini inceleme.",
+      "KAZANIM": "Elektronik alet sistemlerinin tipik kokpit yerleşimlerini inceler.",
+      "KAZANIM AÇIKLAMASI": "EICAS göstergelerinin görevlerini açıklatılır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "3.   Elektronik             alet sistemlerinin tipikkokpit yerleşimlerini inceleme.",
+      "KAZANIM": "Elektronik alet sistemlerinin tipik kokpit yerleşimlerini inceler.",
+      "KAZANIM AÇIKLAMASI": "Panellerdeki kontrolleri çalıştırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "4.   Kokpitteki    elektronik alet           sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Kokpitteki  elektronik alet  sistemlerini  çalıştırarak  test eder.",
+      "KAZANIM AÇIKLAMASI": "Otopilot sisteminin kontrolleri yaptırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "4.   Kokpitteki    elektronik alet           sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Kokpitteki  elektronik alet  sistemlerini  çalıştırarak  test eder.",
+      "KAZANIM AÇIKLAMASI": "MCDUnun çalışma testi yaptırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Displayler ve Kokpit Aletleri",
+      "KONU": "4.   Kokpitteki    elektronik alet           sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Kokpitteki  elektronik alet  sistemlerini  çalıştırarak  test eder.",
+      "KAZANIM AÇIKLAMASI": "ECAMın operasyonel testleri yaptırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Elektrostatik Deşarj ve Elektromanyetik\nÇevre",
+      "KONU": "1.   Elektrostatik      deşarjlara karşı   koruma   ünitelerini kullanma.",
+      "KAZANIM": "Elektrostatik    deşarjlara    karşı    koruma    ünitelerini kullanır.",
+      "KAZANIM AÇIKLAMASI": "Antistatik koruma ekipmanları sıralanır.\n       Antistatik koruma ekipmanları kullanılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Elektrostatik Deşarj ve Elektromanyetik\nÇevre",
+      "KONU": "2.   Elektromanyetik   girişime karşı önlem alma.",
+      "KAZANIM": "2. Dönem 1. Sınav Elektromanyetik girişime karşı önlem alır.",
+      "KAZANIM AÇIKLAMASI": "Uçak üzerindeki HIRF bölgeleri tanımlanır.\n       Koaksiyel kablo bağlantısı açıklanır.\n       Statik deşarj püsküllerinin görevleri açıklanır.\n       Statik  deşarj  püskülü  süreklilik  ve  izolasyon  testi yaptırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "1.   1.Dalga  hareketini  analiz etme.",
+      "KAZANIM": "Dalga hareketini analiz eder.",
+      "KAZANIM AÇIKLAMASI": "İnterferans olayını örneklenir.\n       Duran dalga oranı ölçülür.\n       Ses şiddeti hesaplamaları yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "2.   2.Uçak      sistemlerindeki veri    yollarının    bakımını yapma.",
+      "KAZANIM": "Uçak sistemlerindeki veriyollarının bakımını yapar.",
+      "KAZANIM AÇIKLAMASI": "Bakım     dokümanları     AMM     göz     önünde bulundurulur.\n       Uçak   sistemlerindeki   veriyolu   standartlarının sınıflandırılması yapılır.\n       Hava aracı ağı testi açıklanır.\n       Veriyolu kablolarının süreklilik kontrolü yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "3.   Tipik     elektronik     hava aracı               sistemlerini çalıştırarak test etme.",
+      "KAZANIM": "Tipik  elektronik  hava  aracı  sistemlerini  çalıştırarak test eder.",
+      "KAZANIM AÇIKLAMASI": "Tipik     elektronik     hava     aracı     sistemlerinin çalışması açıklanır.\n       Tipik  elektronik  hava  aracı  sistemlerinin  testleri yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "4.   4.Entegre             modüler aviyonikleri çalıştırma.",
+      "KAZANIM": "Entegre modüler aviyonikleri çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Entegre     modüler     aviyoniklerin     çalışması açıklanır.\n       Entegre modüler aviyonikleri test edilir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "5.   Kabin sistemlerinin bakım onarımını yapma.",
+      "KAZANIM": "Kabin sistemlerinin bakım onarımını yapar.",
+      "KAZANIM AÇIKLAMASI": "Kabin sistemlerinin çalışması açıklanır.\n       Kabin sistemleri çalıştırılır.\n       Kabin sistemlerinin testleri yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Dijital Uçak Sistemleri",
+      "KONU": "6.   Enformasyon sistemlerinin            bakım onarımını yapma.",
+      "KAZANIM": "Enformasyon sistemlerinin bakım onarımını yapar.",
+      "KAZANIM AÇIKLAMASI": "Enformasyon sistemleri açıklanır.\n       Enformasyon sistemlerinin testleri yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Fiber Optik",
+      "KONU": "1.   Optik sistemleri inceleyerek çalıştırma.",
+      "KAZANIM": "Formül     ve     kavramları     doğru     kullanarak     optik sistemleri inceleyip çalıştırır.",
+      "KAZANIM AÇIKLAMASI": "Işık kaynaklarını çalıştırılır.\n       Kırılma    ve    yansıma    kanunlarını    kullanarak hesaplamalar yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Fiber Optik",
+      "KONU": "2.   Fiber optik bağlantıları yapma.",
+      "KAZANIM": "2. Dönem 2. Sınav Fiber optik bağlantıları yapar.",
+      "KAZANIM AÇIKLAMASI": "Fiber optik sistem ile ilgili hesaplamalar yapılır.\n       Fiber optik kablo testleri yapılır.\n       Fiber optik konnektörlerin bağlantısı yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Fiber Optik",
+      "KONU": "3.   Fiber optik sistemleri hava aracı üzerinde kullanma.",
+      "KAZANIM": "Fiber optik sistemleri hava aracı üzerinde kullanır.",
+      "KAZANIM AÇIKLAMASI": "Fly-by-light uçuş kontrol sistemleri açıklanır.\n       Fiber         optiklerin         uçak         sistemlerindeki uygulamalarını   bakım   dokümanlarında   Aircraft Maintenance Manuel AMM belirtildiği gibi yapılır.\n       Optik olan ve olmayan sensörler çalıştırılır.\n       Optik olan ve olmayan sensör ölçümleri yapılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Kabin Bakım",
+      "KONU": "1.   Temel bilgisayar yapılarını çalıştırarak test etme.",
+      "KAZANIM": "Temel bilgisayar yapılarını çalıştırıp test eder.",
+      "KAZANIM AÇIKLAMASI": "Bilgisayarların donanımları ile ilgili her türlü işlemi yaparken      bilgisayarın      enerjisini      tamamen kestiğinizden emin olunuz.\n       Bilgisayar   RAM   belleklerine   çıplak   elle   temas etmemeye   özen   gösteriniz   veya   ESD   bileklik takınız.\n       Bilgisayar iç donanımlarının bağlantısını yapılır ve çalışma testleri uygulanır.\n       Hafıza üniteleri çalıştırılır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "BTKSEL YAĞ İŞLEME",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ BİTKİSEL YAĞ ÜRETİMİ\n1. Yağlı Tohumlara Uygulanan Ön İşlemler\n1.1. Yağ kaynaklarının sınıflandırılması\n1.2. Yağların fiziksel ve kimyasal özellikleri",
+      "KAZANIM": "Yağlı tohumlara işleme tekniğine uygun ön işlemler uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "5",
+      "KONU": "1.3. Yağlı tohumların bozulmaya yol açan etmenler\n1.4. Yağlı tohumların depolama yöntemleri",
+      "KAZANIM": "Yağlı tohumlara işleme tekniğine uygun ön işlemler uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "5",
+      "KONU": "1.5. Yağlı tohumların temizlenmesi ve uygulanan ön işlemler\n1.6. Yağ eldesinde kullanılacak yağlık tohumların seçilmesi",
+      "KAZANIM": "Yağlı tohumlara işleme tekniğine uygun ön işlemler uygular."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "5",
+      "KONU": "1.6. Kabuk kırma ve tohumdan ayrılma işlemlerinin yapılması",
+      "KAZANIM": "Yağlı tohumlara işleme tekniğine uygun ön işlemler uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "5",
+      "KONU": "1.7. Tohum izini ezme ve tohumları kavurma işleminin yapılması",
+      "KAZANIM": "Yağlı tohumlara işleme tekniğine uygun ön işlemler uygular.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "5",
+      "KONU": "2. Ham Yağın Elde Edilmesi\n2.1. Pres yöntemi ile yağ eldesinde kullanılan preslerin sıralanması ve özellikleri\n2.2. Çözücü eksraksiyonu solvent ile yağ eldesinde kullanılan çözücüler",
+      "KAZANIM": "Yağlı tohumlardan farklı yöntemlerle yağ elde eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "5",
+      "KONU": "2.3. Prepesyon-ekstraksiyon yöntemi düşük basınçta sıkma \n2.4. Kuru yöntem ve yaş yöntemle mısır özü yağı üretimi",
+      "KAZANIM": "Yağlı tohumlardan farklı yöntemlerle yağ elde eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "5",
+      "KONU": "2.5. Ham yağın depolama ve saklama koşulları\n2.6. Ham yağ depolarının özelliklerinin açıklanması   \n\n1.Dönem 1.Sınav",
+      "KAZANIM": "Yağlı tohumlardan farklı yöntemlerle yağ elde eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "5",
+      "KONU": "2.7. Presleme yöntemiyle yağ elde etmek için gerekli ayarlamaları yapma\n2.8. Presleme yöntemiyle yağ elde etme",
+      "KAZANIM": "1. Dönem 1. Sınav Yağlı tohumlardan farklı yöntemlerle yağ elde eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "5",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "5",
+      "KONU": "2.9. Çözücü ekstarksiyon yöntemiyle yağ elde edilecekse gerekli çözücü seçilmesi",
+      "KAZANIM": "Yağlı tohumlardan farklı yöntemlerle yağ elde eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "5",
+      "KONU": "2.10. Prepesyon-ekstraksiyon yöntemiyle yağ elde edilmesi\n2.11. Mısır özü yağı üretilmesi",
+      "KAZANIM": "Yağlı tohumlardan farklı yöntemlerle yağ elde eder.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "5",
+      "KONU": "3. Ham Yağda Rafinasyon işlemi\n3.1. Rafinasyonun tanımı önemi ve aşamalarının açıklanması \n3.2. Müsilaj zamksı maddeler giderme işleminin açıklanması",
+      "KAZANIM": "Ham yağda tekniğine uygun rafinasyon işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "5",
+      "KONU": "3.3. Asitlik gidermenin önemi esası ve asitlik giderme yöntemleri\n3.4. Ağartma gidermenin önemi esası ve ağartma giderme yöntemleri",
+      "KAZANIM": "Ham yağda tekniğine uygun rafinasyon işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "5",
+      "KONU": "3.5. Koku giderme Deoderizasyon işleminin önemi ve yöntemleri\n3.6. Vinterizasyonun tanımı önemi ve aşamaları",
+      "KAZANIM": "Ham yağda tekniğine uygun rafinasyon işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "5",
+      "KONU": "3.7. Müsilaj işleminde gerekli kontolleri yaparak giderme işleminin yapılması \n3.8. Asitlik gidermede kullanılacak alkalinin boume derecesini saptayarak asitlik giderme işleminin yapılması",
+      "KAZANIM": "Ham yağda tekniğine uygun rafinasyon işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "5",
+      "KONU": "3.9. Yağın ağartılması işleminin yapılması\n3.10. Deoderizasyon işleminin yapılması   \n1.Dönem 2.Sınav",
+      "KAZANIM": "Ham yağda tekniğine uygun rafinasyon işlemini yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "5",
+      "KONU": "3.11. Yağı soğutarak filtreleme işleminin yapılması",
+      "KAZANIM": "1. Dönem 2. Sınav Ham yağda tekniğine uygun rafinasyon işlemini yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "5",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "5",
+      "KONU": "4. Bitkisel Katı Yağ Margarin Üretim Teknolojisi\n4.1. Margarin üretiminde kullanılan ham maddeler\n4.2. Margarin çeşitleri ve özellikleri margarinin duyusal fiziksel kimyasal özellikleri",
+      "KAZANIM": "Tekniğine uygun bitkisel sıvı yağdan hidrojenasyon uygulanması ile margarin üretir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "5",
+      "KONU": "4.3. Margarinin üretim aşamaları \n4.4. Hidrojenezasyonun önemi ve ilkesi",
+      "KAZANIM": "Tekniğine uygun bitkisel sıvı yağdan hidrojenasyon uygulanması ile margarin üretir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "5",
+      "KONU": "4.5. Margarin üretimi için uygun hammadde ve yardımcı maddeleri seçilmesi \n4.6. Bitkisel yağı katılaştırması",
+      "KAZANIM": "Tekniğine uygun bitkisel sıvı yağdan hidrojenasyon uygulanması ile margarin üretir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "5",
+      "KONU": "4.7. Emülsiyon için su ve yağ fazını kullanılacak ingredientleri emülsiyonlaştırma işlemi ve emülsiyonun soğutulması işlemini yapması\n4.8. Isı değiştirici ayarlarının yapılması",
+      "KAZANIM": "Tekniğine uygun bitkisel sıvı yağdan hidrojenasyon uygulanması ile margarin üretir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "5",
+      "KONU": "4.9. Yağın işleme ünitesinde gerekli işlemlerin yapılması\n4.10. Margarinin dinlendirilmesi",
+      "KAZANIM": "Tekniğine uygun bitkisel sıvı yağdan hidrojenasyon uygulanması ile margarin üretir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ ZEYTİNYAĞI ÜRETİMİ\n1. Zeytini Presleme\n1.1. Zeytinin önemi ve bileşimi \n1.2. Zeytinyağının kimyasal duyusal ve  fiziksel özellikleri",
+      "KAZANIM": "Üretim tekniğine uygun zeytini presler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "5",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "5",
+      "KONU": "1.3. Zeytin hasat zamanı ve türünün yağ kalitesine etkisi\n1.4. Zeytinleri temizlemenin yağ kalitesine etkisi",
+      "KAZANIM": "Üretim tekniğine uygun zeytini presler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "5",
+      "KONU": "1.5. Zeytinlerin yıkanması ve yıkama sırasında dikkat edilecek hususlar  \n \n2.Dönem 1.Sınav",
+      "KAZANIM": "Üretim tekniğine uygun zeytini presler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "5",
+      "KONU": "1.6. Zeytinyağı üretim yöntemleri \n1.7. Zeytin hamurunun yoğrulmasının amacı ve işlem sırasında dikkat edilecek hususlar",
+      "KAZANIM": "2. Dönem 1. Sınav Üretim tekniğine uygun zeytini presler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "5",
+      "KONU": "1.8. Zeytinleri tekniğine uygun olarak temizleme\n1.9. Değirmende kırma ve hamurun yoğurulması",
+      "KAZANIM": "Üretim tekniğine uygun zeytini presler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "5",
+      "KONU": "2. Zeytinyağının Tortu Ve Kara Sudan Ayrılması\n2.1. Tortu ve karasu ayırma yöntemleri",
+      "KAZANIM": "Üretim tekniğine uygun zeytinyağından tortu ve kara suyun ayrılmasını sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.2. Dekantörde gerekli işlemlerin yapılması",
+      "KAZANIM": "Üretim tekniğine uygun zeytinyağından tortu ve kara suyun ayrılmasını sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.3. Karasu ve prina bileşimleri özellikleri ve kullanım alanları\n2.4. Zeytinyağında filtrasyonun önemi",
+      "KAZANIM": "Üretim tekniğine uygun zeytinyağından tortu ve kara suyun ayrılmasını sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.5. Karasuya ve pirinaya karışan yağ miktarlarının tespit edilmesi",
+      "KAZANIM": "Üretim tekniğine uygun zeytinyağından tortu ve kara suyun ayrılmasını sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.6. Zeytinyağı içi uygun ayırma sistemini seçip basınç ayarlarının yapılması",
+      "KAZANIM": "Üretim tekniğine uygun zeytinyağından tortu ve kara suyun ayrılmasını sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "5",
+      "KONU": "2.7. Zeytinyağının filtre edilmesi",
+      "KAZANIM": "Üretim tekniğine uygun zeytinyağından tortu ve kara suyun ayrılmasını sağlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "5",
+      "KONU": "3. Ambalajlama Ve Depolama\n3.1. Zeytinyağların sınıflandırılması\n3.2. Kalitesine etki eden faktörler",
+      "KAZANIM": "2. Dönem 2. Sınav Zeytinyağını satışa hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "5",
+      "KONU": "3.3. Ambalajlanmasında kullanılan ambalaj çeşitleri ve özellikleri\n3.4. Depolama ve saklama koşulları \n2.Dönem 2.Sınav",
+      "KAZANIM": "Zeytinyağını satışa hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "5",
+      "KONU": "3.5. Zeytinyağının depolanması",
+      "KAZANIM": "Zeytinyağını satışa hazırlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "5",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

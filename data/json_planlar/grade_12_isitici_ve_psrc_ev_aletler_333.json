@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "ISITICI VE PŞRC EV ALETLER",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "Modül ELEKTRİKLİ SOBALAR\n1. ISITICI CİHAZLARININ GENEL YAPISI\n1.1. Isıtıcı Cihazların Elektrik Tesisatına Bağlanması\n1.2. Isı ve Sıcaklık\n1.3. Rezistanslar ve Rezistans Hesaplamaları\n1.4. Isıtıcı Cihazlarda Kullanılan Malzemeler \nDemokrasinin önemi",
+      "KAZANIM": "Isıtıcı cihazlarının rezistans hesaplamalarını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "2. ELEKTRİKLİ OCAKLAR VE SOBALAR\n2.1. Rezistanslı Elektrik Ocakları \n2.1.1. Rezistanslı ocakların yapısı ve çalışması\n2.1.2. Rezistanslı ocakların elektrik devre şemaları",
+      "KAZANIM": "Rezistansları değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "2.2. Fanlı Isıtıcılar\n2.3. Quartz Sobalar ve İnfrared Isıtma Tekniği \n2.3.1. Quartz sobaların yapısı ve çalışması",
+      "KAZANIM": "Rezistansları değiştirebilecektir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "2.3.2. Quartz sobaların elektrik devre şeması\n2.4. Yağlı Radyatör Sobalar\n2.4.1. Yağlı radyatör sobaların yapısı ve çalışması",
+      "KAZANIM": "Rezistansları değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "2.4.2. Yağlı radyatör sobaların elektrik devre şeması\n2.5. Lpg ve Doğal Gazlı Sobalar",
+      "KAZANIM": "Rezistansları değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "3. ELEKTRİKLİ ISITICILARIN ONARIM VE ARIZA GİDERME İŞLEMLERİ\n3.1. Onarıma Başlamadan Önce Dikkat Edilecek Hususlar\n3.2. Elektrikli Isıtıcılarda Arıza ve Onarım",
+      "KAZANIM": "Elektrikli Isıtıcıların arızalarını hatasız giderebilecektir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "Modül EKMEK KIZARTICILAR TOST MAKİNELERI FRİTÖZLER VE EKMEK YAPMA MAKİNALARI\n1. EKMEK KIZARTICILARIN TANIMI VE ÇALIŞMA PRENSİBİ\n1.1. Ekmek Kızartıcıların Yapısı ve Çalıştırılması\n1.2. Ekmek Kızartıcıların Parçaları ve Prensip Şeması\n1.3. Ekmek Kızartıcıların Bakım Onarım İşlemleri \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Ekmek kızartıcıların bakım ve onarımını hatasız yapabilecektir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "2. FRİTÖZLER TANIMI VE ÇALIŞMA PRENSİBİ\n2.1. Fritözlerin Yapısı ve Çalıştırılması\n2.2. Fritözlerin Parçaları ve Prensip Şeması\n2.3. Fritözlerin Bakım İşlemleri \n1.Dönem 1.Sınav",
+      "KAZANIM": "Fritözlerin bakım ve onarımını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "3. TOST MAKİNELERİ TANIMI VE ÇALIŞMA PRENSİBİ\n3.1. Tost Makinelerinin Yapısı ve Çalıştırılması\n3.2. Tost Makinelerinin Parçaları ve Prensip Şeması\n3.3. Tost Makinelerinin Bakım Onarım İşlemleri \nAtatürkün eğitime ve bilime verdiği önem",
+      "KAZANIM": "1. Dönem 1. Sınav Tost makinelerinin bakım ve onarımını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "4. EKMEK YAPMA MAKİNELERİ TANIMI VE ÇALIŞMA PRENSİBİ\n4.1. Ekmek Yapma Makinelerinin Yapısı ve Çalıştırılması\n4.2. Ekmek Yapma Makinelerinin Parçaları ve Prensip Şeması\n4.3. Ekmek Yapma Makinelerinin Bakım Onarım İşlemleri",
+      "KAZANIM": "Ekmek yapma makinelerinin bakım ve onarımını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "Modül ELEKTRİKLİ SU ISITICILAR\n1. TERMOSİFONLAR\n1.1. Tanımı ve Çalışması\n1.2. Elektrik Prensip Şeması\n1.3. Montajı ve Elektrik Bağlantısını Yapmak\n1.4. Arızalarını Gidermek",
+      "KAZANIM": "Termosifonların bakım ve onarımını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "2. ŞOFBENLER\n2.1. Tanımı ve Çalışması\n2.2. Elektrik Prensip Şeması\n2.3. Montaj Yapmak\n2.4. Arızalarını Gidermek",
+      "KAZANIM": "Şofbenlerin bakım ve onarımını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "3. ANİ SU ISITICILARI\n3.1. Tanımı ve Çalışması\n3.2. Montaj ve Elektrik Bağlantısını Yapmak\n3.3. Arızalarını Gidermek",
+      "KAZANIM": "Ani su ısıtıcılarının bakım ve onarımını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "4. KETTLE ÇAY VE KAHVE MAKİNELERİ\n4.1. Tanımı ve Çalışması\n4.1.1. Kettleın yapısı ve çalışması\n4.1.2. Çay ve kahve makinelerinin yapısı ve çalışması\n4.1.3. Elektrik prensip şemaları",
+      "KAZANIM": "Kettle çay ve kahve makinelerinin bakım ve onarımını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "4.1.4. Tek rezistanslı bir su ısıtıcısının elektriki prensip şeması\n4.1.5. Çift rezistanslı bir cihazın elektrik devresi\n4.2. Montajı ve Elektrik Bağlantısını Yapmak\n4.3. Elektrikli Su Isıtıcıların Arızalarını Gidermek\n4.3.1. Cihazın fişi ya da besleme kablosu arızalı",
+      "KAZANIM": "Kettle çay ve kahve makinelerinin bakım ve onarımını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "4.3.2. Açma-kapama anahtarında bir arızalı\n4.3.3. Termostat düğmesi -0- konumuna alınmış durumda\n4.3.4. Termostat arızalı\n4.3.5. Isıtıcı arızalı\n4.3.6. Cihaz içindeki diğer kablolar arızalı ya da yerlerinden çıkmış \n1.Dönem 2.Sınav",
+      "KAZANIM": "Kettle çay ve kahve makinelerinin bakım ve onarımını hatasız yapabilecektir."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "Modül ELEKTRİKLİ ÜTÜLER\n1. ELEKTRİKLİ ÜTÜLER\n1.1.Elektrikli Ütülerin Tanıtılması\n1.2.Buharlı Ütüler\n2.1.1.Buharlı bir ütünün elektrik devre şeması ve çalışması",
+      "KAZANIM": "1. Dönem 2. Sınav Ütü ısıtma elamanlarını ve termostatlarını hatsız değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "1.1.2.Buharlı ütü ısıtma elemanları ve termostatlarının montaj ile demontajı\n1.1.3.Ütü arızaları nedenleri onarımı\n1.1.4.Ütülerin parçalarının kontrolleri",
+      "KAZANIM": "Ütü ısıtma elamanlarını ve termostatlarını hatsız değiştirebilecektir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "1.3.Pres Ütüler\n1.1.1.Pres ütünün elektrik devresi ve çalışması\n1.1.2.Pres ütünün termostat-rezistans bağlantı kablolarının değiştirilmesi",
+      "KAZANIM": "Ütü ısıtma elamanlarını ve termostatlarını hatsız değiştirebilecektir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "1.4.Akıllı ütüler\n1.5.Seyahat Ütüleri\n1.6.Sanayi Tipi Ütüler",
+      "KAZANIM": "Ütü ısıtma elamanlarını ve termostatlarını hatsız değiştirebilecektir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "2. ÜTÜLERİN BUHAR ELEMANLARI\n2.1.Ütülerin Buhar Elemanlarının Tanıtılması\n2.2.Pompa Gruplarının Değiştirilmesi\n2.3. Ütü Arızaları Nedenleri Onarımı",
+      "KAZANIM": "Ütü buhar elamanlarını hatasız değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "Modül KESİCİ VE PARÇALAYICILAR\n1. KESİCİ VE PARÇALAYICI CİHAZLARIN YAPISI VE ÇALIŞMASI\n1.1. Mutfak Robotları\n1.1.1. Mutfak robotu yapısı parçaları\n1.1.2. Mutfak robotlarında bakım ve temizlik işlemleri",
+      "KAZANIM": "Mutfaklarda kullanılan kesici ve parçalayıcı cihazları seçebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "1.2. El Blenderları ve Mikserler Karıştırıcılar\n1.2.1. El blenderleri ve mikserlerin yapısı\n1.3. Narenciye Sıkacağı ve Doğrayıcılar",
+      "KAZANIM": "Mutfaklarda kullanılan kesici ve parçalayıcı cihazları seçebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "1.3.1. Narenciye sıkacağı ve doğrayıcıların yapısı\n1.4. Elektrikli Bıçak ve Kıyma Makinesi\n1.4.1. Elektrikli bıçak ve kıyma makinesi yapıları",
+      "KAZANIM": "Mutfaklarda kullanılan kesici ve parçalayıcı cihazları seçebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "2. KESİCİ VE PARÇALAYICILARIN BAKIM ONARIM İŞLEMLERİ\n2.1. Kesici ve Parçalayıcıların Basit Elektrik ve Mekanik Yapıları\n2.2. Kesici ve Parçalayıcılarda Arıza Bulma ve Giderme \nAtatürkün vatan ve millet sevgisi",
+      "KAZANIM": "Mutfaklarda kullanılan kesici ve parçalayıcı cihazları arızalarını giderebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "2.2. Kesici ve Parçalayıcılarda Arıza Bulma ve Giderme\n2.2.1. Aygıt çalışmıyor\n2.2.2. Aygıt çalışıyor motor sesi var ama aparatlar dönmüyor\n2.2.3. Aygıt sigorta attırıyor\n2.2.4. Aygıt gürültülü çalışıyor\n2.2.5. Aygıt çalışıyor fakat kesme-parçalamayı iyi yapmıyor \n2.Dönem 1.Sınav",
+      "KAZANIM": "2. Dönem 1. Sınav Mutfaklarda kullanılan kesici ve parçalayıcı cihazları arızalarını giderebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "Modül MİKRODALGA FIRINLAR \n1. MİKRODALGA FIRIN VE EKİPMANLARI\n1.1. Mikrodalga Fırınlarda Kullanılan Elektrik Makineleri\n1.1.1. Bir fazlı transformatörler\n1.1.2. Bir fazlı motorlar",
+      "KAZANIM": "Mikrodalga fırınlarda fan ve tabla motorlarını kontrol grubu ve swich hatasız değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "1.2. Manyetik Alan\n1.2.1. Daimi Mıknatıslar\n1.2.2. Elektro Mıknatıs \n1.3. Mikrodalga Fırınların Kullanımı ve Yapısı\n1.3.1. Mikrodalga fırında zaman ayarlaması",
+      "KAZANIM": "Mikrodalga fırınlarda fan ve tabla motorlarını kontrol grubu ve swich hatasız değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "1.3.2. Mikrodalga fırınlarda çocuklar için güvenlik sistemleri\n1.3.3. Mikrodalga fırınlarda otomatik buz çözmedefrost\n1.3.4. Mikrodalga fırınlarda pişirme programları \nÇocuk insan sevgisi ve evrensellik",
+      "KAZANIM": "Mikrodalga fırınlarda fan ve tabla motorlarını kontrol grubu ve swich hatasız değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "2. MİKRODALGA FIRINLARIN TANIMI VE ÇALIŞMA PRENSİBİ\n2.1. Mekanik Sistemli Mikrodalga Fırınlar\n2.2. Elektronik Sistemli Mikrodalga Fırınlar",
+      "KAZANIM": "Mikrodalga fırınlarda mağnetron ve diğer ekipmanları hatasız değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.3. Standart Mikrodalga Fırın Aksesuarları\n2.4. Mikrodalga Fırın Elemanları ve Kontrolü\n2.5. Mikrodalga Fırınlarda Arıza Bulma ve Giderme",
+      "KAZANIM": "Mikrodalga fırınlarda mağnetron ve diğer ekipmanları hatasız değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "Modül ELEKTRİKLİ VE GAZLI PİŞİRİCİLER\n1. ELEKTRİKLİ FIRINLARIN TANIMI VE FIRINLARDA KULLANILAN TERİMLER\n1.1. Fırın Tanımı\n1.2. Fırın Modelleri ve Tiplerinin Tanıtımı\n1.3. Fırını Oluşturan Parçaların Görevleri\n1.4. Pişme\n1.5. Yanma\n1.6. Besinlerin Fırınlama Şartları \nAtatürkçü düşüncede yer alan temel fikirler",
+      "KAZANIM": "Cihazın gaz ve baca bağlantılarını baca odası musluk enjektör değiştirmek ve gaz yanış ayarını hatasız yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "2. GAZLI FIRINLARIN YAPISI VE ÖZELLİKLERİ\n2.1. Gazlı Fırınlar\n2.1.1. Tanıtımı\n2.1.2. Çalışma prensibi\n2.2. Termoelektrik Çift Termokupl\n2.3. Buji\n2.4. Manyeto Çakmak Trafoları",
+      "KAZANIM": "Ateşleme gruplarını ve bujileri hatsız değiştirebilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "3. ELEKTRİKLİ FIRINLARIN YAPISI VE ÖZELLİKLERİ\n3.1. Elektrikli Fırınlar\n3.1.1. Tanıtımı\n3.1.2. Çalışma prensibi\n3.2. Besleme Kablosunun Değiştirilmesi\n3.3. Rezistanslar\n3.4. Termostatlar \n2.Dönem 2.Sınav",
+      "KAZANIM": "2. Dönem 2. Sınav Elektrikli ocak ve fırınların onarımını yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "4. TURBO VE MULTİFONKSİYONEL FIRINLARIN YAPISI VE ÖZELLİKLERİ\n4.1. Turbo ve Multifonksiyonel Fırınlar\n4.1.1. Turbo Fırın Tanınması ve Çalışma Prensibi\n4.2. Motor\n4.3. Multifonksiyon 3d Tanınması ve Çalışma Prensibi\n4.4. Timerler Zamanlayıcı Saat",
+      "KAZANIM": "Elektrikli ocak ve fırınların onarımını yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "5. GÖMME FIRINLARIN YAPISI VE ÖZELLİKLERİ\n5.1. Gömme Fırınlar\n5.2. Şalterler ve Komitatörler\n6. ELEKTRİKLİ GAZLI FIRINLARIN ARIZA BAKIM ONARIM VE MONTAJ İŞLERİNİ YAPMAK\n6.1. Ocak ve Fırınlarda Arıza Bulma ve Giderme\n6.2. Fırın Montaj ve Bilgilendirme\n6.3. Duble Fırınların Demontaj İşlemi\n6.4. Elektrikli Fırınların Montaj Şemaları\n6.5. Elektrikli Fırınların Prensip Şemaları",
+      "KAZANIM": "Elektrikli ocak ve fırınların onarımını yapabilecektir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}

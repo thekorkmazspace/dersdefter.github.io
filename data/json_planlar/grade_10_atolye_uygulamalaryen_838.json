@@ -1,0 +1,401 @@
+{
+  "sinif": "10",
+  "ders": "ATÖLYE UYGULAMALAR(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "7",
+      "ÜNİTE": "Reyon Temizliği ve\nDüzenleme",
+      "KONU": "1.   Reyon",
+      "KAZANIM": "Reyonun mağaza için önemini ve fonksiyonunu açıklar.",
+      "KAZANIM AÇIKLAMASI": "Reyonun mağaza için önemi ve fonksiyonları açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "7",
+      "ÜNİTE": "Reyon Temizliği ve\nDüzenleme",
+      "KONU": "2.   Reyon Düzenlemeye Etki Eden Faktörler",
+      "KAZANIM": "Reyon düzenlemeye etki eden faktörleri listeler.",
+      "KAZANIM AÇIKLAMASI": "Reyona düzenlemeye etki eden faktörler açıklanır.\n       Reyonlar için gruplandırma yöntemleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "7",
+      "ÜNİTE": "Reyon Temizliği ve\nDüzenleme",
+      "KONU": "3.   Reyon Yapı Malzemeleri ve Temizlik Araç Gereçleri",
+      "KAZANIM": "Reyonun yapı malzemesine zemine ve kullanılacak alanına uygun temizlik araç ve gereçlerini seçer.",
+      "KAZANIM AÇIKLAMASI": "Reyonların yapı malzemeleri açıklanır.\n       Reyon temizlik araç gereçleri açıklanır.\n       Reyon temizlik maddeleri açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "7",
+      "ÜNİTE": "Reyon Temizliği ve\nDüzenleme",
+      "KONU": "4.   Reyon Temizliği",
+      "KAZANIM": "Tekniğine uygun olarak cam ayna metal ahşap ve PVC yüzeylerin temizliğini uygun temizlik araç gereçleri ile yapar.",
+      "KAZANIM AÇIKLAMASI": "Cam ve ayna yüzeylerin temizliği açıklanır.\n       Yöntemine göre cam ve ayna yüzeylerin temizliğinin yapılması sağlanır.\n       Metal yüzeylerin temizliği ve temizlik kuralları açıklanır.\n       Metal yüzeylerin temizliğinin yapılması sağlanır.\n       Ahşap yüzeyleri temizleme kuralları açıklanır.\n       Ahşap yüzeylerin temizliğinin yapılması sağlanır.\n       PVC yüzey temizliğinde dikkat edilecek hususlar açıklanır.\n       PVC yüzeylerin temizliğinin yapılması sağlanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "7",
+      "ÜNİTE": "Reyon Temizliği ve\nDüzenleme",
+      "KONU": "1.   Reyon",
+      "KAZANIM": "Reyonun mağaza için önemini ve fonksiyonunu açıklar.",
+      "KAZANIM AÇIKLAMASI": "Reyonun mağaza için önemi ve fonksiyonları açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "7",
+      "ÜNİTE": "Reyon Temizliği ve\nDüzenleme",
+      "KONU": "6.   Ürünü Reyona Yerleştirme",
+      "KAZANIM": "Ürün çeşidine uygun olarak reyon yerleştirme işlemlerini gerçekleştirir.",
+      "KAZANIM AÇIKLAMASI": "Kuralına göre ürünlerin reyona yerleştirilmesi sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Etiketleme",
+      "KONU": "1.   Etiket",
+      "KAZANIM": "Etiketin amacını açıklar.",
+      "KAZANIM AÇIKLAMASI": "Etiket kavramı tanımlanır.\n       Etiketlemenin önemi ve yaraları açıklanır.\n       Fiyat etiketlemesi yapmanın başlıca ilkeleri açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Etiketleme",
+      "KONU": "2.   Etiketleme Ortamı",
+      "KAZANIM": "Uygun fiziksel koşullar içinde etiketleme ortamlarını hazırlar.",
+      "KAZANIM AÇIKLAMASI": "Büyük ve küçük mağazalarda teslim alma yerlerinin fiziksel özellikleri ve teslim alma odalarının önemi açıklanır.\n       Teslim alma ve işaretleme odalarının önemi açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Etiketleme",
+      "KONU": "3.   Etiket Bilgileri ve Şifre Yöntemleri",
+      "KAZANIM": "1. Dönem 1. Sınav  Etiketlere konulabilecek bilgileri ve şifre yöntemlerini belirler.",
+      "KAZANIM AÇIKLAMASI": "Etiketlere konulabilecek şifre yöntemleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "7",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "KAZANIM": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Etiketleme",
+      "KONU": "4.   Etiketleme",
+      "KAZANIM": "Ürüne uygun etiketleme yapar.",
+      "KAZANIM AÇIKLAMASI": "Etiketleme araçları açıklanır.\n       Etiketlemede kullanılan araç ve gereçler açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Felsefe Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Etiketleme",
+      "KONU": "5.   El ve Otomatik Etiketleme",
+      "KAZANIM": "El ve otomatik etiketleme işlemlerini gerçekleştirir.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Fiyatlandırma",
+      "KONU": "1.   Fiyatlandırma",
+      "KAZANIM": "Fiyatlandırmayı ve fiyatlandırmanın önemini açıklar.",
+      "KAZANIM AÇIKLAMASI": "Fiyat kavramı açıklanır.\n       Fiyat çeşitleri açıklanır.\n       Fiyatlandırma ilkeleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Fiyatlandırma",
+      "KONU": "2.   Maliyetine Göre Fiyatlandırma",
+      "KAZANIM": "Maliyete göre fiyatlandırmayı açıklar.",
+      "KAZANIM AÇIKLAMASI": "Maliyet kavramı ve önemi açıklanır.\n       Maliyete göre fiyatlandırma yöntemleri açıklanır.\n       Maliyet giderleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Fiyatlandırma",
+      "KONU": "3.   Rekabete Yönelik Fiyatlandırma",
+      "KAZANIM": "Rekabete göre fiyatlandırmayı açıklar.",
+      "KAZANIM AÇIKLAMASI": "Rekabet kavramı ve önemi açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "7",
+      "ÜNİTE": "Ürün Fiyatlandırma",
+      "KONU": "4.   Talebe Göre Fiyatlandırma",
+      "KAZANIM": "Talebe göre fiyatlandırmayı açıklar.",
+      "KAZANIM AÇIKLAMASI": "Talebe göre fiyatlandırmayı ve önemi açıklanır.\n       Fiyat farklılaştırması kavramı ve buna etki eden faktörler açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Tedarik",
+      "KONU": "1.   Müşteri ve Tedarik Yönetimi",
+      "KAZANIM": "Tedarik işlemlerini müşteri açısından önemini değerlendirir."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Tedarik",
+      "KONU": "2.   Tedarik İşlemleri",
+      "KAZANIM": "1. Dönem 2. Sınav  Tedarik işlemlerine ilişkin temel kavramları kullanarak tedarik senaryosu oluşturur.",
+      "KAZANIM AÇIKLAMASI": "Tedarik kavramı tanımlanır.\n       Tedarik fonksiyonları ve amaçları açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "7",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "7",
+      "ÜNİTE": "Tedarik",
+      "KONU": "3.   Tedarik Seçimi",
+      "KAZANIM": "Tedarikçi seçim kriterleri oluşturur.",
+      "KAZANIM AÇIKLAMASI": "Tedarikçi seçimleri açıklanır.\n       Tedarikçi seçim kriterleri oluşturulur."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Teknikleri",
+      "KONU": "1.   Satış Koşulları",
+      "KAZANIM": "Ürünün satış koşullarını belirler.",
+      "KAZANIM AÇIKLAMASI": "Satış koşullarının belirlenmesi açıklanır.\n       Fiyatlandırma mağaza stoklarının yönetimi satış koşulları promosyonlar açıklanır.\n       Perakendecilik kavramı açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Teknikleri",
+      "KONU": "2.   Sipariş Talebi",
+      "KAZANIM": "Müşteri isteğine uygun olarak talep edilen siparişi alır.",
+      "KAZANIM AÇIKLAMASI": "Müşteri psikolojisi açıklanır.\n       İade ve değişiklik taleplerinde yapılması gerekenler açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Teknikleri",
+      "KONU": "3.   Satış Otomasyonu",
+      "KAZANIM": "Satış otomasyonunu açıklar.",
+      "KAZANIM AÇIKLAMASI": "Satış otomasyonu kavramı açıklanır.\n       Satış planlaması ve tahminleri açıklanır.\n       Müşteri yönetimi açıklanır.\n       Kontakt şahıs yönetimi açıklanır.\n       Aktivite yönetimi açıklanır.\n       Fırsat yönetimi açıklanır.\n       Saha satışı açıklanır.\n       Teklif yönetimi açıklanır.\n       Kontrat yönetimi açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Teknikleri",
+      "KONU": "4.   Ürün Satışı",
+      "KAZANIM": "Satış tekniğine uygun olarak ürün satışı yapar.",
+      "KAZANIM AÇIKLAMASI": "Ürün bilgileri açıklanır.\n       Satış sonrası verilen hizmetler açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Teknikleri",
+      "KONU": "5.   Özel Mal Siparişi",
+      "KAZANIM": "Özel mal sipariş özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "7",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "KAZANIM": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Teknikleri",
+      "KONU": "5.   Özel Mal Siparişi",
+      "KAZANIM": "Özel mal sipariş özelliklerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Belgeleri",
+      "KONU": "1.   Satış Belgeleri",
+      "KAZANIM": "Satış belgelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Belgeleri",
+      "KONU": "1.   Satış Belgeleri",
+      "KAZANIM": "2. Dönem 1. Sınav  Satış belgelerini açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Belgeleri",
+      "KONU": "3.   Nakliye Evrakları",
+      "KAZANIM": "Ticaret mevzuatına uygun olarak nakliye evraklarını hazırlar.",
+      "KAZANIM AÇIKLAMASI": "Nakliye kavramı tanımlanır.\n       Önemi açıklanır.\n       Nakliye evrak çeşitleri açıklanır.\n       Nakliye evraklarının düzenlenmesi ve doldurulması sağlanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Belgeleri",
+      "KONU": "4.   Ürüne Göre Kullanım Kılavuzu Hazırlama",
+      "KAZANIM": "Farklı nitelikte ürünlere uygun kullanım kılavuzu hazırlar.",
+      "KAZANIM AÇIKLAMASI": "Satışta müşteriye verilen garanti belgesinin ve kullanım kılavuzunun önemi açıklanır.\n       Farklı nitelikteki ürünlere uygun kurallarına göre kullanım kılavuzu hazırlanması sağlanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Belgeleri",
+      "KONU": "Düzenleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "7",
+      "ÜNİTE": "Taşıma ve\nTeslimat",
+      "KONU": "3.   Teslimat İşlemleri ve Yöntemleri",
+      "KAZANIM": "Teslimat işlemlerini ve yöntemlerini açıklar.",
+      "KAZANIM AÇIKLAMASI": "Teslimat koşulları açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "7",
+      "ÜNİTE": "Taşıma ve\nTeslimat",
+      "KONU": "2.   Taşıma İşleminde Yükümlülükler",
+      "KAZANIM": "Taşımda firma yükümlülüklerini sıralar.",
+      "KAZANIM AÇIKLAMASI": "Taşıma işleminde firma yükümlüleri açıklanır.\n       Taşıma yöntemine göre kullanılan belgeler açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "7",
+      "ÜNİTE": "Taşıma ve\nTeslimat",
+      "KONU": "3.   Teslimat İşlemleri ve Yöntemleri",
+      "KAZANIM": "Teslimat işlemlerini ve yöntemlerini açıklar.",
+      "KAZANIM AÇIKLAMASI": "Teslimat koşulları açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "7",
+      "ÜNİTE": "Taşıma ve\nTeslimat",
+      "KONU": "4.   Teslimat İşleminde Yükümlülükler",
+      "KAZANIM": "Teslimat işleminde firmanın ve müşterinin yükümlülüklerini sıralar.",
+      "KAZANIM AÇIKLAMASI": "Malın kurulum ve kullanım danışmanlığı açıklanır.\n       Ürün teslimi yükümlülükleri açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Sonrası\nDestek Hizmetleri",
+      "KONU": "1.   Satış Sonrası Hizmetler",
+      "KAZANIM": "2. Dönem 2. Sınav  Satış sonrası hizmetlerin önemini açıklar.",
+      "KAZANIM AÇIKLAMASI": "Satış sonrası hizmetlerin kapsamı açıklanır.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Sonrası\nDestek Hizmetleri",
+      "KONU": "2.   Satış Sonrası Hizmetlere",
+      "KAZANIM": "Satış sonrası destek hizmetlere yönelik yasal mevzuatı açıklar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "7",
+      "ÜNİTE": "Satış Sonrası\nDestek Hizmetleri",
+      "KONU": "3.   Garanti Belgesi Uygulama Esasları",
+      "KAZANIM": "Ürün türüne göre garanti belgesi uygulama esasları oluşturur.",
+      "KAZANIM AÇIKLAMASI": "Garanti belgesinde yer alması gereken şartlar açıklanır.\n       Ürün türüne göre uygulama esaslarına göre garanti belgesi oluşturulur.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "7",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    }
+  ]
+}
