@@ -7,7 +7,6 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ GIDA ENDÜSTRİSİNDE HİJYEN VE SANİTASYON \n1.1. GIDA İŞLEME SEKTÖRÜ \n1.1.1. 21. Yüzyılda Güvenli Gıda",
-      "KAZANIM": "Gıda işletmelerinin bölümlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,22 +14,19 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
       "KONU": "1.1.2. Gıda İşleme Sektörü",
-      "KAZANIM": "Gıda işletmelerinin bölümlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
-      "KONU": "1.1.3. Gıda İşletmesi Kuruluş Yeri Seçimi \n1.1.4. Personel Seçimi",
-      "KAZANIM": "Gıda işletmelerinin bölümlerini ayırt eder."
+      "KONU": "1.1.3. Gıda İşletmesi Kuruluş Yeri Seçimi \n1.1.4. Personel Seçimi"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "1.2. KİŞİSEL HİJYEN \n1.2.1. Hijyen Kavramı \n1.2.2. Sanitasyon Kavramı",
-      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerine hijyen kurallarına ve işletme standartlarına uygun kişisel hijyeni uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,29 +34,25 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "1.2.3. Yönetimin Sorumluluğu \n1.2.4. Personel Hijyeni",
-      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerine hijyen kurallarına ve işletme standartlarına uygun kişisel hijyeni uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
-      "KONU": "1.2.5. Hastalıkların Kontrolü\n1.2.6. Gıda Kaynaklı Salgın Oluşumu",
-      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerine hijyen kurallarına ve işletme standartlarına uygun kişisel hijyeni uygular."
+      "KONU": "1.2.5. Hastalıkların Kontrolü\n1.2.6. Gıda Kaynaklı Salgın Oluşumu"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
-      "KONU": "1.3. İŞLETME HİJYENİ \n1.3.1. Bina Özellikleri",
-      "KAZANIM": "İş sağlığı ve güvenliği kuralları ile çevre korumaya ilişkin önlemler ve mevzuata uygun olarak işletme ortamı hijyenini sağlar."
+      "KONU": "1.3. İŞLETME HİJYENİ \n1.3.1. Bina Özellikleri"
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "1.3.2. Ekipman Özellikleri \n1.3.3. Havalandırma  \n\n1.Dönem 1.Sınav",
-      "KAZANIM": "İş sağlığı ve güvenliği kuralları ile çevre korumaya ilişkin önlemler ve mevzuata uygun olarak işletme ortamı hijyenini sağlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -68,7 +60,6 @@
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "1.3.4. Aydınlatma \n1.3.5. Depolar",
-      "KAZANIM": "1. Dönem 1. Sınav İş sağlığı ve güvenliği kuralları ile çevre korumaya ilişkin önlemler ve mevzuata uygun olarak işletme ortamı hijyenini sağlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -77,7 +68,6 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -85,7 +75,6 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "1.3.6. Koruyucu Giysi ve Ekipmanlar \n1.3.7. İş Kazaları ve İlk Yardım Malzemeleri",
-      "KAZANIM": "İş sağlığı ve güvenliği kuralları ile çevre korumaya ilişkin önlemler ve mevzuata uygun olarak işletme ortamı hijyenini sağlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +82,6 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ TEMİZLİK VE DEZENFEKSİYON MALZEMELERİ\n2.1. TEMİZLİK VE TEMİZLEME MADDELERİ\n2.1.1. Temizlik Çeşitleri",
-      "KAZANIM": "İlgili mevzuata uygun olarak temizlik ve dezenfeksiyon malzemelerini seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +89,6 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "2.1.2. Temizlik Maddeleri \n2.1.3. Temizlik Maddelerini Saklama Koşulları",
-      "KAZANIM": "İlgili mevzuata uygun olarak temizlik ve dezenfeksiyon malzemelerini seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +96,6 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "2.1.4. Temizlik ve Dezenfeksiyon Aşamaları",
-      "KAZANIM": "İlgili mevzuata uygun olarak temizlik ve dezenfeksiyon malzemelerini seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -117,7 +103,6 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "2.1.5. Temizlik Sırasında Uyulması Gereken Kurallar",
-      "KAZANIM": "İlgili mevzuata uygun olarak temizlik ve dezenfeksiyon malzemelerini seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -125,22 +110,19 @@
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "2.2. DEZENFEKSİYON VE DEZENFEKTANLAR\n2.2.1. Dezenfeksiyon Yöntemleri",
-      "KAZANIM": "İlgili mevzuata uygun temizlik ve dezenfeksiyon yöntemlerini tanımlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
-      "KONU": "2.2.1. Dezenfeksiyon Yöntemleri \n1.Dönem 2.Sınav",
-      "KAZANIM": "İlgili mevzuata uygun temizlik ve dezenfeksiyon yöntemlerini tanımlar."
+      "KONU": "2.2.1. Dezenfeksiyon Yöntemleri \n1.Dönem 2.Sınav"
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "2.2.2. Dezenfektanlar \n2.2.3. CIP ve COP Sistemleri",
-      "KAZANIM": "1. Dönem 2. Sınav İlgili mevzuata uygun temizlik ve dezenfeksiyon yöntemlerini tanımlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -148,52 +130,45 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
-      "KONU": "2.2.3. CIP ve COP Sistemleri",
-      "KAZANIM": "İlgili mevzuata uygun temizlik ve dezenfeksiyon yöntemlerini tanımlar."
+      "KONU": "2.2.3. CIP ve COP Sistemleri"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
-      "KONU": "ÖĞRENME BİRİMİ ATIKLARIN UZAKLAŞTIRILMASI VE HAŞERELERLE MÜCADELE\n3.1. GIDA ENDÜSTRİSİNDE ATIK MADDELER\n3.1.1. Kirlilik Dereceleri",
-      "KAZANIM": "Gıda endüstrisinde atık maddeleri sınıflandırır."
+      "KONU": "ÖĞRENME BİRİMİ ATIKLARIN UZAKLAŞTIRILMASI VE HAŞERELERLE MÜCADELE\n3.1. GIDA ENDÜSTRİSİNDE ATIK MADDELER\n3.1.1. Kirlilik Dereceleri"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
-      "KONU": "3.1.2. Katı ve Sıvı Atıkların Arıtılması",
-      "KAZANIM": "Gıda endüstrisinde atık maddeleri sınıflandırır."
+      "KONU": "3.1.2. Katı ve Sıvı Atıkların Arıtılması"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "3.2. GIDA İŞLETMELERİNDE HAŞERELERLE MÜCADELE \n3.2.1. Böcekler ve Sinekler",
-      "KAZANIM": "Gıda endüstrisindeki haşerelerle mücadele yöntemlerini tarif eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -201,7 +176,6 @@
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "3.2.2. Kemirgenler\n3.2.3. Kuşlar",
-      "KAZANIM": "Gıda endüstrisindeki haşerelerle mücadele yöntemlerini tarif eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -209,7 +183,6 @@
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "3.2.4. Haşere İlaçlarının Kullanımı",
-      "KAZANIM": "Gıda endüstrisindeki haşerelerle mücadele yöntemlerini tarif eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -218,7 +191,6 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -226,7 +198,6 @@
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ SU VE HAVA HİJYENİ\n4.1. SU HİJYENİ \n4.1.1. Suyun Tanımı ve Önemi",
-      "KAZANIM": "Gıda işletmelerinde kullanılan suyun özelliklerini tanımlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -234,7 +205,6 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "4.1.2. Suyun Canlılardaki İşlevi\n4.1.3. Gıda Endüstrisinde Suyun Önemi \n\n2.Dönem 1.Sınav",
-      "KAZANIM": "Gıda işletmelerinde kullanılan suyun özelliklerini tanımlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -242,7 +212,6 @@
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "4.1.4. Suyun Özellikleri \n4.1.5. Su Kalitesini İyileştirme Yolları",
-      "KAZANIM": "2. Dönem 1. Sınav Gıda işletmelerinde kullanılan suyun özelliklerini tanımlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -250,7 +219,6 @@
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "4.1.6. Su Depolarının Temizlik ve Dezenfeksiyonu\n4.1.7. Su Kaynaklı Hastalıklar",
-      "KAZANIM": "Gıda işletmelerinde kullanılan suyun özelliklerini tanımlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -258,7 +226,6 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "4.2. HAVA HİJYENİ \n4.2.1. Hava Kaynakları",
-      "KAZANIM": "Gıda işletmelerinde hava- hijyen ilişkisinin önemini açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -266,7 +233,6 @@
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "4.2.2. Kontaminasyon Kaynakları",
-      "KAZANIM": "Gıda işletmelerinde hava- hijyen ilişkisinin önemini açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -274,7 +240,6 @@
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ GIDA ENDÜSTRİSİNDE KALİTE YÖNETİM SİSTEMLERİ\n5.1. ULUSLARARASI KALİTE YÖNETİM SİSTEMLERİ\n5.1.1. Kalite Kavramı",
-      "KAZANIM": "Uluslararası kalite yönetim sistemlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -282,7 +247,6 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "5.1.2. Standart ve Standardizasyon",
-      "KAZANIM": "Uluslararası kalite yönetim sistemlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -290,7 +254,6 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "5.1.3. Ön Gereksinim Programları GMP ve GHP\n5.1.4. HACCP",
-      "KAZANIM": "Uluslararası kalite yönetim sistemlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -298,7 +261,6 @@
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "5.2. ULUSAL KALİTE YÖNETİM SİSTEMLERİ\n5.2.1. Türk Standartları Enstitüsü TSE Standartları",
-      "KAZANIM": "Ulusal kalite yönetim sistemlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -306,7 +268,6 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "5.2.2. CE İşareti \n5.2.3. Metroloji",
-      "KAZANIM": "2. Dönem 2. Sınav Ulusal kalite yönetim sistemlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -314,7 +275,6 @@
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
       "KONU": "5.2.4. Kalibrasyon \n2.Dönem 2.Sınav",
-      "KAZANIM": "Ulusal kalite yönetim sistemlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -322,7 +282,6 @@
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
       "KONU": "5.2.5. Akreditasyon",
-      "KAZANIM": "Ulusal kalite yönetim sistemlerini ayırt eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -331,7 +290,6 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

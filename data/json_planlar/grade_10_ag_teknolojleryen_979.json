@@ -8,8 +8,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Protokolleri",
       "KONU": "Güvenli ağ topolojisi",
-      "KAZANIM": "TCPIP Protokolünü açıklar.",
-      "KAZANIM AÇIKLAMASI": "TCPIP protokol kümesi açıklanır.",
+      "KAZANIM": "TCPIP protokol kümesi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -18,8 +17,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Protokolleri",
       "KONU": "Güvenli ağ topolojisi",
-      "KAZANIM": "TCPIP Protokolünü açıklar.",
-      "KAZANIM AÇIKLAMASI": "TCPIP protokol kümesi açıklanır.",
+      "KAZANIM": "TCPIP protokol kümesi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
@@ -28,8 +26,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Protokolleri",
       "KONU": "Network Protokolleri",
-      "KAZANIM": "OSI referans modelini açıklar.",
-      "KAZANIM AÇIKLAMASI": "OSI referans modeli katmanları açıklanır."
+      "KAZANIM": "OSI referans modeli katmanları açıklanır."
     },
     {
       "AY": "EYLÜL",
@@ -37,8 +34,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Protokolleri",
       "KONU": "Network Protokolleri",
-      "KAZANIM": "OSI referans modelini açıklar.",
-      "KAZANIM AÇIKLAMASI": "OSI referans modeli katmanları açıklanır.",
+      "KAZANIM": "OSI referans modeli katmanları açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -47,8 +43,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Protokolleri",
       "KONU": "OSI Referans Modeli",
-      "KAZANIM": "Network protokollerini kullanarak ağ topolojisi hazırlar.",
-      "KAZANIM AÇIKLAMASI": "DHCP protokolünü açıklayarak uygulama yaptırır.\n       DNS protokolünü açıklayarak uygulama yaptırır.\n       IPv4-IPv6 protokollerini açıklayarak uygulama yaptırır.\n       TCP protokolünü açıklayarak uygulama yaptırır.\n       UDP protokolünü açıklayarak uygulama yaptırır.\n       ARP protokolünü açıklayarak uygulama yaptırır.\n       ICMP protokolünü açıklayarak uygulama yaptırır.\n       ETHERNET protokolünü açıklayarak uygulama yaptırır.\n       WIFI protokolünü açıklayarak uygulama yaptırır.",
+      "KAZANIM": "DHCP protokolünü açıklayarak uygulama yaptırır.\n       DNS protokolünü açıklayarak uygulama yaptırır.\n       IPv4-IPv6 protokollerini açıklayarak uygulama yaptırır.\n       TCP protokolünü açıklayarak uygulama yaptırır.\n       UDP protokolünü açıklayarak uygulama yaptırır.\n       ARP protokolünü açıklayarak uygulama yaptırır.\n       ICMP protokolünü açıklayarak uygulama yaptırır.\n       ETHERNET protokolünü açıklayarak uygulama yaptırır.\n       WIFI protokolünü açıklayarak uygulama yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -57,8 +52,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Protokolleri",
       "KONU": "OSI Referans Modeli",
-      "KAZANIM": "Network protokollerini kullanarak ağ topolojisi hazırlar.",
-      "KAZANIM AÇIKLAMASI": "DHCP protokolünü açıklayarak uygulama yaptırır.\n       DNS protokolünü açıklayarak uygulama yaptırır.\n       IPv4-IPv6 protokollerini açıklayarak uygulama yaptırır.\n       TCP protokolünü açıklayarak uygulama yaptırır.\n       UDP protokolünü açıklayarak uygulama yaptırır.\n       ARP protokolünü açıklayarak uygulama yaptırır.\n       ICMP protokolünü açıklayarak uygulama yaptırır.\n       ETHERNET protokolünü açıklayarak uygulama yaptırır.\n       WIFI protokolünü açıklayarak uygulama yaptırır."
+      "KAZANIM": "DHCP protokolünü açıklayarak uygulama yaptırır.\n       DNS protokolünü açıklayarak uygulama yaptırır.\n       IPv4-IPv6 protokollerini açıklayarak uygulama yaptırır.\n       TCP protokolünü açıklayarak uygulama yaptırır.\n       UDP protokolünü açıklayarak uygulama yaptırır.\n       ARP protokolünü açıklayarak uygulama yaptırır.\n       ICMP protokolünü açıklayarak uygulama yaptırır.\n       ETHERNET protokolünü açıklayarak uygulama yaptırır.\n       WIFI protokolünü açıklayarak uygulama yaptırır."
     },
     {
       "AY": "EKIM",
@@ -66,8 +60,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Protokolleri",
       "KONU": "TCPIP Protokol kümesi",
-      "KAZANIM": "Güvenli ağ topolojisi oluşturma yöntemlerini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Aktif güvenlik sistemleri ile güvenli ağ mimarisi uygulaması yaptırır.\n       Pasif güvenlik sistemleri ile güvenli ağ mimarisi uygulaması yaptırır.\n       Aktif ve pasif güvenlik sistemlerinin birlikte kullanıldığı güvenli ağ mimarisi uygulaması yaptırır."
+      "KAZANIM": "Aktif güvenlik sistemleri ile güvenli ağ mimarisi uygulaması yaptırır.\n       Pasif güvenlik sistemleri ile güvenli ağ mimarisi uygulaması yaptırır.\n       Aktif ve pasif güvenlik sistemlerinin birlikte kullanıldığı güvenli ağ mimarisi uygulaması yaptırır."
     },
     {
       "AY": "EKIM",
@@ -75,8 +68,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Protokolleri",
       "KONU": "TCPIP Protokol kümesi",
-      "KAZANIM": "Güvenli ağ topolojisi oluşturma yöntemlerini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Aktif güvenlik sistemleri ile güvenli ağ mimarisi uygulaması yaptırır.\n       Pasif güvenlik sistemleri ile güvenli ağ mimarisi uygulaması yaptırır.\n       Aktif ve pasif güvenlik sistemlerinin birlikte kullanıldığı güvenli ağ mimarisi uygulaması yaptırır.",
+      "KAZANIM": "Aktif güvenlik sistemleri ile güvenli ağ mimarisi uygulaması yaptırır.\n       Pasif güvenlik sistemleri ile güvenli ağ mimarisi uygulaması yaptırır.\n       Aktif ve pasif güvenlik sistemlerinin birlikte kullanıldığı güvenli ağ mimarisi uygulaması yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -85,8 +77,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Yönlendirme",
       "KONU": "Dinamik Yönlendirme",
-      "KAZANIM": "1. Dönem 1. Sınav Yönlendirici arayüzlerine IP adresi atama işlemini uygular.",
-      "KAZANIM AÇIKLAMASI": "Yönlendirici arayüzlerine IP adresi atama işlemini açıklayarak uygulamasını yaptırır.",
+      "KAZANIM": "Yönlendirici arayüzlerine IP adresi atama işlemini açıklayarak uygulamasını yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -95,7 +86,6 @@
       "SAAT": "3",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -104,8 +94,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Yönlendirme",
       "KONU": "Dinamik Yönlendirme",
-      "KAZANIM": "Yönlendirici arayüzlerine IP adresi atama işlemini uygular.",
-      "KAZANIM AÇIKLAMASI": "Yönlendirici arayüzlerine IP adresi atama işlemini açıklayarak uygulamasını yaptırır.",
+      "KAZANIM": "Yönlendirici arayüzlerine IP adresi atama işlemini açıklayarak uygulamasını yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -114,8 +103,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Yönlendirme",
       "KONU": "Statik Yönlendirme",
-      "KAZANIM": "Ağ adreslemesine göre statik yönlendirme yapar.",
-      "KAZANIM AÇIKLAMASI": "Statik yönlendirmeyi açıklayarak uygulamasını yaptırır.\n       Varsayılan rotayı açıklayarak uygulamasını yaptırır.",
+      "KAZANIM": "Statik yönlendirmeyi açıklayarak uygulamasını yaptırır.\n       Varsayılan rotayı açıklayarak uygulamasını yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -124,8 +112,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Yönlendirme",
       "KONU": "Statik Yönlendirme",
-      "KAZANIM": "Ağ adreslemesine göre statik yönlendirme yapar.",
-      "KAZANIM AÇIKLAMASI": "Statik yönlendirmeyi açıklayarak uygulamasını yaptırır.\n       Varsayılan rotayı açıklayarak uygulamasını yaptırır.",
+      "KAZANIM": "Statik yönlendirmeyi açıklayarak uygulamasını yaptırır.\n       Varsayılan rotayı açıklayarak uygulamasını yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -134,8 +121,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Yönlendirme",
       "KONU": "Yönlendirici Arayüzüne IP adresi Atama",
-      "KAZANIM": "İletişim kurallarına göre dinamik yönlendirme yapar.",
-      "KAZANIM AÇIKLAMASI": "Yönergelere göre dinamik yönlendirme protokollerini kullanarak yönlendirme uygulaması yaptırır.",
+      "KAZANIM": "Yönergelere göre dinamik yönlendirme protokollerini kullanarak yönlendirme uygulaması yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -144,8 +130,7 @@
       "SAAT": "3",
       "ÜNİTE": "Ağ Yönlendirme",
       "KONU": "Yönlendirici Arayüzüne IP adresi Atama",
-      "KAZANIM": "İletişim kurallarına göre dinamik yönlendirme yapar.",
-      "KAZANIM AÇIKLAMASI": "Yönergelere göre dinamik yönlendirme protokollerini kullanarak yönlendirme uygulaması yaptırır.",
+      "KAZANIM": "Yönergelere göre dinamik yönlendirme protokollerini kullanarak yönlendirme uygulaması yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -154,8 +139,7 @@
       "SAAT": "3",
       "ÜNİTE": "Güvenlik Cihazı Yapılandırması",
       "KONU": "Güvenlik Duvarı Firewall",
-      "KAZANIM": "IDS ve IPS cihazlarını yapılandırır.",
-      "KAZANIM AÇIKLAMASI": "IDS Intrusion Detection System sistemini açıklayarak uygulama yaptırır.\n       IPS Intrusion Prevention System sistemini açıklayarak uygulama yaptırır.",
+      "KAZANIM": "IDS Intrusion Detection System sistemini açıklayarak uygulama yaptırır.\n       IPS Intrusion Prevention System sistemini açıklayarak uygulama yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
@@ -164,8 +148,7 @@
       "SAAT": "3",
       "ÜNİTE": "Güvenlik Cihazı Yapılandırması",
       "KONU": "Güvenlik sistemleri izleme",
-      "KAZANIM": "Güvenlik Duvarı Firewall cihazını yapılandırır.",
-      "KAZANIM AÇIKLAMASI": "Güvenlik duvarı cihazını açıklayarak uygulama yaptırır."
+      "KAZANIM": "Güvenlik duvarı cihazını açıklayarak uygulama yaptırır."
     },
     {
       "AY": "OCAK",
@@ -173,8 +156,7 @@
       "SAAT": "3",
       "ÜNİTE": "Güvenlik Cihazı Yapılandırması",
       "KONU": "Saldırı Tespit ve Önleme Sistemleri",
-      "KAZANIM": "1. Dönem 2. Sınav Güvenlik sistemlerini izleyen araçları kullanır.",
-      "KAZANIM AÇIKLAMASI": "Açık kaynak güvenlik izleme yazılımlarını açıklar.\n       Güvenlik sistemlerini izleyen açık kaynak yazılımlarla uygulama yaptırır.",
+      "KAZANIM": "Açık kaynak güvenlik izleme yazılımlarını açıklar.\n       Güvenlik sistemlerini izleyen açık kaynak yazılımlarla uygulama yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -182,24 +164,21 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
@@ -207,8 +186,7 @@
       "SAAT": "3",
       "ÜNİTE": "Güvenlik Cihazı Yapılandırması",
       "KONU": "Saldırı Tespit ve Önleme Sistemleri",
-      "KAZANIM": "Güvenlik sistemlerini izleyen araçları kullanır.",
-      "KAZANIM AÇIKLAMASI": "Açık kaynak güvenlik izleme yazılımlarını açıklar.\n       Güvenlik sistemlerini izleyen açık kaynak yazılımlarla uygulama yaptırır."
+      "KAZANIM": "Açık kaynak güvenlik izleme yazılımlarını açıklar.\n       Güvenlik sistemlerini izleyen açık kaynak yazılımlarla uygulama yaptırır."
     },
     {
       "AY": "ŞUBAT",
@@ -216,8 +194,7 @@
       "SAAT": "3",
       "ÜNİTE": "Güvenlik Cihazı Yapılandırması",
       "KONU": "Saldırı Tespit ve Önleme Sistemleri",
-      "KAZANIM": "Güvenlik sistemlerini izleyen araçları kullanır.",
-      "KAZANIM AÇIKLAMASI": "Açık kaynak güvenlik izleme yazılımlarını açıklar.\n       Güvenlik sistemlerini izleyen açık kaynak yazılımlarla uygulama yaptırır."
+      "KAZANIM": "Açık kaynak güvenlik izleme yazılımlarını açıklar.\n       Güvenlik sistemlerini izleyen açık kaynak yazılımlarla uygulama yaptırır."
     },
     {
       "AY": "ŞUBAT",
@@ -225,8 +202,7 @@
       "SAAT": "3",
       "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "Ağ Sanallaştırma",
-      "KAZANIM": "YAZILIM Tabanlı Ağ SDN mimarisini açıklar.",
-      "KAZANIM AÇIKLAMASI": "YAZILIM tabanlı ağ mimarisi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde kontrol düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde veri düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde yönetim düzlemi açıklanır.\n       SDN  mimarisinde kullanılan denetleyiciler açıklanır\n       SDN türleri açıklanır."
+      "KAZANIM": "YAZILIM tabanlı ağ mimarisi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde kontrol düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde veri düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde yönetim düzlemi açıklanır.\n       SDN  mimarisinde kullanılan denetleyiciler açıklanır\n       SDN türleri açıklanır."
     },
     {
       "AY": "ŞUBAT",
@@ -234,8 +210,7 @@
       "SAAT": "3",
       "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "Ağ Sanallaştırma",
-      "KAZANIM": "YAZILIM Tabanlı Ağ SDN mimarisini açıklar.",
-      "KAZANIM AÇIKLAMASI": "YAZILIM tabanlı ağ mimarisi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde kontrol düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde veri düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde yönetim düzlemi açıklanır.\n       SDN  mimarisinde kullanılan denetleyiciler açıklanır\n       SDN türleri açıklanır.",
+      "KAZANIM": "YAZILIM tabanlı ağ mimarisi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde kontrol düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde veri düzlemi açıklanır.\n       YAZILIM tabanlı ağ mimarisinde yönetim düzlemi açıklanır.\n       SDN  mimarisinde kullanılan denetleyiciler açıklanır\n       SDN türleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -244,8 +219,7 @@
       "SAAT": "3",
       "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "Spine-Leaf Teknolojisi",
-      "KAZANIM": "Ağ sanallaştırma teknolojileri uygulamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Ağ sanallaştırma teknolojileri açıklanarak sanallaştırma uygulaması yapılır.",
+      "KAZANIM": "Ağ sanallaştırma teknolojileri açıklanarak sanallaştırma uygulaması yapılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -254,8 +228,7 @@
       "SAAT": "3",
       "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "Spine-Leaf Teknolojisi",
-      "KAZANIM": "Ağ sanallaştırma teknolojileri uygulamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Ağ sanallaştırma teknolojileri açıklanarak sanallaştırma uygulaması yapılır.",
+      "KAZANIM": "Ağ sanallaştırma teknolojileri açıklanarak sanallaştırma uygulaması yapılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -264,7 +237,6 @@
       "SAAT": "3",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -273,8 +245,7 @@
       "SAAT": "3",
       "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "YAZILIM Tabanlı Ağlar",
-      "KAZANIM": "Omurga-Kanat Spine-Leaf topolojisini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Spine-Leaf teknolojisi açıklanır.",
+      "KAZANIM": "Spine-Leaf teknolojisi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -283,8 +254,7 @@
       "SAAT": "3",
       "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "YAZILIM Tabanlı Ağlar",
-      "KAZANIM": "Omurga-Kanat Spine-Leaf topolojisini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Spine-Leaf teknolojisi açıklanır.",
+      "KAZANIM": "Spine-Leaf teknolojisi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -293,8 +263,7 @@
       "SAAT": "3",
       "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "YAZILIM Tabanlı Ağlar",
-      "KAZANIM": "2. Dönem 1. Sınav Omurga-Kanat Spine-Leaf topolojisini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Spine-Leaf teknolojisi açıklanır.",
+      "KAZANIM": "Spine-Leaf teknolojisi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -303,8 +272,7 @@
       "SAAT": "3",
       "ÜNİTE": "YAZILIM Tabanlı Ağ SDN Teknolojisi",
       "KONU": "YAZILIM Tabanlı Ağlar",
-      "KAZANIM": "Omurga-Kanat Spine-Leaf topolojisini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Spine-Leaf teknolojisi açıklanır.",
+      "KAZANIM": "Spine-Leaf teknolojisi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -313,8 +281,7 @@
       "SAAT": "3",
       "ÜNİTE": "Sanal Özel Ağlar VPN",
       "KONU": "VPN",
-      "KAZANIM": "Sanal Özel Ağları açıklar.",
-      "KAZANIM AÇIKLAMASI": "Sanal özel ağlar açıklanır.",
+      "KAZANIM": "Sanal özel ağlar açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -323,8 +290,7 @@
       "SAAT": "3",
       "ÜNİTE": "Sanal Özel Ağlar VPN",
       "KONU": "VPN",
-      "KAZANIM": "Sanal Özel Ağları açıklar.",
-      "KAZANIM AÇIKLAMASI": "Sanal özel ağlar açıklanır.",
+      "KAZANIM": "Sanal özel ağlar açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -333,8 +299,7 @@
       "SAAT": "3",
       "ÜNİTE": "Sanal Özel Ağlar VPN",
       "KONU": "VPN",
-      "KAZANIM": "Sanal Özel Ağları açıklar.",
-      "KAZANIM AÇIKLAMASI": "Sanal özel ağlar açıklanır.",
+      "KAZANIM": "Sanal özel ağlar açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -343,8 +308,7 @@
       "SAAT": "3",
       "ÜNİTE": "Sanal Özel Ağlar VPN",
       "KONU": "VPN",
-      "KAZANIM": "Sanal Özel Ağları açıklar.",
-      "KAZANIM AÇIKLAMASI": "Sanal özel ağlar açıklanır.",
+      "KAZANIM": "Sanal özel ağlar açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -353,8 +317,7 @@
       "SAAT": "3",
       "ÜNİTE": "Sanal Özel Ağlar VPN",
       "KONU": "VPN Türleri",
-      "KAZANIM": "Sanal Özel Ağ türlerini açıklar.",
-      "KAZANIM AÇIKLAMASI": "IPsec vpni açıklayarak uygulamasını yaptırır.\n       Site-to-site vpni açıklayarak uygulamasını yaptırır.",
+      "KAZANIM": "IPsec vpni açıklayarak uygulamasını yaptırır.\n       Site-to-site vpni açıklayarak uygulamasını yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -363,8 +326,7 @@
       "SAAT": "3",
       "ÜNİTE": "Sanal Özel Ağlar VPN",
       "KONU": "VPN Türleri",
-      "KAZANIM": "Sanal Özel Ağ türlerini açıklar.",
-      "KAZANIM AÇIKLAMASI": "IPsec vpni açıklayarak uygulamasını yaptırır.\n       Site-to-site vpni açıklayarak uygulamasını yaptırır.",
+      "KAZANIM": "IPsec vpni açıklayarak uygulamasını yaptırır.\n       Site-to-site vpni açıklayarak uygulamasını yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -373,8 +335,7 @@
       "SAAT": "3",
       "ÜNİTE": "Sanal Özel Ağlar VPN",
       "KONU": "VPN Türleri",
-      "KAZANIM": "2. Dönem 2. Sınav Sanal Özel Ağ türlerini açıklar.",
-      "KAZANIM AÇIKLAMASI": "IPsec vpni açıklayarak uygulamasını yaptırır.\n       Site-to-site vpni açıklayarak uygulamasını yaptırır.",
+      "KAZANIM": "IPsec vpni açıklayarak uygulamasını yaptırır.\n       Site-to-site vpni açıklayarak uygulamasını yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -383,8 +344,7 @@
       "SAAT": "3",
       "ÜNİTE": "Sanal Özel Ağlar VPN",
       "KONU": "VPN Türleri",
-      "KAZANIM": "Sanal Özel Ağ türlerini açıklar.",
-      "KAZANIM AÇIKLAMASI": "IPsec vpni açıklayarak uygulamasını yaptırır.\n       Site-to-site vpni açıklayarak uygulamasını yaptırır.",
+      "KAZANIM": "IPsec vpni açıklayarak uygulamasını yaptırır.\n       Site-to-site vpni açıklayarak uygulamasını yaptırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -393,7 +353,6 @@
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -402,7 +361,6 @@
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

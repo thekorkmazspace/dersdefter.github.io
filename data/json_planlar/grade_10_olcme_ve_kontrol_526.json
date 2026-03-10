@@ -7,7 +7,6 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Kumpasla Ölçüm Yapma\n1. Kumpaslar ve Çeşitleri",
-      "KAZANIM": "Ölçülecek profile ve ölçü büyüklüğüne göre kumpas seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,22 +14,19 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
       "KONU": "2. Kumpasla Çene Hassasiyetinin Kontrolü",
-      "KAZANIM": "Kumpas çene hassasiyetini kontrol eder.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
-      "KONU": "3. Kupmpası Parçaya Göre Konumlandırma",
-      "KAZANIM": "Kumpası parça geometrisine göre konumlandırır."
+      "KONU": "3. Kupmpası Parçaya Göre Konumlandırma"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "4. Tespit Vidası Yardımıyla Hareketli Çenenin Tespiti",
-      "KAZANIM": "Tespit vidası yardımıyla hareketli çeneyi tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,29 +34,25 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "5. Kupmasla Ölçüm Yapma",
-      "KAZANIM": "Kumpastan değer okur.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
-      "KONU": "ÖĞRENME BİRİMİ Mikrometre Ölçüm Yapma\n1. Mikrometreler ve Çeşitleri",
-      "KAZANIM": "Ölçülecek profile ve ölçü büyüklüğüne göre mikrometre seçer."
+      "KONU": "ÖĞRENME BİRİMİ Mikrometre Ölçüm Yapma\n1. Mikrometreler ve Çeşitleri"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
-      "KONU": "2. Mikrometre Örslerinin Temizlik Kontrolü",
-      "KAZANIM": "Mikrometre örslerinin temizlik kontrolünü yapar."
+      "KONU": "2. Mikrometre Örslerinin Temizlik Kontrolü"
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "3. Kontrol Mastarlarıyla Ölçü Hassasiyeti Kontrolü \n\n1.Dönem 1.Sınav",
-      "KAZANIM": "Kontrol mastarlarıyla ölçü hassasiyeti kontrolünü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -68,7 +60,6 @@
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "4. Mikrometre Parçaya Göre Konumlandırma İşlemi",
-      "KAZANIM": "1. Dönem 1. Sınav Mikrometreyi parça geometrisine göre konumlandırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -77,7 +68,6 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -85,7 +75,6 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "5. Tespit Mandalı İle Hareketli Milin Tespiti",
-      "KAZANIM": "Tespit mandalı yardımıyla hareketli mili tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +82,6 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "6. Mikrometre İle Ölçüm Yapma",
-      "KAZANIM": "Mikrometreden değer okur.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +89,6 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Açı Ölçme\n1. Verniyerli Açıölçer ile Ölçüm Yapma",
-      "KAZANIM": "Verniyerli açıölçerlerle ölçüm yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +96,6 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "2. Sinüs Çubuğu ve Ölçü Mastarıyla Ölçüm Yapma",
-      "KAZANIM": "Sinüs çubuğu ve ölçü mastarıyla ölçüm yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -117,7 +103,6 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "3. Silindirik Makaralar ve Bilyeler Yardımıyla Koniklik Açısı Ölçümü",
-      "KAZANIM": "Silindirik makaralar ve bilyeler yardımıyla koniklik açısı ölçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -125,22 +110,19 @@
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "4. Optik Açı Ölçüm Cihazıyla Açı Ölçümü",
-      "KAZANIM": "Optik açı ölçüm cihazıyla açı ölçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
-      "KONU": "ÖĞRENME BİRİMİ Yüzey Pürüzlülüğü Ölçme\n1. Yüzey Profilometresi \n1.Dönem 2.Sınav",
-      "KAZANIM": "Yüzey profilometresi ile yüzey pürüzlülüğünü ölçer."
+      "KONU": "ÖĞRENME BİRİMİ Yüzey Pürüzlülüğü Ölçme\n1. Yüzey Profilometresi \n1.Dönem 2.Sınav"
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "2. Yüzey Profilometresi İle Ölçüm Yapma",
-      "KAZANIM": "1. Dönem 2. Sınav Yüzey profilometresi ile yüzey pürüzlülüğünü ölçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -148,53 +130,46 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
-      "KONU": "3. Yüzey Pürüzlülük Mastarları İle Ölçüm Yapma",
-      "KAZANIM": "Yüzey pürüzlülük mastarlarıyla ölçüm yapar."
+      "KONU": "3. Yüzey Pürüzlülük Mastarları İle Ölçüm Yapma"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
-      "KONU": "ÖĞRENME BİRİMİ Vidaları Ölçme\n1. Vida Türlerinin Belirlenmesi",
-      "KAZANIM": "Kumpas ile vidanın metrik veya withworth vida cinslerinden hangisi olduğunu belirler."
+      "KONU": "ÖĞRENME BİRİMİ Vidaları Ölçme\n1. Vida Türlerinin Belirlenmesi"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "2. Kumpas Veya Mikrometre ile Diş Üstü Çapını Ölçme",
-      "KAZANIM": "Kumpas veya mikrometre ile diş üstü çapını ölçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -202,7 +177,6 @@
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "3. Mikrometreyle Diş Dibi Çapını Ölçme",
-      "KAZANIM": "Mikrometreyle diş dibi çapını ölçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -210,7 +184,6 @@
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "4. Vida Tarağıyla Vida Adımını Ölçme",
-      "KAZANIM": "Vida tarağıyla vida adımını ölçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -219,7 +192,6 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -227,7 +199,6 @@
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Dişli Çarkları Ölçme\n1. Dişlilerde Modül Tahmini",
-      "KAZANIM": "Diş büyüklüğüne göre modül tahmin eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -235,7 +206,6 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "2. Modül Kumpasının Ağız Ayarı",
-      "KAZANIM": "Yapılan tahmine göre modül kumpasının ağzını ayarlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -243,7 +213,6 @@
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "3. Dişli Çark Ölçümleri \n\n2.Dönem 1.Sınav",
-      "KAZANIM": "2. Dönem 1. Sınav Modül kumpasını diş üzerine yerleştirip ölçüm yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -251,7 +220,6 @@
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Mastarlar ve Optik Camlarla Yüzey Kontrolü Yapma\n1. Mastar Türleri ve Mastar Seçimi",
-      "KAZANIM": "Ölçülecek profile göre mastarı seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -259,7 +227,6 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "2. Mastarları Birleştirme",
-      "KAZANIM": "Mastarları birleştirir.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -267,7 +234,6 @@
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "3. Mastarları İş Parçasına Yerleştirme",
-      "KAZANIM": "Mastarları iş parçasına yerleştirir.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -275,7 +241,6 @@
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "4. Mastarlar İle Kontrol İşlemleri",
-      "KAZANIM": "Mastarlar ile kontrol işlemleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -283,7 +248,6 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Şekil Tolerans Kontrolü Yapma \n1. Şekil Konum Kontrol Aracı Seçimi",
-      "KAZANIM": "İmalat resmine bakılarak uygun şekil kontrol aracı seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -291,7 +255,6 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "2. Şekil Konum Kontrolü Yapılacak İş Parçasını Hazırlama",
-      "KAZANIM": "Kontrolü yapılacak iş parçasını hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -299,7 +262,6 @@
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "2. Şekil Konum Kontrolü Yapılacak İş Parçasını Hazırlama",
-      "KAZANIM": "Kontrolü yapılacak iş parçasını hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -307,7 +269,6 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "3. Şekil Konum Kontrolü\n4. Sonucun Kaydedilmesi",
-      "KAZANIM": "2. Dönem 2. Sınav Kontrol işlemi yapar ve sonucu kaydeder.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -315,7 +276,6 @@
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Boyut Tolerans Kontrolü Yapma\n1. Boyut Tolerans Kontrol Aracı Seçimi",
-      "KAZANIM": "İmalat resmine bakarak uygun mastar seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -323,7 +283,6 @@
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
       "KONU": "2. Boyut Tolerans Kontrolü Yapılacak İş Parçasını Hazırlama \n2.Dönem 2.Sınav",
-      "KAZANIM": "Kontrolü yapılacak iş parçasını hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -332,7 +291,6 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

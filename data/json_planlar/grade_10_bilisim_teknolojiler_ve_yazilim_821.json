@@ -8,7 +8,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  1. PYTHON İLE PROGRAMLAMANIN TEMELLERİ",
       "KONU": "1.1. YAZILIM Geliştirme Süreci \n1.2. Neden Python",
-      "KAZANIM": "1.1.1. YAZILIM geliştirme süreci konusunda bilgi sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -17,7 +16,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  2. DEĞERLER VE DEĞİŞKENLER",
       "KONU": "2.1. Tam Sayı ve Diziler",
-      "KAZANIM": "2.1.1. Python programla dilinde değerler ve değişkenler konusunda bilgi sahibi olur\n2.1.2. Veri türlerini tanır.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
@@ -25,8 +23,7 @@
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  2. DEĞERLER VE DEĞİŞKENLER",
-      "KONU": "2.2. Değişkenler ve Atama\n2.3. Reel Sayılar\n2.4. Belirteçler",
-      "KAZANIM": "2.1.3. Farklı değişkenleri kullanan program yazabilir."
+      "KONU": "2.2. Değişkenler ve Atama\n2.3. Reel Sayılar\n2.4. Belirteçler"
     },
     {
       "AY": "EYLÜL",
@@ -34,7 +31,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE 3. İFADELER VE ARİTMETİK İŞLEMLER",
       "KONU": "3.1. Sabit Değerler 3.2. Pythonda Sık Kullanılan Aritmetik İkili Operatörler 3.3. Karışık Türlü İfadeler",
-      "KAZANIM": "3.1.1. Python programlama dilinde kullanılan ifadeler ve aritmetik işlemler konusunda bilgi sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -43,7 +39,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE 3. İFADELER VE ARİTMETİK İŞLEMLER",
       "KONU": "3.4. Operatör Önceliği ve Birleşim 3.5. İfadeleri Biçimlendirme",
-      "KAZANIM": "3.1.2 Operatör işlem önceliği ve birleşim durumlarını açıklayabilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -51,16 +46,14 @@
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE 3. İFADELER VE ARİTMETİK İŞLEMLER",
-      "KONU": "3.6. Yorumlar 3.7. Hatalar",
-      "KAZANIM": "3.1.3 Python dilinde ortaya çıkan hata türlerini kavrar."
+      "KONU": "3.6. Yorumlar 3.7. Hatalar"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  4. KOŞULLU DURUMLAR",
-      "KONU": "4.1. Boolean İfadesi 4.2. Pythonda İlişkisel Operatörler",
-      "KAZANIM": "4.1.1.Program yazma sürecinde kullanılan koşullu durumlar konusunda bilgi sahibi olur."
+      "KONU": "4.1. Boolean İfadesi 4.2. Pythonda İlişkisel Operatörler"
     },
     {
       "AY": "EKIM",
@@ -68,7 +61,6 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 1. DÖNEM 1. SINAV",
       "KONU": "SINAV HAFTASI 1. DÖNEM 1. SINAV",
-      "KAZANIM": "1. DÖNEM 1. SINAV",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -77,7 +69,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  4. KOŞULLU DURUMLAR",
       "KONU": "4.3. if İfadesi 4.4. ifelse İfadesi",
-      "KAZANIM": "1. Dönem 1. Sınav 4.1.1.Program yazma sürecinde kullanılan koşullu durumlar konusunda bilgi sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -86,7 +77,6 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -95,7 +85,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  4. KOŞULLU DURUMLAR",
       "KONU": "4.5. Birleşik Boolean İfadesi 4.6. Pass İfadesi",
-      "KAZANIM": "4.1.1.Program yazma sürecinde kullanılan koşullu durumlar konusunda bilgi sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -104,7 +93,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  4. KOŞULLU DURUMLAR",
       "KONU": "4.7. Kayan Noktalı Eşitlik 4.8. İç İçe Koşul İfadeleri",
-      "KAZANIM": "4.1.2. İç içe koşul durumu ifade etmeyi kavrayacak",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -113,7 +101,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  4. KOŞULLU DURUMLAR",
       "KONU": "4.9. Çok Yönlü Karar İfadeleri  4.10. Çok Yönlü ve Zincirleme Durum İfadeleri 4.11. Koşullu İfadeler  Hatalar",
-      "KAZANIM": "4.1.3. Koşul durumlarında yapılan hatalar konusunda fikir sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -122,7 +109,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  5. DÖNGÜLER",
       "KONU": "5.1. Döngü Yapıları \n5.2. For Döngüsü .",
-      "KAZANIM": "5.1.1. Python dilinde kullanılan döngü yapılarını kavrar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -131,7 +117,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  5. DÖNGÜLER",
       "KONU": "5.3. İç İçe Döngüler \n5.4. İç İçe 3lü Döngü",
-      "KAZANIM": "5.1.2. İç içe döngü yapılarını kullanan program yazabilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -140,7 +125,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  5. DÖNGÜLER",
       "KONU": "5.5. While Döngüsü",
-      "KAZANIM": "5.1.3. While ve for döngülerini içeren programlar geliştirebilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
@@ -148,8 +132,7 @@
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 1. DÖNEM 2. SINAV",
-      "KONU": "SINAV HAFTASI 1. DÖNEM 2. SINAV",
-      "KAZANIM": "1. DÖNEM 2. SINAV"
+      "KONU": "SINAV HAFTASI 1. DÖNEM 2. SINAV"
     },
     {
       "AY": "OCAK",
@@ -157,7 +140,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  5. DÖNGÜLER",
       "KONU": "5.6. Belirli ve Belirsiz Döngüler",
-      "KAZANIM": "1. Dönem 2. Sınav 5.1.4. Döngü yapılarını ve kontrol yapılarını bir arada kullan",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -165,48 +147,42 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  5. DÖNGÜLER",
-      "KONU": "5.7. Döngüden Çıkma Komutları 5.8. Döngü Örnekleri",
-      "KAZANIM": "5.1.5. Döngü yapılarından çıkmak için kullanılan komutları kavrar."
+      "KONU": "5.7. Döngüden Çıkma Komutları 5.8. Döngü Örnekleri"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  6. FONKSİYONLAR 1",
-      "KONU": "6.1. Neden Fonksiyonlar  6.2. Fonksiyon Nedir \n6.3. Fonksiyonlara Giriş",
-      "KAZANIM": "6.1.1. Fonksiyon kullanmanın gerekçelerini söyler."
+      "KONU": "6.1. Neden Fonksiyonlar  6.2. Fonksiyon Nedir \n6.3. Fonksiyonlara Giriş"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  6. FONKSİYONLAR 1",
-      "KONU": "6.4. Fonksiyon ve Modüller 6.5. Yerleşik İşlevler \n6.6. Standart Matematik Fonksiyonları",
-      "KAZANIM": "6.1.2. Python programlama dilinde kullanılan standart fonksiyonları kullanabilir."
+      "KONU": "6.4. Fonksiyon ve Modüller 6.5. Yerleşik İşlevler \n6.6. Standart Matematik Fonksiyonları"
     },
     {
       "AY": "ŞUBAT",
@@ -214,7 +190,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  6. FONKSİYONLAR 1",
       "KONU": "6.7. time Fonksiyonları 6.8. Rastgele Sayılar",
-      "KAZANIM": "6.1.3. Fonksiyon türleri konusunda bilgi sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -223,7 +198,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  7. FONKSİYON YAZMA",
       "KONU": "7.1. Fonksiyon Kavramı 7.2. Fonksiyon Kullanımı Örnekleri 7.3. Değer Gönderme ile İlgili Olası Sorunlar",
-      "KAZANIM": "7.1.1. Fonksiyon tanımla ve çağırma süreçlerini kavrar.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -232,7 +206,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  7. FONKSİYON YAZMA",
       "KONU": "7.4. Çoklu Değer Gönderme Örnekleri 7.5. Yerel Değişken 7.6. Fonksiyon Yazarken Fonksiyon Sıralamasını Belirleme",
-      "KAZANIM": "7.1.2. Fonksiyonlara değer gönderme ve fonksiyonları döndürme süreçlerini uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -241,7 +214,6 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -250,7 +222,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  7. FONKSİYON YAZMA",
       "KONU": "7.7. Parametre Gönderme 7.8. Fonksiyon Yazarken Tanımlayıcı Bilgileri Ekleme 7.9. Fonksiyon Örnekleri",
-      "KAZANIM": "7.1.2. Fonksiyonlara değer gönderme ve fonksiyonları döndürme süreçlerini uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -259,7 +230,6 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 2. DÖNEM 1. SINAV",
       "KONU": "SINAV HAFTASI 2. DÖNEM 1. SINAV",
-      "KAZANIM": "2. DÖNEM 1. SINAV",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -268,7 +238,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  8. FONKSİYONLAR 2",
       "KONU": "8.1. Global Değişkenler 8.2. Örnekler",
-      "KAZANIM": "2. Dönem 1. Sınav 8.1.1. Fonksiyonlarda kullanılan global ve yerel değişkenler hakkında bilgi sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -277,7 +246,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  8. FONKSİYONLAR 2",
       "KONU": "8.2. Örnekler  8.3. Fonksiyonları Tekrar Kullanılabilir Yapma",
-      "KAZANIM": "8.1.1. Fonksiyonlarda kullanılan global ve yerel değişkenler hakkında bilgi sahibi olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -286,7 +254,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  9. NESNELER",
       "KONU": "9.1. Nesne Kavramı 9.2. Nesneleri Kullanmak\n9.3. Dizi Nesneleri",
-      "KAZANIM": "9.1.1. Python dilinde kullanılan nesneler hakkında bilgi sahibi olur. \n9.1.2. Dizi nesneleri kullanabilir",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -295,7 +262,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  9. NESNELER",
       "KONU": "9.4. Dosya Nesneleri",
-      "KAZANIM": "9.1.3. Dosya nesneleri ile dosyalarda veriler üzerinde işlemler yapabilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -304,7 +270,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  9. NESNELER",
       "KONU": "9.5. Turtle Grafik Nesneleri 9.6. Nesne Değişkenliği ve Örtüşme",
-      "KAZANIM": "9.1.4. Grafik nesneleri ile programlar geliştirebileceksini",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -313,7 +278,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  10. LİSTELER",
       "KONU": "10.1. Liste Kavramı 10.2. Liste Oluşturmak\n10.3. List Fonksiyonu ile Tam Sayı Liste Yapmak \n10.4.  Operatörü ile Liste Oluşturma",
-      "KAZANIM": "10.1.1. Listelerin kullanım amacı konusunda bilgi sahibi olur.\n\n10.1.2. Listeleri içeren programları yazabilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -322,7 +286,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  10. LİSTELER",
       "KONU": "10.5. Liste Üyeliği 10.6. Listeye Değer Atama ve Eşitleme 10.7. Listenin Sınırları",
-      "KAZANIM": "10.1.3. Listeler üzerinde işlemler yapabilir",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -331,7 +294,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  10. LİSTELER",
       "KONU": "10.8. Dilimleme 10.9. Listeden Eleman Çıkarma 10.10. Listeler ve Fonksiyonlar",
-      "KAZANIM": "10.1.4. Listeler ve fonksiyonları bir arada kullanan programlar geliştirebilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -340,7 +302,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  10. LİSTELER",
       "KONU": "10.11. Listede Kullanılan Yöntemler 10.12. Çok Boyutlu Listeler",
-      "KAZANIM": "2. Dönem 2. Sınav 10.1.5. Farklı boyutları olan listeleri içeren programları yazabilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -349,7 +310,6 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 2. DÖNEM 2. SINAV",
       "KONU": "SINAV HAFTASI 2. DÖNEM 2. SINAV",
-      "KAZANIM": "2. DÖNEM 2. SINAV",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -358,7 +318,6 @@
       "SAAT": "2",
       "ÜNİTE": "ÜNİTE  10. LİSTELER",
       "KONU": "10.13. Çok Boyutlu Diziler 10.14.  Sembolü 10.15. Liste Oluşturma Tekniklerinin Özeti",
-      "KAZANIM": "10.1.5. Farklı boyutları olan listeleri içeren programları yazabilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -367,7 +326,6 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

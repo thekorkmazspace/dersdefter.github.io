@@ -7,7 +7,6 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "8",
       "KONU": "ÖĞRENME BİRİMİ 1 CNC TORNA İÇİN CAM PROGRAMLAMA \n1.1. 2 Eksen Cam Programıyla Tornalama\n1.1.1. Parçanın Cam Programına Aktarılması Ve Kaydedilmesi\n1.1.2. Cam Programına Aktarılan Parçanın Operasyona Hazırlanması\n1.1.3. Takım Yollarının Oluşturulması Ve Takım Yolu Simülasyonu\n1.1.4. G Kodlarının Oluşturulması Ve Düzenlenmesi \nUygulama 1.1. 2 Eksen Cam Programıyla Tornalama Uygulaması",
-      "KAZANIM": "2 eksen CAM programıyla tornalama yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,22 +14,19 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "8",
       "KONU": "1.2. C Eksen Cam Programıyla Tornalama\n1.2.1. Parçanın Cam Programına Aktarılması Ve Kaydedilmesi\n1.2.2. Cam Programına Aktarılan Parçanın Operasyona Hazırlanması\n1.2.3. Takım Yollarının Oluşturulması Ve Takım Yolu Simülasyonu\n1.2.4. G Kodlarının Oluşturulması Ve Düzenlenmesi \nUygulama 1.4. C Eksen Cam Programıyla Tornalama Uygulaması",
-      "KAZANIM": "C eksen CAM programıyla tornalama yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "8",
-      "KONU": "ÖĞRENME BİRİMİ 2 CNC FREZE İÇİN CAM PROGRAMLAMA \n2. 1. 2 ½ Eksen Cam Programıyla Frezeleme\n2.1.1. Parçanın Cam Programına Aktarılması Ve Kaydedilmesi\n2.1.2. Cam Programına Aktarılan Parçanın Operasyona Hazırlanması",
-      "KAZANIM": "2 ½ eksen CAM programıyla frezeleme yapar."
+      "KONU": "ÖĞRENME BİRİMİ 2 CNC FREZE İÇİN CAM PROGRAMLAMA \n2. 1. 2 ½ Eksen Cam Programıyla Frezeleme\n2.1.1. Parçanın Cam Programına Aktarılması Ve Kaydedilmesi\n2.1.2. Cam Programına Aktarılan Parçanın Operasyona Hazırlanması"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "8",
       "KONU": "2.1.3. Takım Yollarının Oluşturulması Ve Takım Yolu Simülasyonu\n2.1.4. G Kodlarının Oluşturulması Ve Düzenlenmesi \nUygulama 2.1. 2 ½ Eksen Cam Programıyla Frezeleme Uygulaması",
-      "KAZANIM": "3 ½ eksen CAM programıyla frezeleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,29 +34,25 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "8",
       "KONU": "2.2. 3 Eksen Cam Programıyla Frezeleme \n2.2.1. Parçanın Cam Programına Aktarılması Ve Kaydedilmesi\n2.2.2. Cam Programına Aktarılan Parçanın Operasyona Hazırlanması",
-      "KAZANIM": "3 Eksen CAM programıyla frezeleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "8",
-      "KONU": "2.2.3. Takım Yollarının Oluşturulması Ve Takım Yolu Simülasyonu\n2.2.4. G Kodlarının Oluşturulması Ve Düzenlenmesi \nUygulama 2.5. 3 Eksen Cam Programıyla Frezeleme Uygulaması",
-      "KAZANIM": "4 Eksen CAM programıyla frezeleme yapar."
+      "KONU": "2.2.3. Takım Yollarının Oluşturulması Ve Takım Yolu Simülasyonu\n2.2.4. G Kodlarının Oluşturulması Ve Düzenlenmesi \nUygulama 2.5. 3 Eksen Cam Programıyla Frezeleme Uygulaması"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "8",
-      "KONU": "ÖĞRENME BİRİMİ 3 DİK MAÇALI MODELLEME\n3.1. Dik Maçalı Modelleme Resimlerini Cad Ortamında Çizme \n3.2. Dik Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması",
-      "KAZANIM": "Dik maçalı modelleme resimlerini cad ortamında çizer.\nDik maçalı modellemenin CAM programında İşleme operasyonunun oluşturulmasını sağlar."
+      "KONU": "ÖĞRENME BİRİMİ 3 DİK MAÇALI MODELLEME\n3.1. Dik Maçalı Modelleme Resimlerini Cad Ortamında Çizme \n3.2. Dik Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması"
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "8",
       "KONU": "3.3. Dik Maçalı Modelleme Yapma\nUygulama 3.1. Dik Maçalı Modelleme Resimlerini Cad Ortamında Çizme \n\n1.Dönem 1.Sınav",
-      "KAZANIM": "Dik maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -68,7 +60,6 @@
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "8",
       "KONU": "Uygulama 3.2. Dik Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması \nUygulama 3.3. Dik Maçalı Modellemeyi Yapma",
-      "KAZANIM": "1. Dönem 1. Sınav Dik maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -77,7 +68,6 @@
       "SAAT": "8",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -85,7 +75,6 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "8",
       "KONU": "ÖĞRENME BİRİMİ 4 YATIK MAÇALI MODELLEME\n4.1. Yatık Maçalı Modelleme Resimlerini Cad Ortamında Çizme\n4.2. Yatık Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması",
-      "KAZANIM": "CAD ortamında yatık maçalı modelleme resimleri çizer.\nCAM programında yatık maçalı modelleme İşleme operasyonunun oluşturulmasını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +82,6 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "8",
       "KONU": "4.3. Yatık Maçalı Modelleme Yapma\nUygulama 4.1. Yatık Maçalı Modelleme Resimlerini Cad Ortamında Çizme",
-      "KAZANIM": "Yatık maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +89,6 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "8",
       "KONU": "Uygulama 4.2. Yatık Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması\nUygulama 4.3. Yatık Maçalı Modelleme Yapma",
-      "KAZANIM": "Yatık maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +96,6 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "8",
       "KONU": "ÖĞRENME BİRİMİ 5 TOPUK MAÇALI MODELLEME \n5.1. Topuk Maçalı Modelleme Resimlerini Cad Ortamında Çizme \n5.2. Topuk Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması",
-      "KAZANIM": "CAD ortamında topuk maçalı modelleme resimleri çizer.\nCAM programında topuk maçalı modellemenin operasyonunun oluşturulmasını açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -117,7 +103,6 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "8",
       "KONU": "5.3. Topuk Maçalı Modellemeyi Yapma\nUygulama 5.1. Topuk Maçalı Modelleme Resimlerini Cad Ortamında Çizme",
-      "KAZANIM": "Topuk maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -125,22 +110,19 @@
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "8",
       "KONU": "Uygulama 5.2. Topuk Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması\nUygulama 5.3. Topuk Maçalı Modelleme Yapma",
-      "KAZANIM": "Topuk maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "8",
-      "KONU": "ÖĞRENME BİRİMİ 6 ASMA MAÇALI MODELLEME\n6.1. Asma Maçalı Modelleme Resimlerini Cad Ortamında Çizme\n6.2. Asma Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması \n1.Dönem 2.Sınav",
-      "KAZANIM": "CAD ortamında asma maçalı modelleme resimleri çizer.\nCAM programında asma maçalı modellemenin operasyonunun oluşturulmasını açıklar."
+      "KONU": "ÖĞRENME BİRİMİ 6 ASMA MAÇALI MODELLEME\n6.1. Asma Maçalı Modelleme Resimlerini Cad Ortamında Çizme\n6.2. Asma Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması \n1.Dönem 2.Sınav"
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "8",
       "KONU": "6.3. Asma Maçalı Modellemeyi Yapma \nUygulama 6.1. Asma Maçalı Modelleme Resimlerini Cad Ortamında Çizme",
-      "KAZANIM": "1. Dönem 2. Sınav Asma maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -148,53 +130,46 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "8",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "8",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "8",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "8",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "8",
-      "KONU": "Uygulama 6.2. Asma Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması\nUygulama 6.3. Asma Maçalı Modelleme Yapma",
-      "KAZANIM": "Asma maçalı modelleme yapar."
+      "KONU": "Uygulama 6.2. Asma Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması\nUygulama 6.3. Asma Maçalı Modelleme Yapma"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "8",
-      "KONU": "ÖĞRENME BİRİMİ 7 BİRLEŞİK MAÇALI MODELLEME\n7.1. Birleşik Maçalı Modelleme Resimlerini Cad Ortamında Çizme\n7.2. Birleşik Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması",
-      "KAZANIM": "CAD ortamında birleşik maçalı modelleme resimleri çizer.\nCAM programında Birleşik maçalı modellemenin İşleme operasyonunun oluşturulmasını açıklar."
+      "KONU": "ÖĞRENME BİRİMİ 7 BİRLEŞİK MAÇALI MODELLEME\n7.1. Birleşik Maçalı Modelleme Resimlerini Cad Ortamında Çizme\n7.2. Birleşik Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "8",
       "KONU": "7.3. Birleşik Maçalı Modellemeyi Yapma \nUygulama 7.1. Birleşik Maçalı Modelleme Resimlerini Cad Ortamında Çizme",
-      "KAZANIM": "Birleşik maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -202,7 +177,6 @@
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "8",
       "KONU": "Uygulama 7.2. Birleşik Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması \nUygulama 7.3. Birleşik Maçalı Modelleme Yapma",
-      "KAZANIM": "Birleşik maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -210,7 +184,6 @@
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "8",
       "KONU": "ÖĞRENME BİRİMİ 8 TAMAMEN MAÇALARDAN OLUŞAN MODELLEME\n8.1. Tamamen Maçalardan Oluşan Modelleme Resimlerini Cad Ortamında Çizme",
-      "KAZANIM": "CAD ortamında tamamen maçalardan oluşan modelleme resimlerini çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -219,7 +192,6 @@
       "SAAT": "8",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -227,7 +199,6 @@
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "8",
       "KONU": "8.2. Tamamen Maçalardan Oluşan Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması \n8.3. Tamamen Maçalardan Oluşan Modellemeyi Yapma",
-      "KAZANIM": "CAM programında tamamen maçalardan oluşan modellemenin İşleme operasyonunun oluşturulmasını açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -235,7 +206,6 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "8",
       "KONU": "Uygulama 8.1. Tamamen Maçalardan Oluşan Modelleme Resimlerini Cad Ortamında Çizme\nUygulama 8.2. Tamamen Maçalardan Oluşan Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması",
-      "KAZANIM": "Tamamen maçalardan oluşan modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -243,7 +213,6 @@
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "8",
       "KONU": "Uygulama 8.3. Tamamen Maçalardan Oluşan Modellemeyi Yapma  \n\n2.Dönem 1.Sınav",
-      "KAZANIM": "2. Dönem 1. Sınav Tamamen maçalardan oluşan modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -251,7 +220,6 @@
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "8",
       "KONU": "ÖĞRENME BİRİMİ 9 MONTAJ MAÇALI MODELLEME \n9.1. Montaj Maçalı Modelleme Resimlerini Cad Ortamında Çizme",
-      "KAZANIM": "CAD ortamında montaj maçalı modelleme resimleri çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -259,7 +227,6 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "8",
       "KONU": "9.2. Montaj Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması\n9.3. Montaj Maçalı Modellemeyi Yapma",
-      "KAZANIM": "CAM programında montaj maçalı modellemenin işleme operasyonunun oluşturulmasını açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -267,7 +234,6 @@
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "8",
       "KONU": "Uygulama 9.1. Montaj Maçalı Modelleme Resimlerini Cad Ortamında Çizme \nUygulama 9.2. Montaj Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması",
-      "KAZANIM": "Montaj maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -275,7 +241,6 @@
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "8",
       "KONU": "Uygulama 9.3. Montaj Maçalı Modelleme Yapma",
-      "KAZANIM": "Montaj maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -283,7 +248,6 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "8",
       "KONU": "ÖĞRENME BİRİMİ 10 GÖMLEK MAÇALI MODELLEME \n10.1. Gömlek Maçalı Modelleme Resimlerini Cad Ortamında Çizme",
-      "KAZANIM": "CAD ortamında gömlek maçalı modelleme resimleri çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -291,7 +255,6 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "8",
       "KONU": "10.2. Gömlek Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması\n10.3. Gömlek Maçalı Modellemeyi Yapma",
-      "KAZANIM": "CAM programında gömlek maçalı modellemenin işleme operasyonunun oluşturulmasını açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -299,7 +262,6 @@
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "8",
       "KONU": "Uygulama 10.1. Gömlek Maçalı Modelleme Resimlerini Cad Ortamında Çizme \nUygulama 10.2. Gömlek Maçalı Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması",
-      "KAZANIM": "Gömlek maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -307,7 +269,6 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "8",
       "KONU": "Uygulama 10.3. Gömlek Maçalı Modelleme Yapma",
-      "KAZANIM": "2. Dönem 2. Sınav Gömlek maçalı modelleme yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -315,7 +276,6 @@
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "8",
       "KONU": "ÖĞRENME BİRİMİ 11 HELİS VE PERVANE MODELLEMERİ \n11.1. Helis Ve Pervane Modelleme Resimlerini Cad Ortamında Çizme \n11.2. Helis Ve Pervane Modellemenin Cam Programında İşleme Operasyonunun Oluşturulması",
-      "KAZANIM": "CAD ortamında helis ve pervane modelleme resimleri çizer.\nCAM programında helis ve pervane modellemenin işleme operasyonunun oluşturulmasını açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -323,7 +283,6 @@
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "8",
       "KONU": "11.3. Helis Ve Pervane Modellemelerini Yapma \nUygulama 11.1. Helis Ve Pervane Modelleme Resimlerini Cad Ortamında Çizme \n2.Dönem 2.Sınav",
-      "KAZANIM": "Operasyonunun oluşturulmasını açıklar. \nHelis ve pervane modellemeleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -332,7 +291,6 @@
       "SAAT": "8",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

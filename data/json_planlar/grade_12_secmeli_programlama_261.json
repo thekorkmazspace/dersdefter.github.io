@@ -7,7 +7,6 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "3",
       "KONU": "1.ÖĞRENME BİRİMİ  BLOK TABANLI PROGRAMLAMA\n1.1. BLOK TABANLI PROGRAMLAMA ORTAMI\n1.1.1. Kurulum \nDEMOKRASİNİN  ÖNEMİ",
-      "KAZANIM": "Blok tabanlı programlama aracında sunulan bir programın işlevlerini\naçıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,22 +14,19 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "3",
       "KONU": "1.1.2. Hesap Oluşturma",
-      "KAZANIM": "Blok tabanlı programlama aracında sunulan bir programın işlevlerini\naçıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "3",
-      "KONU": "1.1.3. Blok Tabanlı Programlama Yazılımı Arayüzü",
-      "KAZANIM": "Blok tabanlı programlama aracında sunulan bir programın işlevlerini\naçıklar."
+      "KONU": "1.1.3. Blok Tabanlı Programlama Yazılımı Arayüzü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "3",
       "KONU": "1.2. TEMEL ALGORİTMALAR",
-      "KAZANIM": "Blok tabanlı programlama aracında uygun teknikleri kullanarak temel algoritmalar planlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,29 +34,25 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "3",
       "KONU": "1.2. TEMEL ALGORİTMALAR",
-      "KAZANIM": "Blok tabanlı programlama aracında uygun teknikleri kullanarak temel algoritmalar planlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "3",
-      "KONU": "1.3. HATA AYIKLAMA",
-      "KAZANIM": "Blok tabanlı programlama aracında sunulan bir programın hatalarını ayıklar."
+      "KONU": "1.3. HATA AYIKLAMA"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "3",
-      "KONU": "1.4. PROGRAMI GELİŞTİRME \nATATÜRKÜN CUMHURİYETÇİLİK İLKESİ",
-      "KAZANIM": "Blok tabanlı programlama aracında sunulan bir programı verilen ölçütlere göre geliştirerek düzenler."
+      "KONU": "1.4. PROGRAMI GELİŞTİRME \nATATÜRKÜN CUMHURİYETÇİLİK İLKESİ"
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "3",
       "KONU": "1.5. KARAR YAPILARI",
-      "KAZANIM": "Bir algoritmayı uyarlamak için en uygun karar yapılarını seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -68,7 +60,6 @@
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "3",
       "KONU": "1.5. KARAR YAPILARI \n1.DÖNEM 1.SINAV",
-      "KAZANIM": "1. Dönem 1. Sınav Bir algoritmayı uyarlamak için en uygun karar yapılarını seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -77,7 +68,6 @@
       "SAAT": "3",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -85,7 +75,6 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "3",
       "KONU": "1.6. PROJE OLUŞTURMA",
-      "KAZANIM": "Tüm programlama yapılarını içeren özgün bir proje oluşturur.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +82,6 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "3",
       "KONU": "1.6. PROJE OLUŞTURMA",
-      "KAZANIM": "Tüm programlama yapılarını içeren özgün bir proje oluşturur.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +89,6 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "3",
       "KONU": "1.6. PROJE OLUŞTURMA",
-      "KAZANIM": "Tüm programlama yapılarını içeren özgün bir proje oluşturur.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +96,6 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "3",
       "KONU": "2.ÖĞRENME BİRİMİ  NESNELERİN İNTERNETİ \n2.1. DEVRE ELEMANLARI\n2.1.1. KONDANSATÖR \n2.1.2. DİRENÇ",
-      "KAZANIM": "Devre elemanlarının görevlerini açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -117,7 +103,6 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "3",
       "KONU": "2.1.3. BOBİN\n2.1.4. DİYOT",
-      "KAZANIM": "Devre elemanlarının görevlerini açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -125,22 +110,19 @@
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "3",
       "KONU": "2.1.5 MİKROÇİP\n2.1.6. TRANSİSTÖR",
-      "KAZANIM": "Devre elemanlarının görevlerini açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "3",
-      "KONU": "2.2.BLOK TEMELLİ PROGRAMLAMA ARAÇLARI\n1.DÖNEM 2.SINAV",
-      "KAZANIM": "Blok temelli programlama araçlarıyla uygulamalar yapar."
+      "KONU": "2.2.BLOK TEMELLİ PROGRAMLAMA ARAÇLARI\n1.DÖNEM 2.SINAV"
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "3",
       "KONU": "2.2.BLOK TEMELLİ PROGRAMLAMA ARAÇLARI",
-      "KAZANIM": "1. Dönem 2. Sınav Blok temelli programlama araçlarıyla uygulamalar yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -148,52 +130,45 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "3",
-      "KONU": "2.3 NESNELERİN İNTERNETİNDE PROGRAMLAMA\n2.3.1. Veri İşleme Süreçleri",
-      "KAZANIM": "Programlama dili ile nesnelerin interneti için program yazar"
+      "KONU": "2.3 NESNELERİN İNTERNETİNDE PROGRAMLAMA\n2.3.1. Veri İşleme Süreçleri"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "3",
-      "KONU": "2.3 NESNELERİN İNTERNETİNDE PROGRAMLAMA\n2.3.1. Veri İşleme Süreçleri",
-      "KAZANIM": "Programlama dili ile nesnelerin interneti için program yazar"
+      "KONU": "2.3 NESNELERİN İNTERNETİNDE PROGRAMLAMA\n2.3.1. Veri İşleme Süreçleri"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "3",
-      "KONU": "2.4. MİKRODENETLEYİCİ KART YAPISI VE ARAYÜZÜ",
-      "KAZANIM": "Mikrodenetleyici kart donanımı üzerinde YAZILIM dilini kullanır"
+      "KONU": "2.4. MİKRODENETLEYİCİ KART YAPISI VE ARAYÜZÜ"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "3",
       "KONU": "2.5 SİMÜLASYON ARACI",
-      "KAZANIM": "Simülasyon aracı Packet Tracer kullanarak bir sistem tasarlar",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -201,7 +176,6 @@
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "3",
       "KONU": "3.ÖĞRENME BİRİMİ  OYUN PROGRAMLAMA\n3.1. OYUN PROGRAMLAMA TEMELLERİ\n3.1.1. Oyun Kavramı",
-      "KAZANIM": "Temel kodlama ve kullanıcı etkileşim işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -209,7 +183,6 @@
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "3",
       "KONU": "3.1.2 Oyun Geliştirmek için Temel Kavramlar",
-      "KAZANIM": "Temel kodlama ve kullanıcı etkileşim işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -218,7 +191,6 @@
       "SAAT": "3",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -226,7 +198,6 @@
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "3",
       "KONU": "3.2 KARAKTER VE ÇEVRE DÜZENLEME\n3.2.1.Sahne Düzenleme",
-      "KAZANIM": "Karakter ve çevre düzenlemelerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -234,7 +205,6 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "3",
       "KONU": "3.2.2.Sahneye Nesne Ekleme\nAtatürkün Vatan ve Millet Sevgisi",
-      "KAZANIM": "Karakter ve çevre düzenlemelerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -242,7 +212,6 @@
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "3",
       "KONU": "3.2.3. Sahneyi Ön İzleme\n3.2.4. Oyunu Kaydetme",
-      "KAZANIM": "2. Dönem 1. Sınav Karakter ve çevre düzenlemelerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -250,7 +219,6 @@
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "3",
       "KONU": "3.2.5. Sahne Arka Plan Rengini Değiştirme \n3.2.6. Nesneye Davranış Ekleme \n2.Dönem 1.Sınav",
-      "KAZANIM": "Karakter ve çevre düzenlemelerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -258,7 +226,6 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "3",
       "KONU": "3.3. ANİMASYON VE SİMULASYON\n3.3.1. Olaylar",
-      "KAZANIM": "Animasyon ve simülasyon işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -266,7 +233,6 @@
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "3",
       "KONU": "3.3.1. Olaylar",
-      "KAZANIM": "Animasyon ve simülasyon işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -274,7 +240,6 @@
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "3",
       "KONU": "3.3.2. Nesnelerle Animasyon Ekleme",
-      "KAZANIM": "Animasyon ve simülasyon işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -282,7 +247,6 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "3",
       "KONU": "3.3.3. Menü Ekleme",
-      "KAZANIM": "Animasyon ve simülasyon işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -290,7 +254,6 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "3",
       "KONU": "3.3.4. Ses ve Müzik Ekleme",
-      "KAZANIM": "Animasyon ve simülasyon işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -298,7 +261,6 @@
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "3",
       "KONU": "3.3.5. Temel Oyun Mekanikleri",
-      "KAZANIM": "Animasyon ve simülasyon işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -306,7 +268,6 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "3",
       "KONU": "3.4. TEST VE YAYINLAMA\n3.4.1. Örnek Platform Oyunu Yapımı \n2.Dönem 2.Sınav",
-      "KAZANIM": "2. Dönem 2. Sınav Oluşturulan oyunu testinden sonra yayınlar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -314,7 +275,6 @@
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "3",
       "KONU": "3.4.1. Örnek Platform Oyunu Yapımı",
-      "KAZANIM": "Oluşturulan oyunu testinden sonra yayınlar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -322,7 +282,6 @@
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "3",
       "KONU": "3.4.2. Oyunu Test Etme\n3.4.3. Oyunu Yayınlamam",
-      "KAZANIM": "Oluşturulan oyunu testinden sonra yayınlar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -331,7 +290,6 @@
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

@@ -7,7 +7,6 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.5. İstiklâl Marşını anlamına uygun söyler. Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,22 +14,19 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.5. İstiklâl Marşını anlamına uygun söyler.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "1",
-      "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.1. Ses ve nefes çalışmaları yapar."
+      "ÜNİTE": "Dinleme Söyleme"
     },
     {
       "AY": "EKİM",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.1. Ses ve nefes çalışmaları yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,29 +34,25 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "1",
       "ÜNİTE": "Müziksel Algı ve Bilgilenme",
-      "KAZANIM": "Mü.2.B.1. Doğada duyduğu sesleri gürlük\nözelliklerine göre farklı ses kaynakları kullanarak canlandırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
       "AY": "EKİM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "1",
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
-      "KAZANIM": "Mü.2.B.2. Dağarcığındaki müzikleri anlamlarına uygun hız ve gürlükte söyler."
+      "ÜNİTE": "Müziksel Algı ve Bilgilenme"
     },
     {
       "AY": "EKİM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "1",
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
-      "KAZANIM": "Mü.2.B.5. Duyduğu ince ve kalın sesleri ayırt eder."
+      "ÜNİTE": "Müziksel Algı ve Bilgilenme"
     },
     {
       "AY": "EKİM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "1",
       "ÜNİTE": "Dinleme\nSöylemeDinleme SöylemeDinleme Söyleme",
-      "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik etkinliklerine katılır.Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik etkinliklerine katılır.Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -68,7 +60,6 @@
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.3. Öğrendiği müzikleri birlikte seslendirir.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -77,7 +68,6 @@
       "SAAT": "1",
       "ÜNİTE": "Ara Tatil",
       "KONU": "Ara Tatil",
-      "KAZANIM": "Ara Tatil",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -85,7 +75,6 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +82,6 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "1",
       "ÜNİTE": "Müziksel Algı ve Bilgilenme",
-      "KAZANIM": "Mü.2.B.4. Konuşmalarında uzun ve kısa heceleri ayırt eder",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +89,6 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "1",
       "ÜNİTE": "Müziksel Algı ve Bilgilenme",
-      "KAZANIM": "Mü.2.B.4. Konuşmalarında uzun ve kısa heceleri ayırt eder",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +96,6 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "1",
       "ÜNİTE": "Müziksel Algı ve Bilgilenme",
-      "KAZANIM": "Mü.2.B.3. Çevresinde kullanılan çalgıları tanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -117,7 +103,6 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -125,74 +110,64 @@
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "1",
       "ÜNİTE": "Müziksel Algı ve Bilgilenme",
-      "KAZANIM": "Mü.2.B.3. Çevresinde kullanılan çalgıları tanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "1",
-      "ÜNİTE": "Müziksel Algı ve BilgilenmeMüziksel Algı ve Bilgilenme",
-      "KAZANIM": "Mü.2.B.3. Çevresinde kullanılan çalgıları tanır.Mü.2.B.3. Çevresinde kullanılan çalgıları tanır."
+      "ÜNİTE": "Müziksel Algı ve BilgilenmeMüziksel Algı ve Bilgilenme"
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.2. Vücudunu ritim çalgısı gibi kullanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "1",
-      "ÜNİTE": "Dinleme\nSöylemeDinleme Söyleme",
-      "KAZANIM": "Mü.2.A.2. Vücudunu ritim çalgısı gibi kullanır.Mü.2.A.2.\nVücudunu ritim çalgısı gibi kullanır."
+      "ÜNİTE": "Dinleme\nSöylemeDinleme Söyleme"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "1",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "1",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "1",
-      "ÜNİTE": "Müziksel Yaratıcılık",
-      "KAZANIM": "Mü.2.C.2. Oyun müziklerine özgün hareketlerle eşlik eder."
+      "ÜNİTE": "Müziksel Yaratıcılık"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "1",
-      "ÜNİTE": "Müziksel Yaratıcılık",
-      "KAZANIM": "Mü.2.C.2. Oyun müziklerine özgün hareketlerle eşlik eder."
+      "ÜNİTE": "Müziksel Yaratıcılık"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "1",
-      "ÜNİTE": "Müzik Kültürü",
-      "KAZANIM": "Mü.2.D.1. Ortama uygun müzik dinleme ve yapma davranışları sergiler."
+      "ÜNİTE": "Müzik Kültürü"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "1",
       "ÜNİTE": "Müzik Kültürü",
-      "KAZANIM": "Mü.2.D.1. Ortama uygun müzik dinleme ve yapma davranışları sergiler.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -200,7 +175,6 @@
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -208,7 +182,6 @@
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "1",
       "ÜNİTE": "Müziksel Yaratıcılık",
-      "KAZANIM": "Mü.2.C.1. Dinlediği öyküdeki olayları farklı materyaller kullanarak canlandırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -217,7 +190,6 @@
       "SAAT": "1",
       "ÜNİTE": "Ara Tatil",
       "KONU": "Ara Tatil",
-      "KAZANIM": "Ara Tatil",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -225,7 +197,6 @@
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "1",
       "ÜNİTE": "Müziksel Yaratıcılık",
-      "KAZANIM": "Mü.2.C.1. Dinlediği öyküdeki olayları farklı materyaller kullanarak canlandırır.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -233,7 +204,6 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "1",
       "ÜNİTE": "Müzik Kültürü",
-      "KAZANIM": "Mü.2.D.2. Farklı türlerdeki müzikleri dinleyerek müzik beğeni ve kültürünü\ngeliştirir.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -241,7 +211,6 @@
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "1",
       "ÜNİTE": "Müzik Kültürü",
-      "KAZANIM": "Mü.2.D.2. Farklı türlerdeki müzikleri dinleyerek müzik beğeni ve kültürünü\ngeliştirir.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -249,7 +218,6 @@
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.6. Millî dinî ve manevi günler ile ilgili müzikler dinler.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -257,7 +225,6 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.6. Millî dinî ve manevi günler ile ilgili müzikler dinler. Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik etkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -265,7 +232,6 @@
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -273,7 +239,6 @@
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -281,7 +246,6 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.6. Millî dinî ve manevi günler ile ilgili müzikler dinler.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -289,7 +253,6 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "1",
       "ÜNİTE": "Müzik Kültürü",
-      "KAZANIM": "Mü.2.D.3. Okuldaki müzik etkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -297,7 +260,6 @@
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "1",
       "ÜNİTE": "Müzik Kültürü",
-      "KAZANIM": "Mü.2.D.3. Okuldaki müzik etkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -305,7 +267,6 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "1",
       "ÜNİTE": "Müzik Kültürü",
-      "KAZANIM": "Mü.2.D.4. Çevresindeki müzik etkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -313,7 +274,6 @@
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -321,7 +281,6 @@
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "1",
       "ÜNİTE": "Dinleme Söyleme",
-      "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -330,7 +289,6 @@
       "SAAT": "1",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

@@ -7,7 +7,6 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "11",
       "KONU": "Öğrenme Birimi ABAJUR YAPIM TEKNİKLERİ\n1.1. Abajurun Tanımı Dekorasyondaki Yeri ve Önemi\n1.2. Abajur Çeşitleri\n1.2.1. Kullanılacağı Mekâna Göre Abajurlar\n1.2.2. Konulduğu Yere Göre Abajurlar\n1.2.3. Kullanılan Malzemeye Göre Abajurlar",
-      "KAZANIM": "Ürün ölçülendirmesi yapar.\nAbajur yapımına uygun model tasarımı yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,22 +14,19 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "11",
       "KONU": "1.3. Abajur Yapımı\n1.3.1. Ürün Ölçülendirme\n1.3.2. Model Tasarımı\n1.3.3. Abajur Yapımında Kullanılan Araç Gereçler\n1.3.4. Abajur Yapım Teknikleri\n1.3.5. Dikiş Teknikleri",
-      "KAZANIM": "Abajur yapımında kullanılacak teknikleri uygular.\nAbajur yapımında kullanılacak dikiş tekniklerini uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "11",
-      "KONU": "1.3.6. Birleştirme Teknikleri\n1.3.7. Abajur Süsleme Teknikleri\n1.3.8. Kalite Kontrol Yöntemleri\nUYGULAMA 1-2-3",
-      "KAZANIM": "Modele uygun birleştirme tekniklerini uygular. \nAbajur yapımında kullanılacak süsleme tekniklerini uygular.\nKalite kontrolü yapar."
+      "KONU": "1.3.6. Birleştirme Teknikleri\n1.3.7. Abajur Süsleme Teknikleri\n1.3.8. Kalite Kontrol Yöntemleri\nUYGULAMA 1-2-3"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "11",
       "KONU": "Öğrenme Birimi TAŞ BOYAMA SANATI\n2.1. Taş Boyama Sanatı\n2.2. Taş Boyama Sanatının El Sanatlarındaki Yeri\n2.3. Taş Boyama Sanatında Kullanılan Araç Gereçler\n2.3.1. Geniş Yassı ya da Yuvarlak Taşlar\n2.3.2. Akrilik Boya",
-      "KAZANIM": "Taş boyama tekniğine uygun desen çizimi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,29 +34,25 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "11",
       "KONU": "2.3.3. Fırça\n2.3.4. Kurşun Kalem ve Silgi\n2.3.5. Asetat Kalem\n2.3.6. Çizim Kâğıdı\n2.3.7. Sürülebilir veya Sprey Püskürtülen Vernik\n2.3.8. Yardımcı Gereçler",
-      "KAZANIM": "Taş boyama tekniklerine uygun realist ya da stilize deseni taş üzerine çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "11",
-      "KONU": "2.4. Taş Boyama Yapımı\n2.4.1. Desen Tasarım\n2.4.2. Araç Gereç Seçimi\n2.4.3. Hazırlık Aşaması\n2.4.4. Model Üzerinde Desen Çizimi",
-      "KAZANIM": "Taş üzerine çizilen desen üzerinde boyama tekniklerini uygular."
+      "KONU": "2.4. Taş Boyama Yapımı\n2.4.1. Desen Tasarım\n2.4.2. Araç Gereç Seçimi\n2.4.3. Hazırlık Aşaması\n2.4.4. Model Üzerinde Desen Çizimi"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "11",
-      "KONU": "2.4.5. Boyama\n2.4.6. Cilalama\n2.4.7. Yardımcı Gereçlerin Seçimi\n2.4.8. Taş Boyama İşleminde Dikkat Edilecek Noktalar\nUYGULAMA 1-2",
-      "KAZANIM": "Boya işlemi bitmiş olan taşı cilalar."
+      "KONU": "2.4.5. Boyama\n2.4.6. Cilalama\n2.4.7. Yardımcı Gereçlerin Seçimi\n2.4.8. Taş Boyama İşleminde Dikkat Edilecek Noktalar\nUYGULAMA 1-2"
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "11",
       "KONU": "Öğrenme Birimi CANLI ÇİÇEK TANZİMİ\n3.1. Canlı Çiçek Çeşitleri\n3.2. Çiçeklerin Bakımı ve Korunması\n3.3. Canlı Çiçek Tanzimi\n3.4. Çiçek Tanziminde Bilinmesi Gereken İlkeler \n\n1.Dönem 1.Sınav",
-      "KAZANIM": "Canlı çiçek tanzimi yaparken kullanılacak tanzim kabı modellerini tanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -68,7 +60,6 @@
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "11",
       "KONU": "3.5. Çiçek Tanzim Şekilleri\n3.5.1. Hat Şeklinde Tanzim\n3.5.2. Kütle Şeklinde Tanzim\n3.5.3. Çiçek Buketi\n3.5.4. Teraryum\n3.6. Canlı Çiçek Tanzimi Model Tasarımı",
-      "KAZANIM": "1. Dönem 1. Sınav Canlı çiçek tanzimi yaparken kullanılacak çiçek modellerini tanır. \nCanlı çiçek tanzimi için model tasarımını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -77,7 +68,6 @@
       "SAAT": "11",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -85,7 +75,6 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "11",
       "KONU": "3.7. Canlı Çiçek Tanzimi Yapımında Kullanılan Araç Gereçler\n3.8. Canlı Çiçek Tanzimi Yapımında Kullanılan Yardımcı Gereçler\n3.9. Canlı Çiçek Tanzim Kapları\nUYGULAMA 1-2-3",
-      "KAZANIM": "Tanzim yaparken kullanacağı yardımcı gereci seçer.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +82,6 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "11",
       "KONU": "Öğrenme Birimi DEKORATİF TABLO YAPIMI \n4.1. Dekoratif Tablo\n4.2. Dekoratif Tablonun Dekorasyondaki Yeri ve Önemi\n4.3. Kâğıt Rölyef Tablo Yapım Teknikleri\n4.4. Kâğıt Rölyef Tabloda Kullanılan Araç Gereçler",
-      "KAZANIM": "Ürün ölçülendirmesi yapar.\nDekoratif tablo yapım tekniklerini uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +89,6 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "11",
       "KONU": "4.5. Ürün Ölçülendirme\n4.6. Dekoratif Tablo Yapımında Model Tasarımı\n4.7. Hazırlanan Materyallerin Kesim Teknikleri\n4.8. Kesilmiş Materyallerin Birleştirilmesi",
-      "KAZANIM": "Dekoratif tablo yapımında model tasarımı yapar.\nDekoratif tablo yapımında hazırlanan materyalleri keser.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +96,6 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "11",
       "KONU": "4.9. Dekoratif Tablonun Ürün Hâline Dönüştürülmesi\n4.10. Kâğıt Rölyef Tablo Yapımında Dikkat Edilecek Noktalar\nUYGULAMA 1-2",
-      "KAZANIM": "Kesilen materyalleri birleştirir.\nHazırlanan materyalleri tablo haline getirir.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -117,7 +103,6 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "11",
       "KONU": "Öğrenme Birimi DEKORATİF ÇİÇEK YAPIMI VE DÜZENLEME\n5.1. Yapım Tekniklerine Göre Çiçekler\n5.2. Dekoratif Çiçeğin Dekorasyondaki Yeri ve Önemi\n5.3. Dekoratif Çiçek Çeşitleri",
-      "KAZANIM": "Dekoratif çiçek tanziminde kullanılacak araç gereçleri hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -125,22 +110,19 @@
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "11",
       "KONU": "5.4. Dekoratif Çiçek Yapımında Kullanılan Kumaşlar\n5.5. Dekoratif Çiçek Yapımında Kullanılan Araç Gereçler\n5.6. Dekoratif Çiçek Kalıbı Hazırlama ve Kumaşa Uygulama Teknikleri",
-      "KAZANIM": "Dekoratif çiçek yapımında kullanılacak teknikleri uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "11",
-      "KONU": "5.7. Dekoratif Çiçek Boyama Teknikleri\n5.7.1. Boya Hazırlama\n5.7.2. Islatma Banyosu\n5.8. Dekoratif Çiçek Dal Yapım Teknikleri \n1.Dönem 2.Sınav",
-      "KAZANIM": "Çiçeğe uygun boyama tekniğini uygular.\nÇiçeğe tekniğe uygun dal yapar."
+      "KONU": "5.7. Dekoratif Çiçek Boyama Teknikleri\n5.7.1. Boya Hazırlama\n5.7.2. Islatma Banyosu\n5.8. Dekoratif Çiçek Dal Yapım Teknikleri \n1.Dönem 2.Sınav"
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "11",
       "KONU": "5.9. Dekoratif Çiçek Toplama Yöntemleri\n5.10. Dekoratif Çiçek Tanzimi\nUYGULAMA 1-2-3-4",
-      "KAZANIM": "1. Dönem 2. Sınav Çiçeği tekniğe uygun toplar.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -148,52 +130,45 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "11",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "11",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "11",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "11",
-      "KONU": "Öğrenme Birimi HAZIR GEREÇLERLE AKSESUAR YAPIMI\n6.1. Aksesuar\n6.2. Takının El Sanatlarındaki Yeri\n6.3. Aksesuarların Giyim Süslemesindeki Yeri ve Önemi",
-      "KAZANIM": "Hazır gereçlerle yapılan aksesuarın model tasarımını yapar."
+      "KONU": "Öğrenme Birimi HAZIR GEREÇLERLE AKSESUAR YAPIMI\n6.1. Aksesuar\n6.2. Takının El Sanatlarındaki Yeri\n6.3. Aksesuarların Giyim Süslemesindeki Yeri ve Önemi"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "11",
-      "KONU": "6.4. Hazır Gereçlerle Aksesuar Model Tasarımı\n6.5. Hazır Gereçlerle Aksesuar Yapımında Kullanılan Araçlar\n6.6. Hazır Gereçlerle Aksesuar Yapımında Kullanılan Gereçler\n6.7. Hazır Gereçlerle Aksesuar Yapım Teknikleri",
-      "KAZANIM": "Hazır gereçlerle yapılan aksesuarları tekniğe uygun hazırlar."
+      "KONU": "6.4. Hazır Gereçlerle Aksesuar Model Tasarımı\n6.5. Hazır Gereçlerle Aksesuar Yapımında Kullanılan Araçlar\n6.6. Hazır Gereçlerle Aksesuar Yapımında Kullanılan Gereçler\n6.7. Hazır Gereçlerle Aksesuar Yapım Teknikleri"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "11",
-      "KONU": "6.7.1. Çivili Takılar\n6.7.2. Hazır Telli Takılar \n6.7.3. Misinalı Takılar\n6.7.4. Örme Takılar",
-      "KAZANIM": "Hazır gereçlerle yapılan aksesuarları tekniğe uygun hazırlar."
+      "KONU": "6.7.1. Çivili Takılar\n6.7.2. Hazır Telli Takılar \n6.7.3. Misinalı Takılar\n6.7.4. Örme Takılar"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "11",
       "KONU": "6.7.5. Makrome ve Düğümlü Takılar\n6.7.6. Hazır Gereçleri Misina veya İpe Dizerek Yapılan Takılar\n6.8. Ürün Üzerinde Son Kontrol Yöntemleri\nUYGULAMA 1-2-3-4",
-      "KAZANIM": "Ürün üzerinde son kontrolü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -201,7 +176,6 @@
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "11",
       "KONU": "Öğrenme Birimi ŞAPKA YAPIMI\n7.1. Şapkanın Tanımı ve Önemi\n7.2. Şapka Çeşitleri\n7.3. Model Seçimini Etkileyen Unsurlar",
-      "KAZANIM": "Ürün ölçülendirmesi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -209,7 +183,6 @@
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "11",
       "KONU": "7.4. Şapka Yapımı\n7.4.1. Kullanılan Araç Gereçler\n7.4.2. Ürün Ölçülendirme\n7.4.3. Şapka Modeline Uygun Kalıp Çıkarma Teknikleri ve Model Föyü\n7.4.4. Kalıbı Kumaşa Uygulama Yöntemleri",
-      "KAZANIM": "Şapka modeline uygun kalıp çıkarır.\nKalıbı kumaşa uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -218,7 +191,6 @@
       "SAAT": "11",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -226,7 +198,6 @@
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "11",
       "KONU": "7.4.5. Birleştirme Yöntemleri\n7.4.6. Süsleme Teknikleri\n7.4.7. Kalite Kontrol Yöntemleri\nUYGULAMA 1-2-3",
-      "KAZANIM": "Birleştirme yöntemlerini uygular.\nSüsleme tekniklerini uygular.\nKalite kontrolü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -234,7 +205,6 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "11",
       "KONU": "Öğrenme Birimi ÇANTA YAPIMI\n8.1. Çantanın Tanımı ve Önemi\n8.2. Çanta Çeşitleri\n8.2.1. Yaşa Göre Çanta Çeşitleri \nAtatürkün vatan ve millet sevgisi \n2.Dönem 1.Sınav",
-      "KAZANIM": "Ürün ölçülendirmesi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -242,7 +212,6 @@
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "11",
       "KONU": "8.2.2. Kullanım Yerine Göre Çanta Çeşitleri\n8.2.3. Kullanılan Gerece Göre Çanta Çeşitleri\n8.2.4. Yapım Tekniğine Göre Çanta Çeşitleri\n8.3. Model Seçimini Etkileyen Unsurlar",
-      "KAZANIM": "2. Dönem 1. Sınav Çanta model tasarımı yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -250,7 +219,6 @@
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "11",
       "KONU": "8.4. Çanta Yapımında Kullanılan Gereçler\n8.4.1. Çanta Yapımında Kullanılan Kumaşlar\n8.4.2. Astar Kumaşlar\n8.4.3. Kumaş Sertleştirme Gereçleri",
-      "KAZANIM": "Çanta modeline uygun araç gereçleri hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -258,7 +226,6 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "11",
       "KONU": "8.4.4. Ağız Kapama Gereçleri\n8.4.5. Çanta Sapı Gereçleri\n8.5. Çanta Yapımı\n8.5.1. Ürün Ölçülendirme\n8.5.2. Çanta Model Tasarımı",
-      "KAZANIM": "Tasarıma uygun kalıp hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -266,7 +233,6 @@
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "11",
       "KONU": "8.5.3. Çanta Modeline Uygun Araç Gereçler\n8.5.4. Tasarıma Uygun Kalıp Hazırlama \n8.5.5. Tasarıma Uygun Kalıpları Kumaşa Uygulama\n8.5.6. Çanta Dikiş Teknikleri \nÇocuk insan sevgisi ve evrensellik",
-      "KAZANIM": "Tasarıma uygun kalıpları kumaşa uygular.\nÇanta dikiş tekniklerini uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -274,7 +240,6 @@
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "11",
       "KONU": "8.5.7. Çanta Süsleme Teknikleri\n8.5.8. Çanta Kalite Kontrolü\nUYGULAMA 1-2-3",
-      "KAZANIM": "Çantanın kalite kontrolünü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -282,7 +247,6 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "11",
       "KONU": "Öğrenme Birimi KEMER YAPIMI\n9.1. Kemerin Tamamlayıcı Aksesuarlardaki Yeri ve Önemi\n9.2. Model Seçimini Etkileyen Unsurlar",
-      "KAZANIM": "Ürün ölçülendirmesi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -290,7 +254,6 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "11",
       "KONU": "9.3. Kösele Kemer Yapımı\n9.3.1. Ürün Ölçülendirme\n9.3.2. Kemer Model Tasarımı",
-      "KAZANIM": "Ürün ölçülendirmesi yapar.\nKemer model tasarımı yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -298,7 +261,6 @@
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "11",
       "KONU": "9.3.3. Kemer Yapımında Kullanılan Araç Gereçlerin Seçimi\n9.3.4. Kalıp Hazırlama Teknikleri \nAtatürkçü düşüncede yer alan temel fikirler",
-      "KAZANIM": "Kemer yapımında kullanılan araç gereçleri hazırlar.\nTasarıma uygun kalıp hazırlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -306,7 +268,6 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "11",
       "KONU": "9.3.5. Kalıbı Yüzeye Uygulama Yöntemleri\n9.3.6. Kösele Kemer Süsleme Teknikleri",
-      "KAZANIM": "2. Dönem 2. Sınav Tasarıma uygun kalıp hazırlar.\nKalıbı yüzeye uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -314,7 +275,6 @@
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "11",
       "KONU": "9.3.7. Kösele Kemeri Boyama\n9.3.8. Freze\n9.3.9. Tekniğe Uygun Kemer Aparatları ve Toka Takma \n2.Dönem 2.Sınav",
-      "KAZANIM": "Tekniğe uygun kemer aparatları ve tokayı takar.\nKemer süsleme tekniklerini uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -322,7 +282,6 @@
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "11",
       "KONU": "9.3.10. Kalite Kontrol Yöntemleri",
-      "KAZANIM": "Kemer süsleme tekniklerini uygular.\nKalite kontrol yöntemlerini uygular.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -331,7 +290,6 @@
       "SAAT": "11",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

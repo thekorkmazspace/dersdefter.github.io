@@ -8,7 +8,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETİM SİSTEMİNİN KURULUMU VE TEMEL AYARLARI",
       "KONU": "1.1. Açık Kaynak Kodlu İşletim Sistemi1.1.1. Açık ve Kapalı Kaynak İşletim Sistemleri Karşılaştırması1.2. Açık Kaynak Kodlu İşletim Sistemi Kurulumu1.2.2. Sanallaştırma Yazılımı Ayarlar",
-      "KAZANIM": "Açık kaynak kodlu işletim sisteminin temel kavramlarını açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -17,7 +16,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETİM SİSTEMİNİN KURULUMU VE TEMEL AYARLARI",
       "KONU": "1.2.3. Açık Kaynak İşletim Sistemi Kurulumu1.2.4. Kurulu İşletim Sistemi Yanına Açık Kaynak İşletim Sistemi Kurma 1.2.5. Usb Belleğe Açık Kaynak İşletim Sistemi Kurma",
-      "KAZANIM": "Açık kaynak kodlu işletim sisteminin kurulumunu yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
@@ -25,8 +23,7 @@
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETİM SİSTEMİNİN KURULUMU VE TEMEL AYARLARI",
-      "KONU": "1.3. Açık Kaynak İşletim Sisteminde Ağ Ayarları1.3.1. Kablolu Ağ Ayarları1.3.2. Kablosuz Ağ Ayarlar",
-      "KAZANIM": "Açık kaynak kodlu işletim sisteminin de ağ ayarlarını yapar."
+      "KONU": "1.3. Açık Kaynak İşletim Sisteminde Ağ Ayarları1.3.1. Kablolu Ağ Ayarları1.3.2. Kablosuz Ağ Ayarlar"
     },
     {
       "AY": "EYLÜL",
@@ -34,7 +31,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETİM SİSTEMİNİN KURULUMU VE TEMEL AYARLARI",
       "KONU": "1.4. Masaüstü İşlemleri1.4.1. Arka Plan1.4.2. Aygıtlar",
-      "KAZANIM": "İşletim sistemi temel masaüstü işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -43,7 +39,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETİM SİSTEMİNİN KURULUMU VE TEMEL AYARLARI",
       "KONU": "1.4.3. Ekran Görüntüsü1.4.4. Gnu Görüntü İşleme Programı",
-      "KAZANIM": "İşletim sistemi temel masaüstü işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -51,16 +46,14 @@
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETİM SİSTEMİNİN KURULUMU VE TEMEL AYARLARI",
-      "KONU": "1.4.5. İnce Ayarlar 1.4.6. Uçbirim 1.5. Açık Kaynak Kodlu İşletim Sisteminde Dosya ve Dizin İşlemleri",
-      "KAZANIM": "Dosya yapısını ve dizin hiyerarşisini kullanır."
+      "KONU": "1.4.5. İnce Ayarlar 1.4.6. Uçbirim 1.5. Açık Kaynak Kodlu İşletim Sisteminde Dosya ve Dizin İşlemleri"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETİM SİSTEMİNİN KURULUMU VE TEMEL AYARLARI",
-      "KONU": "1.Dönem 1.Yazılı Yoklama",
-      "KAZANIM": "1.Dönem 1.Yazılı Yoklama"
+      "KONU": "1.Dönem 1.Yazılı Yoklama"
     },
     {
       "AY": "EKIM",
@@ -68,7 +61,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETİM SİSTEMİNİN KURULUMU VE TEMEL AYARLARI",
       "KONU": "1.5.1. Açık Kaynak İşletim Sisteminde Dosya Sistemi 1.5.1.1. Linux Dosya Sistemi Hiyerarşisi 1.5.1.2. Fsstndye Göre Kök Dizin Altındaki Temel Klasörler",
-      "KAZANIM": "Dosya yapısını ve dizin hiyerarşisini kullanır.29 EKİM 1923 CUMHURİYET BAYRAMI Cumhuriyetin İlanı Cumhuriyetçilik İlkesi ve Önemi",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -77,7 +69,6 @@
       "SAAT": "2",
       "ÜNİTE": "A.K. OS YÖNETİMİ",
       "KONU": "2.1. Paket Kurulumu ve Güncelleme İşlemleri 2.1.1. Pardus Mağazadan Program Kurma. 2.1.2. Komutla Paket Kurma.2.1.3. Paket Yönetici ile Program Kurma",
-      "KAZANIM": "1. Dönem 1. Sınav Açık kaynak kodlu işletiminde program kurulumu ve güncellemeler yapar. 10 KASIM ATATÜKÜ ANMA PROGRAMI\nATATÜRK HAFTASI Atatürkün hayatı ve kişisel özellikleri",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -86,7 +77,6 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -95,7 +85,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK İŞLETİM SİSTEMİ YÖNETİMİ",
       "KONU": "2.2. Paket Güncelleme 2.2.1. Grafik Arayüz ile Paket Güncelleme2.2.2. Komut Satırı Kullanılarak Paket Güncelleme 2.3. Paket Kaldırma 2.3.1. Pardus Mağaza ile Paket Kaldırma",
-      "KAZANIM": "Açık kaynak kodlu işletiminde program kurulumu ve güncellemeler yapar.\n24 KASIM ÖĞRETMENLER GÜNÜ",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -104,7 +93,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK İŞLETİM SİSTEMİ YÖNETİMİ",
       "KONU": "2.3.2. Synaptic Paket Yönetici ile Paket Kaldırma 2.3.3. Komut Satırı ile Paket Kaldırma 2.4. Kullanıcı ve Grup İşlemleri 2.4.1. Kullanıcı User Hesabı 2.4.2. Sistem Yöneticisi Root",
-      "KAZANIM": "Açık kaynak kodlu işletiminde program kurulumu ve güncellemeler yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -113,7 +101,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK İŞLETİM SİSTEMİ YÖNETİMİ",
       "KONU": "2.4.3. Kullanıcı Yönetimi 2.4.3.1. Komut ile Kullanıcı Oluşturma2.4.3.2. Grafik Arayüz ile Kullanıcı Oluşturma 2.4.4. Kullanıcı Silme2.4.4.1. Komut ile Kullanıcı Silme",
-      "KAZANIM": "Açık kaynak kodlu işletim sistemi kullanıcı ve grup işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -122,7 +109,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK İŞLETİM SİSTEMİ YÖNETİMİ",
       "KONU": "2.5. Grup Hesabı 2.5.1. Grup Yönetimi 2.5.1.1. Grup Ekleme2.5.1.2. Grup Silme",
-      "KAZANIM": "Açık kaynak kodlu işletim sistemi kullanıcı ve grup işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -131,7 +117,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK İŞLETİM SİSTEMİ YÖNETİMİ",
       "KONU": "2.5.1.3. Grupların Görüntülenmesi 2.5.1.4. Gruba Kullanıcı Ekleme ve Çıkarma 2.5.1.5. Kullanıcı Gruplarını Sorgulama 2.6. Aktif  Pasif Hesap Ayarları",
-      "KAZANIM": "Açık kaynak kodlu işletim sistemi kullanıcı ve grup işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -140,7 +125,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK İŞLETİM SİSTEMİ YÖNETİMİ",
       "KONU": "1.Dönem 2.Yazılı Yoklama",
-      "KAZANIM": "1.Dönem 2.Yazılı Yoklama",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
@@ -148,8 +132,7 @@
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK İŞLETİM SİSTEMİ YÖNETİMİ",
-      "KONU": "2.7. Kimlik Değişimi 2.7.1. Kimlik Değişimini Komut Penceresi ile Yapmak 2.7.2. Kimlik Değişimini Grafik Arayüz ile Yapmak",
-      "KAZANIM": "Açık kaynak kodlu işletim sistemi kullanıcı ve grup işlemlerini yapar."
+      "KONU": "2.7. Kimlik Değişimi 2.7.1. Kimlik Değişimini Komut Penceresi ile Yapmak 2.7.2. Kimlik Değişimini Grafik Arayüz ile Yapmak"
     },
     {
       "AY": "OCAK",
@@ -157,7 +140,6 @@
       "SAAT": "2",
       "ÜNİTE": "A.K.İ.S TEMEL ARAÇLARI VE UYGULAMALARI",
       "KONU": "3.1. LibreOffice 3.1.1. Pardus Mağaza ile Kurulum 3.1.2. Synaptic Paket Yöneticisi ile Kurulum",
-      "KAZANIM": "1. Dönem 2. Sınav Kelime işlemci editörü ile belgeler hazırlar",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -165,48 +147,42 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "A.K.İ.S TEMEL ARAÇLARI VE UYGULAMALARI",
-      "KONU": "3.1.3. İnternetten İndirilerek Kurulum3.2. LibreOffice Kelime İşlemci Editörü  Writer3.2.1. Kelime İşlemci Arayüz Ekranı",
-      "KAZANIM": "Kelime işlemci editörü ile belgeler hazırlar"
+      "KONU": "3.1.3. İnternetten İndirilerek Kurulum3.2. LibreOffice Kelime İşlemci Editörü  Writer3.2.1. Kelime İşlemci Arayüz Ekranı"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "A.K.İ.S TEMEL ARAÇLARI VE UYGULAMALARI",
-      "KONU": "3.2.2. Kelime İşlemci Editörü ile Örnek Doküman Hazırlama3.3. LibreOffice Hesap Tablosu Editörü Calc 3.3.1. Hesap Tablosu Arayüzü",
-      "KAZANIM": "Hesap tablosu yazılımı ile tablo ve çizelgeler hazırlar."
+      "KONU": "3.2.2. Kelime İşlemci Editörü ile Örnek Doküman Hazırlama3.3. LibreOffice Hesap Tablosu Editörü Calc 3.3.1. Hesap Tablosu Arayüzü"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "A.K.İ.S TEMEL ARAÇLARI VE UYGULAMALARI",
-      "KONU": "3.3.2. Çalışma Sayfası ve Tablo Düzenleme3.3.3. Hesap Tablosunda İşlevler3.4. Libreoffice Sunu Editörü Impress 3.4.1. Sunu Editörü Arayüzü",
-      "KAZANIM": "Hesap tablosu yazılımı ile tablo ve çizelgeler hazırlar.\nSunum yazılımı ile sunumlar hazırlar."
+      "KONU": "3.3.2. Çalışma Sayfası ve Tablo Düzenleme3.3.3. Hesap Tablosunda İşlevler3.4. Libreoffice Sunu Editörü Impress 3.4.1. Sunu Editörü Arayüzü"
     },
     {
       "AY": "ŞUBAT",
@@ -214,7 +190,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4. Açık Kaynak Kodlu İşletim Sisteminde Temel Komut Satırı İşlemleri4.1. Yardım ve Bilgi Alma Komutları4.1.1. Help Komutu4.1.2. Man Manuel Pages Komutu",
-      "KAZANIM": "Yardım ve bilgi alma komutlarını kullanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -223,7 +198,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.1.3. Whatis Komutu4.1.4. Apropos Komutu4.1.5. Uname Komutu\n4.1.6. Hostname Komutu",
-      "KAZANIM": "Yardım ve bilgi alma komutlarını kullanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -232,7 +206,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.1.7. lsbrelease Komutu4.1.8. Who-Whoami Komutu 4.1.9. Zamansal Komutlar Uptime Date Cal Time4.1.10. Which Whereis ve Locate Komutları",
-      "KAZANIM": "Yardım ve bilgi alma komutlarını kullanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -241,7 +214,6 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -250,7 +222,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.1.11. Dmidecode Komutu4.1.12. Fdisk-l Df Du ve Free Komutları\n4.1.13. Stat ve Vmstat Komutu4.1.14. History Komutu",
-      "KAZANIM": "Yardım ve bilgi alma komutlarını kullanır.12 MART 1921 İSTİKLAL MARŞININ KABULÜ VE MEHMET AKİF ERSOYUN HAYATI",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -259,7 +230,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "ETKİNLİK 14.2. Dosya ve Dizin İşlemleri4.2.1. Pwd Print Working Directory Komutu 4.2.2. Cd Change Directory Komutu\n4.2.3. ls List Directory Contents Komutu",
-      "KAZANIM": "Komut satırında dizin ve dosya işlemlerini yapar.\n18 MART ÇANAKKALE ZAFERİ VE ÖNEMİ",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -268,7 +238,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "2.Dönem 1.Yazılı Yoklama",
-      "KAZANIM": "2. Dönem 1. Sınav 2.Dönem 1.Yazılı Yoklama",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -277,7 +246,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.2.4. Mkdir Make Directory Komutu4.2.5. Tree Komutu\n4.2.6. Touch Komutu4.2.7. Rm Remove ve Rmdir Remove Directory Komutu",
-      "KAZANIM": "Komut satırında dizin ve dosya işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -286,7 +254,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.2.8. Cat Concatenate Files Komutu4.2.9. Tac Komutu4.2.10. Rev Komutu4.2.11. Echo Komutu",
-      "KAZANIM": "Komut satırında dizin ve dosya işlemlerini yapar.23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI\n21-23 NİSAN  2023  RAMAZAN BAYRAMI",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -295,7 +262,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.2.12. More Komutu4.2.13. Less Komutu4.2.14. Head ve Tail Komutu4.2.15. Nl Komutu",
-      "KAZANIM": "Komut satırında dizin ve dosya işlemlerini yapar",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -304,7 +270,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.2.16. Sort Komutu4.2.17. Paste Komutu4.2.18. Tee Komut4.2.19. Tr Komutu",
-      "KAZANIM": "Komut satırında dizin ve dosya işlemlerini yapar.1 MAYIS EMEK VE DAYANIŞMA GÜNÜ PAZARTESİ",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -313,7 +278,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.2.20. Diff Komutu4.2.21. Cmp Komutu 4.2.22. Wc Word Count Komutu4.2.23. Cut Komutu",
-      "KAZANIM": "Komut satırında dizin ve dosya işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -322,7 +286,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.2.24. Grep Komutu4.2.25. Find Komutu4.2.26. Xargs Komutu4.2.27. Cp Copy Komutu4.2.28. Mv Move Komutu4.2.29. Shred Komutu",
-      "KAZANIM": "Komut satırında dizin ve dosya işlemlerini yapar.\n19 MAYIS GENÇLİK VE SPOR BAYRAMI CUMA",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -331,7 +294,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "2.Dönem 2.Yazılı Yoklama",
-      "KAZANIM": "2.Dönem 2.Yazılı Yoklama",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -340,7 +302,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "ETKİNLİK 24.3. Arşiv İşlemleri4.3.1. Tar Komutu4.3.2. Gzip-Gunzip ve Bzip2-Bunzip2 Komutları",
-      "KAZANIM": "2. Dönem 2. Sınav Dosya arşiv komutlarını kullanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -349,7 +310,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.3.3. Zcat-Zgrep ve Bzcat-Bzgrep Komutlar4.3.4. Zip-Unzip Komutlar4.3.5. Rar-Unrar Komutları",
-      "KAZANIM": "Dosya arşiv komutlarını kullanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -358,7 +318,6 @@
       "SAAT": "2",
       "ÜNİTE": "AÇIK KAYNAK KODLU İŞLETIM SİSTEMİNDE TEMEL KOMUT SATIRI İŞLEMLERİ",
       "KONU": "4.4. Yetkilendirme İşlemler4.4.1. Chmod Komutu\n4.4.2. Chown ve Chgrp Komutları4.4.3. Chattr ve Lsattr Komutları",
-      "KAZANIM": "Erişim yetki komutlarını kullanarak düzenlemeler yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -367,7 +326,6 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

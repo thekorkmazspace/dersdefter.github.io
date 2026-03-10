@@ -8,7 +8,6 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "1.   Belge Çeşitleri",
-      "KAZANIM": "Belge çeşitlerini sıralar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -17,7 +16,6 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "1.   Belge Çeşitleri",
-      "KAZANIM": "Belge çeşitlerini sıralar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
@@ -25,8 +23,7 @@
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
-      "KONU": "1.   Belge Çeşitleri",
-      "KAZANIM": "Belge çeşitlerini sıralar."
+      "KONU": "1.   Belge Çeşitleri"
     },
     {
       "AY": "EYLÜL",
@@ -34,7 +31,6 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "1.   Belge Çeşitleri",
-      "KAZANIM": "Belge çeşitlerini sıralar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -43,7 +39,6 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "1.   Belge Çeşitleri",
-      "KAZANIM": "Belge çeşitlerini sıralar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -51,8 +46,7 @@
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
-      "KONU": "1.   Belge Çeşitleri",
-      "KAZANIM": "Belge çeşitlerini sıralar."
+      "KONU": "1.   Belge Çeşitleri"
     },
     {
       "AY": "EKIM",
@@ -60,8 +54,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "2.   Gelen belge",
-      "KAZANIM": "Gelen belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Zamanı etkili kullanma açıklanır."
+      "KAZANIM": "Zamanı etkili kullanma açıklanır."
     },
     {
       "AY": "EKIM",
@@ -69,8 +62,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "2.   Gelen belge",
-      "KAZANIM": "Gelen belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Gelen evrak tarih verme ve numaralandırma süreci açıklanır.",
+      "KAZANIM": "Gelen evrak tarih verme ve numaralandırma süreci açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -79,8 +71,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "2.   Gelen belge",
-      "KAZANIM": "1. Dönem 1. Sınav  Gelen belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Gelen evrakın dağıtım ve dolaşım süreci açıklanır.",
+      "KAZANIM": "Gelen evrakın dağıtım ve dolaşım süreci açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -89,7 +80,6 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -98,8 +88,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "2.   Gelen belge",
-      "KAZANIM": "Gelen belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Gelen evrak elle kayıt ve bilgisayarda kayıt yapma esasları açıklanır.",
+      "KAZANIM": "Gelen evrak elle kayıt ve bilgisayarda kayıt yapma esasları açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -108,8 +97,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "2.   Gelen belge",
-      "KAZANIM": "Gelen belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Gelen evrak kayıt defterinin kullanımı açıklanır.",
+      "KAZANIM": "Gelen evrak kayıt defterinin kullanımı açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -118,8 +106,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "2.   Gelen belge",
-      "KAZANIM": "Gelen belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Gelen evrak kayıt defterinin kullanımı açıklanır.",
+      "KAZANIM": "Gelen evrak kayıt defterinin kullanımı açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -128,8 +115,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "3.   Giden belge",
-      "KAZANIM": "Giden belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Giden evrak işlem süreçleri açıklanır.",
+      "KAZANIM": "Giden evrak işlem süreçleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -138,8 +124,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "3.   Giden belge",
-      "KAZANIM": "Giden belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Giden evrak tarihleme ve numaralandırma işlemleri açıklanır.",
+      "KAZANIM": "Giden evrak tarihleme ve numaralandırma işlemleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -148,8 +133,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "3.   Giden belge",
-      "KAZANIM": "Giden belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Giden evrakın dağıtım ve dolaşım süreci açıklanır.",
+      "KAZANIM": "Giden evrakın dağıtım ve dolaşım süreci açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
@@ -158,8 +142,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "3.   Giden belge",
-      "KAZANIM": "Giden belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Giden evrak elle kayıt ve bilgisayarda kayıt yapma esasları açıklanır."
+      "KAZANIM": "Giden evrak elle kayıt ve bilgisayarda kayıt yapma esasları açıklanır."
     },
     {
       "AY": "OCAK",
@@ -167,8 +150,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "3.   Giden belge",
-      "KAZANIM": "1. Dönem 2. Sınav  Giden belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Giden evrak kayıt defterinin kullanımı açıklanır.",
+      "KAZANIM": "Giden evrak kayıt defterinin kullanımı açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -176,24 +158,21 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
@@ -201,8 +180,7 @@
       "SAAT": "2",
       "ÜNİTE": "Belge Akışı",
       "KONU": "3.   Giden belge",
-      "KAZANIM": "Giden belge akış sistemi sürecini açıklar.",
-      "KAZANIM AÇIKLAMASI": "Elektronik imza ve sertifika işlemleri açıklanır."
+      "KAZANIM": "Elektronik imza ve sertifika işlemleri açıklanır."
     },
     {
       "AY": "ŞUBAT",
@@ -210,8 +188,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "1.   Dosyalama Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre dosyalama araçlarını kullanarak belgeleri dosyaya yerleştirir.",
-      "KAZANIM AÇIKLAMASI": "Dosya ve türleri açıklanır."
+      "KAZANIM": "Dosya ve türleri açıklanır."
     },
     {
       "AY": "ŞUBAT",
@@ -219,8 +196,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "1.   Dosyalama Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre dosyalama araçlarını kullanarak belgeleri dosyaya yerleştirir.",
-      "KAZANIM AÇIKLAMASI": "Dosyalama sistemlerinin amacı ve önemi açıklanır."
+      "KAZANIM": "Dosyalama sistemlerinin amacı ve önemi açıklanır."
     },
     {
       "AY": "ŞUBAT",
@@ -228,8 +204,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "1.   Dosyalama Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre dosyalama araçlarını kullanarak belgeleri dosyaya yerleştirir.",
-      "KAZANIM AÇIKLAMASI": "Dosyalama sisteminin özellikleri açıklanır.",
+      "KAZANIM": "Dosyalama sisteminin özellikleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -238,8 +213,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "1.   Dosyalama Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre dosyalama araçlarını kullanarak belgeleri dosyaya yerleştirir.",
-      "KAZANIM AÇIKLAMASI": "Dosyalama sistemi türleri açıklanır.",
+      "KAZANIM": "Dosyalama sistemi türleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -248,8 +222,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "1.   Dosyalama Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre dosyalama araçlarını kullanarak belgeleri dosyaya yerleştirir.",
-      "KAZANIM AÇIKLAMASI": "Dosyalama sürecinin planlanması sağlanır.",
+      "KAZANIM": "Dosyalama sürecinin planlanması sağlanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -258,7 +231,6 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -267,8 +239,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "4.   Belgeleri İmha İşlemleri",
-      "KAZANIM": "Yürürlükte olan mevzuata göre belgeleri saklama süresine uyarak imha işlemlerini yapar.",
-      "KAZANIM AÇIKLAMASI": "Ayıklama ve imhanın amacı ve önemi açıklanır.",
+      "KAZANIM": "Ayıklama ve imhanın amacı ve önemi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -277,8 +248,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "2.   Arşivleme İşlemleri",
-      "KAZANIM": "Kurum ve kuruluşlarda belge çeşitlerine göre arşivleme yapar.",
-      "KAZANIM AÇIKLAMASI": "Dosyaların arşivde saklanma koşulları ve yasal süreleri açıklanır.",
+      "KAZANIM": "Dosyaların arşivde saklanma koşulları ve yasal süreleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -287,8 +257,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "2.   Arşivleme İşlemleri",
-      "KAZANIM": "2. Dönem 1. Sınav  Kurum ve kuruluşlarda belge çeşitlerine göre arşivleme yapar.",
-      "KAZANIM AÇIKLAMASI": "Dosyaların arşivde saklanma koşulları ve yasal süreleri açıklanır.",
+      "KAZANIM": "Dosyaların arşivde saklanma koşulları ve yasal süreleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -297,8 +266,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "2.   Arşivleme İşlemleri",
-      "KAZANIM": "Kurum ve kuruluşlarda belge çeşitlerine göre arşivleme yapar.",
-      "KAZANIM AÇIKLAMASI": "Dosyaların arşivde saklanma koşulları ve yasal süreleri açıklanır.",
+      "KAZANIM": "Dosyaların arşivde saklanma koşulları ve yasal süreleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -307,8 +275,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "2.   Arşivleme İşlemleri",
-      "KAZANIM": "Kurum ve kuruluşlarda belge çeşitlerine göre arşivleme yapar.",
-      "KAZANIM AÇIKLAMASI": "Dosyaların arşivde saklanma koşulları ve yasal süreleri açıklanır.",
+      "KAZANIM": "Dosyaların arşivde saklanma koşulları ve yasal süreleri açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -317,8 +284,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "1.   Dosyalama Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre dosyalama araçlarını kullanarak belgeleri dosyaya yerleştirir.",
-      "KAZANIM AÇIKLAMASI": "Belgelerin sınıflandırılması ve sıralanması yaptırılır.",
+      "KAZANIM": "Belgelerin sınıflandırılması ve sıralanması yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -327,8 +293,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "4.   Belgeleri İmha İşlemleri",
-      "KAZANIM": "Yürürlükte olan mevzuata göre belgeleri saklama süresine uyarak imha işlemlerini yapar.",
-      "KAZANIM AÇIKLAMASI": "Ayıklama ve imhanın amacı ve önemi açıklanır.",
+      "KAZANIM": "Ayıklama ve imhanın amacı ve önemi açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -337,8 +302,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "3.   Belge Kayıt Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre belge kayıt sistemlerini uygular.",
-      "KAZANIM AÇIKLAMASI": "Belge kayıt işlemleri için fihrist ve indeks oluşturma açıklanır.",
+      "KAZANIM": "Belge kayıt işlemleri için fihrist ve indeks oluşturma açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -347,8 +311,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "3.   Belge Kayıt Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre belge kayıt sistemlerini uygular.",
-      "KAZANIM AÇIKLAMASI": "Belge kayıt işlemleri için fihrist ve indeks oluşturma açıklanır.",
+      "KAZANIM": "Belge kayıt işlemleri için fihrist ve indeks oluşturma açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -357,8 +320,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "3.   Belge Kayıt Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre belge kayıt sistemlerini uygular.",
-      "KAZANIM AÇIKLAMASI": "Belge kayıt işlemleri için fihrist ve indeks oluşturma açıklanır.",
+      "KAZANIM": "Belge kayıt işlemleri için fihrist ve indeks oluşturma açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -367,8 +329,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "3.   Belge Kayıt Sistemleri",
-      "KAZANIM": "2. Dönem 2. Sınav  İşletme prosedürüne göre belge kayıt sistemlerini uygular.",
-      "KAZANIM AÇIKLAMASI": "Belge kayıt işlemleri için fihrist ve indeks oluşturma açıklanır.",
+      "KAZANIM": "Belge kayıt işlemleri için fihrist ve indeks oluşturma açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -377,8 +338,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "1.   Dosyalama Sistemleri",
-      "KAZANIM": "İşletme prosedürüne göre dosyalama araçlarını kullanarak belgeleri dosyaya yerleştirir.",
-      "KAZANIM AÇIKLAMASI": "Dosya açılması sağlanır.",
+      "KAZANIM": "Dosya açılması sağlanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -387,8 +347,7 @@
       "SAAT": "2",
       "ÜNİTE": "Dosyalama Sistemi ve Arşivleme",
       "KONU": "4.   Belgeleri İmha İşlemleri",
-      "KAZANIM": "Yürürlükte olan mevzuata göre belgeleri saklama süresine uyarak imha işlemlerini yapar.",
-      "KAZANIM AÇIKLAMASI": "Arşiv ayıklama ve imha komisyonlarının oluşumu açıklanır.",
+      "KAZANIM": "Arşiv ayıklama ve imha komisyonlarının oluşumu açıklanır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -397,7 +356,6 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

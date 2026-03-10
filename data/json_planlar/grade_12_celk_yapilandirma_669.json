@@ -7,7 +7,6 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİİMALAT TASARIMI VE HAZIRLIĞI\n1. İMALATI TASARIMI YAPILACAK ÜRÜNÜ TESPİT ETME\n1.1. Çelik yapılarda tasarım yaklaşımları\n1.2. Çelik yapıların tasarım süreci",
-      "KAZANIM": "İmalatı tasarımı yapılacak ürünü tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,22 +14,19 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
       "KONU": "1.3. Çelik yapı çeşitleri\n1.4. Çelik yapı imalatında kullanılan birleştirme yöntemleri",
-      "KAZANIM": "İmalatı tasarımı yapılacak ürünü tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
-      "KONU": "1.5. Çelik yapılardaki sistem ve mekanizmalar\n1.6. İmalatı yapılacak çelik yapıyı tespit etme",
-      "KAZANIM": "İmalatı tasarımı yapılacak ürünü tespit eder."
+      "KONU": "1.5. Çelik yapılardaki sistem ve mekanizmalar\n1.6. İmalatı yapılacak çelik yapıyı tespit etme"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "1.7. İmalatla ilgili teknik bilgiler toplama\n1.8. Proje hazırlığı yapma",
-      "KAZANIM": "İmalatı tasarımı yapılacak ürünü tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,29 +34,25 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "2. ÇELİK KONSTRÜKSİYON VE ELEMANLARININ YAPIM RESMİ\n2.1. Yapı çeliklerinin kullanım alanları\n2.2. Kuvvet hesaplamalarına etki eden faktörleri sıralama",
-      "KAZANIM": "Çelik konstrüksiyon ve elemanlarının yapım resmini çizer.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
-      "KONU": "2.3. İmalatı yapılacak çelik yapının dayanım hesaplarını yapma\n2.4. İmalatı yapılacak çelik yapının moment ve ağırlık merkezi hesaplarını yapma",
-      "KAZANIM": "Çelik konstrüksiyon ve elemanlarının yapım resmini çizer."
+      "KONU": "2.3. İmalatı yapılacak çelik yapının dayanım hesaplarını yapma\n2.4. İmalatı yapılacak çelik yapının moment ve ağırlık merkezi hesaplarını yapma"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
-      "KONU": "2.5. İmalatı yapılacak çelik yapının ölçü tespiti\n2.6. İmalatı yapılacak çelik yapının malzeme hesabı\n2.7. İmalatı yapılacak çelik yapının yapım ve montaj resimlerini çizme",
-      "KAZANIM": "Çelik konstrüksiyon ve elemanlarının yapım resmini çizer."
+      "KONU": "2.5. İmalatı yapılacak çelik yapının ölçü tespiti\n2.6. İmalatı yapılacak çelik yapının malzeme hesabı\n2.7. İmalatı yapılacak çelik yapının yapım ve montaj resimlerini çizme"
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "3. PROJELENDİRİLMİŞ MONTAJ YAPIM RESİMLERİ YARDIMI İLE MALZEME VE MALİYET ANALİZİ\n3.1. İmalat için gerekli malzeme listesi\n3.2. Maliyet hesabına etki eden faktörler\n\n1.Dönem 1.Sınav",
-      "KAZANIM": "Projelendirilmiş montaj ve yapım resimleri yardımı ile malzeme ve maliyet analizi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -68,7 +60,6 @@
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "3.3. Projenin montaj ve yapım resimlerini okutma\n3.4. Projede kullanılacak malzemenin ve malzeme ölçülerinin tespitini yaptma",
-      "KAZANIM": "1. Dönem 1. Sınav Projelendirilmiş montaj ve yapım resimleri yardımı ile malzeme ve maliyet analizi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -77,7 +68,6 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -85,7 +75,6 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "3.5. Projede kullanılacak bağlantı elemanlarının tespiti\n3.6. Projede kullanılacak malzemelere göre maliyet hesabını yapma",
-      "KAZANIM": "Projelendirilmiş montaj ve yapım resimleri yardımı ile malzeme ve maliyet analizi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +82,6 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "4. İMALATI YAPILACAK ÇELİK KONSTRÜKSİYON MALZEMESİNİ TEMİN ETME\n4.1. Bilgi belge ve evrak yönetiminin önemi\n4.2. Bürolarda form kullanımı dosyalama organizasyonu ve arşivleme teknikleri",
-      "KAZANIM": "İmalatı yapılacak çelik konstrüksiyon malzemesini temin eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +89,6 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "4.3. Malzemelerin temin edilebileceği yerlerinfirmaların tespiti\n4.4. Malzeme naklinde kullanılan kaldırma ve taşıma araçlarının planlaması",
-      "KAZANIM": "İmalatı yapılacak çelik konstrüksiyon malzemesini temin eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +96,6 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "4.5. Yük naklinde dikkat edilecek hususlar ve güvenlik tedbirleri\n4.6. Malzemelerin depolanma sistemleri",
-      "KAZANIM": "İmalatı yapılacak çelik konstrüksiyon malzemesini temin eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -117,7 +103,6 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "4.7. Malzeme teministek formunu doldurma\n4.8. İşin yapımında kullanılacak malzemelerin naklini gerçekleştirilmesi",
-      "KAZANIM": "İmalatı yapılacak çelik konstrüksiyon malzemesini temin eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -125,22 +110,19 @@
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "5. İMALATI YAPILACAK ÇELİK KONSTRÜKSİYONUN ÜRETİM YÖNTEM VE TEKNİKLERİ\n5.1. Üretim yöntemlerinin temel kavramları\n5.2. İşletme ve üretim sistemleri ile ilgili kavramlar",
-      "KAZANIM": "İmalatı yapılacak çelik konstrüksiyonun üretim yöntem ve tekniklerini tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
-      "KONU": "5.3. İş etüdü kavramı\n5.4. Metot analizinin uygulandığı alanlar\n1.Dönem 2.Sınav",
-      "KAZANIM": "İmalatı yapılacak çelik konstrüksiyonun üretim yöntem ve tekniklerini tespit eder."
+      "KONU": "5.3. İş etüdü kavramı\n5.4. Metot analizinin uygulandığı alanlar\n1.Dönem 2.Sınav"
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "5.5. İşlerin üretiminde kullanılacak iş akış sırasını programlama\n5.6. İş akış şemasını hazırlama",
-      "KAZANIM": "1. Dönem 2. Sınav İmalatı yapılacak çelik konstrüksiyonun üretim yöntem ve tekniklerini tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -148,52 +130,45 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
-      "KONU": "5.7. Üretimi yapılacak işe göre makine parkını hazırlama",
-      "KAZANIM": "İmalatı yapılacak çelik konstrüksiyonun üretim yöntem ve tekniklerini tespit eder."
+      "KONU": "5.7. Üretimi yapılacak işe göre makine parkını hazırlama"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
-      "KONU": "ÖĞRENME BİRİMİ İMALATTA MONTAJ\n1. ALT GRUPLARI\n1.1. Birleştirme yöntemleri\n1.2. Birleştirme sırasında meydana gelen çarpılmalara karşı alınacak tedbirler",
-      "KAZANIM": "Alt grupları yapar."
+      "KONU": "ÖĞRENME BİRİMİ İMALATTA MONTAJ\n1. ALT GRUPLARI\n1.1. Birleştirme yöntemleri\n1.2. Birleştirme sırasında meydana gelen çarpılmalara karşı alınacak tedbirler"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
-      "KONU": "1.3. Kalıp yapım tekniklerini açıklama",
-      "KAZANIM": "Alt grupları yapar."
+      "KONU": "1.3. Kalıp yapım tekniklerini açıklama"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "1.4. Alt grupların birbiri ile birleştirilmesinde dikkat edilecek hususlar\n1.5. İmalatı yapılacak alt grupların birleştirme zemininikalıbını tasarlaması ve hazırlaması",
-      "KAZANIM": "Alt grupları yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -201,7 +176,6 @@
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "1.6. Kalıplardaserbest zeminde alt grupların birleştirmesi\n1.7. Alt grupların birleştirmesi sonrası ölçü ve gönye kontrolü",
-      "KAZANIM": "Alt grupları yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -209,7 +183,6 @@
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "1.8. Alt grupların birleştirilmesi sonrası oluşan çarpılmaların düzeltilmesi",
-      "KAZANIM": "Alt grupları yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -218,7 +191,6 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -226,7 +198,6 @@
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "2. ALT GRUPLARIN BİRBİRİ İLE BİRLEŞTİRİLMESİ\n2.1. Grupların birleştirileceği zemin türleri\n2.2. Grupların birbiri ile birleştirmesinde dikkat edilecek hususlar",
-      "KAZANIM": "Alt grupların birbiri ile birleştirilmesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -234,7 +205,6 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "2.3. Grupların birbiri ile birleştirmesinde görülen çarpılma nedenleri ve alınacak önlemleri sıralama\n\n2.Dönem 1.Sınav",
-      "KAZANIM": "Alt grupların birbiri ile birleştirilmesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -242,7 +212,6 @@
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "2.4. Birleştirme yöntemine göre malzeme ve araç-gereç hazırlığı\n2.5. Birbirleri ile birleştirilecek parçaların birleştirme zeminini hazırlama",
-      "KAZANIM": "2. Dönem 1. Sınav Alt grupların birbiri ile birleştirilmesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -250,7 +219,6 @@
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "2.6. Alt grupların birbiri ile birleştirilmesi",
-      "KAZANIM": "Alt grupların birbiri ile birleştirilmesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -258,7 +226,6 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "2.7. Alt grupların birleştirilmesi sonrasında meydana gelen çarpılmaları düzeltilmesi",
-      "KAZANIM": "Alt grupların birbiri ile birleştirilmesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -266,7 +233,6 @@
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ SEVKİYAT VE YERİNE  ŞANTİYEDE MONTAJ\n1. GRUP VE ALT GRUPLARIN MONTAJ SIRASINA GÖRE NAKLİYESİ\n1.1. Ambalaj ve etiketleme yöntemleri\n1.2. Sevkiyatı yapılacak grupları montaj sırasına göre listeleme",
-      "KAZANIM": "Grup ve alt grupların montaj sırasına göre nakliyesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -274,7 +240,6 @@
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "1.3. Yükleme-indirme ve sevkiyat sırasında oluşabilecek kazalara karşı alınacak güvenlik tedbirlerini alma\n1.4. Kaldırmaindirme yükleme alet ve makinalarını tanıma kullanma",
-      "KAZANIM": "Grup ve alt grupların montaj sırasına göre nakliyesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -282,7 +247,6 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "1.5. Sevkiyatı yapılacak grupları montaj sırasına göre numaralandırıp kodlama\n1.6. Taşıma iskeleleri kurma",
-      "KAZANIM": "Grup ve alt grupların montaj sırasına göre nakliyesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -290,7 +254,6 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "1.7. Montaj parçalarının nakliyesini yapma",
-      "KAZANIM": "Grup ve alt grupların montaj sırasına göre nakliyesini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -298,7 +261,6 @@
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "2. GRUP VE ALT GRUPLARI YERİNDEYERİNE MONTAJ\n2.1. Montajda kullanılacak araç ve gereçler\n2.2. Grupların zemine montajında kullanılan bağlama yöntemleri",
-      "KAZANIM": "Grup ve alt grupları yerindeyerine montaj yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -306,7 +268,6 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "2.3. Şantiyedeyerinde montajda dikkat edilecek hususlar",
-      "KAZANIM": "2. Dönem 2. Sınav Grup ve alt grupları yerindeyerine montaj yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -314,7 +275,6 @@
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
       "KONU": "2.4. Montajda kullanılacak araç ve gereçleri hazırlama\n2.Dönem 2.Sınav",
-      "KAZANIM": "Grup ve alt grupları yerindeyerine montaj yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -322,7 +282,6 @@
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
       "KONU": "2.5. Seçilen birleştirme yöntemi ile gruplarınalt grupların birbirine veya zemine montajını yapma",
-      "KAZANIM": "Grup ve alt grupları yerindeyerine montaj yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -331,7 +290,6 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

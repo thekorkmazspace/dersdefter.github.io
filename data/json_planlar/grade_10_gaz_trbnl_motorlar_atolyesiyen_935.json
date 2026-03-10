@@ -8,8 +8,7 @@
       "SAAT": "3",
       "ÜNİTE": "Termodinamik Hesaplamalar",
       "KONU": "1.     Termodinamik birim hesaplamaları",
-      "KAZANIM": "Termodinamik birim hesaplamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Termodinamik kavramı açıklanır.\n      Sıcaklık ölçü birimleri açıklanır.\n      Sıcaklık ölçü aletleri kullanarak farklı birimlerde sıcaklıkları ölçmeleri sağlanır.\n      Sıcaklık formüllerini kullanarak birim çevirme hesaplamaları yaptırılır.\n      Termodinamik birim hesaplamaları yaptırılır.\n      Isı transferi hesaplamaları yaptırılır.",
+      "KAZANIM": "Termodinamik kavramı açıklanır.\n      Sıcaklık ölçü birimleri açıklanır.\n      Sıcaklık ölçü aletleri kullanarak farklı birimlerde sıcaklıkları ölçmeleri sağlanır.\n      Sıcaklık formüllerini kullanarak birim çevirme hesaplamaları yaptırılır.\n      Termodinamik birim hesaplamaları yaptırılır.\n      Isı transferi hesaplamaları yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -18,8 +17,7 @@
       "SAAT": "3",
       "ÜNİTE": "Termodinamik Hesaplamalar",
       "KONU": "2.     Termodinamik kanun hesaplamaları",
-      "KAZANIM": "Termodinamik kanun hesaplamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Termodinamiğin birinci kanunu ile ilgili hesaplamalar yaptırılır.\n      Termodinamiğin ikinci kanunu ile ilgili hesaplamalar yaptırılır.",
+      "KAZANIM": "Termodinamiğin birinci kanunu ile ilgili hesaplamalar yaptırılır.\n      Termodinamiğin ikinci kanunu ile ilgili hesaplamalar yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
@@ -28,8 +26,7 @@
       "SAAT": "3",
       "ÜNİTE": "Termodinamik Hesaplamalar",
       "KONU": "3.     İdeal gaz kanunu hesaplamaları",
-      "KAZANIM": "Termodinamik kanunlarına uygun olarak ideal gaz kanunu hesaplamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Gazların durum değişikliği hesaplamaları yaptırılır.\n      Motor çevrimleri ilgili hesaplamalar yaptırılır.\n      Brayton çevrimi ile ilgili hesaplamalar yaptırılır."
+      "KAZANIM": "Gazların durum değişikliği hesaplamaları yaptırılır.\n      Motor çevrimleri ilgili hesaplamalar yaptırılır.\n      Brayton çevrimi ile ilgili hesaplamalar yaptırılır."
     },
     {
       "AY": "EYLÜL",
@@ -37,8 +34,7 @@
       "SAAT": "3",
       "ÜNİTE": "Termodinamik Hesaplamalar",
       "KONU": "4.     Soğutucular ve ısı pompaları hesaplamaları",
-      "KAZANIM": "Termodinamik kanunlarına uygun olarak soğutucular ve ısı pompaları hesaplamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Carnot çevrimi hesaplamaları yaptırılır.\n      Soğutucularla ilgili hesaplamalar yaptırılır.\n      Isı pompaları hesaplamaları yaptırılır.\n      Buhar sıkıştırmalı soğutma çevrimi hesaplamaları yaptırılır.",
+      "KAZANIM": "Carnot çevrimi hesaplamaları yaptırılır.\n      Soğutucularla ilgili hesaplamalar yaptırılır.\n      Isı pompaları hesaplamaları yaptırılır.\n      Buhar sıkıştırmalı soğutma çevrimi hesaplamaları yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -47,8 +43,7 @@
       "SAAT": "3",
       "ÜNİTE": "Termodinamik Hesaplamalar",
       "KONU": "5.     Buharlaşma hesaplamaları",
-      "KAZANIM": "Termodinamik kanunlarına uygun olarak buharlaşma hesaplamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Doymuş buhar basınç tablosundan gerekli değerlerin tespiti gösterilir.\n      Buharlaşma ile ilgili hesaplamalar yaptırılır.\n      Buharlaşma ısısı ile ilgili hesaplamalar yaptırılır.",
+      "KAZANIM": "Doymuş buhar basınç tablosundan gerekli değerlerin tespiti gösterilir.\n      Buharlaşma ile ilgili hesaplamalar yaptırılır.\n      Buharlaşma ısısı ile ilgili hesaplamalar yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -57,8 +52,7 @@
       "SAAT": "3",
       "ÜNİTE": "Performans Hesabı",
       "KONU": "1.  Dinamiğin temel esasları ile ilgili hesaplamalar",
-      "KAZANIM": "Dinamiğin temel esasları ile ilgili hesaplamaları yapar.",
-      "KAZANIM AÇIKLAMASI": "Potansiyel enerji hesaplamaları yaptırılır."
+      "KAZANIM": "Potansiyel enerji hesaplamaları yaptırılır."
     },
     {
       "AY": "EKIM",
@@ -66,8 +60,7 @@
       "SAAT": "3",
       "ÜNİTE": "Performans Hesabı",
       "KONU": "1.  Dinamiğin temel esasları ile ilgili hesaplamalar",
-      "KAZANIM": "Dinamiğin temel esasları ile ilgili hesaplamaları yapar.",
-      "KAZANIM AÇIKLAMASI": "Kinetik enerji hesaplamaları yaptırılır."
+      "KAZANIM": "Kinetik enerji hesaplamaları yaptırılır."
     },
     {
       "AY": "EKIM",
@@ -75,8 +68,7 @@
       "SAAT": "3",
       "ÜNİTE": "Performans Hesabı",
       "KONU": "1.  Dinamiğin temel esasları ile ilgili hesaplamalar",
-      "KAZANIM": "Dinamiğin temel esasları ile ilgili hesaplamaları yapar.",
-      "KAZANIM AÇIKLAMASI": "Newtonun hareket kanunları hesaplamaları yaptırılır.",
+      "KAZANIM": "Newtonun hareket kanunları hesaplamaları yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -85,8 +77,7 @@
       "SAAT": "3",
       "ÜNİTE": "Performans Hesabı",
       "KONU": "2.  Motor performans hesaplamaları",
-      "KAZANIM": "1. Dönem 1. Sınav Motor performans hesaplamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Motor performans hesaplamaları yaptırılır.",
+      "KAZANIM": "Motor performans hesaplamaları yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -95,7 +86,6 @@
       "SAAT": "3",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -104,8 +94,7 @@
       "SAAT": "3",
       "ÜNİTE": "Performans Hesabı",
       "KONU": "2.  Motor performans hesaplamaları",
-      "KAZANIM": "Motor performans hesaplamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Motor verim hesaplamaları yaptırılır.",
+      "KAZANIM": "Motor verim hesaplamaları yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -114,8 +103,7 @@
       "SAAT": "3",
       "ÜNİTE": "Performans Hesabı",
       "KONU": "2.  Motor performans hesaplamaları",
-      "KAZANIM": "Motor performans hesaplamalarını yapar.",
-      "KAZANIM AÇIKLAMASI": "Motor verim hesaplamaları yaptırılır.",
+      "KAZANIM": "Motor verim hesaplamaları yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -124,8 +112,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turbofan Motorlar ve Kısımları",
       "KONU": "1.  Hava giriş kısmı kontrolleri",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak hava giriş kısmı kontrollerini yapar.",
-      "KAZANIM AÇIKLAMASI": "Motor hava giriş kısmı inlet cowl söktürülür.\n      Hava giriş kısmının temizliği yaptırılır.\n      Motor hava alıklarının kontrol işlemleri yaptırılır.",
+      "KAZANIM": "Motor hava giriş kısmı inlet cowl söktürülür.\n      Hava giriş kısmının temizliği yaptırılır.\n      Motor hava alıklarının kontrol işlemleri yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -134,8 +121,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turbofan Motorlar ve Kısımları",
       "KONU": "2.  Kompresör kısmının bakımı",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak kompresör kısmının bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Kompresörün yıkanması işlemi yaptırılır.\n      Kompresör kısmı söktürülür.\n      Kompresör kısmının bakımı yaptırılır.",
+      "KAZANIM": "Kompresörün yıkanması işlemi yaptırılır.\n      Kompresör kısmı söktürülür.\n      Kompresör kısmının bakımı yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -144,8 +130,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turbofan Motorlar ve Kısımları",
       "KONU": "3.  Yanma odası kısmının bakımı",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yanma odası kısmının bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Yanma odası parçaları söktürülür.\n      Yanma odasının bakımları yaptırılır.",
+      "KAZANIM": "Yanma odası parçaları söktürülür.\n      Yanma odasının bakımları yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -154,8 +139,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turbofan Motorlar ve Kısımları",
       "KONU": "4.  Türbin kısmının bakımı",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak türbin kısmının bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Türbin kısmının parçaları söktürülür.\n      Türbin kısmının bakımları yaptırılır.",
+      "KAZANIM": "Türbin kısmının parçaları söktürülür.\n      Türbin kısmının bakımları yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
@@ -164,8 +148,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turbofan Motorlar ve Kısımları",
       "KONU": "5.  Egzoz kısmının bakımını yaparak test etme",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak egzoz kısmının bakımını yapıp test eder.",
-      "KAZANIM AÇIKLAMASI": "Egzoz kısmının parçaları söktürülür.\n      Egzoz kısmının bakımları yaptırılır."
+      "KAZANIM": "Egzoz kısmının parçaları söktürülür.\n      Egzoz kısmının bakımları yaptırılır."
     },
     {
       "AY": "OCAK",
@@ -173,8 +156,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboprop Motorlar",
       "KONU": "1.  Gaz kuplajlı serbest türbinlerin bakım onarımını yapma",
-      "KAZANIM": "1. Dönem 2. Sınav İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak gaz kuplajlı serbest türbinlerin bakım onarımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Gaz kuplajlı  serbest türbinin parçaları söktürülür.\n      Gaz kuplajlı  serbest türbinin bakım onarımı yaptırılır.\n      Gaz kuplajlı  serbest türbinin parçaları yerlerine taktırılır.",
+      "KAZANIM": "Gaz kuplajlı  serbest türbinin parçaları söktürülür.\n      Gaz kuplajlı  serbest türbinin bakım onarımı yaptırılır.\n      Gaz kuplajlı  serbest türbinin parçaları yerlerine taktırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -182,24 +164,21 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
@@ -207,8 +186,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboprop Motorlar",
       "KONU": "2.  Dişli kuplajlı türbinlerin bakım onarımını yapma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak dişli kuplajlı türbinlerin bakım onarımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Dişli kuplajlı türbinin parçaları söktürülür.\n      Dişli kuplajlı türbinin bakım onarımı yaptırılır.\n      Dişli kuplajlı türbinin parçaları taktırılır."
+      "KAZANIM": "Dişli kuplajlı türbinin parçaları söktürülür.\n      Dişli kuplajlı türbinin bakım onarımı yaptırılır.\n      Dişli kuplajlı türbinin parçaları taktırılır."
     },
     {
       "AY": "ŞUBAT",
@@ -216,8 +194,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboprop Motorlar",
       "KONU": "3.  Redüksiyon dişlilerinin bakım onarımını yapma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak redüksiyon dişlilerinin bakım onarımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Redüksiyon dişli kutusu söktürülür.\n      Redüksiyon dişlilerinin bakım onarımı yaptırılır.\n      Redüksiyon dişli kutusu taktırılır."
+      "KAZANIM": "Redüksiyon dişli kutusu söktürülür.\n      Redüksiyon dişlilerinin bakım onarımı yaptırılır.\n      Redüksiyon dişli kutusu taktırılır."
     },
     {
       "AY": "ŞUBAT",
@@ -225,8 +202,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboprop Motorlar",
       "KONU": "4.  Pervane kumandalarının bakım onarımını yapma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak pervane kumandalarının bakım onarımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Pervane kumanda mekanizması söktürülür.\n      Pervane kumanda mekanizmasının bakımı yaptırılır.\n      Pervane kumanda mekanizması taktırılır."
+      "KAZANIM": "Pervane kumanda mekanizması söktürülür.\n      Pervane kumanda mekanizmasının bakımı yaptırılır.\n      Pervane kumanda mekanizması taktırılır."
     },
     {
       "AY": "ŞUBAT",
@@ -234,8 +210,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboprop Motorlar",
       "KONU": "5.  Aşırı hız emniyet tertibatının bakım onarımını yapma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak aşırı hız emniyet tertibatının bakım onarımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Aşırı hız emniyet tertibatı söktürülür.\n      Aşırı hız emniyet tertibatının bakım onarımı yaptırılır.\n      Aşırı hız emniyet tertibatı taktırılır.",
+      "KAZANIM": "Aşırı hız emniyet tertibatı söktürülür.\n      Aşırı hız emniyet tertibatının bakım onarımı yaptırılır.\n      Aşırı hız emniyet tertibatı taktırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -244,8 +219,7 @@
       "SAAT": "3",
       "ÜNİTE": "Yardımcı Güç Ünitesi APU",
       "KONU": "1.  Yardımcı güç ünitesini APU uçaktan sökme",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yardımcı güç ünitesini APU uçaktan söker.",
-      "KAZANIM AÇIKLAMASI": "Yardımcı güç ünitesinin APU uçak üzerindeki bağlantıları söktürülür.",
+      "KAZANIM": "Yardımcı güç ünitesinin APU uçak üzerindeki bağlantıları söktürülür.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -254,8 +228,7 @@
       "SAAT": "3",
       "ÜNİTE": "Yardımcı Güç Ünitesi APU",
       "KONU": "1.  Yardımcı güç ünitesini APU uçaktan sökme",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yardımcı güç ünitesini APU uçaktan söker.",
-      "KAZANIM AÇIKLAMASI": "Yardımcı güç ünitesi uçak üzerinden indirilir.",
+      "KAZANIM": "Yardımcı güç ünitesi uçak üzerinden indirilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -264,7 +237,6 @@
       "SAAT": "3",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -273,8 +245,7 @@
       "SAAT": "3",
       "ÜNİTE": "Yardımcı Güç Ünitesi APU",
       "KONU": "2.  Yardımcı güç ünitesi APU kısımlarının kontrollerini yapma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yardımcı güç ünitesi kısımlarının kontrollerini yapar.",
-      "KAZANIM AÇIKLAMASI": "Yardımcı güç ünitesinin kısımları söktürülür.",
+      "KAZANIM": "Yardımcı güç ünitesinin kısımları söktürülür.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -283,8 +254,7 @@
       "SAAT": "3",
       "ÜNİTE": "Yardımcı Güç Ünitesi APU",
       "KONU": "2.  Yardımcı güç ünitesi APU kısımlarının kontrollerini yapma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yardımcı güç ünitesi kısımlarının kontrollerini yapar.",
-      "KAZANIM AÇIKLAMASI": "Yardımcı güç ünitesi kısımlarının temizlikkontrol işlemleri yaptırılır.",
+      "KAZANIM": "Yardımcı güç ünitesi kısımlarının temizlikkontrol işlemleri yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -293,8 +263,7 @@
       "SAAT": "3",
       "ÜNİTE": "Yardımcı Güç Ünitesi APU",
       "KONU": "3.  Yardımcı güç ünitesi APU sistemlerinin kontrollerini yapma",
-      "KAZANIM": "2. Dönem 1. Sınav İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yardımcı güç ünitesi sistemlerinin kontrollerini yapar.",
-      "KAZANIM AÇIKLAMASI": "Yardımcı güç ünitesi sistemlerinin temizliği yaptırılır.",
+      "KAZANIM": "Yardımcı güç ünitesi sistemlerinin temizliği yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -303,8 +272,7 @@
       "SAAT": "3",
       "ÜNİTE": "Yardımcı Güç Ünitesi APU",
       "KONU": "3.  Yardımcı güç ünitesi APU sistemlerinin kontrollerini yapma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yardımcı güç ünitesi sistemlerinin kontrollerini yapar.",
-      "KAZANIM AÇIKLAMASI": "Yardımcı güç ünitesi sistemlerinin kontrol işlemleri yaptırılır.",
+      "KAZANIM": "Yardımcı güç ünitesi sistemlerinin kontrol işlemleri yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -313,8 +281,7 @@
       "SAAT": "3",
       "ÜNİTE": "Yardımcı Güç Ünitesi APU",
       "KONU": "4.  Yardımcı güç ünitesini APU uçağa takma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yardımcı güç ünitesini uçağa takar.",
-      "KAZANIM AÇIKLAMASI": "Yardımcı güç ünitesini APU uçağa takma işlemleri için gerekli emniyet tedbirleri aldırılır.",
+      "KAZANIM": "Yardımcı güç ünitesini APU uçağa takma işlemleri için gerekli emniyet tedbirleri aldırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -323,8 +290,7 @@
       "SAAT": "3",
       "ÜNİTE": "Yardımcı Güç Ünitesi APU",
       "KONU": "4.  Yardımcı güç ünitesini APU uçağa takma",
-      "KAZANIM": "İlgili Uçak bakım el kitabı AMM talimatlarına uygun olarak yardımcı güç ünitesini uçağa takar.",
-      "KAZANIM AÇIKLAMASI": "Yardımcı güç ünitesini APU uçağa takma işlemleri yaptırılır.",
+      "KAZANIM": "Yardımcı güç ünitesini APU uçağa takma işlemleri yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -333,8 +299,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboshaft Motorlar",
       "KONU": "1.  Turboshaft motor kısımlarının bakımını yapma",
-      "KAZANIM": "İlgili uçak bakım el kitabı AMM talimatlarına uygun olarak   turboshaft   motorun   kısımlarının   bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Turboshaft motor kısımlarının kontrolleri yaptırılır.",
+      "KAZANIM": "Turboshaft motor kısımlarının kontrolleri yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -343,8 +308,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboshaft Motorlar",
       "KONU": "1.  Turboshaft motor kısımlarının bakımını yapma",
-      "KAZANIM": "İlgili uçak bakım el kitabı AMM talimatlarına uygun olarak   turboshaft   motorun   kısımlarının   bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Motor kısımlarının bakımı yaptırılır.",
+      "KAZANIM": "Motor kısımlarının bakımı yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -353,8 +317,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboshaft Motorlar",
       "KONU": "2.  Redüksiyon dişlilerini kontrol ederek bakımını yapma",
-      "KAZANIM": "İlgili uçak bakım el kitabı AMM talimatlarına uygun olarak   turboshaft   motorun   redüksiyon   dişlilerini kontrol edip bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Turboshaft motorun ana rotoru söktürülerek bakımları yaptırılır.\n      Redüksiyon dişli kutusu söktürülür.",
+      "KAZANIM": "Turboshaft motorun ana rotoru söktürülerek bakımları yaptırılır.\n      Redüksiyon dişli kutusu söktürülür.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -363,8 +326,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboshaft Motorlar",
       "KONU": "2.  Redüksiyon dişlilerini kontrol ederek bakımını yapma",
-      "KAZANIM": "İlgili uçak bakım el kitabı AMM talimatlarına uygun olarak   turboshaft   motorun   redüksiyon   dişlilerini kontrol edip bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Redüksiyon dişlilerinin kontrolleri yaptırılır.\n      Redüksiyon dişlilerinin bakımı yaptırılır.",
+      "KAZANIM": "Redüksiyon dişlilerinin kontrolleri yaptırılır.\n      Redüksiyon dişlilerinin bakımı yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -373,8 +335,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboshaft Motorlar",
       "KONU": "3.  Turboshaft motor bağlantılarını kontrol ederek bakımını yapma",
-      "KAZANIM": "2. Dönem 2. Sınav İlgili uçak bakım el kitabı AMM talimatlarına uygun olarak   turboshaft   motorun   bağlantılarını   kontrol edip bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "MotorMGB Main Gear Box arası bağlantı şaftları söktürülerek kontrolleri yaptırılır.",
+      "KAZANIM": "MotorMGB Main Gear Box arası bağlantı şaftları söktürülerek kontrolleri yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -383,8 +344,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboshaft Motorlar",
       "KONU": "3.  Turboshaft motor bağlantılarını kontrol ederek bakımını yapma",
-      "KAZANIM": "İlgili uçak bakım el kitabı AMM talimatlarına uygun olarak   turboshaft   motorun   bağlantılarını   kontrol edip bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Güç aktarma dişlileri söktürülerek kontrolleri yaptırılır.",
+      "KAZANIM": "Güç aktarma dişlileri söktürülerek kontrolleri yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -393,8 +353,7 @@
       "SAAT": "3",
       "ÜNİTE": "Turboshaft Motorlar",
       "KONU": "4.  Turboshaft motor sistemlerinin bakımını yapma",
-      "KAZANIM": "İlgili uçak bakım el kitabı AMM talimatlarına uygun olarak  turboshaft  motorun  sistemlerinin  bakımını yapar.",
-      "KAZANIM AÇIKLAMASI": "Turboshaft motor sistemleri söktürülür.\n      Motor sistemlerinin kontrolleri yaptırılır.",
+      "KAZANIM": "Turboshaft motor sistemleri söktürülür.\n      Motor sistemlerinin kontrolleri yaptırılır.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -403,7 +362,6 @@
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

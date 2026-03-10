@@ -7,7 +7,6 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "6",
       "KONU": "1. ÖĞRENME BİRİMİ KİŞİSEL HİJYEN 1.1. KİŞİSEL BAKIM1.1.1. Kişisel Hijyenin Önemi1.1.2. Vücut Temizliği1.1.3. El ve Ayak Bakımı1.1.4. Ağız ve Diş Bakımı1.1.5. Saç Bakımı1.1.6. Cilt Bakımı",
-      "KAZANIM": "Tekniğine uygun kişisel bakımını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -15,22 +14,19 @@
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "6",
       "KONU": "1.2. İŞ KIYAFETLERİNİ GİYME 1.2.1. İş Kıyafetlerinin Önemi1.2.2. İş Kıyafetlerini Hazırlama1.2.3. İş Kıyafetlerinin Bakımı ve Temizliği",
-      "KAZANIM": "Tekniğine uygun iş kıyafetlerini giyer.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "6",
-      "KONU": "1.3. VÜCUT MEKANİKLERİNE GÖRE HAREKET ETME 1.3.1. Eklem ve Kasları Doğru Teknikle Kullanma1.3.2. Doğru Şekilde Ayakta Durma ve Oturma1.3.3. Doğru Şekilde Taşıma ve Ağırlık Kaldırma1.3.4. Sırt ve Bel Egzersizleri",
-      "KAZANIM": "Tekniğine uygun olarak vücut mekaniklerine göre hareket eder."
+      "KONU": "1.3. VÜCUT MEKANİKLERİNE GÖRE HAREKET ETME 1.3.1. Eklem ve Kasları Doğru Teknikle Kullanma1.3.2. Doğru Şekilde Ayakta Durma ve Oturma1.3.3. Doğru Şekilde Taşıma ve Ağırlık Kaldırma1.3.4. Sırt ve Bel Egzersizleri"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "6",
       "KONU": "2. ÖĞRENME BİRİMİ HİJYEN VE SANİTASYON 2.1. MEVZUAT VE SİSTEMLER 2.1.1. Hijyen ve Sanitasyon2.1.2. Hijyen ve Sanitasyon Kuralları2.1.3. Gıda Güvenliği ve Önemi2.1.4. Gıda Güvenliğinin Sağlanmasında Mevzuatlar",
-      "KAZANIM": "Ulusal ve uluslararası mevzuata göre hijyen ve sanitasyon ile ilgili mevzuat ve sistemleri açıklar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -38,29 +34,25 @@
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "6",
       "KONU": "2.1.5. Türkiyede Gıda Güvenliğinin Sağlanmasında Yetkili Kuruluşlar2.1.6. Gıda Hijyeni ile İlgili Ulusal ve Uluslararası Sistemler2.2. GIDA HİJYENİ 2.2.1. Yiyeceklerdeki Bozulmalar",
-      "KAZANIM": "Ulusal ve uluslararası mevzuata göre gıda hijyenini sağlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "6",
-      "KONU": "2.3. ÇALIŞMA ORTAMI HİJYENİ 2.3.1. Çalışma Ortamında Aranan Fiziksel Özelliklerin İş Verimine Etkisi2.3.2. İşletme Ortamında Uyulması Gereken Hijyen ve Sanitasyon İlkeleri2.3.3. Çalışma Ortamı Temizliğinde Dikkat Edilmesi Gereken Noktalar2.3.4. Haşere ve Kemirgenlerden Korunmak İçin Alınması Gereken Tedbirler",
-      "KAZANIM": "Ulusal ve uluslararası mevzuata göre çalışma ortamı hijyenini sağlar."
+      "KONU": "2.3. ÇALIŞMA ORTAMI HİJYENİ 2.3.1. Çalışma Ortamında Aranan Fiziksel Özelliklerin İş Verimine Etkisi2.3.2. İşletme Ortamında Uyulması Gereken Hijyen ve Sanitasyon İlkeleri2.3.3. Çalışma Ortamı Temizliğinde Dikkat Edilmesi Gereken Noktalar2.3.4. Haşere ve Kemirgenlerden Korunmak İçin Alınması Gereken Tedbirler"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "6",
-      "KONU": "2.4. EKİPMAN HİJYENİ 2.4.1. Mutfak Ekipmalarının Çeşitleri Temizliği ve Önemi2.4.2. Ekipmanların Temizliğinde Kullanılması Gereken Araç Gereçler2.4.3. Ekipmanların Bakımında Dikkat Edilmesi Gereken Noktalar",
-      "KAZANIM": "Ulusal ve uluslararası mevzuata göre ekipman hijyenini sağlar."
+      "KONU": "2.4. EKİPMAN HİJYENİ 2.4.1. Mutfak Ekipmalarının Çeşitleri Temizliği ve Önemi2.4.2. Ekipmanların Temizliğinde Kullanılması Gereken Araç Gereçler2.4.3. Ekipmanların Bakımında Dikkat Edilmesi Gereken Noktalar"
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "6",
       "KONU": "3. ÖĞRENME BİRİMİ PROTOKOL VE GÖRGÜ KURALLARI 3.1. PROTOKOL KURALLARINA UYMA 3.1.1. Resmî Protokol Kuralları3.1.2. Karşılama ve Uğurlama1.Dönem 1.Sınav",
-      "KAZANIM": "Protokol kurallarına uygun davranır.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -68,7 +60,6 @@
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "6",
       "KONU": "3.1.3. Bayrak Protokolü3.1.4. Davetler ve Yemekler3.2. NEZAKET VE GÖRGÜ KURALLARINA UYMA 3.2.1. Selamlaşma Tanışma ve Tanıştırma3.2.2. El Sıkma",
-      "KAZANIM": "1. Dönem 1. Sınav Nezaket ve görgü kurallarına uygun davranır.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -77,7 +68,6 @@
       "SAAT": "6",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -85,7 +75,6 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "6",
       "KONU": "3.2.3. Telefonla Konuşma3.2.4. Yazışma3.2.5. Netiket",
-      "KAZANIM": "Nezaket ve görgü kurallarına uygun davranır.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -93,7 +82,6 @@
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "6",
       "KONU": "4. ÖĞRENME BİRİMİ KONUK TİPİNE GÖRE DAVRANMA 4.1. KONUK TİPLERİNİN ÖZELLİKLERİNE GÖRE DAVRANMA 4.1.1. Konukların Tesisten Beklentileri",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak konuk tiplerinin özelliklerine göre davranır.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -101,7 +89,6 @@
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "6",
       "KONU": "4.2. KONUK MEMNUNİYETİNİ SAĞLAMA 4.2.1. Konuk Memnuniyetinin İşletme İmajı ve Tanıtımı Açışından Önemi",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak konuk memnuniyetini sağlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -109,7 +96,6 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "6",
       "KONU": "4.3. KONUĞUN SORUNLARINA ÇÖZÜM BULMA 4.3.1. Konuk Memnuniyetsizliğinin Nedenleri4.3.2. Konuk Memnuniyetsizliğinin Çözüm Yolları",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak konuğun sorunlarına çözüm bulur.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -117,7 +103,6 @@
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "6",
       "KONU": "5. ÖĞRENME BİRİMİ KONUKLARI KARŞILAMA 5.1. KONUKLARI GİRİŞTE KARŞILAMA 5.1.1. Danışma Concierge Bölümünün Tesisteki Yeri ve Önemi5.1.2. Danışma Bölümünün Başlıca Görevleri ve Sorumlulukları5.1.3. Konukları Girişte Karşılayan Personeller5.1.4. Konukları Karşıma Prosedürleri",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak konukları girişte karşılar.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -125,22 +110,19 @@
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "6",
       "KONU": "5.2. BAGAJ HİZMETLERİNİ YÜRÜTME 5.2.1. Konuk Bagajlarının Araçtan Alınması5.2.2. Konuk Bagajlarının Emniyete Alınması5.2.3. Konuk Bagajlarının Etiketlenmesi5.2.4. Konuğun ve Bagajlarının Odaya Çıkarılması",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak bagaj hizmetlerini yürütür.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "6",
-      "KONU": "5.2.5. Konuğa Odanın Tanıtılması5.2.6. Konuk Çıkış Yaparken Bagaj İşlemleri5.2.7. Konuğun Konaklama Tesisinden Ayrılması5.2.8. Emanet Bagaj İşlemleri 1.Dönem 2.Sınav",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak bagaj hizmetlerini yürütür."
+      "KONU": "5.2.5. Konuğa Odanın Tanıtılması5.2.6. Konuk Çıkış Yaparken Bagaj İşlemleri5.2.7. Konuğun Konaklama Tesisinden Ayrılması5.2.8. Emanet Bagaj İşlemleri 1.Dönem 2.Sınav"
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "6",
       "KONU": "6. ÖĞRENME BİRİMİ OLAĞAN DIŞI DURUMLAR VE OLAYLARA GÖRE DAVRANMA 6.1. OLAĞAN DIŞI DURUMLARDA KONUĞA YARDIMCI OLMA 6.1.1. Konaklama Tesisinde Konuk Güvenliği6.1.2. Konaklama Tesisinin Güvenliği",
-      "KAZANIM": "1. Dönem 2. Sınav İş sağlığı ve güvenliği standartlarına uygun olarak olağan dışı durumlarda konuğa yardımcı olur.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -148,52 +130,45 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "6",
-      "KONU": "6.1.3. Konaklama Tesislerinde Olağan Dışı Durumlara Karşı Alınan Tedbirler6.1.4. Olağan Dışı Olaylar ve Durumlara Karşı Uygulanacak Prosedürler",
-      "KAZANIM": "İş sağlığı ve güvenliği standartlarına uygun olarak olağan dışı durumlarda konuğa yardımcı olur."
+      "KONU": "6.1.3. Konaklama Tesislerinde Olağan Dışı Durumlara Karşı Alınan Tedbirler6.1.4. Olağan Dışı Olaylar ve Durumlara Karşı Uygulanacak Prosedürler"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "6",
-      "KONU": "6.2. MÜDAHALE EDİLMESİ MÜMKÜN OLMAYAN DURUMLARDA KONUĞA YARDIMCI OLMA 6.2.1. Müdahale Edilmesi Mümkün Olmayan Olağan Dışı Durumlar",
-      "KAZANIM": "İş sağlığı ve güvenliği standartlarına uygun olarak müdahale edilmesi mümkün olmayan durumlarda konuğa yardımcı olur."
+      "KONU": "6.2. MÜDAHALE EDİLMESİ MÜMKÜN OLMAYAN DURUMLARDA KONUĞA YARDIMCI OLMA 6.2.1. Müdahale Edilmesi Mümkün Olmayan Olağan Dışı Durumlar"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "6",
-      "KONU": "6.2.2. Olağan Dışı Durumların Kayıt Altına Alınması",
-      "KAZANIM": "İş sağlığı ve güvenliği standartlarına uygun olarak müdahale edilmesi mümkün olmayan durumlarda konuğa yardımcı olur."
+      "KONU": "6.2.2. Olağan Dışı Durumların Kayıt Altına Alınması"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "6",
       "KONU": "7. ÖĞRENME BİRİMİ TELEFON HİZMETLERİ 7.1. TELEFON İLE İLETİŞİM 7.1.1. Konaklama İşletmelerinde Santralin Önemi",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak telefon ile iletişimi sağlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -201,7 +176,6 @@
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "6",
       "KONU": "7.1.1.1. Santral çalışanlarının görevleri7.1.1.2. Santral işlem basamakları ve öneriler",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak telefon ile iletişimi sağlar.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -209,7 +183,6 @@
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "6",
       "KONU": "7.2. TELEFON İLE GELEN MESAJLARI İLETME7.2.1. Mesaj Alma",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak telefon ile gelen mesajları iletir.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -218,7 +191,6 @@
       "SAAT": "6",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -226,7 +198,6 @@
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "6",
       "KONU": "7.2.1.1. Mesaj Formlarında Bulunması Gerken Bilgiler",
-      "KAZANIM": "Nezaket ve görgü kuralları ile işletme prosedürüne uygun olarak telefon ile gelen mesajları iletir.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -234,7 +205,6 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "6",
       "KONU": "8. ÖĞRENME BİRİMİ KAT HİZMETLERİNDE KONUK İŞLEMLERİ 8.1. KAYIP VE BULUNMUŞ EŞYA İŞLEMLERİ 8.1.1. Konaklama İşletmelerinde Kayıp ve Bulunmuş Eşyalar  2.Dönem 1.Sınav",
-      "KAZANIM": "Ulusal standartlara ve işletme prosedürüne uygun olarak kayıp ve bulunmuş eşya işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -242,7 +212,6 @@
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "6",
       "KONU": "8.1.1.1. Kayıp ve Bulunmuş Eşya Defteri8.1.1.2. Kayıp ve Bulunmuş Eşya Formu",
-      "KAZANIM": "2. Dönem 1. Sınav Ulusal standartlara ve işletme prosedürüne uygun olarak kayıp ve bulunmuş eşya işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -250,7 +219,6 @@
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "6",
       "KONU": "8.1.2. Konaklama İşletmelerinde Konuk Tarafından Verilen Hediyeler8.1.2.1. Hediye Eşya Çıkış Formu",
-      "KAZANIM": "Ulusal standartlara ve işletme prosedürüne uygun olarak kayıp ve bulunmuş eşya işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -258,7 +226,6 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "6",
       "KONU": "8.2. ÖZEL DURUMU OLAN KONUK ÇEŞİTLERİ VE UYGULANACAK İŞLEMLER 8.2.1. Özel Durumu Olan Konuklar İçin Uygulanacak İşlemler8.2.1. İşlem Basamakları ve Öneriler",
-      "KAZANIM": "Ulusal standartlara ve işletme prosedürüne uygun olarak özel durumu olan konukların işlemlerini yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -266,7 +233,6 @@
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "6",
       "KONU": "9. ÖĞRENME BİRİMİ YÜZEY VE ZEMİN TEMİZLİĞİ 9.1. YÜZEY VE ZEMİN TEMİZLİĞİ ÖN HAZIRLIĞI 9.1.1. Yüzey Çeşitleri",
-      "KAZANIM": "İşletme prosedürüne uygun olarak yüzey ve zemin temizliği ön hazırlığını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -274,7 +240,6 @@
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "6",
       "KONU": "9.1.2. Yüzey Çeşitlerine Göre Kullanılması Gereken Araç Gereçler",
-      "KAZANIM": "İşletme prosedürüne uygun olarak yüzey ve zemin temizliği ön hazırlığını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -282,7 +247,6 @@
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "6",
       "KONU": "9.2. YÜZEY VE ZEMIN TEMİZLİĞİ YAPMA 9.2.1. Mermer Zeminler9.2.2. Seramik Kaplı Zeminler",
-      "KAZANIM": "İşletme prosedürüne uygun yüzey ve zemin temizliği yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -290,7 +254,6 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "6",
       "KONU": "9.2.3. Sentetik Kaplı Zeminler9.2.4. Beton Zeminler",
-      "KAZANIM": "İşletme prosedürüne uygun yüzey ve zemin temizliği yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -298,7 +261,6 @@
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "6",
       "KONU": "10. ÖĞRENME BİRİMİ ANİMASYON UYGULAMALARINA HAZIRLIK 10.1. YETİŞKİN ANİMASYON UYGULAMALARINA HAZIRLIK 10.1.1. Animasyonun Tanımı ve Önemi",
-      "KAZANIM": "Konaklama tesisinin özelliğine ve aktivite türüne göre yetişkin animasyon uygulamalarına hazırlık yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -306,7 +268,6 @@
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "6",
       "KONU": "10.1.2. Animasyon Çeşitleri10.1.3. Animasyon Çeşitlerine Göre Kullanılacak Ekipmanlar",
-      "KAZANIM": "2. Dönem 2. Sınav Konaklama tesisinin özelliğine ve aktivite türüne göre yetişkin animasyon uygulamalarına hazırlık yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -314,7 +275,6 @@
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "6",
       "KONU": "10.2. GENÇLİK KULÜBÜ UYGULAMALARINA HAZIRLIK 10.2.1. Gençlere Yönelik Animasyon Faaliyetleri 2.Dönem 2.Sınav",
-      "KAZANIM": "Konaklama tesisinin özelliğine ve aktivite türüne göre gençlik kulübü uygulamalarına hazırlık yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -322,7 +282,6 @@
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "6",
       "KONU": "10.3. ANİMASYON AKTİVİTE PROGRAMLARINA HAZIRLIK",
-      "KAZANIM": "Konaklama tesisinin özelliğine ve aktivite türüne göre animasyon aktivite programlarına hazırlık yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -331,7 +290,6 @@
       "SAAT": "6",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]

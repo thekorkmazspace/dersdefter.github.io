@@ -8,7 +8,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "1. Diagnostik                                                                                      1. Elektronik kontrol ünitelerinin yapısı ve bilginin işlenmesi\n2. Elektronik kontrol üniteleri arasında haberleşme yöntemleri",
-      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kontrol ve testleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
     },
     {
@@ -17,7 +16,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "1. Diagnostik                                                                               1.2. Elektronik kontrol üniteleri arasında haberleşme yöntemleri\n1.3. CAN-BUS hattının yapısal özellikleri",
-      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kontrol ve testleri yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
     },
     {
@@ -25,8 +23,7 @@
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
-      "KONU": "1. Diagnostik                                                                                1.4. Diagnostik cihazların çalışma prensibi ve tekniği\n1.5. Hata anında durum tespitini ve parametrelerin yorumlanması",
-      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kontrol ve testleri yapar."
+      "KONU": "1. Diagnostik                                                                                1.4. Diagnostik cihazların çalışma prensibi ve tekniği\n1.5. Hata anında durum tespitini ve parametrelerin yorumlanması"
     },
     {
       "AY": "EYLÜL",
@@ -34,7 +31,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "2. Diagnostik cihazı ile arıza tespiti                                                    2.1. Hata kodu okuma hata giderme-hata silme mantığı\n2.2. Hata çeşitleri\n2.3. Elektronik olarak kontrol edilen elemanların diagnostik cihazıyla bağımsız olarak çalıştırılması",
-      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile arıza tespiti ve onarımını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
     },
     {
@@ -43,7 +39,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "2. Diagnostik cihazı ile arıza tespiti                                                          2.4. Bölgesel çalıştırma yöntemiyle arıza tespiti\n2.5. Hareketli sensör testi",
-      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile arıza tespiti ve onarımını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
     },
     {
@@ -51,16 +46,14 @@
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
-      "KONU": "3. Diagnostik cihazı ile kodlama                                                     3.1. Değiştirilen parçaların araca tanıtılması\n3.2. Elektronik kontrol ünitesinin yeniden programlanması\n3.3. Güncellenmiş programların yüklenmesi",
-      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kodlama yapar."
+      "KONU": "3. Diagnostik cihazı ile kodlama                                                     3.1. Değiştirilen parçaların araca tanıtılması\n3.2. Elektronik kontrol ünitesinin yeniden programlanması\n3.3. Güncellenmiş programların yüklenmesi"
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
-      "KONU": "3. Diagnostik cihazı ile kodlama                                                     3.1. Değiştirilen parçaların araca tanıtılması\n3.2. Elektronik kontrol ünitesinin yeniden programlanması\n3.3. Güncellenmiş programların yüklenmesi\nATATÜRKÜN CUMHURİYETÇİLİK İLKESİ",
-      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak diagnostik cihazı ile kodlama yapar."
+      "KONU": "3. Diagnostik cihazı ile kodlama                                                     3.1. Değiştirilen parçaların araca tanıtılması\n3.2. Elektronik kontrol ünitesinin yeniden programlanması\n3.3. Güncellenmiş programların yüklenmesi\nATATÜRKÜN CUMHURİYETÇİLİK İLKESİ"
     },
     {
       "AY": "EKIM",
@@ -68,7 +61,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "4. Egzoz emisyon sistemleri                                                          4.1. Emisyonları tanımlama ve çeşitleri\n4.2. Benzinli ve dizel motorlarda egzoz emisyonları ve çevreye etkileri",
-      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon sistemlerinin kontrolünü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
     },
     {
@@ -77,7 +69,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "4. Egzoz emisyon sistemleri                                                             4.3. Motorlu araçlardaki egzoz emisyonuna etki eden faktörler\n4.4. Benzinli ve dizel motorlu araçlardaki emisyonları düşürmek için kullanılan donanımlar\n10 KASIM ATATÜKÜ ANMA",
-      "KAZANIM": "1. Dönem 1. Sınav 4. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon sistemlerinin kontrolünü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
     },
     {
@@ -86,7 +77,6 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
     },
     {
@@ -95,7 +85,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "4. Egzoz emisyon sistemleri                                                            4.5. Katalitik konverter sisteminin kontrolü\n4.6. Dizel partikül filtresinin kontrolü\n4.7. Karter havalandırmanın kontrol ve bakımı\n24 KASIM  ÖĞRETMENLER GÜNÜ",
-      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon sistemlerinin kontrolünü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
     },
     {
@@ -104,7 +93,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "4. Egzoz emisyon sistemleri                                                                   4.8. EGR sisteminin kontrolü\n4.9. Karbon kanister sisteminin kontrolü\n4.10. Adblue SCR sisteminin kontrolü",
-      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon sistemlerinin kontrolünü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
     },
     {
@@ -113,7 +101,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "5. Egzoz emisyon ölçümü                                                                               5.1. Benzinli ve dizel motorlarda kullanılan egzoz emisyon kontrol cihazlarının özellikleri ve bakımları\n5.2. Egzoz emisyon kontrol cihazları ile ölçüm yaparken dikkat edilecek hususlar",
-      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon ölçümü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
     },
     {
@@ -122,7 +109,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "5. Egzoz emisyon ölçümü                                                                    5.3. Emisyon değerlerini yorumlama\n5.4. Emisyonlarla ilgili ulusal ve uluslararası yasal zorunluluklar",
-      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon ölçümü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
     },
     {
@@ -131,7 +117,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "5. Egzoz emisyon ölçümü                                                        5.5. Kompresyon basınç değerlerinin anlamını açıklar. \n5.6. Kompresyon testinin yapılışını ve motorda gerçekleşen kompresyonun anlamı                                                                                                                                                                                                          ATATÜRKÜN SANAYİLEŞMEYE VERDİĞİ ÖNEM",
-      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon ölçümü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
     },
     {
@@ -140,7 +125,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "5. Egzoz emisyon ölçümü                                                             5.7. Silindirlere giren yabancı cisimlerin motora oluşturacağı tehlikeler\n5.8. Emme manifoldu vakumunun anlamı\n5.9. Emme manifoldu vakumunun ölçülmesi",
-      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon ölçümü yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
     },
     {
@@ -148,8 +132,7 @@
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
-      "KONU": "5. Egzoz emisyon ölçümü                                                                  5.10. Emisyon testinin sonuçlarını yorumlayarak arızayı belirleme\n5.11. Egzoz emisyon kontrol cihazlarının bakımını yapma\nATATÜRKÜN DEVLETÇİLİK İLKESİ",
-      "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak egzoz emisyon ölçümü yapar."
+      "KONU": "5. Egzoz emisyon ölçümü                                                                  5.10. Emisyon testinin sonuçlarını yorumlayarak arızayı belirleme\n5.11. Egzoz emisyon kontrol cihazlarının bakımını yapma\nATATÜRKÜN DEVLETÇİLİK İLKESİ"
     },
     {
       "AY": "OCAK",
@@ -157,7 +140,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "6. Silindir kaçak testi                                                                         6.1. Motor sentesini ve benzinli-dizel motorlarda silindir basıncı\n6.2. Silindir kaçak testinin amacı",
-      "KAZANIM": "1. Dönem 2. Sınav 6. İş sağlığı ve güvenliği tedbirlerini alarak silindir kaçak testi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
     },
     {
@@ -165,48 +147,42 @@
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili",
-      "KAZANIM": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
-      "KONU": "6. Silindir kaçak testi                                                                              6.3. Silindir kaçak testi cihazının görevi çalışması\n6.4. Silindir kaçak testinin yapılması ve sonuçları",
-      "KAZANIM": "6. İş sağlığı ve güvenliği tedbirlerini alarak silindir kaçak testi yapar."
+      "KONU": "6. Silindir kaçak testi                                                                              6.3. Silindir kaçak testi cihazının görevi çalışması\n6.4. Silindir kaçak testinin yapılması ve sonuçları"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
-      "KONU": "6. Silindir kaçak testi                                                                    6.5. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirleme",
-      "KAZANIM": "6. İş sağlığı ve güvenliği tedbirlerini alarak silindir kaçak testi yapar."
+      "KONU": "6. Silindir kaçak testi                                                                    6.5. Silindir kaçak testinin sonuçlarını yorumlayarak arızanın yerini belirleme"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
-      "KONU": "7. Kompresyon ve vakum testi                                                           7.1. Kompresyon testinin amacı\n7.2. Kompresyon test cihazının görevi ve çalışması",
-      "KAZANIM": "7. İş sağlığı ve güvenliği tedbirlerini alarak kompresyon ve vakum testi yapar."
+      "KONU": "7. Kompresyon ve vakum testi                                                           7.1. Kompresyon testinin amacı\n7.2. Kompresyon test cihazının görevi ve çalışması"
     },
     {
       "AY": "ŞUBAT",
@@ -214,7 +190,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "7. Kompresyon ve vakum testi                                                       7.3. Kompresyon basınç değerlerinin anlamı\n7.4. Kompresyon testinin yapılışı ve motorda gerçekleşen kompresyonun anlamı                                                                                                                                                   ATATÜRKÜN MİLLİYETÇİLİK İLKESİ",
-      "KAZANIM": "7. İş sağlığı ve güvenliği tedbirlerini alarak kompresyon ve vakum testi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
     },
     {
@@ -223,7 +198,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "7. Kompresyon ve vakum testi                                                       7.5. Silindirlere giren yabancı cisimlerin motora oluşturacağı tehlikeler",
-      "KAZANIM": "7. İş sağlığı ve güvenliği tedbirlerini alarak kompresyon ve vakum testi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
     },
     {
@@ -232,7 +206,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "7. Kompresyon ve vakum testi                                                  7.6. Emme manifoldu vakumunun anlamı\n7.7. Emme manifoldu vakumunun ölçülmesi\n12 MART İSTİKLAL MARŞININ KABULÜ VE M.AKİF ERSOYU ANMA",
-      "KAZANIM": "7. İş sağlığı ve güvenliği tedbirlerini alarak kompresyon ve vakum testi yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
     },
     {
@@ -241,7 +214,6 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
     },
     {
@@ -250,7 +222,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "8. Motor periyodik bakımı                                                                8.1. Periyodik bakımın tanımı önemi ve bakımın türleri\n8.2. Hava ve yakıt filtresinin bakımı\n8.3. Ateşleme sisteminin bakımı\n18 MART ÇANAKKALE ZAFERİ VE ÖNEMİ",
-      "KAZANIM": "8. İş sağlığı ve güvenliği tedbirlerini alarak motorun periyodik bakımlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
     },
     {
@@ -259,7 +230,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "8. Motor periyodik bakımı                                                        8.4. Yakıt sisteminin bakımı\n8.5. Pozitif Karter Havalandırma sisteminin bakımı\n8.6. Soğutma sisteminin bakımı",
-      "KAZANIM": "8. İş sağlığı ve güvenliği tedbirlerini alarak motorun periyodik bakımlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
     },
     {
@@ -268,7 +238,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "8. Motor periyodik bakımı                                                             8.7. Triger kayışının ve gergi rulmanlarının bakımı\n8.8. Supap sisteminin bakımı\n8.9. Yakıt buharı önleme sisteminin bakımı\nATATÜRKÜN LAİKLİK İLKESİ",
-      "KAZANIM": "2. Dönem 1. Sınav 8. İş sağlığı ve güvenliği tedbirlerini alarak motorun periyodik bakımlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
     },
     {
@@ -277,7 +246,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 1 ARIZA TEŞHİSİ VE PERİYODİK BAKIM",
       "KONU": "8. Motor periyodik bakımı                                                         8.10. Motor yağı kontrolün\n8.11. Egzoz boru ve susturucuların kontrolü\n8.12. Katalitik konverterin kontrolü",
-      "KAZANIM": "8. İş sağlığı ve güvenliği tedbirlerini alarak motorun periyodik bakımlarını yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
     },
     {
@@ -286,7 +254,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "1. Arıza kaynağının tespiti                                                                 1.1. Arıza tanımı\n1.2. Arıza bulma metotları\n1.3. Arıza tespit etme yöntemleri\n1.4. Arıza giderme yöntemleri\n 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI",
-      "KAZANIM": "1. İş sağlığı ve güvenliği önlemlerini alarak uygun ölçü aleti ve kontrol yöntemi kullanıp devrenin elektriksel parametrelerine dikkat ederek arıza kaynağını tespit eder.                                                                                                                                                          ATATÜRK ün çocuklara verdiği önemi bilir.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
     },
     {
@@ -295,7 +262,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "1. Arıza kaynağının tespiti                                                               1.5. Çalışma ortam yerleri\n1.6. Çalışma ortamlarında bulunacak araç gereçleri\n1.7. İş alanı tertip ve düzeni\n1.8. Bakım yöntemlerinin işlem basamakları",
-      "KAZANIM": "1. İş sağlığı ve güvenliği önlemlerini alarak uygun ölçü aleti ve kontrol yöntemi kullanıp devrenin elektriksel parametrelerine dikkat ederek arıza kaynağını tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
     },
     {
@@ -304,7 +270,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "1. Arıza kaynağının tespiti                                                             1.9. Bakım araç gereç özellikleri\n1.10. Çalışma donanımları bakım onarım işlem basamakları\n1.11. İş planlaması işlem basamakları\n1.12. Bakım onarım işlemi sonuçları\n1 MAYIS EMEK VE DAYANIŞMA GÜNÜ",
-      "KAZANIM": "1. İş sağlığı ve güvenliği önlemlerini alarak uygun ölçü aleti ve kontrol yöntemi kullanıp devrenin elektriksel parametrelerine dikkat ederek arıza kaynağını tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
     },
     {
@@ -313,7 +278,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "2. Arızalı birimi veya elemanın tespiti                                              2.1. Transformatörün sağlamlık kontrolü\n2.2. Kondansatörün sağlamlık kontrolü",
-      "KAZANIM": "2. İş sağlığı ve güvenliği önlemlerini alarak uygun ölçü aleti ve kontrol yöntemi kullanıp devrenin elektriksel parametrelerine dikkat ederek arızalı birim veya elemanı tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
     },
     {
@@ -322,7 +286,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "2. Arızalı birimi veya elemanın tespiti                                               2.3. Diyotun sağlamlık kontrolü\n2.4. Transistörün sağlamlık kontrolü\n2.5. Elektronik karttan devre elemanını değiştirme işleminde dikkat edilecek hususlar                                                                                                                                                               19 Mayıs  ATATÜRK ü Anma Gençlik ve Spor Bayramı",
-      "KAZANIM": "2. İş sağlığı ve güvenliği önlemlerini alarak uygun ölçü aleti ve kontrol yöntemi kullanıp devrenin elektriksel parametrelerine dikkat ederek arızalı birim veya elemanı tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
     },
     {
@@ -331,7 +294,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "2. Arızalı birimi veya elemanın tespiti                                                 2.6. Elektronik devrenin çalışma şekline göre arıza önceliklerini sıralama\n2.7. Elektrik elektronik devrelerde arıza giderme yöntemlerini sıralama \nATATÜRKÜN İNKILAPÇILIK İLKESİ",
-      "KAZANIM": "2. İş sağlığı ve güvenliği önlemlerini alarak uygun ölçü aleti ve kontrol yöntemi kullanıp devrenin elektriksel parametrelerine dikkat ederek arızalı birim veya elemanı tespit eder.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
     },
     {
@@ -340,7 +302,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "3. Elektrik elektronik devrelerde arıza giderme                                 3.1. Elektrik devrelerde arıza nedenleri\n3.2. Elektrik malzemelerin değişimi sırasında dikkat edilecek hususlar",
-      "KAZANIM": "2. Dönem 2. Sınav 3. İş sağlığı ve güvenliği önlemlerini alarak arıza giderme metotlarına uygun şekilde elektrik elektronik devrelerde onarım yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
     },
     {
@@ -349,7 +310,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "3. Elektrik elektronik devrelerde arıza giderme                                  3.3. Elektronik devrelerde arıza nedenleri\n3.4. Elektronik devre elamanlarının değişimi sırasında dikkat edilecek hususlar",
-      "KAZANIM": "3. İş sağlığı ve güvenliği önlemlerini alarak arıza giderme metotlarına uygun şekilde elektrik elektronik devrelerde onarım yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
     },
     {
@@ -358,7 +318,6 @@
       "SAAT": "2",
       "ÜNİTE": "MODÜL 2 ARIZA ANALİZ YÖNTEMLERİ VE ARIZA GİDERME",
       "KONU": "3. Elektrik elektronik devrelerde arıza giderme                                 3.5. Arızası giderilen devrelerin son kontrolleri\n3.6. Arızası giderilen devrenin çalışmasını kontrol etme",
-      "KAZANIM": "3. İş sağlığı ve güvenliği önlemlerini alarak arıza giderme metotlarına uygun şekilde elektrik elektronik devrelerde onarım yapar.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     },
     {
@@ -367,7 +326,6 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
     }
   ]
