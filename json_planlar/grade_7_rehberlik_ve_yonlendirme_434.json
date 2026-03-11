@@ -1,80 +1,71 @@
 {
-  "sinif": "3",
-  "ders": "Müzik-3",
+  "sinif": "7",
+  "ders": "Rehberlik ve Yönlendirme",
   "plan": [
     {
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
-      "KAZANIM": "Mü.3.A.4. İstiklâl Marşını saygıyla söyler."
+      "KAZANIM": "Yeni durumlar ve değişimlerle ilgili duygularını ifade eder."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
-      "KAZANIM": "Mü.3.A.4. İstiklâl Marşını saygıyla söyler."
+      "KAZANIM": "Zamanını etkili kullanmanın akademik gelişimine etkisini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
-      "KAZANIM": "Mü.3.A.1. Konuşurken ve şarkı söylerken sesini doğru kullanır."
+      "SAAT": "2",
+      "KAZANIM": "Zamanını etkili kullanmanın akademik gelişimine etkisini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
-      "KAZANIM": "Mü.3.A.1. Konuşurken ve şarkı söylerken sesini doğru kullanır."
+      "KAZANIM": "Eğitsel çabanın akademik hedeflere ulaşmadaki etkisini değerlendirir."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
-      "KAZANIM": "Mü.3.A.2. Birlikte söyleme kurallarına uyar."
+      "KAZANIM": "Akademik çalışmalarını zamanında bitirmede kararlı olur."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
-      "KAZANIM": "Mü.3.A.2. Birlikte söyleme kurallarına uyar."
+      "SAAT": "2",
+      "KAZANIM": "Yapabildiği ve hoşlandığı etkinliklere dayalı olarak ilgi ve yeteneklerine örnekler verir."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
-      "KAZANIM": "Mü.3.A.3. Belirli gün ve haftalarla ilgili müzikleri anlamına uygun söyler"
+      "SAAT": "2",
+      "KAZANIM": "İlgi ve hobilerini ayırt eder."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
-      "KAZANIM": "Mü.3.A.7. Müzik çalışmalarını sergiler."
+      "KAZANIM": "İlgi ve hobilerini ayırt eder."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
-      "KAZANIM": "Mü.3.B.1. Müzikteki uzun ve kısa ses sürelerini fark eder."
+      "KAZANIM": "1. Dönem 1. Sınav Akademik çalışmaları ile ilgili değişen durumlara uygun davranışlar sergiler."
     },
     {
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
-      "SAAT": "1",
+      "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
@@ -83,70 +74,62 @@
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
-      "KAZANIM": "Mü.3.B.1. Müzikteki uzun ve kısa ses sürelerini fark eder."
+      "KAZANIM": "Mesleklerle ilgili bilgi kaynaklarına ulaşır."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
-      "KAZANIM": "Mü.3.B.1. Müzikteki uzun ve kısa ses sürelerini fark eder."
+      "KAZANIM": "Her bireyin hak ve sorumlulukları olduğunu bilir."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
-      "KAZANIM": "Mü.3.B.2. Müzikteki ses yüksekliklerini grafikle gösterir."
+      "KAZANIM": "Kendisi için verimli öğrenme ve ders çalışma koşullarını oluşturur."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
-      "KAZANIM": "Mü.3.B.2. Müzikteki ses yüksekliklerini grafikle gösterir."
+      "KAZANIM": "Öğrenme etkinliklerine yönelik duygu ve\ndüşüncelerini ifade eder."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
-      "KAZANIM": "Mü.3.B.3. Duyduğu basit ritim ve ezgiyi tekrarlar."
+      "KAZANIM": "Arkadaşlarının olumlu özelliklerini takdir eder."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
-      "KAZANIM": "Mü.3.B.4. Müzikleri uygun hız ve gürlükte seslendirir."
+      "KAZANIM": "Arkadaşlık ilişkilerinde yaşadığı sorunları yapıcı yollarla çözer."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
-      "KAZANIM": "Mü.3.B.5. Müziklerdeki aynı ve farklı söz kümelerini harekete dönüştürür."
+      "SAAT": "2",
+      "KAZANIM": "Derste dinleme not alma ve soru sorma gibi teknikleri kullanır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
-      "KAZANIM": "Mü.3.B.6. Notalar ile renkleri eşleştirir."
+      "KAZANIM": "1. Dönem 2. Sınav Belleğini güçlendirecek stratejileri açıklar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
-      "SAAT": "1",
+      "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "KAZANIM": "Etkinlik Haftası"
@@ -154,7 +137,7 @@
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
-      "SAAT": "1",
+      "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
@@ -162,7 +145,7 @@
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
-      "SAAT": "1",
+      "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
@@ -170,52 +153,46 @@
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
-      "KAZANIM": "Mü.3.B.6. Notalar ile renkleri eşleştirir."
+      "SAAT": "2",
+      "KAZANIM": "Sınavlara hazırlanmayı etkileyen faktörleri açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL ALGI VE BİLGİLENME",
-      "KAZANIM": "Mü.3.B.7. Seslerin yüksekliklerini sürelerinin uzunluk ve kısalıklarını ayırt eder."
+      "SAAT": "2",
+      "KAZANIM": "Sınavlara hazırlanma davranışlarını gözden geçirir."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL YARATICILIK",
-      "KAZANIM": "Mü.3.C.1. Dinlediği müziklerle ilgili duygu ve düşüncelerini ifade eder."
+      "SAAT": "2",
+      "KAZANIM": "Sosyal ipuçlarını yorumlayarak uygun tepkiler verir."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL YARATICILIK",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
-      "KAZANIM": "Mü.3.C.1. Dinlediği müziklerle ilgili duygu ve düşüncelerini ifade eder."
+      "KAZANIM": "Bilişsel yeterlilikleri ve kişilik özelliklerini\ngeliştirebileceğine inanır."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL YARATICILIK",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
-      "KAZANIM": "Mü.3.C.2. Müziklerde yer alan farklı ezgi cümlelerini dansa ve oyuna dönüştürür."
+      "KAZANIM": "Zorbalık ve türlerini bilir."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL YARATICILIK",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
-      "KAZANIM": "Mü.3.C.3. Ezgi denemeleri yapar."
+      "KAZANIM": "Zorbalıkla baş etme yollarını kullanır."
     },
     {
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
-      "SAAT": "1",
+      "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
@@ -224,111 +201,98 @@
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL YARATICILIK",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
-      "KAZANIM": "Mü.3.C.3. Ezgi denemeleri yapar."
+      "KAZANIM": "Yetenekleriyle derslerin etkinliklerini\nilişkilendirir."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL YARATICILIK",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
-      "KAZANIM": "Mü.3.C.4. Farklı ritmik yapılardaki ezgilere uygun hareket eder."
+      "KAZANIM": "Yetenekleriyle mesleklerin özelliklerini\nilişkilendirir."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİKSEL YARATICILIK",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
-      "KAZANIM": "Mü.3.C.4. Farklı ritmik yapılardaki ezgilere uygun hareket eder."
+      "KAZANIM": "2. Dönem 1. Sınav Bilişim teknolojileri kullanımında kendini yönetir."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
-      "KAZANIM": "Mü.3.D.1. Bildiği çalgıları özelliklerine göre sınıflandırır."
+      "KAZANIM": "Karakter güçleriyle iyi oluşu arasında bağ kurar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
-      "KAZANIM": "Mü.3.D.1. Bildiği çalgıları özelliklerine göre sınıflandırır."
+      "KAZANIM": "Sahip olduğu karakter güçlerini geliştirmek için çaba gösterir."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
-      "KAZANIM": "Mü.3.D.2. Çevresindeki halk danslarını müzikleri ile tanır"
+      "KAZANIM": "Baskı altında serinkanlı davranışlar sergiler."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
-      "KAZANIM": "Mü.3.D.2. Çevresindeki halk danslarını müzikleri ile tanır."
+      "KAZANIM": "Bir ürün ortaya koymanın zaman çaba ve sabır gerektirdiğini fark eder."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
-      "KAZANIM": "Mü.3.D.3. Farklı türlerdeki müzikleri dinleyerek müzik kültürünü geliştirir."
+      "KAZANIM": "Başarı ve başarısızlık durumlarını açıklama biçimlerini değerlendirir."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
-      "KAZANIM": "Mü.3.A.6. Kendi kültüründen oyunlar oynayarak şarkı ve türküler söyler."
+      "KAZANIM": "Okulun kendisi için önemini açıklar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
-      "KAZANIM": "Mü.3.A.6. Kendi kültüründen oyunlar oynayarak şarkı ve türküler söyler."
+      "KAZANIM": "Bu zamana kadar verdiği kararları karar verme sürecini etkileyen faktörler açısından değerlendirir."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
-      "SAAT": "1",
-      "ÜNİTE": "DİNLEME - SÖYLEME",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
-      "KAZANIM": "Mü.3.A.3. Belirli gün ve haftalarla ilgili müzikleri anlamına uygun söyler"
+      "KAZANIM": "2. Dönem 2. Sınav Karar verme basamaklarını açıklar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
-      "KAZANIM": "Mü.3.D.4. Millî dinî ve manevi değerler ile ilgili müzik dağarcığına sahip olur."
+      "KAZANIM": "Karar verme basamaklarını kullanır."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
-      "SAAT": "1",
-      "ÜNİTE": "MÜZİK KÜLTÜRÜ",
+      "SAAT": "2",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
-      "KAZANIM": "Mü.3.D.4. Millî dinî ve manevi değerler ile ilgili müzik dağarcığına sahip olur."
+      "KAZANIM": "Sınıf rehberlik programı\netkinliklerineyaşantılarına ilişkin duygu ve düşüncelerini yansıtır."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
-      "SAAT": "1",
+      "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
