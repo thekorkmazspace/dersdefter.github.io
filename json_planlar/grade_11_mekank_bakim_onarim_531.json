@@ -1,0 +1,339 @@
+{
+  "sinif": "11",
+  "ders": "MEKANK BAKIM ONARIM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ MAKİNE YERLEŞİM PLANI\n1.\tMAKİNENİN KURMA TALİMATI\n1.1. Makine kullanma kılavuzu \n1.2. Makinenin yerleşim planını",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Makine Kullanma kılavuzu ve katalogları okur."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "6",
+      "KONU": "1.3. Makine teknolojisi alanı standart donanımları",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Makine Kullanma kılavuzu ve katalogları okur."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "6",
+      "KONU": "2.\tMAKİNENİN KURULUM YERİ BELİRLEME\n2.1. Makine yerleşim PLANI örnekleri",
+      "KAZANIM": "Makine yerleşim PLANI yaparak kroki çizimi yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "6",
+      "KONU": "2.2. Makine ile yerleşim PLANI krokisi uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Makine yerleşim PLANI yaparak kroki çizimi yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "6",
+      "KONU": "3.\tMAKİNENİN ALT YAPISI HAZIRLAMA\n3.1. Basınçlı hava tesisatı\n3.2. Basınçlı hava tesisatının montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Yerleşim PLANI çizerek basıçlı hava tesisatını hazırlar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ MAKİNE KURMA İŞLEMLERİ\n1.\tMAKİNE YERLEŞİMİ\n1.1. Makine nakliye emniyetlerinin sökümü\n1.2. Makineyi abalajından çıkarma",
+      "KAZANIM": "Nakliye emniyetlerini çıkararak makineyi ambalajından güvenli bir şekilde çıkarır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "6",
+      "KONU": "2.ELEKTRİK VE BASINÇLI HAVA TESİSAT BAĞLANTISI\n2.1. Örnek makinelerde elektrik ve basınçlı hava tesisatı  araştırması\n2.2. Makine elektrik ve basınçlı hava tesisatının bağlanması",
+      "KAZANIM": "Makineyi yerleştirerek elektrik ve basınçlı hava tesisatını bağlar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "6",
+      "KONU": "3.\tMAKİNE  HİDROLİK PNÖMATİK VE SOĞUTMA SIVI BAĞLANTISI\n3.1. Makine yağlama yağı ilavesi \n3.2. Hidrolik soğutma sıvısı  ve basınçlı hava tesisatını bağlama \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Makinenin uygun yağlama yağlarını koyarak pnömatik ve soğutma sıvı bağlantısını yapar ve  test eder."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "6",
+      "KONU": "4.\tMAKİNE SABİTLEME\n4.1. Makinenin sabitlenmesi\n4.2.Koruyucu yağları temizleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Makineyi sabitleyerek koruyucu yağlarını temizler."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "6",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "6",
+      "KONU": "5.\tMAKİNE YAĞLAMA VE PARÇALARI SIKMA\n5.1. Makine yağlama yağı\n5.2. Gevşeyen parçaların kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Makineye yağlama yağı katar  ve gevşeyen parçalarını sıkar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ MAKİNELERİN DÜZENLİ BAKIMI\n1.\tBAKIM TAKVİMİ OLUŞTURMA\n1.1. Günlük haftalık aylık ve altı aylık bakım takvimi oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Günlük haftalık aylık ve altı aylık bakım takvimini oluşturur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "6",
+      "KONU": "2.\tKATALOG OKUMA VE PARÇA SEÇİMİ\n2.1. Makine  kataloglarının okunması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Makine katologlarını ve atölye yerleşim ve tesisat planlarını okur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "6",
+      "KONU": "3.\tSIZDIRMAZLIK ELEMANLARI  KONTROLÜ\n3.1. Sızdırmazlık elemanları\n3.2. Tablolardan standart sızdırmazlık elemanlarının seçimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Sızdırmazlık elemanlarını kullanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "6",
+      "KONU": "4.\tKARTER VE BOYUN SIZDIRMAZLIK ELEMANLARI\n4.1. Karter sızdırmazlık elemanları\n4.2. Karter sızdırmazlık elemanlarının değişimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Karter ve boyun sızdırmazlık elemanlarını değiştirir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "6",
+      "KONU": "5. PARÇA SEÇİMİ VE MONTAJI\n5.1. Kataloglardaki resimlerin okunması\n5.2. Kataloglardan parça seçimi \n5.3. Katalogdan seçilen parçanın makineye montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Kataloglardaki makine ve parça resimlerini okuyarak parça seçimi ve montajını yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ SİSTEMLERİN DÜZENLİ KONTROLLERİ\n1.\tRULMAN YATAK DİŞLİ MİL  KAMA VE BURÇLARIN BAKIMI\n1.1.\tAktarma organları \n1.2.\tAktarma organlarının makine ve mekanizmalardaki önemi\n1.3.\tAktarma dişlilerinin rulman ve burçların kontrolü \n1.Dönem 2.Sınav",
+      "KAZANIM": "Rulman yatak dişli mil  kama ve burçların bakımını yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "6",
+      "KONU": "2.\tKAVRAMA VE FREN SİSTEMİ KONTROLÜ\n2.1. Kavrama ve fren sistemleri \n2.2. Mekanizmaların kavrama ve fren sistemini kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Kavrama ve fren sistemlerinin kontrolünü  yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "6",
+      "KONU": "3.\tKAYIŞ KASNAK SİSTEMİ VE KORUYUCULARININ BAKIMI \n3.1. Kayış kasnak sistemi ve koruyucular \n3.2. Kayış standartlarına uygun kataloglardan kayış seçimi\n3.3. Kayış kasnak sistemi ve koruyucuların makine üzerinde söküp takılması",
+      "KAZANIM": "Kayış kasnak sistemi ve koruyucularının bakımını  yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "6",
+      "KONU": "4.\tMAKİNE YAĞLAMA SİSTEMLERİ KONTROLÜ \n4.1. Makine yağlarının özellikleri ve çeşitleri \n4.2. Yağın viskozitesi\n4.3. Yağlama pompaları ve çeşitleri\n4.4. Yağ kataloglarının kullanılması",
+      "KAZANIM": "Makine yağlama sistemlerinin kontrolünü yaparak yağ katologlarını kullanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "6",
+      "KONU": "5.\tYAĞ DEĞİŞİMİ\n5.1. Makine yağlama sistemlerinin kontrolü \n5.2. Makine yağ değişimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Yağ değişimini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ KALDIRMA VE TAŞIMA ARAÇLARI\n1.\tTEL HALAT VE ZİNCİRLERLE KALDIRMA\n1.1.\tKaldırılacak ağırlığa uygun şekilde tel halat ve kaldırma zinciri seçimi\n1.2.\tTel halat ve yük kaldırma zincirlerinin hesaplamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Tel halat ve yük kaldırma zincirlerini kullanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "6",
+      "KONU": "1.3.\tYük ve kaldırma zincirlerinin gereçleri\n1.4.\tTel halat ve yük kaldırma zincirlerini ile kaldırma işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Tel halat ve yük kaldırma zincirlerini kullanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "6",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "6",
+      "KONU": "2.\tKRİKOLAR\n2.1.\tKrikoların çalışma sistemi ve çeşitleri \n2.2.\tKrikolarla yük kaldırma işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Krikoları sınıflandırarak krikoları kullanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "6",
+      "KONU": "3.\tVİNÇLER\n3.1.\tVinçlerin çalışma sistemi ve çeşitleri \n3.2.\tVinçler ile yük kaldırma işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Vinçleri sınıflandırarak emniyet tedbirlerini alarak kullanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "6",
+      "KONU": "4.\tFORKLİFTLER\n4.1.\tForklift çalışma sistemi ve çeşitleri \n4.2.\tForklift ile yük kaldırma ve taşıma \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Forkliftlerle yük taşır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "6",
+      "KONU": "5.\tELEVATÖRLER\n5.1. Elevatörler çalışma sistemi ve çeşitleri \n5.2. Elevatör ile yük taşıma işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Elevatörlerle yük taşır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ ARIZA TESPİTİ\n1.\tARIZALI BÖLÜM TESPİTİ\n1.1. Makine arıza tespit yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Arızalı bölüm ve parçayı tespit eder."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "6",
+      "KONU": "1.2. Duyu organlarıyla arıza tespiti\n1.3. Cihazla arıza tespiti",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Arızalı bölüm ve parçayı tespit eder."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "6",
+      "KONU": "2.\tARIZA NEDENLERİ\n2.1. Makinelerin çalışma sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Makinanın çalışma sistemini tanıyarak arızalı makinenin arıza sebebini araştırır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "6",
+      "KONU": "2.2. Arıza sebebinin araştırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Makinanın çalışma sistemini tanıyarak arızalı makinenin arıza sebebini araştırır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ ARIZALI MAKİNENİN ONARIMI\n1. ARIZALI BÖLÜM TEMİZLEMESİ\n1.1.\tVakum makinesi ve diğer temizleme malzemelerinin kullanımı\n1.2.\tVakumla temizleme tekniği",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Vakum makinesi ve diğer temizleme malzemeleri üstüpü bez güderi vs. kullanarak arızalı kısmı temizler."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "6",
+      "KONU": "2. ARIZALI PARÇA SÖKÜMÜ\n2.1.\tSökme ve montaj takımlarının çeşitleri ve kullanılma tekniği \n2.2.\tArızalı parçayı sökme işlem basamakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Sökme takma takımlarını kullanarak arızalı parçayı söker."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "6",
+      "KONU": "2.3.\tMontaj resmine göre parça numaralama\n2.4.\tArızalı parçayı sökme uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Sökme takma takımlarını kullanarak arızalı parçayı söker."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "6",
+      "KONU": "3. ARIZALI PARÇA TAMİRİ VE DEĞİŞİMİ\n3.1. Arızalı parça tamiri veveya parça değişimi arasındaki ayrıntı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Arızalı parçayı onarır veya değiştirir."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "6",
+      "KONU": "3.2. Arızalı parçayı tamir ve parça değişimi işlem sırası\n3.3. Arızalı parçanın tamiri veveya parça değişim  \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Arızalı parçayı onarır veya değiştirir."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}
