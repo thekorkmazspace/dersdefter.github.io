@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "10",
       "KONU": "1. ÖĞRENME BİRİMİ İÇ MEKÂN ELEMANLARININ ÇİZİMİ\n1.1. RÖLÖVE ÇİZİMİ \n1.1.1. Mekân Planının Çizimi \n1.1.2. Planda Yapı Elemanların Çizimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Temel teknik resim ve CAD çizim kurallarına uygun röleve çizimi yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "10",
       "KONU": "1.1.3. Planda Yapı Elemanlarının Ölçülendirilmesi \n1.1.4. Planda Desen ve Renklendirme\n1.1.5. Planda Cephelerin İşaretlenmesi",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Temel teknik resim ve CAD çizim kurallarına uygun röleve çizimi yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "10",
-      "KONU": "1.2. CEPHE GÖRÜNÜŞLERİNİN ÇİZİMİ \n1.2.1. A-A Cephesi \n1.2.2. B-B Cephesi"
+      "KONU": "1.2. CEPHE GÖRÜNÜŞLERİNİN ÇİZİMİ \n1.2.1. A-A Cephesi \n1.2.2. B-B Cephesi",
+      "KAZANIM": "Temel teknik resim ve CAD çizim kurallarına uygun iç mekanda cephe görünüşleri üzerinden yapı elemanları çizimini yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "10",
       "KONU": "1.2.3. C-C Cephesi \n1.2.4. D-D Cephesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Temel teknik resim ve CAD çizim kurallarına uygun iç mekanda cephe görünüşleri üzerinden yapı elemanları çizimini yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "10",
       "KONU": "2. ÖĞRENME BİRİMİ GRUP MOBİLYALAR \n2.1. ANTRE MOBİLYALARI \n2.1.1. Mekân PLANI \n2.1.2. Mekân Mobilyalarının Çizimi\n2.1.3. Mekân Mobilyasının Antre Dolabının Üç Boyutlu Çizimi \n2.1.4. Mekân Mobilyasının Antre Dolabının Antre Dolabı Montaj Resmi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Antre yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu antre mobilyalarını çizer."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "10",
-      "KONU": "2.2. MUTFAK MOBİLYALARI \n2.2.1. Kullanım Biçimlerine Göre Mutfaklar\n2.2.2. Tasarım Düzenlerine Göre Mutfaklar"
+      "KONU": "2.2. MUTFAK MOBİLYALARI \n2.2.1. Kullanım Biçimlerine Göre Mutfaklar\n2.2.2. Tasarım Düzenlerine Göre Mutfaklar",
+      "KAZANIM": "Mutfak yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "10",
-      "KONU": "2.2.3. Mutfakta Ergonomik ve Antropometrik Ölçü \n2.2.4. Mekân Planının Çizimi"
+      "KONU": "2.2.3. Mutfakta Ergonomik ve Antropometrik Ölçü \n2.2.4. Mekân Planının Çizimi",
+      "KAZANIM": "Mutfak yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "10",
       "KONU": "2.2.5. Mekân Planında İşaretli Cephelerin Çizimi \n2.2.6. Mekân Mobilyalarının Net Resmi   \n\n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Mutfak yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "10",
       "KONU": "2.2.7. Mekân Mobilyalarında Üç Boyutlu Modelleme",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Mutfak yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "10",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "10",
       "KONU": "2.3. BANYO MOBİLYALARI\n2.3.1. Banyolarda Kullanılan Donatı Elemanları \n2.3.2. Mekânın Kullanım Amaçları",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Banyo yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizim yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "10",
       "KONU": "2.3.3. Mekân Tasarımında Zemin Duvar Tavan ve Aydınlatma \n2.3.4. Mekânda Tercih Edilen Tasarım Stilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Banyo yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizim yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "10",
       "KONU": "2.3.5. Mekânda Tasarıma Yön Veren Unsurlar \n2.3.6. Mekân Planının Çizimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Banyo yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizim yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "10",
       "KONU": "2.3.7. Mekân Planında İşaretli Cephelerin Çizimi\n2.3.8. Mekân Mobilyalarının Üç Boyutlu Çizimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Banyo yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizim yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "10",
       "KONU": "2.4. YATAK ODASI MOBİLYALARI\n2.4.1. Mekânda Kullanılan Donatılar\n2.4.2. Mekânın Kullanım Amaçları",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Yatak odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "10",
       "KONU": "2.4.3. Mekânın Tasarımında Zemin Duvar Tavan ve Aydınlatma \n2.4.4. Mekânda Tercih Edilen Tasarım Sitilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Yatak odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "10",
-      "KONU": "2.4.5. Mekânda Tasarıma Yön Veren Unsurlar \n2.4.6. Mekân PLANI \n1.Dönem 2.Sınav"
+      "KONU": "2.4.5. Mekânda Tasarıma Yön Veren Unsurlar \n2.4.6. Mekân PLANI \n1.Dönem 2.Sınav",
+      "KAZANIM": "Yatak odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "10",
       "KONU": "2.4.7. Mekân Planında İşaretli Cephelerin Çizimi\n2.4.8. Mekân Mobilyalarında Net Resim",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Yatak odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "10",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "10",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "10",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "10",
-      "KONU": "2.4.9. Mekân Mobilyalarında Üç Boyutlu Modelleme"
+      "KONU": "2.4.9. Mekân Mobilyalarında Üç Boyutlu Modelleme",
+      "KAZANIM": "Yatak odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "10",
-      "KONU": "2.5. SALON MOBİLYALARI \n2.5.1. Mekânda Kullanılan Donatı Elemanları"
+      "KONU": "2.5. SALON MOBİLYALARI \n2.5.1. Mekânda Kullanılan Donatı Elemanları",
+      "KAZANIM": "Salon yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "10",
-      "KONU": "2.5.2. Mekânın Tasarımı Zemin Duvar Tavan ve Aydınlatma  \n2.5.3. Mekânda Kullanılan Tasarım Stilleri"
+      "KONU": "2.5.2. Mekânın Tasarımı Zemin Duvar Tavan ve Aydınlatma  \n2.5.3. Mekânda Kullanılan Tasarım Stilleri",
+      "KAZANIM": "Salon yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "10",
       "KONU": "2.5.4. Mekân Tasarımına Yön Veren Unsurlar \n2.5.5. Mekân PLANI",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Salon yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "10",
       "KONU": "2.5.6. Mekân Planında İşaretli Cephelerin Çizimi\n2.5.7. Mekân Mobilyalarında Net Resmi",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Salon yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "10",
       "KONU": "2.5.8. Mekân Mobilyalarında Üç Boyutlu Modelleme Konsol",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Salon yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "10",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "10",
       "KONU": "2.6. ÇOCUK VE GENÇ ODALARI\n2.6.1. Mekânda Kullanılan Donatı Elemanları",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Çocuk ve genç odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "10",
       "KONU": "2.6.2. Mekânın Kullanıcıları Açısından Faydaları \n2.6.3. Mekân Tasarımında Renk Zemin ve Aydınlatma \n\n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Çocuk ve genç odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "10",
       "KONU": "2.6.4. Mekânda Tercih Edilen Tasarım Stilleri\n2.6.5. Mekânda Tasarıma Yön Veren Unsurlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Çocuk ve genç odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "10",
       "KONU": "2.6.6. Mekân PLANI",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Çocuk ve genç odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "10",
       "KONU": "2.6.7. Mekân Planında İşaretli Cephelerin Çizimi\n2.6.8. Mekân Mobilyalarında Net Resim",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Çocuk ve genç odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "10",
       "KONU": "2.6.9. Mekân Mobilyalarında Üç Boyutlu Modelleme Karyola",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Çocuk ve genç odası yerleşim planını ve cephe görünüşlerini net resim ve üç boyutlu çizer."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "10",
       "KONU": "3. ÖĞRENME BİRİMİ BİLGİSAYARDA MEKÂN DÜZENLEMESİ \n3.1. BİLGİSAYARDA MEKÂN DÜZENLEMEYE HAZIRLIK \n3.1.1. Paket Programın Kurulumu",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Teknik resim ve CAD çizim tekniğine uygun bilgisayarda paket mekan düzenleme programına hazırlık yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "10",
       "KONU": "3.1.2. Paket Programın Çalıştırılması",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Teknik resim ve CAD çizim tekniğine uygun bilgisayarda paket mekan düzenleme programına hazırlık yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "10",
       "KONU": "3.1.3. Paket Programda Menüler",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Teknik resim ve CAD çizim tekniğine uygun bilgisayarda paket mekan düzenleme programına hazırlık yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "10",
       "KONU": "3.2. PROGRAMDA ÇİZİM ORTAMI\n3.2.1. Programda Yerleşim PLANI Çizimi \n3.2.2. Tasarımda Hazır Modüller",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Teknik resim ve CAD çizim tekniğine uygun bilgisayarda paket mekan düzenleme programında çizim ortamı hazırlığı yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "10",
       "KONU": "3.2.3. Renk ve Desen Çalışması \n3.2.4. Bakış Açısı Perspektif",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Teknik resim ve CAD çizim tekniğine uygun bilgisayarda paket mekan düzenleme programında çizim ortamı hazırlığı yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "10",
       "KONU": "3.2.5. Işık Ayarları\n3.2.6. Render Ayarları  \n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Teknik resim ve CAD çizim tekniğine uygun bilgisayarda paket mekan düzenleme programında çizim ortamı hazırlığı yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "10",
       "KONU": "3.2.7. Çıktı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Teknik resim ve CAD çizim tekniğine uygun bilgisayarda paket mekan düzenleme programında çizim ortamı hazırlığı yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "10",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

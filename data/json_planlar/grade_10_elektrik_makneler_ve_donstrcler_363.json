@@ -8,7 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. DÖNÜŞTÜRÜCÜLER",
       "KONU": "1. Konvertörlerin Yapısı\n2. Konvertörlerin Çalışması",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. Konvertörlerin yapısını açıklar.\n2. Konvertörlerin çalışmasını açıklar."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "2",
       "ÜNİTE": "1. DÖNÜŞTÜRÜCÜLER",
       "KONU": "3. Konvertör Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "3. Konvertörlerin kontrollerini yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "1. DÖNÜŞTÜRÜCÜLER",
-      "KONU": "4. İnvertörlerin Yapısı\n5. İnvertörlerin Çalışması"
+      "KONU": "4. İnvertörlerin Yapısı\n5. İnvertörlerin Çalışması",
+      "KAZANIM": "4. İnvertörlerin yapısını açıklar.                                         5. İnvertörlerin çalışmasını açıklar."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. DÖNÜŞTÜRÜCÜLER",
       "KONU": "6. İnvertörlerin Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "6. İnvertörlerin kontrollerini yapar."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "2",
       "ÜNİTE": "2. DOĞRU AKIM MOTORLARI",
       "KONU": "1. Yapısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "1. Doğru akım motorlarının yapısını açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "2. DOĞRU AKIM MOTORLARI",
-      "KONU": "2. Çeşitleri\n2.1. Seri Motorlar\n2.2. Servo Motorlar\n2.3. Step Motorlar"
+      "KONU": "2. Çeşitleri\n2.1. Seri Motorlar\n2.2. Servo Motorlar\n2.3. Step Motorlar",
+      "KAZANIM": "2. Doğru akım motorlarının çeşitlerini sıralar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "2. DOĞRU AKIM MOTORLARI",
-      "KONU": "3. Çalışması"
+      "KONU": "3. Çalışması",
+      "KAZANIM": "3. Doğru akım motorlarının çalışmasını açıklar."
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. DOĞRU AKIM MOTORLARI",
       "KONU": "4. Ölçüm ve Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "4. Doğru akım motorlarının kontrollerini yapar."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. DOĞRU AKIM MOTORLARI",
       "KONU": "4. Ölçüm ve Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 4. Doğru akım motorlarının kontrollerini yapar."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. ASENKRON MOTORLAR",
       "KONU": "1. Yapısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "1. Asenkron motorların yapısını açıklar."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. ASENKRON MOTORLAR",
       "KONU": "2. Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "2. Asenkron motorların çeşitlerini sıralar."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. ASENKRON MOTORLAR",
       "KONU": "3. Çalışması",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "3. Asenkron motorların çalışmasını açıklar."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. ASENKRON MOTORLAR",
       "KONU": "4. Ölçüm ve Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "4. Asenkron motorların kontrollerini yapar."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. ASENKRON MOTORLAR",
       "KONU": "4. Ölçüm ve Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "4. Asenkron motorların kontrollerini yapar."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "2",
       "ÜNİTE": "4. RELÜKTANS MOTORLAR",
       "KONU": "1. Yapısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "1. Relüktans motorun yapısını açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "4. RELÜKTANS MOTORLAR",
-      "KONU": "2. Çeşitleri"
+      "KONU": "2. Çeşitleri",
+      "KAZANIM": "2. Relüktans motorun çeşitlerini sıralar."
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "2",
       "ÜNİTE": "4. RELÜKTANS MOTORLAR",
       "KONU": "3. Çalışması",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 3. Relüktans motorun çalışmasını açıklar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "4. RELÜKTANS MOTORLAR",
-      "KONU": "4. Ölçüm ve Kontrolleri"
+      "KONU": "4. Ölçüm ve Kontrolleri",
+      "KAZANIM": "4. Relüktans motorun kontrollerini yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "4. RELÜKTANS MOTORLAR",
-      "KONU": "4. Ölçüm ve Kontrolleri"
+      "KONU": "4. Ölçüm ve Kontrolleri",
+      "KAZANIM": "4. Relüktans motorun kontrollerini yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "5. SENKRON MOTORLAR",
-      "KONU": "1. Yapısı"
+      "KONU": "1. Yapısı",
+      "KAZANIM": "1. Senkron motorların yapısını açıklar."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "5. SENKRON MOTORLAR",
       "KONU": "2. Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "2. Senkron motorun çeşitlerini sıralar."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "5. SENKRON MOTORLAR",
       "KONU": "3. Senkron Motorlara Yol Verme",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "3. Senkron motora yol verme deneyi yapar."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "5. SENKRON MOTORLAR",
       "KONU": "4. Çalışması",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "4. Senkron motorun çalışmasını açıklar."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "5. SENKRON MOTORLAR",
       "KONU": "5. Ölçüm ve Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "5. Senkron motorun kontrollerini yapar."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. TEKERLEK İÇİ MOTORLAR",
       "KONU": "1. Yapısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "1. Tekerlek içi motorun yapısını açıklar."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. TEKERLEK İÇİ MOTORLAR",
       "KONU": "2. Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 2. Tekerlek içi motorun çeşitlerini sıralar."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. TEKERLEK İÇİ MOTORLAR",
       "KONU": "3. Çalışması",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "3. Tekerlek içi motorun çalışmasını açıklar."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. TEKERLEK İÇİ MOTORLAR",
       "KONU": "4. Ölçüm ve Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "4. Tekerlek içi motorun kontrollerini yapar.                  ATATÜRK ün çocuklara verdiği önemi bilir."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. TEKERLEK İÇİ MOTORLAR",
       "KONU": "4. Ölçüm ve Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "4. Tekerlek içi motorun kontrollerini yapar."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. SENKRON JENERATÖRLER",
       "KONU": "1. Yapısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "1. Senkron jeneratörlerin yapısını açıklar."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. SENKRON JENERATÖRLER",
       "KONU": "2. Çalışması",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "2. Senkron jeneratörlerin çalışmasını açıklar."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. SENKRON JENERATÖRLER",
       "KONU": "3. Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "3. Senkron jeneratörlerin çeşitlerini sıralar.\nATATÜRKün Türk Gençliğine verdiği önemi bilir"
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. SENKRON JENERATÖRLER",
       "KONU": "4. Ölçüm ve Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "4. Senkron jeneratörlerin kontrollerini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "8. ELEKTRİK MAKİNELERİNDE SOĞUTMA",
       "KONU": "1. Görevleri\n2. Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 1. Soğutma sisteminin görevlerini açıklar.\n2. Soğutma sisteminin çeşitlerini sıralar."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "8. ELEKTRİK MAKİNELERİNDE SOĞUTMA",
       "KONU": "3. Parçaları\n4. Çalışması",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "3. Soğutma sisteminin parçalarını sıralar.\n4. Soğutma sisteminin çalışmasını açıklar."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "8. ELEKTRİK MAKİNELERİNDE SOĞUTMA",
       "KONU": "5. Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "5. Soğutma sisteminin kontrollerini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ  Üretim Tahmini\n1. Üretim Tahmin Verileri\n1.1. Günlük rüzgar ve güneş meteorolojik verilerin incelemesi \n1.2. Hava sıcaklığının ölçülmesi\n1.3. Hava basıncı ölçümünün yapılması\n1.4. Hava neminin ölçülmesi\n1.5. Anemometre yardımı ile rüzgar hızının ölçülmesi\n1.6. Güneş ışınımını ölçülmesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Rüzgar ve güneş meteorolojik verileri kendi ölçtüğü verilerle karşılaştırır."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "6",
       "KONU": "2. Üretim Tahmin Hesabı\n2.1. Meteorolojik Veriler üretim tahmini yapan paket programa aktarma\n2.2. Verilerin  güneş ve rüzgar santralleri için günlük aylık ve YILLIK enerji hesaplamalarında kullanma",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Elde edilen verilere dayanarak üretim tahmini yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "6",
-      "KONU": "ÖĞRENME BİRİMİ  Scada Takibi\n1. Vardiya Defteri\n1.1. Üretim raporunun incelenmesi"
+      "KONU": "ÖĞRENME BİRİMİ  Scada Takibi\n1. Vardiya Defteri\n1.1. Üretim raporunun incelenmesi",
+      "KAZANIM": "Vardiya defterinde üretim raporu takibi yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "6",
       "KONU": "2. Santral Arızalarını Takibi\n2.1. Scada üzerinden santral arızaları kontrolü\n2.2. Arıza koduna göre arızalı olan parçalar tespit etme\n2.3. Arızayı giderecek ilgili personele ulaşıp arıza hakkında bilgi  verme\n3.  Enerji Üretimini Takibi\n3.1.Scada üzerinden enerji üretimini takibi\n3.2. Sistemin şebekeye enerji iletim manevraları\n3.3. Sistemin maksimum ve minimum enerji ürettiği saatleri belirleme",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Santral de oluşmuş olan bir arızanın scada üzerinden takibini yapar.\nEnerji üretim takibini yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "6",
       "KONU": "4. Türbin Yatak Sıcaklıklarını Takibi\n4.1. Scada üzerinden türbin yatak sıcaklıklarını takip ederek normal sıcaklıkları dışında çalışan türbinleri belirleme\n4.2. Türbin yataklarının yağlanması\n5. Yağ Sıcaklıklarını Takibi\n5.1. Scada üzerinden dişli kutusu yağ sıcaklıklarını takip ederek normal çalışma sıcaklıkları dışında çalışan dişli kutusunu belirleme \n5.2. Dişli kutusu yağını değiştirerek arıza kaydını düşüp ilgili personele bilgi verme",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Türbin yatak sıcaklıklarını takip eder.\nYağ sıcaklıklarını takip eder."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "6",
-      "KONU": "6. Verilerin Kaydı\n6.1. Kumanda odası verilerini günlük haftalık aylık ve YILLIK olarak yapılıp yapılmadığı inceleme\n6.2. Kayıt edilen verilerin dijital ortamda arşivleme"
+      "KONU": "6. Verilerin Kaydı\n6.1. Kumanda odası verilerini günlük haftalık aylık ve YILLIK olarak yapılıp yapılmadığı inceleme\n6.2. Kayıt edilen verilerin dijital ortamda arşivleme",
+      "KAZANIM": "Kumanda odası verilerini kayıt eder."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "6",
-      "KONU": "ÖĞRENME BİRİMİ Stok Takibi\n1. Serviste Kullanılacak Malzeme Miktarının Belli Aralıklara Takibi\n1.1. Serviste kullanılacak malzemelerin miktarını belirleme\n1.2. Belli aralıklarda depolarda sayım yaparak stok kontrolü yapma\n1.3. Kullanılan malzemelerin kaydını tutulma\n2. Kritik Stok Seviyesi\n2.1. Depolardaki malzeme miktarını kontrolünü  yapma\n2.2. Kritik seviyeye gelmiş malzemeleri belirleme\n2.3. Sipariş açma işlemi \n3. Eksilen Malzemeyi Tamamlama\n3.1. Gelen malzemeyi depodaki var olana  ekleme\n3.2. Sisteme kayıt işlemi yapma"
+      "KONU": "ÖĞRENME BİRİMİ Stok Takibi\n1. Serviste Kullanılacak Malzeme Miktarının Belli Aralıklara Takibi\n1.1. Serviste kullanılacak malzemelerin miktarını belirleme\n1.2. Belli aralıklarda depolarda sayım yaparak stok kontrolü yapma\n1.3. Kullanılan malzemelerin kaydını tutulma\n2. Kritik Stok Seviyesi\n2.1. Depolardaki malzeme miktarını kontrolünü  yapma\n2.2. Kritik seviyeye gelmiş malzemeleri belirleme\n2.3. Sipariş açma işlemi \n3. Eksilen Malzemeyi Tamamlama\n3.1. Gelen malzemeyi depodaki var olana  ekleme\n3.2. Sisteme kayıt işlemi yapma",
+      "KAZANIM": "Serviste kullanılacak malzeme miktarını belli aralıklarla takibini yaparak depolardaki stokları kontrol eder.\nDepolardaki malzeme miktarını kritik stok seviyesinde ulaşıp ulaşmadığının kontrolünü yaparak gerekli malzemeler için sipariş açar.\nEksilen malzemelerin yerine yeni gelen ürünler ile tamamlar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ Yük Tevzi Merkezi İle İletişim\n1. Bölge Yük Tevzi Merkezine Üretim Raporu Verme\n1.1. Tamamlanmış üretim raporu hazırlanma\n1.2. Tamamlanmamış üretim raporu yük tevzi merkezine bildirme\n1.3. Üretim arıza raporu hazırlanma \n\n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Üretim sisteminde enerji üretimi raporu hazırlar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "6",
       "KONU": "2. Enerji Kesme\n2.1. Enerji kesme işlemi için öncelikli yük tevzi merkezi ile iletişime geçme\n2.2. Enerji kesme işlemleri\n3. Enerji Verme\n3.1. Yük tevzi merkezi ile enerji verme işlemi için iletişime geçme\n3.2. Enerji verme işlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Enerji kesme işlemi için gerekli sıralamaya uygun hareket eder.\nEnerji verme işlemi için gerekli prosedürü uygular."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "6",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ Santral Şalt Manevraları\n1. Kesiciyi Manevraları\n1.1. Sistem üzerinden manevrası yapılacak kesici belirleme\n1.2. Scada üzerinden belirlenen kesici açıklama\n1.3. Bakım veya arıza giderildiğinde scada üzerinden kesiciyi kapama işlemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Kesici manevrası yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "6",
       "KONU": "2. Ayırıcıyı Manevraları\n2.1. Sistem üzerinde manevrası yapılacak ayırıcı  belirleme\n2.2. Scada üzerinden belirlenen ayırıcı açma\n2.3. Bakım veya arıza giderildiğinde scada üzerinden ayırıcı kapatma\n3. Toprak Ayırıcısını Manevraları\n3.1. Topraklama ayırıcısını belirleme\n3.2. Scada üzerinden topraklama ayırıcısını kapama  işlemini gerçekleştirme\n3.3. Bakım veya arıza giderildiğinde scada üzerinden topraklama ayırıcısını açma işlemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Ayırıcı manevrası yapar.\nTopraklama ayırıcı manevrası yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ Şalt Saha Ve Enerji İletim Hattının Bakımı\n1. Trafolar Ve Trafo Merkezlerinin Bakımı\n1.1. Bakım öncesi emniyet ve güvenlik tedbirleri\n1.2. Trafo ve trafo merkezi periyodik bakım süreleri\n1.3. Trafo metal gövdesinin yağının buşinglerinin soğutma sistemi bağlantılarının sargıyalıtkanlıkları conta ve cıvataların kontrolleri\n1.4. Bara ve izolatörlerin kontrol ve bakımları \n1.5. Bina beton metal ve havalandırma kısımlarının kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Trafo merkezleri donanımlarının bakımını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "6",
       "KONU": "2. YG Kumanda Elemanları Ve Koruma Sistemlerinin Bakımı\n2.1. Kumanda sistemlerini devreden çıkarma işlemi\n2.2. Bakım yapılacak kesimin enerjisinin kesilme işlemi\n2.3. Ayırıcıların kontaklarının bağlantı yerlerinin bakımı\n2.4. Kesicilerin kontaklarının bakım ve bağlantı yerlerinin kontrolü\n2.5. Koruma rölelerinin topraklama sistemininparafudrların ve sigortaların kontrolü\n2.6. Bakımdan sonra sistemi devreye alma",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Kumanda elemanları ve koruma sistemleri bakımını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "6",
       "KONU": "3. Direkler Donanımları Ve Hatların Bakımı\n3.1. Enerjinin kesilme işlemi\n3.2. Direk Ve donanımlarının temelleri travers ve konsolların izolatörlerin ve hat iletkenlerinin bakım ve kontrolleri\n3.3. Bakımdan sonra sistemi devreye alma",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Direkler donanımları ve hatların bakımını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "6",
       "KONU": "4. Panoların Ve Ölçüm Sistemlerinin Bakımı\n4.1. Enerjinin kesilme işlemi\n4.2. Panoların metal kısımlarının incelenmesi\n4.3. AG ölçüm panosu malzemeleri kontrol edilmesi\n4.4. Ölçü trafolarının bakımı\n4.5. Elektrik sayaç kontrolü\n4.6. Ölçü aletlerinin ve bağlantılarının kontrol ve bakımı\n4.7. Kuvvetli Akım Tesisleri Yönetmeliği\n4.8. Konu anlatımında Topraklamalar Yönetmeliği TEİAŞ ve İş Güvenliği Yönetmeliğinde faydalanma",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Panoların ve ölçüm sistemlerinin bakımını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "6",
-      "KONU": "ÖĞRENME BİRİMİ  FotovoltaikPanellerinin Bakımı\n1. Fotovoltaik Panelin Montaj Civatalarını Kontrolu\n1.1. Cıvata sıkma yöntemleri\n1.2. Standart torklama değerleri\n1.3. Standart cıvata çapları \n1.Dönem 2.Sınav"
+      "KONU": "ÖĞRENME BİRİMİ  FotovoltaikPanellerinin Bakımı\n1. Fotovoltaik Panelin Montaj Civatalarını Kontrolu\n1.1. Cıvata sıkma yöntemleri\n1.2. Standart torklama değerleri\n1.3. Standart cıvata çapları \n1.Dönem 2.Sınav",
+      "KAZANIM": "Fotovoltaik panel montaj civatalarının kontrolünü yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "6",
       "KONU": "2. Fotovoltaik Panelin Yüzey Temizliği\n2.1. Temizlik malzemeleri\n2.2. Fotovoltaik panel temizleme solisyon ve temizlik malzemeleri \n2.3. Fotovoltaik panel temizleme robot ve makinalar\n2.4. İş güvenliği kurallarının üzerinde durularak temizlik işlemi  yapma",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Fotovoltaik panelin yüzeyindeki kirliliğin toz kuş pisliğini vb. temizliğini yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "6",
-      "KONU": "3. Fotovoltaik Paneller Arasındaki Kablo Bağlantılarını Kontrolu\n3.1. Fotovoltaik panel bağlantı kabloları\n3.2. Kablo bağlantı soketleri \n3.3. Kablo kopukluk kontrolü yapma ve tamiri\n3.4. Kablo bağlantı yöntemlerinin uygulamaları"
+      "KONU": "3. Fotovoltaik Paneller Arasındaki Kablo Bağlantılarını Kontrolu\n3.1. Fotovoltaik panel bağlantı kabloları\n3.2. Kablo bağlantı soketleri \n3.3. Kablo kopukluk kontrolü yapma ve tamiri\n3.4. Kablo bağlantı yöntemlerinin uygulamaları",
+      "KAZANIM": "Fotovoltaik paneller arasındaki kablo bağlantılarının kontrolünü yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "6",
-      "KONU": "ÖĞRENME BİRİMİ Şarj Ünitesinin Bakımı\n1. Şarj Kontrol Cihazının Çıkış Akımını Ölçümü\n1.1. Şarj sisteminin şarj akımı ve gerilimi ölçümü\n1.2. Ampermetre ve voltmetre kullanarak akü kutup başlarından akım ve gerilim ölçümü\n1.3. Akü bağlantı yöntemleri \n2. Grup İçerisindeki Akülerin Testi\n2.1. Yükleme cihazı kullanımı\n2.2. Test edilecek akü grupları belirleme\n2.3. Akü gruplarının kablo bağlantıları yapma\n2.4. Akü ve şarj kontrol cihazı bağlantısı"
+      "KONU": "ÖĞRENME BİRİMİ Şarj Ünitesinin Bakımı\n1. Şarj Kontrol Cihazının Çıkış Akımını Ölçümü\n1.1. Şarj sisteminin şarj akımı ve gerilimi ölçümü\n1.2. Ampermetre ve voltmetre kullanarak akü kutup başlarından akım ve gerilim ölçümü\n1.3. Akü bağlantı yöntemleri \n2. Grup İçerisindeki Akülerin Testi\n2.1. Yükleme cihazı kullanımı\n2.2. Test edilecek akü grupları belirleme\n2.3. Akü gruplarının kablo bağlantıları yapma\n2.4. Akü ve şarj kontrol cihazı bağlantısı",
+      "KAZANIM": "Şarj kontrol cihazının çıkış akımının ölçümünü yapar.\nGrup içerisindeki akülerin test eder."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "6",
-      "KONU": "3. Ölçülen Değer İle Cihazın Girişindeki Değeri Kıyaslama\n3.1. Ölçülen değer ile cihaz değerini karşılaştırma yapma\n4. Akü Gerilimini İle Şarj Kontrol Cihazı Üzerindeki Gerilimi Ölçme\n4.1. Voltmetre ile akü ve şarj kontrol cihazının gerilim ölçümü\n4.2. Şarj devresi kontrol etme\n4.3. Gerilimi ölçülecek cihazın şarjdan önce ve şarjdan sonra gerilim ölçümü\n4.4. Akü sağlamlık kontrolü yapma"
+      "KONU": "3. Ölçülen Değer İle Cihazın Girişindeki Değeri Kıyaslama\n3.1. Ölçülen değer ile cihaz değerini karşılaştırma yapma\n4. Akü Gerilimini İle Şarj Kontrol Cihazı Üzerindeki Gerilimi Ölçme\n4.1. Voltmetre ile akü ve şarj kontrol cihazının gerilim ölçümü\n4.2. Şarj devresi kontrol etme\n4.3. Gerilimi ölçülecek cihazın şarjdan önce ve şarjdan sonra gerilim ölçümü\n4.4. Akü sağlamlık kontrolü yapma",
+      "KAZANIM": "Ölçülen değer ile cihazın girişindeki değerin karşılaştırılması yapar.\nAkü gerilimi ile şarj kontrol cihazı üzerindeki gerilimin ölçümünü yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "6",
       "KONU": "5. Akülerin Akım Gerilim Değerlerini Test Etmek\n5.1. Akülerin akım gerilimini kontrol etme\n6. Akü Grubunu Eviriciyeİnvertör Bağlama\n6.1. Akü grubu gerilim ölçümü\n6.2. Evirici invertör montaj hakkında araştırma  yapma\n6.3. Akım değerine uygun kablo seçimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Akülerin akım gerilim değerlerini test eder.\nAkü grubunun eviriciye İnvertörbağlanması yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ Üretim Ünitesinin Bakımı\n1. Fotovoltaik Panel Geçiş Bağlantılarını Soketlerini Ve Topraklama Test Ölçümü\n1.1. Fotovoltaik panel geçiş soketleri kontrol etme\n1.2. Fotovoltaik panel geçiş soketlerinin çeşitleri\n1.3. Fotovoltaik panel geçiş soketlerinin solar kablo ucuna takılma uygulaması\n1.4. Fotovoltaik panel topraklama kablo bağlantılarını ve topraklama çubuğu bağlantısını kontrol  etme\n1.5. Topraklama test ölçümü\n2. Güneş EnerjisiFotovoltaik Santralinin Ünitesine Ait Parafudurun Testi\n2.1. Parafudr sökümü\n2.2. Parafudr sağlamlık testi yapma",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Panel geçiş bağlantılarını soketlerini kontrolünü yapar.\nGüneş fotovoltaik enerjisi santralinin ünitesine ait parafuduru test eder."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "6",
       "KONU": "3. Güneş EnerjisiFotovoltai k Santralinin Montaj Bağlantılarını Ve Metal Konstrüksiyon Bağlantılarını Kontrolü\n3.1. Metal konstrüksiyon kontrolü\n3.2. Metal konstrüksiyon bağlantı aparatları\n3.3. Metal konstrüksiyon bağlantısında kullanılan anahtar takımları tanıtma ve uygulamalı olarak gösterme\n3.4. Metal konstrüksiyon vibrasyon testi\n3.5.  Somun standartları\n3.6. Tork anahtarı kullanımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Metal konstrüksiyon bağlantılarının gevşeklik kontrol eder."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "6",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "6",
       "KONU": "4. Evirici İnvertör Kablo Bağlantılarını Yapma\n4.1. Eviriciinvertör kablo giriş terminalleri \n4.2. Eviriciinvertör kablo bağlantısı kontrol etme\n4.3. Eviriciinvertör topraklama kablo bağlantısı kontrol etme\n4.4. Evirici invertör çıkış gerilimi osiloskop ile ölçülmesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Evirici invertör kablo bağlantılarının kontrolünü yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "6",
       "KONU": "5. Evirici İnvertör İçerisinden Verileri Bilgi Alma\n5.1. Veri depolama birimi \n5.2. Veri depolama birimi geçiş soketleri kontrol etme\n5.3. Veri depolama yöntemleri\n5.4. Evirici invertör veri parametreleri\n6. Alınan Verileri Evirici İnvertör Üzerindeki Ekran Bilgileriyle Karşılaştırma\n6.1. Evirici invertör anlık veri parametrelerini okuma\n6.2. Evirici invertör ortalama veri değerleri ve sınır değerleri inceleme  \n\n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Çevirici içerisindeki bilgileri verileri alır.\nAlınan bilgileri evirici invertör üzerindeki ekran bilgileriyle karşılaştırır."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ Rüzgar Türbin Bakımını Yapmak\n1. Türbin Göbeği Ve Kanat Bakımı\n1.1. Küçük güçlü rüzgar türbin direği Tirforla bakımı\n1.2. Dişli kutusu bakımı\n1.3. Fren sisteminin bakımı\n1.4. Türbin göbeği cıvatalarıaı torklama\n1.5. Türbin göbeği yağ ve aparatlarının bakımı\n1.6. Kanat cıvatalarına torklama \n1.7. Kanat üzerindeki küçük kanatçıkların kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Türbin göbeği ve kanat bakımını yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "6",
       "KONU": "1.8. Yıldırım koruma sisteminin kontrolü\n1.9. Topraklama sisteminin kontrolü \n1.10. Kanadın boya ve çatlak hasarları giderme\n1.11. Elektrik sistemleri kontrol etme\n1.12. Sensörlerin kontrolleri yapma\n1.13. Yağ ve diğer aparatların bakımı\n1.14. Rüzgar türbin Jeneratör bakımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Türbin göbeği ve kanat bakımını yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "6",
       "KONU": "2. Kule Bakımı\n2.1. Kule cıvatalarını torklama\n2.2. Kule asansörünün bakım testlerini yapma",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Kule bakımını yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "6",
       "KONU": "2.3. Kule iletim ve iletişim hatlarının bakımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Kule bakımını yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "6",
       "KONU": "3. Güç Ünitelerinin Bakımı\n3.1. Güç ünitesinin cıvatalarını torklama\n3.2. Türbin besleme ve kontrol panosunun kontrol ve bakımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Güç ünitelerinin bakımını yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ Panoların Bakımını Yapmak\n1. Tevzi Aktarım Panolarının Bakımı\n1.1. Her ünite ile kesici arasındaki bağlantıyı kontrol etme\n1.2. Kesici ile bara arasındaki bağlantıyı kontrol etme\n1.3. Ana kesici ile bara arasındaki bağlantıyı kontrol etme",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Tevzi aktarım panolarının bakımını yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "6",
       "KONU": "2. AGOG Panolarının Bakımı\n2.1. Pano ana bağlantı kesicisini açma\n2.2. Pano elemanlarının kontrolü\n2.3. Topraklama bağlantılarını kontrol etme\n2.4. İzalatör bağlantılarını ve temizliğini kontrol  etme\n2.5. Hava soğutma kanallarının temizliği",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "AGOG panolarının bakımı yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "6",
       "KONU": "3. Topraklama Tesisatının Bakımı\n3.1. Topraklama test ölçümü \n3.2. Bara üzerindeki tüm bağlantıları kontrol etme\n3.3. Baralar arasında oluşan toz ve kiri temizleme",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Topraklama tesisatının bakımını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "6",
       "KONU": "ÖĞRENME BİRİMİ FotovoltaikGüneş Enerji Üretim Sahası Arızalarını Gidermek\n1. Yanmış Kavrulmuş Güneş Panellerinin Kablo Değişimi\n1.1. Fotovoltaik panel solar kablo bağlantılarının kontrolü\n1.2. Kablo bağlantı yöntemleri\n1.3. Kablo sağlamlık kontrolü yapılması ve hasarlı kablo değişimi\n1.4. Solar Kablo standartları anlatımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Yanmış kavrulmuş güneş paneli kablolarını değiştirir."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "6",
       "KONU": "2. Hasar Görmüş Güneş Panelleri Değişimi\n2.1. Fotovoltaik panellerin mekanik bağlantı  kontrolü\n2.2. Fotovoltaik panellerin yüzey kontrolleri yapma ve hasarlı panelleri değiştirme\n2.3. Fotovoltaik panel montaj yöntemleri \n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Hasar görmüş güneş panellerinin değiştirir."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "6",
       "KONU": "3. Arızalı Parafudur Komponentlerini Parça Kesicileri Ve Çeviriciyi Alıcı Duyarga Değiştirme\n3.1. Parafudr montaj teknikleri\n3.2. Parafudr çeşitlerini resimlerle gösterme\n3.3. Tesis tek hat şeması\n3.4. Evirici invertör montaj yöntemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Koruma ve kontrol elemanlarının bakımını yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "6",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

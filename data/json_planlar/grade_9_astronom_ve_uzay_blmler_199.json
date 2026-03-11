@@ -8,7 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. ÜNİTE ASTROMİNİN TANIMI VE GELİŞİMİ",
       "KONU": "Astronominin temel konusu",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. Astronominin temel konusunu tanır. 2. İnsan olarak doğayı doğal olayları ve bir bütün olarak evreni anlamamızda astronomi biliminin önemini açıklar."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "2",
       "ÜNİTE": "1. ÜNİTE ASTROMİNİN TANIMI VE GELİŞİMİ",
       "KONU": "Astronominin temel konusu",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "1. Astronominin temel konusunu tanır. 2. İnsan olarak doğayı doğal olayları ve bir bütün olarak evreni anlamamızda astronomi biliminin önemini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "1. ÜNİTE ASTROMİNİN TANIMI VE GELİŞİMİ",
-      "KONU": "Astronomi Tarihinde Bilim Adamları"
+      "KONU": "Astronomi Tarihinde Bilim Adamları",
+      "KAZANIM": "3. Astronominin insanların gereksinimleri sonucunda ortaya çıkan en eski bilim dalı olduğunu fark eder. 4. Astronomi tarihine damgasını vuran önemli bilim adamlarını tanır."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. ÜNİTE ASTROMİNİN TANIMI VE GELİŞİMİ",
       "KONU": "Astronomi ile Diğer Bilim Dalları Arasında ilişki",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "5. Astronomi ile diğer bilim dalları arasında ilişki kurar. 6. Temel bilimlerden biri olan astronominin alt dallarını sıralar. 7. Gözlem ve kuramın astronomideki önemini fark eder."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "2",
       "ÜNİTE": "1. ÜNİTE ASTROMİNİN TANIMI VE GELİŞİMİ",
       "KONU": "İnsan Gözünün Algılayamadığı Işınlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "8. İnsan gözünün algılayamadığı ışınları tanır. 9. İnsan gözünün hangin ışınları algılayamadığını ve bu ışınların günlük hayatta nerelerde kullanıldığını açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "1. ÜNİTE ASTROMİNİN TANIMI VE GELİŞİMİ",
-      "KONU": "Teleskop Çeşitleri Atatürkün Hayatta en hakiki mürşit ilimdir özdeyişinin önemi"
+      "KONU": "Teleskop Çeşitleri Atatürkün Hayatta en hakiki mürşit ilimdir özdeyişinin önemi",
+      "KAZANIM": "10. Astronomide kullanılan temel gözlem araçlarını tanır. 11. Teleskop çeşitlerini ve çalışma prensiplerini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
-      "KONU": "Temel astronomik cisim ve sistemler"
+      "KONU": "Temel astronomik cisim ve sistemler",
+      "KAZANIM": "1. Temel astronomik cisim ve sistemleri tanır. 2. Astronomik gözlemlerden yararlanarak zamanın göreli olduğunu açıklar"
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
       "KONU": "Gök ada Türleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "3. Gök ada türlerini ayırt eder."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
       "KONU": "Karanlık Madde",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 4. Evrenin geleceği bakımından karanlık maddenin önemini açıklar."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
       "KONU": "Samanyolu Gök adası",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "5. Samanyolu gök adasını tanır Güneş sisteminin Samanyolu gök adası içerisindeki konumunu belirtilir. 6. Çıplak gözle gökyüzünü gözlemleyerek yıldızlar ile gezegenleri ayırt eder."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
       "KONU": "Kepler Yasaları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "7. Kepler Yasalarını Güneş sistemindeki gezegenlere ve birbiri etrafında dolanan diğer gök cisimlerine uygular."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
       "KONU": "Iraksım Açısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "8. Bir yıldızın ıraksım paralaks açısını kullanarak uzaklığını tahmin eder. 9. Görünür büyüklüğün fiziksel anlamını ve ıraksım açısıyla ilişkisini tanımlar."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
       "KONU": "Yıldızlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "10. Yıldızların enerji üretim mekanizmasını açıklar. 11. Yıldızların evrimi ile biyolojik yaşam arasındaki ilişkiyi açıklar."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
       "KONU": "Kara delikler",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "12. Kara delik kavramını açıklar. 13. Kara cisim ışımasının özelliklerini belirtilir"
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "2",
       "ÜNİTE": "2. ÜNİTE EVRENİ TANIYALIM",
       "KONU": "Işıma ile görünür ışık şiddeti arasındaki farkı ayırt eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "14. Işıma ile görünür ışık şiddeti arasındaki farkı ayırt eder. 15. Kara cisim yaklaşımını kullanarak bir yıldızın sıcaklığını belirler."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "3.ÜNİTE KON DÜZENEKLERİ VE GÖRÜNÜR HAREKET",
-      "KONU": "Gök küre"
+      "KONU": "Gök küre",
+      "KAZANIM": "1. Gök küresi nin algısal bir kavram olduğunu açıklar. 2. Gök küresinin temel ögelerini sıralayarak açıklar."
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "2",
       "ÜNİTE": "3.ÜNİTE KON DÜZENEKLERİ VE GÖRÜNÜR HAREKET",
       "KONU": "Takım Yıldızlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 3. Takımyıldızlarının astronomi açısından önemini belirtir. 4. Gök cisimlerinin günlük görünür hareketlerinin nedenini açıklar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "3.ÜNİTE KON DÜZENEKLERİ VE GÖRÜNÜR HAREKET",
-      "KONU": "Küresel Kon Düzeneği"
+      "KONU": "Küresel Kon Düzeneği",
+      "KAZANIM": "5. Bir küresel kon düzeneği tasarlar. 6. Coğrafi koordinatları verilen bir noktayı model üzerinde bulur."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "3.ÜNİTE KON DÜZENEKLERİ VE GÖRÜNÜR HAREKET",
-      "KONU": "Gök küre"
+      "KONU": "Gök küre",
+      "KAZANIM": "7. Çevren düzleminin astronomik açıdan önemini ifade eder. 8. Gök küresi çizimlerinde gözlem yerine ait enlem bilgisini kullanır."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "3.ÜNİTE KON DÜZENEKLERİ VE GÖRÜNÜR HAREKET",
-      "KONU": "Eşlek Kon"
+      "KONU": "Eşlek Kon",
+      "KAZANIM": "9. Eşlek kon düzeneğini şekil üzerinde tanımlar."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "3.ÜNİTE KON DÜZENEKLERİ VE GÖRÜNÜR HAREKET",
       "KONU": "Gök Küre Çizimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "10. Bir gözlem yerine ilişkin temsilî gök küresini çizerek gök cisimlerinin günlük görünür hareketlerini açıklar."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "3.ÜNİTE KON DÜZENEKLERİ VE GÖRÜNÜR HAREKET",
       "KONU": "Bir boyutta hareketle Doğma batma koşullarını",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "11. Doğma batma koşullarını çizim yardımıyla açıklar."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "4.ÜNİTE AY VE GÜNEŞİN GÖRÜNÜR HAREKETLERİ",
       "KONU": "Güneşin YILLIK Hareketi",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "1. Güneşin YILLIK hareketini açıklar. 2. Verilen herhangi bir tarih için Güneşin eşlek kon sayılarını yaklaşık olarak tahmin eder."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "4.ÜNİTE AY VE GÜNEŞİN GÖRÜNÜR HAREKETLERİ",
       "KONU": "Ayın aylık Hareketi",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "3. Gündüz ve gece sürelerinin gözlem yerinin enlemi ve Güneşin dik açıklığı ile ilişkili olduğunu örneklerle açıklar. 4. Ayın aylık hareketini çizim yoluyla açıklar."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "4.ÜNİTE AY VE GÜNEŞİN GÖRÜNÜR HAREKETLERİ",
       "KONU": "Ayın Evreleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "5. Gök yüzündeki konumunun değişimini izleyerek Ayın aylık hareketinin açısal hızının değerini yaklaşık olarak belirler. 6. Ayın evrelerinin nasıl oluştuğunu şekil üzerinde gösterir."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "4.ÜNİTE AY VE GÜNEŞİN GÖRÜNÜR HAREKETLERİ",
       "KONU": "Ay tutulması",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 7. Ay tutulmasını açıklar."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "4.ÜNİTE AY VE GÜNEŞİN GÖRÜNÜR HAREKETLERİ",
       "KONU": "Güneş Tutulması",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "8. Güneş tutulmasını açıklar. 9. Ay ve Güneş tutulmalarının bilimsel açıdan önemini değerlendirir."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.ÜNİTE ZAMAN VE TAKVİM",
       "KONU": "Dönemli olarak tekrarlayan her olay ile zamanın ölçülebileceğini fark eder",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "1. Dönemli olarak tekrarlayan her olay ile zamanın ölçülebileceğini fark eder. 2. Yıldızıl gün ve gerçek Güneş gününü ayırt eder."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.ÜNİTE ZAMAN VE TAKVİM",
       "KONU": "Güneş ve Yıldız Zamanları Atatürkün Hakiki Rehberimiz İlim ve Fen Olacaktır Sözlerinin önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "3. Güneş zamanı ile yıldız zamanı arasındaki ayrımı fark eder. 4. Günlük hayattaki kullanımı açısından ortalama Güneş zamanının yıldız zamanından daha uygun olduğunu ayırt eder."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.ÜNİTE ZAMAN VE TAKVİM",
       "KONU": "Yerel Zaman",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "5. Bulunduğu yerin boylamı ile yerel zaman arasındaki ilişkiyi örneklerle açıklar. 6. Takvim kavramını açıklayarak Güneş ve ay takvimlerini ayırt eder."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.ÜNİTE ZAMAN VE TAKVİM",
       "KONU": "Takvimler",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "7. Dünyada en çok kullanılan takvimleri sıralar. 8. Ekli yıl tanımındaki ölçütleri kullanarak verilen herhangi bir yılın ekli yıl olup olmadığını açıklar."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "6.ÜNİTE UZAY BİLİMLERİ VE UZAY ÇALIŞMALARI",
       "KONU": "Ekli Yıl Uzay Bilimleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "1. Uzay bilimlerini astronomi ve diğer temel bilimlerle ilişkilendirir."
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "6.ÜNİTE UZAY BİLİMLERİ VE UZAY ÇALIŞMALARI",
       "KONU": "Uzay Bilimleri Atatürkün  Bilim ve Teknik İçin Sınır Yoktur özdeyişinin uzay çalışmaları İle lişkilendirilmesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "2. Uzay bilimlerinin alt dallarını sıralayarak kapsamlarını açıklar. 3. Uzay çalışmalarının amaçlarını sıralar."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "6.ÜNİTE UZAY BİLİMLERİ VE UZAY ÇALIŞMALARI",
       "KONU": "Uzay Çalışmaları Atatürkün İstikbal Göklerdedir sözünün anlamı belirtilmeli",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 4. Uzay çalışmalarının gelişimini açıklar. 5. Uzay çalışmalarının yaşamımızdaki etkilerini örneklerle açıklar."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "6.ÜNİTE UZAY BİLİMLERİ VE UZAY ÇALIŞMALARI",
       "KONU": "Uydular",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "6. Uzay çalışmalarında kullanılan temel araçları tanır."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "6.ÜNİTE UZAY BİLİMLERİ VE UZAY ÇALIŞMALARI",
       "KONU": "Uydular",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "7. Uyduların yaşantımızdaki önemini fark eder."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

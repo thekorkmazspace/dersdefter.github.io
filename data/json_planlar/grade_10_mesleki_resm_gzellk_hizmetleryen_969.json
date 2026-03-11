@@ -8,7 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "1.   Temel Tasarım Elemanı olarak Nokta",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Noktayı kullanarak yüzey düzenlemeleri yapar."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "1.   Temel Tasarım Elemanı olarak Nokta",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Noktayı kullanarak yüzey düzenlemeleri yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
-      "KONU": "2.   Temel Tasarım Elemanı olarak Çizgi"
+      "KONU": "2.   Temel Tasarım Elemanı olarak Çizgi",
+      "KAZANIM": "Çizgiyi kullanarak yüzey düzenlemeleri yapar."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "2.   Temel Tasarım Elemanı olarak Çizgi",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Çizgiyi kullanarak yüzey düzenlemeleri yapar."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "3.   Nokta ve Çizgi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Nokta     ve     çizgiyi     birlikte     kullanarak     yüzey düzenlemeleri yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
-      "KONU": "3.   Nokta ve Çizgi"
+      "KONU": "3.   Nokta ve Çizgi",
+      "KAZANIM": "Nokta     ve     çizgiyi     birlikte     kullanarak     yüzey düzenlemeleri yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
-      "KONU": "4.   Açık-Koyu İle Geometrik Formları Hacimlendirme"
+      "KONU": "4.   Açık-Koyu İle Geometrik Formları Hacimlendirme",
+      "KAZANIM": "Işığa   dikkat   ederek   Açık-koyuyu   ile   geometrik formları hacimlendirir."
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "4.   Açık-Koyu İle Geometrik Formları Hacimlendirme",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Işığa   dikkat   ederek   Açık-koyuyu   ile   geometrik formları hacimlendirir."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "5.   Açık-Koyu İle Yüzey Düzenlemesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Açık-koyu  ile  hacim  verilen  geometrik  formlardan yüzey düzenlemesi yapar."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "5.   Açık-Koyu İle Yüzey Düzenlemesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Açık-koyu  ile  hacim  verilen  geometrik  formlardan yüzey düzenlemesi yapar."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "6.   Renk Çemberi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Renk   tonlarını   doğru   yerlerde   kullanarak   renk çemberi yapar."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "6.   Renk Çemberi",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Renk   tonlarını   doğru   yerlerde   kullanarak   renk çemberi yapar."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "7.   Renk Kontrastları",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Renk  kontrastlıkları  ile  ilgili  yüzey  düzenlemeleri yapar."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "7.   Renk Kontrastları",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Renk  kontrastlıkları  ile  ilgili  yüzey  düzenlemeleri yapar."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "8.    Kolaj Tekniği",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Kolaj tekniği ile yüzey düzenlemesi yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
-      "KONU": "8.    Kolaj Tekniği"
+      "KONU": "8.    Kolaj Tekniği",
+      "KAZANIM": "Kolaj tekniği ile yüzey düzenlemesi yapar."
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "2",
       "ÜNİTE": "Temel Çizim ve Renklendirme",
       "KONU": "8.    Kolaj Tekniği",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Kolaj tekniği ile yüzey düzenlemesi yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
-      "KONU": "1.   Yüz şekilleri"
+      "KONU": "1.   Yüz şekilleri",
+      "KAZANIM": "Yüz şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
-      "KONU": "1.   Yüz şekilleri"
+      "KONU": "1.   Yüz şekilleri",
+      "KAZANIM": "Yüz şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
-      "KONU": "2.   Göz Şekilleri"
+      "KONU": "2.   Göz Şekilleri",
+      "KAZANIM": "Göz şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "2.   Göz Şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Göz şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "3.   Dudak şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Dudak şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "3.   Dudak şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Dudak şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "4.   Kaş şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Kaş şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "4.   Kaş şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Kaş şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "5.   Çene şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Çene şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "5.   Çene şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Çene şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "6.   Burun şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Burun şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "6.   Burun şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Burun şekilleri çizerek düzeltme teknikleri uygular."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "7.   Değişik Yüz Şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Değişik yüz şekillerine uygun saç şekilleri belirler."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "7.   Değişik Yüz Şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Değişik yüz şekillerine uygun saç şekilleri belirler."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "7.   Değişik Yüz Şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Değişik yüz şekillerine uygun saç şekilleri belirler."
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "7.   Değişik Yüz Şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Değişik yüz şekillerine uygun saç şekilleri belirler."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "7.   Değişik Yüz Şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Değişik yüz şekillerine uygun saç şekilleri belirler."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "7.   Değişik Yüz Şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Değişik yüz şekillerine uygun saç şekilleri belirler."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "Yüz ve Saç Şekilleri",
       "KONU": "7.   Değişik Yüz Şekilleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Değişik yüz şekillerine uygun saç şekilleri belirler."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

@@ -8,7 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "BİLİŞİM TEKNOLOJİLERİ",
       "KONU": "1 Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "SBT.7.1.1.1. Bilişim teknolojilerinin zaman içindeki değişimlerini tartışır."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "2",
       "ÜNİTE": "BİLİŞİM TEKNOLOJİLERİ",
       "KONU": "1 Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "SBT.7.1.1.2. Bilişim teknolojilerini kullanarak yapılabilecek yenilikleri fark eder. SBT.7.1.1.3. Bilgisayar bilimleri tarafından geliştirilen disiplinler arası kariyerleri açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "ETİK ve GÜVENLİK",
-      "KONU": "1. Etik Değerler"
+      "KONU": "1. Etik Değerler",
+      "KAZANIM": "SBT.7.2.1.1. Bilgi ve teknoloji kullanımında etik olan ve olmayan davranışları tartışır. SBT.7.2.1.2. Fikri mülkiyet haklarının önemini değerlendirir."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "ETİK ve GÜVENLİK",
       "KONU": "2. Gizlilik ve Güvenlik",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "SBT.7.2.2.1. Gizlilik ve güvenlik problemlerinin neden olduğu bireysel ve toplumsal etkileri tartışır. SBT.7.2.2.2. Bilgi güvenliği ve gizliliğine karşı tehditleri açıklar. SBT.7.2.2.3. Çeşitli ortamların güvenlik düzeyini değerlendirir. SBT.7.2.2.4. Güvenlik için tehdit oluşturabilecek yapılara karşı alınabilecek önlemleri açıklar."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "SBT.7.3.1.1. Bir problemi alt problemlere ayırır."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
-      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları"
+      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
+      "KAZANIM": "SBT.7.3.1.2. Bir problemi çözmek üzere farklı algoritmalar tasarlar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
-      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları"
+      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
+      "KAZANIM": "SBT.7.3.1.3. Tasarlanan algoritmanın akış şemasını oluşturur.SBT.7.3.1.3. Tasarlanan algoritmanın akış şemasını oluşturur."
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "SBT.7.3.1.4. Tasarlanan algoritmayı test eder ve hataları ayıklar."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav SBT.7.3.1.5. Algoritma tasarımı ile programlama dili arasındaki ilişkiyi ortaya koyar."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "2. Programlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "SBT.7.3.2.1. Programlama aracının arayüzünü ve özelliklerini tanır."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "2. Programlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "SBT.7.3.2.2. Belirli bir problemi çözmek üzere geliştirdiği algoritmayı hatasız bir programa dönüştürür."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "2. Programlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "SBT.7.3.2.3. Verilen bir probleme uygun söz dizimi oluşturur."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "2. Programlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "SBT.7.3.2.4. Verilen bir söz dizimini test eder ve hataları ayıklar."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "2. Programlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "SBT.7.3.2.5. Problemin çözümüne yönelik değişkenleri kullanır."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "2. Programlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "SBT.7.3.2.6. Problemin çözümüne yönelik koşullu ifadeleri kullanır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
-      "KONU": "2. Programlama"
+      "KONU": "2. Programlama",
+      "KAZANIM": "SBT.7.3.2.7. Problemin çözümüne yönelik döngüleri kullanır."
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
       "KONU": "2. Programlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav SBT.7.3.2.8. Problemin çözümüne yönelik fonksiyonları kullanır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
-      "KONU": "2. Programlama"
+      "KONU": "2. Programlama",
+      "KAZANIM": "SBT.7.3.2.9. Belirli bir problemin çözümüne yönelik özgün ürün geliştirir."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "PROBLEM ÇÖZME VE PROGRAMLAMA",
-      "KONU": "2. Programlama"
+      "KONU": "2. Programlama",
+      "KAZANIM": "SBT.7.3.2.9. Belirli bir problemin çözümüne yönelik özgün ürün geliştirir."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
-      "KONU": "1. Sunu ve Görselleştirme Programları"
+      "KONU": "1. Sunu ve Görselleştirme Programları",
+      "KAZANIM": "SBT.7.4.1.1. Belirli bir amaç için grafik ve animasyonları kullanarak sunu oluşturur."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "SBT.7.4.1.1. Belirli bir amaç için grafik ve animasyonları kullanarak sunu oluşturur."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "SBT.7.4.1.2. Belirli bir amaç için zihin haritası tasarlar."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "SBT.7.4.1.3. Sayısal verilerden oluşan grafik ve bilgi grafiği geliştirir."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "SBT.7.4.1.4. Poster oluşturma programı kullanarak bir poster tasarlar."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "SBT.7.4.1.5. Sayfa tasarım programları kullanarak bir ürün oluşturur."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav SBT.7.4.1.5. Sayfa tasarım programları kullanarak bir ürün oluşturur."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "SBT.7.4.1.5. Sayfa tasarım programları kullanarak bir ürün oluşturur."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "SBT.7.4.1.6. Engelli bireyler için yazılı ve görsel materyaller oluşturur."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "1. Sunu ve Görselleştirme Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "SBT.7.4.1.7. İş birliğine dayalı proje üretir."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "2. İki Boyutlu Animasyon Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "SBT.7.4.2.1. Animasyon ile ilgili temel kavramları açıklar."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "2. İki Boyutlu Animasyon Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "SBT.7.4.2.1. Animasyon ile ilgili temel kavramları açıklar."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "2. İki Boyutlu Animasyon Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "SBT.7.4.2.2. Öykü yaprakları storyboard yardımıyla animasyonun senaryosunu oluşturur."
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "2. İki Boyutlu Animasyon Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "SBT.7.4.2.2. Öykü yaprakları storyboard yardımıyla animasyonun senaryosunu oluşturur."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "2. İki Boyutlu Animasyon Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav SBT.7.4.2.3. Kullanılan animasyon programının arayüzünü ve özelliklerini tanır."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "2. İki Boyutlu Animasyon Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "SBT.7.4.2.4. Belirli bir amaç için animasyon oluşturur."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "ÜRÜN OLUŞTURMA",
       "KONU": "2. İki Boyutlu Animasyon Programları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "SBT.7.4.2.4. Belirli bir amaç için animasyon oluşturur."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

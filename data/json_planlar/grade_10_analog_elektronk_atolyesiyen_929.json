@@ -8,8 +8,8 @@
       "SAAT": "6",
       "ÜNİTE": "Diyotlu Devreler",
       "KONU": "1.   Temel yarıiletken bağlantılarını yaparak ölçme.",
-      "KAZANIM": "Çeşitli   yarıiletken   tiplerine   ait   elektron   dağılım şemasını çizilir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "PN   bağlantı   kurallarına   göre   temel   yarıiletken bağlantılarını yapıp ölçer.\nÇeşitli   yarıiletken   tiplerine   ait   elektron   dağılım şemasını çizilir."
     },
     {
       "AY": "EYLÜL",
@@ -17,8 +17,8 @@
       "SAAT": "6",
       "ÜNİTE": "Diyotlu Devreler",
       "KONU": "1.   Temel yarıiletken bağlantılarını yaparak ölçme.",
-      "KAZANIM": "Doğru polarmalı ve ters polarmalı PN bağlantısını yapılır.",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "PN   bağlantı   kurallarına   göre   temel   yarıiletken bağlantılarını yapıp ölçer.\nDoğru polarmalı ve ters polarmalı PN bağlantısını yapılır."
     },
     {
       "AY": "EYLÜL",
@@ -26,7 +26,7 @@
       "SAAT": "6",
       "ÜNİTE": "Diyotlu Devreler",
       "KONU": "1.   Temel yarıiletken bağlantılarını yaparak ölçme.",
-      "KAZANIM": "Doğru polarmalı ve ters polarmalı PN bağlantısını ölçülür."
+      "KAZANIM": "PN   bağlantı   kurallarına   göre   temel   yarıiletken bağlantılarını yapıp ölçer.\nDoğru polarmalı ve ters polarmalı PN bağlantısını ölçülür."
     },
     {
       "AY": "EYLÜL",
@@ -34,8 +34,8 @@
       "SAAT": "6",
       "ÜNİTE": "Diyotlu Devreler",
       "KONU": "2.   Çeşitli diyot devrelerini çalıştırma.",
-      "KAZANIM": "Doğrultucu diyot sağlamlık testini yapılır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Çeşitli diyot devrelerini çalıştırır.\nDoğrultucu diyot sağlamlık testini yapılır."
     },
     {
       "AY": "EKIM",
@@ -43,8 +43,8 @@
       "SAAT": "6",
       "ÜNİTE": "Diyotlu Devreler",
       "KONU": "2.   Çeşitli diyot devrelerini çalıştırma.",
-      "KAZANIM": "Diyot özellikleri incelenir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Çeşitli diyot devrelerini çalıştırır.\nDiyot özellikleri incelenir."
     },
     {
       "AY": "EKIM",
@@ -52,7 +52,7 @@
       "SAAT": "6",
       "ÜNİTE": "Diyotlu Devreler",
       "KONU": "2.   Çeşitli diyot devrelerini çalıştırma.",
-      "KAZANIM": "Doğrultucu devreler çalıştırılır."
+      "KAZANIM": "Çeşitli diyot devrelerini çalıştırır.\nDoğrultucu devreler çalıştırılır."
     },
     {
       "AY": "EKIM",
@@ -60,7 +60,7 @@
       "SAAT": "6",
       "ÜNİTE": "Transistörlü Devreler",
       "KONU": "1.   Transistörleri  test  ederek transistörlü         yükselteç devrelerini kurma.",
-      "KAZANIM": "PNP ve NPN transistörlerin yapısını açıklanır."
+      "KAZANIM": "Transistörleri  test  ederek  transistörlü   yükselteç devrelerini kurar.\nPNP ve NPN transistörlerin yapısını açıklanır."
     },
     {
       "AY": "EKIM",
@@ -68,8 +68,8 @@
       "SAAT": "6",
       "ÜNİTE": "Transistörlü Devreler",
       "KONU": "1.   Transistörleri  test  ederek transistörlü         yükselteç devrelerini kurma.",
-      "KAZANIM": "Transistör   sağlamlık   kontrolü  açıklanır   ve  testi yapılır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Transistörleri  test  ederek  transistörlü   yükselteç devrelerini kurar.\nTransistör   sağlamlık   kontrolü  açıklanır   ve  testi yapılır."
     },
     {
       "AY": "KASIM",
@@ -77,8 +77,8 @@
       "SAAT": "6",
       "ÜNİTE": "Transistörlü Devreler",
       "KONU": "1.   Transistörleri  test  ederek transistörlü         yükselteç devrelerini kurma.",
-      "KAZANIM": "Transistörlü yükselteç devresi kurulur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Transistörleri  test  ederek  transistörlü   yükselteç devrelerini kurar.\nTransistörlü yükselteç devresi kurulur."
     },
     {
       "AY": "KASIM",
@@ -86,7 +86,8 @@
       "SAAT": "6",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -94,8 +95,8 @@
       "SAAT": "6",
       "ÜNİTE": "Transistörlü Devreler",
       "KONU": "2.   Transistörlü           osilatör devreleri kurma.",
-      "KAZANIM": "Transistörlerin yükselteçleri sınıflandırılır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Transistörlü osilatör devreleri kurar.\nTransistörlerin yükselteçleri sınıflandırılır."
     },
     {
       "AY": "KASIM",
@@ -103,8 +104,8 @@
       "SAAT": "6",
       "ÜNİTE": "Transistörlü Devreler",
       "KONU": "2.   Transistörlü           osilatör devreleri kurma.",
-      "KAZANIM": "Transistörlü osilatör devreleri kurulur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Transistörlü osilatör devreleri kurar.\nTransistörlü osilatör devreleri kurulur."
     },
     {
       "AY": "ARALIK",
@@ -112,8 +113,8 @@
       "SAAT": "6",
       "ÜNİTE": "Transistörlü Devreler",
       "KONU": "2.   Transistörlü           osilatör devreleri kurma.",
-      "KAZANIM": "Transistörlü osilatör devreleri test edilir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Transistörlü osilatör devreleri kurar.\nTransistörlü osilatör devreleri test edilir."
     },
     {
       "AY": "ARALIK",
@@ -121,8 +122,8 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "1.   İşlemsel             yükselteç parametrelerini      ölçerek bağlantılarını yapma.",
-      "KAZANIM": "Op-ampentegresinin tiplerini açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Op-amp       parametrelerini       ölçerek       katalog değerleriyle karşılaştırır.\nOp-ampentegresinin tiplerini açıklanır."
     },
     {
       "AY": "ARALIK",
@@ -130,8 +131,8 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "1.   İşlemsel             yükselteç parametrelerini      ölçerek bağlantılarını yapma.",
-      "KAZANIM": "Genel amplifikatör özelliklerini hesaplanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Op-amp       parametrelerini       ölçerek       katalog değerleriyle karşılaştırır.\nGenel amplifikatör özelliklerini hesaplanır."
     },
     {
       "AY": "ARALIK",
@@ -139,8 +140,8 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "1.   İşlemsel             yükselteç parametrelerini      ölçerek bağlantılarını yapma.",
-      "KAZANIM": "Op-ampentegresine enerji verilerek çalıştırılır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Op-amp       parametrelerini       ölçerek       katalog değerleriyle karşılaştırır.\nOp-ampentegresine enerji verilerek çalıştırılır."
     },
     {
       "AY": "ARALIK",
@@ -148,7 +149,7 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "1.   İşlemsel             yükselteç parametrelerini      ölçerek bağlantılarını yapma.",
-      "KAZANIM": "Op-ampentegresine enerji verilerek çalıştırılır."
+      "KAZANIM": "Op-amp       parametrelerini       ölçerek       katalog değerleriyle karşılaştırır.\nOp-ampentegresine enerji verilerek çalıştırılır."
     },
     {
       "AY": "OCAK",
@@ -156,29 +157,32 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "2.   İşlemsel             yükselteç devrelerini     tasarlayarak uygulamalarını yapma.",
-      "KAZANIM": "Negatif ve pozitif geri besleme kaynağı tanıtılır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav İşlemsel      yükselteç      devrelerini      tasarlayarak uygulamalarını yapar.\nNegatif ve pozitif geri besleme kaynağı tanıtılır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "6",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
@@ -186,7 +190,7 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "2.   İşlemsel             yükselteç devrelerini     tasarlayarak uygulamalarını yapma.",
-      "KAZANIM": "op-amplı      uygulama      devrelerinin      giriş-çıkış sinyallerini ölçmeyi açıklanır."
+      "KAZANIM": "İşlemsel      yükselteç      devrelerini      tasarlayarak uygulamalarını yapar.\nop-amplı      uygulama      devrelerinin      giriş-çıkış sinyallerini ölçmeyi açıklanır."
     },
     {
       "AY": "ŞUBAT",
@@ -194,7 +198,7 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "2.   İşlemsel             yükselteç devrelerini     tasarlayarak uygulamalarını yapma.",
-      "KAZANIM": "Op-amplı uygulama devrelerini çalıştırılır."
+      "KAZANIM": "İşlemsel      yükselteç      devrelerini      tasarlayarak uygulamalarını yapar.\nOp-amplı uygulama devrelerini çalıştırılır."
     },
     {
       "AY": "ŞUBAT",
@@ -202,7 +206,7 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "2.   İşlemsel             yükselteç devrelerini     tasarlayarak uygulamalarını yapma.",
-      "KAZANIM": "Op-amplı    uygulama    devrelerinin    giriş    çıkış sinyallerini osiloskop ile ölçülür."
+      "KAZANIM": "İşlemsel      yükselteç      devrelerini      tasarlayarak uygulamalarını yapar.\nOp-amplı    uygulama    devrelerinin    giriş    çıkış sinyallerini osiloskop ile ölçülür."
     },
     {
       "AY": "ŞUBAT",
@@ -210,8 +214,8 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "3.   Entegre                    devre uygulamaları yapma.",
-      "KAZANIM": "Mantık  devrelerinden  integratör  ve  diferansiyatör devreleri açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Entegre devre uygulamaları yapar.\nMantık  devrelerinden  integratör  ve  diferansiyatör devreleri açıklanır."
     },
     {
       "AY": "MART",
@@ -219,8 +223,8 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "3.   Entegre                    devre uygulamaları yapma.",
-      "KAZANIM": "İntegratör   ve   diferansiyatör   devreleri   bağlantısı anlatılır ve devre kurulur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Entegre devre uygulamaları yapar.\nİntegratör   ve   diferansiyatör   devreleri   bağlantısı anlatılır ve devre kurulur."
     },
     {
       "AY": "MART",
@@ -228,8 +232,8 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "3.   Entegre                    devre uygulamaları yapma.",
-      "KAZANIM": "İntegratör devresi osilaskop ile ölçümleri alınır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Entegre devre uygulamaları yapar.\nİntegratör devresi osilaskop ile ölçümleri alınır."
     },
     {
       "AY": "MART",
@@ -237,7 +241,8 @@
       "SAAT": "6",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -245,8 +250,8 @@
       "SAAT": "6",
       "ÜNİTE": "İşlemsel Yükselteçler ve Entegreler",
       "KONU": "3.   Entegre                    devre uygulamaları yapma.",
-      "KAZANIM": "Diferaransiyatör   devresi   kurulduktan   sonra   ve osilaskopla ölçümleri alınır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Entegre devre uygulamaları yapar.\nDiferaransiyatör   devresi   kurulduktan   sonra   ve osilaskopla ölçümleri alınır."
     },
     {
       "AY": "MART",
@@ -254,8 +259,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "1.   Genlik         modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Genlik modülasyonu sinyali açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Genlik modülasyonlu sinyali oluşturur.\nGenlik modülasyonu sinyali açıklanır."
     },
     {
       "AY": "NISAN",
@@ -263,8 +268,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "1.   Genlik         modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Genlik modülasyonu devresi kurulur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Genlik modülasyonlu sinyali oluşturur.\nGenlik modülasyonu devresi kurulur."
     },
     {
       "AY": "NISAN",
@@ -272,8 +277,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "1.   Genlik         modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Genlik modülasyon  devresi osilaskop ile sinyaller ölçülür.",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Genlik modülasyonlu sinyali oluşturur.\nGenlik modülasyon  devresi osilaskop ile sinyaller ölçülür."
     },
     {
       "AY": "NISAN",
@@ -281,8 +286,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "1.   Genlik         modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Genlik modülasyon  devresi osilaskop ile sinyaller ölçülür.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Genlik modülasyonlu sinyali oluşturur.\nGenlik modülasyon  devresi osilaskop ile sinyaller ölçülür."
     },
     {
       "AY": "NISAN",
@@ -290,8 +295,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "2.   Frekans      modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Frekans modülasyonu açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Frekans modülasyonlu sinyali oluşturur.\nFrekans modülasyonu açıklanır."
     },
     {
       "AY": "MAYIS",
@@ -299,8 +304,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "2.   Frekans      modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Faz modülasyonu açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Frekans modülasyonlu sinyali oluşturur.\nFaz modülasyonu açıklanır."
     },
     {
       "AY": "MAYIS",
@@ -308,8 +313,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "2.   Frekans      modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Faz modülasyonu devresi kurulur ve ölçümler osilaskopta sinyali görülür.",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Frekans modülasyonlu sinyali oluşturur.\nFaz modülasyonu devresi kurulur ve ölçümler osilaskopta sinyali görülür."
     },
     {
       "AY": "MAYIS",
@@ -317,8 +322,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "2.   Frekans      modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Faz modülasyonu devresi kurulur ve ölçümler osilaskopta sinyali görülür.",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Frekans modülasyonlu sinyali oluşturur.\nFaz modülasyonu devresi kurulur ve ölçümler osilaskopta sinyali görülür."
     },
     {
       "AY": "MAYIS",
@@ -326,8 +331,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "3.   Darbe         modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Darbe genlik modülasyonu açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Darbe modülasyonlu sinyali oluşturur.\nDarbe genlik modülasyonu açıklanır."
     },
     {
       "AY": "HAZIRAN",
@@ -335,8 +340,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "3.   Darbe         modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Darbe genişlik modülasyonu açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Darbe modülasyonlu sinyali oluşturur.\nDarbe genişlik modülasyonu açıklanır."
     },
     {
       "AY": "HAZIRAN",
@@ -344,8 +349,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "3.   Darbe         modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Delta modülasyonu açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Darbe modülasyonlu sinyali oluşturur.\nDelta modülasyonu açıklanır."
     },
     {
       "AY": "HAZIRAN",
@@ -353,8 +358,8 @@
       "SAAT": "6",
       "ÜNİTE": "Modülasyon",
       "KONU": "3.   Darbe         modülasyonlu sinyali oluşturma.",
-      "KAZANIM": "Darbe  modülasyonu  devresi  elektriksel  şemaya uygun kurulur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Darbe modülasyonlu sinyali oluşturur.\nDarbe  modülasyonu  devresi  elektriksel  şemaya uygun kurulur."
     },
     {
       "AY": "HAZIRAN",
@@ -362,7 +367,8 @@
       "SAAT": "6",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

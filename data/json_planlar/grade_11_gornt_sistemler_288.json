@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "4",
       "KONU": "ÖĞRENME BİRİMİ TELEVİZYON SİSTEMİ\n1. TELEVİZYON SİSTEMİNİN TANITILMASI\n1.1. Televizyon yayın prensipleri\n1.2. Kablolu televizyon\n1.3. Kapalı devre televizyon sistemi\n1.4. Televizyon görüntü elemanları \nDemokrasinin önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Televizyon sistemini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "4",
       "KONU": "1.5. Tarama ve senkronizasyonu\n1.6. Üç renk kamera sistemleri\n1.8. TVnin blok yapısı",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Televizyon sistemini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
-      "KONU": "2. TELEVİZYON ÇEŞİTLERİ\n2.1. Plazma TV\n2.3. LCD TV \n2.3. LED TV"
+      "KONU": "2. TELEVİZYON ÇEŞİTLERİ\n2.1. Plazma TV\n2.3. LCD TV \n2.3. LED TV",
+      "KAZANIM": "Televizyon çeşitlerini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "4",
       "KONU": "2.4. Smart TV\n2.5. OLED TV \n2.6. QLED TV",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Televizyon çeşitlerini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "4",
       "KONU": "3. CRT TELEVİZYONLAR\n3.1. Crt televizyon çalışma prensibi\n3.2. Crt tv kartı",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "CRT televizyonlarını açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
-      "KONU": "4. TELEVİZYON BESLEME KATI SMPS\n4.1. Güç kaynağı devreleri\n4.2. Pals ve osilatör devreleri"
+      "KONU": "4. TELEVİZYON BESLEME KATI SMPS\n4.1. Güç kaynağı devreleri\n4.2. Pals ve osilatör devreleri",
+      "KAZANIM": "Televizyon besleme katının SMPS bakımını ve onarımını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "4",
-      "KONU": "4.3. Besleme katından kaynaklanan arızalar\n4.4. Arızanın teşhis edilmesi\n4.5. Arızanın giderilmesi \nAtatürkün Cumhuriyetçilik İlkesi"
+      "KONU": "4.3. Besleme katından kaynaklanan arızalar\n4.4. Arızanın teşhis edilmesi\n4.5. Arızanın giderilmesi \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Televizyon besleme katının SMPS bakımını ve onarımını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "4",
       "KONU": "5. TELEVİZYON LED AYDINLATMASI\n5.1. LED TV ana kartının blok diyagramı\n5.2. LED TV ana kartındaki katların görevleri\n5.3. LCD TV arka aydınlatma flüoresanları \n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Televizyon LED aydınlatmasının bakımını ve onarımını yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "4",
       "KONU": "5.4. LED TV arka aydınlatma ledleri\n5.5. QLED TV arka aydınlatma ledleri\n5.6. OLED TV piksel ledleri \nAtatürkün eğitime ve bilime verdiği önem",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Televizyon LED aydınlatmasının bakımını ve onarımını yapar."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "4",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "4",
       "KONU": "6. TELEVİZYON ARIZALARI\n6.1. Sistemli arıza arama işlem adımları\n6.2. Onarım öncesi hazırlıklar\n6.3. Güvenlik önlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Televizyon arızalarını giderir."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "4",
       "KONU": "6.4. Arıza belirtileri\n6.5. Arıza akış şeması\n6.6. Besleme gerilim değerleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Televizyon arızalarını giderir."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "4",
       "KONU": "6.7. Gerilim kontrolü yapılacak noktalar\n6.8. Sinyal dalga şekli kontrolü yapılacak noktalar\n6.9. TV şasesi yapısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Televizyon arızalarını giderir."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "4",
       "KONU": "ÖĞRENME BİRİMİ UYDU ANTEN TESİSAT KURULUMU\n1. UYDU ANTEN TESİSAT MALZEMELERİ VE CİHAZLARI \n1.1. Uydu anten sistemi ve çalışma prensibi",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Uydu anten tesisat malzemelerini ve cihazlarını açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "4",
       "KONU": "1.2. Uydu anten cihazları\n1.3.Uydu anten cihazlarının bağlantı şeması",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Uydu anten tesisat malzemelerini ve cihazlarını açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "4",
       "KONU": "1.4. Bağlama elemanları\n1.5. Ayar ve ölçme cihazlarının kullanım teknikleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Uydu anten tesisat malzemelerini ve cihazlarını açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "4",
-      "KONU": "2. TEK ABONELİ UYDU ANTEN KURULUMU\n2.1. Tek aboneli uydu anten tesisatında kullanılan malzemeler\n2.2. Tek aboneli uydu anten tesisatında kullanılan cihazların bağlantıları\n2.3. Uydu anten tesisatının ayarları \n1.Dönem 2.Sınav"
+      "KONU": "2. TEK ABONELİ UYDU ANTEN KURULUMU\n2.1. Tek aboneli uydu anten tesisatında kullanılan malzemeler\n2.2. Tek aboneli uydu anten tesisatında kullanılan cihazların bağlantıları\n2.3. Uydu anten tesisatının ayarları \n1.Dönem 2.Sınav",
+      "KAZANIM": "Tek aboneli uydu anten kurulumunu yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "4",
       "KONU": "2.4. Satlookun görevi ve çeşitleri\n2.5. Uydu alıcısı Receiver menüsünün kullanımı\n2.6. Uydu antenlerinde kullanılan motorlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Tek aboneli uydu anten kurulumunu yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "4",
-      "KONU": "2.7. Diseqc motor sürücüsünün bağlantısı\n2.8. Motorlu uydu anten tesisatının yönünün ayarlanması\n2.9. USALS Universal SatelliteAutomaticLocationSystem sistemi"
+      "KONU": "2.7. Diseqc motor sürücüsünün bağlantısı\n2.8. Motorlu uydu anten tesisatının yönünün ayarlanması\n2.9. USALS Universal SatelliteAutomaticLocationSystem sistemi",
+      "KAZANIM": "Tek aboneli uydu anten kurulumunu yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "4",
-      "KONU": "3. ÇOK ABONELİ UYDU ANTEN KURULUMU\n3.1. Çok aboneli uydu anten sistemi\n3.2. Çok aboneli uydu anten tesisatında kullanılan malzemeler"
+      "KONU": "3. ÇOK ABONELİ UYDU ANTEN KURULUMU\n3.1. Çok aboneli uydu anten sistemi\n3.2. Çok aboneli uydu anten tesisatında kullanılan malzemeler",
+      "KAZANIM": "Tek aboneli uydu anten kurulumunu yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "4",
-      "KONU": "3.3. Çok aboneli uydu anten tesisatındaki cihazların çalışma şekli\n3.4. Çok aboneli uydu anten sisteminin kurulum şeması"
+      "KONU": "3.3. Çok aboneli uydu anten tesisatındaki cihazların çalışma şekli\n3.4. Çok aboneli uydu anten sisteminin kurulum şeması",
+      "KAZANIM": "Tek aboneli uydu anten kurulumunu yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "4",
       "KONU": "3.5. Çok aboneli uydu anten sisteminin kurulumu",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Tek aboneli uydu anten kurulumunu yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "4",
       "KONU": "4. HEAD-END DAĞITIM SİSTEMİNİN KURULUMU\n4.1. HEAD-END ünitesinde kullanılan malzemeler\n4.2. HEAD-END ünitesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Head-end dağıtım sisteminin kurulumunu yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "4",
       "KONU": "4.3. HEAD-END ünitesi bağlantılarını yapma yöntemleri\n4.4. HEAD-END ünitesi bağlantılarını yaparken dikkat edilecek ilkeler",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Head-end dağıtım sisteminin kurulumunu yapar."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "4",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "4",
       "KONU": "4.5. Head-end sisteminin kurulumu",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Head-end dağıtım sisteminin kurulumunu yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "4",
       "KONU": "ÖĞRENME BİRİMİ KAPALI DEVRE KAMERA SİSTEMLERİ \n1. ANALOG HD CCTV SİSTEMİ\n1.1. ANALOG HD CCTV sistem elemanlarını ve cihazları \nAtatürkün vatan ve millet sevgisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "ANALOG HD CCTV sistemini açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "4",
       "KONU": "1.2. CCTV kablolarının BNC bağlantısı\n1.3. DVR hard disk bağlantısı \n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav ANALOG HD CCTV sistemini açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "4",
       "KONU": "1.4. DVR cihazı TCPIP ve sistem ayarları",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "ANALOG HD CCTV sistemini açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "4",
       "KONU": "2. SAYISAL CCTV SİSTEMİ\n2.1. Sayısal CCTV sistem elemanları ve cihazları\n2.2. CAT5 CAT6 CAT7 kablolarının RJ45 bağlantıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Sayısal CCTV sistemini açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "4",
       "KONU": "2.3. IP kameranın TCPIP ayarları\n2.4. NVR cihazı TCPIP ve sistem ayarları \nÇocuk insan sevgisi ve evrensellik",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Sayısal CCTV sistemini açıklar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "4",
       "KONU": "2.5. RAID elektronik sistemi\n2.6. UPS bağlantısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Sayısal CCTV sistemini açıklar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "4",
       "KONU": "3. TEK KAMERALI KAYIT SİSTEMİ KURULUMU\n3.1. Sistem bağlantılarının çizimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Tek kameralı kayıt sisteminin kurulumunu yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "4",
       "KONU": "3.2. Sabit kamera sistemi montajı \nAtatürkçü düşüncede yer alan temel fikirler",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Tek kameralı kayıt sisteminin kurulumunu yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "4",
       "KONU": "3.3. Speed dome kamera sistemi montajı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Tek kameralı kayıt sisteminin kurulumunu yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "4",
       "KONU": "4. ÇOK KAMERALI KAYIT SİSTEMİ KURULUMU\n4.1. Çok kameralı sistemin kurulum öncesi keşif işlemi\n4.2. Çok kameralı sistemin projesi \n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Çok kameralı kayıt sisteminin kurulumunu yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "4",
       "KONU": "4.3. Çok kameralı sistemin montajı ve ayarları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Çok kameralı kayıt sisteminin kurulumunu yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "4",
       "KONU": "4.4. Kameraların PoE switche bağlantısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Çok kameralı kayıt sisteminin kurulumunu yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "4",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

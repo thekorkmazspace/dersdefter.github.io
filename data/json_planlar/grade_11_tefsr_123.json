@@ -8,7 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Kuran-ı Kerim Tarihi",
       "KONU": "1. Kuran-ı Kerim ve Gönderiliş Amacı",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. Kuran-ı Kerimin isimlerini açıklar.\n2. Kuranın gönderiliş amacını kavrar"
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "2",
       "ÜNİTE": "1. Kuran-ı Kerim Tarihi",
       "KONU": "1. Kuran-ı Kerim ve Gönderiliş Amacı",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "1. Kuran-ı Kerimin isimlerini açıklar.\n2. Kuranın gönderiliş amacını kavrar"
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "1. Kuran-ı Kerim Tarihi",
-      "KONU": "2. Kuran- ı Kerimin Nüzul Ortamı"
+      "KONU": "2. Kuran- ı Kerimin Nüzul Ortamı",
+      "KAZANIM": "3. Kuranın vahyedildiği ortamın özelliklerini yorumlar."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Kuran-ı Kerim Tarihi",
       "KONU": "3. Vahyin Geliş Süreci",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "4. Vahyin geliş sürecini açıklar."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "2",
       "ÜNİTE": "1. Kuran-ı Kerim Tarihi",
       "KONU": "4. Vahyin Yazılması ve Korunması\n5.1. Fatiha Suresi ve Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "5. Vahyin yazılması korunması ve çoğaltılması ile ilgili süreci açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "1. Kuran-ı Kerim Tarihi",
-      "KONU": "5.2. Bakara Suresi 1-5. Ayetler ve Tefsiri\n5.3. Alak Suresi 1-5. Ayetler ve Tefsiri"
+      "KONU": "5.2. Bakara Suresi 1-5. Ayetler ve Tefsiri\n5.3. Alak Suresi 1-5. Ayetler ve Tefsiri",
+      "KAZANIM": "6. Fatiha suresinden ilke ve değerler çıkarır.\n7. Bakara suresi 1-5. ayetleri yorumlar. \n8. Alâk suresi 1-5. ayetleri yorumlar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "2. Tefsir İlmi ve Kavramları",
-      "KONU": "1. Tefsir İlminin Tanımı ve Amacı"
+      "KONU": "1. Tefsir İlminin Tanımı ve Amacı",
+      "KAZANIM": "1. Tefsir ilminin tanımını ve amacını açıklar"
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Tefsir İlmi ve Kavramları",
       "KONU": "2. Tefsir İlminin Temel Kavramları\n2.1. Tefsir\n2.2. Tevil",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "2. Tefsirle ilgili temel kavramları açıklar. \n3. Tefsir tevil meal ve tercüme kavramları arasında ilişki kurar."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Tefsir İlmi ve Kavramları",
       "KONU": "2.3. Meal ve Tercüme",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 2. Tefsirle ilgili temel kavramları açıklar. \n3. Tefsir tevil meal ve tercüme kavramları arasında ilişki kurar."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Tefsir İlmi ve Kavramları",
       "KONU": "3. Tefsirle İlgili Diğer Terim ve İlimler\n3.1. Mekkîlik ve Medenîlik\n3.2. Esbab-ı Nüzul\n3.3. Nasih ve Mensuh",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "4. Tefsirle ilgili terim ve ilimlerin Kuranı yorumlamada önemini fark eder."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Tefsir İlmi ve Kavramları",
       "KONU": "3.4. Muhkem ve Müteşabih\n3.5. Garibul-Kuran\n3.6. İcâzul-Kuran\n3.7. Vücuh ve Nezâir",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "4. Tefsirle ilgili terim ve ilimlerin Kuranı yorumlamada önemini fark eder."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Tefsir İlmi ve Kavramları",
       "KONU": "3.8. Huruf-ı Mukattaa\n3.9. Meseller\n3.10.Kıssalar                       \n3.11.Mecazlar ve Deyimler",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "4. Tefsirle ilgili terim ve ilimlerin Kuranı yorumlamada önemini fark eder."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Tefsir İlmi ve Kavramları",
       "KONU": "4.1. Fil Suresi ve Tefsiri\n4.2. Kureyş Suresi ve Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "5. Fil suresini yorumlar.\n6. Kureyş suresini yorumlar"
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Tefsir İlmi ve Kavramları",
       "KONU": "4.3. Hucurat Suresi 10-12. Ayetler ve Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "7. Hucurat suresi 10-12. ayetlerden ilke ve değerler çıkarır."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "2",
       "ÜNİTE": "3. Tefsir Tarihi",
       "KONU": "1. Tefsirin İlk Dönemi\n1.1. Hz. Peygamber Dönemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "1. Hz. Muhammedin s.a.v. Kuran tefsirine örnekler verir"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "3. Tefsir Tarihi",
-      "KONU": "1.2. Sahabe Dönemi\n1.3. Tâbiîn Dönemi"
+      "KONU": "1.2. Sahabe Dönemi\n1.3. Tâbiîn Dönemi",
+      "KAZANIM": "2. Sahabe ve Tâbiîn Dönemi tefsir çalışmalarının özelliklerini açıklar"
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "2",
       "ÜNİTE": "3. Tefsir Tarihi",
       "KONU": "2. Tedvin Dönemi ve Sonrasındaki Gelişmeler\n3. Türkçe Tefsir ve Meal Çalışmaları",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 3. Tedvin Dönemi ve sonrasında Tefsir ilmi ile ilgili yapılan çalışmaları özelliklerine göre sınıflandırır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "3. Tefsir Tarihi",
-      "KONU": "4.1. Maun Suresi ve Tefsiri"
+      "KONU": "4.1. Maun Suresi ve Tefsiri",
+      "KAZANIM": "4. Kuranın anlaşılmasında Türkçe tefsir ve meal çalışmalarının yerini fark eder.\n5. Maun suresinden ilke ve değerler çıkarır."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "3. Tefsir Tarihi",
-      "KONU": "4.2. Kevser Suresi ve Tefsiri\n4.3. Bakara Suresi 285-286. Ayetler ve Tefsiri"
+      "KONU": "4.2. Kevser Suresi ve Tefsiri\n4.3. Bakara Suresi 285-286. Ayetler ve Tefsiri",
+      "KAZANIM": "6. Kevser suresinden ilke ve değerler çıkarır. \n7. Bakara suresi 285-286. ayetleri yorumlar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "4. Kuran-ı anlama ve Yorumlama",
-      "KONU": "1. Kuranı Anlama ve Yorumlama"
+      "KONU": "1. Kuranı Anlama ve Yorumlama",
+      "KAZANIM": "1. Kuranı anlama ve yorumlamanın önemini kavrar"
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kuran-ı anlama ve Yorumlama",
       "KONU": "2. Kuranı Anlama ve Yorumlama Yönteminde Temel İlkeler",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "2. Kuranı anlama ve yorumlamada temel ilke ve yöntemleri açıklar."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kuran-ı anlama ve Yorumlama",
       "KONU": "2.1. Arap Diline Vukufiyet\n2.2. Kuranın Kuran ile Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "2. Kuranı anlama ve yorumlamada temel ilke ve yöntemleri açıklar."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kuran-ı anlama ve Yorumlama",
       "KONU": "2.3. Kuranın Sünnet ile Tefsiri\n2.4. Kuranın Sahabe ve Tâbiîn Görüşleri ile Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "4. Kuranı anlama ve yorumlamada sahabe ve tâbiînin rolünü fark eder."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kuran-ı anlama ve Yorumlama",
       "KONU": "2.5. Nüzul Ortamını Dikkate Alma\n2.6. Bilimsel Verilerden Faydalanma",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "3. Ayetlerin nüzul sebeplerini ve hadisleri bilmenin Kuranı anlamadaki yerini açıklar"
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kuran-ı anlama ve Yorumlama",
       "KONU": "3.1. Nasr Suresi ve Tefsiri\n3.2. Tebbet Suresi ve Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "5. Nasr suresini yorumlar."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kuran-ı anlama ve Yorumlama",
       "KONU": "3.3. Haşr Suresi 21-24. Ayetler ve Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 6. Tebbet Suresini yorumlar.\n7. Haşr suresi 21-24. ayetlerden ilke ve değerler çıkarır"
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "3.3. Haşr Suresi 21-24. Ayetler ve Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "6. Tebbet Suresini yorumlar.\n7. Haşr suresi 21-24. ayetlerden ilke ve değerler çıkarır"
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "2. Örnek Metinlerle Kuranın Ana Konuları\n1.1. Allah\n1.2. İnsan\n1.3. Nübüvvet",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "1. Kuranın ana konularını ayetlerle açıklar"
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "1.4. Dünya\n1.5. Ahiret",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "1. Kuranın ana konularını ayetlerle açıklar"
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "2. Arapça Tefsir Metinleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "2. Arapça tefsir metinlerini okur ve yorumlar."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "2.1. Asr Suresi",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "2. Arapça tefsir metinlerini okur ve yorumlar."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "2.2. Kâfirûn Suresi",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "2. Arapça tefsir metinlerini okur ve yorumlar."
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "2.3. İsrâ Suresi 23-39. Ayetler",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "2. Arapça tefsir metinlerini okur ve yorumlar."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "2.4. Müminûn Suresi 1-10. Ayetler",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 2. Arapça tefsir metinlerini okur ve yorumlar."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "3.1. Felak Suresi ve Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "3. Felak ve Nas surelerinden ilke ve değerler çıkarır."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "5.Örnek Metinlerle Kuran Tefsiri",
       "KONU": "3.2. Nas Suresi ve Tefsiri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "3. Felak ve Nas surelerinden ilke ve değerler çıkarır."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

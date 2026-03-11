@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ AYDINLATMANIN TANIMI AMACI VE TÜRLERİ\n1. Aydınlatmanın Temel Kavramları\n1.1. Lümen\n1.2. Lüks\n1.3. Işık rengi\n1.4. Kandela\n1.5. Renksel geri veri indeksi \nDemokrasinin önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Aydınlatmanın temel kavramlarını açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "7",
       "KONU": "2. Amacı Bakımından Aydınlatma Türleri\n2.1. Fizyolojik aydınlatma\n2.2. Dekoratif aydınlatma\n2.3. Dekoratif fizyolojik aydınlatma\n2.4. Dikkati çeken aydınlatma",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Amacı bakımından aydınlatma türlerini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "7",
-      "KONU": "3. Işık Kökeni Bakımından Aydınlatma Türleri\n3.1. Doğal aydınlatma\n3.2. Suni aydınlatma"
+      "KONU": "3. Işık Kökeni Bakımından Aydınlatma Türleri\n3.1. Doğal aydınlatma\n3.2. Suni aydınlatma",
+      "KAZANIM": "Işık kökeni bakımından aydınlatma türlerini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "7",
       "KONU": "4. Aydınlatılan Yere Göre Aydınlatma Türleri\n4.1. İç aydınlatma\n4.2. Dış aydınlatma",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Aydınlatılan yere göre aydınlatma türlerini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "7",
       "KONU": "5. Işık Kirliliği\n5.1. Işık kirliğine sebep olan tasarım ve armatür hataları \n5.2. Işık kirliliğinin enerji verimliliği ve doğal yaşam üzerindeki olumsuz etkileri \n6. Aydınlatmanın İnsan psikolojikfizyolojik Üzerindeki Etkisi\n6.1. Aydınlatmanın insanlar üzerindeki olumlu ve olumsuz etkileri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Işık kirliliğinin çevreye olan etkilerini ve çözüm yöntemlerini açıklar.\nAydınlatmanın insan psikolojik  fizyolojik üzerindeki etkilerini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "7",
-      "KONU": "ÖĞRENME BİRİMİ IŞIK VE GÖRME OLAYI\n1. Fotometrik Büyüklükler\n1.1. Işık akısı\n1.2. Işık şiddeti\n1.3. Parıltı\n1.4. Renksel geri verim indeksi CRI\n1.5. Renk sıcaklığı-dalga boyu"
+      "KONU": "ÖĞRENME BİRİMİ IŞIK VE GÖRME OLAYI\n1. Fotometrik Büyüklükler\n1.1. Işık akısı\n1.2. Işık şiddeti\n1.3. Parıltı\n1.4. Renksel geri verim indeksi CRI\n1.5. Renk sıcaklığı-dalga boyu",
+      "KAZANIM": "Fotometrik büyüklüklerin ölçümünü yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "7",
-      "KONU": "2. Fizyolojik-Optik Esaslar\n2.1. Adaptasyon\n2.2. Kontrast duyarlığı\n2.3. Kamaşma\n2.4. Renk \nAtatürkün Cumhuriyetçilik İlkesi"
+      "KONU": "2. Fizyolojik-Optik Esaslar\n2.1. Adaptasyon\n2.2. Kontrast duyarlığı\n2.3. Kamaşma\n2.4. Renk \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Fizyolojik ve optik esasları açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "7",
       "KONU": "3. Işık Üretiminin Temelleri\n3.1. Termik ışık üretimi\n3.2. Deşarja dayanan ışık üretimi\n3.3. Elektrolüminesan ışık üretimi \n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Işık üretim çeşitlerini açıklar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ LAMBALAR\n1. Lamba Çeşitleri\n1.1. Enkandesan lambalar\n1.2. Deşarj lambalar\n1.3. Flüoresan lambalar\n1.4. LED lambalar\n1.5. Özel amaçlı lambalar \nAtatürkün eğitime ve bilime verdiği önem",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Uygun lamba seçimini yapar."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "7",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "7",
       "KONU": "2. Lambaların Ekonomik Ömrü\n3. Lambaların Işık Rengi Özellikleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Lambaların ekonomik ömrünü ve buna etki eden faktörleri açılar.\nİstenen ışık rengine göre lamba seçimi yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "7",
       "KONU": "4. Lambaların Duyları\n4.1. Vidalı duylar E tipi duylar\n4.2. Bayonet duylar B tipi duylar\n4.3. Çubuk enkandesan duylar S tipi duylar\n4.4. Yuvalı duylar R 7s\n4.5. İğne bacaklı duylar G tipi duylar",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Lambaların duy bağlantılarını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ AYDINLATMA ARMATÜRLERİ\n1. Armatür Bileşenleri\n1.1. Işık kaynağı\n1.2. Gövde\n1.3. Bağlantı klemensleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Armatür bileşenlerinin montaj ve bağlantılarını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "7",
       "KONU": "2. Armatürlerin Elektriksel Sınıflandırılması\n2.1. Elektrik sınıfı 1 Class1\n2.2. Elektrik sınıfı 2 Class2\n2.3. Elektrik sınıfı 3 Class3",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Armatürlerin elektriksel sınıflandırmasını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "7",
       "KONU": "3. Montaj Tipine Göre Armatürler\n3.1. Sıva altı\n3.2. Sıva üstü",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Montaj tipine göre armatür seçimini ve montajını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "7",
       "KONU": "4. Armatürlerin Sızdırmazlık IP ve Darbe Dayanımına IK Göre Sınıflandırılması\n5. Direkt ve Endirekt Aydınlatma Armatürleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Armatürlerin sızdırmazlık IP ve darbe dayanımına IK göre sınıflamasını yapar.\nDirekt ve endirekt aydınlatma armatürlerinin seçimini ve montajını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "7",
-      "KONU": "6. Armatürlerin Üretim Onay Testleri\n6.1. Topraklama direnci\n6.2. Topraklama sürekliliği\n6.3. Fonksiyon testi\n6.4. Yalıtım direnci \n1.Dönem 2.Sınav"
+      "KONU": "6. Armatürlerin Üretim Onay Testleri\n6.1. Topraklama direnci\n6.2. Topraklama sürekliliği\n6.3. Fonksiyon testi\n6.4. Yalıtım direnci \n1.Dönem 2.Sınav",
+      "KAZANIM": "Armatür üretim onay testlerini açıklar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ LED TEKNOLOJİSİNİN AYDINLATMADA KULLANIMI \n1. LEDlerin Tanımı ve Özellikleri\n2. LEDlerin Yapısı ve Çeşitleri\n2.1. Montaj tipi",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav LEDlerin özelliklerini açıklar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "7",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "7",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "7",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "7",
-      "KONU": "2.2. Fiziksel ölçü Kılıflarına göre LEDler\n2.3. LEDlerde güç\n2.4. LEDlerde verim\n2.5. LEDlerde renk sıcaklığı kelvin ve renk"
+      "KONU": "2.2. Fiziksel ölçü Kılıflarına göre LEDler\n2.3. LEDlerde güç\n2.4. LEDlerde verim\n2.5. LEDlerde renk sıcaklığı kelvin ve renk",
+      "KAZANIM": "LEDlerin yapısı ve özelliklerini açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "7",
-      "KONU": "3. LEDlerde Akım ve Gerilim İlişkisi\n3.1. Sabit akım esasına göre modül oluşturma\n3.2. Sabit gerilim esasına göre modül oluşturma"
+      "KONU": "3. LEDlerde Akım ve Gerilim İlişkisi\n3.1. Sabit akım esasına göre modül oluşturma\n3.2. Sabit gerilim esasına göre modül oluşturma",
+      "KAZANIM": "LEDlerde akım ve gerilim ilişkisine göre LED modülünü oluşturur."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "7",
-      "KONU": "4. LEDlerde Akım ve Isı İlişkisi\n4.1. Soğutucu ve PCB seçimi\n4.2. Isı etkisine göre LEDlerin çalışma sürelerinin belirlenmesi"
+      "KONU": "4. LEDlerde Akım ve Isı İlişkisi\n4.1. Soğutucu ve PCB seçimi\n4.2. Isı etkisine göre LEDlerin çalışma sürelerinin belirlenmesi",
+      "KAZANIM": "Aydınlatma modülünün tekniğine uygun olarak soğutucuya montajını yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "7",
       "KONU": "5. LEDlerde Isı Yönetimi\n5.1. Soğutucu ebat ve tipleri\n5.2. Soğutucu montajı",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "LEDlerin soğutucu seçimini ve montajını yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "7",
       "KONU": "6. LED PCB Modülleri\n6.1. CEM1 PCBli\n6.2. FR4 PCBli\n6.3. Alüminyum PCBli\n6.4. Esnek PCBli",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "LEDli sistemlerde PCB çeşitlerini açıklar."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "7",
       "KONU": "7. Bağlantı Şekilleri\n7.1. LED modüllerin seri bağlantısı\n7.2. LED modüllerin paralel bağlantısı\n7.3. LED modüllerin karışık bağlantısı",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "LED modüllerinin bağlantılarını yapar."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "7",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "7",
       "KONU": "8. LEDli Armatür Bileşenlerinde Dikkat Edilecek Hususlar\n8.1. Sürücü ile LED modül arasındaki gerilim düşümü\n8.2. Şerit-Lineer LED modüllerde gerilim düşümü\n9. LED Modül ve Bileşenlerinin Nitelik Kontrolleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "LED armatür bileşenlerini açıklar.\nLED ve bileşenlerinin nitelik kontrollerini yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ LED SÜRÜCÜLER\n1. LED Sistemine Göre Sürücü Seçimi\n1.1. LED sistemine göre sürücü seçimine etki eden faktörler \n1.2. Sürücülerin ısı kaynağından uzak noktaya yerleşiminde dikkat edilecek hususlar \nAtatürkün vatan ve millet sevgisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "LED sistemlerinde sürücü seçimini yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "7",
       "KONU": "2. Sabit Gerilim Sürücüleri\n2.1. Sabit gerilimli sürücülerin kullanım yerleri ve özellikleri \n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Sabit gerilim sürücüleri tekniğine uygun kullanır."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "7",
       "KONU": "3. Sabit Akım Sürücüleri\n3.1. Sabit akımlı sürücülerin kullanım yerleri ve özellikleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Sabit akım sürücüleri tekniğine uygun kullanır."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ LEDLERDE VERİMLİK\n1. LED Çipinde Verimlilik\n1.1. Yüksek verimli çip seçimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "LED çiplerinin verimliliğine göre seçimini yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "7",
       "KONU": "2. LED Modülünde Verimlilik\n2.1. LED modülün verimliliğini etkileyen faktörler \n2.2. LED modülün verimliliğinin bulunması \nÇocuk insan sevgisi ve evrensellik",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "LED modülünün verimliliğini hesaplar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "7",
       "KONU": "3. LED Sürücülerinde Verimlilik\n3.1. LED sürücülerin verimliliğini etkileyen faktörler\n3.2. LED sürücülerinin verimliliğinin bulunması",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "LED sürücülerin verimliliğini hesaplar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "7",
       "KONU": "4. LED Lamba ve Armatürlerde Verimlilik\n4.1. LED lamba ve armatürlerin verimliliğini etkileyen faktörler\n4.2. LED lambanın verimliliğinin bulunması",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "LED lamba ve armatürlerin verimliliğini hesaplar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ AYDINLATMADA KONTROL\n1. Aydınlatmada Kullanılan Sensörler\n1.1. Fotoseller\n1.2. Hareket Sensörleri\n1.3. Zaman röleleri\n1.4. Renk sensörleri\n1.5. Ses sensörleri\n1.6. Dokunmatik sensörler \nAtatürkçü düşüncede yer alan temel fikirler",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Aydınlatmada kullanılan sensörlerin bağlantısını ve montajını yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "7",
       "KONU": "2. Dimmerler Işık Kısıcılar\n2.1. Manuel dimmerler\n2.2. RF kumandalı dimmerler\n2.3. IR kumandalı dimmerler\n2.4. Bluetooth ve wifi dimmerler\n2.5. Repeaterlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Dimmerlerin bağlantısını ve montajını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "7",
       "KONU": "3. Aydınlatma Kontrol Cihazları\n3.1. RGB kontrol cihazları\n3.2. RGBW kontrol cihazları\n3.3. Tunner ton kontrol kontrol cihazları\n3.4. Repeaterlar \n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Aydınlatma kontrol cihazlarının bağlantısını ve montajını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "7",
       "KONU": "4. Mikrokontrolörler\n4.1. LEDler ile mikrokontrolör arasındaki besleme ve haberleşme bağlantıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Mikrokontrolörler ile aydınlatma sisteminin kontrolünü yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "7",
       "KONU": "5. Akıllı Aydınlatma Kontrol Cihazları\n5.1. Piksel kontrol cihazları\n5.2. DALİ kontrol sitemleri\n5.3. DMX kontrol sistemleri\n5.4. KNX kontrol sistemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Akıllı aydınlatma kontrol cihazlarının bağlantı ve montajını yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "7",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

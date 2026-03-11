@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "4",
       "KONU": "1.MUHASEBEYE GİRİŞ\n1.1. MUHASEBE VE HESAP KAVRAMLARI\n1.1.1. MUHASEBE Kavramı\n1.1.2. Muhasebenin Fonksiyonları\n1.1.3. Muhasebenin Diğer Bilim Dallarıyla İlişkisi\n1.1.4. MUHASEBE Türleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "MUHASEBE ve hesap kavramlarını açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "4",
       "KONU": "1.1.5. Muhasebenin Tarihçesi\n1.1.6. MUHASEBE Mesleği\n1.2. TEMEL MALİ TABLOLAR\n1.2.1. Bilanço\n1.2.2. Gelir Tablosu",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Temel mali tabloları düzenler."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
-      "KONU": "1.2.3. Hesap Kavramı\n1.2.4. Hesapların İşleyiş Kuralları\n1.2.5. Gelir Tablosu ve Bilanço İlişkisi\n1.2.6. Ticari İşlemlerin Hesaplarda İzlenmesi"
+      "KONU": "1.2.3. Hesap Kavramı\n1.2.4. Hesapların İşleyiş Kuralları\n1.2.5. Gelir Tablosu ve Bilanço İlişkisi\n1.2.6. Ticari İşlemlerin Hesaplarda İzlenmesi",
+      "KAZANIM": "Temel mali tabloları düzenler."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "4",
       "KONU": "2. TÜRKİYEDE TEK DÜZEN MUHASEBE SİSTEMİ\n2.1. TEK DÜZEN MUHASEBE SİSTEMİNİN AMAÇ VE KAPSAMI\n2.1.1.Tek Düzen MUHASEBE Sisteminin Amacı\n2.1.2. Tek Düzen MUHASEBE Sisteminin Kapsamı",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Tek düzen MUHASEBE sisteminin amaç ve kapsamı açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "4",
       "KONU": "2.2. TEK DÜZEN MUHASEBE SİSTEMİNDE USUL VE ESASLAR\n2.2.1. Muhasebenin Temel Kavramları\n2.2.2. Mali Tabloların İlkeleri\n2.2.3. Mali Tabloların Düzenlenmesi ve Sunulması\n2.2.4. Tek Düzen Hesap Çerçevesi ve Hesap PLANI",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Tek düzen MUHASEBE sisteminde usul ve esaslarını uygular."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
-      "KONU": "3. MUHASEBE SÜRECİ\n3.1. AÇILIŞ BİLANÇOSU\n3.2. MUHASEBE DEFTERLERİNE KAYIT\n3.2.1. MUHASEBE Fişleri\n3.2.2.Yevmiye Defteri"
+      "KONU": "3. MUHASEBE SÜRECİ\n3.1. AÇILIŞ BİLANÇOSU\n3.2. MUHASEBE DEFTERLERİNE KAYIT\n3.2.1. MUHASEBE Fişleri\n3.2.2.Yevmiye Defteri",
+      "KAZANIM": "Açılış bilançosu düzenler.\nMUHASEBE defterlerine kayıt işlemlerini yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "4",
-      "KONU": "3.3. AYLIK MİZANLARIN DÜZENLENMESİ\n3.4. ENVANTER İŞLEMLERİ"
+      "KONU": "3.3. AYLIK MİZANLARIN DÜZENLENMESİ\n3.4. ENVANTER İŞLEMLERİ",
+      "KAZANIM": "Aylık Mizanların düzenlenmesi işlemlerini yapar.\nEnvanter İşlemlerini yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "4",
       "KONU": "3.5. GELİR TABLOSUNUN DÜZENLENMESİ\n3.6. GELİR VE GİDER SONUÇ HESAPLARININ KAPATILMASI\n\n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Gelir tablosunun düzenlenmesi işlemlerini yapar.\nGelir ve Gider Sonuç Hesaplarının Kapatılması işlemlerini yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "4",
       "KONU": "3.7. KESİN MİZAN DÜZENLENMESİ\n3.8. KAPANIŞ BİLANÇOSUNUN DÜZENLENMESİ",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Kesin Mizan Düzenlenmesi işlemlerinin yapar.\nKapanış Bilançosu düzenlenmesi işlemlerini yapar."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "4",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "4",
       "KONU": "3.9. BİLANÇO HESAPLARININ KAPATILMASI\n3.10. YENİ DÖNEME İLİŞKİN HESAPLARIN AÇILMASI",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Bilanço hesaplarının kapatılması işlemlerini yapar.\nYeni döneme ilişkin hesapların açılması işlemlerini yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "4",
       "KONU": "4.AKTİF KARAKTERLİ HESAPLAR\n4.1. DÖNEN VARLIKLAR VE ENVANTER İŞLEMLERİ\n4.1.1. Hazır Değerler",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak dönen varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "4",
       "KONU": "4.1.2. Menkul Kıymetler\n4.1.3. Ticari Alacaklar",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak dönen varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "4",
       "KONU": "4.1.4. Diğer Alacaklar\n4.1.5. Stoklar",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak dönen varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "4",
       "KONU": "4.1.5. Stoklar\n4.1.6. Yıllara Yaygın İnşaat ve Onarım Maliyetleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak dönen varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "4",
       "KONU": "4.1.7. Gelecek Aylara Ait Giderler ve Gelir Tahakkukları\n4.1.8. Diğer Dönen Varlıklar",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak dönen varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "4",
-      "KONU": "4.2. DURAN VARLIKLAR VE ENVANTER İŞLEMLERİ\n4.2.1. Ticari Alacaklar\n1.Dönem 2.Sınav"
+      "KONU": "4.2. DURAN VARLIKLAR VE ENVANTER İŞLEMLERİ\n4.2.1. Ticari Alacaklar\n1.Dönem 2.Sınav",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak duran varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "4",
       "KONU": "4.2.2. Diğer Alacaklar\n4.2.3. Mali Duran Varlıklar",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak duran varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "4",
-      "KONU": "4.2.4. Maddi Duran Varlıklar\n4.2.5. Maddi Olmayan Duran Varlıklar"
+      "KONU": "4.2.4. Maddi Duran Varlıklar\n4.2.5. Maddi Olmayan Duran Varlıklar",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak duran varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "4",
-      "KONU": "4.2.6. Özel Tükenmeye Tabi Varlıklar\n4.2.7. Gelecek Yıllara Ait Giderler ve Gelir Tahakkukları"
+      "KONU": "4.2.6. Özel Tükenmeye Tabi Varlıklar\n4.2.7. Gelecek Yıllara Ait Giderler ve Gelir Tahakkukları",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak duran varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "4",
-      "KONU": "4.2.7. Gelecek Yıllara Ait Giderler ve Gelir Tahakkukları\n4.2.8. Diğer Duran Varlıklar"
+      "KONU": "4.2.7. Gelecek Yıllara Ait Giderler ve Gelir Tahakkukları\n4.2.8. Diğer Duran Varlıklar",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak duran varlık hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "4",
       "KONU": "5. PASİF KARAKTERLİ HESAPLAR\n5.1. KISA VADELİ YABANCI KAYNAKLAR VE ENVANTER İŞLEMLERİ\n5.1.1. Mali Borçlar\n5.1.2. Ticari Borçlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak kısa vadeli yabancı kaynaklar hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "4",
       "KONU": "5.1.3. Diğer Borçlar\n5.1.4. Alınan Avanslar\n5.1.5. Yıllara Yaygın İnşaat ve Onarım Hakedişleri\n5.1.6. Ödenecek Vergi ve Diğer Yükümlülükler",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak kısa vadeli yabancı kaynaklar hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "4",
       "KONU": "5.1.7. Borç ve Gider Karşılıkları\n5.1.8. Gelecek Aylara Ait Gelirler ve Gider Tahakkukları\n5.1.9. Diğer Kısa Vadeli Yabancı Kaynaklar",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak kısa vadeli yabancı kaynaklar hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "4",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "4",
       "KONU": "5.2. UZUN VADELİ YABANCI KAYNAKLAR VE ENVANTER İŞLEMLERİ\n5.2.1. Mali Borçlar\n5.2.2. Ticari Borçlar\n5.2.3. Diğer Borçlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak uzun vadeli yabancı kaynaklar hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "4",
       "KONU": "5.2.4. Alınan Avanslar\n5.2.5. Borç ve Gider Karşılıkları\n5.2.6. Gelecek Yıllara Ait Gelirler ve Gider Tahakkukları\n5.2.7. Diğer Uzun Vadeli Yabancı Kaynaklar\n\n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak uzun vadeli yabancı kaynaklar hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "4",
       "KONU": "5.3. ÖZ KAYNAKLAR VE ENVANTER İŞLEMLERİ\n5.3.1. Ödenmiş Sermaye\n5.3.2. Sermaye Yedekleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak öz kaynaklar hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "4",
       "KONU": "5.3.3. Kâr Yedekleri\n5.3.4. Geçmiş Yıllar Kârlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak öz kaynaklar hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "4",
       "KONU": "5.3.5. Geçmiş Yıllar Zararları -\n5.3.6. Dönem Net Kârı Zararı",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "MUHASEBE Sistemi Uygulama Genel Tebliğine uygun olarak öz kaynaklar hesap hareketlerini ve envanter işlemlerini yaparak kaydeder."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "4",
       "KONU": "6. GELİR TABLOSU HESAPLARI\n6.1. GELİR HESAPLARININ İŞLEYİŞİ\n6.1.1. Brüt Satışlar\n6.1.2. Diğer Faaliyetlerden Olağan Gelir ve Kârlar\n6.1.3. Olağandışı Gelir ve Kârlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Gelir Hesapları ile ilgili MUHASEBE kayıtlarını yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "4",
       "KONU": "6.2. GİDER HESAPLARININ İŞLEYİŞİ\n6.2.1. Satış İndirimleri -\n6.2.2. Satışların Maliyeti -\n6.2.3. Faaliyet Giderleri -",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Gider Hesapları ile ilgili MUHASEBE kayıtlarını yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "4",
       "KONU": "6.2.4. Diğer Faaliyetlerden Olağan Gider ve Zararlar -\n6.2.5. Finansman Giderleri -\n6.2.6. Olağandışı Gider ve Zararlar -\n6.2.7. Dönem Net Kârı veya Zararı",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Gider Hesapları ile ilgili MUHASEBE kayıtlarını yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "4",
       "KONU": "7. MALİYET HESAPLARI\n7.1. 7A SEÇENEĞİ\n7.1.1. 7A Seçeneği Maliyet Hesaplar\n7.2. 7B SEÇENEĞİ\n7.2.1. 7B Seçeneği Maliyet Hesaplar",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "7A Seçeneğindeki maliyet hesapları ile ilgili kayıtları yapar.\n7B Seçeneğindeki maliyet hesapları ile ilgili kayıtları yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "4",
       "KONU": "7.3. GELİR VE GİDER HESAPLARININ MALİYET HESAPLARI İLE İLİŞKİSİ\n7.3.1. 7A Maliyet Hesaplarının Gelir Tablosu Hesaplarına Devri\n7.3.2. 7B Maliyet Hesaplarının Gelir Tablosu Hesaplarına Devri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Gelir ve gider hesaplarının maliyet hesapları ile ilişkisiyle ilgili kayıtları yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "4",
       "KONU": "8. NAZIM HESAPLAR\n8.1. NAZIM HESAPLARLA İLGİLİ GENEL BİLGİLER\n8.2. NAZIM HESAPLARIN İŞLEYİŞİ",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Nazım Hesaplar ile ilgili genel bilgileri açıklar.\nNazım Hesapların işleyişiyle ilgili kayıtları yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "4",
       "KONU": "9. MUHASEBE UYGULAMALARI\n9.1. BİLANÇONUN DÜZENLENMESİ\n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Bilançonun düzenlenmesini yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "4",
       "KONU": "9.2. MİZAN DÜZENLENMESİ",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Mizan düzenlenmesini yapar.\nGelir tablosu düzenlenmesini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "4",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

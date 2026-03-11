@@ -2,9 +2,9 @@
   "toplam": 709,
   "dosyalar": [
     {
-      "dosya": "grade_10_10_snf_uygulamayen_970.json",
+      "dosya": "grade_10_snf_uygulamayen_970.json",
       "sinif": "10",
-      "ders": "10. SNF UYGULAMA(YEN*)",
+      "ders": "SNF UYGULAMA(YEN*)",
       "kayit_sayisi": 42
     },
     {
@@ -239,7 +239,7 @@
       "dosya": "grade_10_dn_kultur_ve_ahlak_bilgisi_meb_1760.json",
       "sinif": "10",
       "ders": "DN KÜLTÜR VE AHLAK BİLGİSİ (MEB)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_10_dosyalama_ve_arsvlemeyen_839.json",
@@ -248,9 +248,9 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_e_564.json",
+      "dosya": "grade_10_grade_10_e_564_564.json",
       "sinif": "10",
-      "ders": "E",
+      "ders": "grade_10_e_564",
       "kayit_sayisi": 42
     },
     {
@@ -557,7 +557,7 @@
       "dosya": "grade_10_matematk_al_1625.json",
       "sinif": "10",
       "ders": "MATEMATK (AL",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_10_meden_hukuk_ve_meden_usl_hukuku_uygulamalari_648.json",
@@ -686,9 +686,9 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_perakendeclkyen_862.json",
+      "dosya": "grade_10_uygulama_atolyesidonanim_etkilesimli_tahtaprojeksi_862.json",
       "sinif": "10",
-      "ders": "PERAKENDEĊL̇K(YEN*)",
+      "ders": "UYGULAMA ATÖLYESIDONANIM ETKILEŞIMLI TAHTAPROJEKSIYON BILGISAYAR YAZICITARAYICI GÖRSEL MATERYALLER",
       "kayit_sayisi": 42
     },
     {
@@ -707,7 +707,7 @@
       "dosya": "grade_10_programlama_temeller_268.json",
       "sinif": "10",
       "ders": "PROGRAMLAMA TEMELLER",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_10_proseste_temel_islemler_732.json",
@@ -773,7 +773,7 @@
       "dosya": "grade_10_tarih_al_1650.json",
       "sinif": "10",
       "ders": "TARİH (AL",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 45
     },
     {
       "dosya": "grade_10_tek_dzen_muhasebe_sistem_568.json",
@@ -875,19 +875,19 @@
       "dosya": "grade_10_tketc_davranslaryen_840.json",
       "sinif": "10",
       "ders": "TKEṪĊ DAVRANŞLAR(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 46
     },
     {
       "dosya": "grade_10_trk_dl_edebyati_al_1662.json",
       "sinif": "10",
       "ders": "TRK DL EDEBYATI (AL",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 45
     },
     {
-      "dosya": "grade_10_trk_dl_ve_edebyati_mesem_350.json",
+      "dosya": "grade_10_turk_dili_ve_edebiyati_350.json",
       "sinif": "10",
-      "ders": "TRK ḊL VE EDEBYATI (MESEM)",
-      "kayit_sayisi": 42
+      "ders": "TÜRK DILI VE EDEBIYATI",
+      "kayit_sayisi": 45
     },
     {
       "dosya": "grade_10_ucak_elektrk_sstemler_atolyesiyen_937.json",
@@ -926,7 +926,7 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_zararl_alskanlklardan_korunma_sosyal_destek_hizmetleryen_843.json",
+      "dosya": "grade_10_zararl_alskanlklardan_korunma_sosyal_destek_hizmet_843.json",
       "sinif": "10",
       "ders": "ZARARL ALŞKANLKLARDAN KORUNMA (SOSYAL DESTEK HİZMETLER)(YEN*)",
       "kayit_sayisi": 42
@@ -938,9 +938,9 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_11_snf_uygulamayen_971.json",
+      "dosya": "grade_11_snf_uygulamayen_971.json",
       "sinif": "11",
-      "ders": "11. SNF UYGULAMA(YEN*)",
+      "ders": "SNF UYGULAMA(YEN*)",
       "kayit_sayisi": 42
     },
     {
@@ -977,7 +977,7 @@
       "dosya": "grade_11_ale_ekonomsyen_844.json",
       "sinif": "11",
       "ders": "ȦLE EKONOṀṠ(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 46
     },
     {
       "dosya": "grade_11_ale_kaynaklaryen_845.json",
@@ -1037,13 +1037,13 @@
       "dosya": "grade_11_atclkyen_900.json",
       "sinif": "11",
       "ders": "ATÇLK(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_atklaryen_846.json",
       "sinif": "11",
       "ders": "ATKLAR(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 46
     },
     {
       "dosya": "grade_11_atolyeeo_501.json",
@@ -1073,7 +1073,7 @@
       "dosya": "grade_11_biyolojifen_lseler_827.json",
       "sinif": "11",
       "ders": "BİYOLOJİ(FEN LSELER)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_bilgisayar_destekli_modelleme_528.json",
@@ -1181,7 +1181,7 @@
       "dosya": "grade_11_cocuk_aktvteler_847.json",
       "sinif": "11",
       "ders": "ÇOCUK AKṪV̇TELEṘ",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_11_cocuk_edebyati_ve_masal_anlatimi_416.json",
@@ -1289,7 +1289,7 @@
       "dosya": "grade_11_fizik_fen_lseler_830.json",
       "sinif": "11",
       "ders": "FİZİK (FEN LSELER)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_gaz_korumali_kaynak_atolyesi_665.json",
@@ -1307,7 +1307,7 @@
       "dosya": "grade_11_gaz_trbnl_motor_sstemler_atolyesi_yen_934.json",
       "sinif": "11",
       "ders": "GAZ TRḂNL̇ MOTOR ṠSTEMLEṘ ATÖLYESİ̇ (*)(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_gaz_yakici_chazlar_atolyesi_450.json",
@@ -1481,7 +1481,7 @@
       "dosya": "grade_11_kmya_fen_lseler_833.json",
       "sinif": "11",
       "ders": "KMYA (FEN LSELER)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_kontrol_panolari_290.json",
@@ -1544,10 +1544,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_mesleki_yabanc_dlpvp_869.json",
+      "dosya": "grade_11_uygulama_atolyesidonanim_etkilesimli_tahtaprojeksi_869.json",
       "sinif": "11",
-      "ders": "MESLEKİ̇ YABANC ḊL(PVP)",
-      "kayit_sayisi": 42
+      "ders": "UYGULAMA ATÖLYESIDONANIM ETKILEŞIMLI TAHTAPROJEKSIYON BILGISAYAR YAZICITARAYICI GÖRSEL MATERYALLER",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_mesleki_yabanci_dlby_612.json",
@@ -1835,7 +1835,7 @@
       "dosya": "grade_11_sun_tohumlama_ve_dogumyen_994.json",
       "sinif": "11",
       "ders": "SUṄ TOHUMLAMA VE DOĞUM(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_tanitim_grafg_768.json",
@@ -1910,10 +1910,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_trk_dl_ve_edebyati_mesem_351.json",
+      "dosya": "grade_11_turk_dili_ve_edebiyati_351.json",
       "sinif": "11",
-      "ders": "TRK ḊL VE EDEBYATI (MESEM)",
-      "kayit_sayisi": 42
+      "ders": "TÜRK DILI VE EDEBIYATI",
+      "kayit_sayisi": 45
     },
     {
       "dosya": "grade_11_uc_boyutlu_gorsel_sunum_teknikler_699.json",
@@ -2087,7 +2087,7 @@
       "dosya": "grade_12_biyolojifen_lseler_828.json",
       "sinif": "12",
       "ders": "BİYOLOJİ(FEN LSELER)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_12_bilgisayar_destekli_kalip_hazirlama_748.json",
@@ -2411,7 +2411,7 @@
       "dosya": "grade_12_fizik_fen_lseler_831.json",
       "sinif": "12",
       "ders": "FİZİK (FEN LSELER)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_12_fnansal_okuryazarlik_580.json",
@@ -2453,7 +2453,7 @@
       "dosya": "grade_12_halkla_ilskler_ve_iletsm_581.json",
       "sinif": "12",
       "ders": "HALKLA İLŞKLER VE İLETŞM",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_12_hareket_kontrol_sistemler_366.json",
@@ -2606,7 +2606,7 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_isletmelerde_mesleki_egitim_ag_isletmenlg_ve_sber_guvenlik_478.json",
+      "dosya": "grade_12_isletmelerde_mesleki_egitim_ag_isletmenlg_ve_sber__478.json",
       "sinif": "12",
       "ders": "İŞLETMELERDE MESLEKİ EĞİTİM (AĞ İŞLETMENLĞ VE SBER GÜVENLİK)",
       "kayit_sayisi": 42
@@ -2669,7 +2669,7 @@
       "dosya": "grade_12_kmya_fen_lseler_834.json",
       "sinif": "12",
       "ders": "KMYA (FEN LSELER)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_12_kooperatfclk_584.json",
@@ -2810,10 +2810,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_mobilya_montaj_islemler_711.json",
+      "dosya": "grade_12_arkadaslarina_sunmasina_firsat_verilerek_iletisim__711.json",
       "sinif": "12",
-      "ders": "MOBİLYA MONTAJ İŞLEMLER",
-      "kayit_sayisi": 42
+      "ders": "ARKADAŞLARINA SUNMASINA FIRSAT VERILEREK ILETIŞIM BECERILERININ GELIŞMESI SAĞLANMALIDIR. ANLATIMDAN VE ÖRNEK ÇALIŞMALARDAN SONRA DERSIN ÖĞRENME KAZANIMLARININ ÖĞRENCIDE PEKIŞTIRILMESI AMACIYLA BIRDEN FAZLA UYGULAMA FAALIYETI YAPILMALIDIR. BU DERSIN IŞLENIŞI SIRASINDA ÇALIŞKANLIK IKTISAT KANAAT VE ŞÜKÜR ÖZGÜVEN SAYGI TEMIZLIK YARDIMLAŞMA VE IŞBIRLIĞI DÜRÜSTLÜK VE GÜVENILIR OLMAK VB. DEĞER TUTUM VE DAVRANIŞLARI ÖN PLANA ÇIKARAN ETKINLIKLERE YER VERILMELIDIR. BU ETKINLIKLERDE BEYIN FIRTINASI GRUP TARTIŞMASI DÜZ ANLATIM SORU CEVAP ÖRNEK OLAY INCELEMESI UYGULAMA GIBI YÖNTEM VE TEKNIKLER KULLANILABILIR. BU BECERILERIN KAZANILABILMESI IÇIN BIREYEÖĞRENCIYE TEKNIK RESIM SINIFI BILGISAYAR LABORATUARI BILGISAYAR PROJEKSIYON CIHAZI TEKNIK RESIM ÇIZIM TAKIMLARI VB. GEREKLIDIR. SINIF VE BILGISAYAR LABORATUARI ORTAMINDA UYGULAMA FAALIYETINE AIT BILGILER ÖĞRENCILERE UYGULAMA ÖNCESI ANLATILMALI DERSIN ÖĞRENIM KAZANIMLARININ ÖĞRENCIYE TAM OLARAK KAZANDIRILMASI AMACIYLA IŞ SAĞLIĞI VE GÜVENLIĞI TEDBIRLERINI ALDIRARAK",
+      "kayit_sayisi": 45
     },
     {
       "dosya": "grade_12_mobilya_uygulamalari_712.json",
@@ -2915,7 +2915,7 @@
       "dosya": "grade_12_peygambermzn_hayati_101.json",
       "sinif": "12",
       "ders": "PEYGAMBERMZN HAYATI",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_12_portfolyo_hazirlamagvf_774.json",
@@ -3194,10 +3194,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_trk_dl_ve_edebyati_mesem_352.json",
-      "sinif": "12",
-      "ders": "TRK ḊL VE EDEBYATI (MESEM)",
-      "kayit_sayisi": 42
+      "dosya": "grade_11_turk_dili_ve_edebiyati_352.json",
+      "sinif": "11",
+      "ders": "TÜRK DILI VE EDEBIYATI",
+      "kayit_sayisi": 45
     },
     {
       "dosya": "grade_12_urn_alimi_ve_satisi_558.json",
@@ -3449,7 +3449,7 @@
       "dosya": "grade_5_turkce_meb_1699.json",
       "sinif": "5",
       "ders": "TÜRKÇE (MEB)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_5_yazarlik_ve_yazma_becerler_219.json",
@@ -3491,7 +3491,7 @@
       "dosya": "grade_6_dn_kultur_ve_ahlak_bilgisi_meb_1756.json",
       "sinif": "6",
       "ders": "DN KÜLTÜR VE AHLAK BİLGİSİ (MEB)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_6_gorsel_sanatlar_162.json",
@@ -3506,10 +3506,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_6_muzik_meb_1864.json",
+      "dosya": "grade_6_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1864.json",
       "sinif": "6",
-      "ders": "MÜZİK (MEB)",
-      "kayit_sayisi": 42
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞRENME ETKINLIKLERI",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_6_okuma_becerler_211.json",
@@ -3608,10 +3608,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_7_muzik_meb_1865.json",
+      "dosya": "grade_7_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1865.json",
       "sinif": "7",
-      "ders": "MÜZİK (MEB)",
-      "kayit_sayisi": 42
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞRENME ETKINLIKLERI",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_7_peygambermzn_hayati_178.json",
@@ -3710,10 +3710,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_8_muzik_meb_1866.json",
+      "dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1866.json",
       "sinif": "8",
-      "ders": "MÜZİK (MEB)",
-      "kayit_sayisi": 42
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞRENME ETKINLIKLERI",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_8_peygambermzn_hayati_179.json",
@@ -3737,7 +3737,7 @@
       "dosya": "grade_8_tc_inkilap_tarih_ve_atatrkclk_180.json",
       "sinif": "8",
       "ders": "T.C. İNKILAP TARİH VE ATATRKÇLK",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_8_teknoloj_tasarim_214.json",
@@ -3764,16 +3764,16 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_9_9_snf_uygulamayen_972.json",
+      "dosya": "grade_9_snf_uygulamayen_972.json",
       "sinif": "9",
-      "ders": "9. SNF UYGULAMA(YEN*)",
+      "ders": "SNF UYGULAMA(YEN*)",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_9_adab_102.json",
       "sinif": "9",
       "ders": "ADAB",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_9_ahsap_kagr_atolyesi_714.json",
@@ -3917,7 +3917,7 @@
       "dosya": "grade_9_cografya_sbl_1691.json",
       "sinif": "9",
       "ders": "COĞRAFYA (SBL",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_9_denzclk_orf_ve_detleryen_985.json",
@@ -3929,7 +3929,7 @@
       "dosya": "grade_9_dn_kultur_ve_ahlak_bilgisi_meb_1759.json",
       "sinif": "9",
       "ders": "DN KÜLTÜR VE AHLAK BİLGİSİ (MEB)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_9_elektrik_326.json",
@@ -3953,7 +3953,7 @@
       "dosya": "grade_9_etkl_iletsmyen_836.json",
       "sinif": "9",
       "ders": "ETK̇L̇ İLEṪŞ̇M(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_9_genel_turzm_681.json",
@@ -4043,7 +4043,7 @@
       "dosya": "grade_9_mesleki_matematk_560.json",
       "sinif": "9",
       "ders": "MESLEKİ MATEMATK",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 45
     },
     {
       "dosya": "grade_9_mesleki_teknolojisi_656.json",
@@ -4052,10 +4052,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_9_mobilya_teknik_resmi_686.json",
+      "dosya": "grade_9_arkadaslarina_sunmasina_firsat_verilerek_iletisim__686.json",
       "sinif": "9",
-      "ders": "MOBİLYA TEKNİK RESMİ",
-      "kayit_sayisi": 42
+      "ders": "ARKADAŞLARINA SUNMASINA FIRSAT VERILEREK ILETIŞIM BECERILERININ GELIŞMESI SAĞLANMALIDIR. ANLATIMDAN VE ÖRNEK ÇALIŞMALARDAN SONRA DERSIN ÖĞRENME KAZANIMLARININ ÖĞRENCIDE PEKIŞTIRILMESI AMACIYLA BIRDEN FAZLA UYGULAMA FAALIYETI YAPILMALIDIR. BU DERSIN IŞLENIŞI SIRASINDA ÇALIŞKANLIK IKTISAT KANAAT VE ŞÜKÜR ÖZGÜVEN SAYGI TEMIZLIK YARDIMLAŞMA VE IŞBIRLIĞI DÜRÜSTLÜK VE GÜVENILIR OLMAK VB. DEĞER TUTUM VE DAVRANIŞLARI ÖN PLANA ÇIKARAN ETKINLIKLERE YER VERILMELIDIR. BU ETKINLIKLERDE BEYIN FIRTINASI GRUP TARTIŞMASI DÜZ ANLATIM SORU CEVAP ÖRNEK OLAY INCELEMESI UYGULAMA GIBI YÖNTEM VE TEKNIKLER KULLANILABILIR. BU BECERILERIN KAZANILABILMESI IÇIN TEKNIK RESIM SINIFI BILGISAYAR PROJEKSIYON CIHAZI GEREKLIDIR. SINIF ORTAMINDA UYGULAMA FAALIYETINE AIT BILGILER ÖĞRENCILERE UYGULAMA ÖNCESI ANLATILMALI DERSIN ÖĞRENIM KAZANIMLARININ ÖĞRENCIYE TAM OLARAK KAZANDIRILMASI AMACIYLA IŞ SAĞLIĞI VE GÜVENLIĞI TEDBIRLERINI ALDIRARAK",
+      "kayit_sayisi": 45
     },
     {
       "dosya": "grade_9_model_analz_ve_model_gelstrme_736.json",
@@ -4091,7 +4091,7 @@
       "dosya": "grade_9_sosyal_destek_alanlaryen_835.json",
       "sinif": "9",
       "ders": "SOSYAL DESTEK ALANLAR(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 46
     },
     {
       "dosya": "grade_9_sstem_ve_ag_temelleryen_983.json",
@@ -4223,19 +4223,19 @@
       "dosya": "grade_9_trk_dl_ve_edebyati_hazirlik_811.json",
       "sinif": "9",
       "ders": "TRK DL VE EDEBYATI (HAZIRLIK)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 45
     },
     {
-      "dosya": "grade_9_trk_dl_ve_edebyati_mesem_349.json",
+      "dosya": "grade_9_turk_dili_ve_edebiyati_349.json",
       "sinif": "9",
-      "ders": "TRK ḊL VE EDEBYATI (MESEM)",
-      "kayit_sayisi": 42
+      "ders": "TÜRK DILI VE EDEBIYATI",
+      "kayit_sayisi": 45
     },
     {
       "dosya": "grade_9_ucak_malzeme_ve_donanm_atolyesiyen_965.json",
       "sinif": "9",
       "ders": "UÇAK MALZEME VE DONANM ATÖLYESİ̇(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_9_yapi_teknik_ve_temel_mesleki_resmi_715.json",
@@ -4253,7 +4253,7 @@
       "dosya": "grade_9_yzmeyen_987.json",
       "sinif": "9",
       "ders": "YZME(YEN*)",
-      "kayit_sayisi": 42
+      "kayit_sayisi": 44
     }
   ]
 }

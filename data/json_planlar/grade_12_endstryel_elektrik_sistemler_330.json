@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
       "KONU": "Modül FABRİKA TRAFO ÜNİTESİ\n1. KESİCİLERİN BAKIM ONARIMI\n1.1. Kesici görevleri\n1.2. Kesici çeşitleri\n1.3. Kesici yapı ve bölümleri\n1.4. Kesicilerde aranan özellikler \nDemokrasinin önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "A. İş sağlığı ve güvenliği önlemlerini alarak elektrik kuvvetli akım tesisleri Yönetmeliğine göre kesicilerin bakım ve onarımını yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
       "KONU": "1.5. Kesici etiket bilgileri\n1.6. Kesici kullanım yerleri\n1.7. Kesici montaj aşamaları\n1.8. Kesiciyi devreye alma ve çıkarma işlem sırası\n1.9. Kesici bakım onarım işlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "A. İş sağlığı ve güvenliği önlemlerini alarak elektrik kuvvetli akım tesisleri Yönetmeliğine göre kesicilerin bakım ve onarımını yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
-      "KONU": "2. AYIRICILARIN BAKIM ONARIMI\n2.1. Ayırıcı görevleri\n2.2. Ayırıcı yapı ve bölümleri\n2.3. Ayırıcı çeşitleri\n2.4. Ayırıcı etiket değerleri\n2.5. Ayırıcı montaj aşamaları\n2.6. Ayırıcı açma kapama işlem sırası\n2.7. Ayırıcı bakım onarım işlemleri"
+      "KONU": "2. AYIRICILARIN BAKIM ONARIMI\n2.1. Ayırıcı görevleri\n2.2. Ayırıcı yapı ve bölümleri\n2.3. Ayırıcı çeşitleri\n2.4. Ayırıcı etiket değerleri\n2.5. Ayırıcı montaj aşamaları\n2.6. Ayırıcı açma kapama işlem sırası\n2.7. Ayırıcı bakım onarım işlemleri",
+      "KAZANIM": "B. İş sağlığı ve güvenliği önlemlerini alarak elektrik kuvvetli akım tesisleri Yönetmeliğine göre ayırıcıların bakım ve onarımını yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "3. PARAFUDURLARIN MONTAJI\n3.1. İletim hatlarındaki gerilimin yükselme nedenleri\n3.2. Parafudurun görev ve yapısı\n3.3. Parafudurun çeşitleri\n3.4. Parafudurun kullanım yerleri\n3.5. Parafudur montaj işlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "C. İş sağlığı ve güvenliği önlemlerini alarak elektrik kuvvetli akım tesisleri Yönetmeliğine göre parafudurların montajını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "4. SİGORTALARIN MONTAJI\n4.1. Yüksek gerilimde aşırı akımın oluşma nedenleri\n4.2. Yüksek gerilim sigortalarının yapısı ve görevleri\n4.3. Yüksek gerilim sigortalarının çeşitleri ve özellikleri\n4.4. Yüksek gerilim sigortalarının kullanım yerleri\n4.5. Yüksek gerilim sigorta standartları\n4.6. Yüksek gerilim sigortasının takılması sırasında dikkat edilmesi gereken hususlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "D. İş sağlığı ve güvenliği önlemlerini alarak elektrik kuvvetli akım tesisleri Yönetmeliğine göre sigortaların montajını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
-      "KONU": "5. GÜÇ TRAFOSU BAKIM ONARIMI\n5.1. Güç transformatörlerinin yapısı\n5.2. Güç transformatörlerinin çalışma prensibi\n5.3. Güç transformatörlerinin çeşitleri\n5.4. Güç transformatörlerinin etiket değerleri"
+      "KONU": "5. GÜÇ TRAFOSU BAKIM ONARIMI\n5.1. Güç transformatörlerinin yapısı\n5.2. Güç transformatörlerinin çalışma prensibi\n5.3. Güç transformatörlerinin çeşitleri\n5.4. Güç transformatörlerinin etiket değerleri",
+      "KAZANIM": "E. İş sağlığı ve güvenliği önlemlerini alarak elektrik kuvvetli akım tesisleri Yönetmeliğine göre güç trafosu bakım ve onarımını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
-      "KONU": "5.5. Güç transformatörlerinin sargı dirençlerinin ölçümü\n5.6. Güç transformatörlerinde regülasyon ve verimi\n5.7. Güç transformatörleri ve donanımlarının bağlantıları\n5.8. Güç transformatörlerinin bakım işlemleri \nAtatürkün Cumhuriyetçilik İlkesi"
+      "KONU": "5.5. Güç transformatörlerinin sargı dirençlerinin ölçümü\n5.6. Güç transformatörlerinde regülasyon ve verimi\n5.7. Güç transformatörleri ve donanımlarının bağlantıları\n5.8. Güç transformatörlerinin bakım işlemleri \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "E. İş sağlığı ve güvenliği önlemlerini alarak elektrik kuvvetli akım tesisleri Yönetmeliğine göre güç trafosu bakım ve onarımını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "Modül ENDÜSTRİYEL SAYAÇLAR\n1. GÜÇ ÖLÇÜMÜ\n1.1. Üç fazlı sistem bağlantı şekilleri\n1.2. Güç çeşitleri\n1.3. Üç fazlı watmetrenin akım trafolu bağlantısı \n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "A. İş sağlığı ve güvenliği önlemlerine uygun olarak güç ölçümünü hatasız yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "1.4. Üç fazlı varmetrenin akım trafolu bağlantısı\n1.5. Güç birimleri ile ast ve üst kat dönüşümleri\n1.6. Üç fazlı sistemde aktif reaktif görünür güç ölçümleri \nAtatürkün eğitime ve bilime verdiği önem",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav A. İş sağlığı ve güvenliği önlemlerine uygun olarak güç ölçümünü hatasız yapar."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "2. GÜÇ KATSAYISINI ÖLÇÜMÜ\n2.1. Elektrik devrelerinde güç katsayısı\n2.2. CosØ metre bağlantısı\n2.3. Güç katsayısının ölçümü\n2.4. Üç fazlı sistemde akım gerilim ve güç katsayısının ölçümü\n2.5. Üç fazlı sistemde akım gerilim güç katsayısını kullanarak aktif reaktif görünür güç hesapları",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "B. İş sağlığı ve güvenliği önlemlerine uygun olarak güç katsayısının ölçümünü hatasız yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "3. ENDÜSTRİYEL SAYAÇ VE X5 KOMBİ SAYAÇLARIN BAĞLANTILARI\n3.1. Elektrik işi tanımı\n3.2. Elektrik sayaçlarının görevi\n3.3. Elektrik tarife çeşitleri\n3.4. Sayaç çeşitleri\n3.5. Akım gerilim klemenslerinin görevi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "C. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği ve Elektrik Piyasası Tarifeler Yönetmeliğine göre iş sağlığı ve güvenliği önlemlerini alarak kullanım kılavuzu bağlantı şemasına uygun şekilde endüstriyel sayaç ve X5 kombi sayaçlarının bağlantılarını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "3.6. Sayaç bağlantılarında kullanılacak iletken kesit ve renk çeşitleri\n3.7. Akım trafolu indüksiyon sayaçların bağlantı uygulama aşamaları\n3.8. Kombine kombi x5 sayaç özellikleri\n3.9. Kombine kombi x5 sayaç bağlantı şemasının çizimi\n3.10. Kombine kombi x5 sayaç bağlantıları yapımı işlem sırası\n3.11. Kombine kombi x5 sayaç endeks değerlerinin anlamları",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "C. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği ve Elektrik Piyasası Tarifeler Yönetmeliğine göre iş sağlığı ve güvenliği önlemlerini alarak kullanım kılavuzu bağlantı şemasına uygun şekilde endüstriyel sayaç ve X5 kombi sayaçlarının bağlantılarını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "Modül DAĞITIM PANOLARI\n1. ÖLÇÜM PANO MALZEMELERİNİN MONTAJI\n1.1. Ölçüm panosunun görevleri\n1.2. Ölçüm panolarının özellikleri\n1.3. Ölçüm pano malzemelerinin özellikleri\n1.4. Ölçüm pano malzemelerinin montaj şekilleri\n1.5. Ölçüm panolarının yerine montajı yapım aşamaları",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "A. İş sağlığı ve güvenliği önlemlerini doğrultusunda tekniğine uygun olarak ölçüm pano malzemelerinin montajını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "2. ALÇAK GERİLİM DAĞITIM PANO MALZEMELERİNİN MONTAJI\n2.1. Alçak gerilim dağıtım panosu görevleri\n2.2. Alçak gerilim dağıtım panosu boyut ve özellikleri\n2.3. Alçak gerilim dağıtım panosu bağlantı şemaları\n2.4. Alçak gerilim dağıtım panosu malzemelerinin özellik montaj ve bağlantılarının yapım aşamaları",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "B. İş sağlığı ve güvenliği önlemlerini doğrultusunda tekniğine uygun olarak alçak gerilim dağıtım pano malzemelerinin montajını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "3. KOMPANZASYON PANO VE MALZEMELERİNİN MONTAJI\n3.1. Kompanzasyon panosunun görevi\n3.2. Kompanzasyon panosu özellikleri\n3.3. Kompanzasyon panosu bağlantı şeması\n3.4. Kompanzasyon panosu malzemelerini ve özellikleri\n3.5. Kompanzasyon panosu malzemelerinin montaj aşamaları",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "C. İş sağlığı ve güvenliği önlemlerini doğrultusunda tekniğine uygun olarak kompanzasyon pano ve malzemelerinin montajını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
-      "KONU": "4. OG MODÜLER HÜCRE SİSTEMLERİNİN BİNA TİPİ TRAFO MERKEZİNİN BAKIMI\n4.1. OG modüler giriş ve çıkış hücrelerin görev ve işlevleri\n4.2. OG modüler giriş ve çıkış hücre isteminde kullanılan malzemeler ile bunların özellikleri\n4.3. OG modüler ölçüm hücrelerinin görev ve işlevleri\n4.4. OG modüler ölçüm hücrelerinde kullanılan malzemeleri ile bunların özellikleri \n1.Dönem 2.Sınav"
+      "KONU": "4. OG MODÜLER HÜCRE SİSTEMLERİNİN BİNA TİPİ TRAFO MERKEZİNİN BAKIMI\n4.1. OG modüler giriş ve çıkış hücrelerin görev ve işlevleri\n4.2. OG modüler giriş ve çıkış hücre isteminde kullanılan malzemeler ile bunların özellikleri\n4.3. OG modüler ölçüm hücrelerinin görev ve işlevleri\n4.4. OG modüler ölçüm hücrelerinde kullanılan malzemeleri ile bunların özellikleri \n1.Dönem 2.Sınav",
+      "KAZANIM": "D. İş sağlığı ve güvenliği önlemlerini doğrultusunda tekniğine uygun olarak OG modüler hücre sistemlerinin bina tipi trafo merkezinin bakımını yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "Modül KOMPANZASYON SİSTEMİ \n1. KOMPANZASYON SİSTEMİ HESAPLAMALARI\n1.1. Kompanzasyonun önemi\n1.2. Reaktif güç tüketicileri\n1.3. Düşük güç katsayısının sakıncaları\n1.4. Güç katsayısının yükseltilmesinin önemi\n1.5. Kompanzasyonun yararları",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav A. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik Tesislerinde Topraklamalar Yönetmeliği kompanzasyon panosu genel teknik şartnamesine görekompanzasyon sistemi hesaplamalarını yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
-      "KONU": "1.6. Kompanzasyon çeşitleri\n1.7. Kompanzasyon hesabı yapımı aşamaları\n1.8. Tesis için gerekli reaktif güç miktarını ve kondansatör gücünü hesabı\n1.9. Tesis özelliklerini dikkate alarak her kademedeki kondansatör gücü hesabı\n1.10. Kullanılacak akım trafosu TMŞ baralar kademe sigortaları İletken kesitleri ve kontaktörlerin akım değeri hesabı"
+      "KONU": "1.6. Kompanzasyon çeşitleri\n1.7. Kompanzasyon hesabı yapımı aşamaları\n1.8. Tesis için gerekli reaktif güç miktarını ve kondansatör gücünü hesabı\n1.9. Tesis özelliklerini dikkate alarak her kademedeki kondansatör gücü hesabı\n1.10. Kullanılacak akım trafosu TMŞ baralar kademe sigortaları İletken kesitleri ve kontaktörlerin akım değeri hesabı",
+      "KAZANIM": "A. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik Tesislerinde Topraklamalar Yönetmeliği kompanzasyon panosu genel teknik şartnamesine görekompanzasyon sistemi hesaplamalarını yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
-      "KONU": "1.11. Harmonik\n1.12. Harmonik meydana getiren alıcılar\n1.13. Harmoniğin sistemde meydana getirdiği sakıncalar\n1.14. Harmoniğe karşı alınacak önlemler"
+      "KONU": "1.11. Harmonik\n1.12. Harmonik meydana getiren alıcılar\n1.13. Harmoniğin sistemde meydana getirdiği sakıncalar\n1.14. Harmoniğe karşı alınacak önlemler",
+      "KAZANIM": "A. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik Tesislerinde Topraklamalar Yönetmeliği kompanzasyon panosu genel teknik şartnamesine görekompanzasyon sistemi hesaplamalarını yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
-      "KONU": "2. KONDANSATÖR KADEMELERİNİN BAĞLANTISI\n2.1. Kondansatörlerin görevi\n2.2. Kondansatör çeşitleri\n2.3. Güç kondansatörlerinin yapısı\n2.4. Güç kondansatörlerinin özelliği\n2.5. Kondansatör deşarj direncinin görevi"
+      "KONU": "2. KONDANSATÖR KADEMELERİNİN BAĞLANTISI\n2.1. Kondansatörlerin görevi\n2.2. Kondansatör çeşitleri\n2.3. Güç kondansatörlerinin yapısı\n2.4. Güç kondansatörlerinin özelliği\n2.5. Kondansatör deşarj direncinin görevi",
+      "KAZANIM": "B. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik Tesislerinde Topraklamalar Yönetmeliği kompanzasyon panosu genel teknik şartnamesine göre iş sağlığı ve güvenliği önlemlerini alarak kompanzasyon sistemi kondansatör kademelerinin bağlantısını yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "2.6. Kondansatör montaj yerleri\n2.7. Kondansatör bağlantılarında güvenlik önlemleri\n2.8. Kondansatörün trafo sabit kompanzasyonu için montaj işlem sırası\n2.9. Kondansatör koruma yöntemleri\n2.10. Kondansatör çalışma testi işlem basamakları\n2.11. Kondansatörlerin soğutulmasının önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "B. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik Tesislerinde Topraklamalar Yönetmeliği kompanzasyon panosu genel teknik şartnamesine göre iş sağlığı ve güvenliği önlemlerini alarak kompanzasyon sistemi kondansatör kademelerinin bağlantısını yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "3. KOMPANZASYON PANOSU MALZEMELERİ\n3.1. Kompanzasyon panosunun görevi\n3.2. Kompanzasyon panosu malzemelerinin özellikleri\n3.3. Kompanzasyon panosu yerleşim PLANI\n3.4. Kompanzasyon panosu malzemelerinin montajı işlem sırası\n3.5. Kompanzasyon panosu yerine montaj işlem basamakları\n3.6. Kompanzasyon panosu test ve ayarları yapımı işlemi\n3.7. Kompanzasyon pano montaj ve bağlantılarında dikkat edilecekler",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "C. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik Tesislerinde Topraklamalar Yönetmeliği kompanzasyon panosu genel teknik şartnamesine göre iş sağlığı ve güvenliği önlemlerini alarak kompanzasyon panosu malzeme bağlantılarını yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "4. REAKTİF GÜÇ KONTROL RÖLESİ BAĞLANTI VE AYARLARI\n4.1. Kompanzasyonda kademe seçiminin önemi\n4.2. Aşırı ve düşük kompanzasyonun sakıncaları\n4.3. Endüktif ve kapasitif sınır değerleri\n4.4. Reaktif güç kontrol rölesinin görevi\n4.5. Reaktif güç kontrol rölesinin çalışma prensibi",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "D. Elektrik Kuvvetli Akım Tesisleri Elektrik Tesislerinde Topraklamalar Yönetmeliği kompanzasyon panosu genel teknik şartnamesine göre iş sağlığı ve güvenliği önlemlerini alarak reaktif güç kontrol rölesi bağlantı ve ayarlarını yapar."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "4.6. Reaktif güç kontrol rölesi çeşitleri\n4.7. Reaktif güç kontrol rölesi bağlantı şemaları\n4.8. Reaktif güç kontrol rölesinin montajı işlem sırası\n4.9. Reaktif güç kontrol rölesi bağlantıları\n4.10. Reaktif güç kontrol rölesi çalışma test ve ayarları",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "D. Elektrik Kuvvetli Akım Tesisleri Elektrik Tesislerinde Topraklamalar Yönetmeliği kompanzasyon panosu genel teknik şartnamesine göre iş sağlığı ve güvenliği önlemlerini alarak reaktif güç kontrol rölesi bağlantı ve ayarlarını yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "5. KOMBİ SAYAÇ ENDEKSLERİNDEN SİSTEMİN CEZA ORANINI HESAPLAMA.\n5.1. Kurulu güç değerine göre endüktif reaktif ve kapasitif reaktif ceza oranları\n5.2. Kombi sayaç endeksleri\n5.3. Ceza oranlarını hesaplayan formüller\n5.4. Sistemin ceza oranı hesabı \nAtatürkün vatan ve millet sevgisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "E. Kombi sayaç endekslerinden sistemin ceza oranını hesaplar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "Modül TOPRAKLAMA VE PARATONER TESİSİ\n1. BİNA TEMEL TOPRAKLAMASI\n1.1. Topraklama tanımı ve çeşitleri\n1.2. Topraklama elemanları ve özellikleri\n1.3. Topraklama direnç çeşitleri\n1.4. Potansiyel dengelemesi\n1.5. Elektrik sistemleri şebeke tanım ve şekilleri \n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav A. İş sağlığı ve güvenliği önlemlerini alarak Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre bina temel topraklamasını tekniğine uygun yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "1.6. Temel topraklaması tanım ve işlevi\n1.7. Temel topraklamasında kullanılan malzeme ve ekipmanlar ile özellikleri\n1.8. Gem tozu kullanımı ve avantajları\n1.9. Temel topraklaması yapım işlem sırası\n1.10. Temel topraklamasında dikkat edilecek hususlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "A. İş sağlığı ve güvenliği önlemlerini alarak Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre bina temel topraklamasını tekniğine uygun yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "2. BİNA İÇİ TOPRAKLAMA SİSTEMİ\n2.1. Bina içi topraklama iletken özellik ve kesitleri\n2.2. Bina içi topraklama iletkeni çekmede dikkat edilecek hususlar\n2.3. Topraklama iletkeni bağlantılarında dikkat edilecek hususlar\n2.4. Toprak elektrotu işlev ve özellikleri\n2.5. Toprak elektrotu gömmede dikkat edilecek hususlar\n2.6. Bina içi topraklama yapım işlem sırası",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "B. İş sağlığı ve güvenliği önlemlerini alarak Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre bina içi topraklama sistemini tekniğine uygun yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "3. DAĞITIM TABLO VE PANOLARININ TOPRAKLAMASI\n3.1. Tablo ve pano toplam akımına göre kullanılacak topraklama iletkeni kesiti\n3.2. Tablo topraklamasında dikkat edilecek hususlar\n3.3. Tablo ve pano topraklama işlemi\n3.4. Tablo ve pano topraklaması \nÇocuk insan sevgisi ve evrensellik",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "C. İş sağlığı ve güvenliği önlemlerini alarak Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre dağıtım tablo ve panolarının topraklamasını tekniğine uygun yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "4. ELEKTRİK TESİSİNİN TOPRAKLAMA VE YALITKANLIK DİRENCİNİN ÖLÇÜMÜ\n4.1. Meger cihazı görev ve işlevi\n4.2. Meger cihazı bağlantısı\n4.3. Meger ile topraklama ölçümü işlem sırası\n4.4. Meger cihazı ile Topraklama direnci ve yalıtkanlık ölçümünde dikkat edilecek hususlar\n4.5. Topraklama direnci ve yalıtkanlık direnci sınır değerleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "D. İş sağlığı ve güvenliği önlemlerini alarak Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre elektrik tesisinin topraklama ve yalıtkandık direncinimeger kullanım tekniğine uygun hatasız ölçer."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "5. BİNALARIN PARATONER SİSTEMİ\n5.1. Paratoner tesisi işlevi ve görevleri\n5.2. Paratoner tesisatının yapıldığı yerler\n5.3. Paratoner tesisatı çeşitleri\n5.4. Paratoner sistemi montaj ve bağlantıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "E. İş sağlığı ve güvenliği önlemlerini alarak aktif paratoner tesisatı teknik şartnamesine göre binaların paratoner sistemi montaj ve bağlantılarını tekniğine uygun yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "Modül KUVVET TESİSATI ARIZA TESPİTİ VE ONARIMI\n1. KUVVET TESİSATI DÖŞEME YÖNTEMLERİ\n1.1. Kuvvet tesisatı tanımı ve yapım yerleri\n1.2. Kuvvet tesisatlarında kullanılan kablo özelikleri\n1.3. Kuvvet tesisatı döşeme yöntemleri\n1.4. Kuvvet tesisatlarında kullanılan araç ve gereçlerin özellikleri \nAtatürkçü düşüncede yer alan temel fikirler",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "A. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği ve Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre iş sağlığı ve güvenliği önlemlerini alarak tekniğine ve işletme şartlarına uygun şekilde kuvvet tesisatı döşeme yöntemlerini tespit eder."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "2. KUVVET TESİSATI BAĞLANTILARI\n2.1. Kuvvet tesisatı pano bağlantı şemaları\n2.2. Kuvvet tesisatı panolarına tesisat kablolarının bağlantısı\n2.3. Kuvvet tesisatı kablo bağlantılarında dikkat edilecek hususlar\n2.4. Kuvvet tesisatlarında kullanılan fişlerin işlev ve görevleri\n2.5. Kuvvet tesisatı fişlerinin yapısı ve özellikleri\n2.6. Fişlerin kabloya bağlantısı\n2.7. Kuvvet tesisatlarında kullanılan prizlerin işlev ve görevleri\n2.8. Kuvvet tesisatı prizlerin yapısı ve özellikleri\n2.9. Prizlerin yerlerine montaj ve bağlantıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "B. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre iş sağlığı ve güvenliği önlemlerini alarak tekniğine uygun şekilde kuvvet tesisatı bağlantılarını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "3. MOTOR VE ŞALTER BAĞLANTILARI\n3.1. Alternatif akım motorlarının tanımı ve işlevleri\n3.2. Alternatif akım motorlarının kullanım yerleri\n3.3. Alternatif akım motorlarının yapısı ve çeşitleri\n3.4. Alternatif akım motorlarının etiket değerleri\n3.5. Alternatif akım motorlarının klemens bağlantıları\n3.6. Alternatif akım motorlarının kumandasında kullanılan şalter çeşitleri\n3.7. Alternatif akım motorlarının şalter bağlantıları\n3.8. Alternatif akım motorlarının şalter bağlantılarında dikkat edilecek hususlar\n3.9. Motor tezgâhlarının topraklama bağlantıları \n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav C. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği ve Elektrik İç Tesisleri Yönetmeliği Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre iş sağlığı ve güvenliği önlemlerini alarak tekniğine uygun şekilde motor ve şalter bağlantılarını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
       "KONU": "4. KUVVET TESİSİ AYDINLATMASI\n4.1. Stroboskobik göz yanılması olayının tanımı oluş nedenleri ve önlenme yöntemleri\n4.2. Atölye iç aydınlatma armatürleri tanımı ve görevleri\n4.3. Atölye iç aydınlatma armatürleri yapısı çeşitleri ve bağlantı şekilleri\n4.4. Atölye iç aydınlatma armatür kontrol elemanları anahtar sigorta bus-bar sistemlerine ait anahtarlar kullanımı\n4.5. Atölye aydınlatması yapımında işlem sırası ve dikkat edilecek hususlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "D. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik İç Tesisleri Yönetmeliği ve Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre iş sağlığı ve güvenliği önlemlerini alarak tekniğine uygun şekilde kuvvet tesisi aydınlatmasını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
       "KONU": "5. KUVVET TESİSİ BAKIM VE ONARIMI\n5.1. Makine ve cihazların özellikleri\n5.2. Makine ve cihazların çalışma sistemleri\n5.3. İşletme iş sağlığı ve güvenliği önlemleri\n5.4. Kuvvet tesisatları arıza tespiti yöntemleri\n5.5. Kuvvet tesis kablo ve kanallarının onarımı\n5.6. Kuvvet tesis panolarının onarımı\n5.7. Motor şalterlerinin onarımı\n5.8. Kuvvet tesisleri aydınlatmasının onarımı\n5.9. Topraklama sisteminin onarımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "E. Elektrik Kuvvetli Akım Tesisleri Yönetmeliği Elektrik İç Tesisleri Yönetmeliği ve Elektrik Tesislerinde Topraklamalar Yönetmeliğine göre iş sağlığı ve güvenliği önlemlerini alarak kuvvet tesisi bakım ve onarımını yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

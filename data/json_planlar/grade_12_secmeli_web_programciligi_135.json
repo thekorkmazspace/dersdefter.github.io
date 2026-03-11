@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "3",
       "KONU": "1. ÖĞRENME BİRİMİ WEB PROGRAMLAMAYA GİRİŞ\n1.1. PHP DİLİ VE ÖZELLİKLER\nDemokrasinin önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "PHP nin özelliklerini ve diğer programlama dillerinden farklarını açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "3",
       "KONU": "1.2. PHP KURULUMU",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "PHP ve gerekli bileşenleri bilgisayarına\nkurar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "3",
-      "KONU": "1.3. DEĞİŞKEN VE SABİTLER"
+      "KONU": "1.3. DEĞİŞKEN VE SABİTLER",
+      "KAZANIM": "PHP ile farklı türde değişken tanımlar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "3",
       "KONU": "2. ÖĞRENME BİRİMİ KARAR VE DÖNGÜ\nYAPILARI\n2.1. MANTIKSAL OPERATÖRLER\n2.1.1. Ve AND- Operatörü\n2.1.2. Veya OR -  Operatörü\n2.1.3. XOR Operatörü\n2.1.4. Değil  Operatörü\n2.1.5. Mantıksal Operatörlerin Doğruluk Tablosu",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Mantıksal operatörleri kullanır."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "3",
       "KONU": "2.2. KARAR KONTROL DEYİMLERİ\n2.2.1. if-else Kontrol Deyimi\n2.2.2. Switch-Case Kontrol Deyimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Karar kontrol deyimlerini kullanır."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "3",
-      "KONU": "2.3. DÖNGÜ DEYİMLERİ2.3.1. While Döngüsü2.3.2. Do-While Döngüsü"
+      "KONU": "2.3. DÖNGÜ DEYİMLERİ2.3.1. While Döngüsü2.3.2. Do-While Döngüsü",
+      "KAZANIM": "Döngü deyimlerini kullanır."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "3",
-      "KONU": "2.3.3. For Döngüsü\n2.3.4. For-Each Döngüsü\n2.3.5. Break ve Continue DEYİMLERİ\nAtatürkün Cumhuriyetçilik İlkesi"
+      "KONU": "2.3.3. For Döngüsü\n2.3.4. For-Each Döngüsü\n2.3.5. Break ve Continue DEYİMLERİ\nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Döngü deyimlerini kullanır."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "3",
       "KONU": "2.4. VERİLER ÜZERİNDE DÖNGÜ KONTROLLERİ\n2.5. DÜZENLİ İFADELER\n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Veriler üzerinde döngü kontrollerini\nkullanır.\nDüzenli ifadeleri kullanır."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "3",
       "KONU": "3. ÖĞRENME BİRİMİ DİZİ YAPILARI\n3.1. DİZİ YAPILARI\nAtatürkün eğitime ve bilime verdiği önem",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Dizi yapılarını kullanır."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "3",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "3",
       "KONU": "3.2. DİZİLERLE İŞLEMLER",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Dizi elemanları üzerinde işlemler yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "3",
       "KONU": "4. ÖĞRENME BİRİMİ FONKSİYONLAR\n4.1. PHPDE FONKSİYONLAR\n4.1.1. Programcı Kullanıcı Tanımlı FONKSİYONLAR\n4.1.2. Hazır Yerleşik FONKSİYONLAR",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "PHP programlama dilinde fonksiyon\ntanımlar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "3",
       "KONU": "4.2. FONKSİYON PARAMETRELERİ\n4.2.1. Parametresiz FONKSİYONLAR\n4.2.2. Parametreli FONKSİYONLAR",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Fonksiyon parametrelerini kullanır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "3",
       "KONU": "4.3. DEĞER DÖNDÜREN FONKSİYONLAR\n4.4. TARİH  SAAT FONKSİYONLARI",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Değer döndüren fonksiyonları kullanır. Tarihsaat fonksiyonlarını kullanır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "3",
       "KONU": "4.5. METİN FONKSİYONLARI",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Metin fonksiyonlarını kullanır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "3",
       "KONU": "4.6. MATEMATİK FONKSİYONLARI",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Matematik fonksiyonlarını kullanır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "3",
-      "KONU": "5. ÖĞRENME BİRİMİ FORM İŞLEMLERİ\n5.1. HTML FORM ELEMANLARI\n5.1.1. Form Etiketi\n5.1.2. İnput Etiketi\n1.Dönem 2.Sınav"
+      "KONU": "5. ÖĞRENME BİRİMİ FORM İŞLEMLERİ\n5.1. HTML FORM ELEMANLARI\n5.1.1. Form Etiketi\n5.1.2. İnput Etiketi\n1.Dönem 2.Sınav",
+      "KAZANIM": "HTML Form elemanlarını tanımlar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "3",
       "KONU": "5.1.3. Textarea Etiketi\n5.1.4. Select Etiketi",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav HTML Form elemanlarını tanımlar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "3",
-      "KONU": "5.2. GET VE POST METOTLARI"
+      "KONU": "5.2. GET VE POST METOTLARI",
+      "KAZANIM": "Get ile Post arasındaki farkı açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "3",
-      "KONU": "5.3. GÜVENLİ FORM OLUŞTURMA\n5.4. FORMDA DOSYA BİLEŞENLERİ\nKULLANMA"
+      "KONU": "5.3. GÜVENLİ FORM OLUŞTURMA\n5.4. FORMDA DOSYA BİLEŞENLERİ\nKULLANMA",
+      "KAZANIM": "Güvenli form tanımlanır.\nFormlarda dosya bileşenini kullanır."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "3",
-      "KONU": "6. ÖĞRENME BİRİMİ HATA YAKALAMA İŞLEMLERİ\n6.1. PHP İSTİSNA İŞLEMLERİ"
+      "KONU": "6. ÖĞRENME BİRİMİ HATA YAKALAMA İŞLEMLERİ\n6.1. PHP İSTİSNA İŞLEMLERİ",
+      "KAZANIM": "İstisna Exception işlemlerini açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "3",
       "KONU": "6.2. Try-Catch BLOKU",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Try-except bloklarını kullanır."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "3",
       "KONU": "6.3. Finally BLOKU",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Finally bloğunu kullanır."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "3",
       "KONU": "7. ÖĞRENME BİRİMİ DOSYA İŞLEMLERİ\n7.1. PHPDE KLASÖR VE DOSYA İŞLEMLERİ",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Yeni dosya oluşturur."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "3",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "3",
       "KONU": "7.1.1. Dosya İçe Aktarma FONKSİYONLARI\n7.2. PHPDE DOSYA OLUŞTURMA\nAtatürkün vatan ve millet sevgisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Yeni dosya oluşturur."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "3",
       "KONU": "7.3. PHPDE DOSYA AÇMA\n7.4. PHPDE DOSYA İÇİNE BİLGİ EKLEME",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Var olan bir dosyayı açar. Dosyanın içine bilgi ekler."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "3",
       "KONU": "7.5. PHPDE DOSYAYI SİLME\n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Dosyayı silmeyi bilir."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "3",
       "KONU": "8. ÖĞRENME BİRİMİ OTURUM YÖNETİMİ\n8.1. ÇEREZ YÖNETİMİ",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Oturum mimarisini açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "3",
       "KONU": "8.1. ÇEREZ YÖNETİMİ",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Kullanıcı bilgilerinin hatırlanmasında çerezleri kullanır."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "3",
       "KONU": "8.2. OTURUM MİMARİSİ VE SESSİON GENEL DEĞİŞKENİ\nÇocuk insan sevgisi ve evrensellik",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "SESSION genel değişkenini kullanır."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "3",
       "KONU": "9. ÖĞRENME BİRİMİ MYSQL VERİ TABANI\nKULLANIMI\n9.1. MySQL TEMEL KAVRAMLARI\n9.1.1. Sayı Veri Türleri\n9.1.2. Metin Veri Türleri\n9.1.3. Tarih ve Saat Veri Türleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Veri tabanı temel kavramlarını açıklar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "3",
       "KONU": "9.2. UYGULAMA SUNUCUSUNUN\nKURULMASI VE YÖNETİLMESİ\n9.2.1. MySQL Komut Satırı Kullanımı\n9.2.2. phpMyAdmin Kullanımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Uygulama sunucusunu kurar ve yönetir."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "3",
       "KONU": "9.2.3. Tablo İlişkileri\nAtatürkçü düşüncede yer alan temel fikirler",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Veri tabanı tablo ilişkilerini yönetir."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "3",
       "KONU": "9.3. PHP İLE VERİ TABANI BAĞLANTISI\nYAPMA\n9.4. PHP İLE VERİ TABANI OLUŞTURMA\n9.5. PHP İLE TABLO OLUŞTURMA İŞLEMLERİ",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "PHP ile veri tabanı bağlantısı yapar. Veri tabanı oluşturur.\nVeri tabanı içine tablo oluşturur"
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "3",
       "KONU": "9.6. PHP İLE MySQL VERİ TABANINDA VERİ EKLEME SİLME GÜNCELLEME İŞLEMLERİ\n9.6.1. Veri Ekleme\n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav PHP ile MySQL ile veri ekleme silme\ngüncelleme işlemlerini yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "3",
       "KONU": "9.6.2. Veri SİLME\n9.6.3. Veri Güncelleme",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "PHP ile MySQL ile veri ekleme silme\ngüncelleme işlemlerini yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "3",
       "KONU": "9.7. PHP İLE MySQL VERİ TABANINDA VERİ LİSTELEME İŞLEMLERİ",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "PHP ile MySQL veri tabanında veri listeleme\nişlemlerini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

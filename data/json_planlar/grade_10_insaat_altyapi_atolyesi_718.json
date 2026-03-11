@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "9",
       "KONU": "1. ŞANTİYEDE AGREGA DENEYLERİ \n1.1. Atölyede İş Sağlığı ve Güvenliği\n1.2. Agrega Deneyleri İçin Araç Gereç Hazırlığı\n1.3. Şantiyede Agregayı Gözle Muayene \n1.3.1. Agrega Çeşitleri ve Özellikleri\n1.4. Şantiyede Agrega Organik Madde Nem ve Kil Miktarı Tayini",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Atölyede iş sağlığı ve güvenliği tedbirlerini alır.\nAgrega deneyleri için araç gereç hazırlığı yapar.\nŞantiyede agreganın gözle muayenesini yapar.\nŞantiyede agregada organik madde nem ve kil miktarı deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "9",
       "KONU": "2. AGREGADA DANE BÜYÜKLÜĞÜ VE BİRİM AĞIRLIK DENEYLERİ \n2.1. Agrega Deney Numuneleri \n2.1.1. Araç Gereçler ve Ekipmanlar\n2.1.2. Numune Alma\n2.1.3. Deneylerde Kullanılacak Numune Miktarları\n2.1.4. Numunenin Hazırlanması\n2.1.5. Deney Numunesi Azaltma Yöntemleri\n2.1.6. Deney Numunesini Koruyucu Önlem Alarak Koruma \n2.1.7. Numune Tutanağının ve Deney Raporunun Hazırlanması",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Agrega deney numunelerini standartlara uygun olarak alır."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "9",
-      "KONU": "2.2. Agrega Dane Büyüklüğü Deneyi \n2.2.1. Deney Araç Gereç ve Ekipmanları\n2.2.2. Deney İçin Gerekli Numune Miktarları \n2.2.3. Deney Numunesinin Hazırlanması\n2.2.4. Deneyin Yapılışı\n2.2.5. Deney Raporu Hazırlama"
+      "KONU": "2.2. Agrega Dane Büyüklüğü Deneyi \n2.2.1. Deney Araç Gereç ve Ekipmanları\n2.2.2. Deney İçin Gerekli Numune Miktarları \n2.2.3. Deney Numunesinin Hazırlanması\n2.2.4. Deneyin Yapılışı\n2.2.5. Deney Raporu Hazırlama",
+      "KAZANIM": "Agregada dane büyüklüğü deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "9",
       "KONU": "2.3. Agregada Birim Ağırlık Deneyi \n2.3.1. Deney Araç Gereç ve Ekipmanları\n2.3.2. Deney için Gerekli Numune Miktarları\n2.3.3. Deney Numunesinin Hazırlanması\n2.3.4. Deneyin Yapılışı\n2.3.5. Deney Sonuçlarının Hesaplanması\n2.3.6. Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Agregada birim ağırlık deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "9",
       "KONU": "3. AGREGADA ÖZGÜL AĞIRLIK VE İNCE MADDE MİKTARI TAYİNİ\n3.1. Agregalarda Özgül Ağırlık ve Su Emme Tayini Deneyi\n3.1.1. İnce Agregada Özgül Ağırlık ve Su Emme Tayini Deneyi\n3.1.2. İri Agregada Özgül Ağırlık ve Su Emme Tayini Deneyi Tel Sepet Metodu",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Agregalarda özgül ağırlık ve su emme tayini deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "9",
-      "KONU": "3.2. Agregada İnce Madde Miktarı Deneyi \n3.2.1. Çökeltme Yöntemi ile İnce Madde Miktarı Deneyi\n3.2.2. Yıkama Yöntemi ile İnce Madde Miktarı Deneyi\n3.2.3. Deney Raporu Hazırlama\n3.2.4. Agregada İnce Tanelerin Tayini-Metilen Mavisi Deneyi TS EN 933-9A1 \n3.2.5. Deney Raporu Hazırlama"
+      "KONU": "3.2. Agregada İnce Madde Miktarı Deneyi \n3.2.1. Çökeltme Yöntemi ile İnce Madde Miktarı Deneyi\n3.2.2. Yıkama Yöntemi ile İnce Madde Miktarı Deneyi\n3.2.3. Deney Raporu Hazırlama\n3.2.4. Agregada İnce Tanelerin Tayini-Metilen Mavisi Deneyi TS EN 933-9A1 \n3.2.5. Deney Raporu Hazırlama",
+      "KAZANIM": "Agregada ince madde miktarı deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "9",
-      "KONU": "4. AGREGADA DONA DAYANIKLILIK DENEYLERİ \n4.1. Agreganın Donma Çözülmeye Karşı Direncin Tayini Deneyi\n4.1.1. Deney Araç Gereç ve Ekipmanları \n4.1.2. Deney Numunesi Hazırlama ve Miktarı\n4.1.3. Deneyin Yapılışı\n4.1.4. Deney Sonuçlarının Hesaplanması ve Değerlendirilmesi\n4.1.5. Deney Raporu Hazırlama\n4.2. Kimyasal Yöntemle Dona Dayanıklılık Deneyi\n4.2.1. Sodyum Sülfat ile Dona Dayanıklılık Deneyi \n4.2.2. Magnezyum Sülfat Epsom Tuzu ile Dona Dayanıklılık Deneyi\n4.2.3. Deney Raporu Hazırlama"
+      "KONU": "4. AGREGADA DONA DAYANIKLILIK DENEYLERİ \n4.1. Agreganın Donma Çözülmeye Karşı Direncin Tayini Deneyi\n4.1.1. Deney Araç Gereç ve Ekipmanları \n4.1.2. Deney Numunesi Hazırlama ve Miktarı\n4.1.3. Deneyin Yapılışı\n4.1.4. Deney Sonuçlarının Hesaplanması ve Değerlendirilmesi\n4.1.5. Deney Raporu Hazırlama\n4.2. Kimyasal Yöntemle Dona Dayanıklılık Deneyi\n4.2.1. Sodyum Sülfat ile Dona Dayanıklılık Deneyi \n4.2.2. Magnezyum Sülfat Epsom Tuzu ile Dona Dayanıklılık Deneyi\n4.2.3. Deney Raporu Hazırlama",
+      "KAZANIM": "Agreganın dona karşı durum deneyini standartlara uygun şekilde yapar.\nKimyasal yöntemle dona dayanıklılık deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "9",
       "KONU": "5. ASFALT ve BİTÜMLÜ BAĞLAYICILARI MALZEMELERİ SINIFLANDIRMA \n5.1. Asfalt Bitümlü Bağlayıcılar ve Kaynaklarının İncelenmesi \n5.1.1. Bitümlü Bağlayıcılar Malzemeler ve Sınıflandırılması\n5.1.2. Bitümlü Karışım Asfalt İskelet Malzemesi Agregalar\n5.2. Bitümlü Kaplamalar ve Sınıflarının Tespiti\n5.2.1. Yol Üstyapısı\n5.2.2. Bitümlü Asfalt Kaplama Tabakasının Sınıflandırılması\n5.3. Bitüm Emülsiyonlarının İncelenmesi\n5.3.1. Bitüm Emülsiyonlarının Kullanım Yerleri \n5.3.2.Emülgatör Cinsine Elektrik Yüklerine Göre Bitüm Emülsiyonları \n\n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Asfalt ve kaynakları ilgili temel kavramları açıklar.\nBitümlü malzemeler ve sınıflarını tespit eder.\nBitüm emülsiyonları ile ilgili temel kavramları açıklar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "9",
       "KONU": "6. BİTÜM BAĞLAYICILARIN ASFALT FİZİKSEL ÖZELLİK DENEYLERİ\n6.1. ÖZGÜL AĞIRLIK VE YOĞUNLUK TAYİNİ\n6.1.1. Deney Araç Gereç ve Ekipmanları\n6.1.2. Numune Alımı ve Hazırlanması \n6.1.3. Hidrometre Yöntemi ile Özgül Ağırlık Tayini\n6.1.4. Kapiler Piknometre ile Özgül Ağırlık Tayini",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Özgül ağırlık deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "KASIM",
@@ -68,123 +77,141 @@
       "SAAT": "9",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "9",
       "KONU": "6.2. PENETRASYON İĞNE BATMA DERİNLİĞİ TAYİNİ \n6.2.1. Deney Araç Gereç ve Ekipmanları \n6.2.2. Deneyin Yapılışı\n6.2.3. Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Penetrasyon deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "9",
       "KONU": "6.3. YÜZME BİTÜM YÜZDÜRME DENEYİ \n6.3.1. Deney Araç Gereç ve Ekipmanları\n6.3.2. Deneyin Yapılışı \n6.3.3. Deney Sonuçlarının Hesaplanması ve Raporun Hazırlanması",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Yüzme deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "9",
       "KONU": "6.4. BİTÜM YUMUŞAMA NOKTASI TAYİNİ\n6.4.1. Deney Araç Gereç ve Ekipmanları \n6.4.2. Deneyin Yapılışı \n6.4.3. Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Yumuşama deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "9",
       "KONU": "6.5. VİSKOZİTE KİNEMATİK VİSKOZİTE YÖNTEMİ VE DÜKTİLİTE DENEYİ\n6.5.1. Kinematik Viskozite\n6.5.2. Kuvvet Ölçümlü Düktilite Süneklik Deneyi",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Viskozite Düktilite deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "9",
       "KONU": "6.6. DESTİLASYON YÖNTEMİ İLE AYRILAN KALINTI BAĞLAYICI VE DAMITIK PETROL ÜRÜNÜ İÇERİĞİNİN TAYİNİ\n6.6.1. Deney Araç Gereç ve Ekipmanları\n6.6.2. Deneyin Yapılışı \n6.6.3. Deney Sonuçlarını Hesaplama ve Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Destilasyon deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "9",
       "KONU": "6.7. SU VE ÇÖZÜMLENME DENEYLERİ \n6.7.1. Damıtma Metoduyla Su Muhtevası Tayini \n6.7.2. Çözünürlük Çözümlenme Tayini\n6.8. ISITMA ISI KAYBI ve PARLAMA ALEVLENME NOKTASI TAYİNİ\n6.8.1. Isıtma Kaybı Deneyi\n6.8.2. Parlama Alevlenme ve Yanma Noktası Tayini",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Su ve çözümlenme deneyini standartlara uygun şekilde yapar.\nIsı kaybı alevlenme noktası deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "9",
-      "KONU": "7. BİTÜMLÜ TABAKA DENEYLERİ\n7.1. Bitümlü Tabaka Karışım Dizaynı \n7.1.1. Deney Araç Gereç ve Ekipmanları\n7.1.2. Deney İçin Gerekli Numune Miktarları\n7.1.3. Deney Numunesinin Hazırlanması\n7.1.4. Deneyin Yapılışı\n7.1.5. Deney Raporu Hazırlama\n7.2. Bitüm Temel Dizaynı\n7.2.1. Bitümlü Temel Tabakası\n7.2.2. Bitümlü Temel Tasarım Dizayn Ölçütlerinin Listelenmesi \n1.Dönem 2.Sınav"
+      "KONU": "7. BİTÜMLÜ TABAKA DENEYLERİ\n7.1. Bitümlü Tabaka Karışım Dizaynı \n7.1.1. Deney Araç Gereç ve Ekipmanları\n7.1.2. Deney İçin Gerekli Numune Miktarları\n7.1.3. Deney Numunesinin Hazırlanması\n7.1.4. Deneyin Yapılışı\n7.1.5. Deney Raporu Hazırlama\n7.2. Bitüm Temel Dizaynı\n7.2.1. Bitümlü Temel Tabakası\n7.2.2. Bitümlü Temel Tasarım Dizayn Ölçütlerinin Listelenmesi \n1.Dönem 2.Sınav",
+      "KAZANIM": "Bitümlü tabaka karışım dizaynı yapar.\nBitümlü temel dizaynı yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "9",
       "KONU": "7.3. Binder Tabakası Dizaynı\n7.3.1. Binder Tabakası\n7.3.2. Bitümlü Karışım Binder Tabakası Dizayn Ölçütlerinin Listelenmesi\n7.4. Aşınma Tabakası Dizaynı\n7.4.1. Aşınma Tabakası\n7.4.2. Bitümlü Karışım Aşınma Tabakası Dizayn Ölçütlerinin Listelenmesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Binder tabakası dizaynı yapar.\nAşınma tabakası dizaynı yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "9",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "9",
-      "KONU": "8. TABAKALARDA DENEYLER \n8.1. TABAKALARDA ÖZGÜL AĞIRLIK DENEYİ \n8.1.1. Deney Araç Gereç ve Ekipmanları\n8.1.2. Deney Numunesinin Hazırlanması\n8.1.3. Deneyin Yapılışı \n8.1.4. Deney Sonuçlarının Hesaplanması"
+      "KONU": "8. TABAKALARDA DENEYLER \n8.1. TABAKALARDA ÖZGÜL AĞIRLIK DENEYİ \n8.1.1. Deney Araç Gereç ve Ekipmanları\n8.1.2. Deney Numunesinin Hazırlanması\n8.1.3. Deneyin Yapılışı \n8.1.4. Deney Sonuçlarının Hesaplanması",
+      "KAZANIM": "Tabakaların özgül ağırlığı tekniğine uygun olarak bulunur."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "9",
-      "KONU": "8.2. LABORATUVAR YOĞUNLUĞU \n8.2.1. Laboratuvarda Yoğunluk Değeri Yöntemleri ve Uygulama Kuralları\n8.2.2. Laboratuvarda Yoğunluk Değeri Bulma- Maksimum Teorik Yoğunluk Deneyi\n8.3. TABAKALARDA BOŞLUK MİKTARI \n8.3.1. Tabakalarda Boşluk Miktarı Bulunmasının Yöntem ve Kuralları"
+      "KONU": "8.2. LABORATUVAR YOĞUNLUĞU \n8.2.1. Laboratuvarda Yoğunluk Değeri Yöntemleri ve Uygulama Kuralları\n8.2.2. Laboratuvarda Yoğunluk Değeri Bulma- Maksimum Teorik Yoğunluk Deneyi\n8.3. TABAKALARDA BOŞLUK MİKTARI \n8.3.1. Tabakalarda Boşluk Miktarı Bulunmasının Yöntem ve Kuralları",
+      "KAZANIM": "Laboratuvar yoğunluk değeri bulunur.\nTabakalarda boşluk miktarı bulunur."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "9",
       "KONU": "8.4. EKSTRAKSİYON DENEYİ \n8.4.1. Santrifüjlü Ekstraksiyon Deneyi\n8.4.2. Refluks Ekstraktör Deneyi\n8.5. ELEK ANALİZİ DENEYİ\n8.5.1. Deney Araç Gereç ve Ekipmanları\n8.5.2. Deney İçin Gerekli Numune Miktarları ve Numunenin Hazırlanması \n8.5.3. Deneyin Yapılışı \n8.5.4. Deney Sonuçlarının Hesaplanması ve Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Ekstraksiyon deneyi yapar.\nAsfalt tabakaların elek analizini yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "9",
       "KONU": "8.6. İŞ YERİ KARIŞIMI\n8.6.1. İş Yeri Karışım Numunesi Alma\n8.6.2. İş Yeri Karışım Numunesinin Saklanması\n8.7. BİTÜMLÜ SICAK KARIŞIM ASFALT PLENTLERİNİN AYARLANMASI \n8.7.1. Plentlerin Özellikleri\n8.7.2. Plent Ayarlarının Yapılması",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "İş yeri karışım numunesini kurallara uygun olarak alır.\nAsfalt plentlerin ayarlamasını yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "9",
       "KONU": "9. YOL GÜZERGÂHINA ASFALT BİTÜMLÜ SICAK KARIŞIM SERME VE KONTROLÜ\n9.1. Yol Yapısı Asfalt Bitümlü Sıcak karışım Serim ve Sıkıştırma Makineleri\n9.2. Finişer Kontrol ve Kalınlık Ayarları \n9.3. Finişer Sıkıştırma Kalınlık ve Uygunluk Kontrolü \n9.4. Asfalt Bitümlü Sıcak Karışım Serme ve Sıkıştırma Kuralları \n9.4.1. Asfalt Bitümlü Sıcak Karışım Serme Kuralları\n9.4.2. Asfalt Bitümlü Sıcak Karışım Sıkıştırma Kuralları \n9.5. Asfalt Bitümlü Sıcak Karışım Serme ve Sıkıştırma Isısının Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Yol yapısı asfalt serim ve sıkıştırma makinelerini inceler.\nFinişer kontrol ve kalınlık ayarlarını belirler.\nFinişer sıkıştırma kalınlık ve uygunluk kontrolü yapar.\nAsfalt serme ve sıkıştırma kurallarını listeler.\nAsfalt serme ve sıkıştırma ısısının kontrolünü yapar."
     },
     {
       "AY": "MART",
@@ -192,98 +219,112 @@
       "SAAT": "9",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "9",
       "KONU": "10. ÇİMENTO NUMUNELERİ ALMA\n10.1. Çimento Numunesi Almak İçin Araç Gereç Hazırlığı \n10.1.1. Numune Alma Alet ve Düzenekleri\n10.1.2. Numune Ölçü Araçları \n10.1.3. Çimento Katkı Maddeleri\n10.2. Çimentodan Deney Numunesi Alımı\n10.2.1. Çimento Numunesi Alma\n10.2.2. Numune Alma Tutanağı\n10.2.3. Numunelerin Korunması\n10.2.4. Numunenin Sevk Edilmesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Çimento numunesi almak için araç-gereçleri hazırlar.\nÇimentodan deney numunesi alır."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "9",
       "KONU": "11. ŞANTİYEDE ÇİMENTO DENEYLERİ \n11.1. Şantiyede Çimento Hacim Sabitliği Deneyi \n11.1.1. Deney Araç Gereç ve Ekipmanları\n11.1.2. Deney Numunesi\n11.1.3. Deneyin Yapılışı",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Şantiyede çimento hacim sabitliği deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "9",
       "KONU": "11.2. Şantiyede Çimento Priz Deneyi \n11.2.1. Deney Numunesi\n11.2.2. Deneyin Yapılışı\n11.2.3. Deney Raporu Hazırlama \n\n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Şantiyede çimento priz deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "9",
       "KONU": "12.ÇİMENTO ANALİZLERİ\n12.1. X Işını Floresan Yöntemi ile Kimyasal SiO2 Fe2O3 CaO MgO SO3 Analizi\n12.1.1. Kızdırma Kaybı Tayini\n12.1.2. Cihaz Kalibrasyonu ve Kalibrasyon Eğrilerinin SiO2 Fe2O3 CaO MgO SO3 Oluşturulması\n12.1.3. Deney Araç Gereçleri ve Numune Hazırlama SiO2 Fe2O3 CaO MgO SO3",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "SiO2 Tayini deneyini standartlara uygun şekilde yapar.\nSO3 Tayini deneyini standartlara uygun şekilde yapar.\nFe2O3 Tayini deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "9",
       "KONU": "12.1.4. Deneyin Yapılışı SiO2 Fe2O3 CaO MgO SO3\n12.1.5. Deney Raporu Hazırlama\n12.2. Islak Kimyasal Analiz",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "MgO Tayini deneyini standartlara uygun şekilde yapar.\nCaO Tayini deneyini standartlara uygun şekilde yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "9",
       "KONU": "13. ÇİMENTO NORMAL KIVAM VE PRİZ SÜRESİ TAYİNİ \n13.1. Laboratuvarda Çimentolarda Normal Kıvam Tayini Deneyi\n13.1.1. Deney Araç Gereç ve Ekipmanları \n13.1.2. Deney Numunesi Alımı\n13.1.3. Vicat Aletinin Ayarlarının Yapılması\n13.1.4. Deneyin Yapılışı\n13.1.5. Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Laboratuvarda çimentolarda normal kıvam tayini deneyi yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "9",
       "KONU": "13.2. Laboratuvarda Priz Başlama ve Sona Erme Sürelerinin Tayini Deneyi\n13.2.1. Deney Araç Gereç ve Ekipmanları\n13.2.2. Deney Numunesi Alımı\n13.2.3. Vicat Aletinin Ayarlarının Yapılması\n13.2.4. Deneyin Yapılışı\n13.2.5. Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Laboratuvarda priz başlama ve sona erme sürelerinin tayini deneyi yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "9",
       "KONU": "14. ÇİMENTO HACİM SABİTLİĞİ VE ÖZGÜL YÜZEY TAYİNİ DENEYİ\n14.1. Laboratuvarda Çimento Hacim Sabitliği Deneyi\n14.1.1. Deney Araç Gereçleri\n14.1.2. Çimento Hamurunun Hazırlanması\n14.1.3. Hacim Sabitliği Deneyinin Yapılması\n14.1.4. Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Laboratuvarda çimentodaki hacim sabitliği deneyi yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "9",
       "KONU": "14.2. Özgül Yüzey Tayini Deneyi \n14.2.1. Deney Araç Gereçleri\n14.2.2. Deneyin Yapılışı\n14.2.3. Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Çimento da özgül yüzey tayini deneyi Blaine aleti yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "9",
       "KONU": "15. ÇİMENTO ÖZGÜL AĞIRLIK VE TANE BÜYÜKLÜĞÜ TAYİNİ\n15.1. Çimentolarda Özgül Ağırlık Tayini Deneyi\n15.1.1. Deney Araç Gereç ve Ekipmanları\n15.1.2. Deneyin Yapılışı\n15.1.3. Deney Raporu Hazırlama\n15.2. Çimentolarda Tane Büyüklüğü Tayini\n15.2.1. Deney Araç Gereç ve Ekipmanları\n15.2.2. Deneyin Yapılışı Elle Eleme Yöntemiyle",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Çimentolarda özgül ağırlık tayini deneyi yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "9",
       "KONU": "15.2.3. Deneyin Yapılışı Elek Sarsma Makinesiyle Eleme Yöntemi\n15.2.4. Deney Raporu Hazırlama\n15.3. Çimentoda Eğilmede Çekme ve Basınç Dayanımı Deneyi\n15.3.1. Deney Araç Gereç ve Ekipmanları\n15.3.2. Deneyin Yapılışı\n15.3.3. Deney Raporu Hazırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Çimentolarda tane büyüklüğü tayini standartlara uygun olarak yapar.\nÇimentoda eğilmede çekme ve basınç dayanımı deneyini standartlara uygun olarak yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "9",
       "KONU": "16. KİMYASAL KATKI MADDELERİ DENEYİ \n16.1. YOĞUNLUK DENEYLERİ\n16.1.1. Dansimetre ile Yoğunluk Ölçme\n16.1.2. Piknometre ile Yoğunluk Ölçme",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Yoğunluk deneylerini standartlara uygun olarak yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "9",
       "KONU": "16.2. PH DENEYLERİNİ YAPMAK \n16.2.1. pH Kâğıdı ile pH Ölçümü Yapma\n16.2.2. pH Metre ile pH Ölçümü Yapma \n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Ph deneylerini standartlara uygun olarak yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -291,7 +332,8 @@
       "SAAT": "9",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ İMALAT İŞLEMLERİ\n1.\tÖlçme\n1.1.\tÖlçü Sistemleri\n1.2.\tÖlçmenin Tanımı\n1.3.\tÖlçme Ve Kontrolü Etkileyen Faktörler\n1.4.\tÖlçü Sistemleri\n1.5.\tÖlçme Aletleri\n1.6.\tKumpaslarla Ölçme İşlemi\n1.7.\tMikrometrelerle Ölçme İşlemi\n1.8.\tKomparatörler Ölçme İşlemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Ölçme aletleri ile ölçme işlemleri yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "7",
       "KONU": "2.\tKontrol\n2.1.\tKontrol Sistemleri\n2.2.\tKontrolün Tanımı\n2.3.\tÖlçme Ve Kontrol Arasındaki Farklar\n2.4.\tKontrol Aletleri\n2.5.\tParalel Yüzlü Camlar\n2.6.\tGönyeler\n2.7.\tMastarlar\n2.8.\tSu Teraziler",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Kontrol aletleri ile kontrol işlemleri yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "7",
-      "KONU": "ÖĞRENME BİRİMİ MALZEME VE MUAYENE\n1.\tMalzemenin Tanımı Ve Çeşitleri\n2.\tMalzeme Muayene Yöntemleri\n2.1.\tTahrip Etmeden Yapılan Muayene\n2.1.1.\tPenetran Sıvı İle Yapılan Kontrol İşlemleri\n2.1.2.\tUltrasonik Muayene Teknikleri\n2.1.3.\tRöntgen Işınları İle Muayene"
+      "KONU": "ÖĞRENME BİRİMİ MALZEME VE MUAYENE\n1.\tMalzemenin Tanımı Ve Çeşitleri\n2.\tMalzeme Muayene Yöntemleri\n2.1.\tTahrip Etmeden Yapılan Muayene\n2.1.1.\tPenetran Sıvı İle Yapılan Kontrol İşlemleri\n2.1.2.\tUltrasonik Muayene Teknikleri\n2.1.3.\tRöntgen Işınları İle Muayene",
+      "KAZANIM": "Malzemenin tanımını yapar ve çeşitlerini açıklar.\nMalzeme muayene yöntemlerini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "7",
       "KONU": "2.2.\tTahrip Ederek Yapılan Muayene\n2.2.1.\tKıvılcım Deneyi \n2.2.2.\tÇekme Deneyi \n2.2.3.\tBükme Deneyi \n2.2.4.\tBurulma Deneyi \n2.2.5.\tKesme Deneyi \n2.2.6.\tBasma Ve Kopma Deneyi",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Malzeme muayene yöntemlerini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "7",
       "KONU": "3.\tSertlik Ölçme Yöntemleri\n3.1. Sertlik Kavramı\n3.2. Sertlik Ölçme Yöntemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Isıl işlem yapmayı açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "7",
-      "KONU": "ÖĞRENME BİRİMİ TORNA TEZGAHINDA VİDA AÇMA\n1. Üçgen Vida Ve Somunu\n1.1. Vida Kaleminin Bilenmesi\n1.2. Üçgen Vida Çeşitleri\n1.3. Üçgen Vida Açmada İşlem Sırası"
+      "KONU": "ÖĞRENME BİRİMİ TORNA TEZGAHINDA VİDA AÇMA\n1. Üçgen Vida Ve Somunu\n1.1. Vida Kaleminin Bilenmesi\n1.2. Üçgen Vida Çeşitleri\n1.3. Üçgen Vida Açmada İşlem Sırası",
+      "KAZANIM": "Torna tezgâhında üçgen vida açma işlemlerini yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "7",
-      "KONU": "1.4. Vida Açarken Kullanılacak Devir Sayısı Ve İlerleme Miktarı\n1.5. Torna Tezgâhında Vida Açma İşlemi\n1.6. Çok Ağızlı Vida Açma İşlemi\n1.7. Özel Vidalar\n1.8. Tornada Vida Açma İşleminde Dikkat Edilecek Kurallar"
+      "KONU": "1.4. Vida Açarken Kullanılacak Devir Sayısı Ve İlerleme Miktarı\n1.5. Torna Tezgâhında Vida Açma İşlemi\n1.6. Çok Ağızlı Vida Açma İşlemi\n1.7. Özel Vidalar\n1.8. Tornada Vida Açma İşleminde Dikkat Edilecek Kurallar",
+      "KAZANIM": "Torna tezgâhında üçgen vida açma işlemlerini yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "7",
       "KONU": "2. Kare Vida Açma\n2.1. Kare Vida Kalemini Vida Adımına Göre Bileme\n2.2. Tornada Vida Kalemi İle Kare Vida Açma İşlemi\n2.2. Vida Açarken Kullanılacak Devir Sayısı Ve İlerleme Miktarı\n2.3. Vida Açarken Dikkat Edilecek Hususlar \n\n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Torna tezgâhında kare vida açma işlemlerini yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "7",
       "KONU": "3. Trapez Vida Açma\n3.1. Trapez Vida Kalemini Vida Adımına Göre Bileme\n3.2. Tornada Vida Kalemi İle Trapez Vida Açma İşlem Sırası\n3.2. Vida Açarken Kullanılacak Devir Sayısı Ve İlerleme Miktarı\n3.3. Vida Açarken Dikkat Edilecek Hususlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Torna tezgâhında trapez vida açma işlemlerini yapar."
     },
     {
       "AY": "KASIM",
@@ -68,123 +77,141 @@
       "SAAT": "7",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ DELİK BÜYÜTME VE YAY SARMA\n1.\tTornada Delik Delme Ve Büyütme\n1.1.\tTorna Tezgâhında Delik Kalemi İle Delik Büyütme İşlemi\n1.2.\tYapılan İşlerin Ölçü Ve Yüzey Kalite Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Torna tezgâhında delik delme ve büyütme işlemleri yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "7",
       "KONU": "2.\tTornada Deliklere Kanal Açma\n2.1.\tDelik Çapına Göre Delik Kateri Seçimi\n2.2.\tDelik Kanal Kaleminin Bağlanması\n2.3.\tDevir Sayısı Ve İlerleme Hızı Hesabı",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Torna tezgahında deliklere kanal açma işlemleri yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "7",
       "KONU": "3.\tTorna Tezgâhında Yay Sarma\n3.1.\tYayların Tanımı Özellikleri Ve Kullanım Alanları\n3.2.\tBasma Ve Çekme Yayların Genel Özellikleri\n3.3.\tYay Sarma İşlemi Ve Öncesinde Dikkat Edilmesi Gereken Emniyet Kuralları",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Torna tezgâhında yay sarma işlemleri yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "7",
       "KONU": "3.3.\tYay Sarma İşlemi Ve Öncesinde Dikkat Edilmesi Gereken Emniyet Kuralları\n3.4.\tTezgâhta Yapılacak Ayarlar Ve Ön Hazırlık İşlemleri\n3.5.\tİşlem Sırasına Göre Yay Sarma İşlemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Torna tezgâhında yay sarma işlemleri yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "7",
       "KONU": "4.\tTorna Tezgâhının Bakımı\n4.1.\tTorna Tezgahının Günlük Bakım İşlemleri \n4.2.\tTorna Tezgahının Aylık Bakım İşlemleri\n4.3.\tTorna Tezgahının YILLIK Bakım İşlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Torna tezgâhında bakım işlemlerini yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ ÖZEL TORNALAMA İŞLEMLERİ\n1.\tYataklara Alarak Tornalama\n1.1.\tTorna Yatak Çeşitleri \n1.2.\tSabit Yatak Ve Gezer Yatağın Görevleri\n1.3.\tYatakları Torna Tezgahına Bağlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Tornada tezgahında yataklara alarak tornalama işlemleri yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "7",
-      "KONU": "2.\tKaçık Merkezli Tornalama İşlemleri\n2.1.\tEksantrik Tornalama Ve Eksantrik Markalama İşlemleri \n2.2.\tPunta Deliği Açma\n2.3.\tİş Parçasını Torna Tezgahına Bağlama\n2.4.\tEksantrik Tornalama İşleminin Yapılması\n2.5.\tTornalama İşleminin Kontrolü \n1.Dönem 2.Sınav"
+      "KONU": "2.\tKaçık Merkezli Tornalama İşlemleri\n2.1.\tEksantrik Tornalama Ve Eksantrik Markalama İşlemleri \n2.2.\tPunta Deliği Açma\n2.3.\tİş Parçasını Torna Tezgahına Bağlama\n2.4.\tEksantrik Tornalama İşleminin Yapılması\n2.5.\tTornalama İşleminin Kontrolü \n1.Dönem 2.Sınav",
+      "KAZANIM": "Torna tezgahında kaçık merkezli tornalama işlemleri yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "7",
       "KONU": "3.\tMengeneli Aynalarla Tornalama İşlemleri\n3.1.\tMengeneli Aynada Tornalama İşlemi\n3.2.\tMengeneli Aynaya Bağlanacak Parçanın Merkez Kontrolü\n3.3.\tMengeneli Aynanın Fener Miline Takılması Ve Sökülmesi\n3.4.\tParçanın Dengelenmesi Ve İş Parçasının Tornalanması",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav İş parçasını mengeneli aynalara bağlayarak tornalama işlemleri yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "7",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "7",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "7",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "7",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "7",
-      "KONU": "4.\tProfil Tornalama İşlemleri\n4.1.\tTornalanacak Profile Göre Kalem Bileme İşlemi\n4.2.\tKalemin Mastar Yardımı İle Katere Bağlanması \n4.3.\tİç Ve Dış Bükey Profil Tornalama İşlemleri\n4.4.\tKör Tornalama İşlemi\n4.5.\tKopya Tertibatı İle Profil Tornalama\n4.6.\tTornalanan Profilin Şablon Yardımı İle Kontrolü"
+      "KONU": "4.\tProfil Tornalama İşlemleri\n4.1.\tTornalanacak Profile Göre Kalem Bileme İşlemi\n4.2.\tKalemin Mastar Yardımı İle Katere Bağlanması \n4.3.\tİç Ve Dış Bükey Profil Tornalama İşlemleri\n4.4.\tKör Tornalama İşlemi\n4.5.\tKopya Tertibatı İle Profil Tornalama\n4.6.\tTornalanan Profilin Şablon Yardımı İle Kontrolü",
+      "KAZANIM": "Torna tezgahında profil tornalama işlemleri yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "7",
-      "KONU": "5.\tTorna Tezgâhı Bakım İşlemleri\n5.1.\tPenslerin Tanımı Ve Önemi \n5.2.\tPenslerin Çeşitleri Ve Çalışma Prensibi\n5.3.\tPens Tertibatının Tezgâha Bağlanması\n5.4.\tİş Parçasının Bağlanması \n5.5.\tTornalama İçin Ön Ayarlar"
+      "KONU": "5.\tTorna Tezgâhı Bakım İşlemleri\n5.1.\tPenslerin Tanımı Ve Önemi \n5.2.\tPenslerin Çeşitleri Ve Çalışma Prensibi\n5.3.\tPens Tertibatının Tezgâha Bağlanması\n5.4.\tİş Parçasının Bağlanması \n5.5.\tTornalama İçin Ön Ayarlar",
+      "KAZANIM": "İş parçasını penslerle torna tezgahına bağlayarak tornalama işlemleri yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ FREZEDE DELİK DELME VE KANAL AÇMA İŞLEMLERİ \n1.\tFreze Tezgâhında Delik Delme Ve Delik Büyütme İşlemleri\n1.1.\tDelik Delme İşleminde Kullanılan Kesiciler Ve Yardımcı Elemanlar\n1.2.\tİş Parçasının Bağlanması Ve Sökülmesi İşlemleri \n1.3.\tDelik Delme Ve Delik Büyütme İşlemleri\n1.4.\tYapılan İşlerin Ölçü Ve Yüzey Kalite Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Freze tezgahında delik delmek ve delik büyütme işlemleri yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "7",
       "KONU": "2.\tFreze Tezgâhında Kanal Açma İşlemleri\n2.1.\tKama Kanalının Kullanım Amacı\n2.2.\tKama Kanalı Açmada Kullanılan Kesiciler\n2.3.\tİş Parçası Ve Kesicilerin Tezgâha Bağlanması",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Freze tezgâhında kanal açma işlemlerini yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "7",
       "KONU": "2.4.\tDüzlem Yüzeylere Kanal Açma İşlemi\n2.5.\tMiller Üzerine Kama Kanalı Açma İşlemi\n2.6.\tDeliklere Kama Kanalı Açma İşlem Sırası\n2.7.\tKama Ölçülerine Göre Kama Kanalının Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Freze tezgâhında kanal açma işlemlerini yapar."
     },
     {
       "AY": "MART",
@@ -192,98 +219,112 @@
       "SAAT": "7",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "7",
       "KONU": "3.\tFreze Tezgâhı Bakım İşlemleri\n3.1.\tFreze Tezgahlarının Günlük Bakım İşlemleri\n3.2.\tFreze Tezgahlarının Aylık Bakım İşlemleri\n3.3.\tFreze Tezgahlarının YILLIK Bakım İşlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Freze tezgâhı bakım işlemlerini yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ DİŞLİ AÇMA İŞLEMLERİ\n1.\tDüz Dişli Açma\n1.1.\tDüz Dişli Çarkların Tanımı Ve Kullanıldığı Yerler\n1.2.\tDüz Dişli Çark Elemanları Ve Hesapları\n1.3.\tDiş Açma İşlemleri İçin Divizör Hesabı Ve Delikli Ayna Ayarları \n1.4.\tİş Parçasının Divizör- Punta Arasına Bağlanmasında Dikkat Edilecek Hususlar\n1.5.\tModül Freze Çakısının Seçimi Ve Malafaya Bağlanması \n1.6.\tDiş Derinliğinin Verilmesi Ve Dişlerin Açılması İşlem Sırası\n1.7.\tDiş Açma İşleminde Dikkat Edilecek Hususlar\n1.8.\tAçılan Düz Dişlinin Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Freze tezgâhında düz dişli açma işlemleri yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "7",
       "KONU": "2.\tKremayer Dişli Açma\n2.1.\tKremayer Dişlinin Tanımı Ve Kullanıldığı Yerler\n2.2.\tKremayer Dişli Elemanları Ve Hesapları \n2.3.\tModül Freze Çakısının Seçimi Ve Malafaya Bağlanması \n2.4.\tDiş Derinliğinin Verilmesi Ve Dişlerin Açılması İşlem Sırası\n2.5.\tKremayer Dişli Açmada Dikkat Edilecek Hususlar \n2.6.\tAçılan Kremayer Dişlinin Kontrolü \n \n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Freze tezgâhında kremayer dişli açma işlemleri yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "7",
       "KONU": "5.\tTorna Tezgâhı Bakım İşlemleri\n5.1.\tPenslerin Tanımı Ve Önemi \n5.2.\tPenslerin Çeşitleri Ve Çalışma Prensibi\n5.3.\tPens Tertibatının Tezgâha Bağlanması\n5.4.\tİş Parçasının Bağlanması \n5.5.\tTornalama İçin Ön Ayarlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "İş parçasını penslerle torna tezgahına bağlayarak tornalama işlemleri yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "7",
       "KONU": "4.\tKonik Dişli Açma\n4.1.\tKonik Dişlinin Çarkın Tanımı Ve Kullanıldığı Yerler\n4.2.\tKonik Dişli Çarkların Çalışma Pozisyonları\n4.3.\tKonik Dişli Elemanları Ve Hesapları\n4.4.\tKonik Dişli Açılış Yöntemleri\n4.5.\tDiş Derinliğinin Verilmesi Ve Dişlerin Açılması İşlem Sırası\n4.6.\tKonik Dişli Açma Sırasında Dikkat Edilecek Hususlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Freze tezgahında konik dişli açma işlemleri yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "7",
       "KONU": "5.\tSonsuz Vida Ve Karşılık Dişlisi Açma\n5.1.\tSonsuz Vidanın Tanımı Ve Kullanıldığı Yerler\n5.2.\tSonsuz Vida Elemanları Ve Hesapları\n5.3.\tDişli Çark Donanım Hesabı\n5.4.\tDiş Derinliğinin Verilmesi Ve Dişlerin Açılması İşlem Sırası\n5.5.\tSonsuz Vida Açma Sırasında Dikkat Edilecek Hususlar \n5.6.\tAçılan Vidanın Kontrolü\n5.7.\tKarşılık Dişlisinin Tanımı\n5.8.\tKarşılık Dişlisi Elemanlarının Hesabı \n5.9.\tDiş Derinliğinin Verilmesi Ve Dişlerin Açılması İşlem Sırası \n5.10.\tDişlerin Açılması Sırasında Dikkat Edilecek Hususlar\n5.11.\tAçılan Dişlinin Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Freze tezgahında sonsuz vida ve karşılık dişlisi açma işlemleri yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "7",
       "KONU": "6.\tZincir Dişli Açma\n6.1.\tZincir Dişlinin Tanımı Ve Kullanıldığı Yerler\n6.2.\tZincir Dişli Açma Yöntemleri\n6.3.\tZincir Dişli Çeşitleri\n6.4.\tZincir Dişli Elemanları Ve Hesapları\n6.5.\tDiş Derinliğinin Verilmesi Ve Dişlerin Açılması İşlem Sırası\n6.6.\tZincir Dişli Açma İşlemleri Sırasında Dikkat Edilecek Hususlar\n6.7.\tAçılan Zincir Dişlinin Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Freze tezgahında zincir dişli açma işlemleri yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ TAŞLAMA İŞLEMLERİ\n1.\tDüzlem Yüzey Taşlama İşlemleri\n1.1.\tTaşlama İşleminin Amacını Ve Kullanım Alanları\n1.2.\tTaşlamada Kullanılacak Zımpara Taşlarının Özellikleri\n1.3.\tZımpara Taşlarını Dengelemesini Ve Tezgâha Takılması\n1.4.\tDüzlem Yüzey Taşlama Tezgâhlarının Çalışması\n1.5.\tDüzlem Yüzey Taşlama Tezgâhlarına İş Bağlama Yöntemleri \n1.6.\tDüzlem Yüzey Taşlamada İşlem Sırası",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Düzlem yüzey taşlama işlemleri yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "7",
       "KONU": "1.7.\tİstenen Yüzey Kalitesine Göre Taş Seçiminin Önemi \n1.8.\tTaşa Uygun Devir Sayısı Ve İşe Uygun İlerleme Hızı\n1.9.\tTaşın İş Parçası Üzerinde Sıfırlama Yapılması\n1.10.\tUygun Talaş Derinliği Vererek Taşlama İşlemi\n1.11.\tTaşlamada İşleminde Soğutma Sıvısı Kullanmanın Önemi\n1.12.\tKörelen Zımpara Taşlarının Bilenmesi \n1.13.\tDüzlem Yüzey Taşlamada Dikkat Edilecek Hususlar \n1.14.\tTaşlama İşlemi Sonunda Ölçme Ve Kontrol İşlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Düzlem yüzey taşlama işlemleri yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "7",
       "KONU": "2.\tSilindirik Yüzey Taşlama İşlemleri\n2.1.\tSilindirik Taşlama Tezgâhlarının Çalışması\n2.2.\tSilindirik Taşlama Tezgâhlarına İş Bağlama Yöntemleri\n2.3.\tSilindirik Taşlama Yöntemleri\n2.4.\tSilindirik Taşlamada İşlem Sırası \n2.5.\tSilindirik Taşlamada Dikkat Edilecek Hususlar\n2.6.\tTaşlama İşlemi Sonunda Ölçme Ve Kontrol İşlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Silindirik yüzey taşlama tezgâhlarında taşlama işlemleri yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "7",
       "KONU": "ÖĞRENME BİRİMİ ALET BİLEME İŞLEMLERİ\n1.\tMatkap Bileme\n1.1.\tAlet Bileme Tezgâhlarının Çalıştırılması\n1.2.\tDelinecek Malzeme Cinsine Göre Matkabın Uç Açıları\n1.3.\tHatalı Bilenen Matkabın Delmeye Etkisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Alet bileme tezgâhında matkap bileme işlemleri yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "7",
       "KONU": "1.4.\tMatkap Bilemede Dikkat Edilecek Hususlar\n1.5.\tMatkap Bilemede İşlem Sırası\n1.6.\tBilenen Matkabın Kesme Açılarının Kontrolü \n2.\tKalem Bileme\n2.1.\tİşlenecek Malzemeye Göre Kalem Açıları\n2.2.\tSeri Çelik Kalemlere Verilecek Açılar",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Alet bileme tezgahında kalem bileme işlemleri yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "7",
       "KONU": "2.3.\tUygun Bileme İçin Taş Seçimi \n2.4.\tSeri Çelik Kalemlerin Bilenmesinde Dikkat Edilecek Hususlar\n2.5.\tKalem Açılarının Optik Veya Verniyerli Açı Ölçerlerle Kontrolü\n2.6.\tSert Maden Uçlu Kalemlerin Bilenmesinde İşlem Sırası \n3.\tFreze Çakılarını Bileme\n3.1.\tFreze Çakılarının Malzemesine Göre Taş Seçimi\n3.2.\tFreze Çakılarını Tezgâha Bağlama Yöntemleri  \n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Alet bileme tezgahında kalem bileme işlemleri yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -291,7 +332,8 @@
       "SAAT": "7",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

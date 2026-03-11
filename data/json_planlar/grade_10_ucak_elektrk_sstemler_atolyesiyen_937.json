@@ -8,8 +8,8 @@
       "SAAT": "3",
       "ÜNİTE": "DC Motor ve Jeneratörler",
       "KONU": "1. Manyetizma ve endüksiyon hesaplarını yapma.",
-      "KAZANIM": "Manyetizma      ve     endüksiyon      prensiplerini kavratır.\n      Elektromanyetik endüksiyon yöntemi ile gerilim oluşturarak ölçme işlemlerini yapar.\n      RLC metre ile bobin ölçümlerini yapar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Manyetizma        prensiplerini        açıklayarak manyetizma hesaplamalarını yapar.\nManyetizma      ve     endüksiyon      prensiplerini kavratır.\n      Elektromanyetik endüksiyon yöntemi ile gerilim oluşturarak ölçme işlemlerini yapar.\n      RLC metre ile bobin ölçümlerini yapar."
     },
     {
       "AY": "EYLÜL",
@@ -17,7 +17,8 @@
       "SAAT": "3",
       "ÜNİTE": "DC Motor ve Jeneratörler",
       "KONU": "2. İndüksiyon hesaplamalarını yapma",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "İndüksiyon         prensiplerini         açıklayarak indüksiyon hesaplamalarını yapar."
     },
     {
       "AY": "EYLÜL",
@@ -25,7 +26,7 @@
       "SAAT": "3",
       "ÜNİTE": "DC Motor ve Jeneratörler",
       "KONU": "3. DC jeneratör çıkış değerlerini alma.",
-      "KAZANIM": "DC  jeneratörlerin  genel  prensibini  çalışma prensiplerini parçalarını kavratır.\n      DC  jeneratör  bağlantı  çeşitlerini  uygulayarak çıkış değerlerine etki eden faktörleri ölçer.\n      Starter  jeneratörü  çalıştırarak  çıkış  değerlerini ölçer."
+      "KAZANIM": "DC jeneratörleri tekniğine uygun çalıştırarak çıkış değerlerini alır.\nDC  jeneratörlerin  genel  prensibini  çalışma prensiplerini parçalarını kavratır.\n      DC  jeneratör  bağlantı  çeşitlerini  uygulayarak çıkış değerlerine etki eden faktörleri ölçer.\n      Starter  jeneratörü  çalıştırarak  çıkış  değerlerini ölçer."
     },
     {
       "AY": "EYLÜL",
@@ -33,8 +34,8 @@
       "SAAT": "3",
       "ÜNİTE": "DC Motor ve Jeneratörler",
       "KONU": "4. DC motor çeşitlerini çalıştırma.",
-      "KAZANIM": "DC    motorların    genel     prensibini    çalışma prensiplerini parçalarını kavratır.\n      DC motor bağlantı çeşitlerini uygulayarak çıkış değerlerine etki eden faktörleri ölçer.",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "DC  seri  şönt  kompunt  motoru  ve  starter jeneratörü      tekniğine      uygun      devreye bağlayarak çalıştırır.\nDC    motorların    genel     prensibini    çalışma prensiplerini parçalarını kavratır.\n      DC motor bağlantı çeşitlerini uygulayarak çıkış değerlerine etki eden faktörleri ölçer."
     },
     {
       "AY": "EKIM",
@@ -42,8 +43,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "1. Osiloskopla faz frekans peryot gerilim ölçümleri yapma.",
-      "KAZANIM": "Osiloskopların     genel     prensibini     çalışma prensiplerini        ölçme       ve       kalibrasyon yöntemlerini kavratır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Osiloskopla     sinüsoidal     dalganın     faz periyot ve frekansı tekniğine uygun olarak ölçüp  ani                   ortalama-etkin   değer hesaplamaları  ve  ölçmeleri  hatasız  olarak yapar.\nOsiloskopların     genel     prensibini     çalışma prensiplerini        ölçme       ve       kalibrasyon yöntemlerini kavratır."
     },
     {
       "AY": "EKIM",
@@ -51,7 +52,7 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "1. Osiloskopla faz frekans peryot gerilim ölçümleri yapma.",
-      "KAZANIM": "Alternatif        terimleri        ve        büyüklükleri tanımlayarak hesaplatır."
+      "KAZANIM": "Osiloskopla     sinüsoidal     dalganın     faz periyot ve frekansı tekniğine uygun olarak ölçüp  ani                   ortalama-etkin   değer hesaplamaları  ve  ölçmeleri  hatasız  olarak yapar.\nAlternatif        terimleri        ve        büyüklükleri tanımlayarak hesaplatır."
     },
     {
       "AY": "EKIM",
@@ -59,7 +60,7 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "2. Üçgen ve kare dalga elde etme.",
-      "KAZANIM": "Osiloskopta üçgen ve kare dalga görüntüsünü oluşturarak değerlerini ölçer."
+      "KAZANIM": "Üçgen ve kare dalga büyüklüklerini hatasız olarak hesaplar.\nOsiloskopta üçgen ve kare dalga görüntüsünü oluşturarak değerlerini ölçer."
     },
     {
       "AY": "EKIM",
@@ -67,8 +68,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "2. Üçgen ve kare dalga elde etme.",
-      "KAZANIM": "Osiloskopta üçgen ve kare dalga görüntüsünü oluşturarak değerlerini ölçer.",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Üçgen ve kare dalga büyüklüklerini hatasız olarak hesaplar.\nOsiloskopta üçgen ve kare dalga görüntüsünü oluşturarak değerlerini ölçer."
     },
     {
       "AY": "KASIM",
@@ -76,8 +77,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "3. Seri RLC devrelerde hesaplama yapma.",
-      "KAZANIM": "RL  RC  RLC  seri devre  özelliklerini kavratır hesaplamalarını yaptırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Seri  R-L-C  devrelerde  empedans  faz  açısı güç faktörü ve akım hesaplamalarını hatasız olarak yapar.\nRL  RC  RLC  seri devre  özelliklerini kavratır hesaplamalarını yaptırır."
     },
     {
       "AY": "KASIM",
@@ -85,7 +86,8 @@
       "SAAT": "3",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -93,8 +95,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "3. Seri RLC devrelerde hesaplama yapma.",
-      "KAZANIM": "Seri rezonans değerlerini ölçer.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Seri  R-L-C  devrelerde  empedans  faz  açısı güç faktörü ve akım hesaplamalarını hatasız olarak yapar.\nSeri rezonans değerlerini ölçer."
     },
     {
       "AY": "KASIM",
@@ -102,8 +104,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "4. Paralel RLC devrelerde hesaplama yapma.",
-      "KAZANIM": "RL  RC  RLC  paralel       devre    özelliklerini kavratır hesaplamalarını yaptırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Paralel   R-L-C   devrelerde   empedans   faz açısı  güç  faktörü  ve  akım  hesaplamalarını hatasız olarak yapar.\nRL  RC  RLC  paralel       devre    özelliklerini kavratır hesaplamalarını yaptırır."
     },
     {
       "AY": "ARALIK",
@@ -111,8 +113,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "4. Paralel RLC devrelerde hesaplama yapma.",
-      "KAZANIM": "Paralel rezonans değerlerini ölçer.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Paralel   R-L-C   devrelerde   empedans   faz açısı  güç  faktörü  ve  akım  hesaplamalarını hatasız olarak yapar.\nParalel rezonans değerlerini ölçer."
     },
     {
       "AY": "ARALIK",
@@ -120,8 +122,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "5. Seri paralel RLC devrelerde hesaplama yapma.",
-      "KAZANIM": "Karışık  bağlı  RLC  devre  özelliklerini  kavratır hesaplamalarını yaptırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Seri-Paralel  R-L-C  devrelerde  empedans faz      açısı      güç      faktörü      ve      akım hesaplamalarını hatasız olarak yapar.\nKarışık  bağlı  RLC  devre  özelliklerini  kavratır hesaplamalarını yaptırır."
     },
     {
       "AY": "ARALIK",
@@ -129,8 +131,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Devrelerde Elektriki Büyüklükleri Ölçme",
       "KONU": "5. Seri paralel RLC devrelerde hesaplama yapma.",
-      "KAZANIM": "Güç  güç  katsayısı  empedans  akım  gerilim ilişkilerini deneysel olarak tanıtır ve ölçtürür.",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Seri-Paralel  R-L-C  devrelerde  empedans faz      açısı      güç      faktörü      ve      akım hesaplamalarını hatasız olarak yapar.\nGüç  güç  katsayısı  empedans  akım  gerilim ilişkilerini deneysel olarak tanıtır ve ölçtürür."
     },
     {
       "AY": "ARALIK",
@@ -138,8 +140,8 @@
       "SAAT": "3",
       "ÜNİTE": "Transformatörler ve Filtreler",
       "KONU": "1. Transformatörleri yüklü ve yüksüz çalıştırma.",
-      "KAZANIM": "Transformatörlerin       yapısını       çalışmasını özelliklerini kavratır.\n      Transformatör  ve  oto  transformatörlerin  boş  ve yüklü çalışma deneylerini yaptırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Transformatörü    tekniğine    uygun    olarak devreye     bağlayarak     yüklü     ve     yüksüz çalıştırır.\nTransformatörlerin       yapısını       çalışmasını özelliklerini kavratır.\n      Transformatör  ve  oto  transformatörlerin  boş  ve yüklü çalışma deneylerini yaptırır."
     },
     {
       "AY": "ARALIK",
@@ -147,7 +149,7 @@
       "SAAT": "3",
       "ÜNİTE": "Transformatörler ve Filtreler",
       "KONU": "2. Filtreleri devrelerde kullanma.",
-      "KAZANIM": "Filtrelerin  özelliklerini  çeşitlerini  çalışmasını kavratır devre çizimlerini yaptırır.\n      Filtre çeşitlerinin giriş çıkış eğrilerini osiloskopta elde ederek karşılaştırır."
+      "KAZANIM": "Filtreleri  devrelerde  tekniğine  uygun  olarak kullanır.\nFiltrelerin  özelliklerini  çeşitlerini  çalışmasını kavratır devre çizimlerini yaptırır.\n      Filtre çeşitlerinin giriş çıkış eğrilerini osiloskopta elde ederek karşılaştırır."
     },
     {
       "AY": "OCAK",
@@ -155,29 +157,32 @@
       "SAAT": "3",
       "ÜNİTE": "AC Jeneratör ile Alternatif EMK Elde Etme",
       "KONU": "1. Tek ve çok fazlı AC jeneratörleri çalıştırma.",
-      "KAZANIM": "Endüksiyon    yöntemi    ile    emk    elde    etme prensibini    ve    AC    jeneratörün    çalışmasını kavratır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Tek ve çok fazlı  AC jeneratör bağlantılarını tekniğine uygun yaparak çalıştırır.\nEndüksiyon    yöntemi    ile    emk    elde    etme prensibini    ve    AC    jeneratörün    çalışmasını kavratır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "3",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
@@ -185,7 +190,7 @@
       "SAAT": "3",
       "ÜNİTE": "AC Jeneratör ile Alternatif EMK Elde Etme",
       "KONU": "1. Tek ve çok fazlı AC jeneratörleri çalıştırma.",
-      "KAZANIM": "Tek   fazlı   AC   jeneratörü   yüklü   ve   yüksüz çalıştırarak çıkış değerlerini ölçer."
+      "KAZANIM": "Tek ve çok fazlı  AC jeneratör bağlantılarını tekniğine uygun yaparak çalıştırır.\nTek   fazlı   AC   jeneratörü   yüklü   ve   yüksüz çalıştırarak çıkış değerlerini ölçer."
     },
     {
       "AY": "ŞUBAT",
@@ -193,7 +198,7 @@
       "SAAT": "3",
       "ÜNİTE": "AC Jeneratör ile Alternatif EMK Elde Etme",
       "KONU": "2. Üç fazlı sistemlerde yıldız ve üçgen bağlantıları yaparak akımgerilimgüç hesaplarını yapma.",
-      "KAZANIM": "Üç faz özelliklerini ve terimlerini kavratır.\n      Üç  fazlı   yıldız  bağlantı  prensiplerini  akım gerilim güç bağıntılarını kavratır.\n      Üç  fazlı  üçgen  bağlantı  prensiplerini  akım gerilim güç bağıntılarını kavratır."
+      "KAZANIM": "Üç    fazlı    sistemlerde    yıldız    ve    üçgen bağlantılarını  yaparak  hat  akımı  faz  akımı ve güç değerlerini hesaplar.\nÜç faz özelliklerini ve terimlerini kavratır.\n      Üç  fazlı   yıldız  bağlantı  prensiplerini  akım gerilim güç bağıntılarını kavratır.\n      Üç  fazlı  üçgen  bağlantı  prensiplerini  akım gerilim güç bağıntılarını kavratır."
     },
     {
       "AY": "ŞUBAT",
@@ -201,7 +206,7 @@
       "SAAT": "3",
       "ÜNİTE": "AC Jeneratör ile Alternatif EMK Elde Etme",
       "KONU": "2. Üç fazlı sistemlerde yıldız ve üçgen bağlantıları yaparak akımgerilimgüç hesaplarını yapma.",
-      "KAZANIM": "Üç fazlı yıldız bağlı yük deneyini yaparak devre değerlerini ölçer.\n      Üç  fazlı  üçgen  bağlı   yük  deneyini  yaparak devre değerlerini ölçer.\n      Hesaplama  ve  deney  yöntemi  ile  bulunan sonuçları karşılaştırır."
+      "KAZANIM": "Üç    fazlı    sistemlerde    yıldız    ve    üçgen bağlantılarını  yaparak  hat  akımı  faz  akımı ve güç değerlerini hesaplar.\nÜç fazlı yıldız bağlı yük deneyini yaparak devre değerlerini ölçer.\n      Üç  fazlı  üçgen  bağlı   yük  deneyini  yaparak devre değerlerini ölçer.\n      Hesaplama  ve  deney  yöntemi  ile  bulunan sonuçları karşılaştırır."
     },
     {
       "AY": "ŞUBAT",
@@ -209,8 +214,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Jeneratör ile Alternatif EMK Elde Etme",
       "KONU": "3. Sabitdoğal mıknatıslı jeneratörleri çalıştırmak",
-      "KAZANIM": "Doğal  mıknatıslı  jeneratör  özelliklerini  avantaj ve dezavantajlarını kavratır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Daimi     mıknatıslı     jeneratörleri     tekniğine uygun olarak çalıştırır.\nDoğal  mıknatıslı  jeneratör  özelliklerini  avantaj ve dezavantajlarını kavratır."
     },
     {
       "AY": "MART",
@@ -218,8 +223,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Jeneratör ile Alternatif EMK Elde Etme",
       "KONU": "3. Sabitdoğal mıknatıslı jeneratörleri çalıştırmak",
-      "KAZANIM": "Doğal mıknatıslı AC jeneratörü yüklü ve yüksüz çalıştırarak çıkış değerlerini ölçer.",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Daimi     mıknatıslı     jeneratörleri     tekniğine uygun olarak çalıştırır.\nDoğal mıknatıslı AC jeneratörü yüklü ve yüksüz çalıştırarak çıkış değerlerini ölçer."
     },
     {
       "AY": "MART",
@@ -227,8 +232,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Motorlar",
       "KONU": "1. Bir fazlı AC senkron motorları çalıştırma.",
-      "KAZANIM": "Bir fazlı senkron motorun özelliklerini çeşitlerini çalışmasını kavratır.\n      Bir fazlı senkron motoru çalıştırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Bir  fazlı   AC  senkron  motorları  tekniğine uygun olarak çalıştırır.\nBir fazlı senkron motorun özelliklerini çeşitlerini çalışmasını kavratır.\n      Bir fazlı senkron motoru çalıştırır."
     },
     {
       "AY": "MART",
@@ -236,7 +241,8 @@
       "SAAT": "3",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -244,8 +250,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Motorlar",
       "KONU": "2. Bir fazlı AC asenkron motorları çalıştırma.",
-      "KAZANIM": "Bir     fazlı     asenkron     motorun     özelliklerini çeşitlerini çalışmasını kavratır.\n      Bir fazlı asenkron motoru çalıştırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Bir  fazlı  AC  asenkron  motorları  tekniğine uygun olarak çalıştırır.\nBir     fazlı     asenkron     motorun     özelliklerini çeşitlerini çalışmasını kavratır.\n      Bir fazlı asenkron motoru çalıştırır."
     },
     {
       "AY": "MART",
@@ -253,8 +259,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Motorlar",
       "KONU": "3. Üç fazlı AC senkron motorları çalıştırma.",
-      "KAZANIM": "Üç fazlı senkron motorun özelliklerini çeşitlerini çalışmasını kavratır.\n      Üç fazlı senkron motoru çalıştırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Üç  fazlı   AC  senkron  motorları  tekniğine uygun olarak çalıştırır.\nÜç fazlı senkron motorun özelliklerini çeşitlerini çalışmasını kavratır.\n      Üç fazlı senkron motoru çalıştırır."
     },
     {
       "AY": "NISAN",
@@ -262,8 +268,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Motorlar",
       "KONU": "4. Üç fazlı AC asenkron motorları çalıştırma.",
-      "KAZANIM": "Üç     fazlı     asenkron     motorun     özelliklerini çeşitlerini çalışmasını kavratır.\n      Üç fazlı asenkron motoru çalıştırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Üç  fazlı  AC  asenkron  motorları  tekniğine uygun olarak çalıştırır.\nÜç     fazlı     asenkron     motorun     özelliklerini çeşitlerini çalışmasını kavratır.\n      Üç fazlı asenkron motoru çalıştırır."
     },
     {
       "AY": "NISAN",
@@ -271,8 +277,8 @@
       "SAAT": "3",
       "ÜNİTE": "AC Motorlar",
       "KONU": "5. Çeşitli yöntemlerle döner alan oluşturma.",
-      "KAZANIM": "Döner  alan  oluşturma  yöntem  ve  gereklerini kavratır.\n      Kondansatör  ve  endüksiyon  bobininin  döner alan oluşturmadaki rolünü kavratır.\n      Kondansatör  ve  endüksiyon  bobininin  döner alan oluşturduğu bir fazlı AC motoru çalıştırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Döner  alan  üretme  yöntemlerini  tekniğine uygun olarak kavrar.\nDöner  alan  oluşturma  yöntem  ve  gereklerini kavratır.\n      Kondansatör  ve  endüksiyon  bobininin  döner alan oluşturmadaki rolünü kavratır.\n      Kondansatör  ve  endüksiyon  bobininin  döner alan oluşturduğu bir fazlı AC motoru çalıştırır."
     },
     {
       "AY": "NISAN",
@@ -280,8 +286,8 @@
       "SAAT": "3",
       "ÜNİTE": "Servomekanizma Sisteminin Analizi",
       "KONU": "1. Servomekanizma sistemlerine ait temel terimleri açıklama.",
-      "KAZANIM": "Servomekanizma     açık     ve    kapalı     çevrim kavramlarını elemanlarını kavratır.\n      Açık ve kapalı çevrimli devreleri çalıştırır.\n      Çeşitli       geri      beslemeli       servomekanizma devrelerini çalıştırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Servomekanizma sistemlerinde geçen temel terimleri açıklar.\nServomekanizma     açık     ve    kapalı     çevrim kavramlarını elemanlarını kavratır.\n      Açık ve kapalı çevrimli devreleri çalıştırır.\n      Çeşitli       geri      beslemeli       servomekanizma devrelerini çalıştırır."
     },
     {
       "AY": "NISAN",
@@ -289,8 +295,8 @@
       "SAAT": "3",
       "ÜNİTE": "Servomekanizma Sisteminin Analizi",
       "KONU": "2. Servomekanizma sistemlerini çalıştırma.",
-      "KAZANIM": "Senkro      sistem      elemanlarını      çeşitlerini özelliklerini kavratır.\n      Akım      gerilim      transformatörlerinin      devre bağlantısını ve ölçme işlemlerini gerçekleştirir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Servomekanizma sistemlerini çalıştırır.\nSenkro      sistem      elemanlarını      çeşitlerini özelliklerini kavratır.\n      Akım      gerilim      transformatörlerinin      devre bağlantısını ve ölçme işlemlerini gerçekleştirir."
     },
     {
       "AY": "MAYIS",
@@ -298,8 +304,8 @@
       "SAAT": "3",
       "ÜNİTE": "Servomekanizma Sisteminin Analizi",
       "KONU": "3. Servomekanizma sistemlerindeki hataları giderme.",
-      "KAZANIM": "Senkro    sistem     hatalarını     ve    doğabilecek problemleri tanıtır.\n      Hata  bulma  ve  sorun  giderme  yöntemlerini kavratır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Servomekanizma      sistemlerinde      oluşan hataları giderir.\nSenkro    sistem     hatalarını     ve    doğabilecek problemleri tanıtır.\n      Hata  bulma  ve  sorun  giderme  yöntemlerini kavratır."
     },
     {
       "AY": "MAYIS",
@@ -307,8 +313,8 @@
       "SAAT": "3",
       "ÜNİTE": "Uçak Elektriksel Güç Ünitelerinin Bakımı",
       "KONU": "1. Uçakta  AC ve DC güç oluşturma.",
-      "KAZANIM": "AC-DC güç kaynaklarını özelliklerini bakım  ve kontrol yöntemlerini kavratır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Uçak  Bakım  El  Kitabı  AMM  ve  ATA  24e göre  AC  ve  DC  güç  kaynaklarının  bakımını yapar\nAC-DC güç kaynaklarını özelliklerini bakım  ve kontrol yöntemlerini kavratır."
     },
     {
       "AY": "MAYIS",
@@ -316,8 +322,8 @@
       "SAAT": "3",
       "ÜNİTE": "Uçak Elektriksel Güç Ünitelerinin Bakımı",
       "KONU": "1. Uçakta  AC ve DC güç oluşturma.",
-      "KAZANIM": "Uçaklarda   bulunan   AC-DC   güç   kaynaklarını çalıştırır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Uçak  Bakım  El  Kitabı  AMM  ve  ATA  24e göre  AC  ve  DC  güç  kaynaklarının  bakımını yapar\nUçaklarda   bulunan   AC-DC   güç   kaynaklarını çalıştırır."
     },
     {
       "AY": "MAYIS",
@@ -325,8 +331,8 @@
       "SAAT": "3",
       "ÜNİTE": "Uçak Elektriksel Güç Ünitelerinin Bakımı",
       "KONU": "1. Uçakta  AC ve DC güç oluşturma.",
-      "KAZANIM": "Uçaklarda   bulunan   TR-   İnvertör-Acil   durum jeneratörü    gibi    kaynak    ve    dönüştürücüleri çalıştırır test ve kontrol işlemlerini gerçekleştirir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Uçak  Bakım  El  Kitabı  AMM  ve  ATA  24e göre  AC  ve  DC  güç  kaynaklarının  bakımını yapar\nUçaklarda   bulunan   TR-   İnvertör-Acil   durum jeneratörü    gibi    kaynak    ve    dönüştürücüleri çalıştırır test ve kontrol işlemlerini gerçekleştirir."
     },
     {
       "AY": "HAZIRAN",
@@ -334,8 +340,8 @@
       "SAAT": "3",
       "ÜNİTE": "Uçak Elektriksel Güç Ünitelerinin Bakımı",
       "KONU": "2. Elektriksel güç sistem elemanlarının bakım onarımını yapma.",
-      "KAZANIM": "Bataryaların    kontrol    bakım    şarj    ve    test yöntemlerini kavratır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Uçak Bakım El Kitabı AMM ve ATA 24e göre elektriksel güç sistem elemanlarının bakımını yapar.\nBataryaların    kontrol    bakım    şarj    ve    test yöntemlerini kavratır."
     },
     {
       "AY": "HAZIRAN",
@@ -343,8 +349,8 @@
       "SAAT": "3",
       "ÜNİTE": "Uçak Elektriksel Güç Ünitelerinin Bakımı",
       "KONU": "2. Elektriksel güç sistem elemanlarının bakım onarımını yapma.",
-      "KAZANIM": "Batarya kontrol ve şarj işlemini yapar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Uçak Bakım El Kitabı AMM ve ATA 24e göre elektriksel güç sistem elemanlarının bakımını yapar.\nBatarya kontrol ve şarj işlemini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -352,8 +358,8 @@
       "SAAT": "3",
       "ÜNİTE": "Uçak Elektriksel Güç Ünitelerinin Bakımı",
       "KONU": "2. Elektriksel güç sistem elemanlarının bakım onarımını yapma.",
-      "KAZANIM": "Harici   güç   kaynaklarını   kavratır   ve   uçağa bağlatır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Uçak Bakım El Kitabı AMM ve ATA 24e göre elektriksel güç sistem elemanlarının bakımını yapar.\nHarici   güç   kaynaklarını   kavratır   ve   uçağa bağlatır."
     },
     {
       "AY": "HAZIRAN",
@@ -361,7 +367,8 @@
       "SAAT": "3",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

@@ -8,7 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Elektrik ve İletkenler",
       "KONU": "1.1. Elektrik Enerjisi ve Önemi\n1.1.1. Elektriğin Uygulama Alanları \n1.1.2. Elektrik Enerjisinin Avantajları",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1.Elektrik enerjisi ve önemini açıklar."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "2",
       "ÜNİTE": "1. Elektrik ve İletkenler",
       "KONU": "1.2. Elektrikte Güvenli Çalışma Kralları\n1.2.1. Güvenlik Önlemleri \n1.2.2. Elektrik Enerjisinin İnsan Üzerindeki Etkileri\n1.2.3. Elektrik enerjisinin Güvenli Kullanımı",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "2.Elektrikte güvenli çalışma kurallarını açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "1. Elektrik ve İletkenler",
-      "KONU": "1.3. Elektrik enerjisi ve taşınmasını İletimi\n1.3.1. Maddenin Elektriksel Yapısı\n1.3.2. Madde Element ve Atom Kavramı\n1.3.3. İletken ve Yalıtkan Kavramı \n1.3.4. Elektrik Enerjisinin İletimi"
+      "KONU": "1.3. Elektrik enerjisi ve taşınmasını İletimi\n1.3.1. Maddenin Elektriksel Yapısı\n1.3.2. Madde Element ve Atom Kavramı\n1.3.3. İletken ve Yalıtkan Kavramı \n1.3.4. Elektrik Enerjisinin İletimi",
+      "KAZANIM": "3.Elektrik enerjisi ve taşınmasını İletimi açıklar."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Elektrik ve İletkenler",
       "KONU": "1.4. Akım şiddeti ve iletken direnç ölçümü\n1.4.1. İletken Direncini Etkileyen Faktmrler\n1.4.2. Direnç Değerinin İletkenin Boyu ile Değişimi\n1.4.3. Direnç Değerinin İletkenin Kesiti ile Değişimi\n1.4.4. Direnç Değerinin İletkenin Cinsi ile Değişimi\n1.4.5. İletken direncinin Sıcaklıkla Değişimi\n1.4.6. Akım Şiddetine Uygun İletken Seçimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "4.Akım şiddeti ve iletken direnç ölçümü yapar."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "2",
       "ÜNİTE": "2. İletkenleri Birleştirme",
       "KONU": "2.1. İletkenleri ve kablo çeşitleri\n2.1.1. İletkenlerin Sınıflandırılması\n2.1.1.1. Çıplak İletkenler\n2.1.1.2. Yalıtılmış İletkenler\n2.1.2. Kablo Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "1. İletkenleri ve kablo çeşitlerini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "2. İletkenleri Birleştirme",
-      "KONU": "2.2. İletkenlerin kesme ve bükme işinde kullanılan aletler"
+      "KONU": "2.2. İletkenlerin kesme ve bükme işinde kullanılan aletler",
+      "KAZANIM": "2. İletkenlerin kesme ve bükme işinde kullanılan aletleri seçer."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "2. İletkenleri Birleştirme",
-      "KONU": "2.3. İletkenleri birleştirme\n2.3.1. İletken veya Yalıtkanın Soyulması ve Soyma İşinde Kullanılan Aletler"
+      "KONU": "2.3. İletkenleri birleştirme\n2.3.1. İletken veya Yalıtkanın Soyulması ve Soyma İşinde Kullanılan Aletler",
+      "KAZANIM": "3. İletkenleri birleştirme için hazırlık yapar."
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. İletkenleri Birleştirme",
       "KONU": "2.3. İletkenleri birleştirme\n2.3.1. İletken veya Yalıtkanın Soyulması ve Soyma İşinde Kullanılan Aletler",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "4. İletkenlere kablo pabucu takar ve iletkenleri klemense birleştirir."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. İletkenleri Birleştirme",
       "KONU": "2.4. İletkenleere Kablo Pabucu Takma ve Klemense Birleştirme\n2.4.1. Kablo Pabucu\n2.4.2. Klemens ve Çeşitleri\n1.DÖNEM 1. YAZILI YOKLAMA",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 5. İletkenleri T ve düz ek ile birleştirme yapar."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. İletkenleri Birleştirme",
       "KONU": "2.4. İletkenleere Kablo Pabucu Takma ve Klemense Birleştirme\n2.4.1. Kablo Pabucu\n2.4.2. Klemens ve Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "6. İletkenlere lehimleme işlemi yapar."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Elektrik Malzemeleri",
       "KONU": "3.1. Elektrik Malzemeleri\n3.1.1. Pirizler Fişler Duylar ve Sigortalar\n3.1.2. Lambalar ve Aydınlatma Armatürleri\n3.1.3. Tesisat Anahtarları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "1. Elektrik malzemelerini açıklar."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Elektrik Malzemeleri",
       "KONU": "3.2. Elektrik malzemelerin bağlantısı\n3.2.1. Kablo Pabucu",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "2. Elektrik malzemelerin bağlantısını yapar."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Elektrik Malzemeleri",
       "KONU": "3.3. Topraklama ve Sıfırlama\n3.3.1. Topraklama\n3.3.2. Topraklama Çeşitleri ve Elemanları\n3.3.3. Topraklayıcı Çeşitleri\n3.3.4. Sıfırlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "3. Topraklama ve sıfırlama işlemi yapar."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Elektrik ve Devre Kavramı",
       "KONU": "4.1. Elektrik Devresi\n4.1.1. Elektriğin Gereği ve Önemi\n4.1.2. Elektrik Enerjisi\n4.1.3. elekterik Enerjisi ve Kaynakları",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "1. Elektrik devresini açıklar."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "2",
       "ÜNİTE": "4. Elektrik ve Devre Kavramı",
       "KONU": "4.2. Elektrik Devre Çeşitleri\n4.2.1. Elektrik Devresi\n4.2.2. Yapısına Göre Elektrik Devre Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "2. Elektrik devre çeşitlerini açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "4. Elektrik ve Devre Kavramı",
-      "KONU": "4.3. Almaçla üretecin bağlantı şekline göre devreler\n4.3.1. Elektrik Devresi Elemanları"
+      "KONU": "4.3. Almaçla üretecin bağlantı şekline göre devreler\n4.3.1. Elektrik Devresi Elemanları",
+      "KAZANIM": "3. Almaçla üretecin bağlantı şekline göre devreleri açıklar."
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "2",
       "ÜNİTE": "4. Elektrik ve Devre Kavramı",
       "KONU": "4.3. Seri ve paralel elektrik  devreler\n4.3.1. Basit Elektrik Devresi Tasarımı\n1.DÖNEM 2. YAZILI YOKLAMA",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 4. Seri ve paralel elektrik  devreleri kurar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "5. Gerilim Akım ve  Direnç Ölçme",
-      "KONU": "5.1. Gerilim Akım ve Direnç\n5.1.1. Elektromotor Kuvvet ve Gerilim \n5.1.2. Ampermetre veya Pens Ampermetre ile Akım Ölçme\n5.1.3. Ohmmetre veya Pens Ampermetre ile Direnç Ölçme"
+      "KONU": "5.1. Gerilim Akım ve Direnç\n5.1.1. Elektromotor Kuvvet ve Gerilim \n5.1.2. Ampermetre veya Pens Ampermetre ile Akım Ölçme\n5.1.3. Ohmmetre veya Pens Ampermetre ile Direnç Ölçme",
+      "KAZANIM": "1. Gerilim akım ve direnci ölçer."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "5. Gerilim Akım ve  Direnç Ölçme",
-      "KONU": "5.2. Doğru Akım Bağlantısı\n5.2.1. Doğru Akım Kaynakları\n5.2.2. Kaynakların Seri Bağlantısı\n5.2.3. Kaynakların Paralel Bağlantısı"
+      "KONU": "5.2. Doğru Akım Bağlantısı\n5.2.1. Doğru Akım Kaynakları\n5.2.2. Kaynakların Seri Bağlantısı\n5.2.3. Kaynakların Paralel Bağlantısı",
+      "KAZANIM": "2. Doğru akım bağlantısı yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "5. Gerilim Akım ve  Direnç Ölçme",
-      "KONU": "5.3. Alternatif Akım Bağlantısı\n5.3.1. Alternatif akım Kaynakları\n5.3.2. Trabsfomatör kullnarak Akım Düşürme\n5.3.2.1. Manyetik Nüve"
+      "KONU": "5.3. Alternatif Akım Bağlantısı\n5.3.1. Alternatif akım Kaynakları\n5.3.2. Trabsfomatör kullnarak Akım Düşürme\n5.3.2.1. Manyetik Nüve",
+      "KAZANIM": "3. Alternatif akım bağlantısı yapar."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "5. Gerilim Akım ve  Direnç Ölçme",
       "KONU": "5.4. Ohm Kanunu\n5.4.1. Gerilim Akım ve Direnç Ölçme",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "4. Ohm kanunu ile hesaplama yapar."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "5. Gerilim Akım ve  Direnç Ölçme",
       "KONU": "5.5. Elektriksel Ölçmede Kullanılan Aletler\n5.5.1. Yapısına Göre Ölçüm Aletleri\n5.5.2. Ölçtüğü Büyüklüğü Gösterme Şekline Göre Ölçüm Aletleri\n5.5.3. Kullanım Yerlerine Göre Ölçüm Aletleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "5. Elektriksel ölçme aletlerini kullanır."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "5. Gerilim Akım ve  Direnç Ölçme",
       "KONU": "5.6. Elektriksel Ölçme Yapma\n5.6.1. Elektriksel Ölçmelerde Voltmetre Kullanımı\n5.6.2. Elektriksel Ölçmelerde ohmmetre Kullanımı\n5.6.3. Elektriksel Ölçmelerde Ampermetre Kullanımı \n5.6.4. Elektriksel Ölçmelerde Pens Wattmetre Kullanımı\n5.6.5. Elektriksel Ölçmelerde Avometre  Kullanımı \n5.6.6. Elektriksel Ölçmelerde Pens Ampermetre Kullanımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "6. Elektriksel ölçme yapar."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. Elektrik Tesisatı Güç ve Isı Etkisi",
       "KONU": "6.1. Elektrik Tesisatında Kullanılan Araç ve Gereçlerin Seçimi\n6.1.1. Elektrik Tesisatı Devre Elemanları",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "1. Elektrik tesisatında kullanılan araç \nve gereçlerin seçimini yapar."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. Elektrik Tesisatı Güç ve Isı Etkisi",
       "KONU": "6.2 Basit Elektrik Tesisat Devreleri \n6.2.1. Aydınlatma Tesisatı Devre Elemanları\n6.2.1.1. Adi Anahtar Devresi\n6.2.1.2. Komütatör Anahtar Devresi\n6.2.1.3. Vaviyen Anahtar Devresi\n6.2.2. Aydınlatma Tesisatı Kolon ve Linye Hattı\n6.2.2.1. Ana Kolon Hattı\n6.2.2.2. Kolon Hattıi\n6.2.2.3. Lincye Hattı\n6.2.2.4. Sorti Hattı",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "2. Basit Elektrik tesisat devresi kurulumu yapar."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. Elektrik Tesisatı Güç ve Isı Etkisi",
       "KONU": "6.3. Elektrik Enerjisinin Isı Etkisi\n6.3.1. Elektrik Enerjisinde Güç Hesabı\n6.3.2. Elektrik Akımının Isı Etkisi Hesabı\n6.3.2.1. Jolule Hesabı",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 3. Elektrik enerjisinin ısı etkisi hesabını yapar."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "6. Elektrik Tesisatı Güç ve Isı Etkisi",
       "KONU": "6.4. Elektriksel Güç Bağlantıları\n6.4.1. Doğru Akım Devrelerinde Güç Hesabı\n6.4.2. Tek Fazlı Alternatif Akım Devrelerinde Güç Hesabı\n6.4.3. Üç Fazlı Alternatif Akım Devrelerinde Güç Hesabı\n2.DÖNEM 1. YAZILI YOKLAMA",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "4. Elektriksel güç bağlantıları hesabı yapar."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. Elektrik Motorları",
       "KONU": "7.1 Tek Fazlı motorların seçimi\n7.1.1. Elektrik Enerjisi ile İlgili Güvenlik Kuralları\n7.1.2. Tek Fazlı Motorlar\n7.1.3. Tek Fazlı Asenkron Motor Çeşitleri  \n7.1.4. Tek Fazlı Motorlarda Hız Kontrolu\n7.1.5. Tek Fazlı  Motorların Kullanım Alanları\n7.1.6. Tek Fazlı  Motorlarda Yol Vericiler",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "1. Tek fazlı motorların seçimini yapar."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. Elektrik Motorları",
       "KONU": "7.2. Fazların Sırasını Belirleme\n7.2.1. Elektrik Enerjisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "2.  Fazların sırasını tespit eder."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. Elektrik Motorları",
       "KONU": "7.2.2. Fazlı Kavramı\n7.2.3. Faz Sırasının Önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "2.  Fazların sırasını tespit eder."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. Elektrik Motorları",
       "KONU": "7.3 Üç Fazlı motor Bağlantıları\n7.3.1. Üç Fazlı Motorların Terminal Bağlantısı   \n7.3.1.1. Yıldız Bağlantı \n7.3.1.2. Üçgen Bağlantı\n7.3.2. Üç Fazlı Asenkron Motorlar\n7.3.3. Üç Fazlı Motora Yol Vericiler \n7.3.4. Tek Fazlı  Asenkron Motorlarda Dönüş Yolu Değiştirme İşlemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "3. Üç fazlı motor bağlantıları yapar."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "7. Elektrik Motorları",
       "KONU": "7.4 BLDC inverter motorlar\n7.4.1. BLDC inverter motorlarda Elektrik Bağlantıları \n7.4.1.1. BLDC inverter motorların Avantajları ve Dezavantajları\n7.4.1.2. BLDC inverter motorların Kullanım Alanları\n7.4.1.3. BLDC inverter motorlar Sürücü Bağlantıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "4. BLDC inverter motorları devreye alır."
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "8. Basit Otomatik Kontrol Devreleri",
       "KONU": "8.1. Basit otomatik mekanik kontrollü Devre\n8.1.1. Mekanik Butonlu Devreler\n8.1.2. Otomatik Kontrollu Devreler\n8.1.3. Mekanik Butonlar ve Şalterler\n8.1.4. Elektromekanik Sistemler",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "1. Basit otomatik mekanik kontrollü devreyi açıklar."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "8. Basit Otomatik Kontrol Devreleri",
       "KONU": "8.2. Basit otomatik  mekanik kontrollü devre kurulumu\n8.2.1. Devre Elemanlarının Seçimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 2. Basit otomatik mekanik kontrollü devre kurulumu yap"
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "8. Basit Otomatik Kontrol Devreleri",
       "KONU": "8.3. Termostatlı kontrollü ve basınç prosestatlı basit devre\n8.3.1. Termostat Kontrollu Devreler\n8.3.2. Termostatik  Kontrollu Devreler\n8.3.3. Termostatik Kumanda Devreleri\n2.DÖNEM 2. YAZILI YOKLAMA",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "3. Termostatlı kontrollü ve basınç prosestatlı basit devre kurulumunu açıklar."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "8. Basit Otomatik Kontrol Devreleri",
       "KONU": "8.4. Termostat Kontrollü Devre Kurulumu",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "4. Termostat kontrollü devre kurar."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

@@ -8,8 +8,8 @@
       "SAAT": "4",
       "ÜNİTE": "Satın Alma",
       "KONU": "1.   Satın Alma",
-      "KAZANIM": "-       İhtiyaç istek mal hizmet değer fiyat para gelir tüketim tüketici tasarruf tüketici bilinci bilinçli tüketici sürdürülebilir tüketim çevre dostu tüketim vb. kavramlar açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Satın almayı etkileyen temel kavramları açıklar.\n-       İhtiyaç istek mal hizmet değer fiyat para gelir tüketim tüketici tasarruf tüketici bilinci bilinçli tüketici sürdürülebilir tüketim çevre dostu tüketim vb. kavramlar açıklanır."
     },
     {
       "AY": "EYLÜL",
@@ -17,7 +17,8 @@
       "SAAT": "4",
       "ÜNİTE": "Satın Alma",
       "KONU": "2.   Satın Alma İlkeleri",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Bilinçli satın alma ilkelerini açıklar."
     },
     {
       "AY": "EYLÜL",
@@ -25,7 +26,7 @@
       "SAAT": "4",
       "ÜNİTE": "Satın Alma",
       "KONU": "3.   Alışverişte Dikkat Edilmesi Gereken Hususlar",
-      "KAZANIM": "-       Alışveriş kavramı tanımlanır."
+      "KAZANIM": "Alışverişte dikkat edilmesi gereken hususları açıklar.\n-       Alışveriş kavramı tanımlanır."
     },
     {
       "AY": "EYLÜL",
@@ -33,7 +34,8 @@
       "SAAT": "4",
       "ÜNİTE": "Satın Alma",
       "KONU": "4.   Elektrikli Ev Araçları Satın Alma",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Tüketiciye giyim eşyası satın alma sürecinde önerilerde bulunur."
     },
     {
       "AY": "EKIM",
@@ -41,14 +43,16 @@
       "SAAT": "4",
       "ÜNİTE": "Satın Alma",
       "KONU": "5.   Temizlik Maddesi Satın Alma",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Tüketiciye elektrikli ev araçları satın alma sürecinde önerilerde bulunur."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
       "ÜNİTE": "Satın Alma",
-      "KONU": "6.   Gıda Maddeleri Satı Alma"
+      "KONU": "6.   Gıda Maddeleri Satı Alma",
+      "KAZANIM": "Tüketiciye temizlik maddesi satın alma sürecinde önerilerde bulunur.Tüketiciye gıda maddesi satın alma sürecinde önerilerde bulunur."
     },
     {
       "AY": "EKIM",
@@ -56,7 +60,7 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "1.   Tüketici Satın Alma Karar Süreci",
-      "KAZANIM": "-       Tüketici karar alma süreci aşamaları açıklanır."
+      "KAZANIM": "Tüketici satın alma karar sürecini açıklar.\n-       Tüketici karar alma süreci aşamaları açıklanır."
     },
     {
       "AY": "EKIM",
@@ -64,8 +68,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "4.   Tüketici Davranışlarını Etkileyen Faktörler",
-      "KAZANIM": "-       Tüketici davranışlarını etkileyen faktörler açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Tüketici davranışlarını etkileyen faktörlerin ana hatlarını gösterir.\n-       Tüketici davranışlarını etkileyen faktörler açıklanır."
     },
     {
       "AY": "KASIM",
@@ -73,8 +77,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "2.   Aile ve Hane Halkının Satın Alma Karar Süreci Üzerindeki Etkileri",
-      "KAZANIM": "-       Eşlerin çocukların satın alma üzerindeki etkileri açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Aile ve hane halkının satın alma karar süreci üzerindeki etkilerini açıklar.\n-       Eşlerin çocukların satın alma üzerindeki etkileri açıklanır."
     },
     {
       "AY": "KASIM",
@@ -82,7 +86,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -90,8 +95,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "2.   Aile ve Hane Halkının Satın Alma Karar Süreci Üzerindeki Etkileri",
-      "KAZANIM": "-       Eşlerin çocukların satın alma üzerindeki etkileri açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Aile ve hane halkının satın alma karar süreci üzerindeki etkilerini açıklar.\n-       Eşlerin çocukların satın alma üzerindeki etkileri açıklanır."
     },
     {
       "AY": "KASIM",
@@ -99,8 +104,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "4.   Tüketici Davranışlarını Etkileyen Faktörler",
-      "KAZANIM": "-       Tüketicilerin satın alma biçimlerine göre sınıflandırılması yapılır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Tüketici davranışlarını etkileyen faktörlerin ana hatlarını gösterir.\n-       Tüketicilerin satın alma biçimlerine göre sınıflandırılması yapılır."
     },
     {
       "AY": "ARALIK",
@@ -108,8 +113,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "2.   Aile ve Hane Halkının Satın Alma Karar Süreci Üzerindeki Etkileri",
-      "KAZANIM": "-       Ailenin sosyoekonomik ve kültürel düzeyin satın alma sürecindeki etkileri açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Aile ve hane halkının satın alma karar süreci üzerindeki etkilerini açıklar.\n-       Ailenin sosyoekonomik ve kültürel düzeyin satın alma sürecindeki etkileri açıklanır."
     },
     {
       "AY": "ARALIK",
@@ -117,8 +122,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "3.   Tüketici Davranışları",
-      "KAZANIM": "-       Tüketici davranışları tanımlanır.\n-       Tüketici davranış özellikleri açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Tüketici davranış özelliklerini ve çeşitlerini açıklar.\n-       Tüketici davranışları tanımlanır.\n-       Tüketici davranış özellikleri açıklanır."
     },
     {
       "AY": "ARALIK",
@@ -126,8 +131,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "4.   Tüketici Davranışlarını Etkileyen Faktörler",
-      "KAZANIM": "-       Tüketicilerin tutum ve davranışlarına göre sınıflandırılması yapılır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Tüketici davranışlarını etkileyen faktörlerin ana hatlarını gösterir.\n-       Tüketicilerin tutum ve davranışlarına göre sınıflandırılması yapılır."
     },
     {
       "AY": "ARALIK",
@@ -135,8 +140,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "2.   Aile ve Hane Halkının Satın Alma Karar Süreci Üzerindeki Etkileri",
-      "KAZANIM": "-       Ailenin sosyoekonomik ve kültürel düzeyin satın alma sürecindeki etkileri açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Aile ve hane halkının satın alma karar süreci üzerindeki etkilerini açıklar.\n-       Ailenin sosyoekonomik ve kültürel düzeyin satın alma sürecindeki etkileri açıklanır."
     },
     {
       "AY": "ARALIK",
@@ -144,7 +149,7 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "4.   Tüketici Davranışlarını Etkileyen Faktörler",
-      "KAZANIM": "-       Gelişen trendlerin tüketici davranışlarına etkisi ve yeni tüketici kavramı açıklanır."
+      "KAZANIM": "Tüketici davranışlarını etkileyen faktörlerin ana hatlarını gösterir.\n-       Gelişen trendlerin tüketici davranışlarına etkisi ve yeni tüketici kavramı açıklanır."
     },
     {
       "AY": "OCAK",
@@ -152,29 +157,32 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "4.   Tüketici Davranışlarını Etkileyen Faktörler",
-      "KAZANIM": "-       Gelişen trendlerin tüketici davranışlarına etkisi ve yeni tüketici kavramı açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Tüketici davranışlarını etkileyen faktörlerin ana hatlarını gösterir.\n-       Gelişen trendlerin tüketici davranışlarına etkisi ve yeni tüketici kavramı açıklanır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
@@ -182,7 +190,7 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Karar Süreci",
       "KONU": "2.   Aile ve Hane Halkının Satın Alma Karar Süreci Üzerindeki Etkileri",
-      "KAZANIM": "-       Ailenin sosyoekonomik ve kültürel düzeyin satın alma sürecindeki etkileri açıklanır."
+      "KAZANIM": "Aile ve hane halkının satın alma karar süreci üzerindeki etkilerini açıklar.\n-       Ailenin sosyoekonomik ve kültürel düzeyin satın alma sürecindeki etkileri açıklanır."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +198,7 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "1.   Tüketici Profilleri",
-      "KAZANIM": "-       Tüketici ve müşteri kavramları tanımlanır."
+      "KAZANIM": "Tüketici profillerini eğilimlerini açıklar.\n-       Tüketici ve müşteri kavramları tanımlanır."
     },
     {
       "AY": "ŞUBAT",
@@ -198,7 +206,7 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "1.   Tüketici Profilleri",
-      "KAZANIM": "-       Tüketici ve müşteri kavramları tanımlanır."
+      "KAZANIM": "Tüketici profillerini eğilimlerini açıklar.\n-       Tüketici ve müşteri kavramları tanımlanır."
     },
     {
       "AY": "ŞUBAT",
@@ -206,8 +214,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "3.   ÇocukGenç Tüketicilerin Sosyalleşmesi",
-      "KAZANIM": "-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Çocuk gencin tüketici olarak sosyalleşmesinde etkili olan faktörleri analiz eder.\n-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır."
     },
     {
       "AY": "MART",
@@ -215,7 +223,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "2.   Tüketici Davranışlarını Etkileyen Faktörler",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Tüketicileri davranışlarını etkileyen psikolojik sosyokültürel ve demografik faktörleri analiz eder."
     },
     {
       "AY": "MART",
@@ -223,8 +232,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "1.   Tüketici Profilleri",
-      "KAZANIM": "-       Tüketici ve müşteri kavramları arasındaki fark açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Tüketici profillerini eğilimlerini açıklar.\n-       Tüketici ve müşteri kavramları arasındaki fark açıklanır."
     },
     {
       "AY": "MART",
@@ -232,7 +241,8 @@
       "SAAT": "4",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -240,8 +250,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "3.   ÇocukGenç Tüketicilerin Sosyalleşmesi",
-      "KAZANIM": "-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Çocuk gencin tüketici olarak sosyalleşmesinde etkili olan faktörleri analiz eder.\n-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır."
     },
     {
       "AY": "MART",
@@ -249,8 +259,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "3.   ÇocukGenç Tüketicilerin Sosyalleşmesi",
-      "KAZANIM": "-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Çocuk gencin tüketici olarak sosyalleşmesinde etkili olan faktörleri analiz eder.\n-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır."
     },
     {
       "AY": "NISAN",
@@ -258,8 +268,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "1.   Tüketici Profilleri",
-      "KAZANIM": "-       Tüketici ve müşteri kavramları arasındaki fark açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Tüketici profillerini eğilimlerini açıklar.\n-       Tüketici ve müşteri kavramları arasındaki fark açıklanır."
     },
     {
       "AY": "NISAN",
@@ -267,8 +277,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "3.   ÇocukGenç Tüketicilerin Sosyalleşmesi",
-      "KAZANIM": "-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Çocuk gencin tüketici olarak sosyalleşmesinde etkili olan faktörleri analiz eder.\n-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır."
     },
     {
       "AY": "NISAN",
@@ -276,8 +286,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "4.   Özel Tüketici Grupları",
-      "KAZANIM": "-       Çocuk genç yaşlı engelli düşük gelirli tüketiciler ve bu tüketicilerin pazarlamada karşılaştıkları sorunlar ve tüketici davranışları açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Özel tüketici gruplarının Çocukların gençlerin yaşlı engelli ve düşük gelirli tüketici davranışlarını ve karşılaşılan sorunları açıklar.\n-       Çocuk genç yaşlı engelli düşük gelirli tüketiciler ve bu tüketicilerin pazarlamada karşılaştıkları sorunlar ve tüketici davranışları açıklanır."
     },
     {
       "AY": "NISAN",
@@ -285,8 +295,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "1.   Tüketici Profilleri",
-      "KAZANIM": "-       Tüketici ve müşteri kavramları arasındaki fark açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Tüketici profillerini eğilimlerini açıklar.\n-       Tüketici ve müşteri kavramları arasındaki fark açıklanır."
     },
     {
       "AY": "MAYIS",
@@ -294,8 +304,8 @@
       "SAAT": "4",
       "ÜNİTE": "Özel Tüketici\nGrupları",
       "KONU": "3.   ÇocukGenç Tüketicilerin Sosyalleşmesi",
-      "KAZANIM": "-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Çocuk gencin tüketici olarak sosyalleşmesinde etkili olan faktörleri analiz eder.\n-       Çocuk ve genç tüketicilerin tüketimdeki pazarlamadaki yeri ve önemi açıklanır."
     },
     {
       "AY": "MAYIS",
@@ -303,8 +313,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Hakları",
       "KONU": "1.   Tüketici Haklarının Tarihsel Gelişimi",
-      "KAZANIM": "-       İslam dünyasında ve Osmanlıda tüketici kavramı açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Tüketici haklarının tarihsel gelişimini açıklar.\n-       İslam dünyasında ve Osmanlıda tüketici kavramı açıklanır."
     },
     {
       "AY": "MAYIS",
@@ -312,8 +322,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Hakları",
       "KONU": "1.   Tüketicinin Korunması Kanunu",
-      "KAZANIM": "-       Tüketici korunmasının gereği ve önemi açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Tüketicinin Korunması Kanununu açıklar.Evrensel tüketici haklarını açıklar.Tüketicinin korunmasına ilişkin mevzuatı inceler.Tüketici hizmetlerini tüketici hakları doğrultusunda sunma yöntemlerini açıklar.\n-       Tüketici korunmasının gereği ve önemi açıklanır."
     },
     {
       "AY": "MAYIS",
@@ -321,8 +331,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Hakları",
       "KONU": "1.   Tüketici Haklarının Tarihsel Gelişimi",
-      "KAZANIM": "-       Cumhuriyet döneminde tüketici hakları açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Tüketici haklarının tarihsel gelişimini açıklar.\n-       Cumhuriyet döneminde tüketici hakları açıklanır."
     },
     {
       "AY": "HAZIRAN",
@@ -330,7 +340,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Hakları",
       "KONU": "2.   Evrensel Tüketici Hakları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Evrensel tüketici haklarını açıklar."
     },
     {
       "AY": "HAZIRAN",
@@ -338,8 +349,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Hakları",
       "KONU": "1.   Tüketicinin Korunması Kanunu",
-      "KAZANIM": "-       Tüketicinin korunmasını gerektiren nedenler açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Tüketicinin Korunması Kanununu açıklar.Evrensel tüketici haklarını açıklar.Tüketicinin korunmasına ilişkin mevzuatı inceler.Tüketici hizmetlerini tüketici hakları doğrultusunda sunma yöntemlerini açıklar.\n-       Tüketicinin korunmasını gerektiren nedenler açıklanır."
     },
     {
       "AY": "HAZIRAN",
@@ -347,8 +358,8 @@
       "SAAT": "4",
       "ÜNİTE": "Tüketici Hakları",
       "KONU": "1.   Tüketici Haklarının Tarihsel Gelişimi",
-      "KAZANIM": "-       Tarihte yapılan devlet düzenlemelerinin tüketici üzerindeki etkileri açıklanır.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Tüketici haklarının tarihsel gelişimini açıklar.\n-       Tarihte yapılan devlet düzenlemelerinin tüketici üzerindeki etkileri açıklanır."
     },
     {
       "AY": "HAZIRAN",
@@ -356,7 +367,20 @@
       "SAAT": "4",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "KONU": "Ortam Atölye SınıfDonanım Etkileşimli tahtaprojeksiyon bilgisayar yazıcıtarayıcı konuyla ilgili araç-gereç malzeme sağlanmalıdır."
+    },
+    {
+      "KONU": "Bu     derste     öğrenci    performansı    belirlemeye     yönelik     çalışmalar değerlendirilirken   gözlem   formu   derecelendirme   ölçeği   ve   dereceli puanlama   anahtarı   gibi   ölçme   araçlarından   uygun   olanlar   seçilerek kullanılabilir.  Bunun  yanında  öz  değerlendirme  ve  akran  değerlendirme formları  kullanılarak  öğrencilerin  öğretimin  süreç  boyutuna  katılmaları sağlanabilir."
+    },
+    {
+      "KONU": "Tüketici Karar Süreci 1.   Satın alma sürecinde aile arasında yaşanan çatışma konularıyla ilgili sunu hazırlama2.   Tüketici karar verme süreciyle ilgili pano hazırlama1.   Tüketici tiplerini canlandırma yöntemiyle sunma2.   Genç tüketicilerin satın almadaki rolüyle ilgili sunu hazırlama1.   Çevre dostu tüketimle ilgili sunu hazırlama2.   Özgün bir tasarımla çevre dostu alışveriş çantası filesi hazırlama\nTüketici Hakları 1.   Osmanlıda tüketiciye verilen haklarla ilgili sunu hazırlama2.   Cumhuriyet döneminde tüketiciye verilen haklarla ilgili sunu hazırlama1.   Tüketicinin Korunması Kanunu ile ilgili broşür hazırlama2.   Alo 175 hattıyla ilgili broşür hazırlama"
+    },
+    {
+      "KONU": "* * Bu plan Talim Terbiye Kurulunun yayınladığı Çerçeve Öğretim Programı ve Ders Bilgi Formlarına göre hazırlanmıştır. ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır."
     }
   ]
 }

@@ -8,7 +8,8 @@
       "SAAT": "9",
       "ÜNİTE": "1. İŞ SAĞLIĞI VE GÜVENLİĞİ",
       "KONU": "1. İş sağlığı ve güvenliği\n2. Yangın önleme tedbirleri\n3. Acil durumlar\n4. Çevre koruma\n5. Çalışma alet ve donanımlarının bakımları\n6. Kişisel koruyucu donanımları",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. İş Güvenliği kurallarına uygun olarak çalışma alanını düzenler.\n2. Yangın önleme tedbirlerini alır.\n3. Acil durumları tespit eder.\n4. Çevre koruma ile ilgili tedbirleri alır.\n5. Çalışma alet ve donanımlarının bakımlarını yapar.\n6. Kişisel koruyucu donanımları uygun şekilde kullanır."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "9",
       "ÜNİTE": "2. TEMEL SERVİS\nEKİPMANLARI",
       "KONU": "1. Anahtar çeşitleri\n2. Özel takımlar",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "1. Anahtar takımlarını kullanım yerlerine uygun şekilde kullanır.                                                                                                                                                                                    2. Mesleğe özel el takımlarını kullanım yerlerine uygun şekilde kullanır."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "9",
       "ÜNİTE": "2. TEMEL SERVİS\nEKİPMANLARI",
-      "KONU": "3. Motorlu araç kaldırma sehpalama motorlu araçların alet ve donanımları\n4. Ölçü ve kontrol aletleri ile ölçme kontrol"
+      "KONU": "3. Motorlu araç kaldırma sehpalama motorlu araçların alet ve donanımları\n4. Ölçü ve kontrol aletleri ile ölçme kontrol",
+      "KAZANIM": "3. Motorlu araç kaldırma sehpalama alet ve donanımlarını uygun şekilde kullanır.                                                                                                                                                          4. Ölçü aletleri ile ölçme ve kontrol işlemlerini yapar."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "9",
       "ÜNİTE": "3. TEMEL MEKANİK İŞLEMLERİ",
       "KONU": "1. Kesme\n2. Gönyeleme",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "1. Metal iş parçasını istenilen boyutlarda keser.\n2. Metal iş parçasını eğeleyerek gönyeye getirir."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "9",
       "ÜNİTE": "3. TEMEL MEKANİK İŞLEMLERİ",
       "KONU": "3. Markalama\n4. Taşlama                                                 5. Bileme",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "3. İş parçası üzerine istenilen markalamayı yapar.\n4. El taşlama aleti ile taşlama yapar.\n5. El aletlerinin bileme işlemini yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "9",
       "ÜNİTE": "3. TEMEL MEKANİK İŞLEMLERİ",
-      "KONU": "6. Delik Delme\n7. Kılavuz ile Diş Açma"
+      "KONU": "6. Delik Delme\n7. Kılavuz ile Diş Açma",
+      "KAZANIM": "6. Metal iş parçasına delik deler.\n7. Kılavuz ile delik içine diş açar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "9",
       "ÜNİTE": "3. TEMEL MEKANİK İŞLEMLERİ",
-      "KONU": "8. Pafta ile Diş Açma\n9. Perçinleme\n10. Cıvata Sökme ve Takma"
+      "KONU": "8. Pafta ile Diş Açma\n9. Perçinleme\n10. Cıvata Sökme ve Takma",
+      "KAZANIM": "8. Pafta ile silindir parça üzerine diş açar.                                                                                   9. Perçinleme yaparak metal parçaları birleştirir.\n10. Cıvataları söker ve takar."
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "9",
       "ÜNİTE": "4. MOTOR TERİMLERİ VE MOTORU SENTEYE GETİRME",
       "KONU": "1. İçten yanmalı motorların tanımı\n2. İçten yanmalı motorun genel yapısı ve parçaları\n3. Alternatif motorlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "1. İçten yanmalı motorların tanımı tarihçesi ve kullanıldığı yerleri açıklar.\n2. İçten yanmalı bir motorun genel yapısını oluşturan parçaları sıralar.\n3. Alternatif motorları ve çeşitlerini sıralar."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "9",
       "ÜNİTE": "4. MOTOR TERİMLERİ VE MOTORU SENTEYE GETİRME",
       "KONU": "4. Motor terimleri\n5. Motoru senteye getirme",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 4. Motor terimlerini açıklar.                                                                 5. Motoru senteye getirme işlemini yapar."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "9",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "9",
       "ÜNİTE": "5. SABİT MOTOR PARÇALARI",
       "KONU": "1. Motor Takozlarının Kontrolleri ve Değişimi\n2. Manifoldların Kontrolleri ve Değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "1. Motor bağlantı takozlarının kontrollerini ve değiştirme işlemlerini yapar.\n2. Emme ve egzoz manifoltlarının kontrol ve değişimini yapar."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "9",
       "ÜNİTE": "5. SABİT MOTOR PARÇALARI",
       "KONU": "3. Silindir Kapağı Kontrolleri ve Değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "3. Silindir kapağının kontrollerini ve değişimini yapar."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "9",
       "ÜNİTE": "5. SABİT MOTOR PARÇALARI",
       "KONU": "4. Silindir bloğu kontrolleri ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "4. Silindir bloğunun kontrollerini ve değişimini yapar."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "9",
       "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "KONU": "1. Külbütör mekanizması kontrol ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "1. Külbütör mekanizmasının kontrollerini ve değişimini yapar."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "9",
       "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "KONU": "2. Kam mili kontrol ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "2. Kam milinin kontrollerini ve değişimini yapar."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "9",
       "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "KONU": "3. Zaman ayar mekanizması kontrol ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "3. Zaman ayar mekanizmasının kontrollerini ve değişimini yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "9",
       "ÜNİTE": "6. SUPAP SİSTEMLERİ",
-      "KONU": "4. Supap mekanizmasının kontrollerini ve parça değişimini yapar."
+      "KONU": "4. Supap mekanizmasının kontrollerini ve parça değişimini yapar.",
+      "KAZANIM": "4. Supap mekanizması kontrol ve değişimi"
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "9",
       "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "KONU": "4. Supap mekanizmasının kontrollerini ve parça değişimini yapar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 4. Supap mekanizması kontrol ve değişimi"
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "9",
       "ÜNİTE": "6. SUPAP SİSTEMLERİ",
-      "KONU": "5. Değişken supap zamanlama mekanizmasının kontrollerini ve değişimini yapar."
+      "KONU": "5. Değişken supap zamanlama mekanizmasının kontrollerini ve değişimini yapar.",
+      "KAZANIM": "5. Değişken supap zamanlama mekanizması kontrol ve değişimi"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "9",
       "ÜNİTE": "7. MOTOR DONANIMLARI",
-      "KONU": "1. Motorlarda soğutma sistemi bakım onarım ve kontrolü"
+      "KONU": "1. Motorlarda soğutma sistemi bakım onarım ve kontrolü",
+      "KAZANIM": "1. Motor soğutma sistemlerinin bakım ve onarımını yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "9",
       "ÜNİTE": "7. MOTOR DONANIMLARI",
-      "KONU": "2. Motorlarda yağlama sistemi bakım onarım ve kontrolü"
+      "KONU": "2. Motorlarda yağlama sistemi bakım onarım ve kontrolü",
+      "KAZANIM": "2. Motor yağlama sistemlerinin bakım ve onarımını yapar."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "9",
       "ÜNİTE": "7. MOTOR DONANIMLARI",
       "KONU": "2. Motorlarda yağlama sistemi bakım onarım ve kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "2. Motor yağlama sistemlerinin bakım ve onarımını yapar."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "9",
       "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "KONU": "1. Piston Biyel Mekanizması kontrol ve ölçümü",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "1. Piston-biyel kontrolünü ve değişimini yapar."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "9",
       "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "KONU": "1. Piston Biyel Mekanizması kontrol ve ölçümü",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "1. Piston-biyel kontrolünü ve değişimini yapar."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "9",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "9",
       "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "KONU": "2. Krank mili kontrol ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "2. Krank milinin kontrolünü ve değişimini yapar."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "9",
       "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "KONU": "2. Krank mili kontrol ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "2. Krank milinin kontrolünü ve değişimini yapar."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "9",
       "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "KONU": "3. Krank keçesinin yatakların kontrol ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 3. Krank keçesi ve yatakların kontrolünü ve değişimini yapar."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "9",
       "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "KONU": "3. Krank keçesinin yatakların kontrol ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "3. Krank keçesi ve yatakların kontrolünü ve değişimini yapar."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "9",
       "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "KONU": "4. Volanın kontrol ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "4. Volanın kontrolünü ve değişimini yapar."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "9",
       "ÜNİTE": "9. ARAÇLARDA TEMEL ELEKTRİK İŞLEMLERİ",
       "KONU": "1. Basit Elektrik Devreleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "1. Basit elektrik devre elemanlarının gerilim akım şiddeti direnç değerlerini ölçer."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "9",
       "ÜNİTE": "9. ARAÇLARDA TEMEL ELEKTRİK İŞLEMLERİ",
       "KONU": "2. Seri ve paralel elektrik devreleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "2. Seri ve paralel devrelerde gerilim ve akım şiddetini ölçerek direnç değerini hesaplar."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "9",
       "ÜNİTE": "9. ARAÇLARDA TEMEL ELEKTRİK İŞLEMLERİ",
       "KONU": "3. Elektriğin manyetik ve kimyasal etkisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "3. Elektriğin manyetik ve kimyasal etkisi deneylerini yapar."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "9",
       "ÜNİTE": "10. ARAÇLARDA TEMEL ELEKTRONİK İŞLEMLERİ",
       "KONU": "1. Elektronik Devre Elemanlarının kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "1. Elektronik devre elemanlarının kontrolünü yapar.                                                                                                                                                                                     ATATÜRKün Türk Gençliğine verdiği önemi bilir"
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "9",
       "ÜNİTE": "10. ARAÇLARDA TEMEL ELEKTRONİK İŞLEMLERİ",
       "KONU": "1. Elektronik Devre Elemanlarının kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "1. Elektronik devre elemanlarının kontrolünü yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "9",
       "ÜNİTE": "10. ARAÇLARDA TEMEL ELEKTRONİK İŞLEMLERİ",
       "KONU": "2. Çeşitli Elektronik Devrelerin yapımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 2. Basit elektronik devreler kurar."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "9",
       "ÜNİTE": "11. OTOMOTİV AKÜLERİ",
       "KONU": "1. Akü kontrolleri ve değişimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "1. Akünün kontrolünü ve değişimini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "9",
       "ÜNİTE": "11. OTOMOTİV AKÜLERİ",
       "KONU": "2. Akü Şarj işlemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "2. Aküyü şarj eder."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "9",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

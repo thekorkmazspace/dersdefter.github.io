@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "5",
       "KONU": "ÖĞRENME BİRİMİ OKSİ-GAZ İLE KÖŞE KAYNAĞI1. YATAYDA TELSİZ DIŞ KÖŞE KAYNAĞI YAPMA1.1. Köşe kaynaklarının uygulandığı yerler1.2. Köşe kaynaklarının uygulama pozisyonları",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Yatayda telsiz dış köşe kaynağı yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "5",
       "KONU": "1.3. Köşe kaynağı çeşitleri1.4. Yatayda telsiz dış köşe kaynağı",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Yatayda telsiz dış köşe kaynağı yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "5",
-      "KONU": "2. YATAYDA TELLİ DIŞ KÖŞE KAYNAĞI YAPMA2.1. Yatayda sağdan sola telli dış köşe kaynağının yapılışı"
+      "KONU": "2. YATAYDA TELLİ DIŞ KÖŞE KAYNAĞI YAPMA2.1. Yatayda sağdan sola telli dış köşe kaynağının yapılışı",
+      "KAZANIM": "Yatayda telsiz dış köşe kaynağı yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "5",
       "KONU": "2.2. Yatayda soldan sağa telli dış köşe kaynağının yapılışı",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Yatayda telli dış köşe kaynağı yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "5",
       "KONU": "3. YATAYDA TELLİ İÇ KÖŞE KAYNAĞI YAPMA3.1. Yatayda sağdan sola telli iç köşe kaynağının yapılışı3.2. Yatayda soldan sağa telli iç köşe kaynağının yapılışı",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Yatayda telli iç köşe kaynağı yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "5",
-      "KONU": "4. FLANŞ KAYNAĞI YAPMA4.1. Yatayda sağdan sola flanş kaynağının yapılışı"
+      "KONU": "4. FLANŞ KAYNAĞI YAPMA4.1. Yatayda sağdan sola flanş kaynağının yapılışı",
+      "KAZANIM": "Flanş kaynağı yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "5",
-      "KONU": "4.2. Yatayda soldan sağa flanş kaynağının yapılışı"
+      "KONU": "4.2. Yatayda soldan sağa flanş kaynağının yapılışı",
+      "KAZANIM": "Flanş kaynağı yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "5",
       "KONU": "ÖĞRENME BİRİMİ OKSİ-GAZ İLE BORU VE PROFİLLERİN KAYNAĞI1. KÜÇÜK ÇAPLI BORULARIN ALIN KAYNAĞINI YAPMA1.1. Borunun tanımı1.2. Boruların küt ek kaynağı  1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Küçük çaplı boruların alın kaynağını yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "5",
       "KONU": "1.2.1. Boruları puntalama yöntemleri1.2.2. Boru kaynağında dikkat edilecek hususlar1.2.3. Küt ek kaynak işlemi sırasında üfleç ve kaynak teli açısı1.3. Kaynak dikişini temizleme",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Küçük çaplı boruların alın kaynağını yapar."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "5",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "5",
       "KONU": "2. KÜÇÜK ÇAPLI BORULARIN T KAYNAĞINI YAPMA2.1. Boruların T kaynağı2.2. Ara kesitler2.3. Ara kesit açılmış boruları puntalama",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Küçük çaplı boruların T kaynağı yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "5",
       "KONU": "2.4. T kaynak işlemi sırasında üfleç ve tel açısı2.5. Sızdırmazlık kontrolü2.6. T kaynağı yapma",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Küçük çaplı boruların T kaynağı yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "5",
       "KONU": "3. PROFİLLERE KÜT EK KAYNAĞI YAPMA3.1. Profil borular3.2. Profil boruların alın kaynağı3.3. Yatayda profil boruların küt ek kaynağı yapımı3.4. Sızdırmazlık kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Profillere küt ek kaynağı yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "5",
       "KONU": "4. PROFİLLERE KÖŞE KAYNAĞI YAPMA4.1. Profilleri köşe kaynağı için hazırlama 4.2. Profilleri köşe oluşturacak şekilde puntalama",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Profillere köşe kaynağı yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "5",
       "KONU": "4.3. Üfleç ve tel açısı hareketini vererek ilerleme hızını ayarlayarak kaynak dikişlerini çekme",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Profillere köşe kaynağı yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "5",
       "KONU": "ÖĞRENME BİRİMİ OKSİ-GAZ İLE DİKEY KAYNAKLAR 1. TELLİ DİK KÜT EK KAYNAĞI YAPMA1.1. Parça kalınlığına göre kaynak yönünü belirleme 1.1.1. Aşağıdan yukarıya kaynak 1.1.2. Yukarıdan aşağıya kaynak",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Aşağıdan yukarıya  yukarıdan aşağıya telli dik küt ek kaynağı yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "5",
-      "KONU": "1.2. Dik küt ek kaynağında üfleçtel açıları ve hareketleri 1.3. Üflece doğru kaynak açısı üfleç hareketini vererek telli küt ek kaynağını yapma1.4. Dik kaynak uygulaması sırasında damlayan sıcak maden damlacıklarına karşı tedbir alma 1.Dönem 2.Sınav"
+      "KONU": "1.2. Dik küt ek kaynağında üfleçtel açıları ve hareketleri 1.3. Üflece doğru kaynak açısı üfleç hareketini vererek telli küt ek kaynağını yapma1.4. Dik kaynak uygulaması sırasında damlayan sıcak maden damlacıklarına karşı tedbir alma 1.Dönem 2.Sınav",
+      "KAZANIM": "Aşağıdan yukarıya  yukarıdan aşağıya telli dik küt ek kaynağı yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "5",
       "KONU": "2. YUKARIDAN AŞAĞI TELSİZ DIŞ KÖŞE KAYNAĞI YAPMA2.1. Dış köşe kaynakları2.1.1. Telsiz dış köşe kaynağı işlem basamakları",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Yukarıdan aşağıya telsiz dış köşe kaynağı yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "5",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "5",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "5",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "5",
-      "KONU": "2.1.2. Parça kalınlığına göre kaynak yönünü belirleme 2.1.3. Dik dış köşe kaynağında üflece verilecek açı ve hareketler"
+      "KONU": "2.1.2. Parça kalınlığına göre kaynak yönünü belirleme 2.1.3. Dik dış köşe kaynağında üflece verilecek açı ve hareketler",
+      "KAZANIM": "Yukarıdan aşağıya telsiz dış köşe kaynağı yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "5",
-      "KONU": "3. YUKARIDAN AŞAĞIYA TELLİ DIŞ KÖŞE KAYNAĞI YAPMA3.1. Dış köşe kaynakları3.1.1. Telli dış köşe kaynağı işlem basamakları"
+      "KONU": "3. YUKARIDAN AŞAĞIYA TELLİ DIŞ KÖŞE KAYNAĞI YAPMA3.1. Dış köşe kaynakları3.1.1. Telli dış köşe kaynağı işlem basamakları",
+      "KAZANIM": "Yukarıdan aşağıya telli dış köşe kaynağı yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "5",
-      "KONU": "3.1.2. Parça kalınlığına göre kaynak yönünü belirleme3.1.3. Dik dış köşe kaynağında üflece ve tele verilecek açı ve hareketler"
+      "KONU": "3.1.2. Parça kalınlığına göre kaynak yönünü belirleme3.1.3. Dik dış köşe kaynağında üflece ve tele verilecek açı ve hareketler",
+      "KAZANIM": "Yukarıdan aşağıya telli dış köşe kaynağı yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "5",
       "KONU": "4. TELLİ DİK İÇ KÖŞE KAYNAĞI YAPMA4.1. Telli iç köşe kaynağı4.2. Parça kalınlığına göre kaynak yönünü belirleme",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Telli dik iç köşe kaynağı yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "5",
       "KONU": "4.3. Dik iç köşe kaynağında üflece ile tele verilecek açı ve hareketler4.4. Kapalı haznelerde iç köşe kaynağının sakıncaları",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Telli dik iç köşe kaynağı yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "5",
       "KONU": "5. DİK KONUMDA FLANŞ KAYNAĞI YAPMA5.1. Üflece doğru kaynak açısı ve hareketini vererek kaynağı yapma 5.2. Üfleçteki gaz kaçaklarının kontrolünü yapma5.3. Dik kaynak uygulaması sırasında damlayan sıcak maden damlacıklarına karşı tedbir alma",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Dik konumda flanş kaynağı yapar."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "5",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "5",
       "KONU": "ÖĞRENME BİRİMİ OKSİ-GAZ İLE KORNİŞ VE TAVAN KAYNAKLARI 1. YAN KÜT EK KAYNAĞI YAPMA1.1. Yan Duvar kaynağında üfleç açıları ve hareketleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Yan küt ek kaynağı yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "5",
       "KONU": "1.2. Yan Duvar kaynağında tel açısı ve hareketleri1.3. Üflece doğru kaynak açısı ve hareketlerini vererek kaynağı yapma 2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Yan küt ek kaynağı yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "5",
       "KONU": "2. TAVAN KÜT EK KAYNAĞI YAPMA2.1. Tavan küt kaynağında üfleç açıları ve hareketleri 2.2. Tavan küt kaynağında tel açısı ve hareketleri2.3. Üflece doğru kaynak açısı ve hareketlerini vererek kaynağı yapma",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Tavan küt ek kaynağı yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "5",
       "KONU": "3. TAVAN İÇ KÖŞE KAYNAĞI YAPMA3.1. Tavan iç köşe kaynağında üfleç açıları ve hareketleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Tavan iç köşe kaynağı yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "5",
       "KONU": "3.2. Tavan iç köşe kaynağında tel açısı ve hareketleri3.3. Üflece doğru kaynak açısı ve hareketlerini vererek kaynağı yapma",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Tavan iç köşe kaynağı yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "5",
       "KONU": "ÖĞRENME BİRİMİ OKSİ-GAZ İLE DÖKME DEMİR VE ALÜMİNYUM KAYNAĞI1. OKSİ-GAZ İLE DÖKME DEMİR KAYNAĞI YAPMA1.1. Dökme demirin tanımı1.2. Dökme demirlerin sınıflandırılması1.3. Dökme demirin içerisindeki bazı elementlerin tanıtılması",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Oksi gaz ile dökme demir kaynağı yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "5",
       "KONU": "1.4. Dökme demirlerin kaynağı1.5. Kaynak sonrası soğutma işlemi1.6. Dökme demir kaynağında metalurjik uyum1.7. Kaynatılamayan döküm gereçler",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Oksi gaz ile dökme demir kaynağı yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "5",
       "KONU": "2. OKSİ-GAZ İLE ALÜMİNYUM KAYNAĞI YAPMA2.1. Alaşım2.1.1. Element ve alaşımın tanımı2.1.2. Saf maddenin sakıncaları2.1.3. Alaşımın yararları",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Oksi gaz ile alüminyum kaynağı yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "5",
       "KONU": "2.2. Oksi-gaz ile Alüminyum ve alaşımlarının kaynağı2.2.1. Alüminyumun tanıtılması ve çeşitleri2.2.2. Alüminyum Kaynağı2.3. Alüminyum kaynağında kaynak dikişi temizliğinin önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Oksi gaz ile alüminyum kaynağı yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "5",
       "KONU": "ÖĞRENME BİRİMİ OKSİGAZ İLE BAKIR VE ALAŞIMLARININ KAYNAĞI1. OKSİ-GAZ İLE BAKIR KAYNAĞI YAPMA1.1. Bakırın tanımı ve çeşitleri1.2. Bakır gereçlerin kaynağına etki eden faktörler1.3. Bakır gereçlerin kaynağı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Oksi gaz ile bakır kaynağı yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "5",
       "KONU": "2. OKSİ-GAZ İLE PİRİNÇ KAYNAĞI YAPMA2.1. Pirinç alaşımı ve endüstrideki kullanım alanları2.2. Pirinç gereçlerin kaynağa hazırlığı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Oksi gaz ile prinç kaynağı yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "5",
       "KONU": "2.3. Pirinç gereçlerin kaynağı2.4. Kaynak dikişini çekme 2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Oksi gaz ile prinç kaynağı yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "5",
       "KONU": "3. OKSİ-GAZ İLE BRONZ KAYNAĞI YAPMA3.1. Bronz alaşımı ve endüstrideki kullanım alanları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Oksi gaz ile bronz kaynağı yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "5",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

@@ -8,7 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
       "KONU": "1.1. Çizim Araç Gereçleri\n1.1.1. Teknik Resim Aletleri\n1.1.1.1. Kurşun Kalemler \n1.1.1.2. Silgi ve Silgi Şablonları\n1.1.1.3. Cetveller\n1.1.1.4. Gönyeler \n1.1.1.5. Pergel Takımları\n1.1.1.6. Şablonlar\n1.1.1.7. İletki Açıölçer",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. Teknik resim araç gereçleri ve çizim kâğıtlarını bilir."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
       "KONU": "1.1.1.8. Teknik Resim Masaları\n1.1.1.9. Eğri Cetvelleri Pistole\n1.1.1.10. Rapido Takımları\n1.1.1.11. Yardımcı Çizim Araçları\n1.1.2. Teknik Resim Kâğıtları \n1.1.2.1. Resim Kâğıdı Ölçüleri \n1.1.2.2. Yazı Alanı Antet\n1.1.2.3. Resim Kâğıtlarının Katlanması",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "1. Teknik resim araç gereçleri ve çizim kâğıtlarını bilir."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
-      "KONU": "1.2. Yazılar ve Rakamlar\n1.2.1. Yazı ve Rakamlarda Kullanılan Terimler\n1.2.2. Yazı Standartları"
+      "KONU": "1.2. Yazılar ve Rakamlar\n1.2.1. Yazı ve Rakamlarda Kullanılan Terimler\n1.2.2. Yazı Standartları",
+      "KAZANIM": "1. Teknik resim kurallarına TS EN ISO standartlarına uygun olarak eğik ve dik standart yazı yazar."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
       "KONU": "1.3 Çizgiler ve Çizgi Çeşitleri \n1.3.1. Çizgi Çeşitleri \n1.3.1.1. Sürekli Kalın Çizgi\n1.3.1.2. Sürekli İnce Çizgi \n1.3.1.3. Serbest El Çizgisi\n1.3.1.4. İnce Düz Zikzak Çizgi",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "2. Serbest elle ve çizim takımlarıyla çizgi çalışmaları yapar."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
       "KONU": "1.3.1.5. Kesik Kalın Çizgi \n1.3.1.6. Kesik İnce Çizgi \n1.3.1.7. İnce Noktalı Kesik Çizgi\n1.3.1.8. Uçları Kalın Ortası İnce Çizgi \n1.3.1.9. Kalın Noktalı Kesik Çizgi \n1.3.1.10. İki Noktalı İnce Çizgi\n1.3.2. Çizgileri Kullanırken Dikkat Edilecek Hususlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "2. Serbest elle ve çizim takımlarıyla çizgi çalışmaları yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
-      "KONU": "1.4. Geometrik Şekiller \n1.4.1 Doğrular ve Dikmeler"
+      "KONU": "1.4. Geometrik Şekiller \n1.4.1 Doğrular ve Dikmeler",
+      "KAZANIM": "3. Teknik resim kurallarına uygun olarak geometrik şekiller çizer."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
-      "KONU": "1.4.2. Yaylı Birleştirmeler \n1.4.3. Teğetler\n29Ekim münasebetiyle Atatürkün  Sanatsız kalan  bir milletin hayat damarlarından biri kopmuş demektir.  sözü açıklanacaktır."
+      "KONU": "1.4.2. Yaylı Birleştirmeler \n1.4.3. Teğetler\n29Ekim münasebetiyle Atatürkün  Sanatsız kalan  bir milletin hayat damarlarından biri kopmuş demektir.  sözü açıklanacaktır.",
+      "KAZANIM": "3. Teknik resim kurallarına uygun olarak geometrik şekiller çizer."
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
       "KONU": "1.4.4. Çokgen Çizimleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "3. Teknik resim kurallarına uygun olarak geometrik şekiller çizer."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Geometrik Çizimler",
       "KONU": "1.4.5. Elips ve Oval Çizimleri \n1.4.6. Spiral ve Evolvent Eğrisi Çizimleri\n1.DÖNEM 1. YAZILI YOKLAMA",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 3. Teknik resim kurallarına uygun olarak geometrik şekiller çizer."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
       "KONU": "2.1. İzdüşümler ve Görünüşler\n2.1.1. İzdüşümler \n2.1.2. Temel İzdüşüm Düzlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "1. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait görünüşleri çizer."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
       "KONU": "2.1.3. Cisimlerin İzdüşümleri \n2.1.3.1. Noktanın İzdüşümü \n2.1.3.2. Doğrunun İzdüşümü",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "1. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait görünüşleri çizer."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
       "KONU": "2.1.3.3. Düzlemlerin İzdüşümleri\n2.1.3.4. Geometrik Çizimlerin İzdüşümleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "1. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait görünüşleri çizer."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
       "KONU": "2.1.4. Görünüş Çıkarma\n2.1.4.1. İzdüşüm Düzlemleri ve Bölgeler \n2.1.5. Görünüşler \n2.1.5.1. Görünüş Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "1. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait görünüşleri çizer."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
       "KONU": "2.2. Kesit Görünüşler \n2.2.1. Kesit Düzlemi\n2.2.2. Kesit Alma Kuralları",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "2. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait kesit görünüşleri çizer."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
       "KONU": "2.2.3. Kesit Çeşitleri \n2.2.3.1 Tam Kesit\n2.2.3.2. Yarım Kesit \n2.2.3.3. Kısmi Kesit",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "2. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait kesit görünüşleri çizer."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
-      "KONU": "2.2.3.4. Kademeli Kesit \n2.2.3.5. Döndürülmüş Kesit"
+      "KONU": "2.2.3.4. Kademeli Kesit \n2.2.3.5. Döndürülmüş Kesit",
+      "KAZANIM": "2. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait kesit görünüşleri çizer."
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
       "KONU": "2.2.3.6. Profil Kesit\n1.DÖNEM 2. YAZILI YOKLAMA",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 2. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait kesit görünüşleri çizer."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "2. Görünüş Çıkarma",
-      "KONU": "2.2.3.7. Yerinde Döndürülmüş Kesit\n2.2.4. Kesit Alındığı Halde Taranmayan Parçalar"
+      "KONU": "2.2.3.7. Yerinde Döndürülmüş Kesit\n2.2.4. Kesit Alındığı Halde Taranmayan Parçalar",
+      "KAZANIM": "2. Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait kesit görünüşleri çizer."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
-      "KONU": "3.1. Ölçülendirme\n3.1.1. Ölçülendirme Elemanları \n3.1.2. Ölçülendirme Sistemleri \n3.1.2.1. Fonksiyonlarına Göre Ölçülendirme Sistemleri\n3.1.2.2. Üretimle İlgili Ölçülendirme Sistemleri \n3.1.2.3. Kontrolle İlgili Ölçülendirme Sistemleri \n3.1.3. Ölçülendirme Çeşitleri \n3.1.3.1. Paralel Ölçülendirme\n3.1.3.2. Zincirleme Ölçülendirme\n3.1.3.3. Artan Kademeli Ölçülendirme"
+      "KONU": "3.1. Ölçülendirme\n3.1.1. Ölçülendirme Elemanları \n3.1.2. Ölçülendirme Sistemleri \n3.1.2.1. Fonksiyonlarına Göre Ölçülendirme Sistemleri\n3.1.2.2. Üretimle İlgili Ölçülendirme Sistemleri \n3.1.2.3. Kontrolle İlgili Ölçülendirme Sistemleri \n3.1.3. Ölçülendirme Çeşitleri \n3.1.3.1. Paralel Ölçülendirme\n3.1.3.2. Zincirleme Ölçülendirme\n3.1.3.3. Artan Kademeli Ölçülendirme",
+      "KAZANIM": "1. Resmini çizdiği iş parçalarının ölçülendirme işlemini yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
-      "KONU": "3.1.4. Çizim Geometrilerinin Ölçülendirilmesi \n3.1.4.1. Yarıçapların Ölçülendirilmesi\n3.1.4.2. Çapların Ölçülendirilmesi \n3.1.4.3. Kürelerin Ölçülendirilmesi\n3.1.4.4. Yayların Ölçülendirilmesi\n3.1.4.5. Kare Yüzeylerin Ölçülendirilmesi.\n3.1.4.6. Anahtar Ağzının Ölçülendirilmesi \n3.1.4.7. Dikdörtgen Yüzeylerin Ölçülendirilmesi \n3.1.4.8. Pah ve Havşaların Ölçülendirilmesi\n3.1.4.9. Bölüntüler ve Adımların Ölçülendirilmesi \n3.1.4.10. Eğimlerin Ölçülendirilmesi \n3.1.4.11. Koniklerin Ölçülendirilmesi"
+      "KONU": "3.1.4. Çizim Geometrilerinin Ölçülendirilmesi \n3.1.4.1. Yarıçapların Ölçülendirilmesi\n3.1.4.2. Çapların Ölçülendirilmesi \n3.1.4.3. Kürelerin Ölçülendirilmesi\n3.1.4.4. Yayların Ölçülendirilmesi\n3.1.4.5. Kare Yüzeylerin Ölçülendirilmesi.\n3.1.4.6. Anahtar Ağzının Ölçülendirilmesi \n3.1.4.7. Dikdörtgen Yüzeylerin Ölçülendirilmesi \n3.1.4.8. Pah ve Havşaların Ölçülendirilmesi\n3.1.4.9. Bölüntüler ve Adımların Ölçülendirilmesi \n3.1.4.10. Eğimlerin Ölçülendirilmesi \n3.1.4.11. Koniklerin Ölçülendirilmesi",
+      "KAZANIM": "1. Resmini çizdiği iş parçalarının ölçülendirme işlemini yapar."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
       "KONU": "3.1.5. Ölçekler\n3.1.5.1. Gerçek Ölçek \n3.1.5.2. Büyültme Ölçeği\n3.1.5.3. Küçültme Ölçeği\n3.1.5.4. Kısmi Büyültme Detay Ölçeği\n3.1.5.5. Ölçeklerle İlgili Kurallar",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "1. Resmini çizdiği iş parçalarının ölçülendirme işlemini yapar."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
       "KONU": "3.2. Yüzey İşleme İşaretleri \n3.2.1. Yüzey Pürüzlülüğü \n3.2.2. Yüzey İşleme İşaretleri \n3.2.2.1. Esas Sembol\n3.2.2.2. Talaş Kaldırılan Yüzey Sembolü \n3.2.2.3. Talaş Kaldırılmayan Yüzey Sembolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "2. Resmini çizdiği iş parçalarına ait yüzey pürüzlülük değerlerini uygun sembolleri kullanarak resim üzerinde gösterir."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
       "KONU": "3.2.3 Yüzey Durumlarının Gösterilmesi\n3.2.3.1. Yüzey Pürüzlülüğünün Gösterilmesi\n3.2.3.2. İşleme Metodunun Gösterilmesi\n3.2.3.3. İşleme İzleri Yönünün Gösterilmesi \n3.2.3.4. Yüzey İşleme İşaretlerinin Resim Üzerinde Gösterilmesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "2. Resmini çizdiği iş parçalarına ait yüzey pürüzlülük değerlerini uygun sembolleri kullanarak resim üzerinde gösterir."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
       "KONU": "3.3.1. Boyut Toleransları \n3.3.1.1.Boyut Toleranslarında Kullanılan Genel Kavramlar \n3.3.1.2. ISO Alıştırmaları\n3.3.1.3. Alıştırma Sistemleri\n3.3.1.4. Tolerans Çizelgelerinin Okunması\n3.3.1.5. Sapmaların Gösterilmesi\n3.3.1.6. Tolerans Anteti",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "3. Resmini çizdiği iş parçalarına ait tolerans değerlerini uygun sembolleri kullanarak resim üzerinde gösterir."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
       "KONU": "3.3.2. Şekil ve Konum Toleransları\n3.3.2.1. Tolerans Çerçeveleri \n3.3.2.2. Tolerans Çerçeve Ölçüleri\n3.3.2.3. Tolerans Bölgelerinin Gösterilmesi\n3.3.2.4. Referanslar",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "3. Resmini çizdiği iş parçalarına ait tolerans değerlerini uygun sembolleri kullanarak resim üzerinde gösterir."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
       "KONU": "3.3.3. Şekil ve Konum Toleranslarının Resim Üzerinde Gösterilmesi \n3.3.3.1. Doğrusallık\n3.3.3.2. Düzlemsellik\n3.3.3.3. Dairesellik \n3.3.3.4. Silindiriklik \n3.3.3.5. Bir Çizginin Şekli \n3.3.3.6. Bir Yüzeyin Şekli \n3.3.3.7. Paralellik \n3.3.3.8. Diklik \n3.3.3.9. Eğiklik Açısallık",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 3. Resmini çizdiği iş parçalarına ait tolerans değerlerini uygun sembolleri kullanarak resim üzerinde gösterir."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "3. Ölçülendirme ve Yüzey İşlemleri",
       "KONU": "3.3.3.10. Bir Elemanın Konumu \n3.3.3.11. Ortak Merkezlilik Ortak Eksenlilik \n3.3.3.12. Simetriklik\n3.3.3.13. Yalpalama\n3.3.3.14. Toplam Yalpalama \n3.3.3.15. En Fazla Malzeme \n3.3.3.16. En Az Malzeme\n3.3.3.17. Teorik Boyut\n2.DÖNEM 1. YAZILI YOKLAMA",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "3. Resmini çizdiği iş parçalarına ait tolerans değerlerini uygun sembolleri kullanarak resim üzerinde gösterir."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.1. Kroki Çizimleri\n4.1.1. Kroki Çeşitleri\n4.1.2. Kroki Çiziminde Kullanılan Gereçler",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "1. Standart resim kâğıtlarına çeşitli iş parçalarının kroki resimlerini çizer."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.1.3. Kroki Çiziminde Ölçek \n4.1.4. Kroki Çiziminde Kullanılan Çizgi Çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "1. Standart resim kâğıtlarına çeşitli iş parçalarının kroki resimlerini çizer."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.1.5. Kroki Çizme Yöntemleri\n4.1.5.1. Düz Çizgi Çizme",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "1. Standart resim kâğıtlarına çeşitli iş parçalarının kroki resimlerini çizer."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.1.5.2. Kare Yöntemi ile Daire Çizme \n4.1.5.3. Eksen Çizgileri Yardımı ile Elips Çizme\n4.1.5.4. Paralelkenar Yardımı ile Elips Çizme \n4.1.5.5. Dik İzdüşüm Perspektifi Çizme",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "1. Standart resim kâğıtlarına çeşitli iş parçalarının kroki resimlerini çizer."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.2. Perspektifler\n4.2.1. Paralel Perspektifler\n4.2.1.1. Aksonometrik Perspektif",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "2. Standart resim kâğıtlarına çeşitli iş parçalarının perspektif resimlerini çizer."
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.2.1.2. Eğik Perspektif \n4.2.2. Merkezi Konik Perspektif",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "2. Standart resim kâğıtlarına çeşitli iş parçalarının perspektif resimlerini çizer."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.3. Yapım Resimleri\n4.3.1.Yapım Resminde Bulunması Gereken Özellikler\n4.3.1.1. Görünüş Çıkarma",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 3. Standart resim kâğıtlarına çeşitli iş parçalarının imalat resimlerini çizer."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.3.1.2. Kesit Alma\n4.3.1.3. Ölçülendirme\n4.3.1.4. Toleranslar\n2.DÖNEM 2. YAZILI YOKLAMA",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "3. Standart resim kâğıtlarına çeşitli iş parçalarının imalat resimlerini çizer."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "4. Kroki Perspektif ve Yapım Resmi",
       "KONU": "4.3.1.5. Yüzey İşleme İşaretleri\n4.3.1.6. Yazı Alanı Antet",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "3. Standart resim kâğıtlarına çeşitli iş parçalarının imalat resimlerini çizer."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

@@ -8,7 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.1. ÜNİTE ROBOTİK KAVRAMINA GİRİŞ",
       "KONU": "RK.1.1.1. Robotik Kavramının Tanımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "RK.1.1.1.1. Robotik kavramını açıklar."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.1. ÜNİTE ROBOTİK KAVRAMINA GİRİŞ",
       "KONU": "RK.1.1.2. Robotik Uygulamalarının Günlük Hayata Etkisi",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "RK.1.1.2.1. Robotik uygulamaların günlük hayata katkılarını örnekler üzerinden açıklar.\nRK.1.1.2.2. Robotik uygulamaların günlük hayata olumsuz etkilerini örneklerle açıklar.\nRK.1.1.2.3. Robotik uygulamaların günlük hayattaki riskli yönlerini araştırır."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
-      "KONU": "RK.1.2.1. Algoritma\nRK.1.2.5. Değişken Kavramı"
+      "KONU": "RK.1.2.1. Algoritma\nRK.1.2.5. Değişken Kavramı",
+      "KAZANIM": "RK.1.2.1.1. Algoritma kavramını tanımlar.\nRK.1.2.1.2. Algoritmanın işlem adımlarından oluştuğunu fark eder.\nRK.1.2.1.3. Algoritmanın işlem adımlarının sırasının önemini fark eder.\nRK.1.2.5.1. Değişken kavramının tanımını yapar."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
       "KONU": "RK.1.2.2. Karar Yapıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "RK.1.2.2.1. Karar yapılarının tanımını yapar.\nRK.1.2.2.2. Karar yapılarının kullanım alanlarını açıklar."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
       "KONU": "RK.1.2.3. Döngü Yapıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "RK.1.2.3.1. Döngü kavramının tanımını yapar.\nRK.1.2.3.2. Döngü kavramının kullanım alanlarını açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
-      "KONU": "RK.1.2.4. Veri Türleri"
+      "KONU": "RK.1.2.4. Veri Türleri",
+      "KAZANIM": "RK.1.2.4.1. Veri türlerini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
-      "KONU": "RK.1.2.6. Akış Diyagramı"
+      "KONU": "RK.1.2.6. Akış Diyagramı",
+      "KAZANIM": "RK.1.2.6.1. Akış diyagramı kavramını açıklar.\nRK.1.2.6.2. Akış diyagramında kullanılan sembollerin anlamlarını açıklar.\nRK.1.2.6.3. Bir problemin çözümüne yönelik akış diyagramı oluşturur."
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.1. ÜNİTE ROBOTİK KAVRAMINA GİRİŞ",
       "KONU": "RK.1.1.1. Robotik Kavramının Tanımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "RK.1.1.1.1. Robotik kavramını açıklar."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.1. ÜNİTE ROBOTİK KAVRAMINA GİRİŞ",
       "KONU": "RK.1.1.2. Robotik Uygulamalarının Günlük Hayata Etkisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav RK.1.1.2.1. Robotik uygulamaların günlük hayata katkılarını örnekler üzerinden açıklar.\nRK.1.1.2.2. Robotik uygulamaların günlük hayata olumsuz etkilerini örneklerle açıklar.\nRK.1.1.2.3. Robotik uygulamaların günlük hayattaki riskli yönlerini araştırır."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
       "KONU": "RK.1.2.1. Algoritma\nRK.1.2.5. Değişken Kavramı",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "RK.1.2.1.1. Algoritma kavramını tanımlar.\nRK.1.2.1.2. Algoritmanın işlem adımlarından oluştuğunu fark eder.\nRK.1.2.1.3. Algoritmanın işlem adımlarının sırasının önemini fark eder.\nRK.1.2.5.1. Değişken kavramının tanımını yapar."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
       "KONU": "RK.1.2.2. Karar Yapıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "RK.1.2.2.1. Karar yapılarının tanımını yapar.\nRK.1.2.2.2. Karar yapılarının kullanım alanlarını açıklar."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
       "KONU": "RK.1.2.3. Döngü Yapıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "RK.1.2.3.1. Döngü kavramının tanımını yapar.\nRK.1.2.3.2. Döngü kavramının kullanım alanlarını açıklar."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
       "KONU": "RK.1.2.4. Veri Türleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "RK.1.2.4.1. Veri türlerini açıklar."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.2. ÜNİTE KODLAMAYA GİRİŞ",
       "KONU": "RK.1.2.6. Akış Diyagramı",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "RK.1.2.6.1. Akış diyagramı kavramını açıklar.\nRK.1.2.6.2. Akış diyagramında kullanılan sembollerin anlamlarını açıklar.\nRK.1.2.6.3. Bir problemin çözümüne yönelik akış diyagramı oluşturur."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 1. DÖNEM 1. SINAV",
       "KONU": "SINAV HAFTASI 1. DÖNEM 1. SINAV",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "1. DÖNEM 1. SINAV"
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
-      "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları"
+      "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları",
+      "KAZANIM": "RK.1.3.1.1. Çevrim içi blok tabanlı ortamlara erişim sağlar."
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
       "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav RK.1.3.1.2. Çevrim dışı blok tabanlı geliştirme ortamının kurulumunu yapar.\nRK.1.3.1.3. Blok tabanlı geliştirme ortamının arayüzünü tanır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
-      "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları"
+      "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları",
+      "KAZANIM": "RK.1.3.1.4. Blok tabanlı geliştirme ortamına ait algılayıcıları ayırt eder."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
-      "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları"
+      "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları",
+      "KAZANIM": "RK.1.3.1.4. Blok tabanlı geliştirme ortamına ait algılayıcıları ayırt eder."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
-      "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları"
+      "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları",
+      "KAZANIM": "RK.1.3.1.4. Blok tabanlı geliştirme ortamına ait algılayıcıları ayırt eder."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
       "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "RK.1.3.1.4. Blok tabanlı geliştirme ortamına ait algılayıcıları ayırt eder."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
       "KONU": "RK.1.3.1. Blok Tabanlı Geliştirme Ortamları",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "RK.1.3.1.4. Blok tabanlı geliştirme ortamına ait algılayıcıları ayırt eder."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 1. DÖNEM 2. SINAV",
       "KONU": "SINAV HAFTASI 1. DÖNEM 2. SINAV",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "1. DÖNEM 2. SINAV"
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
       "KONU": "RK.1.3.2. Robotik Kodlama Benzetim Ortamları",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "RK.1.3.2.1. Robotik kodlama benzetim ortamlarını açıklar."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.3. ÜNİTE ROBOTİK KODLAMA ORTAMLARI",
       "KONU": "RK.1.3.2. Robotik Kodlama Benzetim Ortamları",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "RK.1.3.2.1. Robotik kodlama benzetim ortamlarını açıklar."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.4. ÜNİTE ROBOTİK KODLAMA UYGULAMALARINA AİT BİLEŞENLER",
       "KONU": "RK.1.4.1. Donanımsal Bileşenler",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav RK.1.4.1.1. Robotik kodlamada kullanılan elektronik devre elemanlarını tanır."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.4. ÜNİTE ROBOTİK KODLAMA UYGULAMALARINA AİT BİLEŞENLER",
       "KONU": "RK.1.4.1. Donanımsal Bileşenler",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "RK.1.4.1.1. Robotik kodlamada kullanılan elektronik devre elemanlarını tanır."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.4. ÜNİTE ROBOTİK KODLAMA UYGULAMALARINA AİT BİLEŞENLER",
       "KONU": "RK.1.4.1. Donanımsal Bileşenler",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "RK.1.4.1.1. Robotik kodlamada kullanılan elektronik devre elemanlarını tanır."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.4. ÜNİTE ROBOTİK KODLAMA UYGULAMALARINA AİT BİLEŞENLER",
       "KONU": "RK.1.4.1. Donanımsal Bileşenler",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "RK.1.4.1.3. Robotik kodlama uygulamalarında kullanılan algılayıcı türlerini açıklar."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.4. ÜNİTE ROBOTİK KODLAMA UYGULAMALARINA AİT BİLEŞENLER",
       "KONU": "RK.1.4.1. Donanımsal Bileşenler",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "RK.1.4.1.3. Robotik kodlama uygulamalarında kullanılan algılayıcı türlerini açıklar."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.4. ÜNİTE ROBOTİK KODLAMA UYGULAMALARINA AİT BİLEŞENLER",
       "KONU": "RK.1.4.1. Donanımsal Bileşenler",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "RK.1.4.1.2. Elektronik devre kartlarının sistem girdi işlem çıktı bileşenlerini açıklar."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 2. DÖNEM 1. SINAV",
       "KONU": "SINAV HAFTASI 2. DÖNEM 1. SINAV",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "2. DÖNEM 1. SINAV"
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.5. ÜNİTE FARKLI ORTAMLARDA ROBOTİK DEVRE TASARIMI",
       "KONU": "RK.1.5.1. Robotik Devre Tasarımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "RK.1.5.1.1. Çevrim içi benzetim araçlarını kullanarak robotik devre tasarımı yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.5. ÜNİTE FARKLI ORTAMLARDA ROBOTİK DEVRE TASARIMI",
       "KONU": "RK.1.5.1. Robotik Devre Tasarımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav RK.1.5.1.2. Fiziksel gerçek ortamda robotik devre tasarımı yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.5. ÜNİTE FARKLI ORTAMLARDA ROBOTİK DEVRE TASARIMI",
       "KONU": "RK.1.5.1. Robotik Devre Tasarımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "RK.1.5.1.3. Blok tabanlı ortamda bir amaca yönelik program hazırlar."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "RK.1.5. ÜNİTE FARKLI ORTAMLARDA ROBOTİK DEVRE TASARIMI",
       "KONU": "RK.1.5.1. Robotik Devre Tasarımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "RK.1.5.1.4. Çevrim içi ortamda hazırlanan programı benzetim araçlarını kullanarak test eder.\nRK.1.5.1.5. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

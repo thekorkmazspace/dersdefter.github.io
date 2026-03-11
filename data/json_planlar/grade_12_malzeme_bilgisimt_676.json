@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Malzeme Bilimi1. Malzemenin Tanımı ve Sınıflandırılması1.1. Malzemenin tanımı ve önemi 1.2. Malzemelerin genel özellikleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Malzemenin tanımı ve sınıflandırmasını yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
       "KONU": "1.3. Malzemelerin sınıflandırılması1.4. Metaller1.5. Metal olmayan malzemeler1.6. İletken ve yarı iletken malzemeler1.7. Modern malzemeler",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Malzemenin tanımı ve sınıflandırmasını yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
-      "KONU": "2. Malzemeleri Seçme2.1. Atomun yapısı 2.2. Atomlar arası bağlar2.3. Malzemelerin moleküler ve kristal yapısı"
+      "KONU": "2. Malzemeleri Seçme2.1. Atomun yapısı 2.2. Atomlar arası bağlar2.3. Malzemelerin moleküler ve kristal yapısı",
+      "KAZANIM": "Tasarıma uygun malzeme seçimi yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "3. Alaşımlar3.1. Tek fazlı alaşımlar3.2. Çift fazlı alaşımlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Alaşımların tanımı ve alaşım yapmayı açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "3.3. Atomik difüzyon3.4. Ergime ve katılaşma4. Faz Dönüşümler4.1. Allotropi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Alaşımların tanımı ve alaşım yapmayı açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
-      "KONU": "4.2. Allotropik alaşımların özellikleri 4.3. Demirin allotropisi4.4. Demir karbon ikilisi4.5. Demir karbon denge diyagramı"
+      "KONU": "4.2. Allotropik alaşımların özellikleri 4.3. Demirin allotropisi4.4. Demir karbon ikilisi4.5. Demir karbon denge diyagramı",
+      "KAZANIM": "Allatropi-faz dönüşümlerini açıklayarak denge diyagramlarını çizer."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
-      "KONU": "ÖĞRENME BİRİMİ Demir Üretimi1. Ham Demirler1.1. Demirin tanımı 1.2. Demir filizleri"
+      "KONU": "ÖĞRENME BİRİMİ Demir Üretimi1. Ham Demirler1.1. Demirin tanımı 1.2. Demir filizleri",
+      "KAZANIM": "Ham demir üretimini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "1.3. Demirin elde edilmesi1.3.1. Yüksek fırında ham demirin elde edilmesi1.3.2. Yüksek fırından elde edilen ürünler 1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Ham demir üretimini açıklar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "2. Dökme Demirler2.1. Dökme demir2.2. Dökme demir çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Dökme demir üretimini açıklar."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "2.3. Katılaşma şekilleri ve içyapıları 2.4. Döküm malzemelerde aranan özellikleri 2.5. Dökme demir üretim işlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Dökme demir üretimini açıklar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Çelik Üretimi1. Çelik Üretim Yöntemleri1.1. Çeliğin tanımı 1.2. Çelik üretim yöntemleri 1.2.1. Bessemer-Thomas yöntemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Çelik üretim yöntemlerini açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "1.2.2. Siemens-Martin yöntemi1.2.3. Oksijen üfleme yöntemi1.2.4. Elektro çelik yöntemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Çeliklerin sınıflandırmasını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "1.3. Çeliklerin haddelenmesi2. Çeliklerin Sınıflandırılması2.1. Üretim yöntemine göre çelikler2.2. Kullanım alanlarına göre çelikler",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Çelikte katkı elemanlarının etkilerini ve çelik standartlarını açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "2.3. Kimyasal bileşimine göre çelikler2.4. Kaliteye göre çelikler2.5. Sertleştirme ortamlarına göre çelikler",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Çelikte katkı elemanlarının etkilerini ve çelik standartlarını açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "3. Çelik Katkı Elemanları ve Çelik Standartları3.1. Katkı elemanlarının çeliklere sağladığı faydalar3.2. TSE standartları3.3. ISO standartları",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Çelikte katkı elemanlarının etkilerini ve çelik standartlarını açıklar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
-      "KONU": "ÖĞRENME BİRİMİ Çeliklerin Isıl İşlemleri1. Isıl İşlem1.1. Isıl işlem1.2. Çeliğe uygulanan ısıl işlemin amacı 1.Dönem 2.Sınav"
+      "KONU": "ÖĞRENME BİRİMİ Çeliklerin Isıl İşlemleri1. Isıl İşlem1.1. Isıl işlem1.2. Çeliğe uygulanan ısıl işlemin amacı 1.Dönem 2.Sınav",
+      "KAZANIM": "Isıl işlemin amaçlarını açıklar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "1.3. Çeliklere uygulanan ısıl işlemler1.4. Çeliklerin tavlanması 1.5. Tavlama çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Çeliklerde tavlama işlemini açıklar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
-      "KONU": "1.6. Çeliğin sertleştirilmesi1.7. Çeliğin sertleştirilmesinin nedeni"
+      "KONU": "1.6. Çeliğin sertleştirilmesi1.7. Çeliğin sertleştirilmesinin nedeni",
+      "KAZANIM": "Çeliklerde sertleştirme işlemini açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
-      "KONU": "2. Yüzey Sertleştirme2.1. Yüzey sertleştirme işleminin amacı2.2. Yüzey sertleştirme yöntemleri"
+      "KONU": "2. Yüzey Sertleştirme2.1. Yüzey sertleştirme işleminin amacı2.2. Yüzey sertleştirme yöntemleri",
+      "KAZANIM": "Yüzey sertleştirme işlemlerini açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
-      "KONU": "3. Sertlik Ölçme Yöntemleri3.1. Dinamik sertlik ölçme yöntemleri3.2. Statik sertlik ölçme yöntemleri3.3. Sertlik ölçümü yapılırken dikkat edilecek hususlar"
+      "KONU": "3. Sertlik Ölçme Yöntemleri3.1. Dinamik sertlik ölçme yöntemleri3.2. Statik sertlik ölçme yöntemleri3.3. Sertlik ölçümü yapılırken dikkat edilecek hususlar",
+      "KAZANIM": "Yüzey sertleştirme işlemlerini açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Korozyon1. Korozyon Çeşitleri1.1. Korozyon kavramı1.2. Korozyon çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Korozyon çeşitlerini açıklar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "2. Korozyondan Korunma2.1. Korozyona etki eden faktörler2.2. Korozyondan korunma yöntemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Korozyondan korunma yöntemlerini açıklar."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Demir Dışı Malzemeler1. Demir Olmayan Metaller1.1. Demir olmayan metal çeşitleri1.2. Ağır metaller ve özellikleri1.3. Hafif metaller ve özellikleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Demir olmayan metalleri açıklar."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "2. Plastikler2.1. Plastik malzeme2.2. Plastik malzemelerin genel özellikler2.3. Plastik çeşitleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Plastik malzemeleri açıklar."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "2.4. Doğal plastikler2.5. Yapay plastikler3. Kompozit Malzemeler3.1. Kompozit malzeme2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Plastik malzemeleri açıklar.Kompozit malzemeleri açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "3.2. Kompozit malzemeler ve temel özellikleri3.3. Kompozit malzemelerin sınıflandırılması3.4. Kompozit malzemelerin uygulama alanları",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Kompozit malzemeleri açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Malzeme Muayene Yöntemleri1. Atölye Deneyleri1.1. Görünüş ile malzeme muayenesi1.2. Ses deneyi ile malzeme muayenesi1.3. Kıvılcım deneyi ile malzeme cinsini belirleme",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Malzemelere atölyede yapılacak basit deneyleri açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "2. Teknolojik Deneyler2.1. Bükme ve kırma deneyi 2.2. Eğme bükme ve katlama deneyi 2.3. Kaynak dikişlerini kontrol deneyi 2.4. Borulara uygulanan deneyler2.5. Burma deneyi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Malzemelere uygulanan teknolojik deneyleri açıklar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "3. Mekanik Deneyler3.1. Çekme deneyi3.2. Basma deneyi3.3. Kesme deneyi3.4. Yorulma deneyi3.5. Aşınma deneyi3.6. Kırma deneyi3.7. Kayma deneyi",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Malzemelere uygulanan mekanik deneyleri açıklar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "4. Tahribatsız Malzeme Muayenesi4.1. Penetran sıvı yöntemi ile malzeme muayenesi4.2. Basınçlı kontrol düzeneği ile malzeme muayenesi4.3. Röntgen muayene cihazı ile malzeme muayenesi4.4. Manyetik muayene cihazı ile malzeme muayenesi4.5. Ultrasonik muayene cihazı ile malzeme muayenesi",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Tahribatsız malzeme muayene yöntemlerini açıklar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "ÖĞRENME BİRİMİ Toz Metalürjisi1. Toz Üretim Yöntemleri1.1. Toz metalürjisinin tanımı1.2. Toz metalürjisinin üretim aşamaları",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Toz üretim yöntemlerini açıklar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "1.3. Toz metalürjisinin fayda ve zararları1.4. Toz metalürjisinin kullanım alanları1.5. Toz metalürjisinde kullanılan kavramlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Toz üretim yöntemlerini açıklar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "2. Toz Şekillendirme Yöntemleri2.1. Toz hazırlama yöntemleri2.2. Yağlayıcı ve bağlatıcılar2.3. Toz şekillendirme yöntemleri2.4. Toz enjeksiyon kalıplama tekniği",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Toz şekillendirme yöntemlerini açıklar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "3. Sinterleme Kavramı3.1. Sinterleme kavramı3.2. Sinterleme işleminin aşamaları3.3. Katı faz sinterlemesi3.4. Sıvı faz sinterlemesi3.5. Sinterlemenin uygulama alanları",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Sinterleme kavramlarını açıklar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
       "KONU": "4. Serbest Şekilli Üretim4.1. Takımsız üretim 4.2. Ham talaş kaldırma yöntemi4.3. Katman teknolojileri yöntemi4.4. Yüksek güç lazeri yöntemi4.5. Püskürtmeli şekillendirme yöntemi 2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Serbest şekilli üretim sistemini açıklar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
       "KONU": "5. Bitirme İşlemleri5.1. Yeniden presleme ve damgalama 5.2. Talaşlı imalat ve taşlama",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Bitirme işlemlerini açıklar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

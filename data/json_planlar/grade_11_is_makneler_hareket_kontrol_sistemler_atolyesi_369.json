@@ -8,7 +8,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "1. Kavrama ve vites kutuları",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. Lastik tekerlekli iş makinesi kavrama ve vites kutusunun bakımını ve onarımını yapar."
     },
     {
       "AY": "EYLÜL",
@@ -16,14 +17,16 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "1. Kavrama ve vites kutuları",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "1. Lastik tekerlekli iş makinesi kavrama ve vites kutusunun bakımını ve onarımını yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
-      "KONU": "2. Tork konvertör"
+      "KONU": "2. Tork konvertör",
+      "KAZANIM": "2. Tork konvertörün bakımını ve onarımını yapar."
     },
     {
       "AY": "EYLÜL",
@@ -31,7 +34,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "2. Tork konvertör",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "2. Tork konvertörün bakımını ve onarımını yapar."
     },
     {
       "AY": "EKIM",
@@ -39,21 +43,24 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "3. Otomatik vites kutuları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "3. Otomatik vites kutusunun power shift bakımını ve onarımını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
-      "KONU": "3. Otomatik vites kutuları"
+      "KONU": "3. Otomatik vites kutuları",
+      "KAZANIM": "3. Otomatik vites kutusunun power shift bakımını ve onarımını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
-      "KONU": "3. Otomatik vites kutuları"
+      "KONU": "3. Otomatik vites kutuları",
+      "KAZANIM": "3. Otomatik vites kutusunun power shift bakımını ve onarımını yapar."
     },
     {
       "AY": "EKIM",
@@ -61,7 +68,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "4. Güç dağıtım sistemi Pto  power take off",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "4. Güç dağıtım sisteminin PTO-power take off bakım ve onarımını yapar."
     },
     {
       "AY": "KASIM",
@@ -69,7 +77,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "4. Güç dağıtım sistemi Pto  power take off",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 4. Güç dağıtım sisteminin PTO-power take off bakım ve onarımını yapar."
     },
     {
       "AY": "KASIM",
@@ -77,7 +86,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -85,7 +95,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "5. Kavrama gruplarına etki\neden basınçlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "5. Kavrama gruplarına etki eden basınç miktarlarını kontrol eder."
     },
     {
       "AY": "KASIM",
@@ -93,7 +104,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "6. Bayılma testi",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "6. Tork konvertörün değişik hızlardaki bayılma testlerini yapar."
     },
     {
       "AY": "ARALIK",
@@ -101,7 +113,8 @@
       "SAAT": "4",
       "ÜNİTE": "1. GÜÇ İLETİM SİSTEMLERİ",
       "KONU": "6. Bayılma testi",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "6. Tork konvertörün değişik hızlardaki bayılma testlerini yapar."
     },
     {
       "AY": "ARALIK",
@@ -109,7 +122,8 @@
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
       "KONU": "1. Şaftlar ve istavrozlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "1. Hareket iletim sistemi elemanlarından şaft ve istavrozların onarımını yapar."
     },
     {
       "AY": "ARALIK",
@@ -117,7 +131,8 @@
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
       "KONU": "1. Şaftlar ve istavrozlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "1. Hareket iletim sistemi elemanlarından şaft ve istavrozların onarımını yapar."
     },
     {
       "AY": "ARALIK",
@@ -125,14 +140,16 @@
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
       "KONU": "2. Akslar",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "2. Hareket iletim sistemi elemanlarından aksın bilyelerin ve sızdırmazlık elemanlarının onarımını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
-      "KONU": "2. Akslar"
+      "KONU": "2. Akslar",
+      "KAZANIM": "2. Hareket iletim sistemi elemanlarından aksın bilyelerin ve sızdırmazlık elemanlarının onarımını yapar."
     },
     {
       "AY": "OCAK",
@@ -140,49 +157,56 @@
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
       "KONU": "3. Diferansiyeller",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 3. Diferansiyelin onarımını ve ayarlarını yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
-      "KONU": "3. Diferansiyeller"
+      "KONU": "3. Diferansiyeller",
+      "KAZANIM": "3. Diferansiyelin onarımını ve ayarlarını yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
-      "KONU": "4. Tandemler"
+      "KONU": "4. Tandemler",
+      "KAZANIM": "4. Tandemlerin makine üzerinde kontrollerini ve onarımlarını yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
-      "KONU": "4. Tandemler"
+      "KONU": "4. Tandemler",
+      "KAZANIM": "4. Tandemlerin makine üzerinde kontrollerini ve onarımlarını yapar."
     },
     {
       "AY": "ŞUBAT",
@@ -190,7 +214,8 @@
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
       "KONU": "5. Tandemlerin bakım onarımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "5. Tandemlerin onarımını ve ayarlarını yapar."
     },
     {
       "AY": "MART",
@@ -198,7 +223,8 @@
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
       "KONU": "5. Tandemlerin bakım onarımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "5. Tandemlerin onarımını ve ayarlarını yapar."
     },
     {
       "AY": "MART",
@@ -206,7 +232,8 @@
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
       "KONU": "6. Lastikler",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "6. Lastiklerin onarımını ve kontrollerini yapar."
     },
     {
       "AY": "MART",
@@ -214,7 +241,8 @@
       "SAAT": "4",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -222,7 +250,8 @@
       "SAAT": "4",
       "ÜNİTE": "2. HAREKET İLETİM SİSTEMLERİ",
       "KONU": "6. Lastikler",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "6. Lastiklerin onarımını ve kontrollerini yapar."
     },
     {
       "AY": "MART",
@@ -230,7 +259,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "1. Paletli iş makinelerinin\nyürüyüş sistemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "1. Yürüyüş sisteminde paleti açar."
     },
     {
       "AY": "NISAN",
@@ -238,7 +268,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "2. Palet elemanları",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 2. Palet elemanlarının bakımını ve onarımını yapar."
     },
     {
       "AY": "NISAN",
@@ -246,7 +277,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "2. Palet elemanları",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "2. Palet elemanlarının bakımını ve onarımını yapar."
     },
     {
       "AY": "NISAN",
@@ -254,7 +286,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "3. Makaralar",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "3. Yürüyüş makarasının taşıyıcı makaraların ve makara muhafazalarının aşıntı kontrolünü ve değişimini yapar.    ATATÜRK ün çocuklara verdiği önemi bilir."
     },
     {
       "AY": "NISAN",
@@ -262,7 +295,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "3. Makaralar",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "3. Yürüyüş makarasının taşıyıcı makaraların ve makara muhafazalarının aşıntı kontrolünü ve değişimini yapar."
     },
     {
       "AY": "MAYIS",
@@ -270,7 +304,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "4. İstikamet teker sistemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "4. İstikamet tekerinin ve gergi pistonunun onarımını yapar."
     },
     {
       "AY": "MAYIS",
@@ -278,7 +313,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "4. İstikamet teker sistemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "4. İstikamet tekerinin ve gergi pistonunun onarımını yapar."
     },
     {
       "AY": "MAYIS",
@@ -286,7 +322,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "5. Cer nihai tahrik dişli\ngrubu",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "5. Cer nihai tahrik dişli grubunun değişimini yapar.\nATATÜRKün Türk Gençliğine verdiği önemi bilir"
     },
     {
       "AY": "MAYIS",
@@ -294,7 +331,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "6. Rim dişlisi",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "6. Rim dişlisi kontrolünü ve değişimini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -302,7 +340,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "7. Palet sarma ve\ngerdirme işlemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 7. Palet sarma ve gerdirme işlemlerini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -310,7 +349,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "7. Palet sarma ve\ngerdirme işlemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "7. Palet sarma ve gerdirme işlemlerini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -318,7 +358,8 @@
       "SAAT": "4",
       "ÜNİTE": "3. PALETLİ YÜRÜYÜŞ SİSTEMLERİ",
       "KONU": "8. Şasi denge barı\nmakas",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "8. Şasi denge barının makas pim ve burçların değişimini yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -326,7 +367,8 @@
       "SAAT": "4",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

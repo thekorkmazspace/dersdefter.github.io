@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
       "KONU": "Öğrenme Birimi STANDART TÜRK KLAVYESİNEF KLAVYE GİRİŞ\n1. KLAVYEYE GİRİŞ\n1.1. DÜNYA KLAVYE ÇEŞİTLERİ\n1.1.1. Tuş Düzenlerine Göre Klavyeler\nDemokrasinin önemi",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Dünya klavye çeşitlerini listeler."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
       "KONU": "1.1.2. Latin Alfabesinin Kullanılmadığı Klavyeler\n1.1.3. Bilgisayardan Klavye Düzeninin Değiştirilmesi",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Dünya klavye çeşitlerini listeler."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
-      "KONU": "1.2. STANDART TÜRK KLAVYESİNİN ÖNEMİ\n1.2.1.F Klavyenin Hikâyesi\n1.2.2.Q Klavyenin Hikâyesi"
+      "KONU": "1.2. STANDART TÜRK KLAVYESİNİN ÖNEMİ\n1.2.1.F Klavyenin Hikâyesi\n1.2.2.Q Klavyenin Hikâyesi",
+      "KAZANIM": "Standart Türk klavyesini kullanmanın önemini açıklar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "1.2.3.F Klavye Kullanımının Yaygınlaşamaması\n1.2.4.F Klavye ile Q Klavyenin Karşılaştırılması",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Standart Türk klavyesini kullanmanın önemini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "1.3. STANDART TÜRK KLAVYESİNDE F KLAVYE TUŞLARIN YERLEŞİM DÜZENİ\n1.3.1. Yazı Tuşları Grubu\n1.3.2. Fonksiyon Tuşları\n1.3.3. İmleç Kontrol Tuşları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Tuşların klavyede yerleştirilme düzenini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
-      "KONU": "1.3.4. Yön Tuşları\n1.3.5. Sayı Tuşları Grubu\n1.3.6. Sayı ve Özel Karakterler Grubu"
+      "KONU": "1.3.4. Yön Tuşları\n1.3.5. Sayı Tuşları Grubu\n1.3.6. Sayı ve Özel Karakterler Grubu",
+      "KAZANIM": "Tuşların klavyede yerleştirilme düzenini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
-      "KONU": "1.3.7. Kilitleme Tuşları\n1.3.8. Özel Görevli Tuşlar"
+      "KONU": "1.3.7. Kilitleme Tuşları\n1.3.8. Özel Görevli Tuşlar",
+      "KAZANIM": "Tuşların klavyede yerleştirilme düzenini açıklar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "1.4. KLAVYE YAZIMINDA OTURUŞ VE DURUŞ TEKNİKLERİ\n1.4.1. Bedenin Duruşu\n1.4.2. Baş ve Gözlerin Duruşu\n1.4.3. El Parmak ve Bileklerin Duruşu\nAtatürkün Cumhuriyetçilik İlkesi\n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Dokümanların hazırlanmasında bilgisayarda ergonomik olarak oturarak durur."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "Öğrenme Birimi KLAVYE TUŞLARININ GRUPLANDIRILMASI\n2. TUŞLARIN SINIFLANDIRILMASI\n2.1. PARMAKLARIN TEMEL SIRAYA YERLEŞİMİ\n2.2. TEMEL SIRA TUŞLARININ YAZIMI\n2.2.1. A ve K Tuşlarının Yazımı\nAtatürkün eğitime ve bilime verdiği önem",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Parmaklarını temel sıraya yerleştirir."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "2.2.2. E ve M Tuşlarının Yazımı\n2.2.3. İ ve L Tuşlarının Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Klavyeye bakmadan temel sıra tuşlarından yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "2.2.4. U ve Y Tuşlarının Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Klavyeye bakmadan temel sıra tuşlarından yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "2.3. TEMEL SIRA DIŞINDAKİ TUŞLARININ YAZIMI\n2.3.1. T Tuşunun Yazımı\n2.3.2. Ü Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "2.3.3. Ş Tuşunun Yazımı\n2.3.4. Nokta Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "2.3.5. Virgül Tuşunun Yazımı\n2.3.6. I Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "2.3.7. R Tuşunun Yazımı\n2.3.8. O Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
-      "KONU": "2.3.9. D Tuşunun Yazımı\n2.3.10. S Tuşunun Yazımı\n1.Dönem 2.Sınav"
+      "KONU": "2.3.9. D Tuşunun Yazımı\n2.3.10. S Tuşunun Yazımı\n1.Dönem 2.Sınav",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "2.3.11. C Tuşunun Yazımı\n2.3.12. Z Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
-      "KONU": "2.3.13. Ç Tuşunun Yazımı\n2.3.14. N Tuşunun Yazımı\n2.3.15. Ğ Tuşunun Yazımı"
+      "KONU": "2.3.13. Ç Tuşunun Yazımı\n2.3.14. N Tuşunun Yazımı\n2.3.15. Ğ Tuşunun Yazımı",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
-      "KONU": "2.3.16. V Tuşunun Yazımı\n2.3.17. B Tuşunun Yazımı\n2.3.18. G Tuşunun Yazımı"
+      "KONU": "2.3.16. V Tuşunun Yazımı\n2.3.17. B Tuşunun Yazımı\n2.3.18. G Tuşunun Yazımı",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
-      "KONU": "2.3.19. H Tuşunun Yazımı\n2.3.20. Ö Tuşunun Yazımı\n2.3.21. F Tuşunun Yazımı"
+      "KONU": "2.3.19. H Tuşunun Yazımı\n2.3.20. Ö Tuşunun Yazımı\n2.3.21. F Tuşunun Yazımı",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "2.3.22. P Tuşunun Yazımı\n2.3.23. J Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "2.3.24. X Tuşunun Yazımı\n2.3.25. Q Tuşunun Yazımı\n2.3.26. W Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Klavyeye bakmadan temel sıra dışındaki yazılması gereken tuşu yazması gereken parmağa yazdırır."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "2.4. NOKTALAMA İŞARETLERİ VE ÖZEL TUŞLAR\n2.4.1. Noktalama İşaretleri\n2.4.2. Özel Görevli Tuşlar ile Yazılan Tuşlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Noktalama işaretlerini ve özel tuşları tuşlar."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "2.4.3. Belge Hazırlarken Kullanılan Özel Görevli Tuşlar",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Dokümanların hazırlanmasında tuşların bazı görevleri yazabilmesinde ikinci görevi tuşlara yazdırır."
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "2.5. RAKAM TUŞLARI\n2.5.1. 0 Rakam Tuşunun Yazımı\n2.5.2. 1 Rakam Tuşunun Yazımı\n2.5.3. 2 Rakam Tuşunun Yazımı\n2.5.4. 3 Rakam Tuşunun Yazımı\nAtatürkün vatan ve millet sevgisi\n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Dokümanların hazırlanmasında sayıları doğru parmağa yazdırır."
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "2.5.5. 4 Rakam Tuşunun Yazımı\n2.5.6. 5 Rakam Tuşunun Yazımı\n2.5.7. 6 Rakam Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Dokümanların hazırlanmasında sayıları doğru parmağa yazdırır."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "2.5.8. 7 Rakam Tuşunun Yazımı\n2.5 .9. 8 Rakam Tuşunun Yazımı\n2.5.10.9 Rakam Tuşunun Yazımı",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Dokümanların hazırlanmasında sayıları doğru parmağa yazdırır."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "Öğrenme Birimi SÜRELİ METİN ÇALIŞMALARI\n3. METİN ÇALIŞMALARI\n3.1. KELİME VE CÜMLE ÇALIŞMALARI\n3.1.1. Düzensiz Kelime Çalışmaları",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Metinlerde verilen kelimeleri belirlenen sürede yazmaya çalışır."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "3.1.2. Harften Kelimeye Ulaşma Çalışmaları\n3.1.3. Heceden Kelimeye Ulaşma Çalışmaları\nÇocuk insan sevgisi ve evrensellik",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Metinlerde verilen kelimeleri belirlenen sürede yazmaya çalışır."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "3.1.4. Kısa Metinlerle Çalışmalar\n3.1.5. F Klavye Kullanıcısı Olmanın Önemi ve İş Hayatındaki Yararları",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Metinlerde verilen kelimeleri belirlenen sürede yazmaya çalışır."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "3.2. KELİME SÖZCÜK SAYIMI",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Metinlerde verilen cümleleri belirlenen sürede yazmaya çalışır."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "3.3. METİNLERLE ÇALIŞMAK\n3.3.1. Tekerleme Metinleri ile Süreli Çalışmalar",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Süre bitinceye kadar yazılan metnin yanlışlarını bularak puan hesaplamasını yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "3.3.2. Atasözleri İle Süreli Metin Çalışmaları\n3.3.3. Süreli Şiir Çalışmaları\nAtatürkçü düşüncede yer alan temel fikirler",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Süre bitinceye kadar yazılan metnin yanlışlarını bularak puan hesaplamasını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "3.3.4. Metinlerle 3 Dakikalık Çalışmalar",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Süre bitinceye kadar yazılan metnin yanlışlarını bularak puan hesaplamasını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
       "KONU": "3.3.5. Uzun Metinlerle 5 Dakikalık Çalışmalar\n3.3.6. Uzun Metinlerle 10 Dakikalık Çalışmalar\n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Süre bitinceye kadar yazılan metnin yanlışlarını bularak puan hesaplamasını yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
       "KONU": "3.3.7. Uzun Metinlerle Süresiz Çalışmalar",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Süre bitinceye kadar yazılan metnin yanlışlarını bularak puan hesaplamasını yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "1",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }

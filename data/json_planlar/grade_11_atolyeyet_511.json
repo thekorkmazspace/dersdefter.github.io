@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "9",
       "KONU": "1. ÖĞRENME BİRİMİ SAYISAL İŞLEMLER\n1.1. SAYI SİSTEMLERİ \n1.1.1. Sayı Sistemlerinin Çeşitleri \n1.1.2. Sayı Sistemlerinin Birbirine Dönüşümü\n1.1.3. Binary Sayılarda Aritmetik İşlemler",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Sayı sistemlerinin özelliklerini açıklayarak birbirine dönüştürme işlemlerini yapar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "9",
       "KONU": "1.2. MANTIKSAL ENTEGRELER VE LOJİK KAPILAR \n1.2.1. Lojik Entegrelerin Özellikleri \n1.2.2. Lojik Entegrelerin Çeşitleri\n1.2.3. Lojik Kapıların Özellikleri ve Doğruluk Tablosu \n1.2.4. Pozitif ve Negatif Lojik İfadeler",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Lojik kapılarla mantık devreleri kurar."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "9",
-      "KONU": "2. ÖĞRENME BİRİMİ MİKRODENETLEYİCİ PROGRAMLAMA\n2.1. MİKRODENETLEYİCİ SEÇİMİ\n2.1.1. Mikroişlemciler ve Mikrodenetleyiciler\n2.1.2. Mikrodenetleyici Çeşitleri \n2.1.3. Mikrodenetleyici Donanım Özellikleri\n2.1.4. Mikrodenetleyici Programlama Dilleri"
+      "KONU": "2. ÖĞRENME BİRİMİ MİKRODENETLEYİCİ PROGRAMLAMA\n2.1. MİKRODENETLEYİCİ SEÇİMİ\n2.1.1. Mikroişlemciler ve Mikrodenetleyiciler\n2.1.2. Mikrodenetleyici Çeşitleri \n2.1.3. Mikrodenetleyici Donanım Özellikleri\n2.1.4. Mikrodenetleyici Programlama Dilleri",
+      "KAZANIM": "Mikrodenetleyici donanım ve çevre birimlerini seçer."
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "9",
       "KONU": "2.2. MİKRODENETLEYİCİ EDİTÖRÜ\n2.2.1. Mikrodenetleyici Program Editörü Kurulumu\n2.2.2. Mikrodenetleyici Program Editörü Menüleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Mikrodenetleyici program editörünün kurulumunu ve ayarlarını yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "9",
       "KONU": "2.3. MİKRODENETLEYİCİ YAZILIMI\n2.3.1. Mikrodenetleyici Akış Diyagramı",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Mikronetleyiciyi programlayarak yazılımı yükler."
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "9",
-      "KONU": "3. ÖĞRENME BİRİMİ DİJİTAL VE ANALOG UYGULAMALAR\n3.1. MİKRODENETLEYİCİ UYGULAMALARI \n3.1.1. Mikrodenetleyici Devrelerinin Kurulması"
+      "KONU": "3. ÖĞRENME BİRİMİ DİJİTAL VE ANALOG UYGULAMALAR\n3.1. MİKRODENETLEYİCİ UYGULAMALARI \n3.1.1. Mikrodenetleyici Devrelerinin Kurulması",
+      "KAZANIM": "Mikrodenetleyici ile uygulamalar yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "9",
-      "KONU": "3.1.2. Mikrodenetleyici Komutları"
+      "KONU": "3.1.2. Mikrodenetleyici Komutları",
+      "KAZANIM": "Mikrodenetleyici ile uygulamalar yapar."
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "9",
       "KONU": "3.2. DİJİTAL GİRİŞ-ÇIKIŞ\n3.2.1. Dijital Giriş-Çıkış Kavramları   \n \n1.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Mikrodenetleyicilerde digital giriş ve dijital çıkış işlemlerini yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "9",
       "KONU": "3.3. MİKRODENETLEYİCİLERDE PORT KAVRAMI \n3.3.1. Bit Byte Word LSB MSB",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Mikrodenetleyicilerde port kavramını açıklar."
     },
     {
       "AY": "KASIM",
@@ -68,122 +77,140 @@
       "SAAT": "9",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "9",
       "KONU": "3.4. ANALOG GİRİŞ-ÇIKIŞ \n3.4.1. ANALOG Giriş \n3.4.2. ANALOG Çıkış",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Mikrodenetleyicilerde seri haberleşme ANALOG giriş çıkış işlemlerini yapar."
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "9",
       "KONU": "3.4.3. Seri Port Ekranı Serial Monitor",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Mikrodenetleyicilerde seri haberleşme ANALOG giriş çıkış işlemlerini yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "9",
       "KONU": "3.5. ADC-DAC UYGULAMALARI \n3.5.1. ADC ANALOG Dijital Çevirici",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Mikrodenetleyici ile ADCDAC dönüşümleri yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "9",
       "KONU": "3.5.2. DAC Dijital ANALOG Çevirici",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Mikrodenetleyici ile ADCDAC dönüşümleri yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "9",
       "KONU": "4. ÖĞRENME BİRİMİ MİKRODENETLEYİCİ PROJE UYGULAMALARI\n4.1. MOTOR KONTROL UYGULAMALARI \n4.1.1. DC Motor ve Sürücüleri\n4.1.2. Step Motor ve Sürücüleri\n4.1.3. Servo Motor ve Sürücüleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Mikrodenetleyiciler ile motor kontrol uygulamalarını yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "9",
       "KONU": "4.2. SENSÖR UYGULAMALARI\n4.2.1. LM35 Sıcaklık Sensörü\n4.2.2. LDR Işık Sensörü\n4.2.3. DHT11 Nem ve Sıcaklık Sensörü",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Mikrodentleyiciler ile fiziksel nicelikleri ısı ışık sıcaklık basınç nem kuvvet ağırlık vb ölçme uygulamaları yapar."
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "9",
-      "KONU": "4.2.4. HC-SR501 Hareket Sensörü\n4.2.5. HC-SR04 Ultrasonik Sensör \n4.2.6. MQ-2 Gaz Sensörü \n1.Dönem 2.Sınav"
+      "KONU": "4.2.4. HC-SR501 Hareket Sensörü\n4.2.5. HC-SR04 Ultrasonik Sensör \n4.2.6. MQ-2 Gaz Sensörü \n1.Dönem 2.Sınav",
+      "KAZANIM": "Mikrodentleyiciler ile fiziksel nicelikleri ısı ışık sıcaklık basınç nem kuvvet ağırlık vb ölçme uygulamaları yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "9",
       "KONU": "4.3. HAREKET KONTROLÜ UYGULAMALARI \n4.3.1. Güneş Panelleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Mikrodenetleyici ile enerji santralleri hareket kontrolünü yapar."
     },
     {
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Etkinlik Haftası",
-      "KONU": "Etkinlik Haftası"
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
     },
     {
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "9",
       "ÜNİTE": "Yarıyıl Tatili",
-      "KONU": "Yarıyıl Tatili"
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "9",
-      "KONU": "4.3.2. Rüzgâr Türbinleri"
+      "KONU": "4.3.2. Rüzgâr Türbinleri",
+      "KAZANIM": "Mikrodenetleyici ile enerji santralleri hareket kontrolünü yapar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "9",
-      "KONU": "5. ÖĞRENME BİRİMİ TEMEL KUMANDA VE GÜÇ DEVRELERİ\n5.1. KUMANDA VE GÜÇ DEVRE ELEMANLARI\n5.1.1. Kumanda Butonları \n5.1.2. Paket Şalterler\n5.1.3. Sınır Anahtarları\n5.1.4. Sinyal Lambaları\n5.1.5. Sensörler\n5.1.6. Sigortalar"
+      "KONU": "5. ÖĞRENME BİRİMİ TEMEL KUMANDA VE GÜÇ DEVRELERİ\n5.1. KUMANDA VE GÜÇ DEVRE ELEMANLARI\n5.1.1. Kumanda Butonları \n5.1.2. Paket Şalterler\n5.1.3. Sınır Anahtarları\n5.1.4. Sinyal Lambaları\n5.1.5. Sensörler\n5.1.6. Sigortalar",
+      "KAZANIM": "Kumanda ve güç devre elemanlarını açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "9",
-      "KONU": "5.1.7. Röleler \n5.1.8. Kontaktörler\n5.1.9. Katı Hal Röleleri\n5.1.10. Kumanda ve Güç Devrelerinde Kullanılan Kablolar\n5.1.11. Asenkron Motorlar \n5.1.12. Kumanda ve Güç Devre Sembolleri\n5.1.13. Kumanda ve Güç Devre Şeması Çizimi"
+      "KONU": "5.1.7. Röleler \n5.1.8. Kontaktörler\n5.1.9. Katı Hal Röleleri\n5.1.10. Kumanda ve Güç Devrelerinde Kullanılan Kablolar\n5.1.11. Asenkron Motorlar \n5.1.12. Kumanda ve Güç Devre Sembolleri\n5.1.13. Kumanda ve Güç Devre Şeması Çizimi",
+      "KAZANIM": "Kumanda ve güç devre elemanlarını açıklar."
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "9",
       "KONU": "5.2. KUMANDA VE GÜÇ DEVRE UYGULAMALARI \n5.2.1. Üç Fazlı Asenkron Motor Bağlantıları\n5.2.2. Üç Fazlı Asenkron Motorların Çalışma Özellikleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Kumanda ve güç devreleri uygulamaları yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "9",
       "KONU": "6. ÖĞRENME BİRİMİ PLC SEÇİMİ\n6.1. YAPI VE ÇALIŞMA PRENSİBİNE GÖRE PLC SEÇİMİ\n6.1.1. PLCnin Yapı Özellikleri\n6.1.2. PLCnin Çalışma Prensibi\n6.1.3. PLCnin Kullanım Alanları\n6.1.4. PLC Seçimi",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "PLCnin yapısına ve çalışma prensibine göre seçimini yapar."
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "9",
       "KONU": "6.2. PLCNİN GİRİŞ-ÇIKIŞ VE ÇEVRE BİRİMİ BAĞLANTILARI",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "PLCnin yapısına ve çalışma prensibine göre giriş çıkış çevre birimleri bağlantılarını yapar."
     },
     {
       "AY": "MART",
@@ -191,98 +218,112 @@
       "SAAT": "9",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "9",
       "KONU": "7. ÖĞRENME BİRİMİ PLC PROGRAMLAMA UYGULAMALARI\n7.1. TEMEL SEVİYE PLC KOMUTLARI KULLANILARAK PROGRAMLAMA YAPMA \n7.1.1. PLC Programlama Mantığı ve YAZILIM Dilleri \n7.1.2. Klasik Kumanda Devrelerinin Ladder Diyagramına Dönüşümü \n7.1.3. PLC Programlamada Hafıza Alanları ve Veri Tipleri \n7.1.4. PLC Programlamada Giriş ve Çıkış Adreslemeleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Temel seviye PLC komutlarını kullanarak programlama yapar"
     },
     {
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "9",
       "KONU": "7.1.5. Temel Programlama Komutları\n7.1.5.1. Bit Lojik Komutları \n7.1.5.2. Zamanlayıcı Timer Komutları\n7.1.5.3. Sayıcı Komutları  \n\n2.Dönem 1.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Temel seviye PLC komutlarını kullanarak programlama yapar"
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "9",
       "KONU": "7.2. DOKUNMATİK EKRAN UYGULAMALARI\n7.2.1. Operatör Panelinin Yapısı \n7.2.2. Operatör Panelinin Çalışması",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Dokunmatik ekran HMI ile uygulama yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "9",
       "KONU": "7.2.3. Operatör Paneli Çeşitleri\n7.2.4. Operatör Panelinin Montajı ve Panel Bağlantıları\n7.2.5. Operatör Panelinin Programlama Editörü Menüleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Dokunmatik ekran HMI ile uygulama yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "9",
       "KONU": "7.2.6. Projeye Panel Eklenmesi ve İletişim Ayarları\n7.2.7. Operatör Paneli Proje Uygulaması",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Dokunmatik ekran HMI ile uygulama yapar."
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "9",
       "KONU": "7.3. FREKANS İNVERTÖRLERİ İLE ASENKRON MOTOR KONTROLÜ \n7.3.1. Sürücülerin Güç ve Kontrol Bağlantıları \n7.3.2. Sürücü Parametreleri ve Parametre Giriş İşlemleri",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Kontaktör inverter kullanarak PLC ile asenkron motor kontrolü yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "9",
       "KONU": "7.3.3. Sürücü Kontrol Yöntemleri \n7.3.4. PLC İle Sürücü Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Kontaktör inverter kullanarak PLC ile asenkron motor kontrolü yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "9",
       "KONU": "7.4. PLC İLE SERVO MOTORLARIN KONTROLÜ\n7.4.1. Servo Motor Sürücüleri \n7.4.2. Sürücü Bağlantıları",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "PLC ile servo motor kontrolü yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "9",
       "KONU": "7.4.3. Servo Motor Sürücüsünün Kontrol Paneli \n7.4.4. Motor Parametreleri ve Parametre Ayarları",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "PLC ile servo motor kontrolü yapar."
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "9",
       "KONU": "7.4.5. Servo Motorların TurPals Hesabı \n7.4.6. Servo Motorların PLC İle Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "PLC ile servo motor kontrolü yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "9",
       "KONU": "8. ÖĞRENME BİRİMİ ENERJİ SANTRALLERİNİN ELEKTRİK VE HAREKET SİSTEMLERİ\n8.1. ENERJİ SANTRALİNİN ELEKTRİK VE ŞALT SAHASI SİSTEMİ\n8.1.1. Elektrik Santrali Sistemi \n8.1.2. Enerji Santralinin Şalt Sahası Sistemi\n8.2. GÜNEŞ ROTASI VE IŞINIMI MERKEZÎ HAREKET SİSTEMİ \n8.2.1. Güneş Pili Panelinin Açısını Hesaplama \n8.3. RÜZGÂR SANTRALLERİ\n8.3.1. Rüzgâr Santrallerinin Kontrol Sistemi\n8.3.2. Rüzgâr Türbininin Kanat Açı Kontrolü \n8.3.3. Rüzgâr Türbininin Yön Kontrolü",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Enerji santrali elektrik ve şalt sahası izleme işlemlerini yapar.\nGüneş rotası ve ışınımı merkezli hareket sistemini izleme işlemlerini yapar.\nTürbin kanat ve yön kontrolünü yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "9",
       "KONU": "9. ÖĞRENME BİRİMİ SCADA\n9.1. FOTOVOLTAİK GÜNEŞ PANELİN HAREKET KONTROLÜ \n9.2. TÜRBİN HAREKET KONTROLÜ   \n2.Dönem 2.Sınav",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Güneş rotası ve güneş ışınımı merkezli hareket sistemi izlenmesini denetler.\nİzleme programı kullanıcı arayüzünden türbin kanatlarının açısını ve makine dairesinin rüzgar yönüne göre dönmesinin kontrolünü yapar."
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "9",
       "KONU": "9.3. ENERJİ SANTRALİNİN GÜVENLİK KONTROLÜ",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "İzleme programı kullanıcı arayüzünden enerji santralinin ısı algılama basınç ve nem kontrolünü yapar.\nİzleme programı kullanıcı arayüzünden güç trafosunun kesicinin ve ayırıcının kontrolünü yapar."
     },
     {
       "AY": "HAZIRAN",
@@ -290,7 +331,8 @@
       "SAAT": "9",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }
