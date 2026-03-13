@@ -1,0 +1,338 @@
+{
+  "sinif": "10",
+  "ders": "BİLGİSAYAR DESTEKLİ SOĞUTMA MESLEKİ RESMİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ İKİ BOYUTLU ÇİZİM AYARLARI VE KOMUTLARI\n1.1 ÇİZİM TEMEL BİLGİLERİ VE PAKET PROGRAM\n1.1.1 Cad Program Menüleri\nDemokrasinin önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Çizim temel bilgilerini açıklayıp paket programı çalıştırır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "1.1.2 Çizim Ayarlarının Yapımı\n1.1.3 AutoCAD Arayüz Menüleri\n1.1.4 Araç Çubuklarının Düzenlenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Çizim temel bilgilerini açıklayıp paket programı çalıştırır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "1.2 İKİ BOYUTLU ÇİZİM KOMUTLARIKOORDİNATLARI\n1.2.1 Draw Komutları\n1.2.2 Modify Komutları",
+      "KAZANIM": "İki boyutlu çizim komutları  koordinatları anlatır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "1.3 BİLGİSAYARDA ÇİZİM ALANININ OLUŞTURULMASI\n1.3.1 Koordinat Sisteminde Çizim Esasları\n1.3.2 Başlangıç Noktasının Belirlenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "İlgili komutlarla bilgisayarda çizim alanı oluşturur."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "1.3.3 Mutlak Koordinatlara Göre Çizim\n1.3.4 İzafi Koordinatlara Göre Çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "İlgili komutlarla bilgisayarda çizim alanı oluşturur."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "1.3.5 İzafi Kutupsal Koordinatlara Göre Çizim\n1.3.6 Koordinatsız Çizim\n1.3.7 Açı Kullanarak Çizim",
+      "KAZANIM": "İlgili komutlarla bilgisayarda çizim alanı oluşturur."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "1.4 İKİ BOYUTLU ÇİZİM KOMUTLARI İLE GEOMETRİK ŞEKİL ÇİZİMİ\n1.4.1 Layers\n1.4.1.1 Renk",
+      "KAZANIM": "İki boyutlu çizim komutlarını kullanarak geometrik şekil çizer."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "1.4.1.1 Renk\n1.4.1.2 Linetype\n1.4.1.3 Lineweight\nAtatürkün Cumhuriyetçilik İlkesi\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "İki boyutlu çizim komutlarını kullanarak geometrik şekil çizer."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "1.5 ÇİZİMLERİN ÖLÇÜLENDİRİLMESİ\n1.5.1 Ölçülendirme Ayarlarının Yapımı\nAtatürkün eğitime ve bilime verdiği önem",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Ölçülendirme komutlarını kullanarak çizimleri ölçülendirir."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "1.5.2 Ölçü Komutları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Ölçülendirme komutlarını kullanarak çizimleri ölçülendirir."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "1.6 ÇİZİMLERE YAZI EKLENMESİ\n1.6.1 Yazı Stili Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Yazı yazma komutlarını kullanarak çizimlere yazı ekler."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "1.6.2 Single Text Komutu\n1.6.3 Multı Line Text Komutu",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Yazı yazma komutlarını kullanarak çizimlere yazı ekler."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ BİLGİSAYARLA ÇİZİM UYGULAMALARI\n2.1 ÇİZİM ŞABLON ÇERÇEVESİ OLUŞTURMA\n2.1.1 Şablon Çerçeve Çizimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "CAD programında çizim şablon çerçevesi çizer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "2.1.1.1. Blok Hazırlama ve Yönetme\n2.1.2 Ppoperties",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "CAD programında çizim şablon çerçevesi çizer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "2.1.3 Çizimleri Kaydetmek\n2.1.4 Çizimleri Yazdırmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "CAD programında çizim şablon çerçevesi çizer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "2.2 ANTET ÇİZİMİ\n2.3 İKİ BOYUTLU ÇİZİM KOMUTLARI İLE GÖRÜNÜŞ ÇIKARMA\n1.Dönem 2.Sınav",
+      "KAZANIM": "CAD programında antet çizimi yapar.\nCAD programında iki boyutlu çizim komutları ile görünüş çizer."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "2.4 İKİ BOYUTLU ÇİZİM KOMUTLARI İLE FLANŞ ÇİZİMİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav CAD programında iki boyutlu çizim komutları ile flanş çizer."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "2.5 KESİT ALMA İŞLEMİ",
+      "KAZANIM": "CAD programında kesit çizimini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ SOĞUTMA DEVRE ELEMANLARININ SEMBOLLERİ\n3.1 SOĞUTMA ANA DEVRE ELEMANLARI SEMBOLLERİ\n3.1.1 Kompresörler\n3.1.2 Konderserler",
+      "KAZANIM": "Soğutma ana devre elemanları sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "3.1.3 Evaporatör\n3.1.4 Genişleme Valfi",
+      "KAZANIM": "Soğutma ana devre elemanları sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "3.2 SOĞUTMA YARDIMCI DEVRE ELEMANLARI SEMBOLLERİ\n3.2.1 Filtre ve Akümülatör\n3.2.2 Dört Yollu Vana ve Selenoid Valf\n3.2.3 Serpantin ve Fancoil",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Soğutma yardımcı devre elemanları sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "3.2.4 Yağ Ayırıcılar Gözetleme Camı Titreşim Emici ve Basınç Anahtarı\n3.2.5 Manuel ve Dijital Termostat\n3.2.6 Receiver",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Soğutma yardımcı devre elemanları sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "3.3 İKLİMLENDİRME SEMBOLLERİ\n3.3.1 Vantilatör ve Aspiratör\n3.3.2 Filtreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "İklimlendirme sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "3.3.3 Menfez ve Damper\n3.3.4 Genleşme Deposu ve Çek Valf\n3.3.5 Nemlendiriciler",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "İklimlendirme sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ ELEKTRİK DEVRE ELEMANLARININ SEMBOLLERİ\n4.1 ELEKTRİKSEL TESİSAT DEVRE ŞEMALARININ ÇİZİMİ\nAtatürkün vatan ve millet sevgisi\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Elektrik tesisat devre şemalarının çizimini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "4.2 RÖLE TERMİK KAPASİTÖR VE REZİSTANS",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Termik röle kapasitör ve rezistans sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "4.3 MOTOR ARIZA LAMBALARI VE TERMİNAL SEMBOLLERİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Motor arıza lambaları ve terminal sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "4.4 ELEKTRİKSEL ÖLÇME KONTROL VE AYAR CİHAZLARI SEMBOLLERİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Elektriksel ölçme kontrol ve ayar cihazları sembollerinin çizimini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "4.5 KOMPRESÖRE YOL VERME ŞEMALARININ ÇİZİMİ\nÇocuk insan sevgisi ve evrensellik",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Kompresörlere yol verme şemalarının çizimini yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ KLİMA CİHAZLARININ SOĞUTMA DEVRE ŞEMALARI\n5.1 PAKET KLİMA ÇEŞİTLERİNİN DEVRE ŞEMALARININ ÇİZİMİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Paket klima çeşitlerinin devre şemalarını çizer."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "5.1 PAKET KLİMA ÇEŞİTLERİNİN DEVRE ŞEMALARININ ÇİZİMİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Paket klima çeşitlerinin devre şemalarını çizer."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "5.2 SPLİT KLİMA SOĞUTMA DEVRE ŞEMALARI",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Split klima soğutma devre şemalarını çizer."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "5.2 SPLİT KLİMA SOĞUTMA DEVRE ŞEMALARI\nAtatürkçü düşüncede yer alan temel fikirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Split klima soğutma devre şemalarını çizer."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ KLİMA CİHAZLARININ ELEKTRİK DEVRE ŞEMALARI\n6.1 KLİMA ÇEŞİTLERİNİN ELEKTRİK DEVRE ŞEMALARI",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Klima çeşitlerinin elektrik devre şemalarının çizimini yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "6.2 SPLİT KLİMA ELEKTRİK DEVRE ŞEMALARI\n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Split klima elektrik devre şemalarını çizer."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "6.3 SALON TİPİ KLİMA ELEKTRİK DEVRE ŞEMALARI",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Salon tipi klima elektrik devre şemalarını çizer."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

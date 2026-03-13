@@ -1,0 +1,374 @@
+{
+  "sinif": "9",
+  "ders": "ṠSTEM VE AĞ TEMELLEṘ(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Donanım Birimleri",
+      "KONU": "1. İç Donamım Birimleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "İç donanım birimlerini açıklar.\nAnakart ve bileşenleri açıklanır.\n İşlemci ve yapısı açıklanır.\n İşlemcinin iletişim hatları açıklanır.\n İşlemcinin çalışma mekanizması açıklanır.\n RISC ve CISC işlemci mimarileri açıklanır.\n İşlemci soğutma yöntemleri açıklanır.\n Bellek ve yapısı açıklanır.\n Bellek türleri açıklanır.\n Disk sürücüsü ve türleri açıklanır.\n RAID teknolojisi açıklanır.\n Ekran kartı ve yapısı açıklanır.\n Ağ arayüz kartı ve türleri açıklanır.\n MAC adresi yapısı açıklanır.\n Bilgisayar kasası ve türleri açıklanır.\n Güç kaynağı açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Donanım Birimleri",
+      "KONU": "1. İç Donamım Birimleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "İç donanım birimlerini açıklar.\nAnakart ve bileşenleri açıklanır.\n İşlemci ve yapısı açıklanır.\n İşlemcinin iletişim hatları açıklanır.\n İşlemcinin çalışma mekanizması açıklanır.\n RISC ve CISC işlemci mimarileri açıklanır.\n İşlemci soğutma yöntemleri açıklanır.\n Bellek ve yapısı açıklanır.\n Bellek türleri açıklanır.\n Disk sürücüsü ve türleri açıklanır.\n RAID teknolojisi açıklanır.\n Ekran kartı ve yapısı açıklanır.\n Ağ arayüz kartı ve türleri açıklanır.\n MAC adresi yapısı açıklanır.\n Bilgisayar kasası ve türleri açıklanır.\n Güç kaynağı açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Donanım Birimleri",
+      "KONU": "1. İç Donamım Birimleri",
+      "KAZANIM": "İç donanım birimlerini açıklar.\nAnakart ve bileşenleri açıklanır.\n İşlemci ve yapısı açıklanır.\n İşlemcinin iletişim hatları açıklanır.\n İşlemcinin çalışma mekanizması açıklanır.\n RISC ve CISC işlemci mimarileri açıklanır.\n İşlemci soğutma yöntemleri açıklanır.\n Bellek ve yapısı açıklanır.\n Bellek türleri açıklanır.\n Disk sürücüsü ve türleri açıklanır.\n RAID teknolojisi açıklanır.\n Ekran kartı ve yapısı açıklanır.\n Ağ arayüz kartı ve türleri açıklanır.\n MAC adresi yapısı açıklanır.\n Bilgisayar kasası ve türleri açıklanır.\n Güç kaynağı açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Donanım Birimleri",
+      "KONU": "2. Dış Donamım Birimleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Dış donanım birimlerini açıklar.\nGiriş aygıtları klavye mouse vb. açıklanır.\n Çıkış aygıtları monitör yazıcı vb. açıklanır.\n Tak çalıştır aygıtları açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Donanım Birimleri",
+      "KONU": "2. Dış Donamım Birimleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Dış donanım birimlerini açıklar.\nGiriş aygıtları klavye mouse vb. açıklanır.\n Çıkış aygıtları monitör yazıcı vb. açıklanır.\n Tak çalıştır aygıtları açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Donanım Birimleri",
+      "KONU": "2. Dış Donamım Birimleri",
+      "KAZANIM": "Dış donanım birimlerini açıklar.\nGiriş aygıtları klavye mouse vb. açıklanır.\n Çıkış aygıtları monitör yazıcı vb. açıklanır.\n Tak çalıştır aygıtları açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "1. OSI Referans Modeli",
+      "KAZANIM": "OSI referans modelini açıklar.\nAğ ve türleri LAN MAN WAN VPN açıklanır.\n       Ağ topolojileri açıklanır.\n       Ağ cihazları açıklanır.\n       OSI referans modeli açıklanır.\n       Kapsülleme encapsulation ve kapsül açma de- encapsulation kavramları açıklanır.\n       Uygulama katmanı ve protokolleri http https dhcp dns ftp smtp tftp pop3 açıklanır.\n       Sunum katmanı açıklanır.\n       Oturum katmanı açıklanır.\n       Taşıma katmanı açıklanır.\n       TCP başlığı ve üç yollu el sıkışma süreci three way handshake açıklanır.\n       UDP başlığı açıklanır.\n       TCP ve UDP farkları açıklanır.\n       Ağ katmanı ve başlığı açıklanır.\n       Sayı sistemleri ikili onlu on altılık açıklanır.\n       Sayı sistemleri uygulaması yaptırır.\n       IPv4 protokolü açıklanır.\n       IPv4 adres türleri unicast multicast broadcast açıklanır.\n       IPv4 özel adres aralıkları private IP address açıklanır.\n       IPv4 genel adresi public IP address açıklanır.\n       Alt ağ maskesi açıklanır.\n       Alt ağ geçidi açıklanır.\n       Apipa IP adresi açıklanır.\n       Loopback IP adresi açıklanır.\n       ARP protokolü açıklanır.\n       ICMP protokolü açıklanır.\n       IPv4 alt ağlara bölme işlemi açıklanır.\n       IPv4 alt ağlara bölme uygulaması yaptırır.\n       VLSM uygulaması yaptırır.\n       IPv6 protokolü açıklanır.\n       IPv6 adres türleri Unicast Multicast Anycast Loopback açıklanır.\n       IPv6 sadeleştirme açıklanır.\n       IPv6 sadeleştirme uygulaması yaptırır.\n       Yönlendirici ve istemcileri statik olarak IPv4 adresi ile yapılandırarak bağlantı testi ping tracert yapar.\n       Yönlendirici ve istemcileri statik olarak IPv6 adresi ile yapılandırarak bağlantı testi ping tracert yapar.\n       Veri bağı katmanı ve başlığı açıklanır.\n       Veri bağı katmanı protokolleri Ethernet PoE Wi-Fi HDLC PPP açıklanır.\n       Fiziksel katman açıklanır.\n       Ağ medyaları açıklanır.\n       Bakır kablo türleri koaksiyel UTP STP açıklanır.\n       Bükümlü çift yama kablo türleri düz çapraz auto mdix açıklanır.\n       Bükümlü çift kablo sonlandırma standartları açıklanır.\n       Bakır kablo konnektör türleri açıklanır.\n       T568A standardına göre RJ45 konnektör ile düz kablo sonlandırma uygulaması yaptırır.\n       T568B standardına göre RJ45 konnektör ile düz kablo sonlandırma uygulaması yaptırır.\n       T568A ve T568B standardlarına göre RJ45 konnektör ile çapraz kablo sonlandırma uygulaması yaptırır.\n       Kablo test cihazı ile sağlamlık testi yaptırır.\n       Fiber optik kablo türleri multi mode single mode açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "1. OSI Referans Modeli",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "OSI referans modelini açıklar.\nAğ ve türleri LAN MAN WAN VPN açıklanır.\n       Ağ topolojileri açıklanır.\n       Ağ cihazları açıklanır.\n       OSI referans modeli açıklanır.\n       Kapsülleme encapsulation ve kapsül açma de- encapsulation kavramları açıklanır.\n       Uygulama katmanı ve protokolleri http https dhcp dns ftp smtp tftp pop3 açıklanır.\n       Sunum katmanı açıklanır.\n       Oturum katmanı açıklanır.\n       Taşıma katmanı açıklanır.\n       TCP başlığı ve üç yollu el sıkışma süreci three way handshake açıklanır.\n       UDP başlığı açıklanır.\n       TCP ve UDP farkları açıklanır.\n       Ağ katmanı ve başlığı açıklanır.\n       Sayı sistemleri ikili onlu on altılık açıklanır.\n       Sayı sistemleri uygulaması yaptırır.\n       IPv4 protokolü açıklanır.\n       IPv4 adres türleri unicast multicast broadcast açıklanır.\n       IPv4 özel adres aralıkları private IP address açıklanır.\n       IPv4 genel adresi public IP address açıklanır.\n       Alt ağ maskesi açıklanır.\n       Alt ağ geçidi açıklanır.\n       Apipa IP adresi açıklanır.\n       Loopback IP adresi açıklanır.\n       ARP protokolü açıklanır.\n       ICMP protokolü açıklanır.\n       IPv4 alt ağlara bölme işlemi açıklanır.\n       IPv4 alt ağlara bölme uygulaması yaptırır.\n       VLSM uygulaması yaptırır.\n       IPv6 protokolü açıklanır.\n       IPv6 adres türleri Unicast Multicast Anycast Loopback açıklanır.\n       IPv6 sadeleştirme açıklanır.\n       IPv6 sadeleştirme uygulaması yaptırır.\n       Yönlendirici ve istemcileri statik olarak IPv4 adresi ile yapılandırarak bağlantı testi ping tracert yapar.\n       Yönlendirici ve istemcileri statik olarak IPv6 adresi ile yapılandırarak bağlantı testi ping tracert yapar.\n       Veri bağı katmanı ve başlığı açıklanır.\n       Veri bağı katmanı protokolleri Ethernet PoE Wi-Fi HDLC PPP açıklanır.\n       Fiziksel katman açıklanır.\n       Ağ medyaları açıklanır.\n       Bakır kablo türleri koaksiyel UTP STP açıklanır.\n       Bükümlü çift yama kablo türleri düz çapraz auto mdix açıklanır.\n       Bükümlü çift kablo sonlandırma standartları açıklanır.\n       Bakır kablo konnektör türleri açıklanır.\n       T568A standardına göre RJ45 konnektör ile düz kablo sonlandırma uygulaması yaptırır.\n       T568B standardına göre RJ45 konnektör ile düz kablo sonlandırma uygulaması yaptırır.\n       T568A ve T568B standardlarına göre RJ45 konnektör ile çapraz kablo sonlandırma uygulaması yaptırır.\n       Kablo test cihazı ile sağlamlık testi yaptırır.\n       Fiber optik kablo türleri multi mode single mode açıklanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "1. OSI Referans Modeli",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav OSI referans modelini açıklar.\nAğ ve türleri LAN MAN WAN VPN açıklanır.\n       Ağ topolojileri açıklanır.\n       Ağ cihazları açıklanır.\n       OSI referans modeli açıklanır.\n       Kapsülleme encapsulation ve kapsül açma de- encapsulation kavramları açıklanır.\n       Uygulama katmanı ve protokolleri http https dhcp dns ftp smtp tftp pop3 açıklanır.\n       Sunum katmanı açıklanır.\n       Oturum katmanı açıklanır.\n       Taşıma katmanı açıklanır.\n       TCP başlığı ve üç yollu el sıkışma süreci three way handshake açıklanır.\n       UDP başlığı açıklanır.\n       TCP ve UDP farkları açıklanır.\n       Ağ katmanı ve başlığı açıklanır.\n       Sayı sistemleri ikili onlu on altılık açıklanır.\n       Sayı sistemleri uygulaması yaptırır.\n       IPv4 protokolü açıklanır.\n       IPv4 adres türleri unicast multicast broadcast açıklanır.\n       IPv4 özel adres aralıkları private IP address açıklanır.\n       IPv4 genel adresi public IP address açıklanır.\n       Alt ağ maskesi açıklanır.\n       Alt ağ geçidi açıklanır.\n       Apipa IP adresi açıklanır.\n       Loopback IP adresi açıklanır.\n       ARP protokolü açıklanır.\n       ICMP protokolü açıklanır.\n       IPv4 alt ağlara bölme işlemi açıklanır.\n       IPv4 alt ağlara bölme uygulaması yaptırır.\n       VLSM uygulaması yaptırır.\n       IPv6 protokolü açıklanır.\n       IPv6 adres türleri Unicast Multicast Anycast Loopback açıklanır.\n       IPv6 sadeleştirme açıklanır.\n       IPv6 sadeleştirme uygulaması yaptırır.\n       Yönlendirici ve istemcileri statik olarak IPv4 adresi ile yapılandırarak bağlantı testi ping tracert yapar.\n       Yönlendirici ve istemcileri statik olarak IPv6 adresi ile yapılandırarak bağlantı testi ping tracert yapar.\n       Veri bağı katmanı ve başlığı açıklanır.\n       Veri bağı katmanı protokolleri Ethernet PoE Wi-Fi HDLC PPP açıklanır.\n       Fiziksel katman açıklanır.\n       Ağ medyaları açıklanır.\n       Bakır kablo türleri koaksiyel UTP STP açıklanır.\n       Bükümlü çift yama kablo türleri düz çapraz auto mdix açıklanır.\n       Bükümlü çift kablo sonlandırma standartları açıklanır.\n       Bakır kablo konnektör türleri açıklanır.\n       T568A standardına göre RJ45 konnektör ile düz kablo sonlandırma uygulaması yaptırır.\n       T568B standardına göre RJ45 konnektör ile düz kablo sonlandırma uygulaması yaptırır.\n       T568A ve T568B standardlarına göre RJ45 konnektör ile çapraz kablo sonlandırma uygulaması yaptırır.\n       Kablo test cihazı ile sağlamlık testi yaptırır.\n       Fiber optik kablo türleri multi mode single mode açıklanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "2. TCPIP Protokol Kümesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "TCPIP protokol kümesini açıklar.\nTCPIP protokol kümesi TCPIP modeli açıklanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "2. TCPIP Protokol Kümesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "TCPIP protokol kümesini açıklar.\nTCPIP protokol kümesi TCPIP modeli açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "2. TCPIP Protokol Kümesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "TCPIP protokol kümesini açıklar.\nTCPIP protokol kümesi TCPIP modeli açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "3. Ağ Protokolleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Network protokollerini kullanarak ağ topolojisi hazırlar.\nDHCP protokolü açıklanır.\n       DHCPv4 süreci DORA açıklanır.\n       DHCPv4 uygulaması yaptırır.\n       DHCPv6 süreci Durumsuz Auto Config Modu Durumsuz Auto Config  DHCP modu Durumlu DHCP açıklanır.\n       DHCPv6 uygulaması yaptırır.\n       ARP protokolü açıklanır.\n       ARP protokolünün çalışma sürecini simülasyon programında izleme uygulaması yaptırır.\n       DNS protokolü açıklanır.\n       DNS protokolü uygulaması yaptırır.\n       ICMP protokolü echo request echo replay açıklanır.\n       ICMP protokolü ile iletişim testi yaptırır.\n       TFTP protokolü ile ağ cihazı işletim sistemi ve konfigürasyon dosyası yedeği alma uygulaması yaptırır.\n       HTTP ve HTTPS protokolü uygulaması yaptırır.\n       FTP protokolü uygulaması yaptırır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "3. Ağ Protokolleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Network protokollerini kullanarak ağ topolojisi hazırlar.\nDHCP protokolü açıklanır.\n       DHCPv4 süreci DORA açıklanır.\n       DHCPv4 uygulaması yaptırır.\n       DHCPv6 süreci Durumsuz Auto Config Modu Durumsuz Auto Config  DHCP modu Durumlu DHCP açıklanır.\n       DHCPv6 uygulaması yaptırır.\n       ARP protokolü açıklanır.\n       ARP protokolünün çalışma sürecini simülasyon programında izleme uygulaması yaptırır.\n       DNS protokolü açıklanır.\n       DNS protokolü uygulaması yaptırır.\n       ICMP protokolü echo request echo replay açıklanır.\n       ICMP protokolü ile iletişim testi yaptırır.\n       TFTP protokolü ile ağ cihazı işletim sistemi ve konfigürasyon dosyası yedeği alma uygulaması yaptırır.\n       HTTP ve HTTPS protokolü uygulaması yaptırır.\n       FTP protokolü uygulaması yaptırır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "3. Ağ Protokolleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Network protokollerini kullanarak ağ topolojisi hazırlar.\nDHCP protokolü açıklanır.\n       DHCPv4 süreci DORA açıklanır.\n       DHCPv4 uygulaması yaptırır.\n       DHCPv6 süreci Durumsuz Auto Config Modu Durumsuz Auto Config  DHCP modu Durumlu DHCP açıklanır.\n       DHCPv6 uygulaması yaptırır.\n       ARP protokolü açıklanır.\n       ARP protokolünün çalışma sürecini simülasyon programında izleme uygulaması yaptırır.\n       DNS protokolü açıklanır.\n       DNS protokolü uygulaması yaptırır.\n       ICMP protokolü echo request echo replay açıklanır.\n       ICMP protokolü ile iletişim testi yaptırır.\n       TFTP protokolü ile ağ cihazı işletim sistemi ve konfigürasyon dosyası yedeği alma uygulaması yaptırır.\n       HTTP ve HTTPS protokolü uygulaması yaptırır.\n       FTP protokolü uygulaması yaptırır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Ağ Referans Modeli",
+      "KONU": "3. Ağ Protokolleri",
+      "KAZANIM": "Network protokollerini kullanarak ağ topolojisi hazırlar.\nDHCP protokolü açıklanır.\n       DHCPv4 süreci DORA açıklanır.\n       DHCPv4 uygulaması yaptırır.\n       DHCPv6 süreci Durumsuz Auto Config Modu Durumsuz Auto Config  DHCP modu Durumlu DHCP açıklanır.\n       DHCPv6 uygulaması yaptırır.\n       ARP protokolü açıklanır.\n       ARP protokolünün çalışma sürecini simülasyon programında izleme uygulaması yaptırır.\n       DNS protokolü açıklanır.\n       DNS protokolü uygulaması yaptırır.\n       ICMP protokolü echo request echo replay açıklanır.\n       ICMP protokolü ile iletişim testi yaptırır.\n       TFTP protokolü ile ağ cihazı işletim sistemi ve konfigürasyon dosyası yedeği alma uygulaması yaptırır.\n       HTTP ve HTTPS protokolü uygulaması yaptırır.\n       FTP protokolü uygulaması yaptırır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "1.  Masaüstü Kişisel Bilgisayar ve Mobil İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav İhtiyacı doğrultusunda işletim sistemlerini kullanır.\nİstemci ve sunucu mimarisi açıklanır.\n Mobil işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemi açılış süreci açıklanır.\n Linux dosya sistemi açıklanır.\n Linux işletim sistemi kurulumunu yaptırır.\n Linux işletim sisteminde yardımcı yazılımların kurulumunu yaptırır.\n Linux işletim sisteminin dizin yapısı açıklanır.\n Linux işletim sisteminde terminal komutları yardım ve bilgi alma dosya ve dizin yönetimi arşivleme dosya indirme yetkilendirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Linux işletim sisteminde terminal komutlarını kullanarak uygulamalar yaptırır.\n Linux işletim sistemi editörleri nano vim açıklanır.\n Linux işletim sistemi editörlerini nano vim kullanarak uygulama yaptırır.\n Windows işletim sistemi ve özellikleri açıklanır.\n Windows işletim sistemi açılış süreci açıklanır.\n Windows dosya sistemi açıklanır.\n Windows işletim sistemi kurulumunu yaptırır.\n Windows işletim sisteminde DOS komutları yardım dosya ve klasör yönetimi dosya indirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Windows işletim sisteminde DOS komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell ve özellikleri açıklanır.\n Windows işletim sisteminde PowerShell komutları açıklanır.\n Windows işletim sisteminde PowerShell komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell betik programlama yapıları açıklanır.\n Windows işletim sisteminde PowerShell programlama dili ile betik dosyaları oluşturma uygulamaları yaptırır.\n Windows işletim sistemi yönetim araçları açıklanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "1.  Masaüstü Kişisel Bilgisayar ve Mobil İşletim Sistemleri",
+      "KAZANIM": "İhtiyacı doğrultusunda işletim sistemlerini kullanır.\nİstemci ve sunucu mimarisi açıklanır.\n Mobil işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemi açılış süreci açıklanır.\n Linux dosya sistemi açıklanır.\n Linux işletim sistemi kurulumunu yaptırır.\n Linux işletim sisteminde yardımcı yazılımların kurulumunu yaptırır.\n Linux işletim sisteminin dizin yapısı açıklanır.\n Linux işletim sisteminde terminal komutları yardım ve bilgi alma dosya ve dizin yönetimi arşivleme dosya indirme yetkilendirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Linux işletim sisteminde terminal komutlarını kullanarak uygulamalar yaptırır.\n Linux işletim sistemi editörleri nano vim açıklanır.\n Linux işletim sistemi editörlerini nano vim kullanarak uygulama yaptırır.\n Windows işletim sistemi ve özellikleri açıklanır.\n Windows işletim sistemi açılış süreci açıklanır.\n Windows dosya sistemi açıklanır.\n Windows işletim sistemi kurulumunu yaptırır.\n Windows işletim sisteminde DOS komutları yardım dosya ve klasör yönetimi dosya indirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Windows işletim sisteminde DOS komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell ve özellikleri açıklanır.\n Windows işletim sisteminde PowerShell komutları açıklanır.\n Windows işletim sisteminde PowerShell komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell betik programlama yapıları açıklanır.\n Windows işletim sisteminde PowerShell programlama dili ile betik dosyaları oluşturma uygulamaları yaptırır.\n Windows işletim sistemi yönetim araçları açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "1.  Masaüstü Kişisel Bilgisayar ve Mobil İşletim Sistemleri",
+      "KAZANIM": "İhtiyacı doğrultusunda işletim sistemlerini kullanır.\nİstemci ve sunucu mimarisi açıklanır.\n Mobil işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemi açılış süreci açıklanır.\n Linux dosya sistemi açıklanır.\n Linux işletim sistemi kurulumunu yaptırır.\n Linux işletim sisteminde yardımcı yazılımların kurulumunu yaptırır.\n Linux işletim sisteminin dizin yapısı açıklanır.\n Linux işletim sisteminde terminal komutları yardım ve bilgi alma dosya ve dizin yönetimi arşivleme dosya indirme yetkilendirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Linux işletim sisteminde terminal komutlarını kullanarak uygulamalar yaptırır.\n Linux işletim sistemi editörleri nano vim açıklanır.\n Linux işletim sistemi editörlerini nano vim kullanarak uygulama yaptırır.\n Windows işletim sistemi ve özellikleri açıklanır.\n Windows işletim sistemi açılış süreci açıklanır.\n Windows dosya sistemi açıklanır.\n Windows işletim sistemi kurulumunu yaptırır.\n Windows işletim sisteminde DOS komutları yardım dosya ve klasör yönetimi dosya indirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Windows işletim sisteminde DOS komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell ve özellikleri açıklanır.\n Windows işletim sisteminde PowerShell komutları açıklanır.\n Windows işletim sisteminde PowerShell komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell betik programlama yapıları açıklanır.\n Windows işletim sisteminde PowerShell programlama dili ile betik dosyaları oluşturma uygulamaları yaptırır.\n Windows işletim sistemi yönetim araçları açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "1.  Masaüstü Kişisel Bilgisayar ve Mobil İşletim Sistemleri",
+      "KAZANIM": "İhtiyacı doğrultusunda işletim sistemlerini kullanır.\nİstemci ve sunucu mimarisi açıklanır.\n Mobil işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemi açılış süreci açıklanır.\n Linux dosya sistemi açıklanır.\n Linux işletim sistemi kurulumunu yaptırır.\n Linux işletim sisteminde yardımcı yazılımların kurulumunu yaptırır.\n Linux işletim sisteminin dizin yapısı açıklanır.\n Linux işletim sisteminde terminal komutları yardım ve bilgi alma dosya ve dizin yönetimi arşivleme dosya indirme yetkilendirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Linux işletim sisteminde terminal komutlarını kullanarak uygulamalar yaptırır.\n Linux işletim sistemi editörleri nano vim açıklanır.\n Linux işletim sistemi editörlerini nano vim kullanarak uygulama yaptırır.\n Windows işletim sistemi ve özellikleri açıklanır.\n Windows işletim sistemi açılış süreci açıklanır.\n Windows dosya sistemi açıklanır.\n Windows işletim sistemi kurulumunu yaptırır.\n Windows işletim sisteminde DOS komutları yardım dosya ve klasör yönetimi dosya indirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Windows işletim sisteminde DOS komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell ve özellikleri açıklanır.\n Windows işletim sisteminde PowerShell komutları açıklanır.\n Windows işletim sisteminde PowerShell komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell betik programlama yapıları açıklanır.\n Windows işletim sisteminde PowerShell programlama dili ile betik dosyaları oluşturma uygulamaları yaptırır.\n Windows işletim sistemi yönetim araçları açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "1.  Masaüstü Kişisel Bilgisayar ve Mobil İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "İhtiyacı doğrultusunda işletim sistemlerini kullanır.\nİstemci ve sunucu mimarisi açıklanır.\n Mobil işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemi açılış süreci açıklanır.\n Linux dosya sistemi açıklanır.\n Linux işletim sistemi kurulumunu yaptırır.\n Linux işletim sisteminde yardımcı yazılımların kurulumunu yaptırır.\n Linux işletim sisteminin dizin yapısı açıklanır.\n Linux işletim sisteminde terminal komutları yardım ve bilgi alma dosya ve dizin yönetimi arşivleme dosya indirme yetkilendirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Linux işletim sisteminde terminal komutlarını kullanarak uygulamalar yaptırır.\n Linux işletim sistemi editörleri nano vim açıklanır.\n Linux işletim sistemi editörlerini nano vim kullanarak uygulama yaptırır.\n Windows işletim sistemi ve özellikleri açıklanır.\n Windows işletim sistemi açılış süreci açıklanır.\n Windows dosya sistemi açıklanır.\n Windows işletim sistemi kurulumunu yaptırır.\n Windows işletim sisteminde DOS komutları yardım dosya ve klasör yönetimi dosya indirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Windows işletim sisteminde DOS komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell ve özellikleri açıklanır.\n Windows işletim sisteminde PowerShell komutları açıklanır.\n Windows işletim sisteminde PowerShell komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell betik programlama yapıları açıklanır.\n Windows işletim sisteminde PowerShell programlama dili ile betik dosyaları oluşturma uygulamaları yaptırır.\n Windows işletim sistemi yönetim araçları açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "1.  Masaüstü Kişisel Bilgisayar ve Mobil İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "İhtiyacı doğrultusunda işletim sistemlerini kullanır.\nİstemci ve sunucu mimarisi açıklanır.\n Mobil işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemleri ve özellikleri açıklanır.\n Linux işletim sistemi açılış süreci açıklanır.\n Linux dosya sistemi açıklanır.\n Linux işletim sistemi kurulumunu yaptırır.\n Linux işletim sisteminde yardımcı yazılımların kurulumunu yaptırır.\n Linux işletim sisteminin dizin yapısı açıklanır.\n Linux işletim sisteminde terminal komutları yardım ve bilgi alma dosya ve dizin yönetimi arşivleme dosya indirme yetkilendirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Linux işletim sisteminde terminal komutlarını kullanarak uygulamalar yaptırır.\n Linux işletim sistemi editörleri nano vim açıklanır.\n Linux işletim sistemi editörlerini nano vim kullanarak uygulama yaptırır.\n Windows işletim sistemi ve özellikleri açıklanır.\n Windows işletim sistemi açılış süreci açıklanır.\n Windows dosya sistemi açıklanır.\n Windows işletim sistemi kurulumunu yaptırır.\n Windows işletim sisteminde DOS komutları yardım dosya ve klasör yönetimi dosya indirme kullanıcı ve grup yönetimi süreç yönetimi ağ zamanlanmış görev oluşturma vb. açıklanır.\n Windows işletim sisteminde DOS komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell ve özellikleri açıklanır.\n Windows işletim sisteminde PowerShell komutları açıklanır.\n Windows işletim sisteminde PowerShell komutlarını kullanarak uygulama yaptırır.\n Windows PowerShell betik programlama yapıları açıklanır.\n Windows işletim sisteminde PowerShell programlama dili ile betik dosyaları oluşturma uygulamaları yaptırır.\n Windows işletim sistemi yönetim araçları açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "2.Sunucu İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "İhtiyacı doğrultusunda sunucu işletim sistemlerini kullanır.\nSunucu işletim sistemi açıklanır.\n Sunucu işletim sistemi kurulumu yaptırır.\n Sunucu işletim sistemi servis yapılandırması yaptırır.\n Sunucuda veri güvenliği adımlarını açıklayarak uygulama yaptırır.\n Sunucu güvenlik testi yaptırır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "2.Sunucu İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "İhtiyacı doğrultusunda sunucu işletim sistemlerini kullanır.\nSunucu işletim sistemi açıklanır.\n Sunucu işletim sistemi kurulumu yaptırır.\n Sunucu işletim sistemi servis yapılandırması yaptırır.\n Sunucuda veri güvenliği adımlarını açıklayarak uygulama yaptırır.\n Sunucu güvenlik testi yaptırır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "2.Sunucu İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "İhtiyacı doğrultusunda sunucu işletim sistemlerini kullanır.\nSunucu işletim sistemi açıklanır.\n Sunucu işletim sistemi kurulumu yaptırır.\n Sunucu işletim sistemi servis yapılandırması yaptırır.\n Sunucuda veri güvenliği adımlarını açıklayarak uygulama yaptırır.\n Sunucu güvenlik testi yaptırır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "2.Sunucu İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav İhtiyacı doğrultusunda sunucu işletim sistemlerini kullanır.\nSunucu işletim sistemi açıklanır.\n Sunucu işletim sistemi kurulumu yaptırır.\n Sunucu işletim sistemi servis yapılandırması yaptırır.\n Sunucuda veri güvenliği adımlarını açıklayarak uygulama yaptırır.\n Sunucu güvenlik testi yaptırır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "2.Sunucu İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "İhtiyacı doğrultusunda sunucu işletim sistemlerini kullanır.\nSunucu işletim sistemi açıklanır.\n Sunucu işletim sistemi kurulumu yaptırır.\n Sunucu işletim sistemi servis yapılandırması yaptırır.\n Sunucuda veri güvenliği adımlarını açıklayarak uygulama yaptırır.\n Sunucu güvenlik testi yaptırır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "2.Sunucu İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "İhtiyacı doğrultusunda sunucu işletim sistemlerini kullanır.\nSunucu işletim sistemi açıklanır.\n Sunucu işletim sistemi kurulumu yaptırır.\n Sunucu işletim sistemi servis yapılandırması yaptırır.\n Sunucuda veri güvenliği adımlarını açıklayarak uygulama yaptırır.\n Sunucu güvenlik testi yaptırır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "İşletim Sistemleri",
+      "KONU": "2.Sunucu İşletim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "İhtiyacı doğrultusunda sunucu işletim sistemlerini kullanır.\nSunucu işletim sistemi açıklanır.\n Sunucu işletim sistemi kurulumu yaptırır.\n Sunucu işletim sistemi servis yapılandırması yaptırır.\n Sunucuda veri güvenliği adımlarını açıklayarak uygulama yaptırır.\n Sunucu güvenlik testi yaptırır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Sanallaştırma ve Bulut Bilişim",
+      "KONU": "1. Sanallaştırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Sanallaştırma teknolojisini kullanır.\nSanallaştırma kavramı açıklanır.\n Hipervizör türleri Tip 1 ve Tip 2 açıklanır.\n Tip 1 ve Tip 2 sanallaştırma arasındaki farklar açıklanır.\n Tip 1 sanallaştırma uygulaması ESXi yaptırır.\n Tip 2 sanallaştırma uygulaması yaptırır.\n Konteyner mimarisi Docker ve Kubernetes açıklanır.\n Konteyner mimarisi uygulamaları yaptırır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Sanallaştırma ve Bulut Bilişim",
+      "KONU": "1. Sanallaştırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Sanallaştırma teknolojisini kullanır.\nSanallaştırma kavramı açıklanır.\n Hipervizör türleri Tip 1 ve Tip 2 açıklanır.\n Tip 1 ve Tip 2 sanallaştırma arasındaki farklar açıklanır.\n Tip 1 sanallaştırma uygulaması ESXi yaptırır.\n Tip 2 sanallaştırma uygulaması yaptırır.\n Konteyner mimarisi Docker ve Kubernetes açıklanır.\n Konteyner mimarisi uygulamaları yaptırır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Sanallaştırma ve Bulut Bilişim",
+      "KONU": "1. Sanallaştırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Sanallaştırma teknolojisini kullanır.\nSanallaştırma kavramı açıklanır.\n Hipervizör türleri Tip 1 ve Tip 2 açıklanır.\n Tip 1 ve Tip 2 sanallaştırma arasındaki farklar açıklanır.\n Tip 1 sanallaştırma uygulaması ESXi yaptırır.\n Tip 2 sanallaştırma uygulaması yaptırır.\n Konteyner mimarisi Docker ve Kubernetes açıklanır.\n Konteyner mimarisi uygulamaları yaptırır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Sanallaştırma ve Bulut Bilişim",
+      "KONU": "2. Bulut Bilişim",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Bulut bilişim teknolojisini açıklar.\nBulut bilişim açıklanır.\n Bulut bilişim dağıtım modelleri genel bulut özel bulut hibrit bulut topluluk bulutu açıklanır.\n Bulut bilişim hizmet modelleri IaaS PaaS SaaS açıklanır.\n Bulut bilişim işletim sistemleri özellikleri açıklanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Sanallaştırma ve Bulut Bilişim",
+      "KONU": "2. Bulut Bilişim",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Bulut bilişim teknolojisini açıklar.\nBulut bilişim açıklanır.\n Bulut bilişim dağıtım modelleri genel bulut özel bulut hibrit bulut topluluk bulutu açıklanır.\n Bulut bilişim hizmet modelleri IaaS PaaS SaaS açıklanır.\n Bulut bilişim işletim sistemleri özellikleri açıklanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Sanallaştırma ve Bulut Bilişim",
+      "KONU": "2. Bulut Bilişim",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Bulut bilişim teknolojisini açıklar.\nBulut bilişim açıklanır.\n Bulut bilişim dağıtım modelleri genel bulut özel bulut hibrit bulut topluluk bulutu açıklanır.\n Bulut bilişim hizmet modelleri IaaS PaaS SaaS açıklanır.\n Bulut bilişim işletim sistemleri özellikleri açıklanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Sanallaştırma ve Bulut Bilişim",
+      "KONU": "2. Bulut Bilişim",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Bulut bilişim teknolojisini açıklar.\nBulut bilişim açıklanır.\n Bulut bilişim dağıtım modelleri genel bulut özel bulut hibrit bulut topluluk bulutu açıklanır.\n Bulut bilişim hizmet modelleri IaaS PaaS SaaS açıklanır.\n Bulut bilişim işletim sistemleri özellikleri açıklanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

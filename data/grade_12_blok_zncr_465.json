@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "BLOK ZNCR",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "1. ÖĞRENME BİRİMİ BLOK ZİNCİR TEKNOLOJİSİ \n1.1. Blok Zincir Sistemi\n1.2. Blok Zincir Kavramları \n1.3. Blok Zincir Teknolojisinin Uygulama Alanları Ve Kullanım Senaryoları\n1.4. Kriptografi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Blok zinciri teknolojisini açıklar.\nKriptografiyi açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1.5. Hash Fonksiyonu Örnekleri \n1.6. Dağıtık Defter Teknolojisi Kavramı Ve Çeşitleri \n1.7. Madencilik Kavramı Ve Blok Zincirde Kullanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Özetleme fonksiyonu örneklerini açıklar.\nDağıtık defter teknolojisini açıklar.\nMadencilik kavramını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "2. ÖĞRENME BİRİMİ FİNANSAL TEKNOLOJİLER VE KRİPTO EKONOMİ \n2.1. Paranın Tarihçesi  \n2.2. Para Politikası \n2.3. Para Çeşitleri",
+      "KAZANIM": "Para ile ilgili kavramları açıklar.\nUlusal ve uluslararası blok zinciri politikasını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "2.4. Blok Zincir 1.0 \n2.5. Blok Zincir 2.0 \n2.6. Genel Amaçlı İlk Programlanabilir Blok Zincir",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Blok zinciri ortamlarını açıklar.\nFinansal teknolojilerde blok zinciri uygulamalarını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "3. ÖĞRENME BİRİMİ MUTABAKAT PROTOKOLLERİ \n3.1. Bizans Hata Toleransı Bft \n3.2. İş Kanıtı Proof Of Work Mutabakat Mekanizması \n3.3. Hisse Kanıtı Proof Of Stake Mutabakat Mekanizması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Bizans hata toleransını açıklar.\nMutabakat mekanizmalarını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "3.4. Otorite Kanıtı Proof Of Authorıty Mutabakat Mekanizması \n3.5. Geciktirilmiş İspat Delayed Proof Of Work Mutabakat Mekanizması \n3.6. Hibrit Mutabakat Algoritmaları \n3.7. Yeni Nesil Mutabakat Mekanizmaları",
+      "KAZANIM": "Mutabakat mekanizmalarını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "4. ÖĞRENME BİRİMİ BLOK ZİNCİR 1.0 MİMARİSİ \n4.1. Eşten-Eşe Elektronik Nakit Ödeme Sistemi Protokolü \n4.2. Eşten-Eşe Elektronik Nakit Ödeme Sistemi Oyun Teorisi",
+      "KAZANIM": "Eşten-eşe elektronik nakit ödeme sisteminin protokolünü açıklar.\nEşten-eşe elektronik nakit ödeme sisteminin ödüllendirme politikasını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "4.3. Eşten-Eşe Elektronik Nakit Ödeme Sisteminde Madencilik Ve Zorluk Seviyeleri\n4.4. Eşten-Eşe Elektronik Nakit Ödeme Sistemi Saldırıları \n4.5. Lightning Ağı \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Oyun teorisi açısından eşten-eşe elektronik nakit ödeme sistemi madenciliğini açıklar.\nEşten-eşe elektronik nakit ödeme sistemi madenciliğinde zorluk seviyesini açıklar.\nBlok zinciri saldırılarını açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "5. ÖĞRENME BİRİMİ BLOK ZİNCİRİ 2.0 MİMARİSİ \n5.1. Genel Amaçlı İlk Programlanabilir Blok Zincir Protokolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Blok zinciri 2.0 ödüllendirme politikasını açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "5.2. Genel Amaçlı İlk Programlanabilir Blok Zincirinde Oyun Teorisi Ve Madencilik",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Blok zinciri 2.0 madenciliği açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "5.3. Merkezî Olmayan Uygulamalar Dapp \n5.4. Genel Amaçlı İlk Programlanabilir Blok Zincir Sanal Makinesi Evm",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Merkeziyetsiz uygulamaları açıklar.\nSanal makine çalışma prensibini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "5.5. Genel Amaçlı İlk Programlanabilir Blok Zincirinde Çatallanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Çatallama işlemlerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "6. ÖĞRENME BİRİMİ BLOK ZİNCİR YAZILIM GELİŞTİRME \n6.1. Blok Zincir Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Blok zincirinde temel programlama yapılarını kullanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "6.1. Blok Zincir Oluşturma \n6.2. Kripto Para Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Blok zincirinde temel programlama yapılarını kullanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "6.2. Kripto Para Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Blok zincirinde temel programlama yapılarını kullanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "7. ÖĞRENME BİRİMİ AKILLI KONTRATLAR \n7.1. Akıllı Kontrat Oluşturma \n1.Dönem 2.Sınav",
+      "KAZANIM": "Blok zincirinde akıllı kontrat oluşturur."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "7.2. Solidity Kullanımı \n7.3. Test Mimarisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Blok zincirinde akıllı kontrat testi yapar.\nBlok zinciri projesini dizayn eder."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "7.4. Merkezî Olmayan Uygulamalar Dapp \n7.5. Infura Kurulumu",
+      "KAZANIM": "Blok zinciri projesini dizayn eder."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "7.6. Etherscande Deploy Gözlemi",
+      "KAZANIM": "Blok zinciri projesini dizayn eder."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "8. ÖĞRENME BİRİMİ İLERİ DÜZEY AKILLI KONTRATLAR \n8.1. Temel Solidity Yapısı",
+      "KAZANIM": "Blok zinciri projesi için ileri düzey akıllı kontrat oluşturur."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "8.1. Temel Solidity Yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Blok zinciri projesi için ileri düzey akıllı kontrat oluşturur."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "8.2. İleri Düzey Akıllı Kontratlarda Hata Ayıklama",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Blok zinciri projesi için ileri düzey akıllı kontrat oluşturur."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "8.3. Akıllı Kontrat Dizaynı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Blok zinciri projesi için ileri düzey akıllı kontrat oluşturur."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "8.4. Genel Amaçlı İlk Programlanabilir Blok Zincirde Akıllı Kontrat Yazımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Blok zinciri projesi için ileri düzey akıllı kontrat oluşturur."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "8.5. Proje Test Etme  \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Blok zinciri projesini test eder."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "9. ÖĞRENME BİRİMİ MERKEZİYETSİZ ORGANİZASYONLAR \n9.1. Dao Merkeziyetsiz Otonom Organizasyon",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Merkeziyetsiz otonom organizasyonları açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "9.2. Merkeziyetsiz Uygulamalar \n9.3. Blok Zincir Hukuku",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Merkeziyetsiz uygulamaların geleceğini açıklar.\nBlok zinciri hukukunu açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "10. ÖĞRENME BİRİMİ BLOK ZİNCİR GİRİŞİMCİLİĞİ \n10.1. Blok Zincir Ve Web 3.0 \n10.2. İhtiyaç Analizi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Blok zinciri projesi için ihtiyaç analizi yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "10.3. Proje Yazım Kuralları \n10.4. Ico Ito Ieo  \nÇocuk insan sevgisi ve evrensellik",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Blok zinciri projesini yazar.\nBlok zinciri projesinin sunumu yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "10.5. Kimlik Yönetimi \n10.6. Blok Zincir Ve İş Dünyasının Dönüşümü",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Blok zincirinde kimlik yönetimini açıklar.\nBlok zinciri ile iş dünyasının dönüşümünü açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "11. ÖĞRENME BİRİMİ PROJE ÖRNEKLERİ VE DÜNYADAN GİRİŞİMLER \n11.1. Tedarik Zincirinde Blok Zincir \n11.2. Sağlık Alanında Blok Zincir",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Blok zinciri kullanan proje örneklerini açıklar.\nBlok zinciri proje uygulamaları yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "11.3. Enerji Sektöründe Blok Zincir \n11.4. Emlak Piyasasında Blok Zincir",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Blok zinciri kullanan proje örneklerini açıklar.\nBlok zinciri proje uygulamaları yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "11.5. Sigortacılık Alanında Blok Zincir \n11.6. Telif Haklarının Korumasında Blok Zincir  \nAtatürkçü düşüncede yer alan temel fikirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Blok zinciri kullanan proje örneklerini açıklar.\nBlok zinciri proje uygulamaları yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "11.7. Kamu Yönetiminde Blok Zincir",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Blok zinciri kullanan proje örneklerini açıklar.\nBlok zinciri proje uygulamaları yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "12. ÖĞRENME BİRİMİ YENİ NESİL BLOK ZİNCİR PLATFORMLARI \n12.1. Hyperledger Platformu  \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Yeni Nesil özel blok zinciri platformunu kullanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "12.2. Neo Platformu",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Yeni Nesil açık kaynak blok zinciri platformunu kullanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}
