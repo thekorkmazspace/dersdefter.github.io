@@ -1,6 +1,6 @@
 {
   "sinif": "6",
-  "ders": "SEÇMELİ ROBOTİK KODLAMA",
+  "ders": "Seçmeli Robotik Kodlama",
   "plan": [
     {
       "AY": "EYLÜL",
@@ -8,8 +8,8 @@
       "SAAT": "2",
       "ÜNİTE": "GİRİŞ DÜZEYİ ROBOTİK UYGULAMALARI",
       "KONU": "RK.1.5.2. 7 Segment Display Uygulaması",
-      "KAZANIM": "RK.1.5.2.1. Led uygulama projesi tasarlar.\nRK.1.5.2.2. Projeye uygun bileşenleri belirler.\nRK.1.5.2.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortam üzerine yerleştirir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "RK.1.5.2.1. Led uygulama projesi tasarlar.\nRK.1.5.2.2. Projeye uygun bileşenleri belirler.\nRK.1.5.2.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortam üzerine yerleştirir."
     },
     {
       "AY": "EYLÜL",
@@ -17,8 +17,8 @@
       "SAAT": "2",
       "ÜNİTE": "GİRİŞ DÜZEYİ ROBOTİK UYGULAMALARI",
       "KONU": "RK.1.5.2. 7 Segment Display Uygulaması",
-      "KAZANIM": "RK.1.5.2.4. Benzetim ortamında devreyi hazırlar.\nRK.1.5.2.5. Benzetim ortamındaki devreyi test eder.\nRK.1.5.2.6. Yazılımsal ve donanımsal hataları ayıklar.",
-      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "RK.1.5.2.4. Benzetim ortamında devreyi hazırlar.\nRK.1.5.2.5. Benzetim ortamındaki devreyi test eder.\nRK.1.5.2.6. Yazılımsal ve donanımsal hataları ayıklar."
     },
     {
       "AY": "EYLÜL",
@@ -34,8 +34,8 @@
       "SAAT": "2",
       "ÜNİTE": "GİRİŞ DÜZEYİ ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.1.2. Motor Uygulaması",
-      "KAZANIM": "RK.2.1.2.1. Motor uygulama projesi tasarlar.\nRK.2.1.2.2. Projeye uygun bileşenleri belirler.\nRK.2.1.2.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "RK.2.1.2.1. Motor uygulama projesi tasarlar.\nRK.2.1.2.2. Projeye uygun bileşenleri belirler.\nRK.2.1.2.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir."
     },
     {
       "AY": "EKIM",
@@ -43,8 +43,8 @@
       "SAAT": "2",
       "ÜNİTE": "GİRİŞ DÜZEYİ ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.1.2. Motor Uygulaması",
-      "KAZANIM": "RK.2.1.2.4. Benzetim ortamında devreyi hazırlar.\nRK.2.1.2.5. Benzetim ortamındaki devreyi test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "RK.2.1.2.4. Benzetim ortamında devreyi hazırlar.\nRK.2.1.2.5. Benzetim ortamındaki devreyi test eder."
     },
     {
       "AY": "EKIM",
@@ -68,8 +68,8 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 1. DÖNEM 1. SINAV",
       "KONU": "SINAV HAFTASI 1. DÖNEM 1. SINAV",
-      "KAZANIM": "1. DÖNEM 1. SINAV",
-      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "1. DÖNEM 1. SINAV"
     },
     {
       "AY": "KASIM",
@@ -77,8 +77,8 @@
       "SAAT": "2",
       "ÜNİTE": "ORTA DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.3.1. Trafik Işığı Uygulaması",
-      "KAZANIM": "1. Dönem 1. Sınav RK.2.3.1.4. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir.\nRK.2.3.1.5. Benzetim ortamında devreyi hazırlar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav RK.2.3.1.4. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir.\nRK.2.3.1.5. Benzetim ortamında devreyi hazırlar."
     },
     {
       "AY": "KASIM",
@@ -86,8 +86,8 @@
       "SAAT": "2",
       "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
-      "KAZANIM": "1. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
       "AY": "KASIM",
@@ -95,8 +95,8 @@
       "SAAT": "2",
       "ÜNİTE": "ORTA DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.3.1. Trafik Işığı Uygulaması",
-      "KAZANIM": "RK.2.3.1.6. Benzetim ortamındaki devreyi test eder.\nRK.2.3.1.7. Yazılımsal ve donanımsal hataları ayıklar.\nRK.2.3.1.8. Fiziksel gerçek ortamda devreyi oluşturur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "RK.2.3.1.6. Benzetim ortamındaki devreyi test eder.\nRK.2.3.1.7. Yazılımsal ve donanımsal hataları ayıklar.\nRK.2.3.1.8. Fiziksel gerçek ortamda devreyi oluşturur."
     },
     {
       "AY": "KASIM",
@@ -104,8 +104,8 @@
       "SAAT": "2",
       "ÜNİTE": "ORTA DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.2. Akıllı Aydınlatma",
-      "KAZANIM": "RK.2.2.2.1. Akıllı aydınlatma projesi tasarlar.\nRK.2.2.2.2. Projeye uygun bileşenleri belirler.\nRK.2.2.2.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "RK.2.2.2.1. Akıllı aydınlatma projesi tasarlar.\nRK.2.2.2.2. Projeye uygun bileşenleri belirler.\nRK.2.2.2.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir."
     },
     {
       "AY": "ARALIK",
@@ -113,8 +113,8 @@
       "SAAT": "2",
       "ÜNİTE": "ORTA DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.2. Akıllı Aydınlatma",
-      "KAZANIM": "RK.2.2.2.4. Benzetim ortamında devreyi hazırlar.\nRK.2.2.2.5. Benzetim ortamındaki devreyi test eder.\nRK.2.2.2.6. Yazılımsal ve donanımsal hataları ayıklar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "RK.2.2.2.4. Benzetim ortamında devreyi hazırlar.\nRK.2.2.2.5. Benzetim ortamındaki devreyi test eder.\nRK.2.2.2.6. Yazılımsal ve donanımsal hataları ayıklar."
     },
     {
       "AY": "ARALIK",
@@ -122,8 +122,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.2. Akıllı Aydınlatma",
-      "KAZANIM": "RK.2.2.2.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.2.8. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "RK.2.2.2.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.2.8. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "ARALIK",
@@ -131,8 +131,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.3. Isı Kontrollü Havalandırma",
-      "KAZANIM": "RK.2.2.3.1. Isı kontrollü havalandırma projesi tasarlar.\nRK.2.2.3.2. Projeye uygun bileşenleri belirler.\nRK.2.2.3.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "RK.2.2.3.1. Isı kontrollü havalandırma projesi tasarlar.\nRK.2.2.3.2. Projeye uygun bileşenleri belirler.\nRK.2.2.3.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir."
     },
     {
       "AY": "ARALIK",
@@ -140,8 +140,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.3. Isı Kontrollü Havalandırma",
-      "KAZANIM": "RK.2.2.3.4. Benzetim ortamında devreyi hazırlar.\nRK.2.2.3.5. Benzetim ortamındaki devreyi test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "RK.2.2.3.4. Benzetim ortamında devreyi hazırlar.\nRK.2.2.3.5. Benzetim ortamındaki devreyi test eder."
     },
     {
       "AY": "ARALIK",
@@ -157,8 +157,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.3. Isı Kontrollü Havalandırma",
-      "KAZANIM": "1. Dönem 2. Sınav RK.2.2.3.5. Benzetim ortamındaki devreyi test eder.\nRK.2.2.3.6. Yazılımsal ve donanımsal hataları ayıklar.\nRK.2.2.3.7. Fiziksel gerçek ortamda devreyi oluşturur.",
-      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav RK.2.2.3.5. Benzetim ortamındaki devreyi test eder.\nRK.2.2.3.6. Yazılımsal ve donanımsal hataları ayıklar.\nRK.2.2.3.7. Fiziksel gerçek ortamda devreyi oluşturur."
     },
     {
       "AY": "OCAK",
@@ -214,8 +214,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.3.2. Çarpışma Önleyici",
-      "KAZANIM": "RK.2.3.2.3. Projeye uygun bileşenleri belirler.\nRK.2.3.2.4. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "RK.2.3.2.3. Projeye uygun bileşenleri belirler.\nRK.2.3.2.4. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir."
     },
     {
       "AY": "MART",
@@ -223,8 +223,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.3.2. Çarpışma Önleyici",
-      "KAZANIM": "RK.2.3.2.5. Benzetim ortamında devreyi hazırlar.\nRK.2.3.2.6. Benzetim ortamındaki devreyi test eder.\nRK.2.3.2.7. Yazılımsal ve donanımsal hataları ayıklar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "RK.2.3.2.5. Benzetim ortamında devreyi hazırlar.\nRK.2.3.2.6. Benzetim ortamındaki devreyi test eder.\nRK.2.3.2.7. Yazılımsal ve donanımsal hataları ayıklar."
     },
     {
       "AY": "MART",
@@ -232,8 +232,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.3.2. Çarpışma Önleyici",
-      "KAZANIM": "RK.2.3.2.8. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.3.2.9. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "RK.2.3.2.8. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.3.2.9. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "MART",
@@ -241,8 +241,8 @@
       "SAAT": "2",
       "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
-      "KAZANIM": "2. Dönem Ara Tatili",
-      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
       "AY": "MART",
@@ -250,8 +250,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.3.2. Çarpışma Önleyici",
-      "KAZANIM": "RK.2.3.2.8. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.3.2.9. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "RK.2.3.2.8. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.3.2.9. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "MART",
@@ -259,8 +259,8 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 2. DÖNEM 1. SINAV",
       "KONU": "SINAV HAFTASI 2. DÖNEM 1. SINAV",
-      "KAZANIM": "2. DÖNEM 1. SINAV",
-      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "2. DÖNEM 1. SINAV"
     },
     {
       "AY": "NISAN",
@@ -268,8 +268,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.3.2. Çarpışma Önleyici",
-      "KAZANIM": "2. Dönem 1. Sınav RK.2.3.2.8. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.3.2.9. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav RK.2.3.2.8. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.3.2.9. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "NISAN",
@@ -277,8 +277,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "RK.2.2.1.1. Çizgi takip uygulama projesi tasarlar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "RK.2.2.1.1. Çizgi takip uygulama projesi tasarlar."
     },
     {
       "AY": "NISAN",
@@ -286,8 +286,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "RK.2.2.1.2. Projeye uygun bileşenleri belirler.",
-      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "RK.2.2.1.2. Projeye uygun bileşenleri belirler."
     },
     {
       "AY": "NISAN",
@@ -295,8 +295,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "RK.2.2.1.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir.",
-      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi"
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "RK.2.2.1.3. Proje tasarımına uygun YAZILIM bileşenlerini blok tabanlı ortama yerleştirir."
     },
     {
       "AY": "MAYIS",
@@ -304,8 +304,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "RK.2.2.1.4. Benzetim ortamında devreyi hazırlar.\nRK.2.2.1.5. Benzetim ortamındaki devreyi test eder.\nRK.2.2.1.6. Yazılımsal ve donanımsal hataları ayıklar.",
-      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "RK.2.2.1.4. Benzetim ortamında devreyi hazırlar.\nRK.2.2.1.5. Benzetim ortamındaki devreyi test eder.\nRK.2.2.1.6. Yazılımsal ve donanımsal hataları ayıklar."
     },
     {
       "AY": "MAYIS",
@@ -313,8 +313,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "MAYIS",
@@ -322,8 +322,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "MAYIS",
@@ -331,8 +331,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "HAZIRAN",
@@ -340,8 +340,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "2. Dönem 2. Sınav RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "HAZIRAN",
@@ -349,8 +349,8 @@
       "SAAT": "2",
       "ÜNİTE": "SINAV HAFTASI 2. DÖNEM 2. SINAV",
       "KONU": "SINAV HAFTASI 2. DÖNEM 2. SINAV",
-      "KAZANIM": "2. DÖNEM 2. SINAV",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "2. DÖNEM 2. SINAV"
     },
     {
       "AY": "HAZIRAN",
@@ -358,8 +358,8 @@
       "SAAT": "2",
       "ÜNİTE": "İLERİ DÜZEY ROBOTİK UYGULAMALARI",
       "KONU": "RK.2.2.1. Çizgi Takip Uygulaması",
-      "KAZANIM": "RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder.",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "RK.2.2.1.7. Fiziksel gerçek ortamda devreyi oluşturur.\nRK.2.2.1.8. Hazırlanan programı fiziksel gerçek ortamda test eder."
     },
     {
       "AY": "HAZIRAN",
@@ -367,8 +367,8 @@
       "SAAT": "2",
       "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
-      "KAZANIM": "Etkinlik Haftası",
-      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
     }
   ]
 }
