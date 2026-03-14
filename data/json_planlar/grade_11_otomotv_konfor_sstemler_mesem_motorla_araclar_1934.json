@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "OTOMOṪV KONFOR ṠSTEMLEṘ (MESEM MOTORLA ARAÇLAR)(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "1. Merkezi kilit sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Merkezî kilit sistemini kontrol eder elemanlarını değiştirir.\nMerkezi kilit sistemlerinin görevlerini ve çeşitlerini listeler.\n Merkezi kilit sistemlerinin çalışmasını ve parçalarını açıklar.\n Merkezi kilit sistemlerinin arızalarını ve kontrollerini sıralar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "1. Merkezi kilit sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Merkezî kilit sistemini kontrol eder elemanlarını değiştirir.\nMerkezi kilit sistemlerinin görevlerini ve çeşitlerini listeler.\n Merkezi kilit sistemlerinin çalışmasını ve parçalarını açıklar.\n Merkezi kilit sistemlerinin arızalarını ve kontrollerini sıralar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "2. Otomatik kapı camları",
+      "KAZANIM": "Otomatik kapı camları kumanda sistemlerini kontrol eder elemanlarını değiştirir.\nOtomatik kapı camları kumanda sistemlerinin görevini ve parçalarını sıralar\n Otomatik kapı camları kumanda sisteminin yapısını ve çalışmasını açıklar\n Otomatik kapı camları kumanda sisteminin arızalarını ve kontrollerini listeler."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "2. Otomatik kapı camları",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Otomatik kapı camları kumanda sistemlerini kontrol eder elemanlarını değiştirir.\nOtomatik kapı camları kumanda sistemlerinin görevini ve parçalarını sıralar\n Otomatik kapı camları kumanda sisteminin yapısını ve çalışmasını açıklar\n Otomatik kapı camları kumanda sisteminin arızalarını ve kontrollerini listeler."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "3. Elektrikli aynalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Elektrikli aynaları kontrol ederek değiştirir.\nElektrikli aynaların çalışmasını ve çeşitlerini açıklar.\n Elektrikli aynaların parçalarını ve arızalarını sıralar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "3. Elektrikli aynalar",
+      "KAZANIM": "Elektrikli aynaları kontrol ederek değiştirir.\nElektrikli aynaların çalışmasını ve çeşitlerini açıklar.\n Elektrikli aynaların parçalarını ve arızalarını sıralar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "4. Isıtmalı cam ve aynalar",
+      "KAZANIM": "Isıtmalı cam ve aynaları kontrol eder.\nIsıtmalı camların ve aynaların görevlerini ve yapılarını açıklar.\n Isıtmalı camların ve aynaların çalışmasını açıklar.\n Isıtmalı camların ve aynaların arızalarını ve kontrollerini listeler."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "4. Isıtmalı cam ve aynalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Isıtmalı cam ve aynaları kontrol eder.\nIsıtmalı camların ve aynaların görevlerini ve yapılarını açıklar.\n Isıtmalı camların ve aynaların çalışmasını açıklar.\n Isıtmalı camların ve aynaların arızalarını ve kontrollerini listeler."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "5. Sunroof mekanizması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Sunroof mekanizmasını kontrol ederek değiştirir.\nSunroof ve mekanizmasının çalışmasını ve kumandasını açıklar.\n Sunroof ve mekanizmasının arızalarını ve sızdırmazlığının önemini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "5. Sunroof mekanizması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Sunroof mekanizmasını kontrol ederek değiştirir.\nSunroof ve mekanizmasının çalışmasını ve kumandasını açıklar.\n Sunroof ve mekanizmasının arızalarını ve sızdırmazlığının önemini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "6. Elektrik kumandalı koltuklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Elektrik kumandalı koltukları kontrol ederek değiştirir.\nElektrik kumandalı koltukların fonksiyonlarını ve parçalarını sıralar.\n Elektrikli koltukların çalışmasını ve kontrollerini açıklar.\n Elektrikli koltukların arızalarını sıralar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "6. Elektrik kumandalı koltuklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Elektrik kumandalı koltukları kontrol ederek değiştirir.\nElektrik kumandalı koltukların fonksiyonlarını ve parçalarını sıralar.\n Elektrikli koltukların çalışmasını ve kontrollerini açıklar.\n Elektrikli koltukların arızalarını sıralar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "7. Silecek ve cam yıkama sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Silecek ve cam yıkama sistemlerini kontrol ederek değiştirir.\nSilecek sistemlerinin parçalarını ve çalışmasını açıklar.\n Silecek sistemlerinin arızalarını ve kontrollerini açıklar.\n Cam yıkama sistemlerinin parçalarını ve çalışmasını açıklar.\n Cam yıkama sistemlerinin arızalarını ve kontrollerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "7. Silecek ve cam yıkama sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Silecek ve cam yıkama sistemlerini kontrol ederek değiştirir.\nSilecek sistemlerinin parçalarını ve çalışmasını açıklar.\n Silecek sistemlerinin arızalarını ve kontrollerini açıklar.\n Cam yıkama sistemlerinin parçalarını ve çalışmasını açıklar.\n Cam yıkama sistemlerinin arızalarını ve kontrollerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "8. Yağmur sensörü",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Yağmur sensörünü kontrol ederek değiştirir.\nYağmur sensörünün görevini ve yapısını açıklar.\n Yağmur sensörünün çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "8. Yağmur sensörü",
+      "KAZANIM": "Yağmur sensörünü kontrol ederek değiştirir.\nYağmur sensörünün görevini ve yapısını açıklar.\n Yağmur sensörünün çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "8. Yağmur sensörü",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Yağmur sensörünü kontrol ederek değiştirir.\nYağmur sensörünün görevini ve yapısını açıklar.\n Yağmur sensörünün çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Gövde Konfor Sistemleri",
+      "KONU": "8. Yağmur sensörü",
+      "KAZANIM": "Yağmur sensörünü kontrol ederek değiştirir.\nYağmur sensörünün görevini ve yapısını açıklar.\n Yağmur sensörünün çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "1. Start-stop tertibatı",
+      "KAZANIM": "Start-stop tertibatını kontrol ederek değiştirir.\nStart-stop tertibatının görevini ve yapısını açıklar.\n Start-stop tertibatının çalışmasını açıklar.\n Start-stop tertibatının kontrolünü ve arızalarını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "1. Start-stop tertibatı",
+      "KAZANIM": "Start-stop tertibatını kontrol ederek değiştirir.\nStart-stop tertibatının görevini ve yapısını açıklar.\n Start-stop tertibatının çalışmasını açıklar.\n Start-stop tertibatının kontrolünü ve arızalarını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "2. Park manevra asistanı",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Park manevra asistanını kontrol ederek değiştirir.\nPark manevra asistanının görevini ve yapısını açıklar.\n Park manevra asistanının çalışmasını ve kontrollerini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "2. Park manevra asistanı",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Park manevra asistanını kontrol ederek değiştirir.\nPark manevra asistanının görevini ve yapısını açıklar.\n Park manevra asistanının çalışmasını ve kontrollerini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "3. Akıllı far sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Akıllı far sistemini kontrol ederek değiştirir.\nFar sensörünün görevini ve yapısını açıklar.\n Far sensörünün çalışmasını ve kontrollerini listeler.\n Akıllı far sisteminin amacını ve yapısını açıklar.\n Akıllı far sisteminin fonksiyonlarını ve kontrollerini açıklar.\n Far ayarının önemini ve yapılışını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "3. Akıllı far sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Akıllı far sistemini kontrol ederek değiştirir.\nFar sensörünün görevini ve yapısını açıklar.\n Far sensörünün çalışmasını ve kontrollerini listeler.\n Akıllı far sisteminin amacını ve yapısını açıklar.\n Akıllı far sisteminin fonksiyonlarını ve kontrollerini açıklar.\n Far ayarının önemini ve yapılışını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "4. Hız sabitleyici",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Hız sabitleyiciyi kontrol ederek değiştirir.\nHız sabitleyicinin görevini ve çeşitlerini açıklar.\n Hız sabitleyicinin yapısı özellikleri ve çalışmasını açıklar.\n Hız sabitleyicinin kontrolleri ve arızalarını açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "4. Hız sabitleyici",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Hız sabitleyiciyi kontrol ederek değiştirir.\nHız sabitleyicinin görevini ve çeşitlerini açıklar.\n Hız sabitleyicinin yapısı özellikleri ve çalışmasını açıklar.\n Hız sabitleyicinin kontrolleri ve arızalarını açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "5. Takip mesafesi sensörü",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Takip mesafesi sensörünü kontrol ederek değiştirir.\nTakip mesafesi sensörünün görevini ve yapısını açıklar.\n Takip mesafesi sensörünün çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "5. Takip mesafesi sensörü",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Takip mesafesi sensörünü kontrol ederek değiştirir.\nTakip mesafesi sensörünün görevini ve yapısını açıklar.\n Takip mesafesi sensörünün çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "6. Şerit değiştirme asistanı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Şerit değiştirme asistanını kontrol eder.\nŞerit değiştirme asistanının görevini ve yapısını açıklar.\n Şerit değiştirme asistanının ve kontrolünü çalışmasını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "6. Şerit değiştirme asistanı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Şerit değiştirme asistanını kontrol eder.\nŞerit değiştirme asistanının görevini ve yapısını açıklar.\n Şerit değiştirme asistanının ve kontrolünü çalışmasını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "7. Haberleşme ve yol takip sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Haberleşme ve yol takip sistemlerinin kontrolünü yapar.\nHaberleşme ve yol takip sistemlerini açıklar.\n Yol bilgisayarını açıklar.\n Araç takip sistemini açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "7. Haberleşme ve yol takip sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Haberleşme ve yol takip sistemlerinin kontrolünü yapar.\nHaberleşme ve yol takip sistemlerini açıklar.\n Yol bilgisayarını açıklar.\n Araç takip sistemini açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "8. Yokuşiniş destek sisteminin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Yokuşiniş destek sisteminin kontrolünü yapar.\nYokuş destek sistemlerinin görevini ve yapısını açıklar.\n Yokuş destek sistemlerinin çalışmasını ve kontrolünü açıklar.\n İniş destek sistemlerinin görevini ve yapısını açıklar.\n İniş destek sistemlerinin çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "8. Yokuşiniş destek sisteminin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Yokuşiniş destek sisteminin kontrolünü yapar.\nYokuş destek sistemlerinin görevini ve yapısını açıklar.\n Yokuş destek sistemlerinin çalışmasını ve kontrolünü açıklar.\n İniş destek sistemlerinin görevini ve yapısını açıklar.\n İniş destek sistemlerinin çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "8. Yokuşiniş destek sisteminin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Yokuşiniş destek sisteminin kontrolünü yapar.\nYokuş destek sistemlerinin görevini ve yapısını açıklar.\n Yokuş destek sistemlerinin çalışmasını ve kontrolünü açıklar.\n İniş destek sistemlerinin görevini ve yapısını açıklar.\n İniş destek sistemlerinin çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Sürüş Konfor Sistemleri",
+      "KONU": "8. Yokuşiniş destek sisteminin kontrolünü yapar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Yokuşiniş destek sisteminin kontrolünü yapar.\nYokuş destek sistemlerinin görevini ve yapısını açıklar.\n Yokuş destek sistemlerinin çalışmasını ve kontrolünü açıklar.\n İniş destek sistemlerinin görevini ve yapısını açıklar.\n İniş destek sistemlerinin çalışmasını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

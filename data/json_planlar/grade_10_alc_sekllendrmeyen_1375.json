@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "ALÇ ŞEK̇LLENḊRME(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Pim Çeşitleri",
+      "KONU": "1.    Pim Çeşitleri ve Kullanım Alanları  2.    Döküm Alanı Kurgu Oluşturma  3.    Alçı ve Özellikleri  4.    Alçı Plaka Şekillendirme  5.    Pim Şekillendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Kalıba uygun pim çeşitlerini açıklar.\n Çalışma tezgâhını kurgu hazırlar.\n Alçıyı hazırlayıp kurguya döker.\n Alçı plakayı gönyesine getirir.\n Plaka yüzeyine pim açar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Modüler Pano Modeli",
+      "KONU": "1.    Pano Yapım Resmini Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Öngörülen pano formlarını inceleyerek yapım resmini çizer."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Modüler Pano Modeli",
+      "KONU": "2.    Çalışma Tezgâhı Hazırlama",
+      "KAZANIM": "Çalışma tezgâhını ve alçıyı hazırlayıp kurguya döker."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Modüler Pano Modeli",
+      "KONU": "3.    Tasarımı Pano Plakasına Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Modüler pano plakasını yapım resmine uygun şekillendirir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Modüler Pano Modeli",
+      "KONU": "4.    Rötuş",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Çekirdek modelini rötuşlar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Modüler Pano Modeli",
+      "KONU": "4.    Rötuş",
+      "KAZANIM": "Çekirdek modelini rötuşlar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Modüler Pano Modelini Kalıplama",
+      "KONU": "1.    Pano Model Kalıbını oluşturma  2.    Çalışma Tezgâhı hazırlama",
+      "KAZANIM": "Pano modelini kalıba hazırlar.\n Çalışma tezgâhını ve alçıyı hazırlayıp kurguya döker."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Modüler Pano Modelini Kalıplama",
+      "KONU": "3.    Pano Model Kalıbı  4.    Rötuş",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Pano modelinin kalıbını alır.\n Pano kalıbını rötuşlar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Kalemlik Modeli",
+      "KONU": "1.    Kalemlik Modelinin Yapım Resmi  2.    Çalışma Tezgâhı hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Öngörülen kalemlik formlarını inceleyerek yapım resmini çizer.\n Çalışma tezgâhını ve alçıyı hazırlayıp kurguya döker."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Kalemlik Modeli",
+      "KONU": "3.    Alçıyı Şekillendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Alçıyı yapım resmine uygun şekillendirir."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Kalemlik Modeli",
+      "KONU": "4.    Rötuş",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Çekirdek modelini rötuşlar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Kalemlik Modelini Kalıplama",
+      "KONU": "1.    Çekirdek Kalemlik  2.    Modelinin Kalıbını Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Çekirdek kalemlik modelini kalıba hazırlar.\n Modelinin Kalıbını Hazırlar"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Kalemlik Modelini Kalıplama",
+      "KONU": "3.    Çalışma Tezgâhı Hazırlama  4.    Kalemlik Modelinin Kalıbını Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Çalışma tezgâhını ve alçıyı hazırlayıp kurguya döker.\n Kalemlik modelin kalıbını alır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Kalemlik Modelini Kalıplama",
+      "KONU": "5.    Rötuş",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Kalemlik kalıbını rötuşlar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Pano Teksir Kalıbı",
+      "KONU": "1.    Model Ceketlerini Oluşturma  2.    Blok Dökümü",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Modelin ceketlerini oluşturur.\n Blok döker."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Pano Teksir Kalıbı",
+      "KONU": "3.    Kalıbı Döküme Hazırlama",
+      "KAZANIM": "Kırılabilir alanları lastik araldit veya silikon malzeme ile döker."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Pano Teksir Kalıbı",
+      "KONU": "4.    İş Üretim Kalıbı Dökümü",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  İş üretim kalıbı döker."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "Vazo Modeli",
+      "KONU": "2.    Vazo Modelinin Şekillendirilmesi",
+      "KAZANIM": "Vazo modelini şekillendirir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "Vazo Modelini Kalıplama",
+      "KONU": "1.    Modeli Kalıba Hazırlama",
+      "KAZANIM": "Kalıp parça sayısını belirleyip modeli kalıba hazırlar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "Vazo Modelini Kalıplama",
+      "KONU": "1.    Modeli Kalıba Hazırlama",
+      "KAZANIM": "Kalıp parça sayısını belirleyip modeli kalıba hazırlar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "Vazo Modelini Kalıplama",
+      "KONU": "2.    Vazo Modelinin kalıbını Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Vazo modelinin çok parçalı kalıbını alır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "Vazo Modelini Kalıplama",
+      "KONU": "2.    Vazo Modelinin kalıbını Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Vazo modelinin çok parçalı kalıbını alır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "Çekirdekli Model Yapımı",
+      "KONU": "1.    Çekirdek Model Tasarlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Çekirdekli model tasarlar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "Çekirdekli Model Yapımı",
+      "KONU": "2.    Modelin Yapım Çizme",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Modelin yapım resmini çizer."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "Çekirdekli Model Yapımı",
+      "KONU": "3.    Ana Modeli Şekillendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Modelin çekirdeğini şekillendirir.\nÇekirdek modelden ana modeli şekillendirir."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "Çekirdekli Model Yapımı",
+      "KONU": "3.    Ana Modeli Şekillendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Modelin çekirdeğini şekillendirir.\nÇekirdek modelden ana modeli şekillendirir."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "Çekirdekli Model Kalıbı",
+      "KONU": "1.    Çekirdekli Model Tasarlama  2.    Modelin Yapım Resmini Çizme",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Çekirdekli model tasarlar.\n Modelin yapım resmini çizer."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "Çekirdekli Model Kalıbı",
+      "KONU": "3.    Ana Modeli Şekillendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Çekirdek modelden ana modeli şekillendirir."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Çekirdekli Model Kalıbı",
+      "KONU": "4.    Modeli Kalıba Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Kalıp parça sayısını belirleyip modeli kalıba hazırlar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Çekirdekli Model Kalıbı",
+      "KONU": "5.    Modelin Çok Parçalı Kalıbı Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Çekirdekli modelin çok parçalı kalıbını alır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Tornada Silindir Çekme",
+      "KONU": "1.    Alçı Tornayı Hazırlama  2.    Silindir Şekillendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Şekillendirme ölçüleri doğrultusunda alçı tornayı hazırlar.\n Alçı tornasında alçı bloktan silindir şekillendirir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Tornada Silindir Çekme",
+      "KONU": "1.    Model Tasarımı  2.    Modeli Tornada Şekillendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Model tasarlar.\n Modeli tornada şekillendirir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Tornada Silindir Çekme",
+      "KONU": "3.    Model Kalıbını Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Modelin kalıbını alır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Genel Tekrar\nGenel Tekrar"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

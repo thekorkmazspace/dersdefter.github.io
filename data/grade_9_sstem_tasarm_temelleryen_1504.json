@@ -1,0 +1,377 @@
+{
+  "sinif": "9",
+  "ders": "ṠSTEM TASARM TEMELLEṘ(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "1. Sistem- alt sistem- bileşen ve sistemler sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Sistem-  alt  sistem-  bileşen  ve  sistemler  sistemini ayırt eder.\nİnsan  yapısı  olan  doğal  ve  toplumsal  sistemlere örnekler verilir.\n      Bu   örneklerde   yer   alan   sistem   alt   sistem   ve bileşenler sıralanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "2.Karmaşık ve karışık sistemler",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Karmaşık ve karışık sistemleri ayırt eder.\nKarmaşık sistem açıklanır.\n      Karışık sistem açıklanır.\n      Çok bileşenli ve çok etkileşimli sistemlere örnekler verir.\n      Sistem    yaklaşımının    karmaşık    sistemlerin    ele alınmasını kolaylaştırdığı açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "3. Yeni ortaya çıkan davranışlar",
+      "KAZANIM": "Yeni ortaya çıkan sistem davranışlarını açıklar.\nElektromanyetik etkileşimler örneklerle açıklanır.\n      Termal ve mekanik etkileşimler örneklerle açıklanır.\n      Değişken   ağırlık   dengelemesi   basit   örneklerle açıklanır.\n      Bütün    komponentlerin    birbirleriyle    etkileşimleri sonucunda  ortaya  çıkabilecek  durumlar  örneklerle açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "4. Ürün ömür devri yaklaşımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Ürünsistem ömür devri yaklaşımının sistem tasarımına etkilerini açıklar.\nGeliştirilen   ve   üretilen   tüm   sistemlerin   tasarım geliştirme    kullanım    ve    destekleme    ile    elden çıkarma   aşamalarından   geçmesinin   ürünsistem ömür devri olarak adlandırıldığı açıklanır.\n      Ürün  ömür  devrinin  sonraki  aşamalarında  ortaya çıkabilecek     ihtiyaçların     tasarım     aşamasında öngörülmesi gereği vurgulanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "5. Gereksinim yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Sistem tasarımının tüm öğelerini belirli ihtiyaç ve gereksinimlerle ilişkilendirir.\nSistem tasarımının öğeleri açıklanır.\n      İhtiyaç ve gereksinimler açıklanır.\n      Sistem     öğelerinin     ihtiyaç     ve     gereksinimleri karşılayacak     şekilde     tasarlanması     örneklerle açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "6.Konfigürasyon yönetimi",
+      "KAZANIM": "Temel seviyede konfigürasyon yönetimini açıklar.\nKonfigürasyon yönetimi kavramı açıklanır.\n     Konfigürasyon yönetimi örneklerle açıklanır\n     Olası konfigürasyon sayısı örneklerle açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "6.Konfigürasyon yönetimi",
+      "KAZANIM": "Temel seviyede konfigürasyon yönetimini açıklar.\nKonfigürasyon yönetimi kavramı açıklanır.\n     Konfigürasyon yönetimi örneklerle açıklanır\n     Olası konfigürasyon sayısı örneklerle açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "6.Konfigürasyon yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Temel seviyede konfigürasyon yönetimini açıklar.\nKonfigürasyon yönetimi kavramı açıklanır.\n     Konfigürasyon yönetimi örneklerle açıklanır\n     Olası konfigürasyon sayısı örneklerle açıklanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Yaklaşımı",
+      "KONU": "6.Konfigürasyon yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Temel seviyede konfigürasyon yönetimini açıklar.\nKonfigürasyon yönetimi kavramı açıklanır.\n     Konfigürasyon yönetimi örneklerle açıklanır\n     Olası konfigürasyon sayısı örneklerle açıklanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "Hava ve Uzay Araçları Temel Bileşenleri",
+      "KONU": "1.   Hava ve uzay aracı tasarımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Hava ve uzay aracı tasarım basamaklarını açıklar.\nHava aracı çeşitleri ve kullanım amaçları açıklanır.\n      Uzay aracı çeşitleri ve kullanım amaçları açıklanır.\n      Tasarım  sürecinin  ana  aşamaları  olan  kavramsal ön  detay  tasarım  ve  tasarım  doğrulama  süreçleri vb. açıklanır.\n      Türkiyedeki    havacılık    projelerinden    örneklerle açıklamalar somutlaştırılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "Hava ve Uzay Araçları Temel Bileşenleri",
+      "KONU": "2.   Uçuş mekaniği",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Uçuş mekaniği prensiplerini açıklar.\nAtmosfer  içi  havauzay  araçları  uçuş  mekanikleri örneklerle anlatılır.\n      Atmosfer  dışı  havauzay  araçları  uçuş  mekanikleri örneklerle anlatılır.\n      İki   ortam   arasındaki   farklar   ve   ortak   noktaların tasarım üzerinde oluşturduğu farklılık açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "ÜNİTE": "Hava ve Uzay Araçları Temel Bileşenleri",
+      "KONU": "3.   Otonom sistemler",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Otonom sistemlerin temellerini açıklar.\nOtonom sistemler tanımlanır.\n      Farklı otonom sistemler örneklerle açıklanır.\n      Otonom sistemlerin kullanım amaçları açıklanır.\n      Otonom  sistemlerin  belirli  algoritmaları  kullanarak hareket ettikleri örneklerle açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "ÜNİTE": "Hava ve Uzay Araçları Temel Bileşenleri",
+      "KONU": "4.   Uçuş aerodinamiği ilkeleri ve uçuş kontrol yüzeyleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Uçuş  Aerodinamiği  ilkelerini  kontrol  yüzeylerini tanır.\nHava araçlarının aerodinamik ilkelerini açıklanır.\n      Döner    kanat    sabit    kanatlı    hava    araçlarını aerodinamik özelliklerini açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "ÜNİTE": "Hava ve Uzay Araçları Temel Bileşenleri",
+      "KONU": "5.   Uzay araçlarının yönelim kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Uzay   araçlarının   yönelim   kontrolü   sistemlerini açıklar.\nUzay araçlarının yönelim kontrolü tanımlanır.\n      Uzay    araçlarının    yönelim    kontrolü    sistemleri örneklerle açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "ÜNİTE": "Hava ve Uzay Araçları Temel Bileşenleri",
+      "KONU": "6.   Havauzay araçlarını oluşturan itki yapısal aviyonik ve yaşam destek sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Havauzay        araçlarını        oluşturan        başlıca sistemlerden   itki   yapısal   aviyonik   ve   yaşam destek sistemlerini ve etkileşimlerini açıklar.\nHavauzay    araçlarını    oluşturan    itki    sistemleri karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay  araçlarını  oluşturan  yapısal  sistemler karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay  araçlarını  oluşturan  aviyonik  sistemler karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay    araçlarını    oluşturan    yaşam    destek sistemleri karşılaştırmalı olarak örneklerle açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Hava ve Uzay Araçları Temel Bileşenleri",
+      "KONU": "6.   Havauzay araçlarını oluşturan itki yapısal aviyonik ve yaşam destek sistemleri",
+      "KAZANIM": "Havauzay        araçlarını        oluşturan        başlıca sistemlerden   itki   yapısal   aviyonik   ve   yaşam destek sistemlerini ve etkileşimlerini açıklar.\nHavauzay    araçlarını    oluşturan    itki    sistemleri karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay  araçlarını  oluşturan  yapısal  sistemler karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay  araçlarını  oluşturan  aviyonik  sistemler karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay    araçlarını    oluşturan    yaşam    destek sistemleri karşılaştırmalı olarak örneklerle açıklanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Hava ve Uzay Araçları Temel Bileşenleri",
+      "KONU": "6.   Havauzay araçlarını oluşturan itki yapısal aviyonik ve yaşam destek sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Havauzay        araçlarını        oluşturan        başlıca sistemlerden   itki   yapısal   aviyonik   ve   yaşam destek sistemlerini ve etkileşimlerini açıklar.\nHavauzay    araçlarını    oluşturan    itki    sistemleri karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay  araçlarını  oluşturan  yapısal  sistemler karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay  araçlarını  oluşturan  aviyonik  sistemler karşılaştırmalı olarak örneklerle açıklanır.\n      Havauzay    araçlarını    oluşturan    yaşam    destek sistemleri karşılaştırmalı olarak örneklerle açıklanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Geliştirme Süreci",
+      "KONU": "1. Sistem paydaşları",
+      "KAZANIM": "Bir sistemin ömür devri yaşam döngüsü boyunca sistemle ilgili tüm paydaşlarını tanımlar.\nBir sistemle ilgili operatör müşteri kullanıcı bakım personeli     geliştirici     üretici     gibi     paydaşlar tanımlanır.\n      Sistem  paydaşları  ile  ilgili  örnekler  verilerek  ilgi seviyeleri   yetkileri   ve   ihtiyaçlarındaki   farklılıklar karşılaştırılır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Geliştirme Süreci",
+      "KONU": "1. Sistem paydaşları",
+      "KAZANIM": "Bir sistemin ömür devri yaşam döngüsü boyunca sistemle ilgili tüm paydaşlarını tanımlar.\nBir sistemle ilgili operatör müşteri kullanıcı bakım personeli     geliştirici     üretici     gibi     paydaşlar tanımlanır.\n      Sistem  paydaşları  ile  ilgili  örnekler  verilerek  ilgi seviyeleri   yetkileri   ve   ihtiyaçlarındaki   farklılıklar karşılaştırılır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Geliştirme Süreci",
+      "KONU": "2.İhtiyaç ve gereksinim analizi",
+      "KAZANIM": "Sistem  tasarlanma  sürecinde  paydaş  ihtiyaçlarını sistem gereksinimlerine dönüştürür.\nPaydaşların    ihtiyaçlarının    toplanma    yöntemleri açıklanır.\n      Paydaş ihtiyaçlarının öznel olabileceği ifade edilir.\n      Sistem   gereksinimlerinin   nesnel   ölçülebilir   ve doğrulanabilir   olması   gerektiği   örneklerle   ifade edilir.\n      Tasarım   süreci   boyunca   gereksinimlerin   sistem analiz sonuçlarına göre değişebileceği açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Geliştirme Süreci",
+      "KONU": "2.İhtiyaç ve gereksinim analizi",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Sistem  tasarlanma  sürecinde  paydaş  ihtiyaçlarını sistem gereksinimlerine dönüştürür.\nPaydaşların    ihtiyaçlarının    toplanma    yöntemleri açıklanır.\n      Paydaş ihtiyaçlarının öznel olabileceği ifade edilir.\n      Sistem   gereksinimlerinin   nesnel   ölçülebilir   ve doğrulanabilir   olması   gerektiği   örneklerle   ifade edilir.\n      Tasarım   süreci   boyunca   gereksinimlerin   sistem analiz sonuçlarına göre değişebileceği açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Geliştirme Süreci",
+      "KONU": "3.Sistem analizi tasarım ve simülasyon test ve doğrulama süreci",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Sistemi   üretmeden   önce   tasarlanan   bileşenlerin istenen   performans   değerlerini   sağladığını   fiziksel   ve matematiksel modelleri kullanarak ifade eder.\nSistemin önce kâğıt üzerinde tasarımının yapılması gerektiği açıklanır.\n      Sistem     tasarımının     analiz     ve     matematiksel modellerle doğrulanmasının gerekliliği açıklanır.\n      Analiz     sonuçlarına     göre     sistem     tasarımının güncellenmesi  analizin  tekrarlanmasının  gerektiği ve bunun bir döngü olduğu açıklanır.\n      Sistem       tasarımı       sürecinde       gereksinimler karşılanıncaya   kadar   iyileştirmeler   yapılabileceği örneklerle açıklanır.\n      Sistem    tasarımının    ihtiyaç    ve    gereksinimleri karşıladığının     test     ve     doğrulama     yoluyla kanıtlanması gerektiği örneklerle açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "Sistem Geliştirme Süreci",
+      "KONU": "3.Sistem analizi tasarım ve simülasyon test ve doğrulama süreci",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Sistemi   üretmeden   önce   tasarlanan   bileşenlerin istenen   performans   değerlerini   sağladığını   fiziksel   ve matematiksel modelleri kullanarak ifade eder.\nSistemin önce kâğıt üzerinde tasarımının yapılması gerektiği açıklanır.\n      Sistem     tasarımının     analiz     ve     matematiksel modellerle doğrulanmasının gerekliliği açıklanır.\n      Analiz     sonuçlarına     göre     sistem     tasarımının güncellenmesi  analizin  tekrarlanmasının  gerektiği ve bunun bir döngü olduğu açıklanır.\n      Sistem       tasarımı       sürecinde       gereksinimler karşılanıncaya   kadar   iyileştirmeler   yapılabileceği örneklerle açıklanır.\n      Sistem    tasarımının    ihtiyaç    ve    gereksinimleri karşıladığının     test     ve     doğrulama     yoluyla kanıtlanması gerektiği örneklerle açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "Proje Yönetimi",
+      "KONU": "1.   Proje kısıt üçgenikapsam maliyet ve zaman",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Her projenin kapsam maliyet ve zamandan oluşan kısıtlar kısıt üçgeni çerçevesinde gerçekleştirilmesi gerektiğini açıklar.\nProjenin kısıt üçgeninin unsurları açıklanır.\n      İnsanlık    tarihi    boyunca    gerçekleştirilen    büyük projelere örnekler verilir.\n      Projelerdeki    aksaklıkların    maliyet    aşımı   proje tamamlanma    süresinin    uzaması    veya    proje sonucunun  isteneni  karşılamaması  gibi  olumsuz sonuçları olacağı açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "ÜNİTE": "Proje Yönetimi",
+      "KONU": "2.   Getiri-götürü analizi Ödünleşim",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Proje  kısıt  üçgeninin  bir  unsurundaki  değişmenin diğer unsurlara olan etkilerini açıklar.\nProje    kısıt    üçgenindeki    unsurlardan    birindeki değişimin  diğerlerini ve  ya  bütünü  etkileyebileceği anlatılır.\n      Bu   etkilerin   getiri   ve   götürülerinin   incelenmesi gerektiği örneklerle açıklanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "ÜNİTE": "Proje Yönetimi",
+      "KONU": "3.   Proje Planlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Projenin aşamalarını planlar.\nProjenin     aşamalarının     planlanmasının     önemi açıklanır.\n      Proje      aşamalarında      karşılaşılacak      sorunlar örneklerle açıklanır.\n      Proje aşamaları sıralanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "ÜNİTE": "Proje Yönetimi",
+      "KONU": "4.   İş kırılım ağacı",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Proje     adımlarını     iş     kırılım     ağacı     şeklinde takvimlendirir.\nİş   ve   görev   tanımlarının   belirlenmesinin   önemi açıklanır.\n      İş kırılım ağacı örneklerle açıklanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "ÜNİTE": "Proje Yönetimi",
+      "KONU": "5.   Risk yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Oluşabilecek     risklerin     proje     kısıt     üçgenine etkilerini açıklar.\nRisk  yönetimi  sürecinde   riskler  ve  olası   etkileri tanımlanır.\n      Süreç   içerisinde   karşılaşılabilecek   olası   risklere karşı tedbirlerin alınması gerektiği açıklanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Proje Yönetimi",
+      "KONU": "5.   Risk yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Oluşabilecek     risklerin     proje     kısıt     üçgenine etkilerini açıklar.\nRisk  yönetimi  sürecinde   riskler  ve  olası   etkileri tanımlanır.\n      Süreç   içerisinde   karşılaşılabilecek   olası   risklere karşı tedbirlerin alınması gerektiği açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Proje Yönetimi",
+      "KONU": "5.   Risk yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Oluşabilecek     risklerin     proje     kısıt     üçgenine etkilerini açıklar.\nRisk  yönetimi  sürecinde   riskler  ve  olası   etkileri tanımlanır.\n      Süreç   içerisinde   karşılaşılabilecek   olası   risklere karşı tedbirlerin alınması gerektiği açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Kalite Yönetim Sistemleri",
+      "KONU": "1.   Kalite yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Kalite yönetimi sürecini açıklar.\nKalite ve kalite yönetimi tanımlanır.\n      Kalite yönetimi ile ilgili kavramlar açıklanır.\n      Ulusal  ve  uluslararası  kalite  yönetim  standartları açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Kalite Yönetim Sistemleri",
+      "KONU": "1.   Kalite yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Kalite yönetimi sürecini açıklar.\nKalite ve kalite yönetimi tanımlanır.\n      Kalite yönetimi ile ilgili kavramlar açıklanır.\n      Ulusal  ve  uluslararası  kalite  yönetim  standartları açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Kalite Yönetim Sistemleri",
+      "KONU": "2.   Dokümantasyon süreci",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Dokümantasyon sürecini açıklar.\nKalite    yönetiminin    yapılabilmesi    için    verilerin toplanması   ve   kayıt   altına   alınması   gerektiği açıklanır.\n      Dokümantasyon  sürecinde  kullanılan  belge  kayıt"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Kalite Yönetim Sistemleri",
+      "KONU": "2.   Dokümantasyon süreci",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Dokümantasyon sürecini açıklar.\nKalite    yönetiminin    yapılabilmesi    için    verilerin toplanması   ve   kayıt   altına   alınması   gerektiği açıklanır.\n      Dokümantasyon  sürecinde  kullanılan  belge  kayıt"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Kalite Yönetim Sistemleri",
+      "KONU": "2.   Dokümantasyon süreci",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Dokümantasyon sürecini açıklar.\nKalite    yönetiminin    yapılabilmesi    için    verilerin toplanması   ve   kayıt   altına   alınması   gerektiği açıklanır.\n      Dokümantasyon  sürecinde  kullanılan  belge  kayıt"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "* * Bu plan Talim Terbiye Kurulunun yayınladığı Çerçeve Öğretim Programı ve Ders Bilgi Formlarına göre hazırlanmıştır. ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır."
+    }
+  ]
+}

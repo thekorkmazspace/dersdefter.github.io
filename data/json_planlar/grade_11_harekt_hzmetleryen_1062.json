@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "HAREKÂT ḢZMETLEṘ(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş Operasyonu",
+      "KONU": "1.  Uçuş Operasyonu",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Uçuş operasyonunu açıklar.\nUçuş PLANI örneği doldurulur.\n       Uçak  permisinin  Resmi  izin  olmadığı  durumlarda neler  yapılması gerektiği araştırılır. Bu araştırmaların paylaşılması sağlanır.\n       Güncel   meteoroloji   raporlarını   ve   rüzgar   kartları örneklerle anlatılır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş Operasyonu",
+      "KONU": "2.  Gelen Uçak Hazırlığı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Gelen uçak hazırlığını açıklar.\nKalkış  istasyonundan gönderilen  mesajlardan seferin yolcu   ve   yük   bilgileri   tespitinin   nasıl   yapılacağı örneklerle açıklanır.\n       Örnek bir LIR Yükleme formu doldurulur."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş Operasyonu",
+      "KONU": "3.  Park Pozisyonu Hazırlığı",
+      "KAZANIM": "Park pozisyonu hazırlığını açıklar.\nUçak tipine uygun yer hizmet teçhizat ve ekipmanları görsellerle anlatılır.\n       FOD    temizliği    yapılmadığı    durumlarda    yabancı maddelerin uçağa vereceği zararlar açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş Operasyonu",
+      "KONU": "4.  Gidiş sefer hazırlığı",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Gidiş sefer hazırlığını açıklar.\nSefere ait yükleme PLANI örneği hazırlanır.\n       Yolcunun  uçağa  bindirilmesi  için  gerekli  ekipmanlar örneklerle açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş Operasyonu",
+      "KONU": "5.  Brifing Yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Brifing yapmayı açıklar.\nSeferde  özel  kargo  ve  tehlikeli  maddelerin  kurallara uygun    yüklenmediği    zaman    hangi    problemlerle karşılaşılacağı araştırılır.\n       Örnek  bir  NOTOC    Kaptan  bilgilendirme  formu   formu doldurulur."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş Operasyonu",
+      "KONU": "5.  Brifing Yapma",
+      "KAZANIM": "Brifing yapmayı açıklar.\nSeferde  özel  kargo  ve  tehlikeli  maddelerin  kurallara uygun    yüklenmediği    zaman    hangi    problemlerle karşılaşılacağı araştırılır.\n       Örnek  bir  NOTOC    Kaptan  bilgilendirme  formu   formu doldurulur."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş Operasyonu",
+      "KONU": "5.  Brifing Yapma",
+      "KAZANIM": "Brifing yapmayı açıklar.\nSeferde  özel  kargo  ve  tehlikeli  maddelerin  kurallara uygun    yüklenmediği    zaman    hangi    problemlerle karşılaşılacağı araştırılır.\n       Örnek  bir  NOTOC    Kaptan  bilgilendirme  formu   formu doldurulur."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş Operasyonu",
+      "KONU": "5.  Brifing Yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Brifing yapmayı açıklar.\nSeferde  özel  kargo  ve  tehlikeli  maddelerin  kurallara uygun    yüklenmediği    zaman    hangi    problemlerle karşılaşılacağı araştırılır.\n       Örnek  bir  NOTOC    Kaptan  bilgilendirme  formu   formu doldurulur."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "1.  Yüklemeye Nezaret Etme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Yüklemeye nezaret etmeyi açıklar.\nYükleme esnasında taşınacak kargo bagaj palet ve konteynerların uygunluğu görsellerle anlatılır.\n       Özel  kargolarda  kullanılan  evraklar  araştırılır.  Görsel olarak anlatılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "6",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "1.  Yüklemeye Nezaret Etme",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Yüklemeye nezaret etmeyi açıklar.\nYükleme esnasında taşınacak kargo bagaj palet ve konteynerların uygunluğu görsellerle anlatılır.\n       Özel  kargolarda  kullanılan  evraklar  araştırılır.  Görsel olarak anlatılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "2.  Uçağa Yakıt Alımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Uçağa yakıt alma işlemini açıklar.\nUluslararası   düzenlemelerle   belirlenmiş   yakıt   alım esnasında      uygulanan      güvenlik      ve      emniyet tedbirlerinin önemi vurgulanır.\n       Yakıt   alımı   sırasında   yolcu   alımı   prosedürlerinin uygulanma kuralları açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "2.  Uçağa Yakıt Alımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Uçağa yakıt alma işlemini açıklar.\nUluslararası   düzenlemelerle   belirlenmiş   yakıt   alım esnasında      uygulanan      güvenlik      ve      emniyet tedbirlerinin önemi vurgulanır.\n       Yakıt   alımı   sırasında   yolcu   alımı   prosedürlerinin uygulanma kuralları açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "3.  Uçağa Yolcu Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Uçağa yolcu alma işlemini açıklar.\nUçuş  konforu  ve  emniyet  için  kullanılan  kabin  içi malzemelerin temin edilme yolları açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "3.  Uçağa Yolcu Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Uçağa yolcu alma işlemini açıklar.\nUçuş  konforu  ve  emniyet  için  kullanılan  kabin  içi malzemelerin temin edilme yolları açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "4.  Yük ve Denge Hesaplama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Yük ve denge hesaplama işlemini açıklar.\nUçağı   çizerek   etki   eden   kuvvetler   uçak   üzerinde gösterilir.\n       Ağırlık ve denge formu hazırlanır.\n       Yük   ve   Denge   hesaplama   formunu   LoadTrim Sheet doldurulur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "4.  Yük ve Denge Hesaplama",
+      "KAZANIM": "Yük ve denge hesaplama işlemini açıklar.\nUçağı   çizerek   etki   eden   kuvvetler   uçak   üzerinde gösterilir.\n       Ağırlık ve denge formu hazırlanır.\n       Yük   ve   Denge   hesaplama   formunu   LoadTrim Sheet doldurulur."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Uçuş  Operasyon Evrakları",
+      "KONU": "4.  Yük ve Denge Hesaplama",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Yük ve denge hesaplama işlemini açıklar.\nUçağı   çizerek   etki   eden   kuvvetler   uçak   üzerinde gösterilir.\n       Ağırlık ve denge formu hazırlanır.\n       Yük   ve   Denge   hesaplama   formunu   LoadTrim Sheet doldurulur."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "6",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "6",
+      "ÜNİTE": "Pusch-back",
+      "KONU": "1.  Pusch-back İşlemi",
+      "KAZANIM": "Pusch-back işlemini açıklar.\nUçak     etrafında     alınacak     güvenlik     tedbirlerinin takozlama     ve     emniyet     dubalarının     yerleşimi uygulama aşamaları görsellerle açıklanır.\n       Uçak  etrafında  push-back  operasyonu  yetkilisi  harici personel bulunmamasının önemi açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "6",
+      "ÜNİTE": "Pusch-back",
+      "KONU": "1.  Pusch-back İşlemi",
+      "KAZANIM": "Pusch-back işlemini açıklar.\nUçak     etrafında     alınacak     güvenlik     tedbirlerinin takozlama     ve     emniyet     dubalarının     yerleşimi uygulama aşamaları görsellerle açıklanır.\n       Uçak  etrafında  push-back  operasyonu  yetkilisi  harici personel bulunmamasının önemi açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "6",
+      "ÜNİTE": "Pusch-back",
+      "KONU": "1.  Pusch-back İşlemi",
+      "KAZANIM": "Pusch-back işlemini açıklar.\nUçak     etrafında     alınacak     güvenlik     tedbirlerinin takozlama     ve     emniyet     dubalarının     yerleşimi uygulama aşamaları görsellerle açıklanır.\n       Uçak  etrafında  push-back  operasyonu  yetkilisi  harici personel bulunmamasının önemi açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "6",
+      "ÜNİTE": "Pusch-back",
+      "KONU": "2.  De-icingAnti-icing İşlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "De-icingAnti-icing işlemlerini açıklar.\nUçağa      De-icingAnti-icing      yapılma      aşamaları görsellerle anlatılır.\n       Head set aracılığı ile mesul kaptanla iletişim kurmanın önemi vurgulanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "6",
+      "ÜNİTE": "Pusch-back",
+      "KONU": "2.  De-icingAnti-icing İşlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "De-icingAnti-icing işlemlerini açıklar.\nUçağa      De-icingAnti-icing      yapılma      aşamaları görsellerle anlatılır.\n       Head set aracılığı ile mesul kaptanla iletişim kurmanın önemi vurgulanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "6",
+      "ÜNİTE": "Pusch-back",
+      "KONU": "2.  De-icingAnti-icing İşlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "De-icingAnti-icing işlemlerini açıklar.\nUçağa      De-icingAnti-icing      yapılma      aşamaları görsellerle anlatılır.\n       Head set aracılığı ile mesul kaptanla iletişim kurmanın önemi vurgulanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "6",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "6",
+      "ÜNİTE": "Haberleşme ve Mesajlar",
+      "KONU": "1.  Gidiş Mesajları",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Gidiş mesajlarını açıklar.\nMesajları   gönderirken   amacına   uygun   kısaltmaları kullanması sağlanır.\n       Uçuşun    gidişine    ait    mesajları    havayoluna    özel oluşturulmuş dosyalarda arşivlemek anlatılır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "6",
+      "ÜNİTE": "Haberleşme ve Mesajlar",
+      "KONU": "1.  Gidiş Mesajları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Gidiş mesajlarını açıklar.\nMesajları   gönderirken   amacına   uygun   kısaltmaları kullanması sağlanır.\n       Uçuşun    gidişine    ait    mesajları    havayoluna    özel oluşturulmuş dosyalarda arşivlemek anlatılır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "6",
+      "ÜNİTE": "Haberleşme ve Mesajlar",
+      "KONU": "2.  Geliş Mesajları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Geliş mesajlarını açıklar.\nMesajları   gönderirken   amacına   uygun   kısaltmaları kullanması sağlanır.\n       Uçuşun    gidişine    ait    mesajları    havayoluna    özel oluşturulmuş dosyalarda arşivlemek anlatılır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "6",
+      "ÜNİTE": "Haberleşme ve Mesajlar",
+      "KONU": "2.  Geliş Mesajları",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Geliş mesajlarını açıklar.\nMesajları   gönderirken   amacına   uygun   kısaltmaları kullanması sağlanır.\n       Uçuşun    gidişine    ait    mesajları    havayoluna    özel oluşturulmuş dosyalarda arşivlemek anlatılır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "6",
+      "ÜNİTE": "Haberleşme ve Mesajlar",
+      "KONU": "3.  Sorumlu Olduğu Uçuş Sonrası Uçuşa Ait Tüm İlgili Dokümanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Sorumlu olduğu uçuş sonrası uçuşa ait tüm ilgili dokümanları açıklar.\nUçuşun gelişine  ve  gidişine  ait  mesajları  havayoluna özel oluşturulmuş dosyalarda arşivlemek açıklanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "6",
+      "ÜNİTE": "Haberleşme ve Mesajlar",
+      "KONU": "3.  Sorumlu Olduğu Uçuş Sonrası Uçuşa Ait Tüm İlgili Dokümanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Sorumlu olduğu uçuş sonrası uçuşa ait tüm ilgili dokümanları açıklar.\nUçuşun gelişine  ve  gidişine  ait  mesajları  havayoluna özel oluşturulmuş dosyalarda arşivlemek açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "6",
+      "ÜNİTE": "Haberleşme ve Mesajlar",
+      "KONU": "3.  Sorumlu Olduğu Uçuş Sonrası Uçuşa Ait Tüm İlgili Dokümanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Sorumlu olduğu uçuş sonrası uçuşa ait tüm ilgili dokümanları açıklar.\nUçuşun gelişine  ve  gidişine  ait  mesajları  havayoluna özel oluşturulmuş dosyalarda arşivlemek açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "6",
+      "ÜNİTE": "Haberleşme ve Mesajlar",
+      "KONU": "3.  Sorumlu Olduğu Uçuş Sonrası Uçuşa Ait Tüm İlgili Dokümanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Sorumlu olduğu uçuş sonrası uçuşa ait tüm ilgili dokümanları açıklar.\nUçuşun gelişine  ve  gidişine  ait  mesajları  havayoluna özel oluşturulmuş dosyalarda arşivlemek açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "6",
+      "ÜNİTE": "Uçak Hizmet Takibi",
+      "KONU": "1.  Uçağın Gelişinde Verilen Hizmetler",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Uçağın gelişinde verilen hizmetleri açıklar.\nUçağın    gelişinde    verilen    hizmetlere    ait    servis formlarının doldurulma ilkeleri açıklanır.\n       Uçağın  gelişinde  verilen  hizmetlere  ait  servis  formu doldurulur."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "6",
+      "ÜNİTE": "Uçak Hizmet Takibi",
+      "KONU": "1.  Uçağın Gelişinde Verilen Hizmetler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Uçağın gelişinde verilen hizmetleri açıklar.\nUçağın    gelişinde    verilen    hizmetlere    ait    servis formlarının doldurulma ilkeleri açıklanır.\n       Uçağın  gelişinde  verilen  hizmetlere  ait  servis  formu doldurulur."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Uçak Hizmet Takibi",
+      "KONU": "2.  Uçağın Gidişinde Verilen Hizmetler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Uçağın gidişinde verilen hizmetleri açıklar.\nUçağın    gidişinde    verilen    hizmetlere    ait    servis formlarının doldurulma ilkeleri açıklanır.\n       Uçağın  gidişinde  verilen  hizmetlere  ait  servis  formu doldurulur."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Uçak Hizmet Takibi",
+      "KONU": "2.  Uçağın Gidişinde Verilen Hizmetler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Uçağın gidişinde verilen hizmetleri açıklar.\nUçağın    gidişinde    verilen    hizmetlere    ait    servis formlarının doldurulma ilkeleri açıklanır.\n       Uçağın  gidişinde  verilen  hizmetlere  ait  servis  formu doldurulur."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "6",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

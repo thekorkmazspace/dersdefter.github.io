@@ -1,0 +1,337 @@
+{
+  "sinif": "9",
+  "ders": "BİLGİSAYAR BİLİM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "ÜNİTE I. ETİK GÜVENLİK TOPLUM\n1.1.1.Etik Değerler",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "ÜNİTE I. ETİK GÜVENLİK TOPLUM 1.1.1.1. Bilişim teknolojilerini ve İnternet ortamını kullanma ve yönetme sürecinde dikkat edilmesi gereken etik ilkeleri açıklar. 1.1.1.2. Etik ilkelerin ihlali sonucunda karşılaşılacak durumlara örnek verir. 1.1.1.3. Bilişim\nteknolojileri ve İnterneti kullanırken etik ilkelerin gerekliliğini sorgular."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.2.Bilgi Güvenliği 15 Temmuz Demokrasi ve Milli Birlik Günü Etkinlikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "1.1.2.1. Bilgi güvenliğinin önemini açıklar. 1.1.2.2. Bilgi güvenliğine yönelik tehditleri açıklar. Demokrasi ve Milli Birliğini geleceğimiz için önemini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.2.Bilgi Güvenliği",
+      "KAZANIM": "1.1.2.3. Sayısal dünyada kimlik yönetimi konusunda güvenlik açısından yapılması\ngerekenleri listeler. 1.1.2.4. Kişisel bilgisayar ve ağ ortamında bilgi güvenliğini sağlamaya yönelik işlemleri yürütür."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "ÜNİTE 2. PROBLEM ÇÖZME VE\nALGORİTMALAR 1.2.1. Problem Çözme Kavramları ve Yaklaşımlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "ÜNİTE 2. PROBLEM ÇÖZME VE ALGORİTMALAR 1.2.1.1. Problem çözme sürecindeki temel kavramları açıklar. 1.2.1.2. Problem türlerini açıklar. 1.2.1.3. Günlük hayatta karşılaştığı problemler için çözüm yolları önerir. 1.2.1.4. Bir problemin çözüm adımlarının doğru bir şekilde belirlenmesinin ve sıralanmasının önemini ifade eder.\n1.2.1.5. Verilen problem için uygun teknikleri kullanarak çözüm önerisi geliştirir."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.2. Problem Çözme Süreci",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "1.2.2.1. Verilen problemin çözümünde sabitleri ve değişkenleri belirler. 1.2.2.2. Verilen problemin çözümünde sabitleri ve değişkenleri kullanır. 1.2.2.3. Değişken isimlendirirken uyulması önerilen kuralları açıklar. 1.2.2.4. Veri türlerini açıklar. 1.2.2.5. Veri türleri arasındaki farkı açıklar. 1.2.2.6. Veri türlerini verilen problemin çözümünde kullanır. 1.2.2.7. Fonksiyonların yapısını açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.2. Problem Çözme Süreci Atatürkün Cumhuriyete verdiği önem",
+      "KAZANIM": "1.2.2.8. Problem çözme süreçlerinde fonksiyonları kullanır. 1.2.2.9. Problem çözme sürecinde matematiksel operatörleri kullanır. 1.2.2.10. Problem çözme sürecinde ilişkisel operatörleri kullanır. 1.2.2.11. Problem çözme sürecinde mantıksal operatörleri kullanır. 1.2.2.12. Verilen bir problemin çözümünde işlem önceliğine göre çözümü\nbelirler. 1.2.2.13. Verilen bir problemde ifade ve eşitlikleri kullanarak çözüm üretir. Cumhuriyetin tanımını ve önemini kavrar"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.3. Problem Çözme Yaklaşımları",
+      "KAZANIM": "1.2.3.1. Verilen probleme uygun söz dizimi oluşturur. 1.2.3.2. Verilen söz dizimindeki hataları ayıklar. 1.2.3.3. Verilen söz dizimini çalıştırır. 1.2.3.4. Verilen problemi alt problemlerine böler. 1.2.3.5. Verilen problem için uygun teknikleri kullanarak çözümü planlar. 1.2.3.6. Problem analiz süreçlerinde kullanılabilecek stratejileri açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.3. Problem Çözme Yaklaşımları 10 Kasım Atatürkü Anma1.2.3. Problem Çözme Yaklaşımları 10 Kasım Atatürkü Anma1.2.3. Problem Çözme Yaklaşımları 10 Kasım Atatürkü Anma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "1.2.3.7. Uygun stratejiyi belirleyerek verilen problemi analiz eder. 1.2.3.8. Verilen problemi çözmek üzere farklı algoritmalar tasarlar. 1.2.3.9. Karmaşık bir problemi alt problemlere ayırarak çözümleri sözde kod olarak tasarlar. 1.2.3.10. Algoritmayı analiz ederek sonucunu yordar. 1.2.3.11. Algoritmanın hatalarını giderir. 1.2.3.12. Algoritmayı daha verimli olması için düzenler. Atatürkün temel eserleri ve ilkelerini örneklerle\naçıklar.1.2.3.7. Uygun stratejiyi belirleyerek verilen problemi analiz eder. 1.2.3.8. Verilen problemi çözmek üzere farklı algoritmalar tasarlar. 1.2.3.9. Karmaşık bir problemi alt problemlere ayırarak çözümleri sözde kod olarak tasarlar. 1.2.3.10. Algoritmayı analiz ederek sonucunu yordar. 1.2.3.11. Algoritmanın hatalarını giderir. 1.2.3.12. Algoritmayı daha verimli olması için düzenler. Atatürkün temel eserleri ve ilkelerini örneklerle açıklar.1.2.3.7. Uygun stratejiyi belirleyerek verilen problemi analiz eder. 1.2.3.8. Verilen problemi çözmek üzere farklı algoritmalar tasarlar. 1.2.3.9. Karmaşık bir problemi alt problemlere ayırarak çözümleri sözde kod olarak tasarlar. 1.2.3.10. Algoritmayı analiz ederek sonucunu yordar. 1.2.3.11. Algoritmanın hatalarını giderir. 1.2.3.12. Algoritmayı daha verimli olması için düzenler. Atatürkün temel eserleri ve ilkelerini örneklerle\naçıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "1.2.3. Problem Çözme Yaklaşımları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 1.2.3.13. Problem analiz ve çözüm aşamasında akranlarıyla ortak fikirler geliştirir.\n1.2.3.14. Verilen problemin çözümü için uygun akış şemaları oluşturur. 1.2.3.15. Belirli bir problemi çözmek üzere geliştirdiği algoritmayı metin tabanlı programlama aracını kullanarak hatasız bir programa dönüştürür. 1.2.3.16. Metin tabanlı araçlarda oluşturulan programı çalıştırır. 1.2.3.17. Metin tabanlı araçlarda oluşturulan bir programı test eder. 1.2.3.18. Metin tabanlı araçlarda oluşturulan programın hatalarını\ndüzeltir."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Ara Tatil",
+      "KONU": "Ara Tatil",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "Ara Tatil"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "1.2.4. Programlama Yapısı 24 Kasım Öğretmenler Günü",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "1.2.4.1. Verilen bir programı modüllere böler. 1.2.4.2. Farklı modüllerin işlevlerini açıklar. 1.2.4.3. Belirli bir problemin çözümü için kullanılan mantıksal yapılarını ayırt eder. 1.2.4.4. Bağlaşım coupling ve yapışkanlık cohesion kavramlarını açıklar. 1.2.4.5. Problemlerin çözümünde kullanılacak yerel ve global değişkenleri belirler. Atatürkün Eğitime ve Öğretmelere verdiği değeri açıklar"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "1.2.4. Programlama Yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "1.2.4.6. Problemlerin çözümünde yerel ve global değişkenleri kullanır. 1.2.4.7.\nProblemlerin çözümünde kullanılacak parametreleri belirler. 1.2.4.8. Problemlerin çözümünde parametrelerin kullanılacağı yerleri belirler. 1.2.4.9. Değer döndüren bir fonksiyon yapısı oluşturur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "1.2.5. Doğrusal Mantık Yapısı İle Problem Çözme",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "1.2.5.1. Doğrusal mantık yapısını açıklar. 1.2.5.2. Doğrusal mantık yapılarını kullanarak algoritma tasarlar. 1.2.5.3. Doğrusal mantık yapılarını kullanarak akış şeması oluşturur.\n1.2.5.4. Çözüm üretme süreçlerinde doğrusal mantık yapılarını kullanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "1.2.6. Karar Yapıları İle Problem Çözme",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "1.2.6.1. Karar mantık yapısını açıklar. 1.2.6.2. Çoklu eğer yapısını açıklar. 1.2.6.3. Düz mantık yürütmeyi açıklar. 1.2.6.4. Düz mantık yürütmeye örnek verir. 1.2.6.5. Olumlu mantık yürütmeyi açıklar. 1.2.6.6. Olumlu mantık yürütmeye örnek verir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "1.2.6. Karar Yapıları İle Problem Çözme",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "1.2.6.7. Olumsuz mantık yürütmeyi açıklar. 1.2.6.8. Olumsuz mantık yürütmeye örnek verir. 1.2.6.9. Mantıksal yapıları birbirine dönüştürür. 1.2.6.10. Karar tabloları oluşturur.\n1.2.6.11. Problem çözme süreçlerinde karar yapılarını kullanarak algoritma tasarlar.\n1.2.6.12. Problem çözme süreçlerinde karar yapılarını kullanarak akış şeması oluşturur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "1.2.7. Döngü Yapısı İle Problem Çözme",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "1.2.7.1. Döngü mantık yapısını açıklar. 1.2.7.2. Döngü mantık yapısı içerisindeki artış değerlerinin işlevini açıklar. 1.2.7.3. Döngü mantık yapısı içerisinde biriktirme algoritması tasarlar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "1.2.7. Döngü Yapısı İle Problem\nÇözme1.2.7. Döngü Yapısı İle Problem Çözme",
+      "KAZANIM": "1.2.7.4. Döngü mantık yapısı içerisindeki koşulları açıklar. 1.2.7.5. Döngü mantık yapısına uygun algoritma tasarlar. 1.2.7.6. Problem çözme süreçlerinde döngü yapılarını kullanarak algoritma tasarlar. 1.2.7.7. Problem çözme süreçlerinde döngü yapılarını kullanarak akış şeması oluşturur.1.2.7.4. Döngü mantık yapısı içerisindeki koşulları açıklar. 1.2.7.5. Döngü mantık yapısına uygun algoritma tasarlar. 1.2.7.6. Problem çözme süreçlerinde döngü yapılarını kullanarak algoritma tasarlar. 1.2.7.7. Problem çözme\nsüreçlerinde döngü yapılarını kullanarak akış şeması oluşturur."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "1.2.8. Farklı Algoritma Uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 1.2.8.1. Belirli bir problem için sıralama algoritması tasarlar. 1.2.8.2. Belirli bir problem için arama algoritması tasarlar. 1.2.8.3. Belirli bir problem için bulmaca algoritması tasarlar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "1.2.8. Farklı Algoritma Uygulamaları1.2.8. Farklı Algoritma Uygulamaları",
+      "KAZANIM": "1.2.8.4. Belirli bir problem için matematik işlemler içeren algoritma tasarlar. 1.2.8.5. Belirli bir problem için dil bilim işlemleri içeren algoritma tasarlar.1.2.8.4. Belirli bir problem için matematik işlemler içeren algoritma tasarlar. 1.2.8.5. Belirli bir problem için dil bilim işlemleri içeren algoritma tasarlar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "ÜNİTE 3. PROGRAMLAMA 1.3.1.\nProgramlamanın Temelleri",
+      "KAZANIM": "ÜNİTE 3. PROGRAMLAMA 1.3.1.1. Belirlenen programlama dilinde yapısal ve söz dizimsel kurallara uygun şekilde programlar geliştirir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "1.3.1. Programlamanın Temelleri",
+      "KAZANIM": "1.3.1.2. Belirlenen programlama dilinde değişkenleri ve sabitleri uygun şekilde kullanarak programlar geliştirir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "1.3.1. Programlamanın Temelleri",
+      "KAZANIM": "1.3.1.3. Belirlenen programlama dilinde girdilerin belirlendiği ve çıktıların gözlemlendiği programlar geliştirir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "1.3.2. Program Kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "1.3.2.1. Belirlenen programlama dilinde kontrol yapılarını kullanarak programlar geliştirir."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "1.3.2. Program Kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "1.3.2.2. Belirlenen programlama dilinde tekrarlı yapıları kullanarak programlar geliştirir."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "1.3.2. Program Kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "1.3.2.3. Belirlenen programlama dilinde parametre almayan fonksiyon içeren programlar geliştirir."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Ara Tatil",
+      "KONU": "Ara Tatil",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "Ara Tatil"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "1.3.2. Program Kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "1.3.2.4. Belirlenen programlama dilinde parametre alan fonksiyon içeren programlar geliştirir. 1.3.2.5. Belirlenen programlama dilinde değer döndüren fonksiyon içeren programlar geliştirir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "1.3.3. Veri Yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "1.3.3.1. Belirlenen programlama dilinde sayısal türde veri tanımlar. 1.3.3.2. Tanımladığı sayısal tipteki veriye ait temel fonksiyonların yer aldığı programları geliştirir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "1.3.3. Veri Yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 1.3.3.3. Belirlenen programlama dilinde dizgi tipinde veri tanımlar. 1.3.3.4. Tanımladığı dizgi tipindeki veriye ait temel fonksiyonların yer aldığı programları geliştirir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "1.3.3. Veri Yapıları İnternet Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "1.3.3.5. Belirlenen programlama dilinde dizi tipinde veri tanımlar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "1.3.3. Veri Yapıları İnternet Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "1.3.3.6. Tanımladığı dizi tipindeki veriye ait temel fonksiyonların yer aldığı programları geliştirir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "1.3.4. Dosya İşlemleri Atatürkün egemenlik anlayışı  23 Nisan",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "1.3.4.1. Belirlenen programlama dilinde örnek bir dosyanın içeriğini okuyup ekrana yazdıran programı geliştirir. Ulusal Egemenlik ve Önemini Örneklerle Açıklar"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "1.3.4. Dosya İşlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "1.3.4.2. Belirlenen programlama dilinde bir dosyaya veri yazan program geliştirir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "1.3.5. Proje Geliştirme BİLİŞİM HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "1.3.5.1. Çevrim içi araçları kullanarak belirlenen programlama dilinde ileri uygulamaların yer aldığı özgün proje geliştirir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "1.3.5. Proje Geliştirme Atatürkün gençliğe verdiği önem",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "1.3.5.1. Çevrim içi araçları kullanarak belirlenen programlama dilinde ileri uygulamaların yer aldığı özgün proje geliştirir. Atatürkün çağdaşlaşma ile ilgili görüşlerini ifade eder."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "1.3.5. Proje Geliştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "1.3.5.1. Çevrim içi araçları kullanarak belirlenen programlama dilinde ileri uygulamaların yer aldığı özgün proje geliştirir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "1.3.5. Proje Geliştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 1.3.5.1. Çevrim içi araçları kullanarak belirlenen programlama dilinde ileri uygulamaların yer aldığı özgün proje geliştirir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "1.3.5. Proje Geliştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "1.3.5.1. Çevrim içi araçları kullanarak belirlenen programlama dilinde ileri uygulamaların yer aldığı özgün proje geliştirir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "1.3.5. Proje Geliştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "1.3.5.1. Çevrim içi araçları kullanarak belirlenen programlama dilinde ileri uygulamaların yer aldığı özgün proje geliştirir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

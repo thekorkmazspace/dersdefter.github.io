@@ -1,0 +1,377 @@
+{
+  "sinif": "12",
+  "ders": "KMYA (FL MEB)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "12.1.1.1. Redoks tepkimelerini tanır.\na. Yükseltgenme ve indirgenme kavramları üzerinde durulur. b. Redoks tepkimeleri denkleştirilerek yaygın yükseltgenler O2 KMnO4 H2SO4 HNO3 H2O2 ve indirgenler H2 SO2 tanıtılır. c. Sülfürik asit ile bakır metalinin tepkimesi deneyi yaptırılarak oluşan tepkimenin denkleştirilmesi sağlanır. Deney sırasında uyulması gereken güvenlik kuralları hatırlatılır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "İndirgenme-Yükseltgenme Tepkimelerinde Elektrik Akımı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "12.1.1.2. Redoks tepkimeleriyle elektrik enerjisi arasındaki ilişkiyi açıklar.\na. İndirgen-yükseltgen arasındaki elektron alış-verişinin doğrudan temas dışında bir yolla mümkün olup olmayacağının tartışılması sağlanır. b. Elektrik enerjisi ile redoks tepkimesinin istemlilikistemsizlik durumu ilişkilendirilir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "Elektrotlar ve Elektrokimyasal Hücreler",
+      "KAZANIM": "12.1.2.1. Elektrot ve elektrokimyasal hücre kavramlarını açıklar.\na. Katot ve anot kavramları indirgenme-yükseltgenme ile ilişkilendirilerek ele alınır. b. Elektrot yarı-hücre ve hücre kavramları üzerinde durulur."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "Elektrotlar ve Elektrokimyasal Hücreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "12.1.2.1. Elektrot ve elektrokimyasal hücre kavramlarını açıklar.\nc. İnert elektrotların hangi durumlarda gerekli olduğu açıklanır. ç. Pillerde tuz köprüsünün işlevi açıklanır. d. ZnCu elektrokimyasal pili deneyi yaptırılır bilişim teknolojilerinden animasyon simülasyon video vb. yararlanılarak da açıklanır."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "Elektrot Potansiyelleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "12.1.3.1. Redoks tepkimelerinin istemliliğini standart elektrot potansiyellerini kullanarak açıklar.\na. Standart yarı hücre indirgenme potansiyelleri standart hidrojen yarı hücresi ile ilişkilendirilir. b. Metallerin aktiflik sırası üzerinde durulur."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "Elektrot Potansiyelleri",
+      "KAZANIM": "12.1.3.1. Redoks tepkimelerinin istemliliğini standart elektrot potansiyellerini kullanarak açıklar.\nc. Mg Zn Fe Cu ve Al metallerinin HCl çözeltisi ile tepkime deneyleri yaptırılarak metallerin aktiflik karşılaştırması yapılır. ç. İki ayrı yarı hücre arasındaki istemli redoks tepkimesinin standart indirgenme potansiyelleri ile ilişkilendirilmesi sağlanır. d. Standart olmayan koşullarda elektrot potansiyellerinin hesaplanmasına yönelik çalışmalara yer verilir."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "Kimyasallardan Elektrik Üretimi",
+      "KAZANIM": "12.1.4.1. Standart koşullarda galvanik pillerin voltajını ve kullanım ömrünü örnekler vererek açıklar. 12.1.4.2. Güneş pilleri yakıt pilleri ve lityum iyon pillerinin önemini kullanım alanlarıyla ilişkilendirerek açıklar.\n12.1.4.1 ZnCu elektrokimyasal pil sistemine derişim ve sıcaklığın etkisi deneyi yaptırılır 12.1.4.2. Öğrencilerin güneş pilleri yakıt pilleri lityum iyon pilleri ve güncel kullanım alanlarını açıklayan elektronik bir sunu hazırlamaları ve sunmaları sağlanır."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "SINAV HAFTASI",
+      "KONU": "SINAV HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "SINAV HAFTASI"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "Elektroliz",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 12.1.5.1. Elektroliz olayını elektrik akımı zaman ve değişime uğrayan madde kütlesi açısından açıklar.\na. 1 mol elektronun toplam yükü üzerinden elektrik yükü-kütle ilişkisi kurulması sağlanır. b. Yük birimi Coulomb C tanımlanır. c. Faraday bağıntısı açıklanır ve bu bağıntı kullanılarak hesaplamalar yapılır. ç. Öğrencilerin Faraday bağıntısını elektronik tablolama programı kullanarak kurgulamaları değerleri değiştirerek gerçekleşen değişiklikleri gözlemlemeleri ve yorumlamaları sağlanır. d. Kaplama deneyi yaptırılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım 2025",
+      "KONU": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım 2025",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım 2025"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "Elektroliz",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "12.1.5.2. Kimyasal maddelerin elektroliz yöntemiyle elde ediliş sürecini açıklar.\nSuyun elektrolizi ile hidrojen ve oksijen eldesi deneyi yaptırılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "KİMYA VE ELEKTRİK",
+      "KONU": "Korozyon",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "12.1.6.1. Korozyon önleme yöntemlerinin elektrokimyasal temellerini açıklar.\na. Korozyon kavramı açıklanır. b. Korozyondan koruma süreci metallerin aktiflik sırası ile ilişkilendirilir kurban elektrot kavramı üzerinde durulur. c. Kurban elektrotun kullanım alanlarına örnekler verilir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "KARBON KİMYASINA GİRİŞ",
+      "KONU": "Anorganik ve Organik Bileşikler",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "12.2.1.1. Anorganik ve organik bileşiklerin özelliklerini açıklar. 12.2.1.2. Anorganik ve organik bileşikleri ayırt eder.\n12.2.1.1. a. Organik bileşik kavramının tarihsel gelişimi açıklanır. b. Organik bileşiklerde karbon ve hidrojen tayini deneyi yaptırılır. 12.2.1.2. Anorganik ve organik bileşiklerin formüllerinin adları ile eşleştirilmesi sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "KARBON KİMYASINA GİRİŞ",
+      "KONU": "Basit Formül ve Molekül Formülü",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "12.2.2.1. Organik bileşiklerin basit ve molekül formüllerinin bulunması ile ilgili hesaplamalar yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "KARBON KİMYASINA GİRİŞ",
+      "KONU": "Doğada Karbon",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "12.2.3.1. Karbon allotroplarının özelliklerini yapılarıyla ilişkilendirir.\na. Karbon elementinin çok sayıda bileşik oluşturma özelliği ile bağ yapma özelliği arasında ilişki kurulması sağlanır. b. Elmas ve grafitin incelenmesi sağlanır fulleren grafen ve nanotüplerin yapıları ve önemleri görsel materyallerle tanıtılır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "KARBON KİMYASINA GİRİŞ",
+      "KONU": "Lewis Formülleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "12.2.4.1. Kovalent bağlı kimyasal türlerin Lewis formüllerini yazar.\nOktetin aşıldığı moleküller kapsam dışıdır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "SINAV HAFTASI",
+      "KONU": "SINAV HAFTASI",
+      "KAZANIM": "SINAV HAFTASI"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "KARBON KİMYASINA GİRİŞ",
+      "KONU": "Hibritleşme-Molekül Geometrileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 12.2.5.1. Tek çift ve üçlü bağların oluşumunu hibrit ve atom orbitalleri temelinde açıklar.\nMoleküldeki tek çift ve üçlü bağların oluşumu top çubuk modeli ile gösterilir."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "KARBON KİMYASINA GİRİŞ",
+      "KONU": "Hibritleşme-Molekül Geometrileri",
+      "KAZANIM": "12.2.5.2. Moleküllerin geometrilerini merkez atomu orbitallerinin hibritleşmesi esasına göre belirler.\na. Hibritleşme ve VSEPR Değerlik Katmanı Elektron Çifti İtmesi yaklaşımı üzerinde durulur. 2. periyot elementlerinin hidrojenle yaptığı bileşikler dışındakiler verilmez."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "YARIYIL TATİLİ 19 - 30 Ocak 2026",
+      "KONU": "YARIYIL TATİLİ 19 - 30 Ocak 2026",
+      "KAZANIM": "YARIYIL TATİLİ 19 - 30 Ocak 2026"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "YARIYIL TATİLİ 19 - 30 Ocak 2026",
+      "KONU": "YARIYIL TATİLİ 19 - 30 Ocak 2026",
+      "KAZANIM": "YARIYIL TATİLİ 19 - 30 Ocak 2026"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "KARBON KİMYASINA GİRİŞ",
+      "KONU": "Hibritleşme-Molekül Geometrileri",
+      "KAZANIM": "12.2.5.2. Moleküllerin geometrilerini merkez atomu orbitallerinin hibritleşmesi esasına göre belirler.\nb. Öğrencilerin hibritleşme ve VSEPR yaklaşımı konusunda bilişim teknolojilerinden yararlanarak animasyon simülasyon video vb. molekül modelleri yapmaları sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Hidrokarbonlar",
+      "KAZANIM": "12.3.1.1. Hidrokarbon türlerini ayırt eder. 12.3.1.2. Basit alkanların adlarını formüllerini özelliklerini ve kullanım alanlarını açıklar.\n12.3.1.2. a. Yanma ve halojenlerle yer değiştirme özellikleri üzerinde durulur. b. Yapısal izomerlik ve çeşitleri üzerinde durulur. c. Alkanların yakıtlarda LPG benzin motorin dizel fuel oil katran ve asfalt ürünlerinin bileşenleri kullanıldığı hekzanın ise çözücü olarak kullanıldığı vurgulanır. ç. Benzinlerde oktan sayısı hakkında okuma parçası verilir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Hidrokarbonlar",
+      "KAZANIM": "12.3.1.3. Basit alkenlerin adlarını formüllerini özelliklerini ve kullanım alanlarını açıklar.\na. Cis- trans izomerlik işlenir ve top çubuk modeli ile gösterilmesi sağlanır. b. Alkenlerin kullanım alanı olarak alkil halojenür ve alkoller için ham madde oldukları vurgulanır. c. Alkenlerin gıda endüstrisindeki kullanımları ve polimerleşme özellikleri hakkında bilgi verilir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Hidrokarbonlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "12.3.1.4. Basit alkinlerin adlarını formüllerini özelliklerini ve kullanım alanlarını açıklar.\nAsetilenin üretimi kullanım alanları katılma özellikleri ve birincil patlayıcı tuzları üzerinde durulur."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "SINAV HAFTASI",
+      "KONU": "SINAV HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "SINAV HAFTASI"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Hidrokarbonlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "12.3.1.5. Basit aromatik bileşiklerin adlarını formüllerini ve kullanım alanlarını açıklar.\nBenzen naftalin anilin toluen ve fenol bileşikleri tanıtılarak yapıları ve kullanım alanlarını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. DÖNEM ARA TATİLİ 16 - 20 Mart 2026",
+      "KONU": "2. DÖNEM ARA TATİLİ 16 - 20 Mart 2026",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. DÖNEM ARA TATİLİ 16 - 20 Mart 2026"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Fonksiyonel Gruplar",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "12.3.2.1. Organik bileşikleri fonksiyonel gruplarına göre sınıflandırır.\na. Alkil gruplarına hidroksi- alkoksi- halo- karbonil- karboksil- amino- nitro- fenil- grupları bağlanınca oluşan bileşikler genel olarak tanıtılır. b. Bilişim teknolojilerinden yararlanılarak organik bileşiklerde bulunan fonksiyonel gruplar adları ile eşleştirilir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Alkoller",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "12.3.3.1. Alkolleri sınıflandırarak adlarını formüllerini özelliklerini ve kullanım alanlarını açıklar.\na. Etanolün fermantasyon yöntemi ile elde edilişi açıklanır. b. Etanolün alkil halojenürlerden ve alkenlerden elde edilişi üzerinde durulur. c. Alkollerin hidroksil sayısına ve alfa karbonundaki alkil sayısına göre sınıflandırılması sağlanır. ç. 1-4 karbonlu mono alkoller etandiol glikol ve propantriol gliserin tanıtılır. d. Metanolün zehirli özellikleri vurgulanır. e. Etanolün sağlık alanında kullanımına vurgu yapılır. f. Etanolün biyoyakıt işlevi gördüğü ve çözücü olarak kullanıldığı belirtilir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Eterler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 12.3.4.1. Eterleri sınıflandırarak adlarını formüllerini özelliklerini ve kullanım alanlarını açıklar.\na. Asimetrik-simetrik eter ayrımı yapılır. b. Eterlerin çözücü özelliklerine vurgu yapılır. c. Sulu bitki ekstresinden renkli bileşenlerin eterle ayrıştırılması deneyi yaptırılır. ç. Fonksiyonel grup izomerliği açıklanır ve eterlerin alkollerle izomerliğine değinilir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Karbonil Bileşikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "12.3.5.1. Karbonil bileşiklerini sınıflandırarak adlarını formüllerini özelliklerini ve kullanım alanlarını açıklar.\na. Aldehit ve ketonları ayırt edecek düzeyde yapısal ilişki kurularak indirgenme- yükseltgenme özelliklerinin karşılaştırılması sağlanır. b. Aldehitlere örnek olarak formaldehit asetaldehit ve benzaldehit ketonlara örnek olarak aseton verilir. c. Aldehit ve ketonların fonksiyonel grup izomerliklerine değinilir. ç. Aldehit ve ketonların gıda ve kozmetik sanayinde kullanımları üzerinde durulur. d. Gözün görme kimyasında aldehitlerin fonksiyonu ile ilgili okuma parçası verilir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Karboksilik Asitler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "12.3.6.1. Karboksilik asitleri sınıflandırarak adlarını formüllerini ve kullanım alanlarını açıklar.\na. Formik asit asetik asit salisilik asit ftalik asit sitrik asit malik asit folik asit ve benzoik asit tanıtılır. Düz zincirli monokarboksilli asitlerin dışındakilerin formüllerine girilmez. b. Doymuş ve doymamış yağ asitleri tanıtılır. c. Yağ asidi tuzlarının sabun olarak kullanımına değinilir. ç. Benzoik asidin ve benzoatların gıda koruyucu maddesi olarak kullanıldığı belirtilir."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "ORGANİK BİLEŞİKLER",
+      "KONU": "Esterler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "12.3.7.1. Esterlerin adlarını formüllerini ve kullanım alanlarını açıklar.\na. Esterleşme tepkimesine örnek verilir. b. Esterlerin yer aldığı doğal maddelere örnek olarak lanolin balmumu ve balsam verilir. c. Esterlerin çözücü olarak kullanımlarına ilişkin örnekler verilir. ç. Karboksilik asit ve esterlerin fonksiyonel grup izomerliklerine değinilir. d. Sabun eldesi deneyi yaptırılır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+      "KONU": "Fosil Yakıtlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "12.4.1.1. Fosil yakıtların çevreye zararlı etkilerini azaltmak için çözüm önerilerinde bulunur.\na. Fosil yakıtlar ve bu yakıtların oluşumu bilişim teknolojilerinden animasyon simülasyon video vb. yararlanılarak açıklanır. b. Fosil yakıtları bilinçsizce tüketmenin bireye topluma ve çevreye verdiği zararlara değinilir. c. Öğrencilerin fosil yakıtların çevreye zararlı etkilerini araştırmaları ve elde ettikleri bilgilerden yararlanarak bunların çevreye zararlı etkilerini azaltmaya yönelik çözüm önerileri hakkında tartışmaları sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+      "KONU": "Alternatif Enerji Kaynakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "12.4.2.1. Alternatif enerji kaynaklarını tanır.\na. Güneş rüzgâr hidrojen jeotermal ve biyokütle enerji kaynaklarına değinilir. b. Bor mineralinden hidrojen eldesinin ülkemizin kalkınması için önemi vurgulanır. c. Turhan Nejat VEZİROĞLUnun kısa biyografisi ve hidrojenin yakıt olarak kullanılması üzerine yaptığı çalışmalar okuma parçası olarak verilir. ç. Enerji kaynaklarının avantaj ve dezavantajlarının araştırılarak sunum yapılması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+      "KONU": "Alternatif Enerji Kaynakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "12.4.2.2. Nükleer enerjiyi bilim toplum teknoloji çevre ve ekonomi açısından değerlendirir.\nNükleer enerjinin açıklanmasında bilişim teknolojilerinden animasyon simülasyon video vb. yararlanılır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+      "KONU": "Sürdürülebilirlik",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "12.4.3.1. Sürdürülebilir hayat ve kalkınmanın toplum ve çevre için önemini kimya bilimi ile ilişkilendirir.\nEnerji polimer kâğıt ve metal sektörlerinin sürdürülebilir yaşam üzerindeki etkilerine değinilir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "SINAV HAFTASI",
+      "KONU": "SINAV HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav\nSINAV HAFTASI"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+      "KONU": "Nanoteknoloji",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "12.4.4.1. Nanoteknoloji alanındaki gelişmeleri bilim toplum teknoloji çevre ve ekonomiye etkileri açısından değerlendirir.\na. Nanoteknoloji kavramı örnekler üzerinde açıklanır."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "ENERJİ KAYNAKLARI VE BİLİMSEL GELİŞMELER",
+      "KONU": "Nanoteknoloji",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "12.4.4.1. Nanoteknoloji alanındaki gelişmeleri bilim toplum teknoloji çevre ve ekonomiye etkileri açısından değerlendirir.\nb. Nanoteknolojinin açıklanmasında bilişim teknolojilerinden animasyon simülasyon video vb. yararlanılır."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "SOSYAL ETKİNLİK",
+      "KONU": "SOSYAL ETKİNLİK",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "SOSYAL ETKİNLİK"
+    },
+    {
+      "KONU": "* * Bu plan Talim Terbiye Kurulunun yayınladığı Çerçeve Öğretim Programı ve Ders Bilgi Formlarına göre hazırlanmıştır. ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır."
+    }
+  ]
+}

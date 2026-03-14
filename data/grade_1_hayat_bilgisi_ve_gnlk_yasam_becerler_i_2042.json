@@ -1,0 +1,370 @@
+{
+  "sinif": "1",
+  "ders": "HAYAT BİLGİSİ VE GNLK YAŞAM BECERLER I",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "HATIRLATMADEĞERLENDİRME HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "HATIRLATMADEĞERLENDİRME HAFTASI 1\nHATIRLATMA DEĞERLENDİRME HAFTASI 1"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "HATIRLATMADEĞERLENDİRME HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "HATIRLATMADEĞERLENDİRME HAFTASI 1\nHATIRLATMA DEĞERLENDİRME HAFTASI 1"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "PEKİŞTİRMEGENELLEME HAFTASI",
+      "KAZANIM": "PEKİŞTİRMEGENELLEME HAFTASI 1"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "PEKİŞTİRMEGENELLEME HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "PEKİŞTİRMEGENELLEME HAFTASI 1"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "BEN VE OKULUM",
+      "KONU": "Vücudu Tanıma Kişisel Bilgiler Sınıf ve Okul Ortamı Sınıf ve Okul Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "HBGYB1.1. Vücudunu tanıyabilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "BEN VE OKULUM",
+      "KONU": "Vücudu Tanıma Kişisel Bilgiler Sınıf ve Okul Ortamı Sınıf ve Okul Kuralları",
+      "KAZANIM": "HBGYB1.2. Kişisel bilgilerini ifade edebilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "BEN VE OKULUM",
+      "KONU": "Vücudu Tanıma Kişisel Bilgiler Sınıf ve Okul Ortamı Sınıf ve Okul Kuralları",
+      "KAZANIM": "HBGYB1.3. Sınıf ve okul ortamını tanıyabilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "BEN VE OKULUM",
+      "KONU": "Vücudu Tanıma Kişisel Bilgiler Sınıf ve Okul Ortamı Sınıf ve Okul Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "HBGYB1.4. Sınıf ve okul ortamında kurallara uygun davranışlar sergileyebilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "BEN VE OKULUM",
+      "KONU": "Vücudu Tanıma Kişisel Bilgiler Sınıf ve Okul Ortamı Sınıf ve Okul Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "HBGYB1.4. Sınıf ve okul ortamında kurallara uygun davranışlar sergileyebilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "BEN VE OKULUM",
+      "KONU": "Vücudu Tanıma Kişisel Bilgiler Sınıf ve Okul Ortamı Sınıf ve Okul Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "HBGYB1.4. Sınıf ve okul ortamında kurallara uygun davranışlar sergileyebilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "AİLEM VE TOPLUM",
+      "KONU": "Aile Bireyleri Ev Ortamı Meslekler Ulaşım Türleri ve Araçları Aile Kuralları Toplumsal Davranış Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "HBGYB2.1. Aile bireylerini tanıyabilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "AİLEM VE TOPLUM",
+      "KONU": "Aile Bireyleri Ev Ortamı Meslekler Ulaşım Türleri ve Araçları Aile Kuralları Toplumsal Davranış Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "HBGYB2.2. Evin bölümlerini ve evde kullanılan eşyaları çözümleyebilme\na Evin bölümlerini ve evde kullandığı eşyaları belirler.\nSDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "AİLEM VE TOPLUM",
+      "KONU": "Aile Bireyleri Ev Ortamı Meslekler Ulaşım Türleri ve Araçları Aile Kuralları Toplumsal Davranış Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "HBGYB2.2. Evin bölümlerini ve evde kullanılan eşyaları çözümleyebilme\nb Evin bölümlerini ve bu bölümlerde kullanılan eşyaları ilişkilendirir.\nSDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "AİLEM VE TOPLUM",
+      "KONU": "Aile Bireyleri Ev Ortamı Meslekler Ulaşım Türleri ve Araçları Aile Kuralları Toplumsal Davranış Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "HBGYB2.3. Meslekleri ve mesleklerin özelliklerini çözümleyebilme\na Meslekleri ve mesleklerin özelliklerini belirler.\nSDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "AİLEM VE TOPLUM",
+      "KONU": "Aile Bireyleri Ev Ortamı Meslekler Ulaşım Türleri ve Araçları Aile Kuralları Toplumsal Davranış Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "HBGYB2.3. Meslekleri ve mesleklerin özelliklerini çözümleyebilme\nb Meslekleri ve mesleklerin özelliklerini ilişkilendirir.\nSDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "AİLEM VE TOPLUM",
+      "KONU": "Aile Bireyleri Ev Ortamı Meslekler Ulaşım Türleri ve Araçları Aile Kuralları Toplumsal Davranış Kuralları",
+      "KAZANIM": "HBGYB2.4. Ulaşım araçları ve türlerini ayırt edebilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "AİLEM VE TOPLUM",
+      "KONU": "Aile Bireyleri Ev Ortamı Meslekler Ulaşım Türleri ve Araçları Aile Kuralları Toplumsal Davranış Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "HBGYB2.5. Ailede uyulması gereken kurallara uygun davranışlar sergileyebilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "AİLEM VE TOPLUM",
+      "KONU": "Aile Bireyleri Ev Ortamı Meslekler Ulaşım Türleri ve Araçları Aile Kuralları Toplumsal Davranış Kuralları",
+      "KAZANIM": "HBGYB2.6. Toplumsal alanlarda kurallara uygun davranışlar sergileyebilme\nSDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "YAŞADIĞIM YER VE ÜLKEM",
+      "KONU": "Yaşanan Yerin Genel Özellikleri Ülkemizin Ortak Değerleri Mustafa Kemal Atatürk Millî Gün ve Bayramlar",
+      "KAZANIM": "HBGYB3.1. Yaşadığı yerin genel özelliklerini ifade edebilme\nSDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "YAŞADIĞIM YER VE ÜLKEM",
+      "KONU": "Yaşanan Yerin Genel Özellikleri Ülkemizin Ortak Değerleri Mustafa Kemal Atatürk Millî Gün ve Bayramlar",
+      "KAZANIM": "HBGYB3.2. Ülkemizin ortak değerlerini ifade edebilme\nSDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "YAŞADIĞIM YER VE ÜLKEM",
+      "KONU": "Yaşanan Yerin Genel Özellikleri Ülkemizin Ortak Değerleri Mustafa Kemal Atatürk Millî Gün ve Bayramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "HBGYB3.3. Mustafa Kemal Atatürkü tanıyabilme\nSDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "YAŞADIĞIM YER VE ÜLKEM",
+      "KONU": "Yaşanan Yerin Genel Özellikleri Ülkemizin Ortak Değerleri Mustafa Kemal Atatürk Millî Gün ve Bayramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "HBGYB3.4. Millî gün ve bayramların önemine uygun davranışlar sergileyebilme\nSDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "YAŞADIĞIM YER VE ÜLKEM",
+      "KONU": "Yaşanan Yerin Genel Özellikleri Ülkemizin Ortak Değerleri Mustafa Kemal Atatürk Millî Gün ve Bayramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "HBGYB3.4. Millî gün ve bayramların önemine uygun davranışlar sergileyebilme\nSDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "YAŞADIĞIM YER VE ÜLKEM",
+      "KONU": "Yaşanan Yerin Genel Özellikleri Ülkemizin Ortak Değerleri Mustafa Kemal Atatürk Millî Gün ve Bayramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "HBGYB3.4. Millî gün ve bayramların önemine uygun davranışlar sergileyebilme\nSDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "HBGYB4.1. Doğadaki varlıkları ayırt edebilme\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "HBGYB4.2. Günlük yaşamında zaman kavramlarını uygun bir şekilde kullanabil- me\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "HBGYB4.3. Güneş Dünya ve Ayın özelliklerini çözümleyebilme\na Güneş Dünya ve Ayın özelliklerini belirler.\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "HBGYB4.3. Güneş Dünya ve Ayın özelliklerini çözümleyebilme\nb Güneş Dünya ve Ayın özelliklerini ilişkilendirir.\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "HBGYB4.4. Mevsimleri ve mevsimlerin özelliklerini çözümleyebilme\na Mevsimleri ve mevsimlerin özelliklerini belirler.\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "HBGYB4.4. Mevsimleri ve mevsimlerin özelliklerini çözümleyebilme\nb Mevsimleri ve mevsimlerin özelliklerini ilişkilendirir.\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "HBGYB4.5. Afet türlerini ve etkilerini çözümleyebilme\na Afet türlerini ve afetlerin etkilerini belirler.\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "HBGYB4.5. Afet türlerini ve etkilerini çözümleyebilme\nb Afet türlerini ve afetlerin etkilerini ilişkilendirir.\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DOĞA VE ÇEVRE",
+      "KONU": "Doğadaki Varlıklar Zaman Algısı Güneş Dünya ve Ay Mevsimler Afet Türleri Çevre Bilinci",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "HBGYB4.6. Çevre temizliğine ilişkin kurallara uygun davranışlar sergileyebilme\nSDB1.3. Kendine Uyarlama SDB2.2. İş Birliği\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "BİLİM TEKNOLOJİ VE SANAT",
+      "KONU": "Bilimsel Deney Teknolojik Ürünler Sanatsal Etkinlikler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "HBGYB5.1. İş birliği içinde basit bir deneyi yapabilme\na Mevcut bir deneyi gözlemleyerek deney tasarlar.\nb Gözlemlerine dayanarak deneyi çözümler.\nSDB2.2. İş Birliği SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "BİLİM TEKNOLOJİ VE SANAT",
+      "KONU": "Bilimsel Deney Teknolojik Ürünler Sanatsal Etkinlikler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "HBGYB5.2. Teknolojik ürünleri ve bu ürünlerin işlevsel özelliklerini çözümleyebilme\na Teknolojik ürünleri belirler.\nb Teknolojik ürünlerin işlevsel özelliklerini belirler.\nSDB2.2. İş Birliği SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "BİLİM TEKNOLOJİ VE SANAT",
+      "KONU": "Bilimsel Deney Teknolojik Ürünler Sanatsal Etkinlikler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "HBGYB5.2. Teknolojik ürünleri ve bu ürünlerin işlevsel özelliklerini çözümleyebilme\nc Teknolojik ürünleri ve bu ürünlerin işlevsel özelliklerini ilişkilendirir.\nSDB2.2. İş Birliği SDB3.1. Uyum\nOB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

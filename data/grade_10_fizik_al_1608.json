@@ -1,0 +1,383 @@
+{
+  "sinif": "10",
+  "ders": "FİZİK (AL",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "Sabit Hızlı Hareket",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "FİZ.10.1.1. Yatay doğrultuda sabit hızlı hareket ile ilgili tümevarımsal akıl yürütebilme\na Yatay doğrultuda sabit hızlı hareket eden cisimlerin konum yer değiştirme hız ve zaman değişkenlerini deney yaparak gözlemler. b Yatay doğrultuda sabit hızlı hareket eden cisimlerin hareket grafiklerinden yararlanarak ortalama hız ortalama sürat ve yer değiştirmenin matematiksel modelini bulur. c Yatay doğrultuda sabit hızlı hareket eden cisimlerin hız sürat yer değiştirme ve alınan yol değişkenlerine ilişkin matematiksel modelleri geneller.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık\nOB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "Sabit Hızlı Hareket",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "FİZ.10.1.1. Yatay doğrultuda sabit hızlı hareket ile ilgili tümevarımsal akıl yürütebilme\na Yatay doğrultuda sabit hızlı hareket eden cisimlerin konum yer değiştirme hız ve zaman değişkenlerini deney yaparak gözlemler. b Yatay doğrultuda sabit hızlı hareket eden cisimlerin hareket grafiklerinden yararlanarak ortalama hız ortalama sürat ve yer değiştirmenin matematiksel modelini bulur. c Yatay doğrultuda sabit hızlı hareket eden cisimlerin hız sürat yer değiştirme ve alınan yol değişkenlerine ilişkin matematiksel modelleri geneller.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık\nOB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "Bir Boyutta Sabit İvmeli Hareket",
+      "KAZANIM": "FİZ.10.1.2. İvme ve hız değişimi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme\na İvme ve hız değişimi arasındaki ilişkiyi keşfeder. b İvme ve hız değişimi arasındaki ilişkiyi geneller.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık\nOB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "Bir Boyutta Sabit İvmeli Hareket",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "FİZ.10.1.3. Yatay doğrultuda sabit ivmeyle hareket eden cisimlerin hareket grafiklerinden elde edilen matematiksel modelleri yorumlayabilme\na Yatay doğrultuda sabit ivmeli hareket grafiklerini inceler. b Yatay doğrultuda sabit ivmeli hareket grafiklerini birbirine dönüştürerek matematiksel modellere ulaşır. c Yatay doğrultuda sabit ivmeyle hareket eden cisimlerin hareketine ilişkin grafikleri ve matematiksel modeller arasındaki ilişkiyi kendi cümleleriyle yeniden ifade eder.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık\nOB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "Serbest Düşme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "FİZ.10.1.4. Serbest düşme hareketi yapan cisimlerin ivmesine yönelik tümevarımsal akıl yürütebilme\na Serbest düşme hareketi yapan cisimleri gözlemleyerek ivme ve hız değişimleri arasındaki ilişkiyi bulur. b Serbest düşme hareketi yapan cisimlerin ivmesi hakkında genelleme yapar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık\nOB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "Serbest Düşme",
+      "KAZANIM": "FİZ.10.1.5. Serbest düşme hareketi ile ilgili kanıt kullanabilme\na Serbest düşme hareketi ile ilgili verileri toplayarak kaydeder. b Serbest düşme hareketi ile ilgili veri setleri oluşturur. c Serbest düşme hareketini verilere dayalı olarak açıklar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık\nOB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "İki Boyutta Sabit İvmeli Hareket",
+      "KAZANIM": "FİZ.10.1.6. İki boyutta sabit ivmeli hareket ile ilgili tümevarımsal akıl yürütebilme\na İki boyutta sabit ivmeli hareketin bileşenleri ile sabit hızlı ve sabit ivmeli hareket arasındaki ilişkiyi bulur. b İki boyutta sabit ivmeli hareketine yönelik genelleme yapar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık\nOB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "KUVVET VE HAREKET",
+      "KONU": "İki Boyutta Sabit İvmeli Hareket",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "FİZ.10.1.6. İki boyutta sabit ivmeli hareket ile ilgili tümevarımsal akıl yürütebilme\na İki boyutta sabit ivmeli hareketin bileşenleri ile sabit hızlı ve sabit ivmeli hareket arasındaki ilişkiyi bulur. b İki boyutta sabit ivmeli hareketine yönelik genelleme yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "İş Enerji ve Güç",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav FİZ.10.2.1. Kuvvet-yer değiştirme grafiği kullanılarak iş ile ilgili tümevarımsal akıl yürütebilme\na Kuvvet yer değiştirme ve iş arasındaki ilişkiyi matematiksel olarak modeller. b Kuvvet yer değiştirme ve iş arasındaki ilişki hakkında genelleme yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım",
+      "KONU": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "İş Enerji ve Güç",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "FİZ.10.2.2. İş enerji ve güç kavramlarına ilişkin çıkarım yapabilme\na İş enerji ve güç kavramları hakkında mevcut bilgisi dâhilinde hipotez kurar. b İş enerji ve güç kavramlarına yönelik ilişkileri listeler. c İş enerji ve güç kavramlarını karşılaştırır. ç İş ve güç kavramları arasındaki ilişkiye yönelik önermelerde bulunur. d Önermelerini matematiksel modele dönüştürerek değerlendirir.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "Enerji Biçimleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "FİZ.10.2.3. Enerji biçimlerini karşılaştırabilme\na Enerji biçimlerine ilişkin özellikleri belirler. b Enerji biçimlerine ilişkin benzerlikleri listeler. c Enerji biçimlerine ilişkin farklılıkları listeler.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "Enerji Biçimleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "FİZ.10.2.3. Enerji biçimlerini karşılaştırabilme\na Enerji biçimlerine ilişkin özellikleri belirler. b Enerji biçimlerine ilişkin benzerlikleri listeler. c Enerji biçimlerine ilişkin farklılıkları listeler.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık\nOB1. Bilgi Okuryazarlığı OB3. Finansal Okuryazarlık OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "Mekanik Enerji",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "FİZ.10.2.4. Mekanik enerjiyi çözümleyebilme\na Mekanik enerjiye ilişkin bileşenleri belirler. b Mekanik enerjiyle ilgili bileşenler arasındaki matematiksel ilişkiyi belirler.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "Mekanik Enerji",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "FİZ.10.2.4. Mekanik enerjiyi çözümleyebilme\na Mekanik enerjiye ilişkin bileşenleri belirler. b Mekanik enerjiyle ilgili bileşenler arasındaki matematiksel ilişkiyi belirler.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ENERJİ",
+      "KONU": "Enerji Kaynakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "FİZ.10.2.5. Yenilenebilen ve yenilenemeyen enerji kaynaklarını karşılaştırabilme\na Yenilenebilen ve yenilenemeyen enerji kaynaklarına ilişkin özellikleri belirler. b Yenilenebilen ve yenilenemeyen enerji kaynaklarının avantajlarını listeler. c Yenilenebilen ve yenilenemeyen enerji kaynaklarının dezavantajlarını listeler.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Basit Elektrik Devreleri",
+      "KAZANIM": "FİZ.10.3.1. Basit elektrik devresinde potansiyel fark elektrik akımı ve direnç kavramlarının tanımına ilişkin analojik akıl yürütebilme\na Basit elektrik devresi ile su tesisatının bileşenlerini gözlemler. b Basit elektrik devresi ile su tesisatının bileşenleri arasındaki benzerlikleri ve farklılıkları tespit eder. c Benzerliklere dayalı olarak basit elektrik devresindeki potansiyel fark elektrik akımı ve direncin tanımı hakkında çıkarım yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Basit Elektrik Devreleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav FİZ.10.3.1. Basit elektrik devresinde potansiyel fark elektrik akımı ve direnç kavramlarının tanımına ilişkin analojik akıl yürütebilme\na Basit elektrik devresi ile su tesisatının bileşenlerini gözlemler. b Basit elektrik devresi ile su tesisatının bileşenleri arasındaki benzerlikleri ve farklılıkları tespit eder. c Benzerliklere dayalı olarak basit elektrik devresindeki potansiyel fark elektrik akımı ve direncin tanımı hakkında çıkarım yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA",
+      "KONU": "OKUL TEMELLİ PLANLAMA",
+      "KAZANIM": "OKUL TEMELLİ PLANLAMA"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "YARIYIL TATİLİ 19 Ocak - 30 Ocak",
+      "KONU": "YARIYIL TATİLİ 19 Ocak - 30 Ocak",
+      "KAZANIM": "YARIYIL TATİLİ 19 Ocak - 30 Ocak"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "YARIYIL TATİLİ 19 Ocak - 30 Ocak",
+      "KONU": "YARIYIL TATİLİ 19 Ocak - 30 Ocak",
+      "KAZANIM": "YARIYIL TATİLİ 19 Ocak - 30 Ocak"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Elektrik Akımı",
+      "KAZANIM": "FİZ.10.3.2. Elektrik yükünün hareketi üzerinden elektrik akımı kavramını çözümleyebilme\na Bir iletkende elektrik akımı oluşması ile ilgili değişkenleri belirler. b Elektrik akımını oluşturan değişkenler arasındaki ilişkiyi belirler.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2 İş Birliği"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Ohm Yasası",
+      "KAZANIM": "FİZ.10.3.3. Ohm Yasası ile ilgili tümevarımsal akıl yürütebilme\na Elektrik akımı direnç ve potansiyel fark arasındaki ilişkiyi deney yoluyla keşfederek Ohm Yasasının matematiksel modeline ulaşır. b Ohm Yasasının matematiksel modeli üzerinden genelleme yapar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2 İş Birliği"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Dirençlerin Bağlanması",
+      "KAZANIM": "FİZ.10.3.4. Dirençlerin bağlanma türüne göre eşdeğer direncin büyüklüğüne ilişkin bilimsel çıkarım yapabilme\na Dirençlerin seri paralel ve birleşik bağlanma türlerini tanımlar. b Dirençlerin seri paralel ve birleşik bağlanması ile eşdeğer direncin büyüklüğü arasındaki ilişkiyi belirlemek üzere veri toplar ve kaydeder. c Elde ettiği verileri yorumlayarak ulaştığı çıkarımları matematiksel modellemeleri kullanarak test eder."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Dirençlerin Bağlanması",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "FİZ.10.3.4. Dirençlerin bağlanma türüne göre eşdeğer direncin büyüklüğüne ilişkin bilimsel çıkarım yapabilme\na Dirençlerin seri paralel ve birleşik bağlanma türlerini tanımlar. b Dirençlerin seri paralel ve birleşik bağlanması ile eşdeğer direncin büyüklüğü arasındaki ilişkiyi belirlemek üzere veri toplar ve kaydeder. c Elde ettiği verileri yorumlayarak ulaştığı çıkarımları matematiksel modellemeleri kullanarak test eder.\nOB1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Üreteçlerin Bağlanması",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "FİZ.10.3.5. Üreteçlerin bağlanma türüne göre devreye sağladıkları potansiyel farka ilişkin bilimsel çıkarım yapabilme\na Üreteçlerin seri ve paralel bağlanma türlerini tanımlar. b Üreteçlerin seri ve paralel bağlanması durumunda devrenin potansiyel fark ana kol akımı ve üreteçlerin tükenme süreleri arasındaki ilişkiyi belirlemek üzere veri toplayarak kaydeder. c Elde ettiği verileri yorumlayarak değerlendirir.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2 İş Birliği"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Üreteçlerin Bağlanması",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "FİZ.10.3.5. Üreteçlerin bağlanma türüne göre devreye sağladıkları potansiyel farka ilişkin bilimsel çıkarım yapabilme\na Üreteçlerin seri ve paralel bağlanma türlerini tanımlar. b Üreteçlerin seri ve paralel bağlanması durumunda devrenin potansiyel fark ana kol akımı ve üreteçlerin tükenme süreleri arasındaki ilişkiyi belirlemek üzere veri toplayarak kaydeder. c Elde ettiği verileri yorumlayarak değerlendirir.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2 İş Birliği\nOB1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. DÖNEM ARA TATİLİ 16 - 20 Mart",
+      "KONU": "2. DÖNEM ARA TATİLİ 16 - 20 Mart",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. DÖNEM ARA TATİLİ 16 - 20 Mart"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Elektrik Akımının Oluşturabileceği Tehlikelere Karşı Alınması Gereken Önlemler",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "FİZ.10.3.6. Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemlerle ilgili bilgi toplayabilme\na Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemlere ilişkin bilgiye ulaşmak için kullanacağı araçları belirler. b Belirlediği aracı kullanarak elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler ile ilgili bilgileri bulur. c Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler hakkında ulaşılan bilgileri doğrular. ç Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler hakkındaki ulaştığı bilgileri kaydeder."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Elektrik Akımının Oluşturabileceği Tehlikelere Karşı Alınması Gereken Önlemler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "FİZ.10.3.6. Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemlerle ilgili bilgi toplayabilme\na Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemlere ilişkin bilgiye ulaşmak için kullanacağı araçları belirler. b Belirlediği aracı kullanarak elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler ile ilgili bilgileri bulur. c Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler hakkında ulaşılan bilgileri doğrular. ç Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken önlemler hakkındaki ulaştığı bilgileri kaydeder."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ELEKTRİK",
+      "KONU": "Topraklamanın Önemi Dalgaların Temel Kavramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav FİZ.10.3.7. Topraklama olayının önemini sorgulayabilme\na Topraklama olayını tanımlar. b Topraklama olayıyla ilgili sorular sorar. c Topraklama olayı hakkında bilgi toplar. ç Topraklama olayı ile ilgili topladığı bilgilerin doğru olup olmadığını değerlendirir. d Topraklama olayının önemi hakkında çıkarım yapar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Topraklamanın Önemi Dalgaların Temel Kavramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "FİZ.10.4.1. Dalgaların temel kavramlarına ilişkin operasyonel tanımlama yapabilme\na Dalgaların temel kavramlarına ilişkin nitelikleri tanımlar. b Dalgaların temel kavramlarına ilişkin niteliklerin ölçümünü yapar. c Dalgaların temel kavramlarını niteliklerine bağlı olarak tanımlar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlığı OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Dalgaların Sınıflandırılması Dalgaların Yayılma Süratini Etkileyen Etmenler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "FİZ.10.4.2. Dalgaları özelliklerine göre sınıflandırabilme FİZ.10.4.3. Dalgaların yayılma süratini etkileyen etmenlere ilişkin bilimsel gözleme dayalı tahmin yapabilme\na Dalgaların özelliklerini belirler. b Dalgaları titreşim doğrultusu ve taşıdığı enerjiye göre gruplandırır. c Dalgaları enine boyuna hem enine hem boyuna mekanik ve elektromanyetik olarak adlandırır. a Dalgaların yayılma süratine etki eden etmenleri tahmin eder. b Dalgaların farklı ortamlardaki yayılma süratini karşılaştırır. c Dalgaların farklı ortamlardaki yayılma süratlerine ilişkin sonuç çıkarır. ç Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerde bulunur. d Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerinin geçerliliğini sorgular\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Dalgaların Sınıflandırılması Dalgaların Yayılma Süratini Etkileyen Etmenler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "FİZ.10.4.3. Dalgaların yayılma süratini etkileyen etmenlere ilişkin bilimsel gözleme dayalı tahmin yapabilme\na Dalgaların yayılma süratine etki eden etmenleri tahmin eder. b Dalgaların farklı ortamlardaki yayılma süratini karşılaştırır. c Dalgaların farklı ortamlardaki yayılma süratlerine ilişkin sonuç çıkarır. ç Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerde bulunur. d Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerinin geçerliliğini sorgular\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Dalgaların Yayılma Süratini Etkileyen Etmenler Periyodik Hareketler Su Dalgalarında Yansıma ve Kırılma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "FİZ.10.4.3. Dalgaların yayılma süratini etkileyen etmenlere ilişkin bilimsel gözleme dayalı tahmin yapabilme FİZ.10.4.4. Periyodik hareketlere ilişkin deneyimlerini yansıtabilme\na Dalgaların yayılma süratine etki eden etmenleri tahmin eder. b Dalgaların farklı ortamlardaki yayılma süratini karşılaştırır. c Dalgaların farklı ortamlardaki yayılma süratlerine ilişkin sonuç çıkarır. ç Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerde bulunur. d Elektromanyetik dalgaların yayılma sürati ile ilgili tahminlerinin geçerliliğini sorgular a Periyodik hareketlere ilişkin deneyimlerini gözden geçirir. b Periyodik hareketlere ilişkin deneyimlerinden çıkarım yapar. c Periyodik hareketlere ilişkin deneyimlerinden ulaştığı çıkarımı değerlendirir.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Dalgaların Yayılma Süratini Etkileyen Etmenler Periyodik Hareketler Su Dalgalarında Yansıma ve Kırılma",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "FİZ.10.4.5. Su dalgalarında yansıma ve kırılma ile ilgili tümevarımsal akıl yürütebilme\na Su dalgalarında yansıma ve kırılma olaylarına ilişkin gözlemler yapar. b Su dalgalarında yansıma ve kırılma olayları sırasındaki açılar arasında ilişki kurar. c Su dalgalarında yansıma ve kırılma olaylarına ilişkin genellemeler yapar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Dalgaların Yayılma Süratini Etkileyen Etmenler Periyodik Hareketler Su Dalgalarında Yansıma ve Kırılma",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "FİZ.10.4.5. Su dalgalarında yansıma ve kırılma ile ilgili tümevarımsal akıl yürütebilme\na Su dalgalarında yansıma ve kırılma olaylarına ilişkin gözlemler yapar. b Su dalgalarında yansıma ve kırılma olayları sırasındaki açılar arasında ilişki kurar. c Su dalgalarında yansıma ve kırılma olaylarına ilişkin genellemeler yapar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Dalgaların Yayılma Süratini Etkileyen Etmenler Periyodik Hareketler Su Dalgalarında Yansıma ve Kırılma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "FİZ.10.4.5. Su dalgalarında yansıma ve kırılma ile ilgili tümevarımsal akıl yürütebilme\na Su dalgalarında yansıma ve kırılma olaylarına ilişkin gözlemler yapar. b Su dalgalarında yansıma ve kırılma olayları sırasındaki açılar arasında ilişki kurar. c Su dalgalarında yansıma ve kırılma olaylarına ilişkin genellemeler yapar.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Rezonans ve Deprem",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  FİZ.10.4.6. Rezonans ve depreme ilişkin kavramlar üzerinden depremi sorgulayabilme\na Rezonans ve depremle ilişkili olan kavramları tanımlar. b Rezonans ve depremle ilişkili olan kavramlar ile ilgili sorular sorar. c Rezonans ve depremle ilişkili olan kavramlar hakkında bilgi toplar. ç Rezonans ve depremle ilişkili olan kavramlar ile ilgili toplanan bilgilerin doğru olup olmadığını değerlendirir. d Rezonans ve depreme ilişkin kavramlar üzerinden depreme yönelik çıkarımlar yapar."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "DALGALAR",
+      "KONU": "Rezonans ve Deprem",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "FİZ.10.4.7. Depremle ilgili bilimsel model oluşturabilme\na Depremle ilgili bir model önerir. b Depremle ilgili önerilen modeli geliştirir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA",
+      "KONU": "OKUL TEMELLİ PLANLAMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "OKUL TEMELLİ PLANLAMA"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SOSYAL ETKİNLİK",
+      "KONU": "SOSYAL ETKİNLİK",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "SOSYAL ETKİNLİK"
+    },
+    {
+      "ÜNİTE": "Türkiye Yüzyılı Maarif Modeli Ortak Metninde Farklılaştırılmış öğrenme yaşantılarında öğrencilerin ilgi alanları ile öğrenme profilleri önemlidir ve öğrencilere çeşitli öğrenme yaşantıları sunulur. Farklılaştırma kapsamında yapılacak zenginleştirme ve destekleme uygulamalarında öğrencilerin bireysel farklılıkları öğrenme hızları öğrenme stilleri yetenekleri vb. ilgi ve ihtiyaçları dikkate alınarak gereken planlamalar yapılır. ifadesi yer almaktadır. Öğretmenler sınıftaki öğrencilerini gözlemleyerek gerek gördükleri konularda farklılaştırma uygulamalarını ders sürecine dâhil etmelidirler"
+    },
+    {
+      "ÜNİTE": "Okul temelli planlama zumre öğretmenler kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştırılan araştırma ve gözlem sosyal etkinlikler proje çalışmaları yerel çalışmalar okuma çalışmaları vb. çalışmaları kapsamaktadır. Çalışmalar için ayrılan sure eğitim-öğretim yılı içinde planlanır ve YILLIK planlarda ifade edilir. Bu planlamalar kapsamında yurutulecek öğretim faaliyetleri öğrenci katılımını desteklemeli yaparak ve yaşayarak öğrenmeye olanak tanımalı öğrencinin butuncul gelişime hizmet etmelidir. Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Zümre öğretmenler kurulunda aldığınız karara göre okul ve ders koşullarınıza uygun öğretim programında belirtilen okul temelli planlama ders saati 2 haftadan fazla sürebilir düzenleyebilirsiniz."
+    },
+    {
+      "ÜNİTE": "** Bu YILLIK plan; 19.09.2022 tarih ve 58168473 sayılı \"Millî Eğitim Bakanlığı Eğitim Öğretim Çalışmalarının Planlı Yürütülmesine İlişkin Yönerge\", 2104 sayılı Tebliğler Dergisi, İlköğretim ve Ortaöğretim Kurumlarında Atatürk İNKILAP ve İlkelerinin Öğretim Esasları Yönergesi, Talim ve\nTerbiye Kurulu'nun 23.05.2024 tarih ve 20 sayılı Kurul Kararı eki, Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni, \"M.E.B. 2024-2025 Eğitim ve Öğretim Yılı Çalışma Takvimi Genelgesi\" ile Talim ve Terbiye Kurulu'nun 24.08.2023 tarih ve 43 sayılı Kurul Kararı eki esas\nalınarak hazırlanmıştır.\n** ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır."
+    }
+  ]
+}

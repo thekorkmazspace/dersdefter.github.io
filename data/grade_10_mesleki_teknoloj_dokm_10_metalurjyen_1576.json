@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "MESLEKİ TEKNOLOJ̇ DÖKM 10 (METALURJ)(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Maça Yapımı",
+      "KONU": "1. Maça kumu  2. Maça iskeleti",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Maça kumlarının genel özelliklerini açıklar.\n Maça iskeletinin işlevini açıklar.\nMaça  kumlarının özellikleri ve katkı maddelerini açıklanması sağlanır.\n   Maça  iskeletinin  görevini   ve   yapıldığı  gereçleri  ifade etmesi sağlanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Maça Yapımı",
+      "KONU": "3. Maçanın özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Maçanın özelliklerini sıralar.\nMaça sandığının görevini ve maçalarda aranan özellikleri açıklaması sağlanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Maça Yapımı",
+      "KONU": "4. Mumlu ip",
+      "KAZANIM": "Mumlu ipin maçadaki görevini açıklar.\nMaça yapımında mumlu ip vb. kullanmanın anlamını açıklaması sağlanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Maça Yapımı",
+      "KONU": "5. Maça ceketi",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Maça ceketinin görevini açıklar.\nMaça ceketi kullanma amacını ifade etmesi sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Maça Yapımı",
+      "KONU": "6. Maçaları boyama",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Maça boyasının görevini açıklar.\nMaça boyalarının görevini çeşitlerini ve boyama yöntemlerini sıralaması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Maça Yapımı",
+      "KONU": "7. Maçaları kurutma",
+      "KAZANIM": "Maçaları kurutmanın önemini açıklar. Maça    kurutmanın    önemini    ve    kurutma    fırınlarını açıklaması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Reçineli Maça",
+      "KONU": "1. Reçineli maça kumu",
+      "KAZANIM": "Reçineli maça kumunun bileşimini açıklar.\nReçineli    maça    kumunun    bileşimi    ve    özelliklerini sıralaması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Reçineli Maça",
+      "KONU": "2. Reçineli kum ile maça yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Reçineli maçanın özelliklerini açıklar. Reçineli   maçanın   fayda   ve   sakıncalarını   açıklaması sağlanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Reçineli Maça",
+      "KONU": "2. Reçineli kum ile maça yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Reçineli maçanın özelliklerini açıklar. Reçineli   maçanın   fayda   ve   sakıncalarını   açıklaması sağlanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Cam SuluMaça",
+      "KONU": "1.  Cam sulu maçakumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Cam sulu maça kumunun bileşimini açıklar.\nCam   sulu   maça   kumunun   bileşimi   ve   özelliklerini sıralaması sağlanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Cam SuluMaça",
+      "KONU": "2.  Cam sulu kum ile maça yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Cam sulu maçanın özelliklerini açıklar.\nCam  sulu  maçanın  fayda  ve  sakıncalarını  açıklaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Cam SuluMaça",
+      "KONU": "2.  Cam sulu kum ile maça yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Cam sulu maçanın özelliklerini açıklar.\nCam  sulu  maçanın  fayda  ve  sakıncalarını  açıklaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Beziryağlı Maça",
+      "KONU": "1.  Beziryağlı maça kumu hazırlama  2.  Beziryağlıkum ile maça yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Beziryağlı maça kumunun bileşimini açıklar.\n Beziryağlı maçanın özelliklerini açıklar.\nBeziryağlı    maça    kumunun    bileşimi    ve    özelliklerini sıralaması sağlanır.\n   Beziryağlı maçanın fayda ve sakıncalarını açıklaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Beziryağlı Maça",
+      "KONU": "3.  Beziryağlı maçayı pişirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Beziryağlı maçayı pişirmenin amacını açıklar.\nBeziryağlı  maçanın  tavaya  alınmasının  ve  pişirilmesinin amacını açıklaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Beziryağlı Maça",
+      "KONU": "4.  Maça yapıştırıcısı hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Maça yapıştırıcısının görevini açıklar.\nMaça   yapıştırıcısının   amacı   ve   bileşimini   açıklaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MakinedeMaça Yapma",
+      "KONU": "1.  Sıcak kutu yöntemi",
+      "KAZANIM": "Sıcak kutu yöntemini açıklar.\nMaça yapma makineleri çeşitleri ve sıcak kutu Hot Box maça yapma yöntemini açıklaması sağlanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "MakinedeMaça Yapma",
+      "KONU": "2.  Soğuk kutu yöntem",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Soğuk kutu yöntemini açıklar.\nSoğuk  kutu  maça  yapma  yöntemiCold-Box  ve  maça yapma makinelerinin bakımlarını açıklaması sağlanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Maçalı Kalıplar",
+      "KONU": "1. Yağlı grafit",
+      "KAZANIM": "Kalıpta yağlı grafitin görevini açıklar.\nYağlı grafitin görevini ve bileşimini açıklaması sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Maçalı Kalıplar",
+      "KONU": "2. Kalıba maça yerleştirme",
+      "KAZANIM": "Maçayı   kalıba   tekniğe   uygun   olarak   yerleştirmeyi açıklar.\nKalıba maça yerleştirmede dikkat edilmesi gereken noktaları açıklaması sağlanır.\n   Sıvı   metal   basıncının   dengelenmesinin   önemini   ve dengeleme yöntemlerini açıklaması sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Maçalı Kalıplar",
+      "KONU": "3. Maça desteği",
+      "KAZANIM": "Maça desteğini kullanma amacını açıklar.\nMaça    desteği    kullanma    amacını    özelliklerini    ve kullanırken dikkat edilecek noktaları açıklaması sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Maçalı Kalıplar",
+      "KONU": "3. Maça desteği",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Maça desteğini kullanma amacını açıklar.\nMaça    desteği    kullanma    amacını    özelliklerini    ve kullanırken dikkat edilecek noktaları açıklaması sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Maçalı Kalıplar",
+      "KONU": "3. Maça desteği",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Maça desteğini kullanma amacını açıklar.\nMaça    desteği    kullanma    amacını    özelliklerini    ve kullanırken dikkat edilecek noktaları açıklaması sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Taşıma Potaları",
+      "KONU": "1.  Taşıma potasını astarlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Taşıma potasının görevini açıklar.\nTaşıma    potasının    görevi    ve    çeşitlerini    açıklaması sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Taşıma Potaları",
+      "KONU": "2.  Taşıma potasını boyayarak kurutma",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Taşıma potasını boyama ve kurutma amacını açıklar.\nTaşıma potasını boyama ve kurutmanın amacı boyama kurutma     yaparken     dikkat     edilecek     noktaları     ve kapasitelerine göre pota ölçülerini açıklaması sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Taşıma Potaları",
+      "KONU": "2.  Taşıma potasını boyayarak kurutma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Taşıma potasını boyama ve kurutma amacını açıklar.\nTaşıma potasını boyama ve kurutmanın amacı boyama kurutma     yaparken     dikkat     edilecek     noktaları     ve kapasitelerine göre pota ölçülerini açıklaması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Endüksiyon Ocağı",
+      "KONU": "1.  Endüksiyon ocağı tanıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Endüksiyon ocağını tanıtır.\nElektrikli   ocakları   yararları   ve   çeşitlerini   sıralaması sağlanır.\n   Endüksiyon ocaklarının çalışma prensibini çeşitlerini ve genel özelliklerini açıklaması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Endüksiyon Ocağı",
+      "KONU": "2.  Endüksiyon ocağında kontroller",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Endüksiyon  ocağında  metal  ergitiminden  önce  son kontrolleri açıklar.\nEndüksiyon ocağını çalıştırmadan yapılması gereken kontrolleri olabilecek hataları ve çözümleri alınabilecek güvenlik önlemlerini açıklaması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Endüksiyon Ocağı",
+      "KONU": "3.  Endüksiyon ocağını çalıştırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Endüksiyon  ocağını  tekniğe  uygun  olarak  çalıştırma sürecini açıklar.\nEndüksiyon   ocağı   çalıştırma   işlemleri   ve   sinterleme sürecini açıklaması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Endüksiyon Ocağı",
+      "KONU": "3.  Endüksiyon ocağını çalıştırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Endüksiyon  ocağını  tekniğe  uygun  olarak  çalıştırma sürecini açıklar.\nEndüksiyon   ocağı   çalıştırma   işlemleri   ve   sinterleme sürecini açıklaması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Endüksiyon Ocağı",
+      "KONU": "3.  Endüksiyon ocağını çalıştırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Endüksiyon  ocağını  tekniğe  uygun  olarak  çalıştırma sürecini açıklar.\nEndüksiyon   ocağı   çalıştırma   işlemleri   ve   sinterleme sürecini açıklaması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Gri Esmer Dökme demir",
+      "KONU": "1.  Dökme demir",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Dökme demiri genel olarak tanıtır.\nDemirin  elde  edilmesi  demir  alaşımlarının  avantajlarını anlatması sağlanır.\n   Dökme    demirin    çeşitleri    kimyasal    bileşimi    yapı bileşenleri   karbon-silisyum   ve   soğuma   hızının   mikro yapıya etkileri grafitleşme ve grafit tipleri ve özelliklerini açıklaması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Gri Esmer Dökme demir",
+      "KONU": "1.  Dökme demir",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Dökme demiri genel olarak tanıtır.\nDemirin  elde  edilmesi  demir  alaşımlarının  avantajlarını anlatması sağlanır.\n   Dökme    demirin    çeşitleri    kimyasal    bileşimi    yapı bileşenleri   karbon-silisyum   ve   soğuma   hızının   mikro yapıya etkileri grafitleşme ve grafit tipleri ve özelliklerini açıklaması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Gri Esmer Dökme demir",
+      "KONU": "2.  Gri dökme demir",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Gri dökme demiri genel olarak tanıtır.\nGri  esmer  dökme  demirin  kimyasal  bileşimini  katılan maddeler  ve  etkilerini  özelliklerini  çeşitlerini  ergitme aşamalarını ısıl işlemlerini kullanma yerlerini  ve normlarını açıklaması sağlanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Gri Esmer Dökme demir",
+      "KONU": "2.  Gri dökme demir",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Gri dökme demiri genel olarak tanıtır.\nGri  esmer  dökme  demirin  kimyasal  bileşimini  katılan maddeler  ve  etkilerini  özelliklerini  çeşitlerini  ergitme aşamalarını ısıl işlemlerini kullanma yerlerini  ve normlarını açıklaması sağlanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Kimyasal Analizler",
+      "KONU": "1.  Sıcaklık ölçmePirometre",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Pirometreyi genel olarak tanıtır.\nSıcaklık     ölçme    cihazlarının    Pirometreler    döküm sektöründeki görevini ve çeşitlerini açıklaması sağlanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Kimyasal Analizler",
+      "KONU": "2.  Metal analizi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Metal analiz cihazını genel olarak tanıtır.\nSpektrometre cihazının görevini analiz prensibini kısımlarını   ve   karbon-silis   ölçüm   cihazını   tanıtması sağlanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

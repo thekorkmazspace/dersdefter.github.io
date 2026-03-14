@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "ḂLĠ, ÇALŞMA VE MALZEME GVENL̇Ğ̇ (HAVACILIK VE UZAY TEKNOLOJİSİ)(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgi Güvenliği",
+      "KONU": "1. Bilgi ve bilgi güvenliği kavramları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Bilgi ve bilgi güvenliğini açıklar.\nBilgi kavramı açıklanır.\n Bilgi güvenliğine yönelik ulusal ve uluslararası yasal mevzuatlar açıklanır.\n Uluslararası standart ISO 27001 ülkemizde de Cumhurbaşkanlığı Dijital Dönüşüm Ofisi tarafından yayınlanan Bilgi ve İletişim Güvenliği Rehberi ne göre açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgi Güvenliği",
+      "KONU": "2. Bilgi güvenliğini sağlamaya yönelik örnek uygulamalar.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Bilgi güvenliğini sağlamaya yönelik örnek uygulamaları açıklar.\nCumhurbaşkanlığı Dijital Dönüşüm Ofisi tarafından yayınlanan Bilgi ve İletişim Güvenliği Rehberi ne göre bilgi güvenliğini sağlamaya yönelik uygulamalar örneklerle açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgi Güvenliği",
+      "KONU": "3. Bilgi güvenliği ihlali ve önleyici yaklaşımlar.",
+      "KAZANIM": "Bilgi güvenliği ihlalini ve önleyici yaklaşımları açıklar.\nBilgi güvenliğinin önemi açıklanır.\n Bilgi açıklarının verebileceği hasarlar açıklanır.\n Güvenlik ihlallerinde yaşanabilecek olaylar örneklerle açıklanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgi Güvenliği",
+      "KONU": "3. Bilgi güvenliği ihlali ve önleyici yaklaşımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Bilgi güvenliği ihlalini ve önleyici yaklaşımları açıklar.\nBilgi güvenliğinin önemi açıklanır.\n Bilgi açıklarının verebileceği hasarlar açıklanır.\n Güvenlik ihlallerinde yaşanabilecek olaylar örneklerle açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Bilgi Güvenliği",
+      "KONU": "3. Bilgi güvenliği ihlali ve önleyici yaklaşımlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Bilgi güvenliği ihlalini ve önleyici yaklaşımları açıklar.\nBilgi güvenliğinin önemi açıklanır.\n Bilgi açıklarının verebileceği hasarlar açıklanır.\n Güvenlik ihlallerinde yaşanabilecek olaylar örneklerle açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "İş Sağlığı ve Güvenliği",
+      "KONU": "1. İş sağlığı ve güvenliği kuralları.",
+      "KAZANIM": "İş sağlığı ve güvenliği kurallarını açıklar.\nİş sağlığı ve güvenliği kavramı açıklanır.\n İş kazası MESLEKİ hastalığı işçi sağlığı kavramları açıklanır.\n İş sağlığı ve güvenliği kuralları örneklerle açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "İş Sağlığı ve Güvenliği",
+      "KONU": "2. Kullanılan kişisel koruyucu donanımlar.",
+      "KAZANIM": "Kişisel koruyucu donanımların doğru ve yanlış kullanım biçimlerini ayırt eder.\nKişisel koruyucu donanımlar tanıtılır.\n Kişisel koruyucu donanımların kullanım amaçları örneklerle açıklanır.\n Kişisel koruyucu donanımların doğru ve yanlış kullanımları örneklerle karşılaştırılır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "İş Sağlığı ve Güvenliği",
+      "KONU": "3. Uyarı işaret ve levhaları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Uyarı işaret ve levhalarını ayırt eder.\nİş sağlığı ve güvenliği uyarıcı işaret ve levhalar tanıtılır.\n Uyarıcı işaret ve levhalarının kullanım yerleri örneklerle açıklanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "İş Sağlığı ve Güvenliği",
+      "KONU": "4. Çalışmaya ilişkin tehlike ve riskler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Çalışmaya ilişkin tehlike ve riskleri açıklar.\nÇalışmanın insan çevre ve çalışan sağlığı üzerindeki etkileri açıklanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "İş Sağlığı ve Güvenliği",
+      "KONU": "5. Tehlike ve risklere karşı uygulanacak önlemler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Tehlike ve risklere karşı uygulanacak önlemleri alır.\nÇalışma ortamlarında yaşanabilecek tehlike ve riskler örneklerle açıklanır.\n Güvenlik talimatlarının uygulanması açıklanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "İş Sağlığı ve Güvenliği",
+      "KONU": "6. Acil durum ve acil durumlarda yapılacak işlemler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Acil durum ve acil durumlarda yapılacak işlemleri açıklar.\nÇalışma ortamlarında meydana gelebilecek acil durumlar açıklanır.\n Acil durumlarda yapılacak işlemler örneklerle açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "İş Sağlığı ve Güvenliği",
+      "KONU": "6. Acil durum ve acil durumlarda yapılacak işlemler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Acil durum ve acil durumlarda yapılacak işlemleri açıklar.\nÇalışma ortamlarında meydana gelebilecek acil durumlar açıklanır.\n Acil durumlarda yapılacak işlemler örneklerle açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "İş Sağlığı ve Güvenliği",
+      "KONU": "6. Acil durum ve acil durumlarda yapılacak işlemler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Acil durum ve acil durumlarda yapılacak işlemleri açıklar.\nÇalışma ortamlarında meydana gelebilecek acil durumlar açıklanır.\n Acil durumlarda yapılacak işlemler örneklerle açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Çalışma Güvenliği",
+      "KONU": "1. Risk yönetimi yaklaşımları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Risk yönetimi yaklaşımlarını açıklar.\nRisk faktörleri riskin ortaya çıkma olasılığı ve etkisi    açıklanır.\n Bir faaliyet ve ya süreç çerçevesinde ortaya çıkabilecek risk faktörlerini tanımlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Çalışma Güvenliği",
+      "KONU": "2. Üretim  lojistik Operasyon güvenliği.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Üretim  lojistik operasyon güvenliğini açıklar.\nÜretimlojistik operasyonları açıklanır.\n Üretimlojistik operasyon yöntemleri jaka alma hava aracı çekme Elektrostatik deşarj ESD Electrical Wiring interconnect system EWIS gibi özel yöntemler açıklanır.\n Üretimlojistik operasyon güvenliğini sağlamak için yapılması gerekenler örneklerle açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Çalışma Güvenliği",
+      "KONU": "3. Atölye güvenliği.",
+      "KAZANIM": "Atölye güvenliğini sağlanma şartlarını açıklar.\nAtölye çalışma şartlarında meydana gelebilecek güvenlik sorunları açıklanır.\n Atölye çalışma şartlarında meydana gelebilecek kaza durumları açıklanır.\n Atölye çalışma şartlarında meydana gelebilecek kaza ve güvenlik zafiyetlerine karşı alınabilecek önlemler açıklanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Çalışma Güvenliği",
+      "KONU": "4. Enerjik bölge güvenliği.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Enerjik bölge güvenliğinin sağlanma şartlarını açıklar.\nEnerjik bölge çalışma şartları açıklanır.\n Enerjik bölge güvenliği açıklanır.\n Enerjik bölgelerde meydana gelebilecek güvenlik sorunları örneklerle açıklanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Çalışma Güvenliği",
+      "KONU": "5. Yangın eğitimi.",
+      "KAZANIM": "Yangın durumlarında önlemleri ve doğru davranışları açıklar.\nTemel yanma ve yangın bilgisi açıklanır.\n Yanma çeşitleri ve sınıflandırılması açıklanır.\n Yangın çeşitleri ve sınıflandırılması açıklanır.\n Yangın önleyici tedbirler alarm ve otomatik söndürme sistemleri açıklanır.\n Yangın yerinde meydana gelebilecek tehlikeler örneklerle açıklanır.\n Yangın söndürmede kullanılan maddeler açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Çalışma Güvenliği",
+      "KONU": "5. Yangın eğitimi.",
+      "KAZANIM": "Yangın durumlarında önlemleri ve doğru davranışları açıklar.\nTemel yanma ve yangın bilgisi açıklanır.\n Yanma çeşitleri ve sınıflandırılması açıklanır.\n Yangın çeşitleri ve sınıflandırılması açıklanır.\n Yangın önleyici tedbirler alarm ve otomatik söndürme sistemleri açıklanır.\n Yangın yerinde meydana gelebilecek tehlikeler örneklerle açıklanır.\n Yangın söndürmede kullanılan maddeler açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Çalışma Güvenliği",
+      "KONU": "5. Yangın eğitimi.",
+      "KAZANIM": "Yangın durumlarında önlemleri ve doğru davranışları açıklar.\nTemel yanma ve yangın bilgisi açıklanır.\n Yanma çeşitleri ve sınıflandırılması açıklanır.\n Yangın çeşitleri ve sınıflandırılması açıklanır.\n Yangın önleyici tedbirler alarm ve otomatik söndürme sistemleri açıklanır.\n Yangın yerinde meydana gelebilecek tehlikeler örneklerle açıklanır.\n Yangın söndürmede kullanılan maddeler açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Malzeme Güvenliği",
+      "KONU": "1. Malzeme Depolama Şartları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Malzeme depolama şartlarını açıklar.\nKullanılabilecek malzemeler ve çeşitleri açıklanır.\n Malzeme paketleme ve taşıma kuralları açıklanır.\n Güvenli depolama şartları açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Malzeme Güvenliği",
+      "KONU": "2. Temiz Oda Şartları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Temiz oda şartlarını açıklar.\nTemiz oda koşulları tanımlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Malzeme Güvenliği",
+      "KONU": "3. Yakıt-enerjik malzeme depolama ve taşıma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Yakıt-enerjik malzeme depolama ve taşıma şartlarını açıklar.\nYakıtlar ve çeşitleri açıklanır.\n Enerjik malzemeler ve çeşitleri açıklanır.\n Yakıt ve enerjik malzeme depolama şartları açıklanır.\n Yakıt ve enerjik malzeme taşıma şartları açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Malzeme Güvenliği",
+      "KONU": "4. Kimyasal maddelerle çalışma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Kimyasal maddelerle çalışma şartlarını açıklar.\nKimyasal maddeler ve çeşitleri açıklanır.\n Kimyasal maddelerde meydana gelebilecek tehlikeler açıklanır.\n Kimyasal maddelerle güvenli çalışma için gereklilikler açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Malzeme Güvenliği",
+      "KONU": "4. Kimyasal maddelerle çalışma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Kimyasal maddelerle çalışma şartlarını açıklar.\nKimyasal maddeler ve çeşitleri açıklanır.\n Kimyasal maddelerde meydana gelebilecek tehlikeler açıklanır.\n Kimyasal maddelerle güvenli çalışma için gereklilikler açıklanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Malzeme Güvenliği",
+      "KONU": "4. Kimyasal maddelerle çalışma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Kimyasal maddelerle çalışma şartlarını açıklar.\nKimyasal maddeler ve çeşitleri açıklanır.\n Kimyasal maddelerde meydana gelebilecek tehlikeler açıklanır.\n Kimyasal maddelerle güvenli çalışma için gereklilikler açıklanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "1. İş süreçlerinde uygulanması gereken kalite gereklilikleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "İş süreçlerinde uygulanan kalite yönetim sistemi ve gerekliliklerini açıklar.\nKalite tanımlanır.\n Kalite yönetim sistemi açıklanır.\n Kalite sistemleri açıklanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "2. Çalışma esnasında ortaya çıkabilecek hata ve arızalar ile bunların nedenleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Çalışma esnasında ortaya çıkabilecek hata ve arızalar ile bunların nedenlerini açıklar.\nHata ve arızalar tanımlanır.\n Çalışma sırasında çıkabilecek arızalar ve hatalar örneklerle açıklanır.\n Meydana gelebilecek arıza ve hataların nedenleri açıklanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "3. Makine alet donanım ya da sistemlerin kalite gereklilikleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Makine alet donanım ya da sistemlerin kalite gerekliliklerini açıklar.\nAtölyelerde kullanılan makinelerin kalite gereklilikleri açıklanır.\n Atölyelerde kullanılan aletlerin kalite gereklilikleri açıklanır.\n Atölyelerde kullanılan donanım ya da sistemlerin kalite gereklilikleri açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "4. Problem çözme ve süreç iyileştirme yöntemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Problem çözme ve süreç iyileştirme yöntemlerini açıklar.\nProblem ve problem çözme süreçleri tanımlanır.\n Problem çözme teknikleri açıklanır.\n Süreç iyileştirme yöntemleri açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "5. Raporlama.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Kalite sistemlerinde raporlama sürecini açıklar.\nKalite sisteminde raporlama süreci örneklerle açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "6. Kayıt tutma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Kalite sistemlerinde kayıt tutma sürecini açıklar.\nKalite sistemlerinde kayıt tutma süreci örneklerle açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "7. Hatalı ve arızalı durumlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Kalite sürecinde hatalı ve arızalı durumları açıklar.\nKalite sürecinde hatalı ve arızalı durumlar örneklerle açıklanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "8. Hata ve arıza saptama yöntemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Kalite sürecinde hata ve arıza saptama yöntemlerini açıklar.\nKalite sürecinde hata ve arıza saptama yöntemleri örneklerle açıklanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "8. Hata ve arıza saptama yöntemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Kalite sürecinde hata ve arıza saptama yöntemlerini açıklar.\nKalite sürecinde hata ve arıza saptama yöntemleri örneklerle açıklanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Kalite",
+      "KONU": "8. Hata ve arıza saptama yöntemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Kalite sürecinde hata ve arıza saptama yöntemlerini açıklar.\nKalite sürecinde hata ve arıza saptama yöntemleri örneklerle açıklanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

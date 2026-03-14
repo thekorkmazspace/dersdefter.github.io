@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "ÖN DZEN TEKNOLOJİSİ (MESEM)(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "ÜNİTE": "Direksiyon Sistemleri",
+      "KONU": "1. Direksiyon sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Direksiyon sistemi elemanlarını kontrol eder.\nDireksiyon sisteminin görevini genel yapısını ve çeşitlerini sıralar.\n Direksiyon sisteminin çalışmasını açıklar.\n Direksiyon bağlantı şekillerini listeler.\n Direksiyon sisteminin parçalarını ve parçaların görevlerini arızalarını  belirtilerini ve yapısal özelliklerini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "ÜNİTE": "Direksiyon Sistemleri",
+      "KONU": "2. Direksiyon dişli kutusu.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Direksiyon dişli kutusunu kontrol eder.\nDireksiyon dişli kutusunun görevini yapısal özelliklerini ve çeşitlerini açıklar\n Mekanik direksiyon dişli kutusunun arızalarını kontrollerini ve ayarlarını açıklar.\n Hidrolik yardımlı direksiyon dişli kutusunun arızalarını kontrollerini ve ayarlarını açıklar.\n Elektrik yardımlı direksiyon dişli kutusunun arızalarını kontrollerini ve ayarlarını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "ÜNİTE": "Direksiyon Sistemleri",
+      "KONU": "3. Hidrolik yardımlı direksiyon sistemi.",
+      "KAZANIM": "Hidrolik yardımlı direksiyon sisteminin bakım ve onarımını yapar.\nHidrolik yardımlı direksiyon sisteminin görevini genel yapısını ve çalışmasını açıklar.\n Hidrolik yardımlı direksiyon sisteminin avantaj ve dezavantajlarını sıralar.\n Hidrolik direksiyon hortumların ve bağlantı elemanlarının görevlerini çeşitlerini yapısal özelliklerini açıklar.\n Hidrolik direksiyon hortumlarının ve bağlantı elemanlarının arızalarını belirtilerini ve kontrollerini sıralar.\n Hidrolik direksiyon pompasının görevlerini çeşitlerini yapısal özelliklerini açıklar.\n Hidrolik direksiyon pompasının parçalarını arızalarını ve kontrollerini açıklar.\n Hidrolik yağların görevini özelliklerini ve değiştirme zamanlarını açıklar.\n Hidrolik direksiyon çalışma sistemindeki aksaklıkları sıralar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Direksiyon Sistemleri",
+      "KONU": "4. Elektrik yardımlı direksiyon sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Elektrik yardımlı direksiyon sisteminin bakım ve onarımını yapar.\nElektrik yardımlı direksiyon sistemlerinin genel yapısını çalışmasını avantajları ve dezavantajları açıklar.\n Elektrik yardımlı direksiyon sistemlerinin kontrollerini arızalarını ve belirtilerini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Direksiyon Sistemleri",
+      "KONU": "5. Direksiyon yardımcı sistemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Direksiyon yardımcı sistemlerini kontrol eder.\nDireksiyon açı sensörünün görevini çalışmasını arızalarını araçtaki yerini sıralar.\n Direksiyon sistemlerindeki pasif güvenlik önlemleri listeler.\n Elektro-hidrolik yardımlı direksiyon sisteminin avantajlarını ve yapısını açıklar.\n Hidrolik kumanda ünitesinin yapısını ve işlevini açıklar.\n Dört tekerlek yön kontrol sistemlerini 4WS açıklar.\n Elektromekanik direksiyon sistemini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Direksiyon Sistemleri",
+      "KONU": "5. Direksiyon yardımcı sistemleri.",
+      "KAZANIM": "Direksiyon yardımcı sistemlerini kontrol eder.\nDireksiyon açı sensörünün görevini çalışmasını arızalarını araçtaki yerini sıralar.\n Direksiyon sistemlerindeki pasif güvenlik önlemleri listeler.\n Elektro-hidrolik yardımlı direksiyon sisteminin avantajlarını ve yapısını açıklar.\n Hidrolik kumanda ünitesinin yapısını ve işlevini açıklar.\n Dört tekerlek yön kontrol sistemlerini 4WS açıklar.\n Elektromekanik direksiyon sistemini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Direksiyon Sistemleri",
+      "KONU": "5. Direksiyon yardımcı sistemleri.",
+      "KAZANIM": "Direksiyon yardımcı sistemlerini kontrol eder.\nDireksiyon açı sensörünün görevini çalışmasını arızalarını araçtaki yerini sıralar.\n Direksiyon sistemlerindeki pasif güvenlik önlemleri listeler.\n Elektro-hidrolik yardımlı direksiyon sisteminin avantajlarını ve yapısını açıklar.\n Hidrolik kumanda ünitesinin yapısını ve işlevini açıklar.\n Dört tekerlek yön kontrol sistemlerini 4WS açıklar.\n Elektromekanik direksiyon sistemini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "ÜNİTE": "Direksiyon Sistemleri",
+      "KONU": "5. Direksiyon yardımcı sistemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Direksiyon yardımcı sistemlerini kontrol eder.\nDireksiyon açı sensörünün görevini çalışmasını arızalarını araçtaki yerini sıralar.\n Direksiyon sistemlerindeki pasif güvenlik önlemleri listeler.\n Elektro-hidrolik yardımlı direksiyon sisteminin avantajlarını ve yapısını açıklar.\n Hidrolik kumanda ünitesinin yapısını ve işlevini açıklar.\n Dört tekerlek yön kontrol sistemlerini 4WS açıklar.\n Elektromekanik direksiyon sistemini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "Süspansiyon Sistemleri",
+      "KONU": "1. Süspansiyon sistemleri ve amortisörler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Süspansiyon sistemlerini ve amortisörleri kontrol ederek değiştirir.\nSüspansiyon sisteminin görevlerini ve elemanlarını sıralar.\n Amortisörlerin görevlerini ve çeşitlerini açıklar.\n Amortisörün yapısı ve çalışmasını açıklar.\n Amortisörde yapılan kontrolleri arızalarını ve belirtilerini listeler."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "Süspansiyon Sistemleri",
+      "KONU": "1. Süspansiyon sistemleri ve amortisörler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Süspansiyon sistemlerini ve amortisörleri kontrol ederek değiştirir.\nSüspansiyon sisteminin görevlerini ve elemanlarını sıralar.\n Amortisörlerin görevlerini ve çeşitlerini açıklar.\n Amortisörün yapısı ve çalışmasını açıklar.\n Amortisörde yapılan kontrolleri arızalarını ve belirtilerini listeler."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "ÜNİTE": "Süspansiyon Sistemleri",
+      "KONU": "2. Yaylar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Yayları yaprak ve helezon kontrol ederek değiştirir.\nYayların görevlerini çeşitlerini ve yapısal özelliklerini açıklar.\n Yaprak yaylar helezon yaylar ve burulma çubuklu yayların  yapısal özelliklerini açıklar.\n Yaylarda yapılan kontrolleri yay arızalarını ve belirtilerini listeler.\n Denge viraj çubuğunun görevini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "ÜNİTE": "Süspansiyon Sistemleri",
+      "KONU": "2. Yaylar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Yayları yaprak ve helezon kontrol ederek değiştirir.\nYayların görevlerini çeşitlerini ve yapısal özelliklerini açıklar.\n Yaprak yaylar helezon yaylar ve burulma çubuklu yayların  yapısal özelliklerini açıklar.\n Yaylarda yapılan kontrolleri yay arızalarını ve belirtilerini listeler.\n Denge viraj çubuğunun görevini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "ÜNİTE": "Süspansiyon Sistemleri",
+      "KONU": "3. Süspansiyon sistemi çeşitleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Süspansiyon sistemlerinin ve salıncakların kontrolünü yapar.\nSabit süspansiyon askı sisteminin genel yapısını ve parçalarını listeler.\n Sabit süspansiyon sisteminin çalışmasını ve özelliklerini sıralar.\n Serbest bağımsız süspansiyon sisteminin genel yapısını parçalarını çalışmasını ve özelliklerini açıklar.\n Havalı süspansiyon sisteminin yapısını parçalarını çalışmasını ve özelliklerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "ÜNİTE": "Süspansiyon Sistemleri",
+      "KONU": "3. Süspansiyon sistemi çeşitleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Süspansiyon sistemlerinin ve salıncakların kontrolünü yapar.\nSabit süspansiyon askı sisteminin genel yapısını ve parçalarını listeler.\n Sabit süspansiyon sisteminin çalışmasını ve özelliklerini sıralar.\n Serbest bağımsız süspansiyon sisteminin genel yapısını parçalarını çalışmasını ve özelliklerini açıklar.\n Havalı süspansiyon sisteminin yapısını parçalarını çalışmasını ve özelliklerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "ÜNİTE": "Süspansiyon Sistemleri",
+      "KONU": "4. Aktif elektronik kontrollü süspansiyon sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Aktif elektronik kontrollü süspansiyon sistemini kontrol ederek bakım ve onarımını yapar.\nAktif elektronik kontrollü süspansiyon sisteminin özelliklerini listeler.\n Sistemle kontrol altında tutulan araç hareketlerini açıklar.\n Aktif elektronik kontrollü süspansiyon sisteminin yapısı ve çalışmasını açıklar.\n Aktif süspansiyon sisteminde kullanılan elemanların yapısını ve görevlerini açıklar.\n Aktif süspansiyon sisteminin kendi kendini kontrol özelliklerini sıralar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Süspansiyon Sistemleri",
+      "KONU": "4. Aktif elektronik kontrollü süspansiyon sistemi.",
+      "KAZANIM": "Aktif elektronik kontrollü süspansiyon sistemini kontrol ederek bakım ve onarımını yapar.\nAktif elektronik kontrollü süspansiyon sisteminin özelliklerini listeler.\n Sistemle kontrol altında tutulan araç hareketlerini açıklar.\n Aktif elektronik kontrollü süspansiyon sisteminin yapısı ve çalışmasını açıklar.\n Aktif süspansiyon sisteminde kullanılan elemanların yapısını ve görevlerini açıklar.\n Aktif süspansiyon sisteminin kendi kendini kontrol özelliklerini sıralar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Sistemleri",
+      "KONU": "1. Fren Sistemi.  2. Fren ana merkez ve hidrovak ünitesi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Fren sisteminin bakım onarımını yapar.\n Fren ana merkez ve hidrovak ünitesinin bakım onarımını yapar.\nFren sisteminin görevlerini çeşitlerini açıklar.\n Frenlemeye etki eden faktörleri ve frenleme anında tekerlek ve araç üzerinde oluşan kuvvetleri açıklar.\n Hidrolik fren sisteminin genel yapısını çalışmasını ve çeşitlerini açıklar.\n Fren sisteminde hava alma işleminin önemini ve hava alma işlemini açıklar.\n Fren hidroliğinin özelliklerini açıklar.\n Fren merkez pompasının görevlerini genel yapısını ve çeşitlerini sıralar.\n Fren merkez pompasının çalışmasını ve arızalarını açıklar.\n Hidrovağın görevlerini yapısını ve çalışmasını açıklar.\n Hidrovağın arızalarını listeler.\n Panik fren destek sistemlerini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Sistemleri",
+      "KONU": "3. Diskli fren mekanizması.",
+      "KAZANIM": "Diskli fren mekanizmasının bakım ve onarımını yapar.\nDiskli fren sisteminin genel yapısını parçalarını ve çalışmasını açıklar.\n Diskli fren sisteminin arıza belirtilerini ve sebeplerini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Sistemleri",
+      "KONU": "4. Kampanalı fren mekanizması.",
+      "KAZANIM": "Kampanalı fren mekanizmasının bakım ve onarımını yapar.\nKampanalı fren tekerlek sisteminde oluşan kuvvetleri açıklar\n Kampanalı fren sisteminin çeşitleri yapısı ve parçalarını listeler\n Kampanalı fren sisteminin çalışmasını açıklar\n Diskli ve kampanalı frenlerin karşılaştırır\n Kampanalı fren sisteminin arızalarını ve belirtilerini listeler."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Sistemleri",
+      "KONU": "5. Fren boruları ve rekorları.",
+      "KAZANIM": "Fren borularını ve rekorlarının bakım onarımını yapar.\nFren sistemi boru ve rekorlarının görevlerini ve yapısal özelliklerini listeler.\n Fren sistemi boru ve rekorlarının arızalarını ve belirtilerini sıralar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Sistemleri",
+      "KONU": "6. Fren limitörü.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Fren limitörünün bakım onarımını yapar.\nLimitörlerin basınç oranlayıcı valfler  görevini yapılarını ve çalışmalarını açıklar.\n Limitörlerin arızalarını ve belirtilerini sıralar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Sistemleri",
+      "KONU": "7. El freni.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "El fren mekanizmasının bakım onarımını yapar.\nEl freninin görevini yapısını ve parçalarını listeler\n Kampanalı fren sistemlerinde el frenini açıklar\n Diskli fren sisteminde el frenini açıklar\n Transmisyon çıkış mili üzerine yerleştirilen el frenini açıklar\n El freninin arızalarını ve belirtilerini listeler.\n El fren ayarının yapılışını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Sistemleri",
+      "KONU": "8. Elektromekanik park freni.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Elektromekanik park frenlerinin bakım onarımını yapar.\nElektromekanik park frenlerinin yerini ve görevini açıklar\n Elektromekanik park frenlerinin yapısını parçalarını ve çalışmasını açıklar\n Elektromekanik park frenlerinde arıza ve belirtilerini listeler."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Sistemleri",
+      "KONU": "9. Havalı fren sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Havalı fren mekanizmasının kontrol ederek değiştirir.\nHavalı fren sisteminin yapısı ve parçalarını açıklar.\n Havalı fren sisteminin çalışmasını açıklar.\n Elektronik kumandalı havalı frenleri EBSEPB  açıklar.\n Havalı fren sistemlerinde yapılan bakım ve kontrolleri listeler.\n Havalı fren sisteminin arızaları ve belirtilerini sıralar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Yardımcı Sistemleri",
+      "KONU": "1. ABS sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "ABS sisteminin bakım ve onarımını yapar.\nABS fren sisteminin görevini ve avantajlarını açıklar\n ABS fren sisteminin yapısını ve parçalarını listeler\n ABS fren sisteminin çalışmasını açıklar\n ABS fren sisteminin arızalarını ve belirtilerini listeler\n ABS fren sisteminin kontrolünü açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Yardımcı Sistemleri",
+      "KONU": "2. Patinaj kontrol sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Patinaj kontrol sisteminin bakım ve onarımını yapar.\nPatinaj kontrol sisteminin ASR görevini çeşitlerini ve avantajlarını açıklar\n Patinaj kontrol sisteminin yapısını ve çalışmasını açıklar\n Patinaj kontrol sisteminin arızalarını ve belirtilerini listeler.\n Patinaj kontrol sisteminin kontrolünü açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Yardımcı Sistemleri",
+      "KONU": "3. Elektronik denge sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Elektronik denge sisteminin bakım ve onarımını yapar.\nElektronik denge sisteminin ESPVSCVDCESC görevini yapısını ve parçalarını açıklar.\n Elektronik denge sisteminin çalışmasını açıklar.\n Elektronik denge sisteminin arızalarını ve belirtilerini açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Yardımcı Sistemleri",
+      "KONU": "4. Elektronik fren kuvveti dağılımı sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Elektronik fren kuvveti dağılımı sisteminin bakım ve onarımını yapar.\nElektronik fren kuvveti dağılımı sisteminin EBDEBV görevini ve avantajlarını listeler.\n Elektronik fren kuvveti dağılımı sisteminin yapısını çalışmasını arızaları ve belirtilerini açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Yardımcı Sistemleri",
+      "KONU": "5. Vakum pompası.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Vakum pompasının dizel bakım ve değiştirilmesini yapar.\nVakum pompasının yerini ve görevini açıklar.\n Vakum pompasının yapısını ve çalışmasını açıklar.\n Vakum pompasının arızalarını ve belirtilerini listeler."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Fren Yardımcı Sistemleri",
+      "KONU": "6. Retarder sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Retarder sisteminin bakım ve onarımını yapar.\nRetarder sisteminin görevinitaşıttaki yerini ve çeşitlerini sıralar.\n Retarder sisteminin yapısını ve çalışmasını açıklar.\n Retarder sisteminin arızalarını ve belirtilerini açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Tekerlekler ve Jant Düzeltme",
+      "KONU": "1. Tekerlekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Tekerlek ve lastiklerin bakım onarımını yapar.\nTekerleklerin görevlerini ve kısımlarını sıralar.\n Jantların görevlerini yapısal özellikleri ve kısımlarını jantlar üzerindeki işaretleri ve jant çeşitlerini açıklar.\n Lastiklerin görevlerini yapısal özellikleri ve kısımlarını listeler.\n Lastiklerin çeşitlerini ve kullanımını açıklar.\n Lastik üzerindeki işaretleri periyodik yer değiştirilmesini ve düzensiz aşıntıların nedenlerini listeler."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Tekerlekler ve Jant Düzeltme",
+      "KONU": "1. Tekerlekler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Tekerlek ve lastiklerin bakım onarımını yapar.\nTekerleklerin görevlerini ve kısımlarını sıralar.\n Jantların görevlerini yapısal özellikleri ve kısımlarını jantlar üzerindeki işaretleri ve jant çeşitlerini açıklar.\n Lastiklerin görevlerini yapısal özellikleri ve kısımlarını listeler.\n Lastiklerin çeşitlerini ve kullanımını açıklar.\n Lastik üzerindeki işaretleri periyodik yer değiştirilmesini ve düzensiz aşıntıların nedenlerini listeler."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "ÜNİTE": "Tekerlekler ve Jant Düzeltme",
+      "KONU": "2. Lastik basınç sensörü.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Lastik basınç sensörünü bakım onarımını yapar.\nLastik basınç sensörünün görevini ve çalışmasını açıklar.\n Lastik basınç sensörünün araçtaki yerini arızalarını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Tekerlekler ve Jant Düzeltme",
+      "KONU": "2. Lastik basınç sensörü.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Lastik basınç sensörünü bakım onarımını yapar.\nLastik basınç sensörünün görevini ve çalışmasını açıklar.\n Lastik basınç sensörünün araçtaki yerini arızalarını ve kontrolünü açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Tekerlekler ve Jant Düzeltme",
+      "KONU": "3. Jant Düzeltme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Jant düzeltme yapar.\nJantların görevlerini yapısal özellikleri ve kısımlarını jantlar üzerindeki işaretleri ve jant çeşitlerini açıklar.\n Jant düzeltme tezgahlarını listeler."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Tekerlekler ve Jant Düzeltme",
+      "KONU": "3. Jant Düzeltme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Jant düzeltme yapar.\nJantların görevlerini yapısal özellikleri ve kısımlarını jantlar üzerindeki işaretleri ve jant çeşitlerini açıklar.\n Jant düzeltme tezgahlarını listeler."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

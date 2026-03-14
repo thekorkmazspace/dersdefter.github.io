@@ -1,0 +1,371 @@
+{
+  "sinif": "12",
+  "ders": "HEDEF TEMELL EĞİTİM (TARİH 2)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "Tarih ve Zaman",
+      "KONU": "Tarih ve Zaman",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "9.1.1. Bir araştırma alanı ve bilim dalı olarak tarihin kapsamını metodunu ve diğer bilim dallarıyla ilişkisini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "Tarih ve Zaman",
+      "KONU": "Tarih ve Zaman",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "9.1.2. Tarih öğrenmenin amaç ve yararlarını analiz eder. 9.1.3. Zamanı anlama ve anlamlandırmaya yönelik farklı yaklaşımları analiz eder."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "İnsanlığın İlk Dönemleri",
+      "KONU": "İnsanlığın İlk Dönemleri",
+      "KAZANIM": "9.2.1. Kanıtlardan yola çıkarak yazının icadından önceki dönemlerde yaşayan insanların hayatı hakkında çıkarımlarda bulunur. 9.2.2. Yazının icadının insan tarihinde meydana getirdiği değişimi açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "İnsanlığın İlk Dönemleri",
+      "KONU": "İnsanlığın İlk Dönemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "9.2.3. İlk Çağdaki belli başlı medeniyet havzalarını tanır. 9.2.4. İlk Çağda coğrafya ve iklimin insanların hayat ve geçim tarzları üzerindeki belirleyici etkisini analiz eder. 9.2.5. İlk Çağda siyasi gücün kaynaklarını siyasi yönetim biçimleriyle ilişkilendirir. 9.2.6. İlk Çağda hukuk sistemlerinin oluşturulmasında etkili olan dinî ve beşerî kaynakları açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "Orta Çağda Dünya",
+      "KONU": "Orta Çağda Dünya",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "9.3.1. Orta Çağda yeryüzünün çeşitli bölgelerinde kurulan siyasi ve sosyal yapıları ilişkilendirir. 9.3.2. Orta Çağda tarım ve ticaretin yaygın ekonomik faaliyetler olduklarına örneklerle açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "Orta Çağda Dünya",
+      "KONU": "Orta Çağda Dünya",
+      "KAZANIM": "9.3.3. Orta Çağda Asya ve Avrupada askerî organizasyon biçimleri ile toplumların yaşam tarzları konar-göçer ve yerleşik arasındaki ilişkiyi analiz eder. 9.3.4. İlk Çağın sonlarından itibaren gerçekleştirilen hukukî düzenlemelerin günümüzün evrensel hukuk ilkelerine etkisini değerlendirir."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "İlk ve Orta Çağlarda Türk Dünyası",
+      "KONU": "İlk ve Orta Çağlarda Türk Dünyası",
+      "KAZANIM": "9.4.1. Türklerin Asyada tarih sahnesine çıktıkları ve yaşadıkları alanlar ile başlıca KÜLTÜRÜ çevrelerini tanır. 9.4.2. İslamiyet öncesi dönemde Türklerin yaşadığı coğrafyalar ile hayat tarzları arasındaki ilişkiyi analiz eder."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "İlk ve Orta Çağlarda Türk Dünyası",
+      "KONU": "İlk ve Orta Çağlarda Türk Dünyası",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "9.4.3. İlk ve Orta Çağlarda İç Asyadaki Türk siyasi teşekküllerinin güç ve yönetim yapısını açıklar. 9.4.4. Kavimler Göçünün sebep ve sonuçlarını siyasi ve sosyal açılardan analiz eder."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "İslam Medeniyetinin Doğuşu",
+      "KONU": "İslam Medeniyetinin Doğuşu",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 9.5.1. İslamiyetin doğuşu sırasında Arap Yarımadası Asya Avrupa ve Afrikanın genel durumunu açıklar. 9.5.2. Hz. Muhammed s.a.v. ve Dört Halife Döneminde Müslümanların Arap Yarımadası ve çevresinde siyasi hâkimiyet kurmaya yönelik faaliyetlerini analiz eder."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "Ara Tatil",
+      "KONU": "Ara Tatil",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "Ara Tatil"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "İslam Medeniyetinin Doğuşu",
+      "KONU": "İslam Medeniyetinin Doğuşu",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "9.5.3. Emeviler ile birlikte İslam Devletinin yapısında meydana gelen değişimi analiz eder. 9.5.4. Türklerin Abbasi Devletindeki askerî ve siyasi gelişmelerde oynadıkları rolleri açıklar. 9.5.5. VII ve XII. yüzyıllar arasında İslam medeniyeti çerçevesindeki ilmî faaliyetleri medeniyete katkısı bakımından değerlendirir."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "Türklerin İslamiyeti Kabulü ve İlk Türk İslam Devletleri",
+      "KONU": "Türklerin İslamiyeti kabul süreci ve etkileri Türkiye Selçuklu Devletinin kuruluşu Karahanlı ve Gazneli örnekleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "9.6.1. Türklerin İslamiyeti kabul etmeye başlamaları ile Türkiye Selçuklu Devletinin kuruluşu arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. 9.6.2. Türklerin İslamiyeti kabul etme sürecine etki eden faktörleri açıklar. 9.6.3. Karahanlı ve Gaznili örneklerinden hareketle İslamiyetin kabulünün Türk devlet yapısında ve toplumsal hayatta meydana getirdiği değişimleri analiz eder."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "Türklerin İslamiyeti Kabulü ve İlk Türk İslam Devletleri",
+      "KONU": "Büyük Selçuklu Devletinin siyasi gelişmeleri yönetim ve toplum yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "9.6.4. Büyük Selçuklu Devleti Dönemindeki başlıca siyasi gelişmeleri Türk tarihi içerisindeki önemi bağlamında değerlendirir. 9.6.5. Büyük Selçuklu Devletinin yönetim ve toplum yapısını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi",
+      "KONU": "Türklerin Anadoluya yerleşmesi Türkiye Selçuklu Devletinin yıkılışı Türk göçlerinin sosyokültürel etkileri Anadoludaki ilk Türk siyasi teşekkülleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "10.1.1. Türklerin Anadoluya yerleşmeye başlaması ile Türkiye Selçuklu Devletinin yıkılışı arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. 10.1.2. Anadoluya yapılan Türk göçlerinin sosyokültürel etkilerini analiz eder. 10.1.3. Anadoludaki ilk Türk siyasi teşekküllerinin birbirleriyle ve çevre devletlerle olan ilişkilerini uzlaşma ve çatışma bağlamında değerlendirir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi",
+      "KONU": "İslam dünyasının korunması Haçlılarla mücadeleler Moğol İstilasının Anadoluya etkileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "10.1.4. İslam dünyasının korunması bağlamında Türkiye Selçuklu Devleti ve Eyyubi Devletinin Haçlılarla yaptıkları mücadelelerin sosyokültürel etkilerini analiz eder. 10.1.5. Moğol İstilasının Anadoluda meydana getirdiği siyasi ve sosyal değişimi analiz eder."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "Beylikten Devlete Osmanlı Siyaseti 1302-1453",
+      "KONU": "1302-1453 yılları siyasi gelişmeler Osmanlı Beyliğinin devletleşme süreci ve Bizans ilişkileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "10.2.1. 1302-1453 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. 10.2.2. Osmanlı Beyliğinin devletleşme sürecini Bizansla olan ilişkiler çerçevesinde analiz eder."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Beylikten Devlete Osmanlı Siyaseti 1302-1453",
+      "KONU": "Rumelideki fetihler iskan ve istimalet politikaları Anadoluda Türk siyasi birliği",
+      "KAZANIM": "10.2.3. Rumelideki fetihler ile iskân şenlendirme ve istimâlet politikalarının amaçlarını ve etkilerini analiz eder. 10.2.4. Osmanlı Devletinin Anadoluda Türk siyasi birliğini sağlamaya yönelik faaliyetlerini ve sonuçlarını analiz eder."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Devletleşme Sürecinde Savaşçılar ve Askerler",
+      "KONU": "Osmanlı askeri gücü Tımar sistemi Yeniçeri Ocağı ve devşirme sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 10.3.1. Kuruluş Döneminde Osmanlı askerî gücünü oluşturan farklı muharip unsurları açıklar. 10.3.2. Tımar sisteminin özelliklerini siyasi sosyal ve ekonomik açılardan değerlendirir. 10.3.3. Yeniçeri Ocağının ve devşirme sisteminin Osmanlı devletleşme sürecine etkisini analiz eder."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "Beylikten Devlete Osmanlı Medeniyeti",
+      "KONU": "Sufilerin ve alimlerin Anadolunun İslamlaşmasına etkisi Osmanlı devlet idaresinin sınıfları bilim KÜLTÜRÜ sanat ve zanaat faaliyetleri",
+      "KAZANIM": "10.4.1. Süfilerin ve âlimlerin öğretilerinin Anadolunun İslamlaşmasına etkisini açıklar. 10.4.2. Osmanlı devlet idaresinin ilmiye kalemiye ve seyfiye sınıflarının birlikteliğine dayalı yapısını analiz eder. 10.4.3. Osmanlı coğrafyasındaki bilim KÜLTÜRÜ sanat ve zanaat faaliyetleri ile bunlara bağlı olarak sosyal hayatta meydana gelen değişimleri analiz eder."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "Dünya Gücü Osmanlı 1453-1595",
+      "KONU": "1453-1520 yılları siyasi gelişmeler İstanbulun fethi Osmanlının İslam coğrafyasında hakimiyeti",
+      "KAZANIM": "10.5.1. 1453-1520 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. 10.5.2. İstanbulun fethi sürecini sebepleri ve stratejik sonuçları açısından analiz eder. 10.5.3. Osmanlı Devletinin İslam coğrafyasında hâkimiyet kurmasının Türk ve İslam dünyası üzerindeki etkilerini analiz eder."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "Dünya Gücü Osmanlı 1453-1595",
+      "KONU": "1520-1595 yılları siyasi gelişmeler Kanuni Dönemi Osmanlı Devletinin olgunluğu stratejisi kara ve deniz politikaları",
+      "KAZANIM": "10.5.4. 1520-1595 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. 10.5.5. Kanuni Döneminden itibaren Osmanlı Devletinin eriştiği olgunluğu siyasi sınırlar ve devlet teşkilatı açısından açıklar. 10.5.6. Uyguladığı uzun vadeli stratejinin Osmanlı Devletinin dünya gücü hâline gelmesindeki rolünü analiz eder. 10.5.7. Osmanlı Devletinin takip ettiği kara ve deniz politikalarını analiz eder."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "Sultan ve Osmanlı Merkez Teşkilatı",
+      "KONU": "Topkapı Sarayının devlet idaresi ve kültürdeki rolü merkezi otoriteyi güçlendirme düzenlemeleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "10.6.1. Topkapı Sarayının devlet idaresinin yanı sıra devlet adamı yetiştirilmesinde ve şehir kültürünün gelişmesindeki rollerini analiz eder. 10.6.2. Osmanlı Devletinde merkezî otoriteyi güçlendirmeye yönelik düzenlemeleri analiz eder."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "Klasik Çağda Osmanlı Toplum Düzeni",
+      "KONU": "Millet sistemi fethedilen yerlerin İslam kültürüne dönüşümü ekonomik sistem ve tarımsal üretim",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "10.7.1. Osmanlı Devletinde millet sisteminin yapısını analiz eder. 10.7.2. Osmanlı Devletinin fethettiği yerleşim yerlerinin İslam kültürünün etkisiyle geçirdiği dönüşümü analiz eder. 10.7.3. Osmanlı ekonomik sistemi içerisinde tarımsal üretimin önemini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "Klasik Çağda Osmanlı Toplum Düzeni",
+      "KONU": "Lonca Teşkilatı vakıfların sosyal hayattaki yeri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "10.7.4. Lonca Teşkilatının Osmanlı ekonomik sistemi ve toplum yapısındaki yerini analiz eder. 10.7.5. Osmanlı Devletinde vakıfların sosyal hayattaki yerini ve önemini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "Ara Tatil",
+      "KONU": "Ara Tatil",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "Ara Tatil"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti 1595-1774",
+      "KONU": "1595-1700 yılları siyasi gelişmeler XVII. yüzyıl siyasi rekabet ve Osmanlı politikaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "11.1.1. 1595-1700 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. 11.1.2. XVII. yüzyılda değişen siyasi rekabet içerisinde Osmanlı Devletinin izlediği politikaları açıklar. 11.1.3. Denizcilik faaliyetlerinin içdenizlerden okyanuslara taşınmasının dünya siyasetine ve ticaretine etkilerini analiz eder."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti 1595-1774",
+      "KONU": "1700-1774 yılları rekabet ve stratejiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "11.1.4. 1700-1774 yılları arasındaki süreçte Osmanlı Devletinin diğer devletlerle yürüttüğü rekabeti ve bu rekabette uyguladığı stratejileri analiz eder."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "Değişim Çağında Avrupa ve Osmanlı",
+      "KONU": "Avrupa düşüncesindeki değişimler ve etkileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 11.2.1. Avrupa düşüncesinde meydana gelen değişimleri ve bunların etkilerini analiz eder. 11.2.2. Avrupadaki gelişmelere bağlı olarak Osmanlı idari askerî ve ekonomik yapısında meydana gelen değişimleri analiz eder."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "Değişim Çağında Avrupa ve Osmanlı",
+      "KONU": "Osmanlı devlet idaresi ve toplum düzenindeki çözülmeleri önleme çabaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "11.2.3. Osmanlı devlet idaresi ve toplum düzenindeki çözülmeleri önleme çabalarını analiz eder."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "Devrimler Çağında Değişen Devlet-Toplum İlişkileri",
+      "KONU": "Fransız İhtilali ve Sanayi Devrimi devlet-toplum ilişkilerindeki dönüşüm sömürgecilik faaliyetleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "11.3.1. Fransız İhtilali ve Avrupada Sanayi Devrimi ile birlikte devlet-toplum ilişkilerinde meydana gelen dönüşümü açıklar. 11.3.2. Sanayi İnkılabı sonrası Avrupalıların giriştiği sistemli sömürgecilik faaliyetleri ile küresel etkilerini analiz eder."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Devrimler Çağında Değişen Devlet-Toplum İlişkileri",
+      "KONU": "Osmanlıda modern ordu teşkilatı yurttaş askerliği ulus devletleşme ve endüstrileşme süreçleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "11.3.3. Osmanlı Devletinde modern ordu teşkilatı ve yurttaş askerliğine yönelik düzenlemelerin siyasi ve sosyal boyutlarını analiz eder. 11.3.4. Ulus devletleşme ve endüstrileşme süreçlerinin sosyal hayata yansımalarını analiz eder."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Uluslararası İlişkilerde Denge Stratejisi 1774-1914",
+      "KONU": "1774-1914 yılları siyasi gelişmeler Osmanlı Devletinin siyasi varlığına yönelik tehditler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "11.4.1. 1774-1914 yılları arasındaki süreçte meydana gelen başlıca siyasi gelişmeleri tarih şeridi ve haritalar üzerinde gösterir. 11.4.2. Osmanlı Devletinin siyasi varlığına yönelik iç ve dış tehditleri analiz eder."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Uluslararası İlişkilerde Denge Stratejisi 1774-1914",
+      "KONU": "Tanzimat Fermanı Islahat Fermanı ve Kanun-i Esasi 1876-1918 darbelerinin etkileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "11.4.3. Tanzimat Fermanı Islahat Fermanı ve Kanun-i Esasinin içeriklerini küresel ve yerel siyasi şartlar bağlamında değerlendirir. 11.4.4. 1876-1918 arasında gerçekleştirilen darbelerin Osmanlı siyasi hayatı üzerindeki etkilerini değerlendirir."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "XIX ve XX. Yüzyılda Değişen Sosyo-Ekonomik Hayat",
+      "KONU": "Osmanlıda endüstriyel üretime geçiş çabaları nüfus hareketleri modernleşme süreçleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "11.5.1. Osmanlı Devletinin son dönemlerinde endüstriyel üretime geçiş çabalarını ve bu süreçte yaşanan zorlukları analiz eder. 11.5.2. Osmanlı Devletinin son dönemlerindeki nüfus hareketlerinin siyasi askeri ve ekonomik sebep ve sonuçlarını analiz eder. 11.5.3. Modernleşmeyle birlikte sosyal ekonomik ve politik anlayışta yaşanan değişim ve dönüşümlerin gündelik hayata etkilerini analiz eder."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

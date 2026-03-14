@@ -1,0 +1,374 @@
+{
+  "sinif": "9",
+  "ders": "MESLEKİ TEKNOLOJ̇Ṡ (METALURJ)(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "Kalıp Kumu",
+      "KONU": "1.  Kalıp kumu eleme yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Kalıp kumu eleme yöntemlerini açıklar.\nDökümcülüğün tanımını tarihçesini amacını ve bölümlerini kum eleme makinelerinin çeşitlerini kum eleme makinelerinin bakımlarının anlatılması sağlanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "Kalıp Kumu",
+      "KONU": "1.  Kalıp kumu eleme yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Kalıp kumu eleme yöntemlerini açıklar.\nDökümcülüğün tanımını tarihçesini amacını ve bölümlerini kum eleme makinelerinin çeşitlerini kum eleme makinelerinin bakımlarının anlatılması sağlanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "1",
+      "ÜNİTE": "Kalıp Kumu",
+      "KONU": "2.  Kalıp kumunun özellikleri",
+      "KAZANIM": "Kalıp kumunun genel özellikleri ve yapısını ifade eder.\nDöküm kumlarının oluşumunu kalıp kumunu oluşturan maddeleri  ve  özelliklerini  kum  hazırlama makinelerini çeşitlerini bakımını kalıp kumuna katılan maddeler ve etkilerini açıklaması sağlanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "Kalıp Kumu",
+      "KONU": "2.  Kalıp kumunun özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Kalıp kumunun genel özellikleri ve yapısını ifade eder.\nDöküm kumlarının oluşumunu kalıp kumunu oluşturan maddeleri  ve  özelliklerini  kum  hazırlama makinelerini çeşitlerini bakımını kalıp kumuna katılan maddeler ve etkilerini açıklaması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "1.  Modelsiz çift derece sıkıştırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Modelsiz  alt  ve  üst  dereceyi  sıkıştırma  yöntemini açıklar.\nDöküm     derecesinin     özelliklerini     sınıflandırmayı ekkısımlarını   bakımını   ve   korunmasını   açıklaması sağlanır.\n      Yüzey  ayırıcı  maddeleri  yüzey  ve  meydan  kumunu anlatması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "2.  Kalıp sıkılığını ölçme",
+      "KAZANIM": "Kalıp sıkılığının önemini ifade eder.\nKalıp sıkılığının önemini kalıp sıkılığı ölçme cihazlarını ve kalıp sıkılığı değerlerini yorumlaması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "3.  Modelsiz şekil yapma",
+      "KAZANIM": "Kalıpta modelsiz şekil yapmada kullanılan takımları açıklar.\nKalıpçı  el  ve  meydan  takımlarının  görevini  çeşitleri bakımı ve korunmasını anlatması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "4.  Basit modelleri kalıplama",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Modellerin genel özelliklerini açıklar.\nModelin    yapıldığı    gereçleri    çeşitleri    konikliği    ve ekkısımlarını açıklaması sağlanır.\n   Kalıbı ve kalıp çeşitlerini anlatması sağlanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "5.  Kalıba yolluk bağlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Yolluk sistemlerini açıklar.\nYolluk sistemlerinin görevlerini bölümlerini ve çeşitlerini açıklaması sağlanır.\n   Kalıbı   kapatırken   dikkat   edilmesi   gereken   noktaları açıklaması sağlanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "6.  Kalıba çıkıcı bağlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Çıkıcının kalıptaki işlevini açıklar.\nÇıkıcıların   önemi   yeri   büyüklüklerini   ifade   etmesi sağlanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "7.  Kalıba besleyici bağlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Besleyicinin kalıptaki işlevini açıklar.\nÇöküntünün        oluşumunu        besleyicilerinyerlerini çeşitlerini  boyutlarını  ve  besleyicilere  yardımcı  olan işlemleri açıklaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "8.  Firketeli işleri kalıplama",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Kalıpta firketenin işlevini açıklar.\nFirketenin önemi özellikleri ve firkete kullanırken dikkat edilmesi gereken noktaları sıralaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "9.  Ana dereceli kalıp yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Ana derece yapmanın nedenini açıklar.\nMala yüzeyi kavramını ana derecenin görevini ve ana derece yapım malzemelerini açıklaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "10. Kalıpta çivi kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Kalıpta çivi kullanmanın gereğini açıklar.\nKalıpta çivi kullanmanın gereği döküm çivisi özellikleri ve döküm çivisi kullanma yerlerini sıralaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "10. Kalıpta çivi kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Kalıpta çivi kullanmanın gereğini açıklar.\nKalıpta çivi kullanmanın gereği döküm çivisi özellikleri ve döküm çivisi kullanma yerlerini sıralaması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "10. Kalıpta çivi kullanma",
+      "KAZANIM": "Kalıpta çivi kullanmanın gereğini açıklar.\nKalıpta çivi kullanmanın gereği döküm çivisi özellikleri ve döküm çivisi kullanma yerlerini sıralaması sağlanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Temel Kalıplama",
+      "KONU": "10. Kalıpta çivi kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Kalıpta çivi kullanmanın gereğini açıklar.\nKalıpta çivi kullanmanın gereği döküm çivisi özellikleri ve döküm çivisi kullanma yerlerini sıralaması sağlanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "1",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "Pota Ocağı",
+      "KONU": "1.  Pota ocağı onarım harcı",
+      "KAZANIM": "Pota ocağı onarım harcını açıklar.\nIsıya dayanıklı gereçlerin özellikleri sınıflandırılması seçim kriterleri ergime derecesinin ölçülmesi ve yurdumuzda yapımını açıklaması sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "Pota Ocağı",
+      "KONU": "1.  Pota ocağı onarım harcı",
+      "KAZANIM": "Pota ocağı onarım harcını açıklar.\nIsıya dayanıklı gereçlerin özellikleri sınıflandırılması seçim kriterleri ergime derecesinin ölçülmesi ve yurdumuzda yapımını açıklaması sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "Pota Ocağı",
+      "KONU": "2.  Pota ocağı",
+      "KAZANIM": "Pota ocağı ile ilgili bilgileri açıklar.\nYakacak    yanma    ısı    ve    sıcaklık    yakacakların sınıflandırılmasını açıklaması sağlanır.\n   Vantilatörün     önemi     seçimindekikriterler     çalışma prensibi   kısımları   çeşitleri   ve   bakımını   açıklaması sağlanır.\n   Pota   ocaklarının   çeşitleri   ocak   takımları   ergitme potalarının  çeşitleri  görevi  ve  korunmasını  açıklaması sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "1",
+      "ÜNİTE": "Pota Ocağı",
+      "KONU": "2.  Pota ocağı",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Pota ocağı ile ilgili bilgileri açıklar.\nYakacak    yanma    ısı    ve    sıcaklık    yakacakların sınıflandırılmasını açıklaması sağlanır.\n   Vantilatörün     önemi     seçimindekikriterler     çalışma prensibi   kısımları   çeşitleri   ve   bakımını   açıklaması sağlanır.\n   Pota   ocaklarının   çeşitleri   ocak   takımları   ergitme potalarının  çeşitleri  görevi  ve  korunmasını  açıklaması sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "Pota Ocağı",
+      "KONU": "2.  Pota ocağı",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Pota ocağı ile ilgili bilgileri açıklar.\nYakacak    yanma    ısı    ve    sıcaklık    yakacakların sınıflandırılmasını açıklaması sağlanır.\n   Vantilatörün     önemi     seçimindekikriterler     çalışma prensibi   kısımları   çeşitleri   ve   bakımını   açıklaması sağlanır.\n   Pota   ocaklarının   çeşitleri   ocak   takımları   ergitme potalarının  çeşitleri  görevi  ve  korunmasını  açıklaması sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "Alüminyum Alaşımları",
+      "KONU": "1.  Alüminyum kalıp kumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Alüminyum kalıp kumunu açıklar.\nAlüminyum   alaşımları   kalıp   kumunun   özellikleri   ve bileşimini açıklaması sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "1",
+      "ÜNİTE": "Alüminyum Alaşımları",
+      "KONU": "1.  Alüminyum kalıp kumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Alüminyum kalıp kumunu açıklar.\nAlüminyum   alaşımları   kalıp   kumunun   özellikleri   ve bileşimini açıklaması sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "Alüminyum Alaşımları",
+      "KONU": "1.  Alüminyum kalıp kumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Alüminyum kalıp kumunu açıklar.\nAlüminyum   alaşımları   kalıp   kumunun   özellikleri   ve bileşimini açıklaması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "Alüminyum Alaşımları",
+      "KONU": "1.  Alüminyum kalıp kumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Alüminyum kalıp kumunu açıklar.\nAlüminyum   alaşımları   kalıp   kumunun   özellikleri   ve bileşimini açıklaması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "Alüminyum Alaşımları",
+      "KONU": "2.  Alüminyum ergitme",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Alüminyum    alaşımlarının    genel    özellikleri    ve ergitme yöntemini açıklar.\nElement ve alaşım kavramı saf metallerin sakıncaları alaşımların       yararları       dökümcülükte      kullanılan elementleri   alüminyum   alaşımlarını   ve   özelliklerini katkı  elementlerinin  alüminyuma  etkilerini  alüminyum alaşımlarını  sınıflandırmayı  alüminyum   alaşımlarının döküm özelliklerini açıklaması sağlanır.\n   Alüminyumu ergitme yönetimini alüminyum alaşımında kullanılan   flaksları   metal   ergitirken   dikkat   edilecek güvenlik       kurallarını       alüminyum       alaşımlarının hazırlanmasını     ergitilmesini     karışık     alüminyum alaşımları      hazırlanmasına      ait      örnekleri      Türk standartlarında     alüminyum     alaşımları     çizelgesini açıklaması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "1",
+      "ÜNİTE": "Alüminyum Alaşımları",
+      "KONU": "2.  Alüminyum ergitme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Alüminyum    alaşımlarının    genel    özellikleri    ve ergitme yöntemini açıklar.\nElement ve alaşım kavramı saf metallerin sakıncaları alaşımların       yararları       dökümcülükte      kullanılan elementleri   alüminyum   alaşımlarını   ve   özelliklerini katkı  elementlerinin  alüminyuma  etkilerini  alüminyum alaşımlarını  sınıflandırmayı  alüminyum   alaşımlarının döküm özelliklerini açıklaması sağlanır.\n   Alüminyumu ergitme yönetimini alüminyum alaşımında kullanılan   flaksları   metal   ergitirken   dikkat   edilecek güvenlik       kurallarını       alüminyum       alaşımlarının hazırlanmasını     ergitilmesini     karışık     alüminyum alaşımları      hazırlanmasına      ait      örnekleri      Türk standartlarında     alüminyum     alaşımları     çizelgesini açıklaması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Alüminyum Alaşımları",
+      "KONU": "2.  Alüminyum ergitme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Alüminyum    alaşımlarının    genel    özellikleri    ve ergitme yöntemini açıklar.\nElement ve alaşım kavramı saf metallerin sakıncaları alaşımların       yararları       dökümcülükte      kullanılan elementleri   alüminyum   alaşımlarını   ve   özelliklerini katkı  elementlerinin  alüminyuma  etkilerini  alüminyum alaşımlarını  sınıflandırmayı  alüminyum   alaşımlarının döküm özelliklerini açıklaması sağlanır.\n   Alüminyumu ergitme yönetimini alüminyum alaşımında kullanılan   flaksları   metal   ergitirken   dikkat   edilecek güvenlik       kurallarını       alüminyum       alaşımlarının hazırlanmasını     ergitilmesini     karışık     alüminyum alaşımları      hazırlanmasına      ait      örnekleri      Türk standartlarında     alüminyum     alaşımları     çizelgesini açıklaması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Alüminyum Alaşımları",
+      "KONU": "2.  Alüminyum ergitme",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Alüminyum    alaşımlarının    genel    özellikleri    ve ergitme yöntemini açıklar.\nElement ve alaşım kavramı saf metallerin sakıncaları alaşımların       yararları       dökümcülükte      kullanılan elementleri   alüminyum   alaşımlarını   ve   özelliklerini katkı  elementlerinin  alüminyuma  etkilerini  alüminyum alaşımlarını  sınıflandırmayı  alüminyum   alaşımlarının döküm özelliklerini açıklaması sağlanır.\n   Alüminyumu ergitme yönetimini alüminyum alaşımında kullanılan   flaksları   metal   ergitirken   dikkat   edilecek güvenlik       kurallarını       alüminyum       alaşımlarının hazırlanmasını     ergitilmesini     karışık     alüminyum alaşımları      hazırlanmasına      ait      örnekleri      Türk standartlarında     alüminyum     alaşımları     çizelgesini açıklaması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Dökülen İşleri Temizleme",
+      "KONU": "1.  Dökülen kalıpları bozma",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Dökülen kalıpların bozulmasını açıklar.\nDökülen kalıpların el ile bozulmasında kullanılan araç- gereçleri kalıp bozma makinesini ve kalıpları bozarken dikkat edilecek noktaları açıklaması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Dökülen İşleri Temizleme",
+      "KONU": "2.  Dökülen işlerin ek kısımlarını kesme",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Dökülen işlerin ek kısımlarını kesme işlemlerini açıklar.\nMarkalamanın    amacı    takım    ve    araçları    bakımı saklanması  malzemeyi  mengeneye  bağlarken  dikkat edilecek noktaları açıklaması sağlanır.\n   Kesme  amacını  kesme  aletlerini   kesme   yapılırken dikkat  edilecek  noktaları  kesme  alet  ve  makinelerin bakımı onarımı ve saklanmasını açıklaması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "1",
+      "ÜNİTE": "Dökülen İşleri Temizleme",
+      "KONU": "3.  Dökülen işlerin fazlalıklarını eğeleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Dökülen   işlerin   fazlalıklarını   eğeleme   işlemlerini açıklar. Eğelemenin   amacını   malzeme   cinsine   göre   eğe seçimini    eğeçeşitlerini    eğeleme    yaparken    dikkat edilecek     noktaları     eğe     aletlerinin     bakımı     ve saklanmasını açıklaması sağlanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Dökülen İşleri Temizleme",
+      "KONU": "4.  Dökülen işlerin kumlarını temizleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Dökülen  işlerin  kumlarını  temizleme  yöntemlerini açıklar.\nTamburla      temizleme      makinelerinin      özelliklerini açıklaması sağlanır.\n   Kum püskürtme ile temizleme makinelerinin özelliklerini açıklaması sağlanır.\n   Çelik     bilye     savurma     makinelerinin     özelliklerini açıklaması sağlanır.\n   Yaş temizleme yönteminin açıklanması sağlanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Dökülen İşleri Temizleme",
+      "KONU": "5.  Dökülen işleri taşlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Dökülen işleri taşlama yöntemini açıklar.\nTaşlama makinesinin tanıtımı ve çeşitlerinin açıklanması sağlanır.\n Zımpara taşının özelliklerinin açıklanması sağlanır.\n Taşlama yaparken dikkat edilmesi gereken noktaları anlatması sağlanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "1",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

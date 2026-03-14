@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "UYGULAMA (HARTA)(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "10",
+      "ÜNİTE": "Harita Çizimi Uygulamaları",
+      "KONU": "1.  Kanava çizimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun   olarak   poligon   ve   nirengi kanavaları çizer.\nKanava tanımlanır.\n      Kanava çeşitleri açıklanır.\n      Noktaların X Y koordinatları verilir.\n      Pafta açtırılır.\n      Yer kontrol noktaları çizdirilir.\n      Noktaların hesap yönleri belirtilir.\n      Güzergâhlar numaralanır.\n      Kanava donatılır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "10",
+      "ÜNİTE": "Harita Çizimi Uygulamaları",
+      "KONU": "1.  Kanava çizimi",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun   olarak   poligon   ve   nirengi kanavaları çizer.\nKanava tanımlanır.\n      Kanava çeşitleri açıklanır.\n      Noktaların X Y koordinatları verilir.\n      Pafta açtırılır.\n      Yer kontrol noktaları çizdirilir.\n      Noktaların hesap yönleri belirtilir.\n      Güzergâhlar numaralanır.\n      Kanava donatılır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "10",
+      "ÜNİTE": "Harita Çizimi Uygulamaları",
+      "KONU": "2.  Kutupsal değerlere göre çizim",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine  uygun  olarak  kutupsal  değerlere göre ölçülmüş alanın çizimini yapar.\nKullanılacak araç  gereç açıklanır.\n      Minkale açıölçer kullanımı anlatılır.\n      Yatay açıların işaretlenmesi yaptırılır.\n      Yatay mesafe işaretlenmesi yaptırılır.\n      Çizilen noktalar birleştirilerek şekil ortaya çıkarılır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "10",
+      "ÜNİTE": "Harita Çizimi Uygulamaları",
+      "KONU": "2.  Kutupsal değerlere göre çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine  uygun  olarak  kutupsal  değerlere göre ölçülmüş alanın çizimini yapar.\nKullanılacak araç  gereç açıklanır.\n      Minkale açıölçer kullanımı anlatılır.\n      Yatay açıların işaretlenmesi yaptırılır.\n      Yatay mesafe işaretlenmesi yaptırılır.\n      Çizilen noktalar birleştirilerek şekil ortaya çıkarılır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "10",
+      "ÜNİTE": "Harita Çizimi Uygulamaları",
+      "KONU": "2.  Kutupsal değerlere göre çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine  uygun  olarak  kutupsal  değerlere göre ölçülmüş alanın çizimini yapar.\nKullanılacak araç  gereç açıklanır.\n      Minkale açıölçer kullanımı anlatılır.\n      Yatay açıların işaretlenmesi yaptırılır.\n      Yatay mesafe işaretlenmesi yaptırılır.\n      Çizilen noktalar birleştirilerek şekil ortaya çıkarılır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "10",
+      "ÜNİTE": "Eş Yükseklik Eğrileri",
+      "KONU": "1.  Eş yükseklik eğrileri çizimi",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine    uygun    olarak    pafta    üzerinde    eş yükseklik eğrileri çizebilir.\nEş yükseklik eğrileri açıklanır.\n      Eş yükseklik eğrilerinin aralığı açıklanır.\n      Kutupsal   değerlerle   çizilmiş   paftada   eş   yükseklik eğrilerinin geçtiği noktaların hesabı anlatılır.\n      Belirlenen    noktalara    göre    eş    yükseklik    eğrileri geçirilmesi uygulaması yaptırılır.\n      Eş yükseklik eğrilerine göre harita üzerinde arazi şekli çukur tepe düzlük şev belirleme açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "10",
+      "ÜNİTE": "Eş Yükseklik Eğrileri",
+      "KONU": "1.  Eş yükseklik eğrileri çizimi",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine    uygun    olarak    pafta    üzerinde    eş yükseklik eğrileri çizebilir.\nEş yükseklik eğrileri açıklanır.\n      Eş yükseklik eğrilerinin aralığı açıklanır.\n      Kutupsal   değerlerle   çizilmiş   paftada   eş   yükseklik eğrilerinin geçtiği noktaların hesabı anlatılır.\n      Belirlenen    noktalara    göre    eş    yükseklik    eğrileri geçirilmesi uygulaması yaptırılır.\n      Eş yükseklik eğrilerine göre harita üzerinde arazi şekli çukur tepe düzlük şev belirleme açıklanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "10",
+      "ÜNİTE": "Eş Yükseklik Eğrileri",
+      "KONU": "2.  Kesit çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun    olarak   eş   yükseklik   eğrili haritada kesit çıkarma işlemlerini yapar.\nKesit açıklanır.\n      Düşey ölçek açıklanır.\n      Eş    yükseklik    eğrili    haritada    güzergâh    verilerek üzerindeki en kesitlerin çizimi yaptırılır.\n      Eş yükseklik eğrili haritada boy kesit çizimi yaptırılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "10",
+      "ÜNİTE": "Eş Yükseklik Eğrileri",
+      "KONU": "2.  Kesit çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun    olarak   eş   yükseklik   eğrili haritada kesit çıkarma işlemlerini yapar.\nKesit açıklanır.\n      Düşey ölçek açıklanır.\n      Eş    yükseklik    eğrili    haritada    güzergâh    verilerek üzerindeki en kesitlerin çizimi yaptırılır.\n      Eş yükseklik eğrili haritada boy kesit çizimi yaptırılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "10",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "10",
+      "ÜNİTE": "Eş Yükseklik Eğrileri",
+      "KONU": "2.  Kesit çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun    olarak   eş   yükseklik   eğrili haritada kesit çıkarma işlemlerini yapar.\nKesit açıklanır.\n      Düşey ölçek açıklanır.\n      Eş    yükseklik    eğrili    haritada    güzergâh    verilerek üzerindeki en kesitlerin çizimi yaptırılır.\n      Eş yükseklik eğrili haritada boy kesit çizimi yaptırılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "10",
+      "ÜNİTE": "İş Hukuku",
+      "KONU": "1.  İş Hukukuna yön veren temel ilkeler  2.  İş sözleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "İş  Kanununa  uygun  olarak  İş  Hukukuna  Yön  Veren Temel İlkeleri açıklar.İş Kanununa uygun olarak iş sözleşmesini açıklar.\nİş Hukukunun konusu açıklanır.\n      İş Hukukunun temel kavramları açıklanır.\n      İşçi işveren işyeri kavramları açıklanır.\n      İşçinin korunması örnekleyerek açıklanır.\n      İşçilerin yönetime katılması örneklerle açıklanır.\n      Toplu iş hukukunda tarafların özerkliği açıklanır.\n      Öğrencilere konu ile ilgili sunum ödevi verilir.\n      İş sözleşmesinin tanımı yapılır.\n      İş sözleşmesinin türleri açıklanır.\n      İş sözleşmesinin yapılması açıklanır.\n      İş sözleşmesinin hükümsüz olduğu durumlar açıklanır.\n      İşçinin borçları açıklanır.\n      İşverenin borçları açıklanır.\n      İş sözleşmesinin sona ermesi açıklanır.\n      Öğrencilere konu ile ilgili sunum ödevi verilir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "10",
+      "ÜNİTE": "İş Hukuku",
+      "KONU": "3.  Personelin özlük hakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "İş Kanununa uygun olarak Personelin Özlük Haklarını açıklar.\nİş kazalarına bağlı haklar örnekleyerek açıklanır.\n      Kıdem tazminat hakkı açıklanır.\n      YILLIK ücretli izin hakkı açıklanır.\n      Doğum izni ve süt izni hakkı açıklanır.\n      İhbar tazminatı hakkı açıklanır.\n      Hizmet yılına bağlı aylıksız izin kavramı açıklanır.\n      Refakat izni örnekleyerek açıklanır.\n      Sözleşmeli personelin izin hakları açıklanır.\n      Sendika kavramı açıklanır.\n      Öğrencilere konu ile ilgili sunum ödevi verilir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "10",
+      "ÜNİTE": "Arazi Değişikliği İşlemleri",
+      "KONU": "1.  Ayırma İfraz ve Birleştirme Tevhit",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "İş  Sağlığı  ve  Güvenliği  kuralları  doğrultusunda  İmar Kanununa    uygun    olarak    ayırma    ve    birleştirme çalışmaları yapar.\nKonu ile ilgili terimler tanımlanır.\n      Ayırma ve birleştirme ile ilgili mevzuat açıklanır.\n      Parsellerin bölünmesi açıklanır.\n      Pafta üzerinde birleştirme uygulaması yaptırılır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "10",
+      "ÜNİTE": "Arazi Değişikliği İşlemleri",
+      "KONU": "2.  Teknik çalışmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "İmar Kanununa uygun olarak ayırma ve birleştirme ile ilgili teknik çalışmalar yapar.\nGerekli bilgi ve belgeler açıklanır.\n      Dikkat edilmesi gereken ilkeler açıklanır.\n      Arazide    öğrenci    gruplarına    ayırma    uygulamaları yaptırılır\n      Yeni parsellerin boyutları hesaplanır.\n      Ayrıma planının onayı ve tescili açıklanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "10",
+      "ÜNİTE": "Arazi Değişikliği İşlemleri",
+      "KONU": "3.  Parselasyon",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "İmar   Kanununa   uygun   olarak   parselasyon   işlemi yapar.\nParselasyon açıklanır.\n      Ada uygulama krokileri çıkarılır.\n      Öğrencilere  imar  PLANI  paftaları  dağıtılır  ve  çalışma yerleri işaretlenir.\n      İmar   PLANI   üzerinde   parselasyon   PLANI   düzenleme uygulaması yaptırılır.\n      Parsellerin röleve ölçü krokisi düzenlenir.\n      Plan üzerinde parseller çizilir.\n      Parsellerin yüzölçüm hesapları yaptırılır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "10",
+      "ÜNİTE": "Arazi Değişikliği İşlemleri",
+      "KONU": "3.  Parselasyon",
+      "KAZANIM": "İmar   Kanununa   uygun   olarak   parselasyon   işlemi yapar.\nParselasyon açıklanır.\n      Ada uygulama krokileri çıkarılır.\n      Öğrencilere  imar  PLANI  paftaları  dağıtılır  ve  çalışma yerleri işaretlenir.\n      İmar   PLANI   üzerinde   parselasyon   PLANI   düzenleme uygulaması yaptırılır.\n      Parsellerin röleve ölçü krokisi düzenlenir.\n      Plan üzerinde parseller çizilir.\n      Parsellerin yüzölçüm hesapları yaptırılır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "10",
+      "ÜNİTE": "Yola Ait İmar Uygulamaları",
+      "KONU": "1.     Yola terk",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav İş  Sağlığı  ve  Güvenliği  kuralları  doğrultusunda  İmar Kanununa uygun olarak yola terk işlemi yapar.\nYola terk açıklanır.\n      Yola terk mevzuatı açıklanır.\n      Yola terkin teknik çalışmaları açıklanır.\n      Okul bahçesine ait pafta üzerine yola terk bölgesi çizilir.\n      Öğrenciler gruplara ayrılır ve çizilen yola terk araziye aplike edilir.\n      Yeni   oluşan   parsel   ve   yola   terk   edilen   bölümün yüzölçümleri hesaplanır.\n      Yola terkin onayı ve tescili açıklanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "10",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "10",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "10",
+      "ÜNİTE": "Yola Ait İmar Uygulamaları",
+      "KONU": "2.     Yoldan ihdas",
+      "KAZANIM": "İmar  Kanununa  uygun  olarak  yoldan  ihdas  işlemi yapar.\nYoldan ihdas açıklanır.\n      Yoldan ihdas mevzuatı açıklanır.\n      Yoldan ihdasın teknik çalışmaları açıklanır.\n      Okul bahçesine ait pafta üzerine yoldan ihdas bölgesi çizilir.\n      Öğrenciler   gruplara   ayrılır   ve   çizilen   yoldan   ihdas araziye aplike edilir.\n      Yeni  oluşan  parsel  ve  yoldan  ihdas  edilen  bölümün yüzölçümleri hesaplanır.\n      Yoldan ihdasın onayı ve tapuya tescili açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "10",
+      "ÜNİTE": "Kamulaştırma Haritaları",
+      "KONU": "1.     Kamulaştırma",
+      "KAZANIM": "İmar Kanununa uygun olarak kamulaştırmayı açıklar.\nKamulaştırma açıklanır.\n      Kamulaştırma mevzuatı açıklanır.\n      Kısmi kamulaştırma açıklanır.\n      Kamulaştırmanın ilkeleri açıklanır.\n      Kamulaştırmaya yetkili kurumlar açıklanır.\n      Kamulaştırma hazırlık çalışmaları açıklanır.\n      Kamulaştırma bedeli belirlenmesi açıklanır.\n      Bildirim ve duyuru yapılması açıklanır.\n      Kamulaştırma    kararı    alınan    taşınmaz    üzerindeki hakların sınırlanması açıklanır.\n      Kamulaştırmaya yapılacak itirazlar açıklanır.\n      Taşınmaza idarenin el koyması ve kurum adına tescili açıklanır.\n      Kamulaştırmadan vazgeçme ve mal sahibinin geri alma hakkı açıklanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "10",
+      "ÜNİTE": "Kamulaştırma Haritaları",
+      "KONU": "2.     Kamulaştırma haritaları",
+      "KAZANIM": "İmar  Kanununa  uygun  olarak  kamulaştırma  haritası yapar.\nKadastro   gören   yerlerde   yapılacak   kamulaştırma haritaları açıklanır.\n      Kamulaştırma   haritalarının   onayı   ve   tapuya   tescili açıklanır.\n      Kamulaştırma  haritalarıyla  ilgili  örnek  dosya  sınıfta incelenir."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "10",
+      "ÜNİTE": "Kamulaştırma Haritaları",
+      "KONU": "2.     Kamulaştırma haritaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "İmar  Kanununa  uygun  olarak  kamulaştırma  haritası yapar.\nKadastro   gören   yerlerde   yapılacak   kamulaştırma haritaları açıklanır.\n      Kamulaştırma   haritalarının   onayı   ve   tapuya   tescili açıklanır.\n      Kamulaştırma  haritalarıyla  ilgili  örnek  dosya  sınıfta incelenir."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "10",
+      "ÜNİTE": "Yol İstikşafı ve Etüdü",
+      "KONU": "1.     İstikşaf",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine  uygun  olarak  arazide  yol  projesi  için istikşaf çalışması yapar.\nKara yolları terimleri tanımlanır.\n      Yolların geometrisinin seçilmesi açıklanır.\n      Yol en kesit elemanları olan yatay güzergâh yatay kurp ve yatay kurplarda dever açıklanır.\n      Yol    en    kesit    elemanları    olan    düşey    güzergâh maksimum  eğimler  keskin  yatay  kurplardaki  eğim azalmaları  düşey  kurplar  ve  proje  kotlarının  hesabı açıklanır.\n      İstikşaf işlemi açıklanır.\n      Klasik ve fotogrametrik yol istikşafları açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "10",
+      "ÜNİTE": "Yol İstikşafı ve Etüdü",
+      "KONU": "2.     Etüd hazırlıkları",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun   olarak   yol   projesi   için   etüd hazırlıkları yapar.\nEtüd ekibinin kimlerden oluştuğu açıklanır.\n      Etüd için gerekli araç gereç açıklanır.\n      Etüd için arazide yapılacak işlemler açıklanır.\n      Etüd için bürodaki işlemler açıklanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "10",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "10",
+      "ÜNİTE": "Yol İstikşafı ve Etüdü",
+      "KONU": "3.     Güzergâh araştırması",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "İş Sağlığı ve Güvenliği kuralları doğrultusunda Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine uygun  olarak  yol  projesi  için  güzergâh  araştırması yapar.\nSıfır poligonu açıklanır.\n      Eş yüksek eğrili harita üzerinde sıfır poligonu geçirme uygulaması yaptırılır.\n      Sıfır    poligonuna    göre    kesin    güzergâh    geçirme uygulaması yaptırılır.\n      Sıfır   poligonu   çizmeden   kesin   güzergâh   geçirme uygulaması yaptırılır.\n      Kesin güzergâh üzerinde boy kesit çizimi yaptırılır.\n      Kesin güzergâh üzerinde en kesit çizimleri yaptırılır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Projesi",
+      "KONU": "1.     Kesit çizimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "İş Sağlığı ve Güvenliği kuralları doğrultusunda Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine uygun olarak yol projesi için kesit çizimleri yapar.\nEn kesit çizimleri yaptırılır.\n      Boy kesit çizimi yaptırılır.\n      Aplikasyon PLANI çizdirilir.\n      Boy kesit üzerinde kırmızı hat çizimi yaptırılır.\n      Düşey kurplarda kırmızı kot hesabı yaptırılır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Projesi",
+      "KONU": "1.     Kesit çizimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav İş Sağlığı ve Güvenliği kuralları doğrultusunda Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine uygun olarak yol projesi için kesit çizimleri yapar.\nEn kesit çizimleri yaptırılır.\n      Boy kesit çizimi yaptırılır.\n      Aplikasyon PLANI çizdirilir.\n      Boy kesit üzerinde kırmızı hat çizimi yaptırılır.\n      Düşey kurplarda kırmızı kot hesabı yaptırılır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Projesi",
+      "KONU": "2.     Alan hesabı",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun   olarak   yol   projesi   için   alan hesabı yapar.\nCross yöntemiyle en kesitlerin alan hesabı yaptırılır.\n      Alanlar diyagramı çizdirilir."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Projesi",
+      "KONU": "2.     Alan hesabı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun   olarak   yol   projesi   için   alan hesabı yapar.\nCross yöntemiyle en kesitlerin alan hesabı yaptırılır.\n      Alanlar diyagramı çizdirilir."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Aplikasyonu",
+      "KONU": "1.     Aplikasyon hazırlığı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun   olarak   yol   projesini   araziye aplike etme hazırlıkları yapar.\nDoğruların tespiti yaptırılır.\n      Some noktalarının tespiti yaptırılır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Aplikasyonu",
+      "KONU": "2.     Yatay kurplar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine  uygun  olarak  yatay  kurpların  araziye aplikasyonunu yapar.\nYatay kurpların hesabı yaptırılır.\n      Yatay kurpların aplikasyonu yaptırılır.\n      Kurp ara noktalarının hesabı yaptırılır.\n      Kurp aplikasyonunda özel durumlar açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Aplikasyonu",
+      "KONU": "3.     Kesit nivelmanı",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "İş Sağlığı ve Güvenliği kuralları doğrultusunda Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine uygun olarak arazide kesit nivelmanı işlemi yapar.\nBoy kesit nivelmanı açıklanır.\n      Güzergâh aplikasyonu yaptırılır.\n      Güzergâh uzunluk ölçümü yaptırılır.\n      Öğrenci   gruplarına   verilen   güzergâhta   boy   kesit nivelmanı yaptırılır.\n      Öğrenci    gruplarına    verilen    güzergâhta    en    kesit nivelmanı yaptırılır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Aplikasyonu",
+      "KONU": "3.     Kesit nivelmanı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "İş Sağlığı ve Güvenliği kuralları doğrultusunda Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine uygun olarak arazide kesit nivelmanı işlemi yapar.\nBoy kesit nivelmanı açıklanır.\n      Güzergâh aplikasyonu yaptırılır.\n      Güzergâh uzunluk ölçümü yaptırılır.\n      Öğrenci   gruplarına   verilen   güzergâhta   boy   kesit nivelmanı yaptırılır.\n      Öğrenci    gruplarına    verilen    güzergâhta    en    kesit nivelmanı yaptırılır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "10",
+      "ÜNİTE": "Yol Aplikasyonu",
+      "KONU": "3.     Kesit nivelmanı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "İş Sağlığı ve Güvenliği kuralları doğrultusunda Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine uygun olarak arazide kesit nivelmanı işlemi yapar.\nBoy kesit nivelmanı açıklanır.\n      Güzergâh aplikasyonu yaptırılır.\n      Güzergâh uzunluk ölçümü yaptırılır.\n      Öğrenci   gruplarına   verilen   güzergâhta   boy   kesit nivelmanı yaptırılır.\n      Öğrenci    gruplarına    verilen    güzergâhta    en    kesit nivelmanı yaptırılır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "10",
+      "ÜNİTE": "Küçük Nokta ve Yan Nokta Hesabı",
+      "KONU": "1.     Küçük nokta hesabı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun   olarak   küçük   nokta   hesabı yapar.\nKoordinat hesabındaki özel haller açıklanır.\n      Küçük nokta hesabı örneklerle açıklanır.\n      Küçük nokta hesabıyla ilgili örnek çözümler yaptırılır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "10",
+      "ÜNİTE": "Küçük Nokta ve Yan Nokta Hesabı",
+      "KONU": "1.     Küçük nokta hesabı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine   uygun   olarak   küçük   nokta   hesabı yapar.\nKoordinat hesabındaki özel haller açıklanır.\n      Küçük nokta hesabı örneklerle açıklanır.\n      Küçük nokta hesabıyla ilgili örnek çözümler yaptırılır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "10",
+      "ÜNİTE": "Küçük Nokta ve Yan Nokta Hesabı",
+      "KONU": "2.     Yan nokta hesabı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Büyük   Ölçekli   Harita   ve   Harita   Bilgileri   Üretim Yönetmeliğine uygun olarak yan nokta hesabı yapar.\nÖrnek çözerek yan nokta hesabı açıklanır.\n      Yan nokta hesabı örnekleri çözdürülür."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "10",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

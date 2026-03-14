@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "KURGU UYGULAMALAR(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "1. Ses Kurgusu Başlangıç Ayarları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Ses kurgusu programının başlangıç ayarlarını ve yapılandırma ayarlarını yapar.\nProgramın          panellerinin          kişiye          göre kişiselleştirilmesi sağlanır.\n       Programın ayarlarının doğru bir şekilde yapılması sağlanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "2. Ses Kaydı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Ses kurgusu programında ses kaydeder.\nWaveform  ve  Multitrack  panelinde  ses  kaydına başlamadan       önce       ses       kaydına       ilişkin ayarlamaların  sample  rate  channels  bit  depht doğru yapılması sağlanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "3. Ses Dosyalarını İçe Aktarma",
+      "KAZANIM": "Ses dosyalarını içe import alır.\nDosyaları  içe  almak  import  için  kullanılan  farklı yöntemler açıklanarak gösterip yaptırılır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "4. Dip Ses Silme",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Gürültü ve dip ses siler.\nSes   kaydında   oluşan   gürültü   ve   dip   seslerin temizlenmesi sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "5. Ses Düzeylerini Ayarlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Ses düzeylerini ayarlar.\nWaveform     ve     Multitrack     panelinde     farklı yöntemlerle      ses      seviyelerinin      ayarlanması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "6. Sesin Temel Ayarlamalarını Yapma",
+      "KAZANIM": "Sesin temel ayarlamalarını yapar.\nWaveform  panelinde  temel  ayarlamalar  fade  in fade  out    sesi  kopyalama  kesme  yapıştırma bölme düzenleme ve silme vb. gösterip yaptırılır.\n       Multitrack panelinde birden fazla ses ile çalışmalar yaptırılır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "7. Efekt Kombinasyonları",
+      "KAZANIM": "Efekt kombinasyonlarını uygular.\nEfekt       kombinasyonlarını       İstenilen       etkiyi oluşturmak için kullanılması sağlanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "8. Render Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Waveform ve multitrack panelinde istenilen format ayarlarda render alır.\nWaveform    ve    multitrack    olarak    oluşturulan çalışmalar ayrı ayrı kaydedilmesi sağlanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Ses Kurgusu Yapımı",
+      "KONU": "8. Render Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Waveform ve multitrack panelinde istenilen format ayarlarda render alır.\nWaveform    ve    multitrack    olarak    oluşturulan çalışmalar ayrı ayrı kaydedilmesi sağlanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Radyo Tiyatrosu Yapımı",
+      "KONU": "1.  Seslendirme Yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Ses     kurgusu     programında     radyo     tiyatrosu seslendirmesi yapar.\nSes  kayıt  ya  da  radyo  stüdyosunda  seslendirme işlemleri yaptırılır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "Radyo Tiyatrosu Yapımı",
+      "KONU": "1.  Seslendirme Yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Ses     kurgusu     programında     radyo     tiyatrosu seslendirmesi yapar.\nSes  kayıt  ya  da  radyo  stüdyosunda  seslendirme işlemleri yaptırılır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Radyo Tiyatrosu Yapımı",
+      "KONU": "1.  Seslendirme Yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Ses     kurgusu     programında     radyo     tiyatrosu seslendirmesi yapar.\nSes  kayıt  ya  da  radyo  stüdyosunda  seslendirme işlemleri yaptırılır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Radyo Tiyatrosu Yapımı",
+      "KONU": "2.  Radyo Tiyatrosu Kurgusu",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Ses  müzik  ve  efekt  bileşenlerini  radyo  tiyatrosu bağlamında kurgular.\nÖnceden  hazırlanmış  olan  ses  müzik  ve  efekt dosyalarının programa import edilmesi sağlanır.\n       Metin   doğrultusunda   radyo   tiyatrosu   kurgusu yapılması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Radyo Tiyatrosu Yapımı",
+      "KONU": "2.  Radyo Tiyatrosu Kurgusu",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Ses  müzik  ve  efekt  bileşenlerini  radyo  tiyatrosu bağlamında kurgular.\nÖnceden  hazırlanmış  olan  ses  müzik  ve  efekt dosyalarının programa import edilmesi sağlanır.\n       Metin   doğrultusunda   radyo   tiyatrosu   kurgusu yapılması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "ÜNİTE": "Radyo Tiyatrosu Yapımı",
+      "KONU": "2.  Radyo Tiyatrosu Kurgusu",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Ses  müzik  ve  efekt  bileşenlerini  radyo  tiyatrosu bağlamında kurgular.\nÖnceden  hazırlanmış  olan  ses  müzik  ve  efekt dosyalarının programa import edilmesi sağlanır.\n       Metin   doğrultusunda   radyo   tiyatrosu   kurgusu yapılması sağlanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Radyo Tiyatrosu Yapımı",
+      "KONU": "3.  Efekt Uygulama",
+      "KAZANIM": "Ses   kliplerine   ses   kurgu   programında   efektleri uygular.\nSes kurgu programındaki efektleri mikser panelini kullanarak uygular.\n       Kaydedilen   ya   da   dışarıdan   içe   aktarılan   ses dosyalarına   istenilen   etkiyi   vermek   için   farklı efektler uygulanması sağlanır.\n       İstenilen   formatta   ve   ayarlarda   render   alması sağlanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Radyo Tiyatrosu Yapımı",
+      "KONU": "3.  Efekt Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Ses   kliplerine   ses   kurgu   programında   efektleri uygular.\nSes kurgu programındaki efektleri mikser panelini kullanarak uygular.\n       Kaydedilen   ya   da   dışarıdan   içe   aktarılan   ses dosyalarına   istenilen   etkiyi   vermek   için   farklı efektler uygulanması sağlanır.\n       İstenilen   formatta   ve   ayarlarda   render   alması sağlanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "1.  Yazı ve Grafik Ekleme",
+      "KAZANIM": "Kurgu programının ilgili panelinde ekran yazısı ve grafik hazırlar.\nBir filmin ya da programın girişindeki ve sonundaki jenerik yazılarının hazırlanması sağlanır.\n       Yazının    boyut    konum    renk    ve    gölge    vb. özelliklerinin ayarlanması sağlanır.\n       Görüntü  üzeri  kullanılan  bant  şekil  ve  grafiklerin hazırlanması sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "1.  Yazı ve Grafik Ekleme",
+      "KAZANIM": "Kurgu programının ilgili panelinde ekran yazısı ve grafik hazırlar.\nBir filmin ya da programın girişindeki ve sonundaki jenerik yazılarının hazırlanması sağlanır.\n       Yazının    boyut    konum    renk    ve    gölge    vb. özelliklerinin ayarlanması sağlanır.\n       Görüntü  üzeri  kullanılan  bant  şekil  ve  grafiklerin hazırlanması sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "2.  Anahtar kare ile hareketlendirme",
+      "KAZANIM": "Görüntü ses ve efektleri ve anahtar kare ile hareketlendirir.\nBir filmin ya da programın girişindeki ve sonundaki jenerik yazıları hareketlendirilir.\n       Video kliplerin anahtar kare ile hareketlendirilmesi sağlanır.\n       Ses    kliplerine    anahtar    kare    ekleyerek    ses seviyesini  ayarlama  ve  ses  uygulanan  efektlerin özelleştirilmesi sağlanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "2.  Anahtar kare ile hareketlendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Görüntü ses ve efektleri ve anahtar kare ile hareketlendirir.\nBir filmin ya da programın girişindeki ve sonundaki jenerik yazıları hareketlendirilir.\n       Video kliplerin anahtar kare ile hareketlendirilmesi sağlanır.\n       Ses    kliplerine    anahtar    kare    ekleyerek    ses seviyesini  ayarlama  ve  ses  uygulanan  efektlerin özelleştirilmesi sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "3.  Video ses ve geçiş efektleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Kurgu çalışmasına video ses ve geçiş efektleri uygular.\nZaman  çizelgesindeki  ses  kliplerine  ihtiyaca  göre ses efektleri uygulanması sağlanır.\n       Zaman   çizelgesindeki   video   kliplerine   ihtiyaca göre video efektleri uygulanması sağlanır\n       Zaman   çizelgesindeki   ses   ve   video   kliplerine ihtiyaca     göre     ses     ve     video     geçişlerinin uygulanması sağlanır.\n       Efektlere    anahtar    kare    ekleyerek    efektlerin özelleştirilmesi sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "3.  Video ses ve geçiş efektleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Kurgu çalışmasına video ses ve geçiş efektleri uygular.\nZaman  çizelgesindeki  ses  kliplerine  ihtiyaca  göre ses efektleri uygulanması sağlanır.\n       Zaman   çizelgesindeki   video   kliplerine   ihtiyaca göre video efektleri uygulanması sağlanır\n       Zaman   çizelgesindeki   ses   ve   video   kliplerine ihtiyaca     göre     ses     ve     video     geçişlerinin uygulanması sağlanır.\n       Efektlere    anahtar    kare    ekleyerek    efektlerin özelleştirilmesi sağlanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "4.  Maskeleme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Maskeleme yapar.\nGörüntüde   maskeleme   yapılacak   olan   alanın seçilmesini sağlar.\n       Seçimi   yapılan   alana   yapılmak   istenen   efektin uygulanmasını     sağlar.     Blur     mozaik     renk düzenleme  vb."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "4.  Maskeleme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Maskeleme yapar.\nGörüntüde   maskeleme   yapılacak   olan   alanın seçilmesini sağlar.\n       Seçimi   yapılan   alana   yapılmak   istenen   efektin uygulanmasını     sağlar.     Blur     mozaik     renk düzenleme  vb."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "5.  Chroma-Key uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Yeşil ekran uygulaması yapar.\nYeşil perde tekniğiyle çekilmiş görüntülerle video kurgu programında chroma-key uygulaması yapılması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "Video Kurgusu Yapımı",
+      "KONU": "5.  Chroma-Key uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Yeşil ekran uygulaması yapar.\nYeşil perde tekniğiyle çekilmiş görüntülerle video kurgu programında chroma-key uygulaması yapılması sağlanır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "ÜNİTE": "Biyografik Belgesel Kurgusu Yapımı",
+      "KONU": "1.   Görüntü ve Ses Düzenlemeleri Yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Seslendirme ve ses düzenlemeleri yapar.\nKurguda kullanılacak metinlerinin seslendirmesini ve düzenlemesini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Biyografik Belgesel Kurgusu Yapımı",
+      "KONU": "2.   Kaba Kurgu Yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Kaba kurgu yapar.\nZaman çizelgesinde görüntü ve sesler senaryoya ve dramatik yapıya uygun olarak montajlanır.\n   Yapımın toplam süresi göz önünde bulundurulması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Biyografik Belgesel Kurgusu Yapımı",
+      "KONU": "3.   Kurgu Estetiği İlkeleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Kurgu estetiğine ve amaca uygun kurgu yapar.\nFilm kurgusunda kullanılan bazı yöntemler uygulanır.\n   Görsel etkiyi arttırma yöntemleri açıklanır.\n   İlgi merkezi oluşturma yöntemleri açıklanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Biyografik Belgesel Kurgusu Yapımı",
+      "KONU": "4.   Temel Görüntü Geçiş Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Temel görüntü geçiş türlerini uygular. Senaryo ve dramatik yapıya uygun olarak temel görüntü geçiş türleri uygulanması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Biyografik Belgesel Kurgusu Yapımı",
+      "KONU": "5.   Efektli Geçiş Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Efektli geçiş türlerini uygular.\nSenaryo ve dramatik yapıya uygun olarak efektli geçiş türleri uygulanması sağlanır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "ÜNİTE": "Biyografik Belgesel Kurgusu Yapımı",
+      "KONU": "6.   Jenerik Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Jenerik hazırlar.\nGiriş ve bitiş jeneriği hazırlanması sağlanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Biyografik Belgesel Kurgusu Yapımı",
+      "KONU": "7.   Export çıktı Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Kurgu çalışmasını istenilen formatta export çıktı alır.\nKurgudaki görüntülerin medya etiğine ve hukuki düzenlemelere uygunluğunu gözetir."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Biyografik Belgesel Kurgusu Yapımı",
+      "KONU": "7.   Export çıktı Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Kurgu çalışmasını istenilen formatta export çıktı alır.\nKurgudaki görüntülerin medya etiğine ve hukuki düzenlemelere uygunluğunu gözetir."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Genel Tekrar",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

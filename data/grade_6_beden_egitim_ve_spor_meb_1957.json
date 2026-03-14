@@ -1,0 +1,380 @@
+{
+  "sinif": "6",
+  "ders": "BEDEN EĞİTİM VE SPOR (MEB)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+      "KONU": "Sağlıkla İlgili Fiziksel Uygunluk",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "BES.6.1.1. Sağlıkla ilgili fiziksel uygunluğu sağlayabilme\na Sağlıkla ilgili fiziksel uygunluk bileşenlerini açıklar. b Sağlıkla ilgili fiziksel uygunluk bileşenlerini içeren hareketleri uygular. c Sağlıkla ilgili fiziksel uygunluk bileşenlerini geliştirir.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+      "KONU": "Sağlıkla İlgili Fiziksel Uygunluk",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "BES.6.1.1. Sağlıkla ilgili fiziksel uygunluğu sağlayabilme\na Sağlıkla ilgili fiziksel uygunluk bileşenlerini açıklar. b Sağlıkla ilgili fiziksel uygunluk bileşenlerini içeren hareketleri uygular. c Sağlıkla ilgili fiziksel uygunluk bileşenlerini geliştirir.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+      "KONU": "Fiziksel Uygunluk ve Zindelik İlişkisi",
+      "KAZANIM": "BES.6.1.2. Fiziksel uygunluk ve zindelik arasındaki ilişkiyi çözümleyebilme\na Fiziksel uygunluk ve zindeliğe ilişkin parçaları belirler. b Fiziksel uygunluk ve zindelik arasındaki ilişkiyi belirler.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+      "KONU": "Fiziksel Uygunluk ve Zindelik İlişkisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "BES.6.1.2. Fiziksel uygunluk ve zindelik arasındaki ilişkiyi çözümleyebilme\na Fiziksel uygunluk ve zindeliğe ilişkin parçaları belirler. b Fiziksel uygunluk ve zindelik arasındaki ilişkiyi belirler.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+      "KONU": "Temel İlk Yardım Uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "BES.6.1.3. Fiziksel aktivite sırasında meydana gelebilecek yaralanmalarda temel ilk yardım uygulamalarını sergileyebilme\na Fiziksel aktivite sırasında meydana gelebilecek yaralanmalarda temel ilk yardım uygulamalarını algılar. b Fiziksel aktivite sırasında meydana gelebilecek yaralanmalarda temel ilk yardım uygulamalarını gösterir. c Fiziksel aktivite sırasında meydana gelebilecek farklı yaralanma durumlarında temel ilk yardımı uygular.\nren durumları fark eder.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "SAĞLIKLA İLGİLİ FİZİKSEL UYGUNLUK",
+      "KONU": "Fiziksel Aktiviteye Katılımı Destekleyen Teknolojiler",
+      "KAZANIM": "BES.6.1.4. Fiziksel aktiviteye katılımı destekleyen teknolojik araçları belirleyebilme\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "HEDEF OYUNLARI",
+      "KONU": "Hedef Oyunlarına İlişkin Kavramlar",
+      "KAZANIM": "BES.6.2.1. Hedef oyunlarına ilişkin hareket kavramlarını uygulayabilme\na Hedef oyunlarına ilişkin hareket kavramlarını ayırt eder. b Hedef oyunlarına ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar. c Hedef oyunlarına ilişkin hareket kavramlarına uygun hareket eder.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA",
+      "KONU": "OKUL TEMELLİ PLANLAMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "OKUL TEMELLİ PLANLAMA"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "HEDEF OYUNLARI",
+      "KONU": "Hedef Oyunlarına İlişkin Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "BES.6.2.1. Hedef oyunlarına ilişkin hareket kavramlarını uygulayabilme\na Hedef oyunlarına ilişkin hareket kavramlarını ayırt eder. b Hedef oyunlarına ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar. c Hedef oyunlarına ilişkin hareket kavramlarına uygun hareket eder.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. DÖNEM ARA TATİLİ 10- 14 Kasım 2025",
+      "KONU": "1. DÖNEM ARA TATİLİ 10- 14 Kasım 2025",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. DÖNEM ARA TATİLİ 10- 14 Kasım 2025"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "HEDEF OYUNLARI",
+      "KONU": "Hedef Oyunlarına İlişkin Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "BES.6.2.1. Hedef oyunlarına ilişkin hareket kavramlarını uygulayabilme\na Hedef oyunlarına ilişkin hareket kavramlarını ayırt eder. b Hedef oyunlarına ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar. c Hedef oyunlarına ilişkin hareket kavramlarına uygun hareket eder.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "HEDEF OYUNLARI",
+      "KONU": "Hedef Oyunlarına İlişkin Hareket Becerileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "BES.6.2.2. Hedef oyunlarına ilişkin hareket becerilerini sergileyebilme\na Hedef oyunlarına ilişkin hareket becerilerini algılar. b Hedef oyunlarına ilişkin hareket becerilerinin basamaklarını gösterir. c Hedef oyunlarına ilişkin hareket becerilerini farklı ortamlarda uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "HEDEF OYUNLARI",
+      "KONU": "Hedef Oyunlarına İlişkin Hareket Becerileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "BES.6.2.2. Hedef oyunlarına ilişkin hareket becerilerini sergileyebilme\na Hedef oyunlarına ilişkin hareket becerilerini algılar. b Hedef oyunlarına ilişkin hareket becerilerinin basamaklarını gösterir. c Hedef oyunlarına ilişkin hareket becerilerini farklı ortamlarda uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "HEDEF OYUNLARI",
+      "KONU": "Hedef Oyunlarına İlişkin Taktik ve Stratejiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "BES.6.2.3. Hedef oyunlarına ilişkin taktik ve strateji geliştirebilme\na Hedef oyunlarına ilişkin verilen taktiksel problemi belirler. b Hedef oyunlarına ilişkin verilen problemin çözümüne ilişkin öneri sunar. c Hedef oyunlarına ilişkin seçilen taktik ve stratejiyi uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "HEDEF OYUNLARI",
+      "KONU": "Hedef Oyunlarına İlişkin Taktik ve Stratejiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "BES.6.2.3. Hedef oyunlarına ilişkin taktik ve strateji geliştirebilme\na Hedef oyunlarına ilişkin verilen taktiksel problemi belirler. b Hedef oyunlarına ilişkin verilen problemin çözümüne ilişkin öneri sunar. c Hedef oyunlarına ilişkin seçilen taktik ve stratejiyi uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "SPOR ENGEL TANIMAZ",
+      "KONU": "Engelli Sporlarına İlişkin Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "BES.6.3.1. Engelli sporlarına ilişkin hareket kavramlarını uygulayabilme\na Engelli sporlarına ilişkin hareket kavramlarını ayırt eder. b Engelli sporlarına ilişkin hareket becerileri ve hareket kavramları arasında ilişki kurar. c Engelli sporlarına ilişkin hareket kavramlarına uygun hareket eder.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "SPOR ENGEL TANIMAZ",
+      "KONU": "Engelli Sporlarına İlişkin Hareket Becerileri",
+      "KAZANIM": "BES.6.3.2. Engelli sporlarına ilişkin hareket becerilerini sergileyebilme\na Engelli sporlarına ilişkin hareket becerilerini algılar. b Engelli sporlarına ilişkin hareket becerilerinin basamaklarını gösterir. c Engelli sporlarına ilişkin hareket becerilerini farklı ortamlarda uygular.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "SPOR ENGEL TANIMAZ",
+      "KONU": "Engelli Sporlarına İlişkin TaktikStratejiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "BES.6.3.3. Engelli sporlarına ilişkin taktik ve strateji geliştirebilme\na Engelli sporlarına ilişkin verilen taktiksel problemi belirler. b Engelli sporlarına ilişkin verilen problemin çözümüne ilişkin öneri sunar. c Engelli sporlarına ilişkin seçilen taktik ve stratejiyi uygular.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "SPOR ENGEL TANIMAZ",
+      "KONU": "Engelli Sporlarına İlişkin TaktikStratejiler",
+      "KAZANIM": "BES.6.3.3. Engelli sporlarına ilişkin taktik ve strateji geliştirebilme\na Engelli sporlarına ilişkin verilen taktiksel problemi belirler. b Engelli sporlarına ilişkin verilen problemin çözümüne ilişkin öneri sunar. c Engelli sporlarına ilişkin seçilen taktik ve stratejiyi uygular.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.2. Esneklik SDB3.3. Sorumlu Karar Verme\nOB4. Görsel Okuryazarlık"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "YARIYIL TATİLİ 19 Ocak - 30 Ocak 2026",
+      "KONU": "YARIYIL TATİLİ 19 Ocak - 30 Ocak 2026",
+      "KAZANIM": "YARIYIL TATİLİ 19 Ocak - 30 Ocak 2026"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "YARIYIL TATİLİ 19 Ocak - 30 Ocak 2026",
+      "KONU": "YARIYIL TATİLİ 19 Ocak - 30 Ocak 2026",
+      "KAZANIM": "YARIYIL TATİLİ 19 Ocak - 30 Ocak 2026"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+      "KONU": "Mustafa Kemal Atatürkün Spora Verdiği Önem",
+      "KAZANIM": "BES.6.4.1. Mustafa Kemal Atatürkün spora verdiği önemi yorumlayabilme\na Mustafa Kemal Atatürkün spora verdiği önemi inceler. b Mustafa Kemal Atatürkün spora verdiği önemi yorumlar. c Mustafa Kemal Atatürkün spora verdiği önemi yeniden ifade eder.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB2. Dijital Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB9. Sanat Okuryazarlığı"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+      "KONU": "Mustafa Kemal Atatürkün Spora Verdiği Önem",
+      "KAZANIM": "BES.6.4.1. Mustafa Kemal Atatürkün spora verdiği önemi yorumlayabilme\na Mustafa Kemal Atatürkün spora verdiği önemi inceler. b Mustafa Kemal Atatürkün spora verdiği önemi yorumlar. c Mustafa Kemal Atatürkün spora verdiği önemi yeniden ifade eder.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB2. Dijital Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB9. Sanat Okuryazarlığı"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+      "KONU": "Halk Oyunları",
+      "KAZANIM": "BES.6.4.2. Seçili halk oyununa ilişkin hareket becerilerini sergileyebilme\na Seçili halk oyununa ilişkin hareket becerilerini algılar. b Seçili halk oyununa ilişkin hareket becerilerinin basamaklarını gösterir. c Seçili halk oyununa ilişkin hareket becerilerini uygular.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB2. Dijital Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB9. Sanat Okuryazarlığı"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+      "KONU": "Halk Oyunları",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "BES.6.4.2. Seçili halk oyununa ilişkin hareket becerilerini sergileyebilme\na Seçili halk oyununa ilişkin hareket becerilerini algılar. b Seçili halk oyununa ilişkin hareket becerilerinin basamaklarını gösterir. c Seçili halk oyununa ilişkin hareket becerilerini uygular.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB2. Dijital Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB9. Sanat Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+      "KONU": "Halk Oyunları",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "BES.6.4.2. Seçili halk oyununa ilişkin hareket becerilerini sergileyebilme\na Seçili halk oyununa ilişkin hareket becerilerini algılar. b Seçili halk oyununa ilişkin hareket becerilerinin basamaklarını gösterir. c Seçili halk oyununa ilişkin hareket becerilerini uygular.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB2. Dijital Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB9. Sanat Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "KÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+      "KONU": "Geleneksel Oyunlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "BES.6.4.3. Geleneksel oyunlara ilişkin hareket becerilerini sergileyebilme\na Geleneksel oyunlara ilişkin hareket becerilerini algılar. b Geleneksel oyunlara ilişkin hareket becerilerinin basamaklarını gösterir. c Geleneksel oyunlara ilişkin hareket becerilerini farklı ortamlarda uygular.\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB2. Dijital Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB9. Sanat Okuryazarlığı"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. DÖNEM ARA TATİLİ 16-20 MART 2026",
+      "KONU": "2. DÖNEM ARA TATİLİ 16-20 MART 2026",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. DÖNEM ARA TATİLİ 16-20 MART 2026"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "RAMAZAN BAYRAMI 19-20-21 VE 22 MART 2026\nKÜLTÜREL BİRİKİMLERİMİZ VE OYUN",
+      "KONU": "RAMAZAN BAYRAMI 19-20-21 VE 22 MART 2026\nGeleneksel Oyunlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "RAMAZAN BAYRAMI 19-20-21 VE 22 MART 2026\nBES.6.4.3. Geleneksel oyunlara ilişkin hareket becerilerini sergileyebilme\nRAMAZAN BAYRAMI 19-20-21 VE 22 MART 2026\na Geleneksel oyunlara ilişkin hareket becerilerini algılar. b Geleneksel oyunlara ilişkin hareket becerilerinin basamaklarını gösterir. c Geleneksel oyunlara ilişkin hareket becerilerini farklı ortamlarda uygular.\nRAMAZAN BAYRAMI 19-20-21 VE 22 MART 2026\nSDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nRAMAZAN BAYRAMI 19-20-21 VE 22 MART 2026\nOB2. Dijital Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB9. Sanat Okuryazarlığı"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunlarında Güvenli Ortam",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "BES.6.5.1. Hücum oyunlarında güvenli ortam oluşturabilme\na Hücum oyunları oynarken oluşabilecek riskleri tanımlar. b Hücum oyunları oynarken oluşabilecek risklere ilişkin önleyici tedbirler alır.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunlarına İlişkin Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "BES.6.5.2. Hücum oyunlarına ilişkin hareket kavramlarını uygulayabilme\na Hücum oyunlarına ilişkin hareket kavramlarını ayırt eder. b Hücum oyunlarına ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar. c Hücum oyunlarına ilişkin hareket kavramına uygun hareket eder.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunlarına İlişkin Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "BES.6.5.2. Hücum oyunlarına ilişkin hareket kavramlarını uygulayabilme\na Hücum oyunlarına ilişkin hareket kavramlarını ayırt eder. b Hücum oyunlarına ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar. c Hücum oyunlarına ilişkin hareket kavramına uygun hareket eder.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunlarına İlişkin Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "BES.6.5.2. Hücum oyunlarına ilişkin hareket kavramlarını uygulayabilme\na Hücum oyunlarına ilişkin hareket kavramlarını ayırt eder. b Hücum oyunlarına ilişkin hareket becerileri ile hareket kavramları arasında ilişki kurar. c Hücum oyunlarına ilişkin hareket kavramına uygun hareket eder.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunları İlişkin Beceriler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "BES.6.5.3. Hücum oyunlarına ilişkin hareket becerilerini sergileyebilme\na Hücum oyunlarına ilişkin hareket becerilerini algılar. b Hücum oyunlarına ilişkin hareket becerilerinin basamaklarını gösterir. c Hücum oyunlarına ilişkin hareket becerilerini farklı ortamlarda uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunları İlişkin Beceriler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "BES.6.5.3. Hücum oyunlarına ilişkin hareket becerilerini sergileyebilme\na Hücum oyunlarına ilişkin hareket becerilerini algılar. b Hücum oyunlarına ilişkin hareket becerilerinin basamaklarını gösterir. c Hücum oyunlarına ilişkin hareket becerilerini farklı ortamlarda uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunları İlişkin Beceriler",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "BES.6.5.3. Hücum oyunlarına ilişkin hareket becerilerini sergileyebilme\na Hücum oyunlarına ilişkin hareket becerilerini algılar. b Hücum oyunlarına ilişkin hareket becerilerinin basamaklarını gösterir. c Hücum oyunlarına ilişkin hareket becerilerini farklı ortamlarda uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunları İlişkin Taktik ve Stratejiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "BES.6.5.4. Hücum oyunlarına ilişkin taktik ve strateji geliştirebilme\na Hücum oyunlarına ilişkin verilen taktiksel problemi belirler. b Hücum oyunlarına ilişkin verilen problemin çözümüne ilişkin öneri sunar. c Hücum oyunlarına ilişkin seçilen taktik veya stratejiyi uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "KURBAN BAYRAMI 26-27-28-29 VE 30 MAYIS 2026",
+      "KONU": "KURBAN BAYRAMI 26-27-28-29 VE 30 MAYIS 2026",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "KURBAN BAYRAMI 26-27-28-29 VE 30 MAYIS 2026"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA",
+      "KONU": "OKUL TEMELLİ PLANLAMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "OKUL TEMELLİ PLANLAMA"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunları İlişkin Taktik ve Stratejiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "BES.6.5.4. Hücum oyunlarına ilişkin taktik ve strateji geliştirebilme\na Hücum oyunlarına ilişkin verilen taktiksel problemi belirler. b Hücum oyunlarına ilişkin verilen problemin çözümüne ilişkin öneri sunar. c Hücum oyunlarına ilişkin seçilen taktik veya stratejiyi uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "HÜCUM OYUNLARI",
+      "KONU": "Hücum Oyunları İlişkin Taktik ve Stratejiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "BES.6.5.4. Hücum oyunlarına ilişkin taktik ve strateji geliştirebilme\na Hücum oyunlarına ilişkin verilen taktiksel problemi belirler. b Hücum oyunlarına ilişkin verilen problemin çözümüne ilişkin öneri sunar. c Hücum oyunlarına ilişkin seçilen taktik veya stratejiyi uygular.\nSDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.2. İş Birliği SDB3.1. Uyum SDB3.3. Sorumlu Karar Verme\nOB7. Veri Okuryazarlığı"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "SOSYAL ETKİNLİK",
+      "KONU": "SOSYAL ETKİNLİK",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "SOSYAL ETKİNLİK"
+    },
+    {
+      "KONU": "Okul temelli planlama zumre öğretmenler kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştırılan araştırma ve gözlem sosyal etkinlikler proje çalışmaları yerel çalışmalar okuma çalışmaları vb. çalışmaları kapsamaktadır. Çalışmalar için ayrılan sure eğitim-öğretim yılı içinde planlanır ve YILLIK planlarda ifade edilir. Bu planlamalar kapsamında yurutulecek öğretim faaliyetleri öğrenci katılımını desteklemeli yaparak ve yaşayarak öğrenmeye olanak tanımalı öğrencinin butuncul gelişimine hizmet etmelidir. Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Planlama zümre öğretmenler kurulunda alınan kararlara göre okul ve ders koşulları göz önünde bulundurularak yapılmalıdır."
+    },
+    {
+      "KONU": "** Bu YILLIK plan; 19.09.2022 tarih ve 58168473 sayılı \"Millî Eğitim Bakanlığı Eğitim Öğretim Çalışmalarının Planlı Yürütülmesine İlişkin Yönerge\", 2104 sayılı Tebliğler Dergisi, İlköğretim ve Ortaöğretim Kurumlarında Atatürk İNKILAP ve İlkelerinin Öğretim Esasları Yönergesi, Talim ve\nTerbiye Kurulu'nun 23.05.2024 tarih ve 20 sayılı Kurul Kararı eki, Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni, \"M.E.B. 2024-2025 Eğitim ve Öğretim Yılı Çalışma Takvimi Genelgesi\" ile Talim ve Terbiye Kurulu'nun 24.08.2023 tarih ve 43 sayılı Kurul Kararı eki esas\nalınarak hazırlanmıştır.\n** ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır."
+    }
+  ]
+}

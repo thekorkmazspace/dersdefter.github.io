@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "ELEKTṘKL̇ MOTOṠKLETLER (MESEM MOTORLA ARAÇLAR)(YEN*)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım DC devre ölçüm ve hesaplamaları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım DC devrelerinde ölçüm ve hesaplamaları hatasız yapar.\nDoğru akımı DC açıklar.\n Doğru akımın elde edilmesi açıklar.\n Doğru akımın kullanıldığı yerleri açıklar.\n Ohm kanununu açıklar.\n Ohm kanununu formüllerini açıklar.\n Ohm kanunu ile akım gerilim direnç hesaplarını açıklar.\n Seri devre özelliklerini açıklar.\n Kirşof gerilimler kanununu açıklar.\n Kirşof gerilimler kanununu ile devre hesaplamalarını açıklar.\n Paralel devre özelliklerini açıklar.\n Kirşof akımlar kanunu açıklar.\n Kirşof akımlar kanununu ile devre hesaplamalarını açıklar.\n Karışık devrelerde eşdeğer direnç kol akımı ve alıcı üzerindeki gerilimlerin hesaplamasını açıklar.\n Çevre akımları yöntemi ile devre çözümlerini açıklar.\n Bobinin doğru akımda kullanımını akım davranışını açıklar.\n Bobinin seri paralel karışık bağlantısında endüktans hesaplarını açıklar.\n Kondansatörün doğru akımda kullanıldığı yerleri şarj deşarjını ve kapasite hesabını açıklar.\n Kondansatörün zaman sabitesini açıklar.\n Kondansatörlerin seri paralel karışık bağlantısında kapasite hesabını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım DC devre ölçüm ve hesaplamaları.",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım DC devrelerinde ölçüm ve hesaplamaları hatasız yapar.\nDoğru akımı DC açıklar.\n Doğru akımın elde edilmesi açıklar.\n Doğru akımın kullanıldığı yerleri açıklar.\n Ohm kanununu açıklar.\n Ohm kanununu formüllerini açıklar.\n Ohm kanunu ile akım gerilim direnç hesaplarını açıklar.\n Seri devre özelliklerini açıklar.\n Kirşof gerilimler kanununu açıklar.\n Kirşof gerilimler kanununu ile devre hesaplamalarını açıklar.\n Paralel devre özelliklerini açıklar.\n Kirşof akımlar kanunu açıklar.\n Kirşof akımlar kanununu ile devre hesaplamalarını açıklar.\n Karışık devrelerde eşdeğer direnç kol akımı ve alıcı üzerindeki gerilimlerin hesaplamasını açıklar.\n Çevre akımları yöntemi ile devre çözümlerini açıklar.\n Bobinin doğru akımda kullanımını akım davranışını açıklar.\n Bobinin seri paralel karışık bağlantısında endüktans hesaplarını açıklar.\n Kondansatörün doğru akımda kullanıldığı yerleri şarj deşarjını ve kapasite hesabını açıklar.\n Kondansatörün zaman sabitesini açıklar.\n Kondansatörlerin seri paralel karışık bağlantısında kapasite hesabını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım DC devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım DC devrelerinde ölçüm ve hesaplamaları hatasız yapar.\nDoğru akımı DC açıklar.\n Doğru akımın elde edilmesi açıklar.\n Doğru akımın kullanıldığı yerleri açıklar.\n Ohm kanununu açıklar.\n Ohm kanununu formüllerini açıklar.\n Ohm kanunu ile akım gerilim direnç hesaplarını açıklar.\n Seri devre özelliklerini açıklar.\n Kirşof gerilimler kanununu açıklar.\n Kirşof gerilimler kanununu ile devre hesaplamalarını açıklar.\n Paralel devre özelliklerini açıklar.\n Kirşof akımlar kanunu açıklar.\n Kirşof akımlar kanununu ile devre hesaplamalarını açıklar.\n Karışık devrelerde eşdeğer direnç kol akımı ve alıcı üzerindeki gerilimlerin hesaplamasını açıklar.\n Çevre akımları yöntemi ile devre çözümlerini açıklar.\n Bobinin doğru akımda kullanımını akım davranışını açıklar.\n Bobinin seri paralel karışık bağlantısında endüktans hesaplarını açıklar.\n Kondansatörün doğru akımda kullanıldığı yerleri şarj deşarjını ve kapasite hesabını açıklar.\n Kondansatörün zaman sabitesini açıklar.\n Kondansatörlerin seri paralel karışık bağlantısında kapasite hesabını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım DC devre ölçüm ve hesaplamaları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım DC devrelerinde ölçüm ve hesaplamaları hatasız yapar.\nDoğru akımı DC açıklar.\n Doğru akımın elde edilmesi açıklar.\n Doğru akımın kullanıldığı yerleri açıklar.\n Ohm kanununu açıklar.\n Ohm kanununu formüllerini açıklar.\n Ohm kanunu ile akım gerilim direnç hesaplarını açıklar.\n Seri devre özelliklerini açıklar.\n Kirşof gerilimler kanununu açıklar.\n Kirşof gerilimler kanununu ile devre hesaplamalarını açıklar.\n Paralel devre özelliklerini açıklar.\n Kirşof akımlar kanunu açıklar.\n Kirşof akımlar kanununu ile devre hesaplamalarını açıklar.\n Karışık devrelerde eşdeğer direnç kol akımı ve alıcı üzerindeki gerilimlerin hesaplamasını açıklar.\n Çevre akımları yöntemi ile devre çözümlerini açıklar.\n Bobinin doğru akımda kullanımını akım davranışını açıklar.\n Bobinin seri paralel karışık bağlantısında endüktans hesaplarını açıklar.\n Kondansatörün doğru akımda kullanıldığı yerleri şarj deşarjını ve kapasite hesabını açıklar.\n Kondansatörün zaman sabitesini açıklar.\n Kondansatörlerin seri paralel karışık bağlantısında kapasite hesabını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım DC devre ölçüm ve hesaplamaları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım DC devrelerinde ölçüm ve hesaplamaları hatasız yapar.\nDoğru akımı DC açıklar.\n Doğru akımın elde edilmesi açıklar.\n Doğru akımın kullanıldığı yerleri açıklar.\n Ohm kanununu açıklar.\n Ohm kanununu formüllerini açıklar.\n Ohm kanunu ile akım gerilim direnç hesaplarını açıklar.\n Seri devre özelliklerini açıklar.\n Kirşof gerilimler kanununu açıklar.\n Kirşof gerilimler kanununu ile devre hesaplamalarını açıklar.\n Paralel devre özelliklerini açıklar.\n Kirşof akımlar kanunu açıklar.\n Kirşof akımlar kanununu ile devre hesaplamalarını açıklar.\n Karışık devrelerde eşdeğer direnç kol akımı ve alıcı üzerindeki gerilimlerin hesaplamasını açıklar.\n Çevre akımları yöntemi ile devre çözümlerini açıklar.\n Bobinin doğru akımda kullanımını akım davranışını açıklar.\n Bobinin seri paralel karışık bağlantısında endüktans hesaplarını açıklar.\n Kondansatörün doğru akımda kullanıldığı yerleri şarj deşarjını ve kapasite hesabını açıklar.\n Kondansatörün zaman sabitesini açıklar.\n Kondansatörlerin seri paralel karışık bağlantısında kapasite hesabını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "1. Doğru akım DC devre ölçüm ve hesaplamaları.",
+      "KAZANIM": "Uygun yöntem ve formülleri kullanarak doğru akım DC devrelerinde ölçüm ve hesaplamaları hatasız yapar.\nDoğru akımı DC açıklar.\n Doğru akımın elde edilmesi açıklar.\n Doğru akımın kullanıldığı yerleri açıklar.\n Ohm kanununu açıklar.\n Ohm kanununu formüllerini açıklar.\n Ohm kanunu ile akım gerilim direnç hesaplarını açıklar.\n Seri devre özelliklerini açıklar.\n Kirşof gerilimler kanununu açıklar.\n Kirşof gerilimler kanununu ile devre hesaplamalarını açıklar.\n Paralel devre özelliklerini açıklar.\n Kirşof akımlar kanunu açıklar.\n Kirşof akımlar kanununu ile devre hesaplamalarını açıklar.\n Karışık devrelerde eşdeğer direnç kol akımı ve alıcı üzerindeki gerilimlerin hesaplamasını açıklar.\n Çevre akımları yöntemi ile devre çözümlerini açıklar.\n Bobinin doğru akımda kullanımını akım davranışını açıklar.\n Bobinin seri paralel karışık bağlantısında endüktans hesaplarını açıklar.\n Kondansatörün doğru akımda kullanıldığı yerleri şarj deşarjını ve kapasite hesabını açıklar.\n Kondansatörün zaman sabitesini açıklar.\n Kondansatörlerin seri paralel karışık bağlantısında kapasite hesabını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.\nDoğru akım kaynaklarını sıralar.\n Kaynakların seri ve paralel bağlantı şartlarını açıklar.\n Kaynakların seri ve paralel bağlantı iç direnç ve akım hesaplarını açıklar.\n Doğru akım kaynakları kullanırken dikkat edilecek hususları sıralar.\n Pillerin yapısını açıklar.\n Pillerin çeşitlerini açıklar.\n Pil iç direncini açıklar.\n Pillerde elektromotor kuvvet EMK güç ve verimi açıklar.\n Aküleri açıklar.\n Akü çeşitlerini sıralar.\n Akü kapasitelerini açıklar.\n Dinamoları açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.\nDoğru akım kaynaklarını sıralar.\n Kaynakların seri ve paralel bağlantı şartlarını açıklar.\n Kaynakların seri ve paralel bağlantı iç direnç ve akım hesaplarını açıklar.\n Doğru akım kaynakları kullanırken dikkat edilecek hususları sıralar.\n Pillerin yapısını açıklar.\n Pillerin çeşitlerini açıklar.\n Pil iç direncini açıklar.\n Pillerde elektromotor kuvvet EMK güç ve verimi açıklar.\n Aküleri açıklar.\n Akü çeşitlerini sıralar.\n Akü kapasitelerini açıklar.\n Dinamoları açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.\nDoğru akım kaynaklarını sıralar.\n Kaynakların seri ve paralel bağlantı şartlarını açıklar.\n Kaynakların seri ve paralel bağlantı iç direnç ve akım hesaplarını açıklar.\n Doğru akım kaynakları kullanırken dikkat edilecek hususları sıralar.\n Pillerin yapısını açıklar.\n Pillerin çeşitlerini açıklar.\n Pil iç direncini açıklar.\n Pillerde elektromotor kuvvet EMK güç ve verimi açıklar.\n Aküleri açıklar.\n Akü çeşitlerini sıralar.\n Akü kapasitelerini açıklar.\n Dinamoları açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.\nDoğru akım kaynaklarını sıralar.\n Kaynakların seri ve paralel bağlantı şartlarını açıklar.\n Kaynakların seri ve paralel bağlantı iç direnç ve akım hesaplarını açıklar.\n Doğru akım kaynakları kullanırken dikkat edilecek hususları sıralar.\n Pillerin yapısını açıklar.\n Pillerin çeşitlerini açıklar.\n Pil iç direncini açıklar.\n Pillerde elektromotor kuvvet EMK güç ve verimi açıklar.\n Aküleri açıklar.\n Akü çeşitlerini sıralar.\n Akü kapasitelerini açıklar.\n Dinamoları açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.\nDoğru akım kaynaklarını sıralar.\n Kaynakların seri ve paralel bağlantı şartlarını açıklar.\n Kaynakların seri ve paralel bağlantı iç direnç ve akım hesaplarını açıklar.\n Doğru akım kaynakları kullanırken dikkat edilecek hususları sıralar.\n Pillerin yapısını açıklar.\n Pillerin çeşitlerini açıklar.\n Pil iç direncini açıklar.\n Pillerde elektromotor kuvvet EMK güç ve verimi açıklar.\n Aküleri açıklar.\n Akü çeşitlerini sıralar.\n Akü kapasitelerini açıklar.\n Dinamoları açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "2. Doğru akım kaynağı bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Polarite ve gerilim değerlerine uygun olarak doğru akım kaynağı bağlantılarını hatasız yapar.\nDoğru akım kaynaklarını sıralar.\n Kaynakların seri ve paralel bağlantı şartlarını açıklar.\n Kaynakların seri ve paralel bağlantı iç direnç ve akım hesaplarını açıklar.\n Doğru akım kaynakları kullanırken dikkat edilecek hususları sıralar.\n Pillerin yapısını açıklar.\n Pillerin çeşitlerini açıklar.\n Pil iç direncini açıklar.\n Pillerde elektromotor kuvvet EMK güç ve verimi açıklar.\n Aküleri açıklar.\n Akü çeşitlerini sıralar.\n Akü kapasitelerini açıklar.\n Dinamoları açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Doğru akım motor bağlantılarını bağlantı şemasına uygun olarak hatasız yapar.\nElektromanyetizmayı açıklar.\n Doğru akım geçen iletken etrafında oluşan manyetik alanı açıklar.\n Doğru akım geçen bobin etrafında oluşan manyetik alanı açıklar.\n İçinden akım geçen iletkenin manyetik alan içindeki durumunu açıklar.\n Manyetik alan içerisinde bulunan iletkenin hareketini açıklar.\n Doğru akım motorunun çeşitlerini açıklar.\n Doğru akım motorlarının temel çalışma prensibini açıklar.\n Doğru akım motorun devir yönü değişimini açıklar.\n Doğru akım motorunun devir sayısı değişimini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Doğru akım motor bağlantılarını bağlantı şemasına uygun olarak hatasız yapar.\nElektromanyetizmayı açıklar.\n Doğru akım geçen iletken etrafında oluşan manyetik alanı açıklar.\n Doğru akım geçen bobin etrafında oluşan manyetik alanı açıklar.\n İçinden akım geçen iletkenin manyetik alan içindeki durumunu açıklar.\n Manyetik alan içerisinde bulunan iletkenin hareketini açıklar.\n Doğru akım motorunun çeşitlerini açıklar.\n Doğru akım motorlarının temel çalışma prensibini açıklar.\n Doğru akım motorun devir yönü değişimini açıklar.\n Doğru akım motorunun devir sayısı değişimini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Doğru akım motor bağlantılarını bağlantı şemasına uygun olarak hatasız yapar.\nElektromanyetizmayı açıklar.\n Doğru akım geçen iletken etrafında oluşan manyetik alanı açıklar.\n Doğru akım geçen bobin etrafında oluşan manyetik alanı açıklar.\n İçinden akım geçen iletkenin manyetik alan içindeki durumunu açıklar.\n Manyetik alan içerisinde bulunan iletkenin hareketini açıklar.\n Doğru akım motorunun çeşitlerini açıklar.\n Doğru akım motorlarının temel çalışma prensibini açıklar.\n Doğru akım motorun devir yönü değişimini açıklar.\n Doğru akım motorunun devir sayısı değişimini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motor bağlantılarını bağlantı şemasına uygun olarak hatasız yapar.\nElektromanyetizmayı açıklar.\n Doğru akım geçen iletken etrafında oluşan manyetik alanı açıklar.\n Doğru akım geçen bobin etrafında oluşan manyetik alanı açıklar.\n İçinden akım geçen iletkenin manyetik alan içindeki durumunu açıklar.\n Manyetik alan içerisinde bulunan iletkenin hareketini açıklar.\n Doğru akım motorunun çeşitlerini açıklar.\n Doğru akım motorlarının temel çalışma prensibini açıklar.\n Doğru akım motorun devir yönü değişimini açıklar.\n Doğru akım motorunun devir sayısı değişimini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Doğru akım motor bağlantılarını bağlantı şemasına uygun olarak hatasız yapar.\nElektromanyetizmayı açıklar.\n Doğru akım geçen iletken etrafında oluşan manyetik alanı açıklar.\n Doğru akım geçen bobin etrafında oluşan manyetik alanı açıklar.\n İçinden akım geçen iletkenin manyetik alan içindeki durumunu açıklar.\n Manyetik alan içerisinde bulunan iletkenin hareketini açıklar.\n Doğru akım motorunun çeşitlerini açıklar.\n Doğru akım motorlarının temel çalışma prensibini açıklar.\n Doğru akım motorun devir yönü değişimini açıklar.\n Doğru akım motorunun devir sayısı değişimini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Esasları",
+      "KONU": "3. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motor bağlantılarını bağlantı şemasına uygun olarak hatasız yapar.\nElektromanyetizmayı açıklar.\n Doğru akım geçen iletken etrafında oluşan manyetik alanı açıklar.\n Doğru akım geçen bobin etrafında oluşan manyetik alanı açıklar.\n İçinden akım geçen iletkenin manyetik alan içindeki durumunu açıklar.\n Manyetik alan içerisinde bulunan iletkenin hareketini açıklar.\n Doğru akım motorunun çeşitlerini açıklar.\n Doğru akım motorlarının temel çalışma prensibini açıklar.\n Doğru akım motorun devir yönü değişimini açıklar.\n Doğru akım motorunun devir sayısı değişimini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "1. Doğru akım motor bağlantıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Doğru akım motorlarının bağlantılarını yapar.\nDoğru akım motor çeşitlerini sıralar.\n Doğru akım motorlarının yapısını açıklar.\n Doru akım motorlarının çalışma prensibini açıklar.\n Bağlantı yaparken kullanılan araç gereçleri listeler.\n Bağlantı şemalarını açıklar.\n Şebeke bağlantısı yapma ile ilgili işlem basamaklarını sıralar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Doğru Akım Motorları",
+      "KONU": "2. Doğru akım motorlarının devir sayısı.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Doğru akım motorlarının devir sayısını ayarlar.\nDoğru akım motorlarında devir ayar yöntemlerini açıklar.\n Doğru akım motorlarında devir yönü değişimini açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

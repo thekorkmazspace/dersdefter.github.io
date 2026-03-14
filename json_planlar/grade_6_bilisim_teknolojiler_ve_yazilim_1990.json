@@ -1,0 +1,374 @@
+{
+  "sinif": "6",
+  "ders": "BİLİŞİM TEKNOLOJİLER VE YAZILIM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 1 BİLİŞİM TEKNOLOJİLERİ",
+      "KONU": "1. Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "BT.6.1.1.1. Bilişim teknolojilerinin günlük yaşamdaki önemini değerlendirir. BT.6.1.1.2. Bilgisayarların akıllı davranış modellerini kullanma biçimlerini açıklar. BT.6.1.1.3. Bilişim teknolojilerinin BEDEN ve ruh sağlığına etkilerini yorumlar. BT. 6.1.1.4. Bilişim teknolojilerinin sosyal ve kültürel hayata katkılarını ve risklerini örnekler üzerinden tartışır"
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 1 BİLİŞİM TEKNOLOJİLERİ",
+      "KONU": "2. Bilgisayar Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "BT.6.1.2.1. İşletim sistemi kavramını açıklar. BT.6.1.2.2. İşletim sistemlerinin bileşenlerinin görevlerini kavrar. BT.6.1.2.3. Farklı işletim sistemlerini karşılaştırır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 1 BİLİŞİM TEKNOLOJİLERİ",
+      "KONU": "3. Dosya Yönetimi",
+      "KAZANIM": "BT.6.1.3.1. Dosya uzantılarına göre dosyaların temel özelliklerini tanımlar. BT.6.1.3.2. Basılı ortamdaki verileri elektronik ortama aktarır. BT.6.1.3.3. Elektronik ortamdaki verilerin sınıflanması ve saklanması için doğru yaklaşımları uygular. BT.6.1.3.4. Dosya ve klasör sıkıştırma işlemlerini yapar. BT.6.1.3.5. Dosyaların saklanması ve dosyalara erişilmesi konusunda strateji geliştirir."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 2 ETİK VE GÜVENLİK",
+      "KONU": "1. Etik Değerler",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "BT.6.2.1.1. İnternet etiğinin önemini ifade eder. BT.6.2.1.2. Etik ilkelerin ihlali sonucunda karşılaşılabilecek durumlara örnekler verir. BT.6.2.1.3. Siber zorbalık kavramını açıklayarak korunma amacıyla alınabilecek önlemleri tartışır.\nBT.6.2.1.4. Telif hakkı kavramını ve önemini araştırır. BT.6.2.1.5. Kullanım haklarını düzenleyen lisans türlerini açıklar. BT.6.2.1.6. Bilişim suçlarının neler olduğunu tanımlayarak ilgili kanunları özetler. BT.6.2.1.7. Bilişim suçlarına karşı alınabilecek önlemler ve stratejiler geliştirir."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 2 ETİK VE GÜVENLİK",
+      "KONU": "2. Dijital Vatandaşlık",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "BT.6.2.2.1. Dijital paylaşımların kendisi ve başkaları üzerindeki etkilerini fark eder. BT.6.2.2.2. Bilişsel ve ahlaki gelişimine uygun olan dijital oyun ve içerikleri ayırt eder."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 2 ETİK VE GÜVENLİK",
+      "KONU": "3. Gizlilik ve Güvenlik",
+      "KAZANIM": "BT.6.2.3.1. Bilişim teknolojilerinin kullanımında gizlilik ve güvenlik boyutlarının önemini tartışır. BT.6.2.3.2. Güvenlik açıklarının oluşumu konusunda yorum yapar. BT.6.2.3.3. Bilgi koruma yöntemlerini ifade eder. BT.6.2.3.4. Bilgi paylaşımı sürecinde olası riskleri değerlendirerek alınabilecek önlemleri tartışır. BT.6.2.3.5. Zararlı yazılımları kavrar. BT.6.2.3.6. Güvenlik yazılımlarının kullanım amaçlarını açıklar."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 3 İLETİŞİM ARAŞTIRMA VE İŞ BİRLİĞİ",
+      "KONU": "1. Bilgisayar Ağları",
+      "KAZANIM": "BT.6.3.1.1. Ağ kurmak için gerekli bileşenleri ve bileşenlerin özelliklerini açıklar. BT.6.3.1.2. Bir ağdan dosya ve yazıcı paylaşımı yapar. BT.6.3.1.3. Bilgisayar ağlarının boyutlarına ve bileşenlerine ilişkin farklılıkların nedenlerini tartışır."
+    },
+    {
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 3 İLETİŞİM ARAŞTIRMA VE İŞ BİRLİĞİ",
+      "KONU": "2. Araştırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "BT.6.3.2.1. Arama motorlarını kullanarak ileri düzeyde araştırma yapar. BT.6.3.2.2. Bilgiye ulaşırken zararlı ve gereksiz içerikleri ayırt ederBT.6.3.2.1. Arama motorlarını kullanarak ileri düzeyde araştırma yapar. BT.6.3.2.2. Bilgiye ulaşırken zararlı ve gereksiz içerikleri ayırt eder. BT.6.3.2.3. Bilgi yönetimi kavramını ve önemini ifade eder. BT.6.3.2.4. EBA kullanılarak farklı içeriklere erişim sağlar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 3 İLETİŞİM ARAŞTIRMA VE İŞ BİRLİĞİ",
+      "KONU": "3. İletişim Teknolojileri ve İş Birliği",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "BT.6.3.3.1. Farklı ve eş zamanlı iletişim sürecini kavrar. BT.6.3.3.2. Farklı ve eş zamanlı olarak kullanılan iletişim teknolojilerini sınıflandırır. BT.6.3.3.3. Forum ve sohbet araçlarını listeler. BT.6.3.3.4. Sesli ve görüntülü iletişim araçlarını listeler. BT.6.3.3.5. İletişim süreci açısından araçlar arasındaki farklılıkları tartışır. BT.6.3.3.6. İhtiyaca göre doğru iletişim aracını seçerek etkili biçimde kullanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "Ara Tatil",
+      "KONU": "Ara Tatil",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "Ara Tatil"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 4 ÜRÜN OLUŞTURMA",
+      "KONU": "1. Tablolama Programları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "BT.6.4.1.1. Tablolama programının arayüzünü ve özelliklerini tanıyarak amaca uygun bir tablo oluşturur."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 4 ÜRÜN OLUŞTURMA",
+      "KONU": "1. Tablolama Programları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "BT.6.4.1.2. Belirli bir amaç için oluşturduğu tabloyu biçimlendirir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 4 ÜRÜN OLUŞTURMA",
+      "KONU": "1. Tablolama Programları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "BT.6.4.1.3. Oluşturduğu tablo üzerinde hesaplama işlemleri yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 4 ÜRÜN OLUŞTURMA",
+      "KONU": "1. Tablolama Programları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "BT.6.4.1.4. Tablodaki verilere filtre uygular. BT.6.4.1.5. Amaca uygun grafik türlerini kullanarak veriyi görselleştirir"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 4 ÜRÜN OLUŞTURMA",
+      "KONU": "1. Tablolama Programları",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "BT.6.4.1.6. Farklı tablolama programlarını keşfeder. BT.6.4.1.7. İş birliğine dayalı olarak oluşturduğu belgeyi paylaşır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 4 ÜRÜN OLUŞTURMA",
+      "KONU": "2. Ses ve Video İşleme Programları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "BT.6.4.2.1. Ses ve video dosya biçimlerini bilir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 4 ÜRÜN OLUŞTURMA",
+      "KONU": "2. Ses ve Video İşleme Programları",
+      "KAZANIM": "BT.6.4.2.2. Ses ve video dosyalarını düzenleyebileceği yazılımları kullanır. BT6.4.2.3. Ses dosyaları ile ilgili düzenleme işlemlerini yürütür."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 4 ÜRÜN OLUŞTURMA",
+      "KONU": "2. Ses ve Video İşleme Programları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "BT.6.4.3.4. Video dosyaları ile ilgili düzenleme işlemlerini yürütür. BT.6.4.3.5. İş birliğine dayalı olarak oluşturduğu video dosyasını çevrimiçi ortamda paylaşır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "SOSYAL ETKİNLİK",
+      "KONU": "SOSYAL ETKİNLİK",
+      "KAZANIM": "SOSYAL ETKİNLİK"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
+      "KAZANIM": "BT.6.5.1.3. Bir problemi alt problemlere böler. BT.6.5.1.4. Temel fonksiyonları problem çözme sürecinde kullanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
+      "KAZANIM": "BT.6.5.1.5. Problemin çözümü için bir algoritma geliştirir. BT.6.5.1.6. Bir algoritmanın çözümünü test eder."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
+      "KAZANIM": "BT.6.5.1.7. Farklı algoritmaları inceleyerek en hızlı ve doğru çözümü seçer. BT.6.5.1.8. Hatalı bir algoritmayı doğru çalışacak biçimde düzenler."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "BT.6.5.1.9. Problemin çözümünü benzer problemler için geneller. BT.6.5.1.10. Matematik ve bilgisayar bilimi arasındaki ilişkiyi tartışır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "1. Problem Çözme Kavramları ve Yaklaşımları",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "BT.6.5.1.10. Matematik ve bilgisayar bilimi arasındaki ilişkiyi tartışır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "BT.6.5.2.1. Blok tabanlı programlama aracının arayüzünü ve özelliklerini tanır BT.6.5.2.2. Blok tabanlı programlama aracında sunulan bir programın işlevlerini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "Ara Tatil",
+      "KONU": "Ara Tatil",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "Ara Tatil"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "BT.6.5.2.3. Blok tabanlı programlama aracında sunulan bir programın hatalarını ayıklar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "BT.6.5.2.4. Blok tabanlı programlama aracında sunulan bir programı verilen ölçütlere göre geliştirerek düzenler."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "BT.6.5.2.5. Doğrusal mantık yapısını içeren programlar oluşturur."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "BT.6.5.2.6. Doğrusal mantık yapısını içeren programları test ederek hatalarını ayıklar."
+    },
+    {
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "BT.6.5.2.7. Karar yapısını içeren programlar oluşturur. BT.6.5.2.8. Karar yapısını içeren programları test ederek hatalarını ayıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "BT.6.5.2.9. Çoklu karar yapıları içeren programlar oluşturur. BT6.5.2.10. Çoklu karar yapısını içeren programları test ederek hatalarını ayıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "BT.6.5.2.11. Döngü yapısını içeren programlar oluşturur."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "BT.6.5.2.12. Döngü yapısını içeren programları test ederek hatalarını ayıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "BT.6.5.2.13. Bir algoritmayı uyarlamak için en uygun karar yapılarını seçer."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "BT.6.5.2.14. Farklı programlama yapılarını kullanarak karmaşık problemlere çözüm üretir."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "2. Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "BT.6.5.2.15. Tüm programlama yapılarını içeren özgün bir proje oluşturur."
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "ÜNİTE 5 PROBLEM ÇÖZME VE PROGRAMLAMA",
+      "KONU": "Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Uygulama"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}
