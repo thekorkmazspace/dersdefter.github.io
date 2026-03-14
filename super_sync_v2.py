@@ -78,15 +78,19 @@ def run_sync():
         if old_file != new_file:
             os.remove(old_path)
             
+        display_grade = "Hazırlık" if str(plan_data['sinif']) == "0" else str(plan_data['sinif'])
         new_idx_list.append({
             "dosya": new_file,
-            "sinif": str(plan_data['sinif']),
+            "sinif": display_grade,
             "ders": clean_name,
             "kayit_sayisi": len(plan_data['plan'])
         })
 
     # Sort index
-    new_idx_list.sort(key=lambda x: (int(x['sinif']) if x['sinif'].isdigit() else 999, x['ders']))
+    new_idx_list.sort(key=lambda x: (
+        -1 if x['sinif'] == "Hazırlık" else (int(x['sinif']) if x['sinif'].isdigit() else 999), 
+        x['ders']
+    ))
 
     new_idx_data = {"toplam": len(new_idx_list), "dosyalar": new_idx_list}
     with open(os.path.join(SOURCE_DIR, "index.json"), 'w', encoding='utf-8') as f:
