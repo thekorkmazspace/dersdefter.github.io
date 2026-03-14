@@ -1,0 +1,339 @@
+{
+  "sinif": "10",
+  "ders": "BILGISAYARLI TEZGAHLARDA IMALAT (CNC)-10",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "9",
+      "KONU": "1. CNC TEZGÂHLARINI KULLANMA\n1.1 CNC Takım Tezgâhları\n1.1.1 CNC Atölyelerinde Genel İş Güvenliği Kuralları\n1.2 CNC Torna Tezgâhları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "CNC tezgâhlarını ve kısımlarını gösterir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "9",
+      "KONU": "1.2.1 CNC Torna Tezgâhlarının Kısımları\n1.3 CNC Freze Tezgâhları\n1.3.1 CNC Freze Tezgâhlarının Kısımları\n1.4 CNC Tezgâhlarında Periyodik Bakımlar",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "CNC tezgâhlarını ve kısımlarını gösterir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "9",
+      "KONU": "1.5 CNC Kontrol Paneli ve Kullanımı\n1.5.1 Kontrol Paneli ve Kısımları\n1.5.2 CNC Klavyesi\n1.5.3 Tezgâh Paneli Üzerinde Yer Alan Kontroller",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "9",
+      "KONU": "1.5.4 Çalışma Modları\n1.5.5 JOG Modunda Yapılan İşlemler\n1.6 CNC Torna Tezgâhlarını Kullanma\n1.6.1 CNC Torna Tezgâhlarında Eksenler",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "9",
+      "KONU": "1.6.2 CNC Torna Tezgâhlarında Referans Noktaları\n1.6.3 CNC Torna Tezgâhının Çalıştırılması\n1.6.4 Manuel Olarak Eksenlerin Hareketi\n1.6.5 İstenen Takımın Çağrılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "9",
+      "KONU": "1.6.6 İş Milinin Döndürülmesi\n1.6.7 Aktif Referans Noktası Offset Seçimi\n1.6.8 Ölçü Biriminin Değiştirilmesi\n1.6.9 İş Parçası Referans Noktasının Belirlenmesi",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "9",
+      "KONU": "1.6.10 Takım Listesine Yeni Takım Ekleme\n1.6.11 Takımların Referans Noktasının Belirlenmesi\n1.6.12 Takım Referans Noktası Kontrolü\n1.6.13 Prob ile Çalışma\n1.6.14 Gezer Punta ile Çalışma",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "9",
+      "KONU": "1.7 CNC Freze Tezgâhlarını Kullanma\n1.7.1 CNC Freze Tezgâhlarında Eksenler ve Referans Noktaları\n1.7.2 CNC Freze Tezgâhının Çalıştırılması \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "9",
+      "KONU": "1.7.3 Manuel Olarak Eksenlerin Hareketi\n1.7.4 İstenen Takımın Çağrılması\n1.7.5 İş Milinin Döndürülmesi\n1.7.6 Aktif Referans Noktası Offset Seçimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav CNC kontrol panelini kullanır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "9",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "9",
+      "KONU": "1.7.7 Ölçü Biriminin Değiştirilmesi\n1.7.8 Takım Kesme Ekseninin Değiştirilmesi\n1.7.9 İş Parçası Referans Noktasının Belirlenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "9",
+      "KONU": "1.7.10 Takım Listesine Yeni Takım Ekleme\n1.7.11 Kesici Takım Boy Telafilerinin Belirlenmesi\n1.7.12 Takım Referans Noktası Kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "9",
+      "KONU": "1.7.13 Hazırlanmış Programların Hafızaya Yüklenmesi\n1.7.14 Programların Tezgâhta Test Edilmesi ve Çalıştırılması\n1.7.15 Programların Harici Bilgisayardan Aktarılarak Çalıştırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "CNC kontrol panelini kullanır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "9",
+      "KONU": "1.8 CNC Takım Tezgâhlarında Kullanılan Bağlama Aparatları\n1.8.1 CNC Torna Tezgâhlarında Kullanılan İş Parçası Bağlama Aparatları\n1.8.2 CNC Freze Tezgâhlarında Kullanılan Bağlama Aparatları ve Yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "CNC de kullanılan bağlama aparatlarını seçer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "9",
+      "KONU": "1.9 CNC Tezgâhlarında Kullanılan Kesici Takımlar ve Takım Tutucular\n1.9.1 Malzeme Grupları\n1.9.2 CNC Torna Tezgâhlarında Kullanılan Kesici Takımlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Takım ve takım tutucularını seçer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "9",
+      "KONU": "1.9.3 CNC Torna Tezgâhlarında Kesici Takımların Bağlanması\n1.9.4 CNC Freze Tezgâhlarında Kullanılan Kesici Takımlar\n1.9.5 CNC Freze Tezgâhlarında Kesici Takımların Bağlanması",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Takım ve takım tutucularını seçer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "9",
+      "KONU": "2. CNC TEZGÂHLARINDA PROGRAMLAMA\n2.1 CNC Program Yapısı\n2.1.1 Program İsmi \n1.Dönem 2.Sınav",
+      "KAZANIM": "G ve M kodlarını kullanır."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "9",
+      "KONU": "2.1.2 Satır Numaraları  N\n2.1.3 Devir Sayısı  S\n2.1.4 İlerleme Hızı  F",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav G ve M kodlarını kullanır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "9",
+      "KONU": "2.1.5 Takım Çağırma  T \n2.1.6 Referans Noktaları  G54 G55 G56 G57 G58 G59\n2.1.7 Mutlak ve Artışlı Programlama G90 G91",
+      "KAZANIM": "G ve M kodlarını kullanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "9",
+      "KONU": "2.1.8 Kartezyen Koordinat Sistemi  G15\n2.1.9 Polar Koordinat Sistemi  G16 \n2.1.10 Çalışma Düzlemi Seçimi  G17 G18 G19",
+      "KAZANIM": "G ve M kodlarını kullanır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "9",
+      "KONU": "2.1.11 Ölçü Sistemi  G20 G21 \n2.1.12 Soğutma Sıvısını Açma  Kapatma  M8 M9\n2.1.13 Program Durdurma ve Program Sonu  M0 M1 M2 M30",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "G ve M kodlarını kullanır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "9",
+      "KONU": "2.2 CNC Torna Tezgâhında Programlama\n2.2.1 CNC Torna Tezgâhlarında Eksenler\n2.2.2 CNC Torna Tezgâhlarında Kullanılan Komutlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Basit CNC torna programı yazar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "9",
+      "KONU": "2.2.3 Kesici Takımın Hızlı Doğrusal Hareketi  G0\n2.2.4 Kesici Takımın İlerleme Hızında Doğrusal Hareketi  G1\n2.2.5 Kesici Takımın İlerleme Hızında Dairesel Hareketi  G2 G3",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Basit CNC torna programı yazar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "9",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "9",
+      "KONU": "2.2.6 Bekleme  G4\n2.2.7 Kesici Takımın Tezgâh Sıfır Noktasına Dönüşü  G28\n2.2.8 Kesici Takım Uç Yarıçap Telafisi  G40 G41 G42",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Basit CNC torna programı yazar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "9",
+      "KONU": "2.3 CNC Freze Tezgâhında Programlama\n2.3.1 CNC Freze Tezgâhlarında Kullanılan Komutlar\n2.3.2 Kesici Takımın Hızlı Doğrusal Hareketi  G0",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "CNC freze programı yazar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "9",
+      "KONU": "2.3.3 Kesici Takımın İlerleme Hızında Doğrusal Hareketi  G1\n2.3.4 Kesici Takımın İlerleme Hızında Dairesel Hareketi  G2 G3\n2.3.5 Bekleme  G4 \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav CNC freze programı yazar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "9",
+      "KONU": "2.3.6 Kesici Takımın Tezgâh Sıfır Noktasına Dönüşü  G28 \n2.3.7 Kesici Takım Yarıçap Telafisi  G40 G41 G42\n2.3.8 Kesici Takım Boy Telafisi  G43",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "CNC freze programı yazar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "9",
+      "KONU": "3. CNC TORNADA ÇEVRİM YAPMA\n3.1 Silindirik Tornalama Çevrimleri\n3.1.1 Finiş Tornalama Çevrimi  G70\n3.1.2 Boyuna Tornalama Çevrimi  G71",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "CNC tornada silindirik tornalama çevrimi yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "9",
+      "KONU": "3.1.3 Alın Tornalama Çevrimi  G72 \n3.1.4 Profil Tornalama Çevrimi  G73",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "CNC tornada silindirik tornalama çevrimi yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "9",
+      "KONU": "3.2 Delik Delme Çevrimleri \n3.2.1 Delik Delme Çevrimi  G74\n3.2.2 Derin Delik Delme Çevrimi  G83",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "CNC tornada derin delik delme ve kanal açma çevrimi yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "9",
+      "KONU": "3.3 Kanal Açma Çevrimi  G75\n3.4 Vida Açma Çevrimi  G76\n3.5 CNC Torna Tezgâhlarında Diyalog Programlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "CNC tornada derin delik delme ve kanal açma çevrimi yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "9",
+      "KONU": "3.5.1 Parça ve Program Bilgileri\n3.5.2 Silindirik Tornalama\n3.5.3 Derin Delik Delme\n3.5.4 Profil Tornalama",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "CNC tornada derin delik delme ve kanal açma çevrimi yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "9",
+      "KONU": "3.5.5 Kanal Açma\n3.5.6 Vida Açma\n3.5.7 Kesme Ayırma İşlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "CNC tornada vida açma çevrimi yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "9",
+      "KONU": "4. CNC FREZEDE ÇEVRİM YAPMA\n4.1 Delik Delme Çevrimleri\n4.1.1 Düz Delik Delme Çevrimi  G81",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav CNC frezede delik delme çevrimi yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "9",
+      "KONU": "4.1.2 Delik Sonunda Beklemeli Delik Delme Çevrimi  G82\n4.1.3 Talaş Boşaltmalı Delik Delme Çevrimi  G83",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "CNC frezede delik delme çevrimi yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "9",
+      "KONU": "4.2 Kılavuz Çekme Çevrimi  G74 G84\n4.3 CNC Freze Tezgâhlarında Diyalog Programlama\n4.3.1 Parça ve Program Bilgileri \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "CNC frezede kılavuz çekme çevrimi yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

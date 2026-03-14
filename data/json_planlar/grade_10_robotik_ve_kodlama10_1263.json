@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "ROBOTIK VE KODLAMA-10",
+  "plan": [
+    {
+      "ÜNİTE": "Robotik için Mikrodenetleyici kart",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "Mikrodenetleyici Kart Yapısı ve Çeşitleri   Robot Türleri ve Eğitsel Amaçlı Robotlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Mikrodenetleyici  kart  yapısı  ve  çeşitlerini açıklar.\n Robot  türleri  ve  eğitsel  amaçlı  robotları açıklar.\nMikrodenetleyici kartın fiziksel yapısını açıklar.\n      Mikrodenetleyici kart çeşitlerini listeler.\n      Online  çizim  ve  simülasyon  programına  giriş yapar.\n      Online    çizim    ve    simülasyon    programının menülerini kullanır.\n      Online çizim ve simülasyon programında Blink uygulamasını yapar.\n      Robot kavramını açıklar.\n      Robot çeşitlerini açıklar.\n      Eğitsel robotlarla ilgili kapsamlı bilgi verir.\n      Online çizim ve simülasyon programında düğme button uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Robotik için Mikrodenetleyici kart",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "Robotta MekanikElektromekanik Bileşenler",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Robotta mekanikelektromekanik bileşenleri açıklar.\nOnline  çizim  ve  simülasyon  programında  LED uygulamalarını yapar."
+    },
+    {
+      "ÜNİTE": "Robotik için Mikrodenetleyici kart",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "Robotta Elektronik Bileşenler",
+      "KAZANIM": "Robotta elektronik bileşenleri açıklar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "Sistem Gereksinimlerine Uygun Mikrodenetleyici Kart",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Sistem         gereksinimlerine         uygun mikrodenetleyici    kart    yazılımı    kurulumunu yapar.\nMikrodenetleyici    kart    yazılımını    açıklar    ve kurulumunu yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "Sistem Gereksinimlerine Uygun Mikrodenetleyici Kart",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Sistem         gereksinimlerine         uygun mikrodenetleyici    kart    yazılımı    kurulumunu yapar.\nMikrodenetleyici    kart    yazılımını    açıklar    ve kurulumunu yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "Mikrodenetleyici Kartın Bilgisayarla Bağlantısının Gerçekleştirilmesi",
+      "KAZANIM": "Bilgisayarla  mikrodenetleyici  kart  arasında uygun yöntemlerle bağlantı oluşturur.\nBilgisayar ile mikrodenetleyici arasında bağlantı oluşturmak için gerekli olan adımları anlatır.\n      Blink  örnek  uygulamasının  program  kodlarını anlatır.\n      Mikrodenetleyici  kart  çeşitlerini  ve  bağlantı portunun seçilmesini anlatır.\n      Mikrodenetleyici  karta programın  yüklenmesini anlatır ve uygular."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "Mikrodenetleyici Kartın Bilgisayarla Bağlantısının Gerçekleştirilmesi",
+      "KAZANIM": "Bilgisayarla  mikrodenetleyici  kart  arasında uygun yöntemlerle bağlantı oluşturur.\nBilgisayar ile mikrodenetleyici arasında bağlantı oluşturmak için gerekli olan adımları anlatır.\n      Blink  örnek  uygulamasının  program  kodlarını anlatır.\n      Mikrodenetleyici  kart  çeşitlerini  ve  bağlantı portunun seçilmesini anlatır.\n      Mikrodenetleyici  karta programın  yüklenmesini anlatır ve uygular."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "Geliştirme Ortamının Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Geliştirme  ortamı  söz  dizimi  kurallarını programa uygun şekilde kullanır.\nLED yapısını anlatır.\n      Breadboard kullanımını anlatır.\n      Mikrodenetleyici   IDE  programında   söz   dizim kurallarını anlatır.\n      Mikrodenetleyici  kart  ve  Breadboarda  gerekli devre elemanlarının takılmasını gösterir.\n      Mikrodenetleyici  kart  ile  1  LEDli  uygulamanın çalışma   mantığını   anlatır   ve   uygulamasını yapar.\n      Mikrodenetleyici   kart   ile   2   5   ve   7   LEDli uygulamalarını yapar.\n      Mikrodenetleyici  kart  ile  trafik  lambası  kontrolü uygulaması   için   devrenin   elektriksel   çizimini yapar ve programını yazar.\n      Mikrodenetleyici     kartın     dijital     portlarının kullanımını anlatır.\n      Anahtar kullanımı ve çeşitlerini anlatır.\n      Anahtar ile dijital giriş uygulamalarını yapar.\n      Buton kullanımı ve çeşitlerini anlatır.\n      Buton ile dijital giriş uygulamalarını yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "Geliştirme Ortamının Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Geliştirme  ortamı  söz  dizimi  kurallarını programa uygun şekilde kullanır.\nLED yapısını anlatır.\n      Breadboard kullanımını anlatır.\n      Mikrodenetleyici   IDE  programında   söz   dizim kurallarını anlatır.\n      Mikrodenetleyici  kart  ve  Breadboarda  gerekli devre elemanlarının takılmasını gösterir.\n      Mikrodenetleyici  kart  ile  1  LEDli  uygulamanın çalışma   mantığını   anlatır   ve   uygulamasını yapar.\n      Mikrodenetleyici   kart   ile   2   5   ve   7   LEDli uygulamalarını yapar.\n      Mikrodenetleyici  kart  ile  trafik  lambası  kontrolü uygulaması   için   devrenin   elektriksel   çizimini yapar ve programını yazar.\n      Mikrodenetleyici     kartın     dijital     portlarının kullanımını anlatır.\n      Anahtar kullanımı ve çeşitlerini anlatır.\n      Anahtar ile dijital giriş uygulamalarını yapar.\n      Buton kullanımı ve çeşitlerini anlatır.\n      Buton ile dijital giriş uygulamalarını yapar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "Seri İletişim Yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Seri     iletişim     yöntemlerini     geliştirilen programa uygun şekilde kullanır.\nSeri port ekranını anlatır.\n      Serial Port bağlantı hatası ve çözümü hakkında bilgi verir.\n      Serial portta örnek uygulama yapar ve çıktılarını gösterir."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "Seri İletişim Yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Seri     iletişim     yöntemlerini     geliştirilen programa uygun şekilde kullanır.\nSeri port ekranını anlatır.\n      Serial Port bağlantı hatası ve çözümü hakkında bilgi verir.\n      Serial portta örnek uygulama yapar ve çıktılarını gösterir."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "Geliştirme Ortamında Operatörlerin Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Operatörler  geliştirilen  programa  uygun şekilde kullanır.\nGeliştirme  ortamında  operatörlerin  kullanımını anlatır.\n      Mikrodenetleyici      kart      ile      ANALOG      giriş uygulamasını örnek vererek açıklar.\n      Potansiyometre  ile  ANALOG  giriş  uygulamasını yapar.\n      ANALOG giriş örnek uygulamasını anlatır.\n      ANALOG   giriş   örnek   uygulamasının   kodlarını yazdırır ve Seri Port ekranından çalıştırmalarını sağlar.\n      Potansiyometre    ile    LEDlerin    yanma    hızı ayarlama uygulamasını yapar.\n      Devrenin çizimine göre devre elemanlarını takar.\n      LDR   ile   ışık   seviyesinin   ölçülüp   LEDler   ile gösteren uygulamayı yapar.\n      ANALOG çıkış PWM hakkında bilgi verilir.\n      Potansiyometreden     alınan     ANALOG     bilgiyle ANALOG çıkış üzerinden LED parlaklığı ayarlayan uygulamayı yapar.\n      RGB LEDi açıklar.\n      Mikrodenetleyici kart ile RGB LED uygulamasını yapar.\n      Buzzer elamanını ve çeşitlerini açıklar.\n      Mikrodenetleyici kart ile Buzzer uygulamalarını yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "Geliştirme Ortamında Operatörlerin Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Operatörler  geliştirilen  programa  uygun şekilde kullanır.\nGeliştirme  ortamında  operatörlerin  kullanımını anlatır.\n      Mikrodenetleyici      kart      ile      ANALOG      giriş uygulamasını örnek vererek açıklar.\n      Potansiyometre  ile  ANALOG  giriş  uygulamasını yapar.\n      ANALOG giriş örnek uygulamasını anlatır.\n      ANALOG   giriş   örnek   uygulamasının   kodlarını yazdırır ve Seri Port ekranından çalıştırmalarını sağlar.\n      Potansiyometre    ile    LEDlerin    yanma    hızı ayarlama uygulamasını yapar.\n      Devrenin çizimine göre devre elemanlarını takar.\n      LDR   ile   ışık   seviyesinin   ölçülüp   LEDler   ile gösteren uygulamayı yapar.\n      ANALOG çıkış PWM hakkında bilgi verilir.\n      Potansiyometreden     alınan     ANALOG     bilgiyle ANALOG çıkış üzerinden LED parlaklığı ayarlayan uygulamayı yapar.\n      RGB LEDi açıklar.\n      Mikrodenetleyici kart ile RGB LED uygulamasını yapar.\n      Buzzer elamanını ve çeşitlerini açıklar.\n      Mikrodenetleyici kart ile Buzzer uygulamalarını yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "Geliştirme Ortamında Değişkenlerin Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Değişkenler  geliştirilen  programa  uygun şekilde kullanır.\nGeliştirme  ortamında  değişkenlerin  kullanımını anlatır.\n      Dizilerin kullanımını anlatır.\n      Çok boyutlu dizileri matrisler anlatır.\n      Dizi uygulamalarını yaparak çıktısını Seri Portta gösterir."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "Geliştirme Ortamında Değişkenlerin Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Değişkenler  geliştirilen  programa  uygun şekilde kullanır.\nGeliştirme  ortamında  değişkenlerin  kullanımını anlatır.\n      Dizilerin kullanımını anlatır.\n      Çok boyutlu dizileri matrisler anlatır.\n      Dizi uygulamalarını yaparak çıktısını Seri Portta gösterir."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "Geliştirme Ortamında Fonksiyonların Kullanılması",
+      "KAZANIM": "Fonksiyonları  geliştirilen  programa  uygun şekilde kullanır.\nGeliştirme ortamında fonksiyonların kullanımını anlatır.\n      7 Segment display devre elamanını açıklar.\n      Mikrodenetleyici  Kart  İle  7  Segment  Display uygulamalarını yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "Geliştirme Ortamında Fonksiyonların Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Fonksiyonları  geliştirilen  programa  uygun şekilde kullanır.\nGeliştirme ortamında fonksiyonların kullanımını anlatır.\n      7 Segment display devre elamanını açıklar.\n      Mikrodenetleyici  Kart  İle  7  Segment  Display uygulamalarını yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "Ortam Kütüphaneleri",
+      "KAZANIM": "Ortam kütüphanelerini geliştirilen programa uygun şekilde kullanır.\nKütüphanedeki     örneklere    nasıl    ulaşılacağı anlatır.\n      Mikrodenetleyici     IDE     programında     ortam kütüphanesinin   nasıl   ekleneceğini   anlatır   ve uygular.\n      Uzaktan Kumanda İle RGB LED Uygulamalarını yapar.\n      Mikrodenetleyici   IDE   programında   IRremote kütüphanesinin eklenmesini anlatır.\n      Uzaktan   Kumanda   İle   7   Segment   Display Uygulamasını yapar.\n      Ultrasonik    mesafe    sensörünü    ve    çalışma prensibini anlatır.\n      LCD ekran elemanının kullanımını anlatır.\n      LCD  ekranın  uygulama  kartına  bağlanmasını gösterir.\n      LCD ekran uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "Ortam Kütüphaneleri",
+      "KAZANIM": "Ortam kütüphanelerini geliştirilen programa uygun şekilde kullanır.\nKütüphanedeki     örneklere    nasıl    ulaşılacağı anlatır.\n      Mikrodenetleyici     IDE     programında     ortam kütüphanesinin   nasıl   ekleneceğini   anlatır   ve uygular.\n      Uzaktan Kumanda İle RGB LED Uygulamalarını yapar.\n      Mikrodenetleyici   IDE   programında   IRremote kütüphanesinin eklenmesini anlatır.\n      Uzaktan   Kumanda   İle   7   Segment   Display Uygulamasını yapar.\n      Ultrasonik    mesafe    sensörünü    ve    çalışma prensibini anlatır.\n      LCD ekran elemanının kullanımını anlatır.\n      LCD  ekranın  uygulama  kartına  bağlanmasını gösterir.\n      LCD ekran uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "Ortam Kütüphaneleri",
+      "KAZANIM": "Ortam kütüphanelerini geliştirilen programa uygun şekilde kullanır.\nKütüphanedeki     örneklere    nasıl    ulaşılacağı anlatır.\n      Mikrodenetleyici     IDE     programında     ortam kütüphanesinin   nasıl   ekleneceğini   anlatır   ve uygular.\n      Uzaktan Kumanda İle RGB LED Uygulamalarını yapar.\n      Mikrodenetleyici   IDE   programında   IRremote kütüphanesinin eklenmesini anlatır.\n      Uzaktan   Kumanda   İle   7   Segment   Display Uygulamasını yapar.\n      Ultrasonik    mesafe    sensörünü    ve    çalışma prensibini anlatır.\n      LCD ekran elemanının kullanımını anlatır.\n      LCD  ekranın  uygulama  kartına  bağlanmasını gösterir.\n      LCD ekran uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Mikrodenetleyici kart Uygulamaları",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "Ortam Kütüphaneleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Ortam kütüphanelerini geliştirilen programa uygun şekilde kullanır.\nKütüphanedeki     örneklere    nasıl    ulaşılacağı anlatır.\n      Mikrodenetleyici     IDE     programında     ortam kütüphanesinin   nasıl   ekleneceğini   anlatır   ve uygular.\n      Uzaktan Kumanda İle RGB LED Uygulamalarını yapar.\n      Mikrodenetleyici   IDE   programında   IRremote kütüphanesinin eklenmesini anlatır.\n      Uzaktan   Kumanda   İle   7   Segment   Display Uygulamasını yapar.\n      Ultrasonik    mesafe    sensörünü    ve    çalışma prensibini anlatır.\n      LCD ekran elemanının kullanımını anlatır.\n      LCD  ekranın  uygulama  kartına  bağlanmasını gösterir.\n      LCD ekran uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "Özgün Proje Çalışması",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.\nEğitsel robot bileşenlerini anlatır ve gösterir.\n      Robot gövdesini anlatır ve gösterir.\n      Motorlar konusunu anlatır ve gösterir.\n      Tekerlekler konusunu anlatır ve gösterir.\n      Motor Sürücüleri anlatır ve gösterir.\n      Mesafe sensörünü anlatır ve gösterir.\n      Çizgi izleme sensörünü anlatır ve gösterir.\n      IR alıcıları anlatır ve gösterir.\n      Enerji kaynağı konusunu anlatır ve gösterir.\n      Eğitsel robotun devre şemasını anlatır.\n      Eğitsel robotun montajını anlatır ve uygulamasını yapar.\n      Eğitsel robotun programlanmasını anlatır ve uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "Özgün Proje Çalışması",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.\nEğitsel robot bileşenlerini anlatır ve gösterir.\n      Robot gövdesini anlatır ve gösterir.\n      Motorlar konusunu anlatır ve gösterir.\n      Tekerlekler konusunu anlatır ve gösterir.\n      Motor Sürücüleri anlatır ve gösterir.\n      Mesafe sensörünü anlatır ve gösterir.\n      Çizgi izleme sensörünü anlatır ve gösterir.\n      IR alıcıları anlatır ve gösterir.\n      Enerji kaynağı konusunu anlatır ve gösterir.\n      Eğitsel robotun devre şemasını anlatır.\n      Eğitsel robotun montajını anlatır ve uygulamasını yapar.\n      Eğitsel robotun programlanmasını anlatır ve uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "Özgün Proje Çalışması",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.\nEğitsel robot bileşenlerini anlatır ve gösterir.\n      Robot gövdesini anlatır ve gösterir.\n      Motorlar konusunu anlatır ve gösterir.\n      Tekerlekler konusunu anlatır ve gösterir.\n      Motor Sürücüleri anlatır ve gösterir.\n      Mesafe sensörünü anlatır ve gösterir.\n      Çizgi izleme sensörünü anlatır ve gösterir.\n      IR alıcıları anlatır ve gösterir.\n      Enerji kaynağı konusunu anlatır ve gösterir.\n      Eğitsel robotun devre şemasını anlatır.\n      Eğitsel robotun montajını anlatır ve uygulamasını yapar.\n      Eğitsel robotun programlanmasını anlatır ve uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "Özgün Proje Çalışması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.\nEğitsel robot bileşenlerini anlatır ve gösterir.\n      Robot gövdesini anlatır ve gösterir.\n      Motorlar konusunu anlatır ve gösterir.\n      Tekerlekler konusunu anlatır ve gösterir.\n      Motor Sürücüleri anlatır ve gösterir.\n      Mesafe sensörünü anlatır ve gösterir.\n      Çizgi izleme sensörünü anlatır ve gösterir.\n      IR alıcıları anlatır ve gösterir.\n      Enerji kaynağı konusunu anlatır ve gösterir.\n      Eğitsel robotun devre şemasını anlatır.\n      Eğitsel robotun montajını anlatır ve uygulamasını yapar.\n      Eğitsel robotun programlanmasını anlatır ve uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "Özgün Proje Çalışması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.\nEğitsel robot bileşenlerini anlatır ve gösterir.\n      Robot gövdesini anlatır ve gösterir.\n      Motorlar konusunu anlatır ve gösterir.\n      Tekerlekler konusunu anlatır ve gösterir.\n      Motor Sürücüleri anlatır ve gösterir.\n      Mesafe sensörünü anlatır ve gösterir.\n      Çizgi izleme sensörünü anlatır ve gösterir.\n      IR alıcıları anlatır ve gösterir.\n      Enerji kaynağı konusunu anlatır ve gösterir.\n      Eğitsel robotun devre şemasını anlatır.\n      Eğitsel robotun montajını anlatır ve uygulamasını yapar.\n      Eğitsel robotun programlanmasını anlatır ve uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "Özgün Proje Çalışması",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.\nEğitsel robot bileşenlerini anlatır ve gösterir.\n      Robot gövdesini anlatır ve gösterir.\n      Motorlar konusunu anlatır ve gösterir.\n      Tekerlekler konusunu anlatır ve gösterir.\n      Motor Sürücüleri anlatır ve gösterir.\n      Mesafe sensörünü anlatır ve gösterir.\n      Çizgi izleme sensörünü anlatır ve gösterir.\n      IR alıcıları anlatır ve gösterir.\n      Enerji kaynağı konusunu anlatır ve gösterir.\n      Eğitsel robotun devre şemasını anlatır.\n      Eğitsel robotun montajını anlatır ve uygulamasını yapar.\n      Eğitsel robotun programlanmasını anlatır ve uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "Özgün Proje Çalışması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Bireysel veya toplumsal soruna çözüm üreten özgün bir proje geliştirir.\nEğitsel robot bileşenlerini anlatır ve gösterir.\n      Robot gövdesini anlatır ve gösterir.\n      Motorlar konusunu anlatır ve gösterir.\n      Tekerlekler konusunu anlatır ve gösterir.\n      Motor Sürücüleri anlatır ve gösterir.\n      Mesafe sensörünü anlatır ve gösterir.\n      Çizgi izleme sensörünü anlatır ve gösterir.\n      IR alıcıları anlatır ve gösterir.\n      Enerji kaynağı konusunu anlatır ve gösterir.\n      Eğitsel robotun devre şemasını anlatır.\n      Eğitsel robotun montajını anlatır ve uygulamasını yapar.\n      Eğitsel robotun programlanmasını anlatır ve uygulamasını yapar."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "Projenin Sunumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Proje sunumu yapar.\nEğitsel robotun uzaktan kumanda ile kontrolü uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile engelden kaçma uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile çizgi izleme uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robotun Bluetooth ile kontrolü uygulamasını yapar ve çalışmasını anlatır."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "Projenin Sunumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Proje sunumu yapar.\nEğitsel robotun uzaktan kumanda ile kontrolü uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile engelden kaçma uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile çizgi izleme uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robotun Bluetooth ile kontrolü uygulamasını yapar ve çalışmasını anlatır."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "Projenin Sunumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Proje sunumu yapar.\nEğitsel robotun uzaktan kumanda ile kontrolü uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile engelden kaçma uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile çizgi izleme uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robotun Bluetooth ile kontrolü uygulamasını yapar ve çalışmasını anlatır."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "Projenin Sunumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Proje sunumu yapar.\nEğitsel robotun uzaktan kumanda ile kontrolü uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile engelden kaçma uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile çizgi izleme uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robotun Bluetooth ile kontrolü uygulamasını yapar ve çalışmasını anlatır."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "Projenin Sunumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Proje sunumu yapar.\nEğitsel robotun uzaktan kumanda ile kontrolü uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile engelden kaçma uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile çizgi izleme uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robotun Bluetooth ile kontrolü uygulamasını yapar ve çalışmasını anlatır."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "Projenin Sunumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Proje sunumu yapar.\nEğitsel robotun uzaktan kumanda ile kontrolü uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile engelden kaçma uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile çizgi izleme uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robotun Bluetooth ile kontrolü uygulamasını yapar ve çalışmasını anlatır."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "Projenin Sunumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Proje sunumu yapar.\nEğitsel robotun uzaktan kumanda ile kontrolü uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile engelden kaçma uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robot ile çizgi izleme uygulamasını yapar ve çalışmasını anlatır.\n      Eğitsel robotun Bluetooth ile kontrolü uygulamasını yapar ve çalışmasını anlatır."
+    },
+    {
+      "ÜNİTE": "Robot Uygulamaları",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "Projenin Sunumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Proje sunumu yapar.\nGenel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

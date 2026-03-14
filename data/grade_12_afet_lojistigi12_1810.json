@@ -1,0 +1,374 @@
+{
+  "sinif": "12",
+  "ders": "AFET LOJISTIGI-12",
+  "plan": [
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "1.   Afet tanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afet kavramını açıklar.\nÜlkemizi ve yaşadığımız bölgeyi tehdit eden doğal afetler üzerinde durulur.\n       Afet lojistiğinin önemi üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "1.   Afet tanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afet kavramını açıklar.\nÜlkemizi ve yaşadığımız bölgeyi tehdit eden doğal afetler üzerinde durulur.\n       Afet lojistiğinin önemi üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "1.   Afet tanımı",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afet kavramını açıklar.\nÜlkemizi ve yaşadığımız bölgeyi tehdit eden doğal afetler üzerinde durulur.\n       Afet lojistiğinin önemi üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "1.   Afet tanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afet kavramını açıklar.\nÜlkemizi ve yaşadığımız bölgeyi tehdit eden doğal afetler üzerinde durulur.\n       Afet lojistiğinin önemi üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "1.   Afet tanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afet kavramını açıklar.\nÜlkemizi ve yaşadığımız bölgeyi tehdit eden doğal afetler üzerinde durulur.\n       Afet lojistiğinin önemi üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "1.   Afet tanımı",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afet kavramını açıklar.\nÜlkemizi ve yaşadığımız bölgeyi tehdit eden doğal afetler üzerinde durulur.\n       Afet lojistiğinin önemi üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "2.   Afetlerin sınıflandırılması",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afetleri sınıflandırır.\nTüm afet çeşitleri lojistik açıdan ayrı ayrı sınıflandırılır."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "2.   Afetlerin sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afetleri sınıflandırır.\nTüm afet çeşitleri lojistik açıdan ayrı ayrı sınıflandırılır."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "2.   Afetlerin sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Ulusal ve uluslararası mevzuatlara uygun olarak afetleri sınıflandırır.\nTüm afet çeşitleri lojistik açıdan ayrı ayrı sınıflandırılır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "2.   Afetlerin sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afetleri sınıflandırır.\nTüm afet çeşitleri lojistik açıdan ayrı ayrı sınıflandırılır."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "2.   Afetlerin sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afetleri sınıflandırır.\nTüm afet çeşitleri lojistik açıdan ayrı ayrı sınıflandırılır."
+    },
+    {
+      "ÜNİTE": "Afet Kavramı",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "2.   Afetlerin sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Ulusal ve uluslararası mevzuatlara uygun olarak afetleri sınıflandırır.\nTüm afet çeşitleri lojistik açıdan ayrı ayrı sınıflandırılır."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "1.   Afet Sürecine Hazırlık",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet öncesi hazırlıkları açıklar.\nHer bir afet çeşidine göre afet öncesi yapılacak lojistik hazırlıklar ayrı ayrı açıklanır.\n       Afet  ve  acil  durumlarda  toplanılacak  alanları  il  ve ilçede bulunan haritalar üzerinde gösterilir.\n       Deprem   sel   gibi   doğal   afetler   haritalar   üzerinde gösterimler yapılır."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "1.   Afet Sürecine Hazırlık",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet öncesi hazırlıkları açıklar.\nHer bir afet çeşidine göre afet öncesi yapılacak lojistik hazırlıklar ayrı ayrı açıklanır.\n       Afet  ve  acil  durumlarda  toplanılacak  alanları  il  ve ilçede bulunan haritalar üzerinde gösterilir.\n       Deprem   sel   gibi   doğal   afetler   haritalar   üzerinde gösterimler yapılır."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "1.   Afet Sürecine Hazırlık",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet öncesi hazırlıkları açıklar.\nHer bir afet çeşidine göre afet öncesi yapılacak lojistik hazırlıklar ayrı ayrı açıklanır.\n       Afet  ve  acil  durumlarda  toplanılacak  alanları  il  ve ilçede bulunan haritalar üzerinde gösterilir.\n       Deprem   sel   gibi   doğal   afetler   haritalar   üzerinde gösterimler yapılır."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "1.   Afet Sürecine Hazırlık",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet öncesi hazırlıkları açıklar.\nHer bir afet çeşidine göre afet öncesi yapılacak lojistik hazırlıklar ayrı ayrı açıklanır.\n       Afet  ve  acil  durumlarda  toplanılacak  alanları  il  ve ilçede bulunan haritalar üzerinde gösterilir.\n       Deprem   sel   gibi   doğal   afetler   haritalar   üzerinde gösterimler yapılır."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "2.   Afet Esnasında Yapılacaklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet   esnasında   yapılacak   lojistik   uygulamaları açıklar.\nAfet   lojistikçisinin   afetler   esnasında   uygulayacağı işlemlerin üzerinde durulur.\n       Her  bir  afet  çeşidi  için  yapılacak  işlemler  ayrı  ayrı sıralanır.\n       Afet çeşitlerine göre acil durumda yapılacak  temel ilk yardım süreçleri açıklanır.\n       Sağlık   personelinin   yapacağı   derin   sağlık   yardımı konularına girilmez."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "2.   Afet Esnasında Yapılacaklar",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet   esnasında   yapılacak   lojistik   uygulamaları açıklar.\nAfet   lojistikçisinin   afetler   esnasında   uygulayacağı işlemlerin üzerinde durulur.\n       Her  bir  afet  çeşidi  için  yapılacak  işlemler  ayrı  ayrı sıralanır.\n       Afet çeşitlerine göre acil durumda yapılacak  temel ilk yardım süreçleri açıklanır.\n       Sağlık   personelinin   yapacağı   derin   sağlık   yardımı konularına girilmez."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "2.   Afet Esnasında Yapılacaklar",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet   esnasında   yapılacak   lojistik   uygulamaları açıklar.\nAfet   lojistikçisinin   afetler   esnasında   uygulayacağı işlemlerin üzerinde durulur.\n       Her  bir  afet  çeşidi  için  yapılacak  işlemler  ayrı  ayrı sıralanır.\n       Afet çeşitlerine göre acil durumda yapılacak  temel ilk yardım süreçleri açıklanır.\n       Sağlık   personelinin   yapacağı   derin   sağlık   yardımı konularına girilmez."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "3.   Afet Sonrasında Yapılacaklar",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet   sonrasında   yapılacak   lojistik   uygulamaları açıklar.\nAfet  lojistikçisinin  afetler  sonrasında  orta  ve  uzun vadede uygulayacağı işlemlerin üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "3.   Afet Sonrasında Yapılacaklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet   sonrasında   yapılacak   lojistik   uygulamaları açıklar.\nAfet  lojistikçisinin  afetler  sonrasında  orta  ve  uzun vadede uygulayacağı işlemlerin üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "3.   Afet Sonrasında Yapılacaklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet   sonrasında   yapılacak   lojistik   uygulamaları açıklar.\nAfet  lojistikçisinin  afetler  sonrasında  orta  ve  uzun vadede uygulayacağı işlemlerin üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Afet Yönetimi",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "3.   Afet Sonrasında Yapılacaklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Ulusal  ve  uluslararası  mevzuatlara  uygun  olarak afet   sonrasında   yapılacak   lojistik   uygulamaları açıklar.\nAfet  lojistikçisinin  afetler  sonrasında  orta  ve  uzun vadede uygulayacağı işlemlerin üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "1.   Afet lojistikçisinin özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Afet planlamasını açıklar.\nAfet     süreçlerinde     kolektif     anlamda     yapılacak planlamaların üzerinde durulur.\n       Afet  lojistikçisinin  sahip  olması  gereken  özelliklerin üzerinde durulur.\n       Her   bir   afette   yapılması  gereken   arama   kurtarma çalışmaları açıklanır."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Afet lojistikçisinin özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Afet planlamasını açıklar.\nAfet     süreçlerinde     kolektif     anlamda     yapılacak planlamaların üzerinde durulur.\n       Afet  lojistikçisinin  sahip  olması  gereken  özelliklerin üzerinde durulur.\n       Her   bir   afette   yapılması  gereken   arama   kurtarma çalışmaları açıklanır."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Afet lojistikçisinin özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Afet planlamasını açıklar.\nAfet     süreçlerinde     kolektif     anlamda     yapılacak planlamaların üzerinde durulur.\n       Afet  lojistikçisinin  sahip  olması  gereken  özelliklerin üzerinde durulur.\n       Her   bir   afette   yapılması  gereken   arama   kurtarma çalışmaları açıklanır."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Afet lojistikçisinin özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Afet planlamasını açıklar.\nAfet     süreçlerinde     kolektif     anlamda     yapılacak planlamaların üzerinde durulur.\n       Afet  lojistikçisinin  sahip  olması  gereken  özelliklerin üzerinde durulur.\n       Her   bir   afette   yapılması  gereken   arama   kurtarma çalışmaları açıklanır."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Afet lojistikçisinin özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Afet planlamasını açıklar.\nAfet     süreçlerinde     kolektif     anlamda     yapılacak planlamaların üzerinde durulur.\n       Afet  lojistikçisinin  sahip  olması  gereken  özelliklerin üzerinde durulur.\n       Her   bir   afette   yapılması  gereken   arama   kurtarma çalışmaları açıklanır."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "1.   Afet lojistikçisinin özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Afet planlamasını açıklar.\nAfet     süreçlerinde     kolektif     anlamda     yapılacak planlamaların üzerinde durulur.\n       Afet  lojistikçisinin  sahip  olması  gereken  özelliklerin üzerinde durulur.\n       Her   bir   afette   yapılması  gereken   arama   kurtarma çalışmaları açıklanır."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.   Arama kurtarma elamanının özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Arama kurtarma elemanının özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.   Arama kurtarma elamanının özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Arama kurtarma elemanının özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.   Arama kurtarma elamanının özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Arama kurtarma elemanının özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.   Arama kurtarma elamanının özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Arama kurtarma elemanının özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "2.   Arama kurtarma elamanının özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Arama kurtarma elemanının özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Afet Planlaması",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "2.   Arama kurtarma elamanının özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Arama kurtarma elemanının özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

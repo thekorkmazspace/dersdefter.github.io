@@ -1,0 +1,339 @@
+{
+  "sinif": "12",
+  "ders": "BATI MZG TEOR VE UYGULAMASI",
+  "plan": [
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "12.1.1.1 Temel konumda dominant yedili akoru oluşturur.\n12.1.1.2 Temel konumda dominant yedili akoru seslendirir."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "12.1.1.3 Temel konumda dominant yedili akoru işitsel olarak ayırt eder.\n12.1.2.1 Birinci çevrim konumunda dominant yedili akoru oluşturur."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KAZANIM": "12.1.2.2 Birinci çevrim konumunda dominant yedili akoru seslendirir.\n12.1.2.3 Birinci çevrim konumunda dominant yedili akoru işitsel olarak ayırt eder."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "12.1.3.1 İkinci çevrim konumunda dominant yedili akoru oluşturur."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "12.1.3.2 İkinci çevrim konumunda dominant yedili akoru seslendirir."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KAZANIM": "12.1.3.3 İkinci çevrim konumunda dominant yedili akoru işitsel olarak ayırt eder."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KAZANIM": "12.1.4.1 Üçüncü çevrim konumunda dominant yedili akoru oluşturur."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "12.1.4.2 Üçüncü çevrim konumunda dominant yedili akoru seslendirir."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 12.1.4.3 Üçüncü çevrim konumunda dominant yedili akoru işitsel olarak ayırt eder."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "12.1.5.1 Temel konumda majör yedili akoru oluşturur."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "12.1.5.2 Temel konumda majör yedili akoru seslendirir."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "12.1.5.3 Temel konumda majör yedili akoru işitsel olarak ayırt eder."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "12.1.6.1 Temel konumda minör yedili akoru oluşturur."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "12.1.6.2 Temel konumda minör yedili akoru seslendirir."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "12.1.6.3 Temel konumda minör yedili akoru işitsel olarak ayırt eder."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KAZANIM": "12.1.7.1 Temel konumda eksik beşli yedili akoru oluşturur."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 12.1.7.2 Temel konumda eksik beşli yedili akoru seslendirir."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KAZANIM": "12.1.8.1 Temel konumda eksik yedili akoru oluşturur."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KAZANIM": "12.1.8.2 Temel konumda eksik yedili akoru seslendirir."
+    },
+    {
+      "ÜNİTE": "YEDİLİ AKORLAR",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KAZANIM": "12.1.8.3 Temel konumda eksik yedili akoru işitsel olarak ayırt eder."
+    },
+    {
+      "ÜNİTE": "TRANSPOZE VE MODÜLASYON",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "12.2.1.1 Transpoze işlemini açıklar.\n12.2.1.2 Transpoze işlemini uygular."
+    },
+    {
+      "ÜNİTE": "TRANSPOZE VE MODÜLASYON",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "12.2.2.1 Modülasyon kavramını açıklar.\n12.2.2.2 Modülasyon işlemini uygular."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "12.3.1.1 La majör diziyi oluşturur.\n12.3.1.2 La majör dizinin derecelerini ayırt eder.\nDoğal yapısına önem verilir.\nTonik ve dominant notalarına önem verilir."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "12.3.1.3 La majör tonundaki solfejleri okur.\n12.3.1.4 La majör tonundaki ezgi diktelerini yazar.\nÇıkıcı ve inici solfejlerde entonasyon ve seslendirme doğruluğu sağlanır.\nRitim doğruluğu ve metronom kullanımı yapılır.\nGürlük uygulaması yapılır.\nDeşifre çalışmaları yapılır.\nBasit ve bileşik ölçülerdeki tartım kalıplarına yer verilir."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "12.3.2.1 Fa diyez minör diziyi oluşturur.\n12.3.2.2 Fa diyez minör dizinin derecelerini ayırt eder.\nDoğal armonik ve melodik fa diyez minör diziler yazılır.\nTonik ve yedinci derece notalarına önem verilir.\nFarklı minör dizi türleri arasındaki değişiklikler ele alınır."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 12.3.2.3 Fa diyez minör tonundaki solfejleri okur.\nÇıkıcı ve inici solfejlerde entonasyon ve seslendirme doğruluğu sağlanır.\nRitim doğruluğu ve metronom kullanımı yapılır.\nGürlük uygulaması yapılır.\nDeşifre çalışmaları yapılır."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "12.3.2.4 Fa diyez minör tonundaki ezgi diktelerini yazar.\nBasit ve bileşik ölçülerdeki tartım kalıplarına yer verilir."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "12.3.3.1 Mi bemol majör diziyi oluşturur.\nDoğal yapısına önem verilir."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "12.3.3.2 Mi bemol majör dizinin derecelerini ayırt eder.\nTonik ve dominant notalarına önem verilir."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "12.3.3.3 Mi bemol majör tonundaki solfejleri okur.\nÇıkıcı ve inici solfejlerde entonasyon ve seslendirme doğruluğu sağlanır.\nRitim doğruluğu ve metronom kullanımı yapılır.\nGürlük uygulaması yapılır.\nDeşifre çalışmaları yapılır."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "12.3.3.4 Mi bemol majör tonundaki ezgi diktelerini yazar.\nBasit ve bileşik ölçülerdeki tartım kalıplarına yer verilir."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "12.3.4.1 Do minör diziyi oluşturur.\nDoğal armonik ve melodik do minör diziler yazılır."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "12.3.4.2 Do minör dizinin derecelerini ayırt eder.\nTonik ve yedinci derece notalarına önem verilir.\nFarklı minör dizi türleri arasındaki değişiklikler ele alınır."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 12.3.4.3 Do minör tonundaki solfejleri okur.\nÇıkıcı ve inici solfejlerde entonasyon ve seslendirme doğruluğu sağlanır.\nRitim doğruluğu ve metronom kullanımı yapılır.\nGürlük uygulaması yapılır.\nDeşifre çalışmaları yapılır."
+    },
+    {
+      "ÜNİTE": "ÜÇ DİYEZLİ  ÜÇ BEMOLLÜ TONLAR",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "12.3.4.4 Do minör tonundaki ezgi diktelerini yazar.\nBasit ve bileşik ölçülerdeki tartım kalıplarına yer verilir."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

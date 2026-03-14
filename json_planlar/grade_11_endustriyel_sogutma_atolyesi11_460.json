@@ -1,0 +1,338 @@
+{
+  "sinif": "11",
+  "ders": "ENDUSTRIYEL SOGUTMA ATOLYESI-11",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ VİTRİN TİPİ SOĞUTUCULAR\n1.1. VİTRİN TİPİ SOĞUTUCULARIN KAPASİTESİNİ TESPİT ETME\n1.1.1. Vitrin Tipi Soğutucunun Ürün Tipine Göre Belirlenmesi\n1.1.2. Ürün Özelliğine Göre Soğutucu Ölçülerinin Belirlenmesi\n1.1.3. Vitrin Tipi Soğutucularda Isı",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Vitrin tipi soğutucu kapasitesini tespit eder."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "6",
+      "KONU": "1.2. VİTRİN TİPİ SOĞUTUCULARDA KULLANILAN MALZEMELER\n1.2.1. Vitrin Tipi Soğutucularda Kullanılan İzolasyon Malzemeleri\n1.2.2. Vitrin Tipi Soğutucularda Kullanılan Konstrüksiyon Malzemeleri\n1.2.3. Vitrin Tipi Soğutucularda Kullanılan Aydınlatma Malzemeler",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Vitrin tipi soğutucularda kullanılan malzemeleri açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "6",
+      "KONU": "1.3. VİTRİN TİPİ SOĞUTUCU DEVRE ELEMANLARI\n1.3.1. Vitrin Tipi Soğutucu Ana Devre Elemanları\n1.3.2. Vitrin Tipi Soğutucu Yardımcı Devre Elemanları\n1.3.3. Vitrin Tipi Soğutucuların Elektrik Devre Elemanları",
+      "KAZANIM": "Vitrin tipi soğutucu devre elemanlarını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "6",
+      "KONU": "1.4. VİTRİN TİPİ SOĞUTUCU MONTAJI\n1.4.1. Vitrin Tipi Soğutucular",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Vitrin tipi soğutucu montajı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "6",
+      "KONU": "1.5. VİTRİN TİPİ SOĞUTUCU VE ELEKTRİK DEVRE ELEMANLARININ MONTAJI\n1.5.1. Vitrin Tipi Soğutucu Ana Devre Elemanlarının Montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Vitrin tipi soğutucu ve elektrik devre elemanlarının montajını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "6",
+      "KONU": "1.5.2. Vitrin Tipi Soğutucu Yardımcı Devre Elemanlarının Montajı\n1.5.3. Vitrin Tipi Soğutucularda Terminal Montajı ve Elektrik Bağlantısı",
+      "KAZANIM": "Vitrin tipi soğutucu ve elektrik devre elemanlarının montajını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ DERİN DONDURUCULAR\n2.1. DERİN DONDURUCU SOĞUTUCU KAPASİTESİNİN BELİRLENMESİ\n2.1.1. Soğutularak Saklanacak Gıda Ürününün ve Miktarının Belirlenmesi\n2.1.2. Ürün Özelliğine Göre Soğutucu Ölçülerinin Belirlenmesi\n2.1.3. Derin Dondurucu Toplam",
+      "KAZANIM": "Derin dondurucu soğutucu kapasitesini tespit eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "6",
+      "KONU": "2.2. DERİN DONDURUCULARDA KULLANILAN GÖVDE MALZEMELERİ\n2.2.1. Derin Dondurucularda Kullanılan İzolasyon Malzemesinin Belirlenmesi\n2.2.2. Derin Dondurucularda Kullanılan Konstrüksiyon Malzemeleri\n2.2.3. Derin Dondurucularda Kullanılan Aydınlatma Malzemeler",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Derin dondurucu gövde malzemelerini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "6",
+      "KONU": "2.3. DERİN DONDURUCU DEVRE ELEMANLARI\n2.3.1. Derin Dondurucu Soğutma Ana ve Yardımcı Devre Elemanları\n2.3.2. Derin Dondurucu Elektrik Devre Elemanları\nAtatürkün eğitime ve bilime verdiği önem",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Derin dondurucu devre elemanlarını açıklar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "6",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "6",
+      "KONU": "2.4. DERİN DONDURUCU MONTAJI\n2.4.1. Derin Dondurucuların Montajı ve Kullanılacak Malzemeler",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Derin dondurucu montajı yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "6",
+      "KONU": "2.5. DERİN DONDURUCUNUN SOĞUTUCU VE ELEKTRİK DEVRE ELEMANLARININ MONTAJI",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Derin dondurucunun soğutucu ve elektrik devre elemanlarının montajını yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ BUZ MAKİNESİ ARIZALARI\n3.1. BUZ MAKİNESİ ELEKTRİK DEVRE ELEMANI ARIZALARI\n3.1.1. Kompresör Röle ve Termik Arızaları\n3.1.2. Basınç Anahtarı Arızaları\n3.1.3. Kondenser Fan Motoru Arızaları\n3.1.4. Selenoid Valf Arızaları\n3.1.5. Termostat Arı",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Buz makinesi elektrik devre elemanlarının arızalarını tespit eder."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "6",
+      "KONU": "3.2. BUZ MAKİNESİ SOĞUTMA DEVRE ELEMANLARI ARIZALARI\n3.2.1. Kompresör Arızaları\n3.2.2. Kondenser Arızaları\n3.2.3. Evaporatör Arızaları\n3.2.4. Genleşme Elemanı Arızaları\n3.2.5. Buz Makinesi Su Ön Soğutma Devresi Arızası",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Buz makinesi soğutma devre elemanlarının arızalarını tespit eder."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "6",
+      "KONU": "3.3. BUZ MAKİNESİ SU GİRİŞ HATTI ARIZALARI\n3.3.1. Buz Makinesi Ön Soğutma Hattı\n3.3.2. Üç Yollu Buz Ayırma Selenoid Valfi",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Buz makinesi su giriş hattı devre elemanlarının arızalarını tespit ederek arızaları giderir."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ SOĞUTUCULARIN PERFORMANS TESTİ\n4.1. VİTRİN TİPİ SOĞUTUCU PERFORMANS TESTİ\n4.1.1. Soğutucu Termostat Ayarı Kontrolü\n4.1.2. Otomatik Yapma Süresinin Kayıt Altına Alınması\n4.1.3. Kondenser Sıcaklığının Ölçümü\n4.1.4. Evaporatör Sıcaklık Ölçümü",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Vitrin tipi soğutucu performans testini yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "6",
+      "KONU": "4.2. DERİN DONDURUCU PERFORMANS TESTİ\n4.2.1. Kabin İçi Sıcaklık Ölçümü\n1.Dönem 2.Sınav",
+      "KAZANIM": "Derin dondurucu performans testini yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ SOĞUK ODA MONTAJ ÖNCESİ HAZIRLIK\n5.1. SOĞUK ODANIN YAPISAL ÖZELLİKLERİ\n5.1.1. Soğuk Odanın Ölçülerinin Belirlenmesi\n5.2. SOĞUK ODA ISI YÜKÜ HESABINDA DİKKATE ALINACAK HUSUSLAR",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Soğuk odanın yapısal özelliklerini açıklar.\nSoğuk oda ısı yükü hesabında dikkate alınacak hususları açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "6",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "6",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "6",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "6",
+      "KONU": "5.3. SOĞUK ODA SOĞUTMA ANA VE YARDIMCI DEVRE ELEMANLARI\n5.3.1. Kompresörlerin Görevi\n5.3.2. Kondenserlerin Görevi\n5.3.3. Evaporatörün Görevi\n5.3.4. Genleşme Elemanı Görevi\n5.3.5. Soğutma Yardımcı Devre Elemanları",
+      "KAZANIM": "Soğuk oda soğutma ana ve yardımcı devre elemanlarını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ SOĞUK ODA PANELLERİNİN MONTAJI\n6.1. SOĞUK ODALARIN FİZİKSEL ÖZELLİKLERİ\n6.1.1. Soğuk Oda Yeri Seçiminde Dikkat Edilecek Hususlar\n6.1.2. Erişilebilirlik\n6.1.3. Drenaj\n6.1.4. Çevresel Isı Yükler\n6.1.5. Enerji Beslemesi",
+      "KAZANIM": "Soğuk odaların fiziksel özelliklerini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "6",
+      "KONU": "6.2. SOĞUK ODA PANELLERİNİN MONTAJI\n6.2.1. Sandviç Panel Malzemelerinin Ölçüsü\n6.2.2. Taban Döşeme Montajı\n6.2.3. Yan Duvarların Montajı\n6.2.4. Tavan Montajı\n6.3. SOĞUK ODA KAPI MONTAJI\n6.3.1. Uygun Kapı Seçimi\n6.3.2. Kapı Montaj Uygulaması",
+      "KAZANIM": "Soğuk oda panelleri montajını yapar.\nSoğuk oda kapı montajını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ SOĞUK ODA SOĞUTMA DEVRE ELEMANLARI\n7.1. SOĞUK ODA SİSTEMLERİNDE KULLANILAN KOMPRESÖR MONTAJI\n7.1.1. Kompresörün Yapısı ve Teknik Özellikleri\n7.1.2. Kompresörün Teknik Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Soğuk oda sistemlerinde kullanılan kompresörlerin montajını yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "6",
+      "KONU": "7.1.3. Kompresörlerin Kullanıldığı Yerler\n7.1.4. Kompresör Montaj Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Soğuk oda sistemlerinde kullanılan kompresörlerin montajını yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "6",
+      "KONU": "7.2. SOĞUK ODA SİSTEMLERİNDE KULLANILAN KONDENSER VE EVAPORATÖR MONTAJI\n7.2.1. Sisteme Uygun Kondenser Seçimi\n7.2.2. Kondenser Montajı\n7.2.3. Sisteme Uygun Evaporatör Seçimi\n7.2.4. Evaporatör Montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Soğuk oda sistemlerinde kullanılan kondenserin ve evaporatörün montajını yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "6",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "6",
+      "KONU": "7.3. SOĞUK ODA SİSTEMLERİNDE KULLANILAN GENLEŞME ELEMANLARININ MONTAJI\n7.3.1. Genleşme Elemanı",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Soğuk oda sistemlerinde kullanılan genleşme elemanlarının montajını yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "6",
+      "KONU": "7.4. SOĞUK ODA SİSTEMLERİNDE KULLANILAN YARDIMCI DEVRE ELEMANLARININ MONTAJI\n7.4.1. Drayer Filtre Kurutucu\nAtatürkün vatan ve millet sevgisi\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Soğuk oda sistemlerinde kullanılan yardımcı devre elemanlarının montajını yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "6",
+      "KONU": "7.4.2. Gözetleme Camı\n7.4.3. Sıvı Tankı Receiver\n7.4.4. Emme Akümülatörü",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Soğuk oda sistemlerinde kullanılan yardımcı devre elemanlarının montajını yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "6",
+      "KONU": "7.5. SOĞUK ODAYI DEVREYE ALMA\n7.5.1. Vakumlama\n7.5.2. Azot Testi",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Soğuk odayı devreye alır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "6",
+      "KONU": "7.5.3. Soğutucu Akışkan Şarjı\n7.5.4. Sistemi Devreye Alma\n7.5.5. Performans Değerlendirme Testi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Soğuk odayı devreye alır."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ SOĞUK ODA ELEKTRİK DEVRESİ\n8.1. SOĞUK ODA KOMPRESÖRÜ TEK FAZLI  ÜÇ FAZLI ELEKTRİK DEVRESİ FAZ KORUMA RÖLELİ KURULUMU\n8.1.1. Kompresör Elektrik Terminal Bağlantısı\n8.1.2. Termik Röle Bağlantısı\n8.1.3. Kapasitör Bağlantısı\n\n8.1.4. Kombine",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Soğuk oda kompresörü tek fazlı  üç fazlı elektrik devresi faz koruma röleli kurulumunu yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "6",
+      "KONU": "8.2. SOĞUK ODA DEFROST DEVRESİ\n8.2.1. Termostop Termik Sigorta Bağlantısı\n8.2.2. Defrost Rezistansı Bağlantısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Soğuk oda defrost devresi montajını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "6",
+      "KONU": "8.3. SOĞUK ODA AYDINLATMA DEVRESİ\n8.3.1. Aç  Kapa Anahtar-Terminal Bağlantısı\n8.3.2. Oda İçi Aydınlatma İçin Akkor Lamba Bağlantısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Soğuk oda aydınlatma devresi montajını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "6",
+      "KONU": "8.4. SOĞUK ODA ALARM VE KAPI REZİSTANSI DEVRESİ\n8.4.1. Kapı Açık İkaz Devre Tesisatı\n8.4.2. Sıcaklık Alarm Devresi\n8.4.3. Soğuk Oda Kapı Contası\n8.4.4. Kapı Contası Rezistans Bağlantısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Soğuk oda alarm ve kapı rezistansı devresi montajını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "6",
+      "KONU": "8.5. SOĞUK ODA ELEKTRİK PANOSU MONTAJI\n8.5.1. On-Off Aç-Kapa Anahtar Bağlantısı\n8.5.2. Kontaktör Bağlantısı\n8.5.3. Kaçak Akım Koruma Rölesi Bağlantısı\n8.5.4. Termostat Bağlantısı\n8.5.5. Defrost Gösterge Lambası Bağlantısı\n8.5.6. Alarm Rölesi Bağlantısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Soğuk oda elektrik panosu montajını yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "6",
+      "KONU": "ÖĞRENME BİRİMİ SOĞUK ODAYI DEVREYE ALMA\n9.1. KOMPRESÖR ÇALIŞMA KONTROLLERİ\n9.1.1. İlk Harekete Çekilen Akım Kontrolü\n9.1.2. Daimî Devre Akımı Kontrolü\n9.1.3. Kompresör Çıkış Basıncı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Kompresör çalışma kontrollerini yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "6",
+      "KONU": "9.2. KORUMA DEVRE ELEMANLARININ AYARI\n9.2.1. Kompresör Kalkış İçin Ayarlanmış Gecikme Süresinin Ayarı\n9.2.2. Kompresör ve Fan Motorlarının Akımlarının Ölçülmesi\n9.2.3. Yüksek  Alçak Emniyet Basınç Anahtarlarının Emniyet Kesme Noktası Ayarları\n9.2.4. Kond",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Koruma devre elemanlarının ayarını yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "6",
+      "KONU": "9.3. SOĞUK ODA SİSTEMİ ÇALIŞMA AYARLARI\n9.3.1. Kompresörün Devreye Girme Gecikmesi Ayarı ve Önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Soğuk oda sistem istem çalışma ayarlarını yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "6",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

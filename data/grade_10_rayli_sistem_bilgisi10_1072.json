@@ -1,0 +1,386 @@
+{
+  "sinif": "10",
+  "ders": "RAYLI SİSTEM BILGISI-10",
+  "plan": [
+    {
+      "ÜNİTE": "Demiryolu Sektör Yapısı",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "1.  Raylı Sistemlerin Tarihsel Gelişimi  2.  Demiryolu Sektör Yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Raylı sistemlerin Dünyadaki ve Türkiyedeki tarihsel gelişimini açıklar.Demiryolu sektör yapısının iş adımlarını açıklar.\nRaylı sistemlerin Dünyadaki tarihi gelişimi ile yaşama etkisini izah eder.\n       Raylı sistemlerin Türkiyedeki tarihi gelişimi ile yaşama etkisini izah eder.\n       Dünyadaki ve ülkemizdeki raylı sistemler sektörünün durumunu açıklar.\n       Yapım mülkiyet bakım ve işletme açısından sınıflandırır.\n       Ülkemizdeki demiryolu sektörünün gelişimini açıklar.\n       Türkiye demiryolu tren işletmeciliğinin çalışma yapısı izah eder.\n       Kapasite talep sürecini anlatır."
+    },
+    {
+      "ÜNİTE": "Demiryolu Sektör Yapısı",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "3.  Dünyada Demiryolu Örgütleri  4.  Dünyada Demiryolu Reformu",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Dünyada demiryoluna yön veren örgütleri açıklar.Dünyada demiryolu reform sürecini açıklar.\nGlobal ve bölgesel birlikleri izah eder.\n       Türkiyenin üyesi olduğu birlikleri açıklar.\n       Yatay ve dikey yapılanma modellerini izah eder."
+    },
+    {
+      "ÜNİTE": "Demiryolu Sektör Yapısı",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "5.  Avrupa Birliği Demiryolu Politikaları",
+      "KAZANIM": "Avrupa Birliği demiryolu politikalarını açıklar.\nAvrupa birliği ulaştırma politikasının temellerini sıralar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem İşletmeciliği",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "1.  Raylı sistemler işletmeciliğinde kullanılan terimler",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Raylı sistemler işletmeciliğinde kullanılan terimleri açıklar.\nRaylı sistemler işletmeciliğindeki iş ve görevlere ait teknik terimleri açıklar.\n       İstasyon sınırları ve tesislerini ait terimleri açıklar.\n       Trenlerin sevk ve emirlerini açıklar.\n       Trenlerin Buluşması ve Öne Geçmesi durumlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem İşletmeciliği",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "1.  Raylı sistemler işletmeciliğinde kullanılan terimler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Raylı sistemler işletmeciliğinde kullanılan terimleri açıklar.\nRaylı sistemler işletmeciliğindeki iş ve görevlere ait teknik terimleri açıklar.\n       İstasyon sınırları ve tesislerini ait terimleri açıklar.\n       Trenlerin sevk ve emirlerini açıklar.\n       Trenlerin Buluşması ve Öne Geçmesi durumlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem İşletmeciliği",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "2.  Raylı Sistemlerde Kullanılan Trafik Sistemleri",
+      "KAZANIM": "Raylı sistemler trafiğinde güvenliğin sağlanması için kullanılan işaretleri açıklar.\nTMİ Trenlerin Trafiğinin Merkezden Telefonla İdaresi Sisteminde tren trafiği sisteminin özelliklerini ve çalışma mantığını açıklar.\n       TSİ Trenlerin Trafiğinin Sinyallerle İdaresi Sisteminde tren trafiği sisteminin özelliklerini ve çalışma mantığını açıklar.\n       ETCS Avrupa Tren Kontrol Sistemi Sisteminde tren trafiği sisteminin özelliklerini ve çalışma mantığını açıklar.\n       CBTC İletişim Tabanlı Kontrol Sistemi Sisteminde tren trafiği sisteminin özelliklerini ve çalışma mantığını açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem İşletmeciliği",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "2.  Raylı Sistemlerde Kullanılan Trafik Sistemleri",
+      "KAZANIM": "Raylı sistemler trafiğinde güvenliğin sağlanması için kullanılan işaretleri açıklar.\nTMİ Trenlerin Trafiğinin Merkezden Telefonla İdaresi Sisteminde tren trafiği sisteminin özelliklerini ve çalışma mantığını açıklar.\n       TSİ Trenlerin Trafiğinin Sinyallerle İdaresi Sisteminde tren trafiği sisteminin özelliklerini ve çalışma mantığını açıklar.\n       ETCS Avrupa Tren Kontrol Sistemi Sisteminde tren trafiği sisteminin özelliklerini ve çalışma mantığını açıklar.\n       CBTC İletişim Tabanlı Kontrol Sistemi Sisteminde tren trafiği sisteminin özelliklerini ve çalışma mantığını açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem İşletmeciliği",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "3.  İletişim ve Manevralar",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Raylı sistemlerde yapılan telefon ve telsiz çeşitlerini kullanımını konuşma kurallarını ve konuşmaların kayıt altına alınmasını gerekçeleri ile açıklar.\nÇağırma lamba ve zilinin kullanılma şekli ve gerekçesini açıklar.\n       Raylı sistem araçlarında ve tesislerindeki anons sistemlerini açıklar.\n       Yolcu bilgilendirme sistemlerini açıklar.\n       Merkezi saat sistemini açıklar.\n       Raylı sistemlerde yapılan manevraların gerekliliğini çeşitlerini açıklar.\n       Manevralarda hız ve önemini açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem İşletmeciliği",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "3.  İletişim ve Manevralar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Raylı sistemlerde yapılan telefon ve telsiz çeşitlerini kullanımını konuşma kurallarını ve konuşmaların kayıt altına alınmasını gerekçeleri ile açıklar.\nÇağırma lamba ve zilinin kullanılma şekli ve gerekçesini açıklar.\n       Raylı sistem araçlarında ve tesislerindeki anons sistemlerini açıklar.\n       Yolcu bilgilendirme sistemlerini açıklar.\n       Merkezi saat sistemini açıklar.\n       Raylı sistemlerde yapılan manevraların gerekliliğini çeşitlerini açıklar.\n       Manevralarda hız ve önemini açıklar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Yol Bilgisi",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "1.   Demiryolu İnşaatı ile İlgili Teknik Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Demir yolu inşaatı ile ilgili teknik kavramları kullanarak çalışan personelin görev tanımlarını yapar.\nDemiryolu inşaatında çalışan personelin görev tanımlarını sıralar.\n       Yol teşkilatı ve numaralandırılmasını açıklar.\n       Demiryolu inşaatı ile ilgili teknik kavramları sayar.\n       Demiryolunu tanım ve hızlarına göre sınıflandırır.\n       Gabari tanımını yapar ve çeşitlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Yol Bilgisi",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "2.   Demiryolu Alt yapı ve Üst Yapı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Demiryolu alt yapı ve üst yapı elemanlarınının önemini açıklar.\nAltyapının tanımını altyapının unsurlarını açıklar.\n       Üstyapının tanımını yapar ve elemanlarını sıralar.\n       Limit taşlarının önemini izah eder."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Yol Bilgisi",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "3.   Demiryolu Makasları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Demiryolu makasların tanımı bölümlerini ve çeşitlerini açıklar.\nMakasların tanımını ve bölümlerini açıklar.\n       Makasların çeşitlerini açıklar\n       Makaslarda deraya sebebiyet verebilecek hususları izah eder."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Yol Bilgisi",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "4.   Demiryolu Geometrisini Oluşturan Parametreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Demiryoluna etki eden kuvvetleri ve yolun geometrisini oluşturan parametreler arasındaki ilişkileri göz önünde bulundurup yolun durumunu değerlendirir.\nDingil basınçlarını ve Türkiyedeki dingil basınçlarını açıklar.\n       Yola etki eden kuvvetleri sıralar.\n       Demiryolu geometrisini oluşturan elemanlar arasındaki ilişkileri izah eder."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Yol Bilgisi",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "5.   Raylı Sistemlerde Görülen Yol Arızaları ve Araçlara Uygulanan Seyir Kısıtlamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Raylı sistemlerde görülen yol arızalarına göre raylı sistem araçlarına uygulanacak seyir kısıtlamalarını açıklar\nAltyapı arızalarını açıklar.\n       Üstyapı arızalarını açıklar.\n       Hızın tanımını yaparak çeşitlerini sıralar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Yol Bilgisi",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "5.   Raylı Sistemlerde Görülen Yol Arızaları ve Araçlara Uygulanan Seyir Kısıtlamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Raylı sistemlerde görülen yol arızalarına göre raylı sistem araçlarına uygulanacak seyir kısıtlamalarını açıklar\nAltyapı arızalarını açıklar.\n       Üstyapı arızalarını açıklar.\n       Hızın tanımını yaparak çeşitlerini sıralar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Yol Bilgisi",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "5.   Raylı Sistemlerde Görülen Yol Arızaları ve Araçlara Uygulanan Seyir Kısıtlamaları",
+      "KAZANIM": "Raylı sistemlerde görülen yol arızalarına göre raylı sistem araçlarına uygulanacak seyir kısıtlamalarını açıklar\nAltyapı arızalarını açıklar.\n       Üstyapı arızalarını açıklar.\n       Hızın tanımını yaparak çeşitlerini sıralar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Yol Bilgisi",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "5.   Raylı Sistemlerde Görülen Yol Arızaları ve Araçlara Uygulanan Seyir Kısıtlamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Raylı sistemlerde görülen yol arızalarına göre raylı sistem araçlarına uygulanacak seyir kısıtlamalarını açıklar\nAltyapı arızalarını açıklar.\n       Üstyapı arızalarını açıklar.\n       Hızın tanımını yaparak çeşitlerini sıralar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Elektrik-Elektronik Bilgisi",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "1.   Raylı Sistemlerdeki Sinyalizasyon Sistemleri",
+      "KAZANIM": "Raylı sistemlerde sinyalizasyon sistemlerini açıklar.\nSinyalizasyon sisteminin tanımı amacı ve tarihsel gelişimini açıklar.\n       Sinyalizasyon sistemi çeşitleri üzerinde durulur.\n       Sinyalizasyon sistemi yol boyu ekipmanları üzerinde durulur.\n       Tren koruma ve kontrol sistemlerini açıklar.\n       Kumanda merkezisini yapısı ve çalışmasını açıklar.\n       Kent içi raylı sistemlerde sinyalizasyon sistemini ve şehirlerarası raylı sistem elektrikli sinyalizasyon sistemi arasındaki farklılıkları açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Elektrik-Elektronik Bilgisi",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "1.   Raylı Sistemlerdeki Sinyalizasyon Sistemleri",
+      "KAZANIM": "Raylı sistemlerde sinyalizasyon sistemlerini açıklar.\nSinyalizasyon sisteminin tanımı amacı ve tarihsel gelişimini açıklar.\n       Sinyalizasyon sistemi çeşitleri üzerinde durulur.\n       Sinyalizasyon sistemi yol boyu ekipmanları üzerinde durulur.\n       Tren koruma ve kontrol sistemlerini açıklar.\n       Kumanda merkezisini yapısı ve çalışmasını açıklar.\n       Kent içi raylı sistemlerde sinyalizasyon sistemini ve şehirlerarası raylı sistem elektrikli sinyalizasyon sistemi arasındaki farklılıkları açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Elektrik-Elektronik Bilgisi",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "2.   Raylı Sistemlerdeki Telekomünikasyon Sistemleri",
+      "KAZANIM": "Raylı sistemlerde haberleşme sistemlerini açıklar.\nHaberleşmenin tanımı ve önemini açıklar.\n       Demiryolu haberleşme sistemi üzerinde durulur.\n       Haberleşme araçları ve kullanma yöntemlerini sıralar.\n       Dispeçer telefon sistemi üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Elektrik-Elektronik Bilgisi",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "2.   Raylı Sistemlerdeki Telekomünikasyon Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Raylı sistemlerde haberleşme sistemlerini açıklar.\nHaberleşmenin tanımı ve önemini açıklar.\n       Demiryolu haberleşme sistemi üzerinde durulur.\n       Haberleşme araçları ve kullanma yöntemlerini sıralar.\n       Dispeçer telefon sistemi üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Elektrik-Elektronik Bilgisi",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "3.   Raylı Sistemlerdeki Elektrifikasyon Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Raylı sistemlerde elektrifikasyon sistemlerini açıklar.\nRaylı sistemlerde elektrifikasyonunun sistemlerinin tarihsel gelişimini açıklar.\n       Bugüne kadar uygulanmış cer akım türlerini açıklar.\n       Elektrifikasyon besleme merkezlerini açıklar.\n       Telekomand merkezleri üzerinde durulur.\n       katener ve rijit katener sistemini açıklar.\n       3.Ray ve APS sistemlerini açıklar.\n       Kent içi raylı sistemlerde elektrifikasyon sistemini ve şehirlerarası raylı sistem elektrifikasyon sistemi arasındaki farklılıkları açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Elektrik-Elektronik Bilgisi",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "3.   Raylı Sistemlerdeki Elektrifikasyon Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Raylı sistemlerde elektrifikasyon sistemlerini açıklar.\nRaylı sistemlerde elektrifikasyonunun sistemlerinin tarihsel gelişimini açıklar.\n       Bugüne kadar uygulanmış cer akım türlerini açıklar.\n       Elektrifikasyon besleme merkezlerini açıklar.\n       Telekomand merkezleri üzerinde durulur.\n       katener ve rijit katener sistemini açıklar.\n       3.Ray ve APS sistemlerini açıklar.\n       Kent içi raylı sistemlerde elektrifikasyon sistemini ve şehirlerarası raylı sistem elektrifikasyon sistemi arasındaki farklılıkları açıklar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Elektrik-Elektronik Bilgisi",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "3.   Raylı Sistemlerdeki Elektrifikasyon Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Raylı sistemlerde elektrifikasyon sistemlerini açıklar.\nRaylı sistemlerde elektrifikasyonunun sistemlerinin tarihsel gelişimini açıklar.\n       Bugüne kadar uygulanmış cer akım türlerini açıklar.\n       Elektrifikasyon besleme merkezlerini açıklar.\n       Telekomand merkezleri üzerinde durulur.\n       katener ve rijit katener sistemini açıklar.\n       3.Ray ve APS sistemlerini açıklar.\n       Kent içi raylı sistemlerde elektrifikasyon sistemini ve şehirlerarası raylı sistem elektrifikasyon sistemi arasındaki farklılıkları açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Elektrik-Elektronik Bilgisi",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "3.   Raylı Sistemlerdeki Elektrifikasyon Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Raylı sistemlerde elektrifikasyon sistemlerini açıklar.\nRaylı sistemlerde elektrifikasyonunun sistemlerinin tarihsel gelişimini açıklar.\n       Bugüne kadar uygulanmış cer akım türlerini açıklar.\n       Elektrifikasyon besleme merkezlerini açıklar.\n       Telekomand merkezleri üzerinde durulur.\n       katener ve rijit katener sistemini açıklar.\n       3.Ray ve APS sistemlerini açıklar.\n       Kent içi raylı sistemlerde elektrifikasyon sistemini ve şehirlerarası raylı sistem elektrifikasyon sistemi arasındaki farklılıkları açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Raylı Sistem Araçlarının Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Ulusal ve uluslararası raylı sistem örgütlerinin standartlarına ve anlaşmalara göre tren ve türlerini teşhis eder.\nTrenin tanımını açıklar ve tren türlerini sayar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Raylı Sistem Araçlarının Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Ulusal ve uluslararası raylı sistem örgütlerinin standartlarına ve anlaşmalara göre tren ve türlerini teşhis eder.\nTrenin tanımını açıklar ve tren türlerini sayar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "2.   Raylı Sistem Çeken Araçlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Raylı Sistemlerde çeken araçların türlerini ve çekiş sistemlerini sınıflandırarak numarasına göre aracın teknik bilgilerini tespit eder.\nÇeken araçları sınıflandırır.\n       Tren setlerini açıklar.\n       Çeken araçların numaralandırılmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.   Raylı Sistem Çeken Araçlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Raylı Sistemlerde çeken araçların türlerini ve çekiş sistemlerini sınıflandırarak numarasına göre aracın teknik bilgilerini tespit eder.\nÇeken araçları sınıflandırır.\n       Tren setlerini açıklar.\n       Çeken araçların numaralandırılmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "3.   Raylı Sistem Çekilen Araçlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Raylı Sistem Çekilen araçların numarasına göre aracın teknik bilgilerini tespit eder.\nÇekilen araç tanımı ve çeşitlerini sayar.\n       Çekilen araç üzerinde bulunan yazı ve işaretleri açıklar.\n       Ana parçalar ve görevlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "3.   Raylı Sistem Çekilen Araçlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Raylı Sistem Çekilen araçların numarasına göre aracın teknik bilgilerini tespit eder.\nÇekilen araç tanımı ve çeşitlerini sayar.\n       Çekilen araç üzerinde bulunan yazı ve işaretleri açıklar.\n       Ana parçalar ve görevlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.   Kent İçi Raylı Sistem Araçları",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Kent İçi Raylı Sistemlerde kullanılan araçların çeşitlerini ve özelliklerini açıklar.\nKent içi raylı sistem araçlarının kent içi ulaşımdaki yerini izah eder.\n       Raybüs ve troleybüs araçlarını ve özelliklerini tanımlar.\n       Kent içi raylı sistemlerde banliyö sistemini ve özelliklerini açıklar.\n       Tramvay araçlarını ve özelliklerini açıklar.\n       Metro araçlarını ve özelliklerini açıklar.\n       Maglev araçlarını ve özelliklerini açıklar.\n       Monoray araçlarını ve özelliklerini açıklar.\n       Sürücüsüz metro sistemlerini ve özelliklerini açıklar.\n       Finüküler sistemi ve özelliklerini tanımlar.\n       Teleferik sistemini ve özelliklerini tanımlar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.   Kent İçi Raylı Sistem Araçları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Kent İçi Raylı Sistemlerde kullanılan araçların çeşitlerini ve özelliklerini açıklar.\nKent içi raylı sistem araçlarının kent içi ulaşımdaki yerini izah eder.\n       Raybüs ve troleybüs araçlarını ve özelliklerini tanımlar.\n       Kent içi raylı sistemlerde banliyö sistemini ve özelliklerini açıklar.\n       Tramvay araçlarını ve özelliklerini açıklar.\n       Metro araçlarını ve özelliklerini açıklar.\n       Maglev araçlarını ve özelliklerini açıklar.\n       Monoray araçlarını ve özelliklerini açıklar.\n       Sürücüsüz metro sistemlerini ve özelliklerini açıklar.\n       Finüküler sistemi ve özelliklerini tanımlar.\n       Teleferik sistemini ve özelliklerini tanımlar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "4.   Kent İçi Raylı Sistem Araçları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Kent İçi Raylı Sistemlerde kullanılan araçların çeşitlerini ve özelliklerini açıklar.\nKent içi raylı sistem araçlarının kent içi ulaşımdaki yerini izah eder.\n       Raybüs ve troleybüs araçlarını ve özelliklerini tanımlar.\n       Kent içi raylı sistemlerde banliyö sistemini ve özelliklerini açıklar.\n       Tramvay araçlarını ve özelliklerini açıklar.\n       Metro araçlarını ve özelliklerini açıklar.\n       Maglev araçlarını ve özelliklerini açıklar.\n       Monoray araçlarını ve özelliklerini açıklar.\n       Sürücüsüz metro sistemlerini ve özelliklerini açıklar.\n       Finüküler sistemi ve özelliklerini tanımlar.\n       Teleferik sistemini ve özelliklerini tanımlar."
+    },
+    {
+      "ÜNİTE": "Raylı Sistem Araç Bilgisi",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "4.   Kent İçi Raylı Sistem Araçları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Kent İçi Raylı Sistemlerde kullanılan araçların çeşitlerini ve özelliklerini açıklar.\nKent içi raylı sistem araçlarının kent içi ulaşımdaki yerini izah eder.\n       Raybüs ve troleybüs araçlarını ve özelliklerini tanımlar.\n       Kent içi raylı sistemlerde banliyö sistemini ve özelliklerini açıklar.\n       Tramvay araçlarını ve özelliklerini açıklar.\n       Metro araçlarını ve özelliklerini açıklar.\n       Maglev araçlarını ve özelliklerini açıklar.\n       Monoray araçlarını ve özelliklerini açıklar.\n       Sürücüsüz metro sistemlerini ve özelliklerini açıklar.\n       Finüküler sistemi ve özelliklerini tanımlar.\n       Teleferik sistemini ve özelliklerini tanımlar."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "KONU": "Ortam Raylı sistem işletme sahaları veya atölyeleriDonanım  Sınıf  etkileşimli  tahtaprojeksiyon  bilgisayar  ortamı  konularla ilgili kuruluşların dokümanları ve ders notları vb."
+    },
+    {
+      "KONU": "Bu     derste     öğrenci     performansı     belirlemeye     yönelik     çalışmalar değerlendirilirken    gözlem    formu    derecelendirme   ölçeği    ve    dereceli puanlama   anahtarı   gibi   ölçme   araçlarından   uygun   olanlar   seçilerek kullanılabilir.  Bunun  yanında  öz  değerlendirme  ve  akran  değerlendirme formları   kullanılarak   öğrencilerin   öğretimin   süreç   boyutuna   katılmalarısağlanabilir."
+    },
+    {
+      "KONU": "Demiryolu Sektör Yapısı      Demiryolunun tarihsel gelişimi ile ilgili sunu hazırlamak     Demiryolu sektör yapısı ile ilgili sunu hazırlamak     Demiryoluna yön veren örgütler ile ilgili sunu hazırlamak     Günümüzdeki şehirlerarası raylı sistem hatları ile ilgili sunu hazırlamak\nRaylı Sistem İşletmeciliği      Raylı sistem işletmeciliği ile ilgili teknik terimler üzerine sunu hazırlamak     TMİ sistemi üzerine sunu hazırlamak     TSİ sistemi üzerine sunu hazırlamak     ETCS sistemi üzerine sunu hazırlamak     CBTC sistemi üzerine sunu hazırlamak     Kabul ve sevk emirleri üzerine sunu hazırlamak     Trenlerin buluşması ve öne geçmesi üzerine sunu hazırlamak     Raylı sistemlerde manevralar üzerine sunu hazırlamak\nRaylı Sistem Yol Bilgisi      Demiryolu inşaatı ile ilgili sunu hazırlamak     Demiryolunu oluşturan alt yapı le ilgili sunu hazırlamak     Demiryolunu oluşturan üst yapı ile ilgili sunu hazırlamak     Demiryolu makasları ile ilgili sunu hazırlamak     Makaslarda deraya sebep olabilecek durumlar ile ilgili sunu hazırlamak     Raylı sistemlerde görülen yol kazaları üzerine sunu hazırlamak\nRaylı Sistem Elektrik-Elektronik Bilgisi      Mekanik sinyaller ile ilgili sunu hazırlamak     Konvansiyonel hatlardaki sinyaller ile ilgili sunu hazırlamak     YHT hattı sinyalleri ile ilgili sunu hazırlamak     Kent içi raylı sistemlerde kullanılan sinyaller ile ilgili sunu hazırlamak     CBTC ile ilgili sunu hazırlamak     ATO ile ilgili sunu hazırlamak     Bloklar üzerinde hareket eden trenler ile ilgili sunu hazırlamak     Kent içi raylı sistemlerdeki istasyon hizmetleri ile ilgili sunu hazırlamak     Kent içi ve TCDD işletmelerindeki elektrifikasyon sistemleri üzerine sunu hazırlamak\nRaylı Sistem Araç Bilgisi      Tren dizisi oluşturma ile ilgili sunu hazırlamak     Çeken araçalr ile ilgili sunu hazırlamak     Çekilen araçlar ile ilgili sunu hazırlamak     Kent içi raylı sistemlerde kullanılan araçlar ile ilgili sunu hazırlamak     Çekilen araçlardaki yazı ve numaralar ile ilgili sunu hazırlamak     Vagonların birbirine bağlanma işlemini yapmak"
+    },
+    {
+      "KONU": "* * Bu plan Talim Terbiye Kurulunun yayınladığı Çerçeve Öğretim Programı ve Ders Bilgi Formlarına göre hazırlanmıştır. ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır."
+    }
+  ]
+}

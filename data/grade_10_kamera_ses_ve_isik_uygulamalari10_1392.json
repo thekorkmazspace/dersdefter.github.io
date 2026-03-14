@@ -1,0 +1,377 @@
+{
+  "sinif": "10",
+  "ders": "KAMERA, SES VE ISIK UYGULAMALARI-10",
+  "plan": [
+    {
+      "ÜNİTE": "Ses Kaydı ve Ses Mikserinin Kullanımı",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "6",
+      "KONU": "1. Yönelme özelliğine göre mikrofon seçme",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Yönelme özelliğine göre mikrofon seçer.\nYönelme özelliklerine göre mikrofonlar anlatılır.\n       Farklı yönelme özelliklerine sahip mikrofonlarla ses kaydı yaptırılır ve dinletilir.\n       Farklı yönelme özelliklerine sahip mikrofonların hangi amaçla kullanıldığını anlatılır."
+    },
+    {
+      "ÜNİTE": "Ses Kaydı ve Ses Mikserinin Kullanımı",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "6",
+      "KONU": "2. Kullanım özelliğine göre mikrofon seçme",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Kullanım özelliğine göre mikrofon seçer.\nKullanım özelliklerine göre mikrofonlar anlatılır.\n       Farklı kullanım özelliklerine sahip mikrofonlarla ses kaydı yaptırılır ve dinletilir.\n       Farklı kullanım özelliklerine sahip mikrofonların hangi amaçla kullanıldığı anlatılır."
+    },
+    {
+      "ÜNİTE": "Ses Kaydı ve Ses Mikserinin Kullanımı",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "6",
+      "KONU": "3. Ses mikseri kullanma",
+      "KAZANIM": "Ses mikseri kullanır.\nSes mikserine bağlanan konektörleri tanıtır.\n       Ses mikserine farklı türlerde mikrofonları bağlatır.\n       Ses mikserine audio monitör ve bilgisayar bağlatır.\n       Mikrofon ve bilgisayardan gelen sesleri mikser kullanarak hoparlöre verir."
+    },
+    {
+      "ÜNİTE": "Ses Kaydı ve Ses Mikserinin Kullanımı",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "6",
+      "KONU": "3. Ses mikseri kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Ses mikseri kullanır.\nSes mikserine bağlanan konektörleri tanıtır.\n       Ses mikserine farklı türlerde mikrofonları bağlatır.\n       Ses mikserine audio monitör ve bilgisayar bağlatır.\n       Mikrofon ve bilgisayardan gelen sesleri mikser kullanarak hoparlöre verir."
+    },
+    {
+      "ÜNİTE": "Ses Kaydı ve Ses Mikserinin Kullanımı",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "6",
+      "KONU": "3. Ses mikseri kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Ses mikseri kullanır.\nSes mikserine bağlanan konektörleri tanıtır.\n       Ses mikserine farklı türlerde mikrofonları bağlatır.\n       Ses mikserine audio monitör ve bilgisayar bağlatır.\n       Mikrofon ve bilgisayardan gelen sesleri mikser kullanarak hoparlöre verir."
+    },
+    {
+      "ÜNİTE": "Radyo Tiyatrosu Hazırlama",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "6",
+      "KONU": "1. Radyo tiyatrosu metni yazma",
+      "KAZANIM": "Radyo tiyatrosu metni yazar.\nÖrnek radyo tiyatroları dinletilir.\n       Örnek  radyo  tiyatrosu  metinlerinin biçim ve içerik özelliklerini inceletir.\n       Özgün bir radyo tiyatrosu metni yazdırılır."
+    },
+    {
+      "ÜNİTE": "Radyo Tiyatrosu Hazırlama",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "6",
+      "KONU": "1. Radyo tiyatrosu metni yazma",
+      "KAZANIM": "Radyo tiyatrosu metni yazar.\nÖrnek radyo tiyatroları dinletilir.\n       Örnek  radyo  tiyatrosu  metinlerinin biçim ve içerik özelliklerini inceletir.\n       Özgün bir radyo tiyatrosu metni yazdırılır."
+    },
+    {
+      "ÜNİTE": "Radyo Tiyatrosu Hazırlama",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "6",
+      "KONU": "2. Radyo tiyatrosu için gerekli unsurları",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Radyo tiyatrosu için gerekli unsurları hazırlar.\nRadyo tiyatrosunun diyaloglarını kaydeder.\n       Radyo tiyatrosunun efektlerini kaydeder veveya seçer.\n       Radyo tiyatrosunun müziklerini kaydeder veveya seçer."
+    },
+    {
+      "ÜNİTE": "Radyo Tiyatrosu Hazırlama",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "6",
+      "KONU": "2. Radyo tiyatrosu için gerekli unsurları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Radyo tiyatrosu için gerekli unsurları hazırlar.\nRadyo tiyatrosunun diyaloglarını kaydeder.\n       Radyo tiyatrosunun efektlerini kaydeder veveya seçer.\n       Radyo tiyatrosunun müziklerini kaydeder veveya seçer."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "6",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Radyo Tiyatrosu Hazırlama",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "6",
+      "KONU": "2. Radyo tiyatrosu için gerekli unsurları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Radyo tiyatrosu için gerekli unsurları hazırlar.\nRadyo tiyatrosunun diyaloglarını kaydeder.\n       Radyo tiyatrosunun efektlerini kaydeder veveya seçer.\n       Radyo tiyatrosunun müziklerini kaydeder veveya seçer."
+    },
+    {
+      "ÜNİTE": "Kamera Ayarlarının Yapılması",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "6",
+      "KONU": "1.  Beyaz ve siyah ayarı yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Beyaz ve siyah ayarı yapar.\nRenk sıcaklığı ve Kelvini açıklar.\n       Kameraya Kelvin değeri atamasını ve kameranın Kelvin seçicisini kullanmasını sağlar.\n       Manuel beyaz ayarını yaptırır.\n       Siyah ayarını açıklar ve yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamera Ayarlarının Yapılması",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "6",
+      "KONU": "2.  Gain ayarı yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Gain ayarını yapar.\nGain ayarını açıklar ve yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamera Ayarlarının Yapılması",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "6",
+      "KONU": "3.  Shutter ayarı yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Shutter ayarını yapar.\nShutter ayarını açıklar ve yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamera Ayarlarının Yapılması",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "6",
+      "KONU": "4.  Bakaç ayarlarını yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Bakaç ayarlarını yapar.\nColor bar kullanarak bakaç ayarlarını yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamera Hareketlerinin Uygulanması",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "6",
+      "KONU": "1.   Gövdeyle yapılan hareketleri uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Gövdeyle yapılan hareketleri uygular.\nPan ve tilt hareketlerinin kullanım amaçlarından bahseder\n       Pan ve tilt hareketlerini yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamera Hareketlerinin Uygulanması",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "6",
+      "KONU": "2.   Mercekle yapılan hareketleri uygulama",
+      "KAZANIM": "Mercekle yapılan hareketleri uygular.\nZoom in ve zoom out hareketlerini uygulatır.\n       Mezopan hareketini uygulatır."
+    },
+    {
+      "ÜNİTE": "Kamera Hareketlerinin Uygulanması",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "6",
+      "KONU": "3.   Kameranın yardımcı ekipmanlarla yaptığı hareketleri uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Kameranın yardımcı ekipmanlarla yaptığı hareketleri uygular.\nÇekimin amacına uygun kamera altlığı seçtirir.\n       Kamera  altlığına  uygun  kamera  hareketlerini uygulatır.\n       Su altı kameramanlığı açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "6",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "6",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "6",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Kamerada Kompozisyon Kurallarının Uygulanması",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "6",
+      "KONU": "2. Kompozisyon bileşenlerini uygulama",
+      "KAZANIM": "Kompozisyon bileşenlerini uygular.\nKompozisyon bileşenlerini anlatır.\n       Kompozisyon bileşenlerine uygun çekim yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamerada Kompozisyon Kurallarının Uygulanması",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "6",
+      "KONU": "3. Çerçeveleme kurallarını uygulama",
+      "KAZANIM": "Çerçeveleme kurallarını uygular.\nBaş bakış hareket boşluğunu anlatır.\n       Baş bakış hareket  boşluğuna  uygun  çekim yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamerada Kompozisyon Kurallarının Uygulanması",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "6",
+      "KONU": "4. Çekimin amacına uygun olarak kamera konumunu belirleme",
+      "KAZANIM": "Çekimin amacına uygun olarak kamera konumunu belirler.\nAlt açı üst açı göz hizası kuş bakışı dutch çarpık açı nesnel ve öznel açıları anlatır.\n       Bu açılara uygun çekim yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamerada Kompozisyon Kurallarının Uygulanması",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "6",
+      "KONU": "5. Aks kuralını uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Aks kuralını uygular.\nAmors çerçeveleme tekniğini anlatır.\n       Aks kuralını anlatır.\n       Aks kuralına uygun amors çekim yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamerada Kompozisyon Kurallarının Uygulanması",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "6",
+      "KONU": "5. Aks kuralını uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Aks kuralını uygular.\nAmors çerçeveleme tekniğini anlatır.\n       Aks kuralını anlatır.\n       Aks kuralına uygun amors çekim yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamerada Kompozisyon Kurallarının Uygulanması",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "6",
+      "KONU": "5. Aks kuralını uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Aks kuralını uygular.\nAmors çerçeveleme tekniğini anlatır.\n       Aks kuralını anlatır.\n       Aks kuralına uygun amors çekim yaptırır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "6",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Kamerada Kompozisyon Kurallarının Uygulanması",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "6",
+      "KONU": "5. Aks kuralını uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Aks kuralını uygular.\nAmors çerçeveleme tekniğini anlatır.\n       Aks kuralını anlatır.\n       Aks kuralına uygun amors çekim yaptırır."
+    },
+    {
+      "ÜNİTE": "Kamerada Kompozisyon Kurallarının Uygulanması",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "6",
+      "KONU": "5. Aks kuralını uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Aks kuralını uygular.\nAmors çerçeveleme tekniğini anlatır.\n       Aks kuralını anlatır.\n       Aks kuralına uygun amors çekim yaptırır."
+    },
+    {
+      "ÜNİTE": "Temel Aydınlatma",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "6",
+      "KONU": "1. Sert ve yumuşak ışık kaynaklarını kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Sert ve yumuşak ışık kaynaklarını kullanır.\nTemel aydınlatma düzeni kurar.\nProjektörlerin yapısını açıklar.\n       Sert ve yumuşak ışık kaynaklarını açıklar.\n     Sert ve yumuşak ışık kaynaklarının gölge ve kontrast etkilerini uygulatır.\n       3 ışıklı temel aydınlatma düzeni kurmasını sağlar.\n       5 ışıklı temel aydınlatma düzeni kurmasını sağlar.\n Tek kişi aydınlatma düzeni kurmasını sağlar.\n İki kişi aydınlatma düzeni kurmasını sağlar."
+    },
+    {
+      "ÜNİTE": "Temel Aydınlatma",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "6",
+      "KONU": "1. Sert ve yumuşak ışık kaynaklarını kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Sert ve yumuşak ışık kaynaklarını kullanır.\nTemel aydınlatma düzeni kurar.\nProjektörlerin yapısını açıklar.\n       Sert ve yumuşak ışık kaynaklarını açıklar.\n     Sert ve yumuşak ışık kaynaklarının gölge ve kontrast etkilerini uygulatır.\n       3 ışıklı temel aydınlatma düzeni kurmasını sağlar.\n       5 ışıklı temel aydınlatma düzeni kurmasını sağlar.\n Tek kişi aydınlatma düzeni kurmasını sağlar.\n İki kişi aydınlatma düzeni kurmasını sağlar."
+    },
+    {
+      "ÜNİTE": "Temel Aydınlatma",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "6",
+      "KONU": "2. Sıcak ve soğuk ışık kaynaklarını kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Sıcak ve soğuk ışık kaynaklarını kullanır.\nProjektörlerde kullanılan lamba çeşitlerini açıklar.\n       Projektörlerle birlikte kullanılan filtreleri açıklar.\n       Sıcak ve soğuk ışık kaynaklarını açıklar."
+    },
+    {
+      "ÜNİTE": "Temel Aydınlatma",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "6",
+      "KONU": "2. Sıcak ve soğuk ışık kaynaklarını kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Sıcak ve soğuk ışık kaynaklarını kullanır.\nProjektörlerde kullanılan lamba çeşitlerini açıklar.\n       Projektörlerle birlikte kullanılan filtreleri açıklar.\n       Sıcak ve soğuk ışık kaynaklarını açıklar."
+    },
+    {
+      "ÜNİTE": "Biyografik Belgesel Hazırlanması",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "6",
+      "KONU": "1. Biyografik belgesel ön çalışmasını yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Biyografik belgesel ön çalışmasını yapar.\nKonu ve tema seçimi yapılmasını sağlar.\n Ön araştırma yaptırır.\n Proje dosyası hazırlatır."
+    },
+    {
+      "ÜNİTE": "Biyografik Belgesel Hazırlanması",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "6",
+      "KONU": "2. Biyografik belgesel içerik çalışmasını yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Biyografik belgesel içerik çalışmasını yapar.\nGörüşme röportaj kaynak taraması çalışmaları yaptırır."
+    },
+    {
+      "ÜNİTE": "Biyografik Belgesel Hazırlanması",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "6",
+      "KONU": "3. Biyografik belgesel reji planlamasını yapma ve uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Biyografik belgesel reji planlamasını yapar ve uygular.\nBelgesel çekiminde kullanılacak kamera ses ve ışık ekipmanlarının hazırlığını yaptırır"
+    },
+    {
+      "ÜNİTE": "Biyografik Belgesel Hazırlanması",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "6",
+      "KONU": "3. Biyografik belgesel reji planlamasını yapma ve uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Biyografik belgesel reji planlamasını yapar ve uygular.\nBelgesel çekiminde kullanılacak kamera ses ve ışık ekipmanlarının hazırlığını yaptırır"
+    },
+    {
+      "ÜNİTE": "Biyografik Belgesel Hazırlanması",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "6",
+      "KONU": "3. Biyografik belgesel reji planlamasını yapma ve uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Biyografik belgesel reji planlamasını yapar ve uygular.\nBelgesel çekiminde kullanılacak kamera ses ve ışık ekipmanlarının hazırlığını yaptırır"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "6",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "6",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "6",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "KONU": "* * Bu plan Talim Terbiye Kurulunun yayınladığı Çerçeve Öğretim Programı ve Ders Bilgi Formlarına göre hazırlanmıştır. ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır."
+    }
+  ]
+}

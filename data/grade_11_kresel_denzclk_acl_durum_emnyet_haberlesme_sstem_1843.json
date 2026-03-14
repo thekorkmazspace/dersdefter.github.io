@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "KRESEL DENZCLK ACL DURUM EMNYET HABERLESME SSTEM (GMDSS)",
+  "plan": [
+    {
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "1.   Sancakla kodlu haberleşme işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Sancakla kodlu haberleşme yapar\nİşaret kod kitabıaçıklanır.\n     Harfleri flamalarla gösterilir.\n     Sancakları kullanma gösterilir.\n     Gösterilen işaretleri okuması sağlanır\n     Hava  ve  görüş  şartına  uygun  işaret  ile haberleşme yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "1.   Sancakla kodlu haberleşme işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Sancakla kodlu haberleşme yapar\nİşaret kod kitabıaçıklanır.\n     Harfleri flamalarla gösterilir.\n     Sancakları kullanma gösterilir.\n     Gösterilen işaretleri okuması sağlanır\n     Hava  ve  görüş  şartına  uygun  işaret  ile haberleşme yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "1.   Sancakla kodlu haberleşme işlemi",
+      "KAZANIM": "Sancakla kodlu haberleşme yapar\nİşaret kod kitabıaçıklanır.\n     Harfleri flamalarla gösterilir.\n     Sancakları kullanma gösterilir.\n     Gösterilen işaretleri okuması sağlanır\n     Hava  ve  görüş  şartına  uygun  işaret  ile haberleşme yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "2.   Mors kodlu haberleşme işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Mors kodlu haberleşme yapar\nİşaret kod kitabını kullanması açıklanır\n       Gönderilen   mors   kodunun   anlamını çözmesi sağlanır\n       Gelen mesaja mors alfabesi ile cevap vermesi sağlanır"
+    },
+    {
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "2.   Mors kodlu haberleşme işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Mors kodlu haberleşme yapar\nİşaret kod kitabını kullanması açıklanır\n       Gönderilen   mors   kodunun   anlamını çözmesi sağlanır\n       Gelen mesaja mors alfabesi ile cevap vermesi sağlanır"
+    },
+    {
+      "ÜNİTE": "Haberleşme Teknikleri",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "2.   Mors kodlu haberleşme işlemi",
+      "KAZANIM": "Mors kodlu haberleşme yapar\nİşaret kod kitabını kullanması açıklanır\n       Gönderilen   mors   kodunun   anlamını çözmesi sağlanır\n       Gelen mesaja mors alfabesi ile cevap vermesi sağlanır"
+    },
+    {
+      "ÜNİTE": "Deniz Haberleşmesi ve GMDSS Rutin Haberleşmesi",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "1.  Frekansları kullanarak telsiz haberleşmesi",
+      "KAZANIM": "Frekansları        kullanarak        telsizle haberleşir.\nTelsiz  haberleşme  sistemini  aktif  hale gelmesi açıklanır.\n     Telsiz   haberleşmesinintürlerini   farkları açıklanır.\n      Telsiz            sistemlerinin            deniz haberleşmesindeki frekans ve kanalları ayarlaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Deniz Haberleşmesi ve GMDSS Rutin Haberleşmesi",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "2.  Deniz frekans bantlarını kullanarak haberleşme",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Deniz   frekans   bantlarını   kullanarak haberleşme yapar.\nFrekans    band    ayarlarını    yapma açıklanır\n          Frekans      bandlarını      kullanarak karakteristiklerini ayırma açıklanır.\n          Deniz   Haberleşmesinde   kullanılan frekans bandları kullanması sağlanır."
+    },
+    {
+      "ÜNİTE": "Deniz Haberleşmesi ve GMDSS Rutin Haberleşmesi",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "3.  Telsiz yayınlarında kullanılan temel devreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Telsiz   yayınlarında   kullanılan   temel devre uygulamalarını yapar.\nModulasyon    tekniği    ve    türlerini kullanma açıklanır\n          Demodulasyon  tekniği  ve  türlerini kullanma açıklanır.\n          GMDSS          sistemi          üzerinde haberleşme       uygulaması       yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Deniz Haberleşmesi ve GMDSS Rutin Haberleşmesi",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "4.  Deniz haberleşmesinde kullanılan kısaltmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Deniz     haberleşmesinde     kullanılan kısaltmaları kullanır.\nEmisyon          içeriğini          belirleyen kısaltmalarını kullanma açıklanır\n       Emisyon türlerini kullanma açıklanır.\n       Değişik   yayın   şekillerinde   kullanılan emisyon türlerini kullanması sağlanır."
+    },
+    {
+      "ÜNİTE": "Deniz Haberleşmesi ve GMDSS Rutin Haberleşmesi",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "5.  Rutin haberleşmede konuşma ve yazma uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Rutin    haberleşmede    konuşma    ve yazma uygulamaları yapar.\nUygun     haberleşme     frekans     ve yöntemlerini     seçerek     haberleşme yapması açıklanır\n       Yersel      sistemde      telsiz      telefon görüşmesi yapması sağlanır\n       Yersel      sistemde      telsiz      teleks görüşmesi yapması sağlanır\n       Yersel sistemde DSC üzerine yapılan otomatik  rutin  haberleşmesi  yapması sağlanır\n       Inmarsat   sistemleri   üzerinden   rutin haberleşme  prosedürünü  uygulaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Deniz Haberleşmesi ve GMDSS Rutin Haberleşmesi",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "5.  Rutin haberleşmede konuşma ve yazma uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Rutin    haberleşmede    konuşma    ve yazma uygulamaları yapar.\nUygun     haberleşme     frekans     ve yöntemlerini     seçerek     haberleşme yapması açıklanır\n       Yersel      sistemde      telsiz      telefon görüşmesi yapması sağlanır\n       Yersel      sistemde      telsiz      teleks görüşmesi yapması sağlanır\n       Yersel sistemde DSC üzerine yapılan otomatik  rutin  haberleşmesi  yapması sağlanır\n       Inmarsat   sistemleri   üzerinden   rutin haberleşme  prosedürünü  uygulaması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Araçları",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "1.  GMDSS kapsamında kullanılmakta olan karasal haberleşme sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "GMDSS  kapsamında  kullanılmakta  olan karasal haberleşme sistemlerini kullanır.\nYersel          sistemde          haberleşme uygulaması yapması sağlanır\n     Yersel   sistemlerde   kullanılan   frekans bandlarını      kullanarak      haberleşme yapması sağlanır\n     VHF  sistemini  kullanarak  haberleşme yapması sağlanır\n     MF    sistemi    kullanarak    haberleşme yapması sağlanır\n     HF    sistemi    kullanarak    haberleşme yapması sağlanır\n     Dar       band       doğrudan       yazmalı sistemNBDP      ve      Telsiz      Teleks cihazlarını      kullanarak      haberleşme yapması sağlanır\n     Sayısal  Seçmeli  ÇağrıDSC  ve  VHF- MF-HF-DSC     cihazlarını     kullanarak haberleşme yapması sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Araçları",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "2.  GMDSS kapsamında kullanılmakta olan uydu haberleşme sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "GMDSS   kapsamında   kullanılmakta   olan uydu haberleşme sistemlerini kullanır.\nInmarsat        sisteminin        özelliklerini kullanması sağlanır\n     Inmarsat sisteminin uzay kara ve deniz birimlerini      kullanarak       haberleşme yapması sağlanır\n     Inmarsat        terminallerinin        türlerini kullanarak       haberleşme       yapması sağlanır\n     Deniz  araçlarında  kullanılan  Inmarsat\n    Inmarsat B Inmarsat C ve Inmarsat EGC     alıcı     cihazlarını     kullanması sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Araçları",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "3.  Telsiz sistemlerinde tamamlayıcı anten akümülatör vb. teçhizatları testi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Telsiz  sistemlerinde  tamamlayıcı  anten akümülatör vb. teçhizatları test eder.\nSistemde  kullanılan  antenlerin  soket bağlantılarını  ve  bakımlarını  yapması sağlanır\n       Akülerin      ve      güç      kaynaklarının bakımını testini yapması sağlanır\n       Can    kurtarma    araçlarındaki    telsiz cihazlarının testini yapması sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Araçları",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "4.  Deniz haberleşmesinin kurallarını belirleyen uluslararası anlaşmalar",
+      "KAZANIM": "Deniz        haberleşmesinin        kurallarını belirleyen      uluslararası      anlaşmaların gerekliliklerini yerine getirir.\nHaberleşmede    kullanılan    cihazların SOLASa    uygun    olarak    cihazları kullanması sağlanır.\n       ITU  RadioRegulationı  haberleşmede kullanması sağlanır.\n       Telsiz          operatörünün          STCW yeterliklerine      uygun      davranması sağlanır.\n       Hamburg  SAR  Konvansiyonu  uygun davranması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Araçları",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "5.  Deniz mobil uydu servisi cihazları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Deniz    mobil    uydu    servisi    cihazlarını kullanır.\nDeniz   mobil   istasyonunda   bulunan cihazları kullanması sağlanır.\n       Deniz  mobil  istasyonunun  türleri  ile haberleşme yapması sağlanır.\n       Gemilerde  GMDSS  sefer  bölgelerine göre bulundurulması zorunlu cihazları ayırt etmesi sağlanır"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "GMDSS Karasal Tehlike Haberleşmesi",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "1.   GMDSS haberleşme istasyon nöbeti",
+      "KAZANIM": "GMDSS    haberleşme    istasyon    nöbeti tutar.\nHaberleşme     cihazlarını     kullanma açıklanır.\n       Rutin haberleşmeyi yapması sağlanır.\n       Tehlikeemniyetacelelik haberleşmesini yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Karasal Tehlike Haberleşmesi",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "2.   VHF-RTlf cihazı ile rutin tehlike emniyet acelelik haberleşmesi",
+      "KAZANIM": "VHF-RTlf    cihazı     ile     rutin    tehlike emniyet acelelik haberleşmesi yapar.\nVHF-RTlf cihazını kullanma açıklanır\n       VHF-R      TLF      cihazı      ile      rutin tehlikeemniyetacelelik   haberleşmesi uygulaması yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Karasal Tehlike Haberleşmesi",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "3.   VHF-DSC cihazı ile rutin tehlike emniyet acelelik çağrısı",
+      "KAZANIM": "VHF-DSC    cihazı    ile    rutin    tehlike emniyet acelelik çağrısı yapar.\nHaberleşme     cihazlarını     kullanma açıklanır\n       VHF-DSC  cihazı  ile  rutin  haberleşme yapması sağlanır.\n       VHF-DSC                cihazı                ile tehlikeemniyetacelelik     haberleşme prosedürlerini uygulaması sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Karasal Tehlike Haberleşmesi",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "4.   Portatif VHF ile rutin tehlike emniyet acelelik SAR haberleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Portatif  VHF  ile  rutin  tehlike  emniyet acelelik SAR haberleşmesi yapar.\nPortatif   VHF   ile   rutin   haberleşmeyi uygulaması yapması sağlanır\n       Portatif                   VHF                   ile tehlikeemniyetacelelik     haberleşme prosedürlerini             gerçekleştirmesi sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Karasal Tehlike Haberleşmesi",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "5.   MFHF-RTlf cihazı ile rutin tehlike emniyet acelelik haberleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "MFHF-RTlf    cihazı    ile    rutin    tehlike emniyet acelelik haberleşmesi yapar.\nHaberleşme     cihazlarını     kullanma açıklanır.\n       Rutin haberleşmeyi yapması sağlanır\n       Tehlikeemniyetacelelik haberleşmesini yapması sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Karasal Tehlike Haberleşmesi",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "6.   MFHF-DSC-RTlx cihazı ile rutin tehlike emniyet acelelik çağrısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "MFHF-DSC-    RTlx    cihazı    ile    rutin tehlike emniyet acelelik çağrısı yapar.\nMFHF-DSC-   RTlx   cihazı   ile   rutin haberleşme                     prosedürlerini uygulayarak çağrı yapması sağlanır\n       MFHF-DSC-       RTlx       cihazı       ile tehlikeemniyetacelelik     haberleşme prosedürlerine    uygun    olarak    çağrı yapması sağlanır\n       MFHF-DSC-   RTlx   cihazı   ile   rutin haberleşme                     prosedürlerini uygulayarak çağrı yapması sağlanır"
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "GMDSS Uydu Tehlike Haberleşmesi",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "1. INMARSAT A  B  C Uydu haberleşme cihazı ile rutin tehlike emniyet acelelik haberleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "INMARSAT  A    B    C  uydu  haberleşme cihazı     ile     rutin     tehlike     emniyet acelelik haberleşmesi yapar.\nINMARSAT     A          B     C     Uydu haberleşme       cihazı       ile       rutin haberleşme                     prosedürlerini uygulayarak     haberleşme     yapması sağlanır\n       INMARSAT     A          B     C     Uydu haberleşme               cihazı               ile tehlikeemniyetacelelik     haberleşme prosedürlerini                    uygulayarak haberleşme yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Uydu Tehlike Haberleşmesi",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "2. FLEET 55  77 Uydu haberleşme cihazları ile rutin tehlike emniyet acelelik haberleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "FLEET 55  77 uydu haberleşme cihazları ile    rutin    tehlike    emniyet    acelelik haberleşmesi yapar.\nFLEET   55      77   Uydu   haberleşme cihazları ile rutin haberleşme yapması sağlanır.\n       FLEET   55      77   Uydu   haberleşme cihazları    ile    tehlikeemniyetacelelik haberleşme prosedürleriniuygulayarak haberleşme yapması sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Uydu Tehlike Haberleşmesi",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "3. Aero SAR -VHF cihazı ile SAR Arama ve Kurtarma haberleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Aero SAR -VHF cihazı ile SAR Arama ve kurtarma haberleşmesi yapar.\nAero   SAR   -VHF   cihazı   ile   SAR Arama   ve   Kurtarma   prosedürlerini uygulayarak     haberleşme     yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Uydu Tehlike Haberleşmesi",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "4. MSI Deniz Güvenlik Bilgisi mesajlarını RTlf  Navtex  RTlx  EGC mesajları",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "MSI  Deniz  güvenlik  bilgisi  mesajlarını RTlf  Navtex  RTlx  EGC cihazları ile alır.\nMSI       Deniz       Güvenlik       Bilgisi Mesajlarını  RTlf    Navtex    RTlx   EGC  cihazları  ile  alma  uygulaması yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Uydu Tehlike Haberleşmesi",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "5. Deniz haberleşmesi ve trafik ile ilgili ITU ADMIRALTY ve IMOnun süreli basılı yayınları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Deniz haberleşmesi ve trafik ile ilgili ITU ADMIRALTY   ve   IMOnun   süreli   basılı yayınlarını    haberleşme    prosedürlerini kullanır.\nDeniz Haberleşmesi-trafik ile ilgili ITU ADMIRALTY   ve   IMO   süreli-basılı- yayınlarını                          haberleşme prosedürlerinde kullanması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Uydu Tehlike Haberleşmesi",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "6. Can salı haberleşme donanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Can salı haberleşme donanımını kullanır.\nCan salı haberleşme donanımlarını kullanması sağlanır\n       Gemi     istasyon     testi     yapması sağlanır\n       GMDSS        jurnali        doldurması açıklanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Teçhizatlarının Periyodik Bakımı",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "1. GMDSS cihazının periyodik test ve kontrolleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "GMDSS  cihazının  periyodik  test  ve kontrollerini yapar.\nTeçhizatları   el   kitabı   ve   ölçüm cihazlarını kullanması sağlanır\n       Ölçü  aletlerini  kullanarak  akü  test yapması sağlanır\n       GMDSS    sistemindeki    cihazların günlük haftalık ve aylık kontrollerini yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Teçhizatlarının Periyodik Bakımı",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "1. GMDSS cihazının periyodik test ve kontrolleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "GMDSS  cihazının  periyodik  test  ve kontrollerini yapar.\nTeçhizatları   el   kitabı   ve   ölçüm cihazlarını kullanması sağlanır\n       Ölçü  aletlerini  kullanarak  akü  test yapması sağlanır\n       GMDSS    sistemindeki    cihazların günlük haftalık ve aylık kontrollerini yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Teçhizatlarının Periyodik Bakımı",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "2. GMDSS cihazının teçhizat el kitabı ve ölçüm cihazı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "GMDSS  cihazının  teçhizat  el  kitabı ve ölçüm cihazını kullanır.\nTeçhizatları   el   kitabı   ve   ölçüm cihazlarını kullanması sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Teçhizatlarının Periyodik Bakımı",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "2. GMDSS cihazının teçhizat el kitabı ve ölçüm cihazı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "GMDSS  cihazının  teçhizat  el  kitabı ve ölçüm cihazını kullanır.\nTeçhizatları   el   kitabı   ve   ölçüm cihazlarını kullanması sağlanır"
+    },
+    {
+      "ÜNİTE": "GMDSS Teçhizatlarının Periyodik Bakımı",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "3. GMDSS cihazında muhtemel arızalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  GMDSS cihazında muhtemel arızaları tespit ederek onarır.\nSigorta   ve   gösterge   lambalarının arızalarını gidermesi sağlanır.\n       Bağlantı   elemanlarının   arızalarını gidermesi sağlanır."
+    },
+    {
+      "ÜNİTE": "GMDSS Teçhizatlarının Periyodik Bakımı",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "3. GMDSS cihazında muhtemel arızalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "GMDSS cihazında muhtemel arızaları tespit ederek onarır.\nSigorta   ve   gösterge   lambalarının arızalarını gidermesi sağlanır.\n       Bağlantı   elemanlarının   arızalarını gidermesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

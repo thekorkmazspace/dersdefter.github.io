@@ -7,16 +7,16 @@ SOURCE_DIR = os.path.join(BASE_DIR, "json_planlar")
 DATA_DIR = os.path.join(BASE_DIR, "data")
 DATA_JP_DIR = os.path.join(BASE_DIR, "data/json_planlar")
 
-OFFICIAL_MATCHES = {
-    "1949": "Beden Eğitimi ve Oyun (MEB)-1",
-    "232": "Görsel Sanatlar-1",
-    "1428": "Müzik(Maarif*)-1",
-    "1539": "Serbest Etkinlikler-1",
-    "1622": "Matematik (MEB)-1",
-    "1697": "Türkçe (MEB)-1",
-    "1669": "Hayat Bilgisi (MEB)-1",
-    "1953": "Görsel Sanatlar (MEB)-1",
-}
+# Load official names if available
+OFFICIAL_NAMES = {}
+OFF_PATH = os.path.join(DATA_DIR, "official_names.json")
+if os.path.exists(OFF_PATH):
+    try:
+        with open(OFF_PATH, "r", encoding="utf-8") as f:
+            OFFICIAL_NAMES = json.load(f)
+    except: pass
+
+import unicodedata
 
 RESTORATION_MAP = {
     "ETKNLK": "ETKİNLİK", "ETKNLKLER": "ETKİNLİKLER",
@@ -24,24 +24,50 @@ RESTORATION_MAP = {
     "MATEMATK": "MATEMATİK", "BLM": "BİLİM",
     "DN": "DİN", "TURKCE": "TÜRKÇE", "TRKCE": "TÜRKÇE",
     "GORSEL": "GÖRSEL", "SANATLARE": "SANATLAR",
-    "UYGULAMAYEN": "UYGULAMALARI (YENİ*)",
-    "UYGULAMALARIYEN": "UYGULAMALARI (YENİ*)",
-    "UYGULAMALARI(YEN*)": "UYGULAMALARI (YENİ*)",
     "ELEKTRK": "ELEKTRİK", "ELEKTRONK": "ELEKTRONİK", "ELEKTROṄK": "ELEKTRONİK",
     "TEKNOLOJS": "TEKNOLOJİSİ", "TEKNOLOJLER": "TEKNOLOJİLER",
-    "İNGİLİZCE": "İNGİLİZCE",
-    "CHAZ": "CİHAZ", "SISTEM": "SİSTEM",
+    "İNGİLİZCE": "İNGİLİZCE", "CHAZ": "CİHAZ", "SISTEM": "SİSTEM",
+    "TRK DL EDEBYATI": "TÜRK DİLİ VE EDEBİYATI",
+    "EDEBYATI": "EDEBİYATI", "EDEBYAT": "EDEBİYAT",
+    "BEDEN EGT": "BEDEN EĞİTİMİ", "FZK": "FİZİK",
+    "BLGSAYAR": "BİLGİSAYAR", "MZK": "MÜZİK",
+    "TESSAT": "TESİSAT", "GYM": "GİYİM", "MAKNELER": "MAKİNELER",
+    "MMAR": "MİMARİ", "TRNE": "TÜRÜNE", "LABORATUVAR": "LABORATUVAR",
+    "ANATOM": "ANATOMİ", "FZYOLOJ": "FİZYOLOJİ", "ADL": "ADLİ",
+    "MCADELE": "MÜCADELE", "ARCLK": "ARICILIK", "GYSI": "GİYSİ", "ÜRETIM": "ÜRETİMİ"
 }
 
 def fix_lesson_name(name, grade, file_id):
-    if str(file_id) in OFFICIAL_MATCHES:
-        return OFFICIAL_MATCHES[str(file_id)]
+    # 0. Unicode Normalization (NFKD) to strip combining marks (like dots over letters)
+    name = unicodedata.normalize('NFKD', name)
+    name = "".join([c for c in name if not unicodedata.combining(c)])
+    
+    # Fix common I conversion issue after normalization
+    name = name.replace("ı̇", "i").replace("İ", "İ").replace("i̇", "i")
+    
+    # 1. Use absolute truth from site if ID found
+    if str(file_id) in OFFICIAL_NAMES:
+        return OFFICIAL_NAMES[str(file_id)]
+    
+    # 2. General restoration
     name = name.upper()
     for bad, good in RESTORATION_MAP.items():
         name = re.sub(r'\b' + re.escape(bad) + r'\b', good, name)
-    name = name.replace("UYGULAMA(YEN*)", "UYGULAMALARI (YENİ*)")
-    name = name.replace("UYGULAMAYEN", "UYGULAMALARI (YENİ*)")
-    if len(name) > 100: name = name[:97] + "..."
+    
+    # 3. Strip noise
+    name = re.sub(r'\(YEN.*\)', '', name)
+    name = re.sub(r'\(MEB.*\)', '', name)
+    name = re.sub(r'\(MESEM.*\)', '', name, flags=re.IGNORECASE)
+    name = name.replace("UYGULAMA(YEN*)", "UYGULAMALARI").replace("UYGULAMAYEN", "UYGULAMALARI")
+    
+    # Final check for common mistakes
+    if "TÜRK DİLİ EDEBİYATI" in name:
+        name = name.replace("TÜRK DİLİ EDEBİYATI", "TÜRK DİLİ VE EDEBİYATI")
+    
+    # Clean up excess spaces
+    name = re.sub(r'\s+', ' ', name).strip()
+    
+    if len(name) > 80: name = name[:77] + "..."
     return name
 
 def slugify(name):

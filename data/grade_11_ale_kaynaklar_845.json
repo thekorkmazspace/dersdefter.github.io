@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "ALE KAYNAKLAR",
+  "plan": [
+    {
+      "ÜNİTE": "Aile Kaynaklarını Kullanma",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Ailenin İhtiyaçları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Ailenin ihtiyaçlarını açıklar.\nAilenin tanımı ve önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Aile Kaynaklarını Kullanma",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Ailenin İhtiyaçları",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Ailenin ihtiyaçlarını açıklar.\nAilenin ihtiyaçlarının özellikleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Aile Kaynaklarını Kullanma",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Ailenin İhtiyaçları",
+      "KAZANIM": "Ailenin ihtiyaçlarını açıklar.\nİhtiyaçların çeşitleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Aile Kaynaklarını Kullanma",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "2. Ailenin Sahip Olduğu Kaynaklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Ailenin sahip olduğu kaynakları açıklar.\nBireysel kaynaklar para zaman ve enerji bilgi beceri açıklanır."
+    },
+    {
+      "ÜNİTE": "Aile Kaynaklarını Kullanma",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "2. Ailenin Sahip Olduğu Kaynaklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Ailenin sahip olduğu kaynakları açıklar.\nTeknolojik kaynaklar araç-gereç materyaller açıklanır."
+    },
+    {
+      "ÜNİTE": "Aile Kaynaklarını Kullanma",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "2. Ailenin Sahip Olduğu Kaynaklar",
+      "KAZANIM": "Ailenin sahip olduğu kaynakları açıklar.\nToplumsal kaynaklar kütüphane sergi konferans gösteri açıklanır."
+    },
+    {
+      "ÜNİTE": "Bütçe Hazırlama",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "1.   Bütçe Hazırlama",
+      "KAZANIM": "Bütçe hazırlamayı açıklar.\nBütçenin tanımı ve önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Bütçe Hazırlama",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "1.   Bütçe Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Bütçe hazırlamayı açıklar.\nBütçenin çeşitleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Bütçe Hazırlama",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "1.   Bütçe Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Bütçe hazırlamayı açıklar.\nBütçe hazırlamanın yararları açıklanır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Bütçe Hazırlama",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "2.   Bütçe Uygulama Sonuçları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Bütçe uygulama sonuçlarını açıklar.\nAçık bütçe kavramı açıklanır.\n       Açık bütçenin nedenleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Bütçe Hazırlama",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "2.   Bütçe Uygulama Sonuçları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Bütçe uygulama sonuçlarını açıklar.\nAlınabilecek önlemler açıklanır.\n       Artırım kavramı açıklanır."
+    },
+    {
+      "ÜNİTE": "Bütçe Hazırlama",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "2.   Bütçe Uygulama Sonuçları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Bütçe uygulama sonuçlarını açıklar.\nArtırımın nedenleri açıklanır.\n       Artırımların değerlendirilmesi açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "1.   Alışverişin Temel Kavramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Alışverişin temel kavramlarını açıklar.\nEtiketlerdeki öğeler açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "1.   Alışverişin Temel Kavramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Alışverişin temel kavramlarını açıklar.\nFiyat-kalite dengesinin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "4.   Alışveriş Yerleri ve Şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Alışveriş yerleri ve şekillerini açıklar.\nAlışveriş yapılan yerler açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "1.   Alışverişin Temel Kavramları",
+      "KAZANIM": "Alışverişin temel kavramlarını açıklar.\nKampanyaların etkisi açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "2.   Alışveriş Öncesi Planlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Ailenin alışveriş öncesi planlama yapmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "2.   Alışveriş Öncesi Planlama",
+      "KAZANIM": "Ailenin alışveriş öncesi planlama yapmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "4.   Alışveriş Yerleri ve Şekilleri",
+      "KAZANIM": "Alışveriş yerleri ve şekillerini açıklar.\nMesafeli alışverişi sözleşme öncesinde ve sözleşme sırasında dikkat edilmesi gereken hususlar açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "1.   Alışverişin Temel Kavramları",
+      "KAZANIM": "Alışverişin temel kavramlarını açıklar.\nVadeli satışlardaki mal ve hizmetleri gerçek fiyatlarını hesaplama açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "3.   Alışverişe Sırasında Dikkat Edilmesi Gereken Hususlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Alışveriş sırasında dikkat edilmesi gereken hususları açıklar.\nAlışveriş sırasında dikkat edilmesi gereken hususları açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "3.   Alışverişe Sırasında Dikkat Edilmesi Gereken Hususlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Alışveriş sırasında dikkat edilmesi gereken hususları açıklar.\nAlışveriş sırasında dikkat edilmesi gereken hususları açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "4.   Alışveriş Yerleri ve Şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Alışveriş yerleri ve şekillerini açıklar.\nMesafeli sözleşmelerde tüketicilerin hak ve sorumlulukları açıklanır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "1.   Alışverişin Temel Kavramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Alışverişin temel kavramlarını açıklar.\nMalların garanti belgelerinin içeriği ve sağladığı haklar açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "4.   Alışveriş Yerleri ve Şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Alışveriş yerleri ve şekillerini açıklar.\nİnternet üzerinden yapılan alışverişlerin avantaj ve dezavantajları açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "4.   Alışveriş Yerleri ve Şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Alışveriş yerleri ve şekillerini açıklar.\nİnternetten yapılan alışverişlerin özellikleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "4.   Alışveriş Yerleri ve Şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Alışveriş yerleri ve şekillerini açıklar.\nİnternet üzerinden alışveriş güvenliği için dikkat edilmesi geren hususlar açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Alışverişin Temel Kavramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Alışverişin temel kavramlarını açıklar.\nKullanım kılavuzlarının içeriği ve önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "5.   Sorun Çözme Mekanizmaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Sorun çözme mekanizmalarını açıklar.\nAyıplı mal ve hizmetin anlam ve içeriği açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "5.   Sorun Çözme Mekanizmaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Sorun çözme mekanizmalarını açıklar.\nAyıplı mal ve hizmetlerin satın alınması durumunda tüketicinin sahip olduğu haklar açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.   Alışveriş Yerleri ve Şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Alışveriş yerleri ve şekillerini açıklar.\nKapıdan satış sözleşmelerinde bulunması gereken bilgiler açıklanır."
+    },
+    {
+      "ÜNİTE": "Ailede Alışveriş",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "1.   Alışverişin Temel Kavramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Alışverişin temel kavramlarını açıklar.\nKullanım kılavuzlarının içeriği ve önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

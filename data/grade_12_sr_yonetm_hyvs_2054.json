@@ -1,0 +1,374 @@
+{
+  "sinif": "12",
+  "ders": "SR YONETM (HYVS)",
+  "plan": [
+    {
+      "ÜNİTE": "Sürü Yönetiminde Planlama Kayıt ve İş Disiplini",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Süt Sığırcılığı İşletmelerinde Günlük İşler",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Süt sığırcılığı işletmelerinde günlük işleri planlar.\nSüt sığırcılığı işletmelerinin yönetim yapısı açıklanır.\n      Süt sığırcılığında günlük işleri planlamanın önemi açıklanır.\n      Süt sığırcılığı işletmelerinde günlük yapılacak işler belirlenir.\n      Süt sığırcılığı işletmelerinde yapılacak işler bir sıraya göre planlanır.\n      Süt sığırcılığı işletmelerinde planlanan işlerin sürekli gözlem ve takibi yapılır."
+    },
+    {
+      "ÜNİTE": "Sürü Yönetiminde Planlama Kayıt ve İş Disiplini",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Süt Sığırcılığı İşletmelerinde Günlük İşler",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Süt sığırcılığı işletmelerinde günlük işleri planlar.\nSüt sığırcılığında yemleme takip edilir.\n      Süt sığırcılığında sulama takip edilir.\n      Süt sığırcılığında altlık ve gübre temizliği takip edilir.\n      Kızgınlık ve tohumlama faaliyetleri takip edilir.\n      Gebelik ve doğum faaliyetleri takip edilir."
+    },
+    {
+      "ÜNİTE": "Sürü Yönetiminde Planlama Kayıt ve İş Disiplini",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Süt Sığırcılığı İşletmelerinde Günlük İşler  2. Süt Sığırcılığı İşletmelerinde Kayıt",
+      "KAZANIM": "Süt sığırcılığı işletmelerinde günlük işleri planlar.\n Süt sığırcılığında kayıt tutmanın önemini açıklar.\nSağım ve kuruya ayırma işlemleri takip edilir.\n      Süt verim özellikleri ve hastalıklar takip edilir.\n      Sürü sağlığı ve üreme yönetimi programlarının önemi açıklanır.\n      İşletmede kayıt tutmanın önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Yönetiminde Planlama Kayıt ve İş Disiplini",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "2. Süt Sığırcılığı İşletmelerinde Kayıt",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Süt sığırcılığında kayıt tutmanın önemini açıklar.\nHayvanları numaralandırmanın önemi açıklanır.\n      Küpeleme ile numaralandırma açıklanır.\n      Küpeleme yöntemleri açıklanır.\n      Küpelemede kullanılan alet ve malzemeler açıklanır.\n      Hayvan tanımlama sistemleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Yönetiminde Planlama Kayıt ve İş Disiplini",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "2. Süt Sığırcılığı İşletmelerinde Kayıt",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Süt sığırcılığında kayıt tutmanın önemini açıklar.\nHayvan tanımlamada kullanılan pedigri kayıtları açıklanır.\n      Sürü performansını izlemenin önemi açıklanır.\n      Döl verim kayıtları açıklanır.\n      Süt verim kayıtları açıklanır.\n      Sağlık ve vücut kondisyon kayıtları açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Yönetiminde Planlama Kayıt ve İş Disiplini",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Bilgisayar Destekli Sürü Yönetim Sistemleri",
+      "KAZANIM": "Bilgisayar destekli sürü yönetim sistemlerini açıklar.\nSüt sığırcılığında hassas sürü yönetim uygulamaları açıklanır.\n      Bilgisayar destekli süt sığırcılığında uygulanan yöntem ve teknikler açıklanır.\n      Elektronik hayvan tanıma sistemleri açıklanır.\n      Sağım sistemine entegre otomatik süt ölçüm sistemleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Yönetiminde Planlama Kayıt ve İş Disiplini",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Bilgisayar Destekli Sürü Yönetim Sistemleri",
+      "KAZANIM": "Bilgisayar destekli sürü yönetim sistemlerini açıklar.\nOtomatik hayvan tartım sistemleri açıklanır.\n      Aktivite ölçerler açıklanır.\n      Otomatik yoğun yem üniteleri  yoğun yem tüketiminin denetimi ve ölçümü açıklanır.\n      Kaba yem tüketimini ölçen yemlik sistemleri açıklanır.\n      Su tüketimini ölçen suluk sistemleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Yönetiminde Planlama Kayıt ve İş Disiplini",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Bilgisayar Destekli Sürü Yönetim Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Bilgisayar destekli sürü yönetim sistemlerini açıklar.\nElektronik kantarlı kaba-yoğun yem karıştırıcı ve dağıtıcıları açıklanır.\n      Görüntü analiz sistemleri açıklanır.\n      Ultrasonografik görüntüleme cihazları ineklerde erken dönem gebelik teşhisi açıklanır.\n      Sürü yönetim yazılımları açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Besleme",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "1.  Yemlemenin Planlanması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Süt sığırcılığında yemlemeyi planlar.\nBeslemenin üreme performansı üzerine etkisi açıklanır.\n      Kaliteli kaba yem ihtiyacı ve temini açıklanır.\n      Kaliteli süt yemi ihtiyacı ve temini açıklanır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Hayvan Besleme",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "1.  Yemlemenin Planlanması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Süt sığırcılığında yemlemeyi planlar.\nYeni doğan yavruların ve genç hayvanların yem ihtiyacı ve temini açıklanır.\n      Uygun yemleme programı açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Besleme",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "1.  Yemlemenin Planlanması  2.  Buzağıların Bakım ve Beslenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Süt sığırcılığında yemlemeyi planlar.\n Buzağı bakım ve beslenmesini planlar.\nBeslemenin üreme performansına etkisi açıklanır.\n      Buzağı bakım ve beslemesinin önemi açıklanır.\n      Yeni doğan buzağılar için ağız sütünün önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Besleme",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "2.  Buzağıların Bakım ve Beslenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Buzağı bakım ve beslenmesini planlar.\nFerdi buzağı bakım kulübeleri açıklanır.\n      Buzağı emzirmenin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Besleme",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "2.  Buzağıların Bakım ve Beslenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Buzağı bakım ve beslenmesini planlar.\nBuzağı emzirme işlerini planlamanın önemi açıklanır.\n      Buzağılarda sürekli taze ve temiz su tüketiminin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvanlarda Döl Verimi",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "1.  Hayvanların Döl Verim Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Hayvanların döl verim özelliklerini takip eder.\nDöl veriminin önemi açıklanır.\n      Üreme etkinliği ve üreme performansı açıklanır.\n      Bir işletmede döl verim düzeyini gösteren kriterler açıklanır\n      İlkine damızlıkta kullanma yaşı açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvanlarda Döl Verimi",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "1.  Hayvanların Döl Verim Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Hayvanların döl verim özelliklerini takip eder.\nİlkine buzağılama yaşı açıklanır.\n      Buzağılama aralığı açıklanır.\n      Servis periyodu açıklanır.\n      Buzağılamadan sonraki ilk kızgınlık açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvanlarda Döl Verimi",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "1.  Hayvanların Döl Verim Özellikleri",
+      "KAZANIM": "Hayvanların döl verim özelliklerini takip eder.\nBuzağılamadan sonraki ilk tohumlama açıklanır.\n      İki kızgınlık arası süresi ve tohumlamalar açıklanır.\n      Gebe kalma oranı açıklanır.\n      Gebelik başına tohumlama sayısı açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvanlarda Döl Verimi",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "1.  Hayvanların Döl Verim Özellikleri  2.  Kızgınlık ve Tohumlama Takibi",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Hayvanların döl verim özelliklerini takip eder.\n Kızgınlık takibi ve tohumlama işlemlerini takip eder.\nBuzağılama oranı açıklanır.\n      Üreme etkinliği açıklanır.\n      Çiftleştirme yaşının önemi açıklanır.\n      Kızgınlık takibinin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Hayvanlarda Döl Verimi",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "3.  Doğum Öncesi ve Doğum Sonrası İşlemleri",
+      "KAZANIM": "Doğum öncesi ve doğum sonrası işlemleri planlar.\nGebe inekleri bakım ve beslemenin önemi açıklanır.\n      Gebe ineklere uygulanacak aşı ve ilaç uygulamalarının önemi açıklanır.\n      Doğumu yaklaşan inekleri kuruya ayırmanın önemi açıklanır.\n      Doğumu yaklaşan ineklere için yapılan hazırlıkların önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvanlarda Döl Verimi",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "3.  Doğum Öncesi ve Doğum Sonrası İşlemleri",
+      "KAZANIM": "Doğum öncesi ve doğum sonrası işlemleri planlar.\nDoğum esnasında yapılacak müdahalelerin ve doğuma yardımın önemi açıklanır.\n      Doğum sonrası yavruya yapılacak işlemlerin önemi açıklanır.\n      Boynuz köretlmenin önemi açıklanır.\n      Abortus açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvanlarda Döl Verimi",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "3.  Doğum Öncesi ve Doğum Sonrası İşlemleri",
+      "KAZANIM": "Doğum öncesi ve doğum sonrası işlemleri planlar.\nBuzağı ölümleri açıklanır.\n      Laktasyon süresi açıklanır.\n      Seleksiyon ve sürüden çıkarma işlemleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Konforu",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "1.  Süt İneklerinde Stres Yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Süt ineklerinde stres yönetimini planlar.\nSüt ineklerinde stres yönetiminin önemi açıklanır.\n      İnek davranışlarını gözlemenin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Konforu",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "1.  Süt İneklerinde Stres Yönetimi  2.  Uygun Ahır Ortamı",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Süt ineklerinde stres yönetimini planlar.\n Uygun ahır ortamı için gerekli olan çevre şartlarını sağlar.\nSüt sığırcılığında hayvan refahının önemi açıklanır.\n      Barınak içi çevre şartlarının verim üzerine etkileri açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Konforu",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "2.  Uygun Ahır Ortamı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Uygun ahır ortamı için gerekli olan çevre şartlarını sağlar.\nBarınak içi ideal çevre şartları açıklanır.\n      Barınak serinletme sistemlerinin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Hayvan Konforu",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "2.  Uygun Ahır Ortamı",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Uygun ahır ortamı için gerekli olan çevre şartlarını sağlar.\nBarınakta soğuk ve hava cereyanına karşı alınacak önlemlerin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Konforu",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "2.  Uygun Ahır Ortamı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Uygun ahır ortamı için gerekli olan çevre şartlarını sağlar.\nBarınaklarda ani değişikliklerden sakınmanın önemi açıklanır.\n      Kuru ve temiz ahır ortamının önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Konforu",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "3.  Hayvan Konforu İçin Gerekli Ortam ve Ekipmanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Hayvan konforu için gerekli ortam ve ekipmanları planlar.\nHayvan davranışlarına göre yapılacak uygun müdahalelerin önemi açıklanır.\n      Barınak içerisinde hayvan için uygun yürüme zeminleri oluşturmanın önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Konforu",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "3.  Hayvan Konforu İçin Gerekli Ortam ve Ekipmanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Hayvan konforu için gerekli ortam ve ekipmanları planlar.\nİnek yataklarının yumuşak ve hijyenik olmasının önemi açıklanır.\n      Ahır içi yemlik ve suluk gibi ekipmanların uygun dizayn edilmesinin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Hayvan Konforu",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "3.  Hayvan Konforu İçin Gerekli Ortam ve Ekipmanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Hayvan konforu için gerekli ortam ve ekipmanları planlar.\nSüt sığırcılığında sağım stresini önleyecek yöntem ve metotların önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Sağlığı ve Biyogüvenlik",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "1. Sürü Sağlığı Koruma Önlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Sürü sağlık koruma önlemlerini alır.\nSürü sağlık korumanın önemi açıklanır.\n      Sürü sağlık yönetim planlaması ve gözetimi açıklanır.\n      Sürü sağlığı yönetim programları açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Sağlığı ve Biyogüvenlik",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "1. Sürü Sağlığı Koruma Önlemleri  2. Koruyucu Hekimlik Uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Sürü sağlık koruma önlemlerini alır.\n Süt sığırcılığında koruyucu hekimlik uygulamalarını planlar.\nHastalıkların verim üzerine etkisi açıklanır.\n      Hayvancılıkta koruyucu hekimliğin önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Sağlığı ve Biyogüvenlik",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "2. Koruyucu Hekimlik Uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Süt sığırcılığında koruyucu hekimlik uygulamalarını planlar.\nİşletmelerde temizlik ve dezenfeksiyon uygulamalarının önemi açıklanır.\n      Hayvancılıkta biyogüvenlik uygulamalarının önemi açıklanır.\n      Aşılama programının önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Sağlığı ve Biyogüvenlik",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "2. Koruyucu Hekimlik Uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Süt sığırcılığında koruyucu hekimlik uygulamalarını planlar.\nSağım ve süt hijyeninde uygulanacak koruyucu hekimliğin önemi açıklanır.\n      Sağım sayısının önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Sağlığı ve Biyogüvenlik",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "2. Koruyucu Hekimlik Uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Süt sığırcılığında koruyucu hekimlik uygulamalarını planlar.\nSüt kontrolünün önemi açıklanır.\n      Somatik hücre sayısının önemi açıklanır.\n      Süt ineklerinde kuru dönemin önemi açıklanır"
+    },
+    {
+      "ÜNİTE": "Sürü Sağlığı ve Biyogüvenlik",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "2. Koruyucu Hekimlik Uygulamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Süt sığırcılığında koruyucu hekimlik uygulamalarını planlar.\nKuruya çıkarmanın zamanı ve yöntemleri açıklanır.\n      Süt ineklerinde ayak sağlığının önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Sağlığı ve Biyogüvenlik",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "3. Beslenme Kaynaklı Hastalıklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Beslenme kaynaklı hastalıkları takip eder.\nBesleme kaynaklı hastalıkları takip etmenin önemi açıklanır.\n      Hayvanlarda besleme durumunu izleme yöntemleri açıklanır.\n      Hayvanlarda beslenmeye bağlı metabolik hastalıklar açıklanır."
+    },
+    {
+      "ÜNİTE": "Sürü Sağlığı ve Biyogüvenlik",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "3. Beslenme Kaynaklı Hastalıklar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Beslenme kaynaklı hastalıkları takip eder.\nSüt ineklerinde doğum ve doğum sonrası görülmesi olası hastalıklar açıklanır.\n      Yem hijyeninin sürü sağlığı üzerine etkileri açıklanır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

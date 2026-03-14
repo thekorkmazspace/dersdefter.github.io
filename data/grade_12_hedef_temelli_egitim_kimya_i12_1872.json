@@ -1,0 +1,373 @@
+{
+  "sinif": "12",
+  "ders": "HEDEF TEMELLI EGITIM (KIMYA I)-12",
+  "plan": [
+    {
+      "ÜNİTE": "Simyadan Kimyaya",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "1",
+      "KONU": "Kimya Disiplinleri ve Kimyacıların Çalışma Alanları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "9.1.1.1. Kimyanın bilim olma sürecini açıklar. 9.1.2.1. Kimyanın ve kimyacıların başlıca çalışma alanlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Kimyanın Sembolik Dili",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "1",
+      "KONU": "Kimyanın Sembolik Dili",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "9.1.3.1. Günlük hayatta sıklıkla etkileşimde bulunulan elementlerin adlarını sembolleriyle eşleştirir. 9.1.3.2. Bileşiklerin formüllerini adlarıyla eşleştirir."
+    },
+    {
+      "ÜNİTE": "Kimya Uygulamalarında İş Sağlığı ve Güvenliği",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "1",
+      "KONU": "Kimya Uygulamalarında İş Sağlığı ve Güvenliği",
+      "KAZANIM": "9.1.4.1. Kimya laboratuvarlarında uyulması gereken iş sağlığı ve güvenliği kurallarını açıklar. 9.1.4.2. Kimyasal maddelerin insan sağlığı ve çevre üzerindeki etkilerini açıklar. 9.1.4.3. Kimya laboratuvarında kullanılan bazı temel malzemeleri tanır."
+    },
+    {
+      "ÜNİTE": "Atom Modelleri",
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "1",
+      "KONU": "Atomun Yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "9.2.1.1. Dalton Thomson Rutherford ve Bohr atom modellerini açıklar. 9.2.2.1. Elektron proton ve nötronun yüklerini kütlelerini ve atomda bulundukları yerleri karşılaştırır."
+    },
+    {
+      "ÜNİTE": "Elementlerin Periyodik Sistemdeki Yerleşim Esasları",
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "1",
+      "KONU": "Elementlerin Periyodik Sistemdeki Yerleşim Esasları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "9.2.3.1. Elementlerin periyodik sistemdeki yerleşim esaslarını açıklar."
+    },
+    {
+      "ÜNİTE": "Elementlerin Sınıflandırılması",
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "1",
+      "KONU": "Elementlerin Sınıflandırılması",
+      "KAZANIM": "9.2.3.2. Elementleri periyodik sistemdeki yerlerine göre sınıflandırır."
+    },
+    {
+      "ÜNİTE": "Periyodik Özelliklerin Değişme Eğilimleri",
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "1",
+      "KONU": "Periyodik Özelliklerin Değişme Eğilimleri",
+      "KAZANIM": "9.2.3.3. Periyodik özelliklerin değişme eğilimlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Kimyasal Tür ve Kimyasal Türler Arası Etkileşimlerin Sınıflandırılması",
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "1",
+      "KONU": "Kimyasal Tür ve Kimyasal Türler Arası Etkileşimlerin Sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "9.3.1.1. Kimyasal türleri açıklar. 9.3.2.1. Kimyasal türler arasındaki etkileşimleri sınıflandırır."
+    },
+    {
+      "ÜNİTE": "Güçlü Etkileşimler",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "1",
+      "KONU": "Güçlü Etkileşimler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 9.3.3.1. İyonik bağın oluşumunu iyonlar arası etkileşimler ile ilişkilendirir. 9.3.3.2. İyonik bağlı bileşiklerin sistematik adlandırmasını yapar. 9.3.3.3. Kovalent bağın oluşumunu atomlar arası elektron ortaklaşması temelinde açıklar. 9.3.3.4. Kovalent bağlı bileşiklerin sistematik adlandırmasını yapar. 9.3.3.5. Metalik bağın oluşumunu açıklar."
+    },
+    {
+      "ÜNİTE": "Ara Tatil",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "1",
+      "KONU": "Ara Tatil",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "Ara Tatil"
+    },
+    {
+      "ÜNİTE": "Zayıf Etkileşimler",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "1",
+      "KONU": "Zayıf Etkileşimler",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "9.3.4.1. Zayıf ve güçlü etkileşimleri bağ enerjisi esasına göre ayırt eder. 9.3.4.2. Kimyasal türler arasındaki zayıf etkileşimleri sınıflandırır. 9.3.4.3. Hidrojen bağları ile maddelerin fiziksel özellikleri arasında ilişki kurar."
+    },
+    {
+      "ÜNİTE": "Fiziksel ve Kimyasal Değişimler",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "1",
+      "KONU": "Fiziksel ve Kimyasal Değişimler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "9.3.5.1. Fiziksel ve kimyasal değişimi kopan ve oluşan bağ enerjilerinin büyüklüğü temelinde ayırt eder."
+    },
+    {
+      "ÜNİTE": "Maddenin Fiziksel Hâlleri",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "1",
+      "KONU": "Maddenin Fiziksel Hâlleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "9.4.1.1. Maddenin farklı hâllerde olmasının canlılar ve çevre için önemini açıklar. 9.4.2.1. Katıların özellikleri ile bağların gücü arasında ilişki kurar."
+    },
+    {
+      "ÜNİTE": "Katılar ve Sıvılar",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "1",
+      "KONU": "Katılar ve Sıvılar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "9.4.3.1. Sıvılarda viskozite kavramını açıklar. 9.4.3.2. Sıvılarda viskoziteyi etkileyen faktörleri açıklar. 9.4.3.3. Kapalı kaplarda gerçekleşen buharlaşma-yoğuşma süreçleri üzerinden denge buhar basıncı kavramını açıklar. 9.4.3.4. Doğal olayları açıklamada sıvılar ve özellikleri ile ilgili kavramları kullanır."
+    },
+    {
+      "ÜNİTE": "Gazlar ve Plazma",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "1",
+      "KONU": "Gazlar ve Plazma",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "9.4.4.1. Gazların genel özelliklerini açıklar. 9.4.4.2. Gazların basınç sıcaklık hacim ve miktar özelliklerini birimleriyle ifade eder. 9.4.4.3. Saf maddelerin hâl değişim grafiklerini yorumlar. 9.4.5.1. Plazma hâlini açıklar."
+    },
+    {
+      "ÜNİTE": "Su ve Hayat",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "1",
+      "KONU": "Su ve Hayat",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "9.5.1.1. Suyun varlıklar için önemini açıklar. 9.5.1.2. Su tasarrufuna ve su kaynaklarının korunmasına yönelik çözüm önerileri geliştirir. 9.5.1.3. Suyun sertlik ve yumuşaklık özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Çevre Kimyası",
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "1",
+      "KONU": "Çevre Kimyası",
+      "KAZANIM": "9.5.2.1. Hava su ve toprak kirliliğine sebep olan kimyasal kirleticileri açıklar. 9.5.2.2. Çevreye zarar veren kimyasal kirleticilerin etkilerinin azaltılması konusunda çözüm önerilerinde bulunur."
+    },
+    {
+      "ÜNİTE": "Kimyanın Temel Kanunları",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "1",
+      "KONU": "Kimyanın Temel Kanunları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 10.1.1.1. Kimyanın temel kanunlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "1",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "1",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "1",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Kimyanın Temel Kanunları",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "1",
+      "KONU": "Kimyanın Temel Kanunları",
+      "KAZANIM": "10.1.1.1. Kimyanın temel kanunlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Mol Kavramı",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "1",
+      "KONU": "Mol Kavramı",
+      "KAZANIM": "10.1.2.1. Mol kavramını açıklar."
+    },
+    {
+      "ÜNİTE": "Mol Kavramı",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "1",
+      "KONU": "Mol Kavramı",
+      "KAZANIM": "10.1.2.1. Mol kavramını açıklar."
+    },
+    {
+      "ÜNİTE": "Kimyasal Tepkimeler ve Denklemler",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "1",
+      "KONU": "Kimyasal Tepkimeler ve Denklemler",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "10.1.3.1. Kimyasal tepkimeleri açıklar."
+    },
+    {
+      "ÜNİTE": "Kimyasal Tepkimeler ve Denklemler",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "1",
+      "KONU": "Kimyasal Tepkimeler ve Denklemler",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "10.1.3.1. Kimyasal tepkimeleri açıklar."
+    },
+    {
+      "ÜNİTE": "Kimyasal Tepkimelerde Hesaplamalar",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "1",
+      "KONU": "Kimyasal Tepkimelerde Hesaplamalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "10.1.4.1. Kütle mol sayısı molekül sayısı atom sayısı ve gazlar için normal şartlarda hacim kavramlarını birbirleriyle ilişkilendirerek hesaplamalar yapar."
+    },
+    {
+      "ÜNİTE": "Ara Tatil",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "1",
+      "KONU": "Ara Tatil",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "Ara Tatil"
+    },
+    {
+      "ÜNİTE": "Kimyasal Tepkimelerde Hesaplamalar",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "1",
+      "KONU": "Kimyasal Tepkimelerde Hesaplamalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "10.1.4.1. Kütle mol sayısı molekül sayısı atom sayısı ve gazlar için normal şartlarda hacim kavramlarını birbirleriyle ilişkilendirerek hesaplamalar yapar."
+    },
+    {
+      "ÜNİTE": "Homojen-Heterojen Karışımlar I",
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "1",
+      "KONU": "Homojen-Heterojen Karışımlar I",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "10.2.1.1. Karışımları niteliklerine göre sınıflandırır. 10.2.1.2. Çözünme sürecini moleküler düzeyde açıklar. 10.2.1.3. Çözünmüş madde oranını belirten ifadeleri yorumlar. 10.2.1.4. Çözeltilerin özelliklerini günlük hayattan örneklerle açıklar."
+    },
+    {
+      "ÜNİTE": "Homojen-Heterojen Karışımlar II",
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "1",
+      "KONU": "Homojen-Heterojen Karışımlar II",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 10.2.2.1. Endüstri ve sağlık alanlarında kullanılan karışım ayırma tekniklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Ayırma ve Saflaştırma Teknikleri",
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "1",
+      "KONU": "Ayırma ve Saflaştırma Teknikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası"
+    },
+    {
+      "ÜNİTE": "Asitlerin ve Bazların Özellikleri",
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "1",
+      "KONU": "Asitlerin ve Bazların Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "10.3.1.1. Asitleri ve bazları bilinen özellikleri yardımıyla ayırt eder. 10.3.1.2. Maddelerin asitlik ve bazlık özelliklerini moleküler düzeyde açıklar."
+    },
+    {
+      "ÜNİTE": "Asitlerin ve Bazların Tepkimeleri",
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "1",
+      "KONU": "Asitlerin ve Bazların Tepkimeleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "10.3.2.1. Asitler ve bazlar arasındaki tepkimeleri açıklar. 10.3.2.2. Asitlerin ve bazların günlük hayat açısından önemli tepkimelerini açıklar."
+    },
+    {
+      "ÜNİTE": "Asitler ve Bazlar Tuzlar",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "1",
+      "KONU": "Asitler ve Bazlar Tuzlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "10.3.3.1. Asitlerin ve bazların fayda ve zararlarını açıklar. 10.3.3.2. Asit ve bazlarla çalışırken alınması gereken sağlık ve güvenlik önlemlerini açıklar. 10.3.4.1. Tuzların özelliklerini ve kullanım alanlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Yaygın Günlük Hayat Kimyasalları",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "1",
+      "KONU": "Yaygın Günlük Hayat Kimyasalları",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "10.4.1.1. Temizlik maddelerinin özelliklerini açıklar. 10.4.1.2. Yaygın polimerlerin kullanım alanlarına örnekler verir. 10.4.1.3. Polimer kâğıt cam ve metal malzemelerin geri dönüşümünün ülke ekonomisine katkısını açıklar."
+    },
+    {
+      "ÜNİTE": "Kozmetikler İlaçlar Gıdalar",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "1",
+      "KONU": "Kozmetikler İlaçlar Gıdalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "10.4.1.4. Kozmetik malzemelerin içerebileceği zararlı kimyasalları açıklar. 10.4.1.5. İlaçların farklı formlarda kullanılmasının nedenlerini açıklar. 10.4.2.1. Hazır gıdaları seçerken ve tüketirken dikkat edilmesi gereken hususları açıklar. 10.4.2.2. Yenilebilir yağ türlerini sınıflandırır."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "1",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "1",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "1",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "1",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "1",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "IS MAKINELERI HIDROELEKTRIK ATOLYESI-11",
+  "plan": [
+    {
+      "ÜNİTE": "1. MOBİL HİDROLİK POMPALAR",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "10",
+      "KONU": "1. Hidrolik soğutucu tank ve filtreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak iş makineleri hidrolik tank soğutucu ve filtrelerin kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "1. MOBİL HİDROLİK POMPALAR",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "10",
+      "KONU": "2. Basınç  debi P-Q ayarı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "2. Hidrolik pompa basınç-debi P-Q ayarını yapar."
+    },
+    {
+      "ÜNİTE": "1. MOBİL HİDROLİK POMPALAR",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "10",
+      "KONU": "3. Hidrolik pompalar",
+      "KAZANIM": "3. Hidrolik pompaların bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "1. MOBİL HİDROLİK POMPALAR",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "10",
+      "KONU": "4. Hidrolik pompa regülatörleri                       5. Pilot pompalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "4. Hidrolik pompa regülatörünün bakımını ve onarımını yapar.\n5. Pilot pompaların bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "2. MOBİL HİDROLİK VALFLER",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "10",
+      "KONU": "1. Valfler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "1. Ana kumanda valf bloğunun bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "2. MOBİL HİDROLİK VALFLER",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "10",
+      "KONU": "2. Güç arttırma fonksiyon power boost                                                           3. Negatif  pozitif kontrol hattı",
+      "KAZANIM": "2. Güç arttırma fonksiyon power boost basınç ayarlarını yapar.\n3. Negatifpozitif kontrol basınç ayarını yapar."
+    },
+    {
+      "ÜNİTE": "2. MOBİL HİDROLİK VALFLER",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "10",
+      "KONU": "4. Yük hissetme ls  load sensing sistemi 5. Pilot valfler",
+      "KAZANIM": "4. Yük hissetme ls load sensing sisteminin kontrolünü yapar.\n5. Pilot valflerinin bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "3. MOBİL HİDROLİK MOTORLAR",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "10",
+      "KONU": "1. Yürüyüş hidrolik motorları",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "1. Yürüyüş hidrolik motorlarının bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "3. MOBİL HİDROLİK MOTORLAR",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "10",
+      "KONU": "2. Yürüyüş hidrolik devresi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 2. Yürüyüş hidrolik devresi kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "10",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "3. MOBİL HİDROLİK MOTORLAR",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "10",
+      "KONU": "3. Kule dönüş motoru",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "3. Kule dönüş motorunun bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "3. MOBİL HİDROLİK MOTORLAR",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "10",
+      "KONU": "4. Kule dönüş hidrolik devresi                                  5. Hidrolik fan motorları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "4. Kule dönüş hidrolik devresi kontrollerini yapar.\n5. Hidrolik fan motorlarının bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "4. MOBİL HİDROLİK SİLİNDİRLER",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "10",
+      "KONU": "1. Hidrolik silindirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "1. Hidrolik silindirlerin bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "4. MOBİL HİDROLİK SİLİNDİRLER",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "10",
+      "KONU": "2. Bom ve arm devresi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "2. Bom ve arm devresi kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "4. MOBİL HİDROLİK SİLİNDİRLER",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "10",
+      "KONU": "3. Kova devresi                             4. Destek ayakları devresi",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "3. Kova devresi bakımını ve onarımını yapar.\n4. Destek ayakları devresi kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "4. MOBİL HİDROLİK SİLİNDİRLER",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "10",
+      "KONU": "5. Bıçak devresi                               6. Sarsıntısız yürüyüş devresi                                      7. Osilasyon silindir devresi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "5. Bıçak devresi kontrollerini yapar.\n6. Sarsıntısız yürüyüş devresi kontrollerini yapar.\n7. Osilasyon silindir devresi kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "5. ORBİTROLLÜ DİREKSİYON SİSTEMLERİ",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "10",
+      "KONU": "1. Direksiyon sistemleri",
+      "KAZANIM": "1. Direksiyon sistemi elemanlarının kontrolünü yapar."
+    },
+    {
+      "ÜNİTE": "5. ORBİTROLLÜ DİREKSİYON SİSTEMLERİ",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "10",
+      "KONU": "2. Direksiyon pompaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 2. Direksiyon pompasının bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "10",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "10",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "10",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "5. ORBİTROLLÜ DİREKSİYON SİSTEMLERİ",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "10",
+      "KONU": "3. Direksiyon valf grubu                                                                                  4. Direksiyon ünitesi orbitrol",
+      "KAZANIM": "3. Direksiyon valf grubu bakımını ve onarımını yapar.\n4. Direksiyon ünitesinin orbitrolün bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "5. ORBİTROLLÜ DİREKSİYON SİSTEMLERİ",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "10",
+      "KONU": "5. Direksiyon hidrolik silindirleri                                                                           6. Direksiyon sistemi hidrolik devresin basınç kontrolü",
+      "KAZANIM": "5. Direksiyon hidrolik silindirlerinin bakımını ve onarımını yapar.\n6. Direksiyon sistemi hidrolik devresinin basınçlarının kontrolünü yapar."
+    },
+    {
+      "ÜNİTE": "6. PALETLİ DÖNÜŞ SİSTEMLERİ",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "10",
+      "KONU": "1. Dönüş kompartmanı ve frenleri",
+      "KAZANIM": "1. Dönüş kompartmanının ve frenlerinin bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "6. PALETLİ DÖNÜŞ SİSTEMLERİ",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "10",
+      "KONU": "2. Dönüş pompası",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "2. Dönüş pompasının bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "6. PALETLİ DÖNÜŞ SİSTEMLERİ",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "10",
+      "KONU": "3. Dönüş pompası çalışma basınçları kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "3. Dönüş pompası çalışma basınçlarını kontrolünü yapar."
+    },
+    {
+      "ÜNİTE": "7. FREN SİSTEMLERİ",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "10",
+      "KONU": "1. Fren Sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "1. Fren Sisteminin kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "10",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "7. FREN SİSTEMLERİ",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "10",
+      "KONU": "2. Fren ana merkez ve hidrovak ünitesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "2. Fren ana merkez ve hidrovak ünitesinin kontrollerini ve bakımını yapar."
+    },
+    {
+      "ÜNİTE": "7. FREN SİSTEMLERİ",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "10",
+      "KONU": "3. Diskli fren mekanizması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "3. Diskli fren mekanizmasının bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "8. HİDROLİK AKÜMÜLATÖRLÜ FREN SİSTEMLERİ",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "10",
+      "KONU": "1. Hidrolik akümülatör destekli çok diskli fren sistemi                                              2. Fren pompası",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 1. Hidrolik akümülatör destekli çok diskli fren sisteminin bakımını ve onarımını yapar.                                              2. Fren pompası bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "8. HİDROLİK AKÜMÜLATÖRLÜ FREN SİSTEMLERİ",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "10",
+      "KONU": "3. Fren akümülatörleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "3. Fren akümülatörleri bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "8. HİDROLİK AKÜMÜLATÖRLÜ FREN SİSTEMLERİ",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "10",
+      "KONU": "4. Çok diskli fren grubu",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "4. Çok diskli fren grubu bakımını ve onarımını yapar.     ATATÜRK ün çocuklara verdiği önemi bilir."
+    },
+    {
+      "ÜNİTE": "8. HİDROLİK AKÜMÜLATÖRLÜ FREN SİSTEMLERİ",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "10",
+      "KONU": "5. Çok diskli fren sisteminde basınç testi                                            6. Çok diskli fren sisteminde park frenleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "5. Çok diskli fren sisteminde basınç testini yapar.\n6. Çok diskli fren sisteminde park frenleri bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "9. KULE DÖNÜŞ SİSTEMLERİ",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "10",
+      "KONU": "1. İş makineleri kabinleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "1. İş makineleri kabin bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "9. KULE DÖNÜŞ SİSTEMLERİ",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "10",
+      "KONU": "2. Kule dönüş sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "2. Kule dönüş sisteminin bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "9. KULE DÖNÜŞ SİSTEMLERİ",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "10",
+      "KONU": "3. Kule dönüş dişlisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "3. Kule dönüş dişlisi bakımını ve onarımını yapar.\nATATÜRKün Türk Gençliğine verdiği önemi bilir"
+    },
+    {
+      "ÜNİTE": "9. KULE DÖNÜŞ SİSTEMLERİ",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "10",
+      "KONU": "4. Döner dağıtıcı center joint sistemi                           5. Kule dönüş dişlisi boşluk kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "4. Döner dağıtıcı center joint sisteminin bakımını ve onarımını yapar.\n5. Kule dönüş dişlisi boşluk kontrolünü yapar."
+    },
+    {
+      "ÜNİTE": "10. MOBİL HİDROLİK ATAŞMANLAR",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "10",
+      "KONU": "1. Opsiyonel ataşman hidrolik hatları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 1. Opsiyonel ataşman hidrolik hatları ayarını ve kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "10. MOBİL HİDROLİK ATAŞMANLAR",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "10",
+      "KONU": "2. Kırıcı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "2. Kırıcı onarım ayarını ve kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "10. MOBİL HİDROLİK ATAŞMANLAR",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "10",
+      "KONU": "3. Diğer ataşmanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "3. Diğer ataşmanların bakımını ve onarımını yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "10",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}
