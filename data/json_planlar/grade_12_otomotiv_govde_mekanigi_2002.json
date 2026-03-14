@@ -1,0 +1,374 @@
+{
+  "sinif": "12",
+  "ders": "Otomotıv Govde Mekanıgı",
+  "plan": [
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "1. Gövde yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Gövde çeşitlerini ve özelliklerini tespit eder.\nGövde yapılarını hacimsel olarak sınıflandırır.\n Araç gövde şekillerini ve özelliklerini izah eder.\n Taşıma şekline göre araç gövdelerinin özelliklerini sınıflandırır."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1. Gövde yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Gövde çeşitlerini ve özelliklerini tespit eder.\nGövde yapılarını hacimsel olarak sınıflandırır.\n Araç gövde şekillerini ve özelliklerini izah eder.\n Taşıma şekline göre araç gövdelerinin özelliklerini sınıflandırır."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "1. Gövde yapıları",
+      "KAZANIM": "Gövde çeşitlerini ve özelliklerini tespit eder.\nGövde yapılarını hacimsel olarak sınıflandırır.\n Araç gövde şekillerini ve özelliklerini izah eder.\n Taşıma şekline göre araç gövdelerinin özelliklerini sınıflandırır."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "2. Gövdeyi oluşturan yapı elemanları",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Gövdeyi oluşturan yapı elemanlarını tespit eder.\nGövdeyi oluşturan sabit kaynaklı yapı elemanlarını sıralar.\n Gövdeyi oluşturan sökülüp takılabilen yapı elemanlarını sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "2. Gövdeyi oluşturan yapı elemanları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Gövdeyi oluşturan yapı elemanlarını tespit eder.\nGövdeyi oluşturan sabit kaynaklı yapı elemanlarını sıralar.\n Gövdeyi oluşturan sökülüp takılabilen yapı elemanlarını sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "2. Gövdeyi oluşturan yapı elemanları",
+      "KAZANIM": "Gövdeyi oluşturan yapı elemanlarını tespit eder.\nGövdeyi oluşturan sabit kaynaklı yapı elemanlarını sıralar.\n Gövdeyi oluşturan sökülüp takılabilen yapı elemanlarını sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "3. Gövde yapımında kullanılan saclar",
+      "KAZANIM": "Gövde yapımında kullanılan sacları tespit eder.\nGövde yapımında kullanılan sacların özelliklerini tarif eder.\n Gövde yapımında kullanılan yüksek elastikiyet sınırlı sacların özelliklerini açıklar.\n Gövde yapımında kullanılan alüminyum ve alaşımlı sacların özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "3. Gövde yapımında kullanılan saclar",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Gövde yapımında kullanılan sacları tespit eder.\nGövde yapımında kullanılan sacların özelliklerini tarif eder.\n Gövde yapımında kullanılan yüksek elastikiyet sınırlı sacların özelliklerini açıklar.\n Gövde yapımında kullanılan alüminyum ve alaşımlı sacların özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "3. Gövde yapımında kullanılan saclar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Gövde yapımında kullanılan sacları tespit eder.\nGövde yapımında kullanılan sacların özelliklerini tarif eder.\n Gövde yapımında kullanılan yüksek elastikiyet sınırlı sacların özelliklerini açıklar.\n Gövde yapımında kullanılan alüminyum ve alaşımlı sacların özelliklerini açıklar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "4. Araç tasarımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Tasarım öncesi pazar araştırmasını yapar.\nTasarım öncesi pazar araştırma süreçlerini sıralar.\n Müşteri ihtiyaç ve beklenti anketini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "4. Araç tasarımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Tasarım öncesi pazar araştırmasını yapar.\nTasarım öncesi pazar araştırma süreçlerini sıralar.\n Müşteri ihtiyaç ve beklenti anketini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "4. Araç tasarımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Tasarım öncesi pazar araştırmasını yapar.\nTasarım öncesi pazar araştırma süreçlerini sıralar.\n Müşteri ihtiyaç ve beklenti anketini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "5. Gövde tasarımındaki ölçütler",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Gövde tasarımındaki ölçütleri tespit eder.\nGövde tasarımındaki kriterleri sıralar.\n Gövde tasarımındaki kriterleri açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "5. Gövde tasarımındaki ölçütler",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Gövde tasarımındaki ölçütleri tespit eder.\nGövde tasarımındaki kriterleri sıralar.\n Gövde tasarımındaki kriterleri açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "5. Gövde tasarımındaki ölçütler",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Gövde tasarımındaki ölçütleri tespit eder.\nGövde tasarımındaki kriterleri sıralar.\n Gövde tasarımındaki kriterleri açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "6. Gövde tasarımındaki kriterler",
+      "KAZANIM": "Tasarımı gerçekleştirme sürecini takip eder.\nTeknik kısım çalışmalarının hangi özelliklerde sürdürüldüğünü açıklar.\n Gerçekleştirme süreçlerini tarif eder."
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "6. Gövde tasarımındaki kriterler",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Tasarımı gerçekleştirme sürecini takip eder.\nTeknik kısım çalışmalarının hangi özelliklerde sürdürüldüğünü açıklar.\n Gerçekleştirme süreçlerini tarif eder."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Gövde ve Tasarım",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "6. Gövde tasarımındaki kriterler",
+      "KAZANIM": "Tasarımı gerçekleştirme sürecini takip eder.\nTeknik kısım çalışmalarının hangi özelliklerde sürdürüldüğünü açıklar.\n Gerçekleştirme süreçlerini tarif eder."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "1. Kamu sektörünün önlemleri",
+      "KAZANIM": "Kamu sektörünün belirlediği kaza önleyici ve azaltıcı önlemleri uygular.\nKamu sektörünün kaza önleyici çalışmalarını açıklar.\n Kamu sektörünün kaza esnasında sonuçlarını sınırlandırıcı önlemlerini açıklar.\n Kamu sektörünün kaza sonrası ağırlığını azaltıcı ile ilgili önlemlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "1. Kamu sektörünün önlemleri",
+      "KAZANIM": "Kamu sektörünün belirlediği kaza önleyici ve azaltıcı önlemleri uygular.\nKamu sektörünün kaza önleyici çalışmalarını açıklar.\n Kamu sektörünün kaza esnasında sonuçlarını sınırlandırıcı önlemlerini açıklar.\n Kamu sektörünün kaza sonrası ağırlığını azaltıcı ile ilgili önlemlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "2. Otomotiv gövde darbe analizi",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Otomobil gövdesindeki darbe analizi aşamalarını tespit eder.\nDarbe şiddeti ve hasar şekillerini izah eder.\n Darbeye maruz kalan sacların yapısındaki değişme özelliklerini izah eder.\n Gerilmeli kafes yapısının özelliklerini açıklar.\n Darbe sönümlendirme çalışmalarını açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "2. Otomotiv gövde darbe analizi",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Otomobil gövdesindeki darbe analizi aşamalarını tespit eder.\nDarbe şiddeti ve hasar şekillerini izah eder.\n Darbeye maruz kalan sacların yapısındaki değişme özelliklerini izah eder.\n Gerilmeli kafes yapısının özelliklerini açıklar.\n Darbe sönümlendirme çalışmalarını açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "3. Otomotivimalat sektörünün önlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Otomotiv imalat sektöründeki kaza önleyici ve azaltıcı önlemleri alır.\nİmalat sektörünün kaza önleyici çalışmalarını açıklar.\n İmalat sektörünün kaza esnasında sonuçlarını sınırlandırıcı önlemlerini açıklar.\n İmalat sektörünün kaza sonrası ağırlığını azaltıcı ile ilgili önlemlerini açıklar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "3. Otomotivimalat sektörünün önlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Otomotiv imalat sektöründeki kaza önleyici ve azaltıcı önlemleri alır.\nİmalat sektörünün kaza önleyici çalışmalarını açıklar.\n İmalat sektörünün kaza esnasında sonuçlarını sınırlandırıcı önlemlerini açıklar.\n İmalat sektörünün kaza sonrası ağırlığını azaltıcı ile ilgili önlemlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "4. Gövdede aerodinamik etkiler ve iyileştirme yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Otomobil gövdesinde aerodinamik etkileri tespit edip iyileştirme yöntemlerini uygular.\nOtomotiv gövdesinin karşılaştığı aerodinamik etkileri sıralar.\n Aerodinamik etkilerin zararlarını önleme yöntemlerini sıralar.\n Hava akışıyla ilgili özellikleri sıralar.\n Hız ve meydana getirdiği basıncın etkilerini sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "4. Gövdede aerodinamik etkiler ve iyileştirme yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Otomobil gövdesinde aerodinamik etkileri tespit edip iyileştirme yöntemlerini uygular.\nOtomotiv gövdesinin karşılaştığı aerodinamik etkileri sıralar.\n Aerodinamik etkilerin zararlarını önleme yöntemlerini sıralar.\n Hava akışıyla ilgili özellikleri sıralar.\n Hız ve meydana getirdiği basıncın etkilerini sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "5. Gövdede korozyon yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Otomobil gövdesinde korozyonun önlenmesinde kullanılan yalıtım yöntemlerini uygular.\nİmalat esnasında korozyon yalıtım tekniklerini açıklar.\n Onarım ve bakım esnasında korozyon yalıtım tekniklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "5. Gövdede korozyon yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Otomobil gövdesinde korozyonun önlenmesinde kullanılan yalıtım yöntemlerini uygular.\nİmalat esnasında korozyon yalıtım tekniklerini açıklar.\n Onarım ve bakım esnasında korozyon yalıtım tekniklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "6. Gövdede su yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Otomobil gövdesinde su yalıtımında kullanılan yöntemleri uygular.\nÜretim esnasında su yalıtımı için alınan önlemleri sıralar.\n Bakım ve onarım esnasında su yalıtımı için alınan önlemleri sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "6. Gövdede su yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Otomobil gövdesinde su yalıtımında kullanılan yöntemleri uygular.\nÜretim esnasında su yalıtımı için alınan önlemleri sıralar.\n Bakım ve onarım esnasında su yalıtımı için alınan önlemleri sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "7. Gövdede ısı ve ses yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Otomobil gövdesinde ısı ve ses yalıtımında kullanılan yöntemleri uygular.\nÜretim esnasında ısı yalıtımı için alınan önlemleri sıralar.\n Bakım ve onarım esnasında ısı yalıtımı için alınan önlemleri sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "7. Gövdede ısı ve ses yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Otomobil gövdesinde ısı ve ses yalıtımında kullanılan yöntemleri uygular.\nÜretim esnasında ısı yalıtımı için alınan önlemleri sıralar.\n Bakım ve onarım esnasında ısı yalıtımı için alınan önlemleri sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "7. Gövdede ısı ve ses yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Otomobil gövdesinde ısı ve ses yalıtımında kullanılan yöntemleri uygular.\nÜretim esnasında ısı yalıtımı için alınan önlemleri sıralar.\n Bakım ve onarım esnasında ısı yalıtımı için alınan önlemleri sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "7. Gövdede ısı ve ses yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Otomobil gövdesinde ısı ve ses yalıtımında kullanılan yöntemleri uygular.\nÜretim esnasında ısı yalıtımı için alınan önlemleri sıralar.\n Bakım ve onarım esnasında ısı yalıtımı için alınan önlemleri sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "7. Gövdede ısı ve ses yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Otomobil gövdesinde ısı ve ses yalıtımında kullanılan yöntemleri uygular.\nÜretim esnasında ısı yalıtımı için alınan önlemleri sıralar.\n Bakım ve onarım esnasında ısı yalıtımı için alınan önlemleri sıralar."
+    },
+    {
+      "ÜNİTE": "Gövde Mekaniği",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "7. Gövdede ısı ve ses yalıtımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Otomobil gövdesinde ısı ve ses yalıtımında kullanılan yöntemleri uygular.\nÜretim esnasında ısı yalıtımı için alınan önlemleri sıralar.\n Bakım ve onarım esnasında ısı yalıtımı için alınan önlemleri sıralar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

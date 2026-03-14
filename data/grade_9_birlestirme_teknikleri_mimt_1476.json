@@ -1,0 +1,374 @@
+{
+  "sinif": "9",
+  "ders": "Bırlestırme Teknıklerı (mımt)",
+  "plan": [
+    {
+      "ÜNİTE": "Ağaç Hazırlığı",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "6",
+      "KONU": "1.  Ahşap   atölyesinde   iş sağlığı       ve       güvenliği yönergesi    doğrultusunda tedbirleri alma  2.  Ağacın   fiziksel   yapısı ve kusurları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Ahşap   atölyesinde   iş   sağlığı   ve güvenliği    yönergesi    doğrultusunda tedbirleri alır.\n Ağacın   fiziksel   yapısını   ve   ağaç kusurlarını   ağaç   örnekleri   üzerinde görerek tespit eder.\nAhşap   atölyesinde   kullanılan   el aletleri çalışma güvenliği açıklanır.\n     Ahşap        atölyesinde        çalışma tezgâhları  ile  ilgili  çalışma  güvenliği açıklanır.\n     Ağacın kısımları açıklanır\n     Ağacın  fiziksel  ve  kimyasal  yapısı açıklanır.\n     Ağacın     kusur     ve     hastalıkları açıklanır\n     Ağaç örnekleri gösterilir"
+    },
+    {
+      "ÜNİTE": "Ağaç Hazırlığı",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "6",
+      "KONU": "3.  Ağaç çeşitleri  4.  Doğal ve suni kurutma",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Ağaç    çeşitlerini    ağaç    örnekleri içerisinden seçerek sınıflandırır.\n Doğal ve suni kurutmayı açıklar.\nAğaç çeşitleri açıklanır\n     Yerli yabancı ağaçlar ifade edilir\n     Ağaç      cinsleri      ve      özellikleri açıklanır.\n     Kurutma  için  uygun  ortam  şartları açıklanır.\n     Doğal kurutma açıklanır\n     Suni kurutma açıklanır\n     Kurutma numuneleri yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ağaç Hazırlığı",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "6",
+      "KONU": "5.  İstifleme ve depolama",
+      "KAZANIM": "Ahşap         malzemeyi         istifleme kurullarına uygun olarak depolar.\nAhşap     malzemelerin     özellikleri açıklanır.\n    Ahşap malzeme depolama kuralları açıklanır.\n    Ahşap  malzeme  istifleme  kuralları açıklanır."
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Rendeleme ve Kesme",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "6",
+      "KONU": "1.  El alet ve takımları",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Ağaç  işlerinde  kullanılan  el  alet  ve takımlarını sınıflandırarak ifade eder.\nAhşap     rendelemede     kullanılan rende çeşitleri ve özelliklerini açıklanır\n    Ağaç    işlerinde    kullanılan    kesici kalemler ve kullanım alanları açıklanır\n    Ağaç   işlerinde   kullanılan   vurma bağlama  aletleri  ve  kullanım  alanları açıklanır.\n    Ağaç   işlerinde   kullanılan   ölçme markalama kontrol aletleri ve kullanım alanları açıklanır.\n    Ağaç   işlerinde  kullanılan  eğe   ve törpüler açıklanır.\n    Ağaç   işlerinde   kullanılan   testere çeşitleri ve özellikleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Rendeleme ve Kesme",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "6",
+      "KONU": "2.  Ahşap                 işleme tezgâhları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Mobilya   sektöründe   kullanılan   iş tezgâhlarını açıklar.\nİş  tezgâhında  bulunması  gereken özellikler açıklanır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Rendeleme ve Kesme",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "6",
+      "KONU": "3.  Ahşap  araç  ve  gereç hazırlığı yapma",
+      "KAZANIM": "İşe    uygun    araç-gereç    malzeme hazırlığını yapar.\nAhşap        malzeme        özellikleri açıklanır.\n    Rende     tığının     kaba     bilemesi açıklanır.\n    Yağ taşı ve temizliği açıklanır\n      Rende     tığının     ince     bilemesi açıklanır\n    Rende    tığını    takarak    rendeye hassas   ayar   ayar   yapma   ilkelerini açıklanır ve uygulatır\n    Testere   lamasına   çapraz   verme açıklanır ve gösterilir\n    Testere   lamasına   bileme   yapma açıklanır ve gösterilir"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Rendeleme ve Kesme",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "6",
+      "KONU": "4.  El        takımları        ile rendeleme yapma",
+      "KAZANIM": "Ahşap malzemeyi iş resmine uygun markalama   yaparak   el   rendesi   ile rendeleyerek          istenilen     ölçülere getirir.\nAhşap   markalama   ve   rendeleme kuralları açıklanır.\n   Ahşap  malzeme  istenilen  ölçülerde markalattırılır.\n   Ahşap   malzeme   istenilen   ölçüde yüz rendelemesi yaptırılır.\n   Ahşap   malzeme   istenilen   ölçüde cumba rendelemesi yaptırılır\n   Ahşap   malzeme   istenilen   ölçüde makta rendelemesi yaptırılır.\n   İş  parçası  kontrol  aletleriyle  kontrol ettirilir."
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Rendeleme ve Kesme",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "6",
+      "KONU": "5. El  takımları  ile  Kesme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Ahşap malzemeyi iş resmine uygun markalama   yaparak   el   testeresi   ile keserek istenilen ölçülere getirir.\nAhşap      markalama      ve      kesim kuralları açıklanır.\n   Ahşap malzeme markalattırılır.\n   Ahşap   malzeme   istenilen   ölçüde enine kesim yaptırılır.\n   Ahşap   malzeme   istenilen   ölçüde boyuna kestirilir\n   Ahşap   malzeme   istenilen   ölçüde kalınlık yönünde kestirilir.\n   İş  parçası  kontrol  aletleriyle  kontrol edilir"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Rendeleme ve Kesme",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "6",
+      "KONU": "5. El  takımları  ile  Kesme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Ahşap malzemeyi iş resmine uygun markalama   yaparak   el   testeresi   ile keserek istenilen ölçülere getirir.\nAhşap      markalama      ve      kesim kuralları açıklanır.\n   Ahşap malzeme markalattırılır.\n   Ahşap   malzeme   istenilen   ölçüde enine kesim yaptırılır.\n   Ahşap   malzeme   istenilen   ölçüde boyuna kestirilir\n   Ahşap   malzeme   istenilen   ölçüde kalınlık yönünde kestirilir.\n   İş  parçası  kontrol  aletleriyle  kontrol edilir"
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "6",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Rendeleme ve Kesme",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "6",
+      "KONU": "5. El  takımları  ile  Kesme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Ahşap malzemeyi iş resmine uygun markalama   yaparak   el   testeresi   ile keserek istenilen ölçülere getirir.\nAhşap      markalama      ve      kesim kuralları açıklanır.\n   Ahşap malzeme markalattırılır.\n   Ahşap   malzeme   istenilen   ölçüde enine kesim yaptırılır.\n   Ahşap   malzeme   istenilen   ölçüde boyuna kestirilir\n   Ahşap   malzeme   istenilen   ölçüde kalınlık yönünde kestirilir.\n   İş  parçası  kontrol  aletleriyle  kontrol edilir"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Rendeleme ve Kesme",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "6",
+      "KONU": "5. El  takımları  ile  Kesme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Ahşap malzemeyi iş resmine uygun markalama   yaparak   el   testeresi   ile keserek istenilen ölçülere getirir.\nAhşap      markalama      ve      kesim kuralları açıklanır.\n   Ahşap malzeme markalattırılır.\n   Ahşap   malzeme   istenilen   ölçüde enine kesim yaptırılır.\n   Ahşap   malzeme   istenilen   ölçüde boyuna kestirilir\n   Ahşap   malzeme   istenilen   ölçüde kalınlık yönünde kestirilir.\n   İş  parçası  kontrol  aletleriyle  kontrol edilir"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "6",
+      "KONU": "1.  El    takımları    ile    en birleştirmeler yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "El takımları ile istenilen ölçülerde en birleştirmeler yapar.\nAhşap     en     birleştirme     şekilleri açıklanır.\n   Ahşap     en     birleştirme     yapma kuralları açıklanır.\n   En  birleştirme  çeşidi  ölçüsüne  göre markalama yaptırılır.\n   İş    resmine    göre    en    birleştirme yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "6",
+      "KONU": "1.  El    takımları    ile    en birleştirmeler yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "El takımları ile istenilen ölçülerde en birleştirmeler yapar.\nAhşap     en     birleştirme     şekilleri açıklanır.\n   Ahşap     en     birleştirme     yapma kuralları açıklanır.\n   En  birleştirme  çeşidi  ölçüsüne  göre markalama yaptırılır.\n   İş    resmine    göre    en    birleştirme yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "6",
+      "KONU": "2.  Delik          makinelerde delme işlemi yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Delik       makinelerinde       istenilen ölçülerde delme işlemi yapar\nAhşap   delme   işlemi   ve   şekilleri açıklanır.\n   Ahşap  delik  delme  işlemi  kuralları açıklanır.\n   Delme  işlemi için  iş  resmine uygun markalama yaptırılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine göre delme işlemi yaptırılır.\n   Kumpasla      ölçme      ve      kontrol yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "6",
+      "KONU": "2.  Delik          makinelerde delme işlemi yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Delik       makinelerinde       istenilen ölçülerde delme işlemi yapar\nAhşap   delme   işlemi   ve   şekilleri açıklanır.\n   Ahşap  delik  delme  işlemi  kuralları açıklanır.\n   Delme  işlemi için  iş  resmine uygun markalama yaptırılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine göre delme işlemi yaptırılır.\n   Kumpasla      ölçme      ve      kontrol yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "6",
+      "KONU": "3.  El    takımları    ile    boy Birleştirmeler yapma",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde boy birleştirmeler yapar\nAhşap    boy    birleştirme    şekilleri açıklanır.\n   Ahşap     boy     birleştirme     yapma kuralları açıklanır.\n   Boy birleştirme çeşidi ölçüsüne göre markalama yaptırılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine göre boy birleştirme yaptırılır.\n   Ölçme aletleri ile ve kontrol yaptırılır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "6",
+      "KONU": "3.  El    takımları    ile    boy Birleştirmeler yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  El  takımları  ile  istenilen  ölçülerde boy birleştirmeler yapar\nAhşap    boy    birleştirme    şekilleri açıklanır.\n   Ahşap     boy     birleştirme     yapma kuralları açıklanır.\n   Boy birleştirme çeşidi ölçüsüne göre markalama yaptırılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine göre boy birleştirme yaptırılır.\n   Ölçme aletleri ile ve kontrol yaptırılır"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "6",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "6",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "6",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "6",
+      "KONU": "4.  El takımları ile çerçeve köşe birleştirmeler yapma",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde çerçeve köşe birleştirmeler yapar\nAhşap    çerçeve    köşe    birleştirme şekilleri açıklanır.\n   Ahşap    çerçeve    köşe    birleştirme yapma kuralları açıklanır.\n   Çerçeve    köşe    birleştirme    çeşidi ölçüsüne göre markalama yaptırılır\n   Ahşaba  yapılan markalamaya  ve  iş resmine       göre       çerçeve       köşe birleştirme yaptırır\n   Ölçme aletleri ile kontrol yaptırılır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "6",
+      "KONU": "5.  Kutu   köşe   birleştirme yapma",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde kutu köşe birleştirmeler yapar\nAhşap kutu köşe birleştirme şekilleri açıklanır.\n   Ahşap kutu köşe birleştirme  yapma kuralları açıklanır.\n   Kutu      köşe      birleştirme      çeşidi ölçüsüne göre markalama yaptırılır\n   Ahşaba  yapılan markalamaya  ve  iş resmine  göre  kutu  köşe  birleştirme yaptırılır\n   Ölçme aletleri ile kontrol yaptırılır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "6",
+      "KONU": "5.  Kutu   köşe   birleştirme yapma",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde kutu köşe birleştirmeler yapar\nAhşap kutu köşe birleştirme şekilleri açıklanır.\n   Ahşap kutu köşe birleştirme  yapma kuralları açıklanır.\n   Kutu      köşe      birleştirme      çeşidi ölçüsüne göre markalama yaptırılır\n   Ahşaba  yapılan markalamaya  ve  iş resmine  göre  kutu  köşe  birleştirme yaptırılır\n   Ölçme aletleri ile kontrol yaptırılır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "6",
+      "KONU": "6.  Ayak   kayıt   birleştirme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde ayak kayıt birleştirmeler yapar\nAhşap     ayak     kayıt     birleştirme şekilleri açıklanır.\n   Ahşap ayak kayıt birleştirme yapma kuralları açıklanır.\n   Ayak      kayıt      birleştirme     çeşidi ölçüsüne göre markalama yapılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine  göre  ayak  kayıt  birleştirme yapılır.\n   Ölçme ve kontrol yapılır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "6",
+      "KONU": "6.  Ayak   kayıt   birleştirme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde ayak kayıt birleştirmeler yapar\nAhşap     ayak     kayıt     birleştirme şekilleri açıklanır.\n   Ahşap ayak kayıt birleştirme yapma kuralları açıklanır.\n   Ayak      kayıt      birleştirme     çeşidi ölçüsüne göre markalama yapılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine  göre  ayak  kayıt  birleştirme yapılır.\n   Ölçme ve kontrol yapılır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "6",
+      "KONU": "6.  Ayak   kayıt   birleştirme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde ayak kayıt birleştirmeler yapar\nAhşap     ayak     kayıt     birleştirme şekilleri açıklanır.\n   Ahşap ayak kayıt birleştirme yapma kuralları açıklanır.\n   Ayak      kayıt      birleştirme     çeşidi ölçüsüne göre markalama yapılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine  göre  ayak  kayıt  birleştirme yapılır.\n   Ölçme ve kontrol yapılır"
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "6",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "6",
+      "KONU": "6.  Ayak   kayıt   birleştirme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde ayak kayıt birleştirmeler yapar\nAhşap     ayak     kayıt     birleştirme şekilleri açıklanır.\n   Ahşap ayak kayıt birleştirme yapma kuralları açıklanır.\n   Ayak      kayıt      birleştirme     çeşidi ölçüsüne göre markalama yapılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine  göre  ayak  kayıt  birleştirme yapılır.\n   Ölçme ve kontrol yapılır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "6",
+      "KONU": "6.  Ayak   kayıt   birleştirme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "El  takımları  ile  istenilen  ölçülerde ayak kayıt birleştirmeler yapar\nAhşap     ayak     kayıt     birleştirme şekilleri açıklanır.\n   Ahşap ayak kayıt birleştirme yapma kuralları açıklanır.\n   Ayak      kayıt      birleştirme     çeşidi ölçüsüne göre markalama yapılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine  göre  ayak  kayıt  birleştirme yapılır.\n   Ölçme ve kontrol yapılır"
+    },
+    {
+      "ÜNİTE": "Ahşapta Elde Birleştirmeler",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "6",
+      "KONU": "6.  Ayak   kayıt   birleştirme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  El  takımları  ile  istenilen  ölçülerde ayak kayıt birleştirmeler yapar\nAhşap     ayak     kayıt     birleştirme şekilleri açıklanır.\n   Ahşap ayak kayıt birleştirme yapma kuralları açıklanır.\n   Ayak      kayıt      birleştirme     çeşidi ölçüsüne göre markalama yapılır.\n   Ahşaba  yapılan markalamaya  ve  iş resmine  göre  ayak  kayıt  birleştirme yapılır.\n   Ölçme ve kontrol yapılır"
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "6",
+      "KONU": "1.  Planya      makinesinde rendeleme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Planya       makinesinde       istenilen ölçülerde ahşap malzemeyi rendeler\nMakine    atölyesinde    alınacak    iş sağlığı      ve      güvenliği      kuralları hatırlatılır\n   Makine atölyesinde planya makinesi ile    ilgili    iş    sağlığı    ve    güvenliği tedbirleri açıklanır\n   Planya       makinesinde       çalışma güvenliği kuralları açıklanır\n   Planya makinesi çalışma  düzeni ve tabla ayarları açıklanır\n   Planya     makinesinde     rendeleme kuralları açıklanır\n   Planya makinesinde yüz rendeleme yaptırılır\n   Planya        makinesinde        cumba rendeleme yaptırılır"
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "6",
+      "KONU": "2.  Kalınlık     makinesinde rendeleme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Kalınlık      makinesinde      istenilen ölçülerde ahşap malzemeyi rendeler\nMakine    atölyesinde    alınacak    iş sağlığı      ve      güvenliği      kuralları hatırlatılır\n   Makine        atölyesinde        kalınlık makinesi    ile    ilgili    iş    sağlığı    ve güvenliği tedbirleri açıklanır\n   Kalınlık       makinesinde       çalışma güvenliği kuralları açıklanır\n   Kalınlık makinesi çalışma düzeni ve tabla ayarları açıklanır\n   Kalınlık    makinesinde    rendeleme kuralları açıklanır\n   Kalınlık makinesinde yüz rendeleme yaptırılır"
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "6",
+      "KONU": "3.  Şerit                   testere makinesinde           kesme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Şerit  testere  makinesinde  istenilen ölçülerde kesme işlemi yapar\nMakine    atölyesinde    alınacak    iş sağlığı      ve      güvenliği      kuralları hatırlatılır\n   Makine   atölyesinde   şerit   testere makinesi    ile    ilgili    iş    sağlığı    ve güvenliği tedbirleri açıklanır\n   Şerit  testere  makinesinde  çalışma güvenliği kuralları açıklanır\n   Şerit  testere  makinesinde  çalışma düzeni ve ayarları açıklanır\n   Şerit  testere  makinesinde  boy  ve elyaf     yönünde     kesme     kuralları açıklanır.\n   Şerit    testere    makinesinde    kaba kesim yapma kuralları açıklanır.\n   Şerit   testere   makinesinde   kesim yaptırılır"
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "6",
+      "KONU": "4.  Daire                  testere makinesinde           kesme yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Daire  testere  makinesinde  istenilen ölçülerde kesme işlemi yapar\nMakine    atölyesinde    alınacak    iş sağlığı ve güvenliği kuralları açıklanır.\n   Makine   atölyesinde   daire   testere makinesi    ile    ilgili    iş    sağlığı    ve güvenliği tedbirleri alınır\n   Daire  testere  makinesinde  çalışma güvenliği kuralları açıklanır\n   Daire    testere    makinesi    çalışma düzeni    ve    siper    kesici    ayarları açıklanır\n   Daire  testere  makinesinde  kesme kuralları açıklanır.\n   Daire  testere  makinesinde  genişlik ve boy kesme yaptırılır"
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "6",
+      "KONU": "5.  Elbise Askılığı yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "İş   resmine   uygun   ahşap   elbise askılığı yapar\nElbise askılığı özellikleri açıklanır\n   Yabancı   çıtalı   birleştirme   yapma kuralları açıklanır\n   İş resmi okuması istenir.\n   Ahşap üzerine istenilen ölçülerde de markalama yaptırılır\n   Şerit    testere    makinesinde    kaba kesim yaptırılır\n   Planya   makinesinde   yüz   cumba rendelemesi yaptırılır\n   Kalınlık    makinesinde    rendeleme yaptırılır.\n   Şerit          testere          makinasında markalanan    şablona    uygun    kaba kesim yaptırılır.\n   Daire  testere  makinesinde  yabancı çıtalı birleştirme kanalı açtırılır\n   Daire  testere  makinesinde  yabancı çıta çıkarttırılır\n   Elbise     askılığı     çıtaları     kanala yerleştirtilir ve yapıştırtılır.\n   Fazlalıklar el takımları ile temizletilir.\n   Elbise  askılığı  çıtası  cam  çivisi  ile yerine çaktırılır\n   Ölçme ve kontrolleri yaptırılır.\n   Burgu kanca takılır."
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "6",
+      "KONU": "6.  Ahşap çerçeve yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "İş   resmine   uygun   ahşap   çerçeve yapar\nAhşap çerçeve özellikleri açıklanır.\n   Hampaylı       zıvanalı       birleştirme yapma kuralları açıklanır.\n   İş resmi okuması istenir.\n   Ahşap üzerine istenilen ölçülerde de markalama yaptırılır.\n   Şerit    testere    makinesinde    kaba kesim yaptırılır.\n   Planya   makinesinde   yüz   cumba rendelemesi yaptırılır.\n   Kalınlık    makinesinde    rendeleme yaptırılır.\n   Daire  testere  makinesinde  genişlik çıkartılır.\n   Dişi        parça        resme        uygun markalattırılır.\n   Uygun  matkap  ucu  ile  yatay  delik makinasında          delme          işlemi yaptırılır.zıvana boyunun 15 i kadar\n   Erkek       parça       resme       uygun markalattırılır.\n   Daire  testere  makinesinde   zıvana kapakları kestirilir.\n   Daire  testere  makinesinde  veya  el testeresi ile hampay kestirilir.\n   Ahşap çerçeve parçaları tutkallar ve işkenceyle sıktırılır.\n   Perdah açıklanır.\n   Perdah ve zımpara yaptırılır.\n   Ölçme ve kontrol yaptırılır."
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "6",
+      "KONU": "6.  Ahşap çerçeve yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "İş   resmine   uygun   ahşap   çerçeve yapar\nAhşap çerçeve özellikleri açıklanır.\n   Hampaylı       zıvanalı       birleştirme yapma kuralları açıklanır.\n   İş resmi okuması istenir.\n   Ahşap üzerine istenilen ölçülerde de markalama yaptırılır.\n   Şerit    testere    makinesinde    kaba kesim yaptırılır.\n   Planya   makinesinde   yüz   cumba rendelemesi yaptırılır.\n   Kalınlık    makinesinde    rendeleme yaptırılır.\n   Daire  testere  makinesinde  genişlik çıkartılır.\n   Dişi        parça        resme        uygun markalattırılır.\n   Uygun  matkap  ucu  ile  yatay  delik makinasında          delme          işlemi yaptırılır.zıvana boyunun 15 i kadar\n   Erkek       parça       resme       uygun markalattırılır.\n   Daire  testere  makinesinde   zıvana kapakları kestirilir.\n   Daire  testere  makinesinde  veya  el testeresi ile hampay kestirilir.\n   Ahşap çerçeve parçaları tutkallar ve işkenceyle sıktırılır.\n   Perdah açıklanır.\n   Perdah ve zımpara yaptırılır.\n   Ölçme ve kontrol yaptırılır."
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "6",
+      "KONU": "6.  Ahşap çerçeve yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  İş   resmine   uygun   ahşap   çerçeve yapar\nAhşap çerçeve özellikleri açıklanır.\n   Hampaylı       zıvanalı       birleştirme yapma kuralları açıklanır.\n   İş resmi okuması istenir.\n   Ahşap üzerine istenilen ölçülerde de markalama yaptırılır.\n   Şerit    testere    makinesinde    kaba kesim yaptırılır.\n   Planya   makinesinde   yüz   cumba rendelemesi yaptırılır.\n   Kalınlık    makinesinde    rendeleme yaptırılır.\n   Daire  testere  makinesinde  genişlik çıkartılır.\n   Dişi        parça        resme        uygun markalattırılır.\n   Uygun  matkap  ucu  ile  yatay  delik makinasında          delme          işlemi yaptırılır.zıvana boyunun 15 i kadar\n   Erkek       parça       resme       uygun markalattırılır.\n   Daire  testere  makinesinde   zıvana kapakları kestirilir.\n   Daire  testere  makinesinde  veya  el testeresi ile hampay kestirilir.\n   Ahşap çerçeve parçaları tutkallar ve işkenceyle sıktırılır.\n   Perdah açıklanır.\n   Perdah ve zımpara yaptırılır.\n   Ölçme ve kontrol yaptırılır."
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "6",
+      "KONU": "6.  Ahşap çerçeve yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "İş   resmine   uygun   ahşap   çerçeve yapar\nAhşap çerçeve özellikleri açıklanır.\n   Hampaylı       zıvanalı       birleştirme yapma kuralları açıklanır.\n   İş resmi okuması istenir.\n   Ahşap üzerine istenilen ölçülerde de markalama yaptırılır.\n   Şerit    testere    makinesinde    kaba kesim yaptırılır.\n   Planya   makinesinde   yüz   cumba rendelemesi yaptırılır.\n   Kalınlık    makinesinde    rendeleme yaptırılır.\n   Daire  testere  makinesinde  genişlik çıkartılır.\n   Dişi        parça        resme        uygun markalattırılır.\n   Uygun  matkap  ucu  ile  yatay  delik makinasında          delme          işlemi yaptırılır.zıvana boyunun 15 i kadar\n   Erkek       parça       resme       uygun markalattırılır.\n   Daire  testere  makinesinde   zıvana kapakları kestirilir.\n   Daire  testere  makinesinde  veya  el testeresi ile hampay kestirilir.\n   Ahşap çerçeve parçaları tutkallar ve işkenceyle sıktırılır.\n   Perdah açıklanır.\n   Perdah ve zımpara yaptırılır.\n   Ölçme ve kontrol yaptırılır."
+    },
+    {
+      "ÜNİTE": "Makine Uygulamaları",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "6",
+      "KONU": "6.  Ahşap çerçeve yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "İş   resmine   uygun   ahşap   çerçeve yapar\nAhşap çerçeve özellikleri açıklanır.\n   Hampaylı       zıvanalı       birleştirme yapma kuralları açıklanır.\n   İş resmi okuması istenir.\n   Ahşap üzerine istenilen ölçülerde de markalama yaptırılır.\n   Şerit    testere    makinesinde    kaba kesim yaptırılır.\n   Planya   makinesinde   yüz   cumba rendelemesi yaptırılır.\n   Kalınlık    makinesinde    rendeleme yaptırılır.\n   Daire  testere  makinesinde  genişlik çıkartılır.\n   Dişi        parça        resme        uygun markalattırılır.\n   Uygun  matkap  ucu  ile  yatay  delik makinasında          delme          işlemi yaptırılır.zıvana boyunun 15 i kadar\n   Erkek       parça       resme       uygun markalattırılır.\n   Daire  testere  makinesinde   zıvana kapakları kestirilir.\n   Daire  testere  makinesinde  veya  el testeresi ile hampay kestirilir.\n   Ahşap çerçeve parçaları tutkallar ve işkenceyle sıktırılır.\n   Perdah açıklanır.\n   Perdah ve zımpara yaptırılır.\n   Ölçme ve kontrol yaptırılır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "6",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

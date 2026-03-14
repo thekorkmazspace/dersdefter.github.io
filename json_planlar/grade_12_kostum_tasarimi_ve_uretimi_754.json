@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "Kostum Tasarımı Ve Uretımı",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ ÖZEL AMAÇLI KOSTÜMLER\n1.\tKOSTÜM ÇEŞİTLERİ\n1.1.\tKostüm tanımı ve önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Kostüm çeşitlerini sıralar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "5",
+      "KONU": "1.2.\tÇizgi film kahraman kostümleri \n1.3.\tMasal kahraman kostümleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Kostüm çeşitlerini sıralar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "5",
+      "KONU": "1.4.\tTarihi kahraman kostümleri \n1.5.\tPalyaço kostümleri",
+      "KAZANIM": "Kostüm çeşitlerini sıralar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "5",
+      "KONU": "1.6.\tÜlke kostümleri \n1.7.\tGüncel kostümler \n1.8.\tHayvan kostümleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Kostüm çeşitlerini sıralar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "5",
+      "KONU": "2.\tÜRETİLECEK ÖZEL AMAÇLI KOSTÜM\n2.1.Uygulanacak etkinliğe yönelik kostüm ve aksesuar planlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Üretilecek özel amaçlı kostümü belirlenir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "5",
+      "KONU": "2.2.Üretilecek kostüm modeli tespit etme",
+      "KAZANIM": "Üretilecek özel amaçlı kostümü belirlenir."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "5",
+      "KONU": "3.\tÜRETİLECEK KOSTÜMÜNE UYGUN KALIP\n3.1.Üretilecek modele uygun kalıp hazırlama",
+      "KAZANIM": "Üretilecek kostümüne uygun kalıp hazırlar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "5",
+      "KONU": "3.2.Kostüm için ana ve yardımcı malzeme hesabı   \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Üretilecek kostümüne uygun kalıp hazırlar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "5",
+      "KONU": "4.\tÜRETİLECEK KOSTÜME UYGUN MALZEME\n4.1.Malzeme özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Üretilecek kostüme uygun malzeme seçer."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "5",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "5",
+      "KONU": "4.2.Modele uygun malzeme seçimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Üretilecek kostüme uygun malzeme seçer."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "5",
+      "KONU": "5.\tKOSTÜMÜN KESİM İŞLEMLERİ\n5.1.Kostüm kesimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Kostümün kesim işlemlerini yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "5",
+      "KONU": "5.1.Kostüm kesimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Kostümün kesim işlemlerini yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "5",
+      "KONU": "6.\tKOSTÜMÜN DİKİM İŞLEMLERİ\n6.1.Kostüm dikimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Kostümün dikim işlemlerini yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "5",
+      "KONU": "6.1.Kostüm dikimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Kostümün dikim işlemlerini yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "5",
+      "KONU": "6.1.Kostüm dikimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Kostümün dikim işlemlerini yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "5",
+      "KONU": "6.2.Kostüm özelliğine uygun süsleme  \n1.Dönem 2.Sınav",
+      "KAZANIM": "Kostümün dikim işlemlerini yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "5",
+      "KONU": "ÖĞRENME BİRİMİ YÖRESEL KIYAFETLER\n1.\tYÖRESEL KIYAFET ÇEŞİTLERİ\n1.1.\tYöresel kıyafetleri sınıflandırırma başa giyilen sırta giyilen ayağa giyilen takılar süsler saç şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Yöresel kıyafet çeşitlerini araştırır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "5",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "5",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "5",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "5",
+      "KONU": "1.1.\tYöresel kıyafetleri sınıflandırırma başa giyilen sırta giyilen ayağa giyilen takılar süsler saç şekilleri",
+      "KAZANIM": "Yöresel kıyafet çeşitlerini araştırır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "5",
+      "KONU": "1.2.\tKaradenizde horon kıyafetinin özellikleri",
+      "KAZANIM": "Yöresel kıyafet çeşitlerini araştırır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "5",
+      "KONU": "1.3.\tEgede efe kıyafetinin özellikleri \n1.4.\tAkdenizde yörük kıyafetinin özellikleri",
+      "KAZANIM": "Yöresel kıyafet çeşitlerini araştırır."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "5",
+      "KONU": "1.5.\tDoğu ve Güneydoğuda şalvarlı kıyafetlerin özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Yöresel kıyafet çeşitlerini araştırır."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "5",
+      "KONU": "2.\tÜRETİLECEK YÖRESEL KIYAFET\n2.1.Uygulanacak etkinliğe yönelik yöresel kıyafet ve aksesuar planlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Üretilecek yöresel kıyafeti belirler."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "5",
+      "KONU": "2.1.Uygulanacak etkinliğe yönelik yöresel kıyafet ve aksesuar planlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Üretilecek yöresel kıyafeti belirler."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "5",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "5",
+      "KONU": "2.2.Üretilecek yöresel kıyafet modeli tespit",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Üretilecek yöresel kıyafeti belirler."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "5",
+      "KONU": "3.\tÜRETİLECEK YÖRESEL KIYAFETE UYGUN KALIP \n3.1.Üretilecek modele uygun kalıp hazırlama   \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Üretilecek yöresel kıyafete uygun kalıp hazırlar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "5",
+      "KONU": "3.1.Üretilecek modele uygun kalıp hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Üretilecek yöresel kıyafete uygun kalıp hazırlar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "5",
+      "KONU": "3.2.Yöresel kıyafet için ana ve yardımcı malzeme hesabı yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Üretilecek yöresel kıyafete uygun kalıp hazırlar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "5",
+      "KONU": "4.\tÜRETİLECEK YÖRESEL KIYAFETE UYGUN MALZEME \n4.1.Malzeme özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Üretilecek yöresel kıyafete uygun malzeme seçer."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "5",
+      "KONU": "4.2.Modele uygun malzeme seçimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Üretilecek yöresel kıyafete uygun malzeme seçer."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "5",
+      "KONU": "5.\tYÖRESEL KIYAFET KESİM İŞLEMLERİ\n5.1.Yöresel kıyafet kesimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Yöresel kıyafet kesim işlemlerini yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "5",
+      "KONU": "5.1.Yöresel kıyafet kesimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Yöresel kıyafet kesim işlemlerini yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "5",
+      "KONU": "6.\tYÖRESEL KIYAFET DİKİM İŞLEMLERİ \n6.1.Yöresel kıyafet dikimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Yöresel kıyafet dikim işlemlerini yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "5",
+      "KONU": "6.1.Yöresel kıyafet dikimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Yöresel kıyafet dikim işlemlerini yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "5",
+      "KONU": "6.1.Yöresel kıyafet dikimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Yöresel kıyafet dikim işlemlerini yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "5",
+      "KONU": "6.2.Yöresel kıyafet özelliğine uygun süsleme  yapma \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Yöresel kıyafet dikim işlemlerini yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "5",
+      "KONU": "6.2.Yöresel kıyafet özelliğine uygun süsleme  yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Yöresel kıyafet dikim işlemlerini yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "5",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

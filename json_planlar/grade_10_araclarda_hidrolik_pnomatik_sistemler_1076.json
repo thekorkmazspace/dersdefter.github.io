@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "Araclarda Hıdrolık Pnomatık Sıstemler",
+  "plan": [
+    {
+      "ÜNİTE": "Hidrolik Prensipler",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "1.   Hidrolik",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Kütle kuvvet ve basınç ile ilgili hesaplamaları yapar.\nHidrolik ile ilgili temel terimleri açıklanır.\n       Hidroliğin  tanımı  endüstrideki  yeri  ve  önemi açıklanır.\n       Hidrolik   sistemlerin   üstünlükleri   ve   olumsuz yönleri açıklanır.\n       Hidrolikte    kullanılan    birimleri    dönüştürmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Prensipler",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "2.   Hidrolik Prensipler",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Hidrostatik ile ilgili hesaplamaları yapar.\nHidrostatik prensipleri açıklanır.\n       Pascal kanunu ile ilgili hesapları yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Prensipler",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "3.   Hidrodinamik Prensipler",
+      "KAZANIM": "Hidrodinamik ile ilgili hesaplamaları yapar.\nHidrodinamik prensipleri açıklanır.\n       Bernoulli  prensibi  ile  ilgili  hesapları   yapması sağlanır.\n       Süreklilik  denklemi  ile  ilgili  hesapları  yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Prensipler",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "4.   Hidrolik Akışkanlar ve Yağlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Hidrolik  sistemlerde  uygun  hidrolik  yağ  seçimi yapar.\nHidrolik   yağın   görevleri   ve   yağlarda   aranan özellikleri açıklanır.\n       Hidrolik yağ çeşitleri açıklanır.\n       Yağ   bilgilerini   almak   için  katalog   kullanması sağlanır.\n       Hidrolik   yağı   kullanım   yerine   uygun   şekilde seçmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Prensipler",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "5.   Hidrolik Devrede Kullanılan Semboller",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Hidrolik sembollerini seçip kullanır.\nHidrolik   devre   çiziminde   kullanılan   hatlar   ve semboller açıklanır.\n       Hidrolik devre sembollerini okuması sağlanır.\n       Hidrolik devre sembollerini çizmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Prensipler",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "6.   Hidrolik Devreler",
+      "KAZANIM": "Basit hidrolik devre çizer.\nHidrolik devre çeşitleri açıklanır.\n Hidrolik devre üzerindeki hatlar ve devrelerin ana kısımları açıklanır.\n       Hidrolik devre çizimi yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Prensipler",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "6.   Hidrolik Devreler",
+      "KAZANIM": "Basit hidrolik devre çizer.\nHidrolik devre çeşitleri açıklanır.\n Hidrolik devre üzerindeki hatlar ve devrelerin ana kısımları açıklanır.\n       Hidrolik devre çizimi yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Prensipler",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "6.   Hidrolik Devreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Basit hidrolik devre çizer.\nHidrolik devre çeşitleri açıklanır.\n Hidrolik devre üzerindeki hatlar ve devrelerin ana kısımları açıklanır.\n       Hidrolik devre çizimi yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "1.   Depolar ve donanım",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Hidrolik tank ve donanımını seçer.\nYağ  depolarının  tanımı  görevi  ve  sembolü açıklanır.\n       Hidrolik  yağ  deposu  seçiminin  doğru  olarak yapması sağlanır.\n       Isıtıcıların - soğutucuların görevi ve özellikleri açıklanır.\n       Depo   üzerinde   bulunması   gereken   diğer avadanlıkları seçmesi sağlanır.\n       İş   güvenlik   kurallarına   uyma   konusunda hassas davranması sağlanır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "1.   Depolar ve donanım",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Hidrolik tank ve donanımını seçer.\nYağ  depolarının  tanımı  görevi  ve  sembolü açıklanır.\n       Hidrolik  yağ  deposu  seçiminin  doğru  olarak yapması sağlanır.\n       Isıtıcıların - soğutucuların görevi ve özellikleri açıklanır.\n       Depo   üzerinde   bulunması   gereken   diğer avadanlıkları seçmesi sağlanır.\n       İş   güvenlik   kurallarına   uyma   konusunda hassas davranması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "2.   Filtreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Hidrolik filtre ve donanımının seçimini yapar.\nFiltrelerin görevi sembolü çeşitleri ve yapısal özellikleri açıklar.\n       Hidrolik sistemde kullanılan filtreleri seçmesi sağlanır.\n       Hidrolik sistemde kullanılan filtre donanımlarını seçmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "2.   Filtreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Hidrolik filtre ve donanımının seçimini yapar.\nFiltrelerin görevi sembolü çeşitleri ve yapısal özellikleri açıklar.\n       Hidrolik sistemde kullanılan filtreleri seçmesi sağlanır.\n       Hidrolik sistemde kullanılan filtre donanımlarını seçmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "3.   Hidrolik Pompalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Hidrolik    pompaları    gerekli    hesaplamaları yaparak seçer.\nHidrolik  pompaların  görevleri  sembolü  ve çeşitleri açıklanır.\n       Pompaların çalışması açıklanır.\n       Pompalarda debinin tanımı ve hesaplanması açıklanır.\n       Hidrolik pompaları karşılaştırması sağlanır.\n       Pompalarda debinin hesaplanması sağlanır.\n       Hidrolik pompaların verim hesabını yapması sağlanır.\n       Hidrolik  pompa  seçiminin  kullanım  alanına uygun şekilde yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "3.   Hidrolik Pompalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Hidrolik    pompaları    gerekli    hesaplamaları yaparak seçer.\nHidrolik  pompaların  görevleri  sembolü  ve çeşitleri açıklanır.\n       Pompaların çalışması açıklanır.\n       Pompalarda debinin tanımı ve hesaplanması açıklanır.\n       Hidrolik pompaları karşılaştırması sağlanır.\n       Pompalarda debinin hesaplanması sağlanır.\n       Hidrolik pompaların verim hesabını yapması sağlanır.\n       Hidrolik  pompa  seçiminin  kullanım  alanına uygun şekilde yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "4.   Hidrolik Motorlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Hidrolik     motorları     gerekli     hesaplamaları yaparak seçer.\nHidrolik motorların görevleri çeşitleri ve sembolü açıklanır.\n       Hidrolik motor seçiminin kullanım alanına uygun şekilde yapması sağlanır.\n       Hidrolik motorlarda döndürme momentinin hesaplanmasının yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "4.   Hidrolik Motorlar",
+      "KAZANIM": "Hidrolik     motorları     gerekli     hesaplamaları yaparak seçer.\nHidrolik motorların görevleri çeşitleri ve sembolü açıklanır.\n       Hidrolik motor seçiminin kullanım alanına uygun şekilde yapması sağlanır.\n       Hidrolik motorlarda döndürme momentinin hesaplanmasının yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "5.   Valfler",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Hidrolik valflerin seçimini yapar.\nValflerin    görevleri    çeşitleri    ve    sembolü açıklanır.\n       Yön  kontrol  valflerinin  sembollerinin  çizmesi sağlanır.\n       Basınç kontrol valflerini sembollerinin çizmesi sağlanır.\n       Akış  kontrol  valflerini  sembollerinin  çizmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "6.   Hidrolik Silindirler",
+      "KAZANIM": "Hidrolik    silindirleri    gerekli    hesaplamaları yaparak seçer.\nHidrolik silindirlerin görevleri çeşitleri ve sembolü açıklanır.\n       Hidrolik silindirler ile ilgili hesaplamaları yapması sağlanır.\n       Hidrolik silindirlerin kullanım alanına uygun şekilde seçmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "6.   Hidrolik Silindirler",
+      "KAZANIM": "Hidrolik    silindirleri    gerekli    hesaplamaları yaparak seçer.\nHidrolik silindirlerin görevleri çeşitleri ve sembolü açıklanır.\n       Hidrolik silindirler ile ilgili hesaplamaları yapması sağlanır.\n       Hidrolik silindirlerin kullanım alanına uygun şekilde seçmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "7.   Borular ve Hortumlar",
+      "KAZANIM": "Hidrolik  sistemlerde  boruları  hortumları  ve bağlantı elemanlarını seçer.\nHidrolik akış türleri açıklanır.\n       Borular   ve   hortumların   yapısal   özellikleri açıklanır.\n       Boru    seçiminde    ve    montajında    dikkat edilecek hususlar açıklanır.\n       Hidrolik   sistemde   kullanılan   sızdırmazlık elemanları  ve  manometrelerin  sembollerini çizmesi sağlanır.\n       Hidrolik  borular  ile  ilgili  hesapları  yapması sağlanır.\n       Hidrolik  boruların  kullanım  alanına  uygun şekilde yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "7.   Borular ve Hortumlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Hidrolik  sistemlerde  boruları  hortumları  ve bağlantı elemanlarını seçer.\nHidrolik akış türleri açıklanır.\n       Borular   ve   hortumların   yapısal   özellikleri açıklanır.\n       Boru    seçiminde    ve    montajında    dikkat edilecek hususlar açıklanır.\n       Hidrolik   sistemde   kullanılan   sızdırmazlık elemanları  ve  manometrelerin  sembollerini çizmesi sağlanır.\n       Hidrolik  borular  ile  ilgili  hesapları  yapması sağlanır.\n       Hidrolik  boruların  kullanım  alanına  uygun şekilde yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "8.   Hidrolik Akümülatör",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Hidrolik akümülatörlerin seçimini ve bakımını yapar.\nHidrolik akümülatörlerin görevleri çalışması ve sembolü açıklanır.\n       Hidrolik akümülatör çeşitlerini açıklanır.\n       Hidrolik akümülatörlerle çalışırken dikkat edilmesi gereken hususlar açıklanır.\n       Hidrolik akümülatörlerin bakımı ve akümülatöre gaz doldurulması açıklanır.\n       Hidrolik akümülatörleri kullanım alanına uygun şekilde seçilmesi sağlanır.\n       Hidrolik akümülatörlerin kontrolünün yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "8.   Hidrolik Akümülatör",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Hidrolik akümülatörlerin seçimini ve bakımını yapar.\nHidrolik akümülatörlerin görevleri çalışması ve sembolü açıklanır.\n       Hidrolik akümülatör çeşitlerini açıklanır.\n       Hidrolik akümülatörlerle çalışırken dikkat edilmesi gereken hususlar açıklanır.\n       Hidrolik akümülatörlerin bakımı ve akümülatöre gaz doldurulması açıklanır.\n       Hidrolik akümülatörleri kullanım alanına uygun şekilde seçilmesi sağlanır.\n       Hidrolik akümülatörlerin kontrolünün yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "8.   Hidrolik Akümülatör",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Hidrolik akümülatörlerin seçimini ve bakımını yapar.\nHidrolik akümülatörlerin görevleri çalışması ve sembolü açıklanır.\n       Hidrolik akümülatör çeşitlerini açıklanır.\n       Hidrolik akümülatörlerle çalışırken dikkat edilmesi gereken hususlar açıklanır.\n       Hidrolik akümülatörlerin bakımı ve akümülatöre gaz doldurulması açıklanır.\n       Hidrolik akümülatörleri kullanım alanına uygun şekilde seçilmesi sağlanır.\n       Hidrolik akümülatörlerin kontrolünün yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Hidrolik Sistemler",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "8.   Hidrolik Akümülatör",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Hidrolik akümülatörlerin seçimini ve bakımını yapar.\nHidrolik akümülatörlerin görevleri çalışması ve sembolü açıklanır.\n       Hidrolik akümülatör çeşitlerini açıklanır.\n       Hidrolik akümülatörlerle çalışırken dikkat edilmesi gereken hususlar açıklanır.\n       Hidrolik akümülatörlerin bakımı ve akümülatöre gaz doldurulması açıklanır.\n       Hidrolik akümülatörleri kullanım alanına uygun şekilde seçilmesi sağlanır.\n       Hidrolik akümülatörlerin kontrolünün yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "1.   Pnömatik Prensipler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Havanın   hazırlanmasında   kullanılan   devre elemanlarının kontrol ve hesaplarını yapar.\nPnömatiğin    tanımı    ve    temel    prensipleri açıklanır.\n       Pnömatik   sistemlerin   üstün   ve   olumsuz yönleri sıralanır.\n       Hidrolik        ve        pnömatik        sistemlerini karşılaştırması sağlanır.\n       Pnömatik    devrelerin    ana    kısımlarını    ve havanın hazırlanması açıklanır.\n       Boyle          Mariotte     kanunu     ile     ilgili hesaplamaların yapılması sağlanır.\n       Gay-Lussac  kanunu  ile  ilgili  hesaplamaların yapılması sağlanır.\n       Havanın nem miktarını hesaplaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "2.   Pnömatik Silindirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Pnömatik   silindirleri   gerekli   hesaplamaları yaparak seçer\nPnömatik  silindirlerin  görevleri  çeşitleri  ve simgesi açıklanır.\n       Pnömatik silindirlerde kuvvet iletiminin hesaplanması açıklanır.\n       Pnömatik silindirlerde oluşan kuvvetlerin hesaplaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "3.   Pnömatik Motorlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Pnömatik motorları gerekli hesaplamaları yaparak seçer\nPnömatik motorların görevleri açıklanır.\n       Pnömatik motorların çeşitleri sıralanır.\n       Pnömatik    motorların    tipinin    belirlemesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "4.   Pnömatik Valfler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Pnömatik valflerin seçimini yapar.\nValflerin görevleri çeşitleri ve sembolü açıklanır.\n       Yön kontrol valflerini sembollerle çizerek göstermesi sağlanır.\n       Basınç kontrol valflerini sembollerle çizerek göstermesi sağlanır.\n       Akış kontrol valflerini sembollerle çizerek göstermesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "5.   Pnömatik Devreler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Pnömatik devre çizer.\nPnömatik devre çeşitleri açıklanır.\n       Pnömatik    devre    üzerindeki    hatlar    ve devrelerin ana kısımları açıklanır.\n       Pnömatik    devre    hatlarını    tespit    etmesi sağlanır.\n       Pnömatik  devre  elemanlarının  belirlenmesi sağlanır.\n       Pnömatik devre çizimi yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "6.   Pnömatik Devrelerin Bakımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Pnömatik devrelerin bakımını yapar.\nPnömatik devrelerin bakımı açıklanır.\n       Pnömatik devrelerin bakım zamanları açıklanır.\n       Hidrolik ve pnömatik devrelerin günlük bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin haftalık bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin aylık bakımlarının yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "6.   Pnömatik Devrelerin Bakımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Pnömatik devrelerin bakımını yapar.\nPnömatik devrelerin bakımı açıklanır.\n       Pnömatik devrelerin bakım zamanları açıklanır.\n       Hidrolik ve pnömatik devrelerin günlük bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin haftalık bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin aylık bakımlarının yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "6.   Pnömatik Devrelerin Bakımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Pnömatik devrelerin bakımını yapar.\nPnömatik devrelerin bakımı açıklanır.\n       Pnömatik devrelerin bakım zamanları açıklanır.\n       Hidrolik ve pnömatik devrelerin günlük bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin haftalık bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin aylık bakımlarının yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "6.   Pnömatik Devrelerin Bakımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Pnömatik devrelerin bakımını yapar.\nPnömatik devrelerin bakımı açıklanır.\n       Pnömatik devrelerin bakım zamanları açıklanır.\n       Hidrolik ve pnömatik devrelerin günlük bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin haftalık bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin aylık bakımlarının yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Pnömatik Sistemler",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "6.   Pnömatik Devrelerin Bakımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Pnömatik devrelerin bakımını yapar.\nPnömatik devrelerin bakımı açıklanır.\n       Pnömatik devrelerin bakım zamanları açıklanır.\n       Hidrolik ve pnömatik devrelerin günlük bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin haftalık bakımlarının yapması sağlanır.\n       Hidrolik ve pnömatik devrelerin aylık bakımlarının yapması sağlanır."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

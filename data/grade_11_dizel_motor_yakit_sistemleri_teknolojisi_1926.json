@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "Dızel Motor Yakıt Sıstemlerı Teknolojısı",
+  "plan": [
+    {
+      "ÜNİTE": "Dizel Yakıt Besleme Sistemi",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "5",
+      "KONU": "1. Yakıt sistemi elemanları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Yakıt sistemi elemanlarını kontrol eder.\nAtölye güvenlik kurallarını sıralar.\n Dizel motorlarının endüstrideki önemini kullanıldığı yerleri açıklar.\n Dizel motorlarının avantaj ve dezavantajlarını sıralar.\n Dizel motoru çalışma prensibini açıklar.\n Dizel motorlarında yanma olayı ve terimlerini açıklar.\n Dizel motorlarında yanma odalarını açıklar.\n Dizel motorlarında kullanılan yağların ve yakıtların özelliklerini listeler.\n Dizel motorlarında enjeksiyon sistemi görevlerini ve genel yapısını izah eder."
+    },
+    {
+      "ÜNİTE": "Dizel Yakıt Besleme Sistemi",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "5",
+      "KONU": "2. Yakıt boruları ve deposu",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Yakıt borularını ve deposunu kontrol eder.\nYakıt borularının tanımı ve önemini açıklar.\n Alçak basınç yüksek basınç geri dönüş ve sızıntı borularını açıklar.\n Yakıt borularının üretim ve bağlantı özelliklerini sıralar.\n Rekorları ve sızdırmazlık pullarını açıklar.\n Yakıt deposunun görevlerini ve yapısal özelliklerini sıralar.\n Motorlu araçlarda yakıt depo şekilleri ve yakıt şamandırasını açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Yakıt Besleme Sistemi",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "5",
+      "KONU": "3. Besleme yakıt pompası",
+      "KAZANIM": "Besleme yakıt pompasını kontrol eder.\nBesleme pompasının görevlerini açıklar.\n Pistonlu tip besleme pompasının yapısını çalışmasını ve arızalarını açıklar.\n Diyafram tip besleme pompasının yapısını çalışmasını ve arızalarını açıklar.\n Dişli tip besleme pompasının yapısını çalışmasını ve arızalarını açıklar.\n Paletli tip besleme pompasının yapısını çalışmasını ve arızalarını açıklar.\n Besleme pompasının vakum basma basıncı debi ve sızdırmazlık kontrollerini açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Yakıt Besleme Sistemi",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "5",
+      "KONU": "4. Yakıt filtreleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Yakıt filtrelerinin kontrollerini ve değişimini yapar.\nDizel motorlarında yakıtın temiz olmasının önemini açıklar.\n Filtrelerin görevlerini çeşitlerini ve yapısal özelliklerini izah eder.\n Yakıt filtreleri bağlama şekillerini sıralar.\n Yakıt filtresi bakım zamanlarını ve arızalarını açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Yakıt Besleme Sistemi",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "5",
+      "KONU": "4. Yakıt filtreleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Yakıt filtrelerinin kontrollerini ve değişimini yapar.\nDizel motorlarında yakıtın temiz olmasının önemini açıklar.\n Filtrelerin görevlerini çeşitlerini ve yapısal özelliklerini izah eder.\n Yakıt filtreleri bağlama şekillerini sıralar.\n Yakıt filtresi bakım zamanlarını ve arızalarını açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Yakıt Besleme Sistemi",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "5",
+      "KONU": "4. Yakıt filtreleri",
+      "KAZANIM": "Yakıt filtrelerinin kontrollerini ve değişimini yapar.\nDizel motorlarında yakıtın temiz olmasının önemini açıklar.\n Filtrelerin görevlerini çeşitlerini ve yapısal özelliklerini izah eder.\n Yakıt filtreleri bağlama şekillerini sıralar.\n Yakıt filtresi bakım zamanlarını ve arızalarını açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Yakıt Besleme Sistemi",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "5",
+      "KONU": "4. Yakıt filtreleri",
+      "KAZANIM": "Yakıt filtrelerinin kontrollerini ve değişimini yapar.\nDizel motorlarında yakıtın temiz olmasının önemini açıklar.\n Filtrelerin görevlerini çeşitlerini ve yapısal özelliklerini izah eder.\n Yakıt filtreleri bağlama şekillerini sıralar.\n Yakıt filtresi bakım zamanlarını ve arızalarını açıklar."
+    },
+    {
+      "ÜNİTE": "Sıra Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "5",
+      "KONU": "1. Sıra tipi yakıt enjeksiyon pompası",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Sıra tipi yakıt enjeksiyon pompasının bakım ve onarımını yapar.\nDizel yakıt enjeksiyon pompalarının görevlerini ve çeşitlerini sıralar.\n Sıra tipi yakıt enjeksiyon pompası genel yapısını ve parçalarını listeler\n Pompa elemanının görevlerini yapısını ve gaz konumlarına göre çalışmasını açıklar.\n Ventilin görevlerini yapısını ve çalışmasını açıklar.\n Sıra tipi yakıt enjeksiyon pompaların çalışmasını izah eder\n Sıra tipi yakıt enjeksiyon pompasının motordan sökülüp takılmasını ve kontrollerini açıklar.\n Sıra tipi yakıt enjeksiyon pompaların arızaları ve onarımını açıklar.\n Sıra tip pompanın etiketlerinin anlamlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Sıra Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "5",
+      "KONU": "1. Sıra tipi yakıt enjeksiyon pompası",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Sıra tipi yakıt enjeksiyon pompasının bakım ve onarımını yapar.\nDizel yakıt enjeksiyon pompalarının görevlerini ve çeşitlerini sıralar.\n Sıra tipi yakıt enjeksiyon pompası genel yapısını ve parçalarını listeler\n Pompa elemanının görevlerini yapısını ve gaz konumlarına göre çalışmasını açıklar.\n Ventilin görevlerini yapısını ve çalışmasını açıklar.\n Sıra tipi yakıt enjeksiyon pompaların çalışmasını izah eder\n Sıra tipi yakıt enjeksiyon pompasının motordan sökülüp takılmasını ve kontrollerini açıklar.\n Sıra tipi yakıt enjeksiyon pompaların arızaları ve onarımını açıklar.\n Sıra tip pompanın etiketlerinin anlamlarını açıklar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "5",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Sıra Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "5",
+      "KONU": "1. Sıra tipi yakıt enjeksiyon pompası",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Sıra tipi yakıt enjeksiyon pompasının bakım ve onarımını yapar.\nDizel yakıt enjeksiyon pompalarının görevlerini ve çeşitlerini sıralar.\n Sıra tipi yakıt enjeksiyon pompası genel yapısını ve parçalarını listeler\n Pompa elemanının görevlerini yapısını ve gaz konumlarına göre çalışmasını açıklar.\n Ventilin görevlerini yapısını ve çalışmasını açıklar.\n Sıra tipi yakıt enjeksiyon pompaların çalışmasını izah eder\n Sıra tipi yakıt enjeksiyon pompasının motordan sökülüp takılmasını ve kontrollerini açıklar.\n Sıra tipi yakıt enjeksiyon pompaların arızaları ve onarımını açıklar.\n Sıra tip pompanın etiketlerinin anlamlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Sıra Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "5",
+      "KONU": "2. Sıra tip yakıt enjeksiyon pompası regülatör ve avans sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Sıra tip yakıt enjeksiyon pompası regülatör ve avans sisteminin bakım ve onarımını yapar.\nSıra tip yakıt enjeksiyon pompası regülatör sisteminin görevlerini çeşitlerini yapısı ve çalışmasını açıklar.\n Sıra tip yakıt enjeksiyon pompası avans sisteminin yapısı ve çalışmasını açıklar\n Pompa ayar tezgâhında uyulması gereken güvenlik kurallarını açıklar.\n Pompa test cihazına sıra tip pompanın bağlanmasını ve yapılacak hazırlık işlemlerini açıklar.\n Sıra tipi yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarları açıklar."
+    },
+    {
+      "ÜNİTE": "Sıra Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "5",
+      "KONU": "2. Sıra tip yakıt enjeksiyon pompası regülatör ve avans sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Sıra tip yakıt enjeksiyon pompası regülatör ve avans sisteminin bakım ve onarımını yapar.\nSıra tip yakıt enjeksiyon pompası regülatör sisteminin görevlerini çeşitlerini yapısı ve çalışmasını açıklar.\n Sıra tip yakıt enjeksiyon pompası avans sisteminin yapısı ve çalışmasını açıklar\n Pompa ayar tezgâhında uyulması gereken güvenlik kurallarını açıklar.\n Pompa test cihazına sıra tip pompanın bağlanmasını ve yapılacak hazırlık işlemlerini açıklar.\n Sıra tipi yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarları açıklar."
+    },
+    {
+      "ÜNİTE": "Sıra Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "5",
+      "KONU": "2. Sıra tip yakıt enjeksiyon pompası regülatör ve avans sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Sıra tip yakıt enjeksiyon pompası regülatör ve avans sisteminin bakım ve onarımını yapar.\nSıra tip yakıt enjeksiyon pompası regülatör sisteminin görevlerini çeşitlerini yapısı ve çalışmasını açıklar.\n Sıra tip yakıt enjeksiyon pompası avans sisteminin yapısı ve çalışmasını açıklar\n Pompa ayar tezgâhında uyulması gereken güvenlik kurallarını açıklar.\n Pompa test cihazına sıra tip pompanın bağlanmasını ve yapılacak hazırlık işlemlerini açıklar.\n Sıra tipi yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarları açıklar."
+    },
+    {
+      "ÜNİTE": "Distribütör Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "5",
+      "KONU": "1. D.P.A. tip pompa",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "DPA tip pompanın bakım ve onarımını yapar.\nD.P.A tip pompanın genel yapısını ve parçalarını listeler\n D.P.A tip pompanın parçalarının yapısı çalışması ve çeşitlerini açıklar\n D.P.A yakıt enjeksiyon pompaların çalışmasını izah eder\n D.P.A. yakıt enjeksiyon pompasının motordan sökülmesi ve takılmasını açıklar.\n D.P.A. yakıt enjeksiyon pompaların arızaları ve onarımını açıklar.\n D.P.A yakıt enjeksiyon pompa etiketi ve anlamlarını açıklar.\n DPA yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarları açıklar."
+    },
+    {
+      "ÜNİTE": "Distribütör Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "5",
+      "KONU": "1. D.P.A. tip pompa",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "DPA tip pompanın bakım ve onarımını yapar.\nD.P.A tip pompanın genel yapısını ve parçalarını listeler\n D.P.A tip pompanın parçalarının yapısı çalışması ve çeşitlerini açıklar\n D.P.A yakıt enjeksiyon pompaların çalışmasını izah eder\n D.P.A. yakıt enjeksiyon pompasının motordan sökülmesi ve takılmasını açıklar.\n D.P.A. yakıt enjeksiyon pompaların arızaları ve onarımını açıklar.\n D.P.A yakıt enjeksiyon pompa etiketi ve anlamlarını açıklar.\n DPA yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarları açıklar."
+    },
+    {
+      "ÜNİTE": "Distribütör Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "5",
+      "KONU": "2. D.P.S. tip pompa",
+      "KAZANIM": "DPS tip pompanın bakım ve onarımını yapar.\nD.P.S tip pompanın genel yapısını ve parçalarını listeler.\n D.P.S tip pompanın parçalarının yapısı çalışması ve çeşitlerini açıklar.\n D.P.S yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Distribütör Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "5",
+      "KONU": "2. D.P.S. tip pompa",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "DPS tip pompanın bakım ve onarımını yapar.\nD.P.S tip pompanın genel yapısını ve parçalarını listeler.\n D.P.S tip pompanın parçalarının yapısı çalışması ve çeşitlerini açıklar.\n D.P.S yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "5",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "5",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "5",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Distribütör Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "5",
+      "KONU": "3. EPVE tip pompa",
+      "KAZANIM": "EPVE tip pompanın bakım ve onarımını yapar.\nEPVE tip pompanın genel yapısını ve parçalarını listeler\n EPVE tip pompanın parçalarının yapısı çalışması ve çeşitlerini açıklar\n EPVE yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarları açıklar."
+    },
+    {
+      "ÜNİTE": "Distribütör Tipi Dizel Yakıt Enjeksiyon Pompaları",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "5",
+      "KONU": "3. EPVE tip pompa",
+      "KAZANIM": "EPVE tip pompanın bakım ve onarımını yapar.\nEPVE tip pompanın genel yapısını ve parçalarını listeler\n EPVE tip pompanın parçalarının yapısı çalışması ve çeşitlerini açıklar\n EPVE yakıt pompalarının pompa test cihazında yapılacak kontrolleri ve ayarları açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yakıt Enjektörleri",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "5",
+      "KONU": "1. Hidrolik enjektörler",
+      "KAZANIM": "Hidrolik enjektörlerin kontrol ederek ayarlarını yapar.\nHidrolik enjektörlerin tanımını önemini ve görevini sıralar.\n Hidrolik enjektör çeşitleri ve yapısal özeliklerini listeler.\n Hidrolik enjektörlerin ayar şekillerini açıklar.\n Motora bağlanış şekillerine göre hidrolik enjektörleri listeler.\n Soğutma şekillerine göre hidrolik enjektörleri listeler.\n Hidrolik enjektörlerde kullanılan meme çeşitlerini sıralar.\n Hidrolik enjektörlerin kontrol ve ayarlarını açıklar.\n Enjektör etiketi ve anlamlarını izah eder."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yakıt Enjektörleri",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "5",
+      "KONU": "1. Hidrolik enjektörler",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Hidrolik enjektörlerin kontrol ederek ayarlarını yapar.\nHidrolik enjektörlerin tanımını önemini ve görevini sıralar.\n Hidrolik enjektör çeşitleri ve yapısal özeliklerini listeler.\n Hidrolik enjektörlerin ayar şekillerini açıklar.\n Motora bağlanış şekillerine göre hidrolik enjektörleri listeler.\n Soğutma şekillerine göre hidrolik enjektörleri listeler.\n Hidrolik enjektörlerde kullanılan meme çeşitlerini sıralar.\n Hidrolik enjektörlerin kontrol ve ayarlarını açıklar.\n Enjektör etiketi ve anlamlarını izah eder."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yakıt Enjektörleri",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "5",
+      "KONU": "2. Dizel yakıt sisteminde hava alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Dizel yakıt sisteminin havasını alır.\nDizel yakıt sisteminde bulunan yakıt hattını açıklar.\n Dizel yakıt sisteminde hava olmasının nedenlerini sıralar.\n Dizel yakıt sisteminde hava olmasının sakıncalarını listeler.\n Dizel yakıt sisteminde hava alınacak yerleri ve hava alma işlemini açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yakıt Enjektörleri",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "5",
+      "KONU": "2. Dizel yakıt sisteminde hava alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Dizel yakıt sisteminin havasını alır.\nDizel yakıt sisteminde bulunan yakıt hattını açıklar.\n Dizel yakıt sisteminde hava olmasının nedenlerini sıralar.\n Dizel yakıt sisteminde hava olmasının sakıncalarını listeler.\n Dizel yakıt sisteminde hava alınacak yerleri ve hava alma işlemini açıklar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "5",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yakıt Enjektörleri",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "5",
+      "KONU": "2. Dizel yakıt sisteminde hava alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Dizel yakıt sisteminin havasını alır.\nDizel yakıt sisteminde bulunan yakıt hattını açıklar.\n Dizel yakıt sisteminde hava olmasının nedenlerini sıralar.\n Dizel yakıt sisteminde hava olmasının sakıncalarını listeler.\n Dizel yakıt sisteminde hava alınacak yerleri ve hava alma işlemini açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yardımcı Sistemleri",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "5",
+      "KONU": "1. Isıtma bujisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Isıtma bujisinin bakım ve onarımını yapar.\nIsıtma bujilerinin tanımını ve görevini açıklar.\n Isıtma bujisinin çeşitlerini ve yapısını izah eder.\n Isıtma bujisinin çalışmasını ve kontrollerini açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yardımcı Sistemleri",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "5",
+      "KONU": "1. Isıtma bujisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Isıtma bujisinin bakım ve onarımını yapar.\nIsıtma bujilerinin tanımını ve görevini açıklar.\n Isıtma bujisinin çeşitlerini ve yapısını izah eder.\n Isıtma bujisinin çalışmasını ve kontrollerini açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yardımcı Sistemleri",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "5",
+      "KONU": "2. Aşırı doldurma sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Aşırı doldurma ve intercooler sistemlerinin bakım ve onarımını yapar.\nİçten yanmalı motorlarda aşırı doldurma sistemlerinin kullanılma nedenlerini ve çeşitlerini sıralar.\n Mekanik aşırı doldurmanın süper şarj yapısını çalışmasını avantaj ve dezavantajlarını açıklar.\n Egzoz turbo kompresörü ile aşırı doldurmanın turbo şarj görevlerini yapısını ve çalışmasını izah eder.\n Değişken kanatçıklı geometrili turboşarjı açıklar.\n Aşırı doldurma sisteminin avantaj ve dezavantajlarını sıralar.\n Turbo şarj arızaları ve kontrollerini listeler.\n Aftercooler su ile soğutma ve intercooler hava ile soğutma sisteminin kullanılma nedenlerini görevlerini yapısını ve çalışmasını açıklar.\n Turbo şarjda yağlama sistemini açıklar.\n Basınç kontrol sistemi hava-yakıt oran valfleri  AFC ve actuatör valfinin görevlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yardımcı Sistemleri",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "5",
+      "KONU": "2. Aşırı doldurma sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Aşırı doldurma ve intercooler sistemlerinin bakım ve onarımını yapar.\nİçten yanmalı motorlarda aşırı doldurma sistemlerinin kullanılma nedenlerini ve çeşitlerini sıralar.\n Mekanik aşırı doldurmanın süper şarj yapısını çalışmasını avantaj ve dezavantajlarını açıklar.\n Egzoz turbo kompresörü ile aşırı doldurmanın turbo şarj görevlerini yapısını ve çalışmasını izah eder.\n Değişken kanatçıklı geometrili turboşarjı açıklar.\n Aşırı doldurma sisteminin avantaj ve dezavantajlarını sıralar.\n Turbo şarj arızaları ve kontrollerini listeler.\n Aftercooler su ile soğutma ve intercooler hava ile soğutma sisteminin kullanılma nedenlerini görevlerini yapısını ve çalışmasını açıklar.\n Turbo şarjda yağlama sistemini açıklar.\n Basınç kontrol sistemi hava-yakıt oran valfleri  AFC ve actuatör valfinin görevlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Dizel Motor Yardımcı Sistemleri",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "5",
+      "KONU": "2. Aşırı doldurma sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Aşırı doldurma ve intercooler sistemlerinin bakım ve onarımını yapar.\nİçten yanmalı motorlarda aşırı doldurma sistemlerinin kullanılma nedenlerini ve çeşitlerini sıralar.\n Mekanik aşırı doldurmanın süper şarj yapısını çalışmasını avantaj ve dezavantajlarını açıklar.\n Egzoz turbo kompresörü ile aşırı doldurmanın turbo şarj görevlerini yapısını ve çalışmasını izah eder.\n Değişken kanatçıklı geometrili turboşarjı açıklar.\n Aşırı doldurma sisteminin avantaj ve dezavantajlarını sıralar.\n Turbo şarj arızaları ve kontrollerini listeler.\n Aftercooler su ile soğutma ve intercooler hava ile soğutma sisteminin kullanılma nedenlerini görevlerini yapısını ve çalışmasını açıklar.\n Turbo şarjda yağlama sistemini açıklar.\n Basınç kontrol sistemi hava-yakıt oran valfleri  AFC ve actuatör valfinin görevlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Yüksek Basınçlı Dizel Yakıt Sistemleri",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "5",
+      "KONU": "1. Selenoid valfli pompa ve pompa enjektörler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Selenoid valfli pompa ve pompa enjektörlerinin kontrol eder onarımını yapar.\nSelenoid valfli pompa-enjektör ünitelerinin genel yapısını açıklar.\n Sistemi oluşturan parçaların yapısını ve çalışmasını açıklar\n Pompa-enjektör selenoid valflerinin çalışmasını açıklar.\n Besleme pompasının yapısı ve çalışmasını açıklar.\n Pompa-enjektör ünitesinin çalışmasını açıklar.\n Yakıtın pompa-enjektör ünitesinden geriye dönüşünü açıklar.\n Pompa-enjektör ünitelerinde kullanılan ek sistemleri sıralar.\n Pompa-enjektör üniteli sistemlerde kullanılan sensörleri listeler."
+    },
+    {
+      "ÜNİTE": "Yüksek Basınçlı Dizel Yakıt Sistemleri",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "5",
+      "KONU": "1. Selenoid valfli pompa ve pompa enjektörler",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Selenoid valfli pompa ve pompa enjektörlerinin kontrol eder onarımını yapar.\nSelenoid valfli pompa-enjektör ünitelerinin genel yapısını açıklar.\n Sistemi oluşturan parçaların yapısını ve çalışmasını açıklar\n Pompa-enjektör selenoid valflerinin çalışmasını açıklar.\n Besleme pompasının yapısı ve çalışmasını açıklar.\n Pompa-enjektör ünitesinin çalışmasını açıklar.\n Yakıtın pompa-enjektör ünitesinden geriye dönüşünü açıklar.\n Pompa-enjektör ünitelerinde kullanılan ek sistemleri sıralar.\n Pompa-enjektör üniteli sistemlerde kullanılan sensörleri listeler."
+    },
+    {
+      "ÜNİTE": "Yüksek Basınçlı Dizel Yakıt Sistemleri",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "5",
+      "KONU": "2. Common rail dizel enjeksiyon sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Common rail dizel enjeksiyon sisteminin kontrol eder onarımını yapar.\nCommon rail dizel enjeksiyon sisteminin genel yapısını açıklar\n Sistemi oluşturan parçaların görevi çeşitleri yapısı ve çalışmasını izah eder.\n Comman rail dizel enjeksiyon sistemine kumanda eden sensörleri listeler\n Comman rail sisteminde hava alma işlemini açıklar.\n Comman rail dizel enjeksiyon sisteminin çalışmasını izah eder."
+    },
+    {
+      "ÜNİTE": "Yüksek Basınçlı Dizel Yakıt Sistemleri",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "5",
+      "KONU": "2. Common rail dizel enjeksiyon sistemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Common rail dizel enjeksiyon sisteminin kontrol eder onarımını yapar.\nCommon rail dizel enjeksiyon sisteminin genel yapısını açıklar\n Sistemi oluşturan parçaların görevi çeşitleri yapısı ve çalışmasını izah eder.\n Comman rail dizel enjeksiyon sistemine kumanda eden sensörleri listeler\n Comman rail sisteminde hava alma işlemini açıklar.\n Comman rail dizel enjeksiyon sisteminin çalışmasını izah eder."
+    },
+    {
+      "ÜNİTE": "Yüksek Basınçlı Dizel Yakıt Sistemleri",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "5",
+      "KONU": "3. Dizel emisyon kontrol sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Dizel emisyon kontrol sistemlerinin kontrol eder onarımını yapar.\nKatalitik konvertörün görevini yapısı çalışması ve kontrollerini açıklar.\n Kurum partikül tutucunun görevini yapısı çalışması ve kontrollerini açıklar.\n Alev söndürücünün görevini yapısı çalışması ve kontrollerini açıklar.\n Adblue sisteminin görevini yapısı çalışması ve kontrollerini açıklar."
+    },
+    {
+      "ÜNİTE": "Yüksek Basınçlı Dizel Yakıt Sistemleri",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "5",
+      "KONU": "3. Dizel emisyon kontrol sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Dizel emisyon kontrol sistemlerinin kontrol eder onarımını yapar.\nKatalitik konvertörün görevini yapısı çalışması ve kontrollerini açıklar.\n Kurum partikül tutucunun görevini yapısı çalışması ve kontrollerini açıklar.\n Alev söndürücünün görevini yapısı çalışması ve kontrollerini açıklar.\n Adblue sisteminin görevini yapısı çalışması ve kontrollerini açıklar."
+    },
+    {
+      "ÜNİTE": "Yüksek Basınçlı Dizel Yakıt Sistemleri",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "5",
+      "KONU": "3. Dizel emisyon kontrol sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Dizel emisyon kontrol sistemlerinin kontrol eder onarımını yapar.\nKatalitik konvertörün görevini yapısı çalışması ve kontrollerini açıklar.\n Kurum partikül tutucunun görevini yapısı çalışması ve kontrollerini açıklar.\n Alev söndürücünün görevini yapısı çalışması ve kontrollerini açıklar.\n Adblue sisteminin görevini yapısı çalışması ve kontrollerini açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "5",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

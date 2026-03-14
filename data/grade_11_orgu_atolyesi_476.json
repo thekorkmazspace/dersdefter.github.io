@@ -1,0 +1,338 @@
+{
+  "sinif": "11",
+  "ders": "Orgu Atolyesı",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ÖRGÜ TEMEL TEKNİKLERİ  \n1.1. ÖRGÜNÜN TANIMI VE ÖNEMI \n1.2. ÖRGÜDE KULLANILAN ARAÇ GEREÇLER\n1.2.1. Şiş Örücülüğünde Kullanılan Araç Gereçler\n1.2.2. Tığ Örücülüğünde Kullanılan Araç Gereçler  \n1.3. ŞİŞ ÖRGÜYE HAZIRLIK  \n1.3.1. Şiş Tutuş Şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Örgüde kullanılan araç-gereçleri hazırlar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "7",
+      "KONU": "1.4. ŞİŞ ÖRGÜDE TEMEL TEKNIKLER  \n1.4.1. Şişe İlmek Atma  \n1.4.2. Düz Örgü  \n1.4.3. Ters Örgü  \n1.4.4. Lastik Örgü",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Şiş örgüde ilmek atar.\nŞiş örgüde temel teknikleri uygular."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "7",
+      "KONU": "1.4.5. Haraşo  \n1.4.6. Artırma  \n1.4.7. Eksiltme  \n1.4.8. Kesme İşlemi  \n1.5. TIĞ ÖRGÜYE HAZIRLIK  \n1.5.1. Tığ Tutuş Şekilleri",
+      "KAZANIM": "Şiş örgüde ilmek atar.\nŞiş örgüde temel teknikleri uygular."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "7",
+      "KONU": "1.6. TIĞ ÖRGÜDE TEMEL TEKNİKLER  \n1.6.1. Zincir İlmek Yapma  \n1.6.2. Sık İğne  \n1.6.3. Ters Sık İğne\n1.6.4. Sihirli Halka \n1.6.5. Tekli İkili Üçlü Dörtlü Tırabzan \n1.6.5. Artırma \n1.6.6. Eksiltme \n1.6.7. İlmek Kaydırma \n1.6.8. Kare Motif  \n1.6.9. Yuvarlak Motif",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Tığ örgüde temel teknikleri uygular."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "7",
+      "KONU": "1.7. ÖRGÜ ŞEMASI HAZIRLAMA \n1.7.1. Şiş Örgü Sembolleri \n1.7.2. Tığ Örgü Sembolleri  \n1.8. ÖRGÜ ŞEMASI KODLAMA \n1.9. İLMEK HESAPLAMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Tığ örgüde temel teknikleri uygular."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ  ÖRGÜ TEMEL TEKNİKLERİ İLE TAKI YAPIMI \n2.1. ÖRGÜ TEKNIKLERİ İLE TAKI YAPIMI \n2.2. ÖRGÜ TEKNIKLERİ İLE TAKI YAPIMINDA KULLANILAN ARAÇ GEREÇLER",
+      "KAZANIM": "Örgü teknikleri ile takı yapımında kullanılan araç gereçleri hazırlar.\nÖrgü tekniği ile takı modellerinin araştırmasını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "7",
+      "KONU": "2.3. ÖRGÜ TEKNİKLERİNDE TAKI MODELLERİ",
+      "KAZANIM": "Örgü tekniklerine göre takı tasarımı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "7",
+      "KONU": "2.4. ÖRGÜ TEKNİKLERİNE UYGUN TAKI TASARIMI  \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Örgü tekniklerine göre takı tasarımı yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "7",
+      "KONU": "2.5. TASARIMA UYGUN MALZEMELER \n2.6. TASARIMA UYGUN ÜRÜN YAPIMI",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Tasarıma uygun malzeme seçimi yapar.\nTasarıma uygun ürünü yapar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "7",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "7",
+      "KONU": "2.7. KALİTE KONTROL YÖNTEMLERİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Kalite kontrol yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ÖRGÜ TEKNİĞİ İLE DEKORATİF ÇİÇEK YAPIMI\n3.1. ÖRGÜ TEKNIĞIILE DEKORATIF ÇIÇEK TANIMI VE ÖNEMI\n3.2. ÖRGÜ TEKNIĞIILE YAPILAN DEKORATIF ÇIÇEK MODELLERI\n3.2.1. Dekoratif Aksesuarları Süslemede Kullanılan Modeller",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Örgü tekniği ile yapılan dekoratif çiçek araştırması yapar.\nTekniğe uygun belirlenen dekoratif çiçeğin şemasını oluşturur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "7",
+      "KONU": "3.2.2. Tamamlayıcı Aksesuarları Süslemede Kullanılan Modeller   \n3.2.3. Ev Tekstili Ürünlerini Süslemede Kullanılan Dekoratif Çiçek Modelleri  \n3.2.4. Paket Süslemesinde Kullanılan Dekoratif Çiçek Modelleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Tekniğe uygun belirlenen dekoratif çiçeğin şemasını oluşturur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "7",
+      "KONU": "3.3. ÖRGÜ TEKNIĞIILE ÇIÇEK YAPIMINDA KULLANILAN ARAÇLAR \n3.4. ÖRGÜ TEKNIĞIILE ÇIÇEK YAPIMINDA KULLANILAN GEREÇLER \n3.5. ÖRGÜ TEKNIĞIILE DEKORATIF ÇİÇEK YAPIMI",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Tekniğe uygun ürün oluşturur."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "7",
+      "KONU": "3.6. ÖRGÜ ŞEMASI HAZIRLAMA \n3.7. SÜSLEME TEKNIKLERI",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Dekoratif çiçeğin özelliğine uygun süsleme yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "7",
+      "KONU": "3.8. KALITE KONTROL YÖNTEMLERİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Kalite kontrolünü yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ÖRGÜ TEKNİĞİ İLE ORGANİK OYUNCAK YAPIMI \n4.1. ÖRGÜ TEKNİĞİ İLE ORGANIK OYUNCAK ARAŞTIRMASI VE MODEL SEÇİMİ \n4.1.1. Tığ Örücülüğü ile Örülen Organik Oyuncaklar  \n4.1.2. Şiş Örücülüğü ile Örülen Organik Oyuncaklar    \n1.Dönem 2.Sınav",
+      "KAZANIM": "Tığ Örgü tekniği ile yapılan organik oyuncaklar araştırarak yapacağı oyuncak modelini ve malzemesini seçer."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "7",
+      "KONU": "4.2. ÖRGÜ TEKNIĞİ İLE ORGANIK OYUNCAK YAPIMINDA KULLANILAN ARAÇ GEREÇLER\n4.2.1. Örgü Tekniği ile Organik Oyuncak Yapımında Kullanılan Yardımcı Malzemeler",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Tığ Örgü tekniği ile yapılan organik oyuncaklar araştırarak yapacağı oyuncak modelini ve malzemesini seçer."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "7",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "7",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "7",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "7",
+      "KONU": "4.3. ÖRGÜ TEKNIĞİ İLE ORGANIK OYUNCAK YAPIMI",
+      "KAZANIM": "Tekniğe uygun örgü şeması yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "7",
+      "KONU": "4.4. ÖRGÜ ŞEMASI HAZIRLAMA",
+      "KAZANIM": "Tekniğe uygun örgü şeması yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "7",
+      "KONU": "4.5. ÖRGÜ OYUNCAK PARÇALARINI ÖRME YÖNTEMLERİ",
+      "KAZANIM": "Oyuncağın parçalarını örme işlemini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "7",
+      "KONU": "4.6. ÖRGÜ OYUNCAK PARÇALARINI TEKNİĞE GÖRE DOLDURMA VE BİRLEŞTİRME İŞLEMLERİ \n4.6.1. Örgü Oyuncak Parçalarını Doldurma İşlemi  \n4.6.2. Örgü Oyuncak Parçalarını Birleştirme İşlemi  \n4.6.3. Birleştirme Yönteminde Kullanılan Dikiş Teknikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Tekniğe göre doldurma ve birleştirme işlemini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "7",
+      "KONU": "4.7. ÖRGÜ OYUNCAĞIN KARAKTER ÖZELLIĞI ILE İLGILI İŞLEMLER  \n4.7.1. Eklemli Oyuncaklar \n4.7.2. Modele Uygun Yüz Şekillendirme  \n4.7.3. Modele Uygun Aksesuar ve Giysi Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Oyuncak karakter özelliğine uygun şekil verir."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "7",
+      "KONU": "4.8. KALİTE KONTROL YÖNTEMLERİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Kalite kontrolünü yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "7",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ÖRGÜ TEKNİĞİ İLE ŞAPKA YAPIMI \n5.1. ÖRGÜ TEKNIKLERIILE ŞAPKA TANIMI VE ÖNEMI\n5.2. KULLANIM ALANINA GÖRE ŞAPKA MODEL SEÇIMI\n5.3. ÖRGÜ ŞAPKA MODELLERI\n5.3.1. Viziyerli Kasket Şapkalar \n5.3.2. Kenarlı Siperli Şapkalar\n5.3.3. Bereler",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Kullanım alanına göre şapka modellerini araştırarak şapka modelini ve malzemesini seçer."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "7",
+      "KONU": "5.4. ÖRGÜ TEKNIĞI ILE ŞAPKA YAPIMINDA KULLANILAN ARAÇ-GEREÇLER\n5.6. ÖRGÜ TEKNIĞI ILE ŞAPKA YAPIMI \n5.6.1. Baş Ölçüsü Alma \n5.6.2. Standart Baş Ölçüleri \n5.6.3.Örgü Şapka İlmek Hesaplama  \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Kullanım alanına göre şapka modellerini araştırarak şapka modelini ve malzemesini seçer."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "7",
+      "KONU": "5.7. ÖRGÜ ŞEMASI HAZIRLAMA \n5.8. ÖRGÜ ŞAPKA YAPIMINDA KULLANILAN AKSESUARLAR \n5.8.1. Ponpon ile Süsleme \n5.8.2. Püskül ile Süsleme \n5.8.3. Örgü Motifler ile Süsleme \n5.8.4. Basit Nakış İğne Teknikleri ile Süsleme\n5.8.5. Kordon ve Saç Örgüsü ile Süsleme\n5.8.6. Düğme ve Hazır Gereçlerle Süsleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Uygulama yapacağı modelin örgü şemasını oluşturur.\nŞapka modeline uygun aksesuarları hazırlar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "7",
+      "KONU": "5.9. ŞAPKAYA FORM VERMEK İÇIN KULLANILAN YÖNTEMLER\n5.9.1. Buhar Verme \n5.9.2. Sertleştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Modeli örgü şemasına uygun örer."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "7",
+      "KONU": "5.10. KALİTE KONTROL YÖNTEMLERİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Aksesuarı şapka üzerine yerleştirir.\nKalite kontrolü yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "7",
+      "KONU": "ÖĞRENME BİRİMİ ÖRGÜ TEKNİĞİ İLE ÇANTA YAPIMI \n6.1. ÖRGÜ TEKNIĞIILE ÇANTA TANIMI VE ÖNEMI \n6.2. ÖRGÜ ÇANTA MODELLERI\n6.3. KULLANIM ALANINA GÖRE ÖRGÜ ÇANTA MODEL SEÇİMİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Kullanım alanlarına göre çanta çeşitlerini araştırarak model tasarımı yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "7",
+      "KONU": "6.4. ÖRGÜ TEKNİĞİ İLE ÇANTA YAPIMINDA KULLANILAN ARAÇ GEREÇLER \n6.4.1. Örgü Çanta Yapımında Kullanılan İplikler \n6.4.2. Örgü Çanta Yapımında Kullanılan Yardımcı Malzemeler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Örgü tekniğine ve tasarıma uygun örgü şeması düzenler."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "7",
+      "KONU": "6.5. ÖRGÜ TEKNİĞİ İLE ÇANTA YAPIMI \n6.5.1. Çantanın Bölümleri \n6.5.2. Örgü Şeması Hazırlama \n6.5.3. Çanta Örme Teknikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Örgü tekniğine ve tasarıma uygun örgü şeması düzenler."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "7",
+      "KONU": "6.6. ÇANTA SAPI HAZIRLAMA TEKNIKLERİ\n6.6.1. Şerit Düğüm Örme \n6.6.2. Örgü Anglez Sap \n6.6.3. Örgü Spiral Kordon Sap",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Örgü işlemini bitirdikten sonra çanta nsapı ölçüsü belirleyerek sap örer."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "7",
+      "KONU": "6.6.4. Yatay Kordon Sap \n6.6.5. Hazır Gereçler ile Örme Sap \n6.7. ÖRGÜ ÇANTA SAPI BIRLEŞTIRME TEKNIKLERI",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Çanta sapı birleştirir."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "7",
+      "KONU": "6.8. ÇANTA AĞIZ KAPAMA İŞLEMLERİ\n6.8.2. Fermuar ile Kapama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Çanta ağız kapama işlemi yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "7",
+      "KONU": "6.8.3. Fermejüp Takarak Kapama \n6.8.4. Çıtçıt Dikerek Kapama \n6.9. ÖRGÜ ÇANTAYI SÜSLEME YÖNTEMLERİ  \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Süsleme tekniklerini uygular."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "7",
+      "KONU": "6.10. KALITE KONTROL YÖNTEMLERİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Kalite kontrol yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "7",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

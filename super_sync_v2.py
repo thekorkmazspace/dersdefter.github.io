@@ -18,6 +18,17 @@ if os.path.exists(OFF_PATH):
 
 import unicodedata
 
+def turkish_title(text):
+    if not text: return ""
+    def fix_word(w):
+        if not w: return ""
+        # First char upper, rest lower using Turkish rules
+        first = w[0].replace('i', 'İ').replace('ı', 'I').upper()
+        rest = w[1:].replace('İ', 'i').replace('I', 'ı').lower()
+        return first + rest
+    
+    return " ".join(fix_word(w) for w in text.split())
+
 RESTORATION_MAP = {
     "ETKNLK": "ETKİNLİK", "ETKNLKLER": "ETKİNLİKLER",
     "SNF": "SINIF", "MAARF": "MAARİF",
@@ -38,18 +49,16 @@ RESTORATION_MAP = {
 }
 
 def fix_lesson_name(name, grade, file_id):
-    # 0. Unicode Normalization (NFKD) to strip combining marks (like dots over letters)
+    # 0. Unicode Normalization (NFKD) to strip combining marks
     name = unicodedata.normalize('NFKD', name)
     name = "".join([c for c in name if not unicodedata.combining(c)])
-    
-    # Fix common I conversion issue after normalization
     name = name.replace("ı̇", "i").replace("İ", "İ").replace("i̇", "i")
     
     # 1. Use absolute truth from site if ID found
     if str(file_id) in OFFICIAL_NAMES:
-        return OFFICIAL_NAMES[str(file_id)]
+        name = OFFICIAL_NAMES[str(file_id)]
     
-    # 2. General restoration
+    # 2. General restoration (mostly for non-official or pre-cleanup)
     name = name.upper()
     for bad, good in RESTORATION_MAP.items():
         name = re.sub(r'\b' + re.escape(bad) + r'\b', good, name)
@@ -60,9 +69,15 @@ def fix_lesson_name(name, grade, file_id):
     name = re.sub(r'\(MESEM.*\)', '', name, flags=re.IGNORECASE)
     name = name.replace("UYGULAMA(YEN*)", "UYGULAMALARI").replace("UYGULAMAYEN", "UYGULAMALARI")
     
+    # Strip grade suffixes like -0, -1, -9, -10, -11, -12
+    name = re.sub(r'-\d+$', '', name).strip()
+    
     # Final check for common mistakes
     if "TÜRK DİLİ EDEBİYATI" in name:
         name = name.replace("TÜRK DİLİ EDEBİYATI", "TÜRK DİLİ VE EDEBİYATI")
+    
+    # 4. Apply Title Case (First Large, Others Small)
+    name = turkish_title(name)
     
     # Clean up excess spaces
     name = re.sub(r'\s+', ' ', name).strip()

@@ -1,0 +1,374 @@
+{
+  "sinif": "12",
+  "ders": "Otomotıv Govde Onarım",
+  "plan": [
+    {
+      "ÜNİTE": "Panel Onarımına Hazırlık",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Yüzey ve mastik temizliği  2. Puntaları çürütme",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Panel yüzey ve mastik temizliği işlemlerini yapar.\n Panel bağlantılarında bulunan puntaları çürütür.\nYüzey ve mastik temizliğinde kullanılan malzemeleri sıralar.\n Yüzey ve mastik temizliğinde kullanılan pnömatik cihazları sıralar.\n Kimyasal yüzey temizleyicileri sıralar.\n Yüzeylerin temizlenmesinde dikkat edilecek hususları açıklar.\n Gövde yapısında punta kaynağının kullanıldığı yerler ve puntaların özelliklerini açıklar.\n Punta çürütme cihazlarını açıklar.\n Punta çürütme frezesinin özelliklerini açıklar.\n Punta çürütme cihazını kullanırken dikkat edilecek hususları sıralar."
+    },
+    {
+      "ÜNİTE": "Panel Onarımına Hazırlık",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "3. İnce sacı pnömatik karoseri testeresi ile kesme  4. İnce sacı plazma kesici ile kesme",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "İnce sacı pnömatik karoseri testeresi ile keser.\n İnce sacı plazma kesici ile keser.\nPnömatik karoseri testeresinin yapısı ve çalışmasını açıklar.\n Testere uçlarının kullanıldığı yerleri açıklar.\n Pnömatik karoseri testeresini kullanırken dikkat edilecek hususları sıralar.\n Plazma kesme cihazı yapısı ve çalışmasını açıklar.\n Plazma kesme cihazını kullanırken dikkat edilecek hususlar sıralar."
+    },
+    {
+      "ÜNİTE": "Panel Onarımına Hazırlık",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "5. Birleştirilmiş kalın panel saclarını pnömatik keski ile kesme",
+      "KAZANIM": "Birleştirilmiş kalın panel saclarını pnömatik keski ile keserek ayırır.\nPnömatik keski cihazının yapısını ve çalışmasını açıklar.\n Pnömatik keski uçlarının yapısını açıklar.\n Pnömatik keski cihazını kullanırken dikkat edilecek hususlar sıralar."
+    },
+    {
+      "ÜNİTE": "Panel Onarım İşlemleri",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "1. Araç panellerinde oluşan hasar çeşitleri.  2. Ezikleri çekiç ve dayama kullanarak düzeltme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Hasarlı bölgeleri ve çektirme yöntemini tespit eder.\n Araç paneli üzerindeki ezikleri çekiç ve dayama ile düzeltir.\nAraç panellerinde oluşan hasar çeşitlerini sıralar.\n Araç panellerinde oluşan hasar çeşitlerini göre kullanılacak ekipmanları sıralar.\n Parça değişimlerinde dikkat edilecek hususları açıklar.\n Dayama takozlarının kullanıldığı yerleri sıralar.\n Kaportacı çekiçleri kullanıldığı yerleri sıralar.\n Amerikan eğesi  törpülü perdah  kullanıldığı yerleri sıralar."
+    },
+    {
+      "ÜNİTE": "Panel Onarım İşlemleri",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Vakumlu cihaz ile düzeltme.  4. Spot hızlı çektirme cihazı kullanarak düzeltme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Araç paneli üzerindeki ezikleri vakumlu cihaz ile düzeltir.\n Araç paneli üzerindeki ezikleri spot hızlı çektirme cihazı ile düzeltir.\nVakumlu pnömatik çektirmenin yapısını ve çalışmasını açıklar.\n Vakumlu pnömatik çektirme yöntemiyle çalışan aletlerin bakımını açıklar.\n Vakumlu pnömatik çektirme işleminin yapılma tekniğini açıklar.\n Spot hızlı çektirme cihazları çeşitlerini ve yapısını açıklar.\n Spot hızlı çektirme cihazların bakımını açıklar.\n Spot hızlı çektirme cihazlarını kullanırken dikkat edilecek hususları sıralar."
+    },
+    {
+      "ÜNİTE": "Panel Onarım İşlemleri",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "5. Panel sacına karbon yedirme büzdürme.",
+      "KAZANIM": "Panel sacına karbon yedirip büzdürme işlemini yapar.\nSaca karbon verme ve büzdürme işlemini açıklar.\n Kaynak makinesi ve kömür elektrotların kullanımını açıklar.\n Uzama yapmış saclarda değişik düzeltme tekniklerini sıralar."
+    },
+    {
+      "ÜNİTE": "Panel Onarım İşlemleri",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "6. Araç paneli üzerindeki ezikleri pul kaynatarak düzeltme.",
+      "KAZANIM": "Paneli üzerindeki ezikleri pul kaynatıp düzeltir.\nPunta kaynak cihazların yapısını açıklar.\n Pul kaynatma uçların yapısını açıklar.\n Punta kaynak cihazıyla pul kaynatma yöntemlerini açıklar.\n Pul çektirme aletin yapısını ve çalışma yöntemlerini açıklar.\n Yüzey temizlemenin gereğini açıklar."
+    },
+    {
+      "ÜNİTE": "Panel Onarım İşlemleri",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "7. Araç paneli üzerindeki ezikleri perçin kaynatarak düzeltme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Paneli üzerindeki ezikleri perçin kaynatıp düzeltir.\nPerçin kaynatma uçlarının yapısını açıklar.\n Perçin çektirme aletini ve kullanılmasını açıklar.\n Hasarın eziklik ve panel sacının mukavemetine göre uygun perçin seçimini izah eder."
+    },
+    {
+      "ÜNİTE": "Panel Onarım İşlemleri",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "8. Araç paneli üzerindeki ezikleri çok noktadan çektirme cihazı ile düzeltme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Paneli üzerindeki ezikleri çok noktadan çektirme cihazı ile düzeltir.\nÇok noktadan tel çektirme aletinin yapısını açıklar.\n Çok noktadan tel çektirme aletinin kullanıldığı yerleri açıklar.\n Çok noktadan tel çektirme aletinde kullanılan telleri sıralar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Panel Onarım İşlemleri",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "9. Panel üzerindeki çürükleri yama yaparak düzeltme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Araç paneli üzerindeki çürükleri yama ile düzeltir.\nPanel keserek ayırma yöntemlerini açıklar.\n Yama yapma işlemini açıklar.\n Araç paneli üzerinde macun dolgu yapmayı açıklar.\n İzolasyon ve koruyucu macunları sıralar.\n Spatulaların kullanıldığı yerleri açıklar.\n Amerikan eğesinin  törpülü perdah yapısını açıklar.\n Macun tesviye işlemi yapılmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Panel Onarımı Sonrası İşlemler",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Araç paneli üzerinde macun dolgu işlemi yapma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Araç paneli üzerinde macun dolgu işlemi yapar.\nAraç paneli üzerinde macun dolgu yapmayı açıklar.\n İzolasyon ve koruyucu macunları sıralar.\n Spatulaların kullanıldığı yerleri açıklar."
+    },
+    {
+      "ÜNİTE": "Panel Onarımı Sonrası İşlemler",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "2. Araç paneli üzerinde macun tesviye işlemi yapma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Araç paneli üzerinde macun tesviye işlemi yapar.\nAmerikan eğesinin  törpülü perdah yapısını açıklar.\n Macun tesviye işlemi yapılmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Panel Onarımı Sonrası İşlemler",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "2. Araç paneli üzerinde macun tesviye işlemi yapma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Araç paneli üzerinde macun tesviye işlemi yapar.\nAmerikan eğesinin  törpülü perdah yapısını açıklar.\n Macun tesviye işlemi yapılmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltmeye Hazırlık",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "1. Araçtaki hasar tespiti.  2. Araç gövdesinin boyutlarını ölçme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Araçtaki hasarın görsel genel tespitini yapar.\n Araç gövdesinin boyutlarını ölçer.\nAracı lifte alırken alınması gereken güvenlik önlemlerini listeler.\n Lift kullanımında dikkat edilecek hususları sıralar.\n Gövde yapıların çeşitlerini sıralar.\n Gövdeyi oluşturan parçaların üretim ve bağlantı özelliklerini açıklar.\n Gövde yapısındaki deformasyon çeşitlerini sıralar.\n Teleskopik ölçüm cetvellerin yapısını ve kullanımını açıklar.\n Mekanik ölçüm sisteminin yapısını ve kullanımını açıklar.\n Bilgisayarlı ölçüm sisteminin yapısını ve kullanımını açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltmeye Hazırlık",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "3. Aracın darbeli parçalarını sökme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Aracın darbeli parçalarını söker.\nDış kaporta aksesuar çeşitlerini sıralar.\n Dış kaporta aksesuar malzemelerini ve bağlantı şekillerini açıklar.\n Dış kaporta elemanların malzemelerini açıklar.\n Dış kaporta elemanlarının bağlantı şekillerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltmeye Hazırlık",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "4. Darbeli parçaları inceleme",
+      "KAZANIM": "Darbeli parçaları sökülmüş araç üzerinde görsel detaylı inceleme yapar.\nHasarın araç yapısında zarar verdiği yerleri sıralar.\n Düzelebilecek ve onarılmaz elemanları listeler.\n Onarım zamanını ve bedelinin tespitini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltme",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "1. Araç gövdesini sabitlemek ve kalıplara oturtma.  2. Araç gövdesini kelepçeleme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Araç gövdesini sabitleyerek kalıplara oturtur.\n Araç gövdesinin kelepçeleme işlemlerini yapar.\nKalıp sistemlerin yapısını açıklar.\n Kalıp sistemlerin kullanımını açıklar.\n Zemine gömülü düzeltme sistemlerin yapısını açıklar.\n Zemine gömülü düzeltme sistemlerin kullanımını açıklar.\n Kelepçelerin görevini ve özelliklerini açıklar.\n Kelepçelerin bağlama yerlerini ve dikkat edilecek hususları açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltme",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "3. Araç gövdesini çekme.",
+      "KAZANIM": "Araç gövdesinin çekme işlemlerini yapar.\nAraç gövdesini çekme işlemlerinde kullanılan hidrolik sistemleri sıralar.\n Çektirme tertibatların çeşitlerini ve kullanılmasını açıklar.\n Araç gövdesini çekme işlemlerinde kullanılan vektörleri hesaplar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltme",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "4. Ayrık şasili araçların şasisinde düzeltme.",
+      "KAZANIM": "Ayrık şasili araçların şasisinde düzeltme işlemlerini yapar.\nAyrık şasili araçları sıralar.\n Şasilerde oluşan deformasyon çeşitlerini açıklar.\n Şasi doğrultma cihazların çeşitlerini ve kullanılmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltme",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "5. Birleşim yerlerine mastik çekme.",
+      "KAZANIM": "Şasi birleşim yerlerine mastik çeker.\nMastik çeşitlerini kullanıldığı yerlere göre sıralar.\n Mastik bantlarını açıklar\n Mastik tabanca çeşitlerini sıralar.\n Mastik uygulama tekniklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltme Sonrası İşlemleri",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "1. Gövde düzeltme yardımcı alet ve cihazlar.",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Araç gövdesinin onarılamaz parçalarını değiştirir.\nYardımcı alet ve cihazlarını sıralar.\n Onarılamaz sabit gövde hasarlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltme Sonrası İşlemleri",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "2. İzolasyon ve koruyucu ürünler.",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Araç gövdesi üzerine antipas uygulaması yapar.\nİzolasyon ve koruyucu ürünlerin uygulanma yerlerine göre çeşitlerini sıralar.\n Uygulanmada kullanılan takım ve aletleri sıralar.\n Antipas uygulaması tekniklerini açıklar."
+    },
+    {
+      "ÜNİTE": "Gövde Düzeltme Sonrası İşlemleri",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "3. Araç gövdesinin son kontrolü.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Araç gövdesinin son kontrolünü yapar.\nGövde yapılarının çeşitlerini açıklar.\n Araç gövdesinin son kontrolünü açıklar.\n Camlar farlar stop lambaları kilitler fitiller dış aksesuarları kaput bagaj ve kapıların ayarlarını ve kontrollerini açıklar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Karoseri Onarımı",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "1. Arac karoserleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Hasarlı aracı onarıma hazırlar.\nAraç karoserleri çeşitlerini sıralar.\n Yapım ve bağlantı özelliklerini açıklar.\n Karoseride olaşacak hasar çeşitlerini sıralar."
+    },
+    {
+      "ÜNİTE": "Karoseri Onarımı",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "2. Şasiyi örme.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Karoseri şasisini kataloğa uygun şekilde örer.\nŞasi tiplerini sıralar.\n Şasi imalatında kullanılan malzemeleri açıklar.\n Şasi imalatında kullanılan kaynak çeşitleri ve yöntemlerini sıralar."
+    },
+    {
+      "ÜNİTE": "Karoseri Onarımı",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "3. Karoseri iskelet yapıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Karoseri iskeletini kataloğa uygun şekilde çatar.\nKaroseri iskelet yapıların çeşitlerini sıralar.\n İmalat yöntemlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Karoseri Onarımı",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "4. Karoseri kaplama malzemeleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Karoseri iskeletini kataloğa uygun şekilde sac ile kaplar.\nKaroseri kaplama malzemelerinin çeşitlerini açıklar.\n Şekillendirme yöntemleri ve kullanılan cihazları sıralar.\n Karoseri iskeletini kaplarken dikkat edilecek hususları ve kaplama metotlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Karoseri Onarımı",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "4. Karoseri kaplama malzemeleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Karoseri iskeletini kataloğa uygun şekilde sac ile kaplar.\nKaroseri kaplama malzemelerinin çeşitlerini açıklar.\n Şekillendirme yöntemleri ve kullanılan cihazları sıralar.\n Karoseri iskeletini kaplarken dikkat edilecek hususları ve kaplama metotlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Otomotiv Cam",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "1. Sabit yapışma cam işlemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Araç üzerinde sabit yapışma camı değişimini yapar.\nAraç camların özelliklerini açıklar.\n Cam çıtalarını açıklar.\n Cam sökme cihazlarının çalışmasını açıklar.\n Cam değiştirme setinin parçalarını sıralar\n Cam yapıştırma kimyasalların çeşitlerini açıklar.\n Cam değiştirme tekniğini açıklar."
+    },
+    {
+      "ÜNİTE": "Otomotiv Cam",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "2. Sabit fitilli cam işlemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Araç üzerinde sabit fitilli camı değiştirir.\nCam montaj fitillerinin çeşitlerini sıralar.\n Bağlantı tekniklerini açıklar.\n Fitil yapışkanların çeşitlerini ve uygulanmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Otomotiv Cam",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "3. Mekanik cam sistemi işlemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Araç üzerinde mekanik cam sisteminin onarımını yapar.\nMekanik cam hareket sisteminin parçalarını ve çalışmasını açıklar.\n Kapı camı çıtaları bağlantı metotlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Otomotiv Cam",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "4. Elektrikli cam sistemi işlemleri.",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Araç üzerinde elektrikli cam sisteminin onarımını yapar.\nElektrikli cam hareket sistemlerin yapısını açıklar.\n Tavan camlarının çalışmasını açıklar.\n Cam motorların hareket verdiği parçalar ve bağlantı yöntemlerini açıklar.\n Araçlarda cam ile ilgili üretimden sonra yapılan modifiye işlemlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Kilit Kapı ve Kaput",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "1. Mekanik kilit sistemi.  2. Merkezi elektrik kilit sistemi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Araç üzerinde mekanik kilit mekanizmasının onarımını yapar.\n Araç üzerinde merkezî kilit mekanizmasının onarımını yapar.\nMekanik kilit sisteminin parçalarını sıralar.\n Mekanik kilit sisteminin çalışmasını açıklar.\n Merkezi kilit sisteminin parçalarını sıralar.\n Merkezi kilit sisteminin parçalarını çalışmasını açıklar.\n Merkezi kilit sisteminin motorlarını çalışmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Kilit Kapı ve Kaput",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "3. Otomobil kapıları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Araç üzerinde kapıların ayar ve onarımını yapar.\nOtomobil kapıları üzerindeki parçaları sıralar.\n Kapı çeşitlerini açıklar.\n Gövdeye bağlantı çeşitlerini sıralar.\n Kaporta aralığı ayarlama ve kontrol sentillerinin kullanılmasını açıklar.\n Ayar ve kontrol bölgelerini açıklar."
+    },
+    {
+      "ÜNİTE": "Kilit Kapı ve Kaput",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "4. Bagaj kapakları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Araç üzerinde bagaj kapağının ayar ve onarımını yapar.\nBagaj kapağı üzerindeki parçaları sıralar.\n Gövdeye bağlantı metotlarını açıklar.\n Bagaj kilit mekanizma parçalarını sıralar."
+    },
+    {
+      "ÜNİTE": "Kilit Kapı ve Kaput",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "5. Motor kaputları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Araç üzerinde motor kaputunun ayar ve onarımını yapar.\nMotor kaputu üzerindeki parçaları sıralar.\n Gövdeye bağlantı metotlarını açıklar.\n Motor kaputu açma kapatma sistemlerini sıralar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "Meslekı Arapca",
+  "plan": [
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "Ders hakkında genel bilgi verilmesi\nD1. İslam ve İman - Kelimeler ve Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "D1. Okuma Parçası İslam ve İman\nD1. Dilbilgisi Fiil ve Çeşitleri Mazi -Muzari-Emir",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "D1. Alıştırmalar\nD2. İmanın Hakikati - Kelimeler ve Kavramlar",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "D2. Okuma Parçası İmanın Hakikati\nD2. Dilbilgisi Mazi Fiil Özellikleri ve Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "D2. Alıştırmalar\nD3. İman bakımından insanların durumları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "D3. İman bakımından insanların durumları\nD3. Dilbilgisi Muzari Fiil Özellikleri ve Çekimi",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "D3.  Alıştırmalar\nD4. İnançsızlık ve Çeşitleri - Kelimeler ve Kavramlar",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "D4. Okuma Parçası İnançsızlık ve Çeşitleri\nD4. Dilbilgisi Emir Fiil Özellikleri ve Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 1",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "D4. Alıştırmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Tema 2",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "D1. Kuran İlimlerine Giriş - Kelimeler ve Kavramlar\nD1. Dilbilgisi İsim ve Çeşitleri Müfret-Müsenna-Cemi\nD2. Kuran-ı Kerim Tarihi - Kelimeler ve Kavramlar\nD2. Dilbilgisi Sıfat ve Mevsuf",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 2",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "D2. Alıştırmalar\nD3. Mekki ve Medeni Sureler - Kelimeler ve Kavramlar\nD3. Okuma Parçası Mekki ve Medeni Sureler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 2",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "D3. Dilbilgisi Sıfat ve Mevsuf uyumu\nD3. Alıştırmalar\nD4. Nüzul Sebepleri - Kelimeler ve Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 2",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "D4. Okuma Parçası Nüzul Sebepleri\nD4. Dilbilgisi İzafet İsim Tamlaması\nD4. Alıştırmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 3",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "D1. Hadis Derslerine Giriş - Kelimeler ve Kavramlar\nD1. Okuma Parçası Hadis Derslerine Giriş\nD1. Dilbilgisi Marife ve Nekra",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 3",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "D1. Alıştırmalar\nD2. Senet ve Metinle ilgili hadis kavramları\nD2. Dilbilgisi İsim Cümlesi ve Özellikleri\nD2. Alıştırmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 3",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "D3. Kabul bakımından hadis çeşitleri \nD3. Kelimeler ve Kavramlar\nD3. Okuma Parçası Kabul bakımından hadis çeşitleri",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 3",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "D3. Dilbilgisi Mübteda ve Haber Uyumu\nD4. Cerh ve Tadil - Kelimeler ve Kavramlar\nD4. Dilbilgisi Cümle Haber -",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Tema 3",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "D4. Alıştırmalar",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 4",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "D1. Okuma Parçası Siyer-i Nebevi Derslerine Giriş\nD1. Dilbilgisi Fiil Cümlesi",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 4",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "D1. Dilbilgisi Fiil Cümlesi\nD1. Alıştırmalar\nD2. Gizli Davet - Kelimeler ve Kavramlar",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 4",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "D2. Okuma Parçası Gizli Davet\nD2. Dilbilgisi Fiil Cümlesi ve Failin İrabı",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 4",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "D2. Alıştırmalar\nD3. Açıkça Davet - Kelimeler ve Kavramlar\nD3. Kelimeler ve Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 4",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "D3. Okuma Parçası Açıkça Davet\nD3. Dilbilgisi Fiil Cümlesinin Ögeleri ve Mefulun bih\nD3. Alıştırmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Tema 4",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "D4. Akabe Biatları - Kelimeler ve Kavramlar\nD4. Okuma Parçası Akabe Biatları\nD4. Dilbilgisi Fiil cümlesinin unsurları",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 5",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "D1. İslam Fıkhı derslerine giriş - Kelimeler ve Kavramlar\nD1. Okuma Parçası İslam Fıkhı derslerine giriş\nD1. Dilbilgisi Tam ve Nakıs Fiiller",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 5",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "D1. Alıştırmalar\nD2. Teklifî hüküm çeşitleri - Kelimeler ve Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 5",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "D2. Okuma Parçası Teklifî hüküm çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 5",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "D2. Dilbilgisi Kane ve Leyse\nD3. İbadetler ve Amaçları - Kelimeler ve Kavramlar\nD3. Okuma Parçası İbadetler ve Amaçları\nD3. Nakıs Fiiller Efalut Tasyir  صار-أصبح-أضحى- أمسى",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 5",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "D3. Nakıs Fiiller Efalut Tasyir صار-أصبح-أضحى- أمسى \nD3. Alıştırmalar\nD4. İctihat ve Fetva - Kelimeler ve Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 5",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "D4. Okuma Parçası İctihat ve Fetva\nD4. Dilbilgisi Nakıs Fiiller ظل-بات-مازال-مادام",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 6",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "D1. Güzel Ahlaka Davet - Kelimeler ve Kavramlar\nD1. Okuma Parçası Güzel Ahlaka Davet\nD1. Dilbilgisi Fiile benzeyen harfler-İnne ve Kardeşleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 6",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "D1. Alıştırmalar\nD2. Övülmüş AHLAK - Kelimeler ve Kavramlar\nD2. Okuma Parçası Övülmüş AHLAK",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 6",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "D2. Dilbilgisi İnne ve Kardeşleri إن-أن-كأن\nD3. Hz.Peygamberin Ahlakı - Kelimeler ve Kavramlar\nD3. Okuma Parçası Hz. Peygamberin Ahlakı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 6",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "D3. Dilbilgisi ليت-لعل-لكن ve özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 6",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "D3. Dilbilgisi ليت-لعل-لكن ve özellikleri\nD3. Alıştırmalar\nD4. Yerilmiş AHLAK - Kelimeler ve Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Tema 6",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "D4. Okuma Parçası Yerilmiş AHLAK\nD4. Dilbilgisiو أخواتها إن ve kardeşleri irabı\nD4. Alıştırmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Konuyu müfredata uygun olarak okur yazar ve telaffuz eder"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

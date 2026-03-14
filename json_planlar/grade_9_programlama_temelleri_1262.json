@@ -1,0 +1,374 @@
+{
+  "sinif": "9",
+  "ders": "Programlama Temellerı",
+  "plan": [
+    {
+      "ÜNİTE": "Problem Çözme ve Algoritmalar",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "Problem çözme ve temel kavramlar   Problem Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Problem    çözme  sürecindeki  temel      kavramları açıklar.\n Problem türlerini açıklar.\nProblem kavramı açıklanır.\n       Problem çözme süreci açıklanır.\n       Günlük  hayatta  karşılaşılabilecek  problemler açıklanır.\n       Bilgisayarlar        aracılığıyla        çözülebilecek problemler açıklanır."
+    },
+    {
+      "ÜNİTE": "Problem Çözme ve Algoritmalar",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "Problem Çözmede Temel Işlemler   Algoritmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Verilen  problem  için  uygun  teknikleri  kullanarak çözüm bulur.\n Verilen  problemi  çözmek  üzere  farklı  algoritmalar tasarlar.\nProblem    çözmek    için    kullanılabilecek    bazı yöntemler açıklanır.\n       Problem   çözme  adımlarını  kullanarak  bir problemin nasıl çözülebileceği açıklanır.\n       Operatörler açıklanır.\n       İşlem önceliği açıklanır.\n       Algoritma kavramı açıklanır.\n       Farklı  algoritma  örnekleri  verilerek  çözümün nasıl yapılacağı açıklanır."
+    },
+    {
+      "ÜNİTE": "Problem Çözme ve Algoritmalar",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "Algoritma Hataları",
+      "KAZANIM": "Algoritmanın hatalarını giderir.\nProblem  çözmede  algoritma  hataları  ve  hata giderme anlatılır."
+    },
+    {
+      "ÜNİTE": "Problem Çözme ve Algoritmalar",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "Akış Diyagramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Verilen  problemin  çözümüne  uygun  akış  şemaları oluşturur.\nFlowchartakış        diyagramı        programının masaüstü kurulumu gösterilir.\n       Flowchart    programının    çevrimiçi    kullanımı anlatılır.\n       Flowchart  programı  kullanarak  akış  şemaları hazırlatılır.\n       Doğrusal akış şemalarının nasıl hazırlanacağı örneklerle gösterilir.\n       Karar  ifadeleri  içeren  akış  şemalarının  nasıl hazırlanacağı örneklerle gösterilir.\n       Döngü     içeren     akış     şemalarının      nasıl hazırlanacağı örneklerle gösterilir."
+    },
+    {
+      "ÜNİTE": "Programlama Dili Temelleri",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "Program ve YAZILIM       Python Kurulumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Programlama dilinin özelliklerini ve diğer programlama dillerinden farklarını açıklar.\n Programlama dilini  bilgisayarına kurar.\nPopüler programlama dilleri listelenir.\n       Popüler                 programlama                 dillerinin benzerliklerifarklılıkları açıklanır.\n       Kullanılacak     olan    programlama    dilinin    diğer dillerden farkları açıklanır.\n       Programlama dilinin programının işletim sistemine uygun versiyonu bilgisayara kurulmasını açıklar."
+    },
+    {
+      "ÜNİTE": "Programlama Dili Temelleri",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "Python İçin Gerekli Araçlar",
+      "KAZANIM": "Programlama dili  kullanmak için gerekli araçları kurar.\nUygun bir editör seçilir ve bilgisayara kurulur.\n       Gerekli editör ayarlarını yaptırır.\n       Kütüphane      kavramını      açıklar      ve      gerekli kütüphanelerin kurulumunu yaptırır."
+    },
+    {
+      "ÜNİTE": "Veri Yapıları",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "Değişken Sabit ve Operatörler",
+      "KAZANIM": "Programlama      dilinde      değişken      sabit      ve operatörleri kullanır.\nDeğişken ve sabit açıklanır.\n         Değişken isimlendirme kuralları açıklanır.\n         Operatörler açıklanır."
+    },
+    {
+      "ÜNİTE": "Veri Yapıları",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "Veri Tipleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Programlama dilinde veri tiplerini amacına uygun kullanır.\nKarakter türündeki veriler açıklanır.\n         Sayısal türündeki veriler açıklanır."
+    },
+    {
+      "ÜNİTE": "Veri Yapıları",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "Veri Tipi Dönüşümleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Programlama dilinde tanımladığı veriye ait temel fonksiyonların yer aldığı programları geliştirir.\nInput fonksiyonu ile kullanıcıdan veri aldırır.\n      Tür dönüşümü yaptırır.\n      Basit uygulamalar yaptırır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Veri Yapıları",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "Farklı veri tipleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Farklı veri tiplerini listeler sözlükler vb. kullanarak programlar geliştirir.\nListe veri tipi açıklanır.\n      Tuples veri tipi açıklanır.\n      Dictionary veri tipi açıklanır.\n      Sets veri tipi açıklanır."
+    },
+    {
+      "ÜNİTE": "Veri Yapıları",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "Farklı veri tipleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Farklı veri tiplerini listeler sözlükler vb. kullanarak programlar geliştirir.\nListe veri tipi açıklanır.\n      Tuples veri tipi açıklanır.\n      Dictionary veri tipi açıklanır.\n      Sets veri tipi açıklanır."
+    },
+    {
+      "ÜNİTE": "Veri Yapıları",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "Farklı veri tipleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Farklı veri tiplerini listeler sözlükler vb. kullanarak programlar geliştirir.\nListe veri tipi açıklanır.\n      Tuples veri tipi açıklanır.\n      Dictionary veri tipi açıklanır.\n      Sets veri tipi açıklanır."
+    },
+    {
+      "ÜNİTE": "Veri Yapıları",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "Farklı veri tipleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Farklı veri tiplerini listeler sözlükler vb. kullanarak programlar geliştirir.\nListe veri tipi açıklanır.\n      Tuples veri tipi açıklanır.\n      Dictionary veri tipi açıklanır.\n      Sets veri tipi açıklanır."
+    },
+    {
+      "ÜNİTE": "Karar Ve Döngü Yapıları",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "Karar Yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Kontrol yapılarını kullanarak programlar geliştirir.\nKarar kontrol deyimi açıklanır.\n            Karar kontrol deyimlerini kullandırır."
+    },
+    {
+      "ÜNİTE": "Karar Ve Döngü Yapıları",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "Karar Yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Kontrol yapılarını kullanarak programlar geliştirir.\nKarar kontrol deyimi açıklanır.\n            Karar kontrol deyimlerini kullandırır."
+    },
+    {
+      "ÜNİTE": "Karar Ve Döngü Yapıları",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "Karar Yapıları",
+      "KAZANIM": "Kontrol yapılarını kullanarak programlar geliştirir.\nKarar kontrol deyimi açıklanır.\n            Karar kontrol deyimlerini kullandırır."
+    },
+    {
+      "ÜNİTE": "Karar Ve Döngü Yapıları",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "Karar Yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Kontrol yapılarını kullanarak programlar geliştirir.\nKarar kontrol deyimi açıklanır.\n            Karar kontrol deyimlerini kullandırır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Karar Ve Döngü Yapıları",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "Döngüler",
+      "KAZANIM": "Tekrarlı yapıları kullanarak programlar geliştirir.\nDöngü kavramı açıklanır.\n         Döngüleri kullandırır."
+    },
+    {
+      "ÜNİTE": "Karar Ve Döngü Yapıları",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "Döngüler",
+      "KAZANIM": "Tekrarlı yapıları kullanarak programlar geliştirir.\nDöngü kavramı açıklanır.\n         Döngüleri kullandırır."
+    },
+    {
+      "ÜNİTE": "Karar Ve Döngü Yapıları",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "Döngüler",
+      "KAZANIM": "Tekrarlı yapıları kullanarak programlar geliştirir.\nDöngü kavramı açıklanır.\n         Döngüleri kullandırır."
+    },
+    {
+      "ÜNİTE": "Fonksiyonlar",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "Fonksiyonlar ve fonksiyon tanımlama işlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Programlama dilinde fonksiyonları kullanır.\nFonksiyon kavramı açıklanır.\n         Fonksiyon kullandırır.\n         Fonksiyon kavramı açıklanır.\n         Fonksiyon kullandırır.\n         Kendi fonksiyonunu tanımla işlemi açıklanır.\n         Tanımladığı fonksiyonu tanımlar ve düzenletir.\n         Parametre kavramı açıklanır.\n         Fonksyionlarda parametreleri kullandırır.\n         Değer döndürme kavramı açıklanır.\n         Değer döndüren fonksiyon yaptırır."
+    },
+    {
+      "ÜNİTE": "Fonksiyonlar",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "Fonksiyonlar ve fonksiyon tanımlama işlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Programlama dilinde fonksiyonları kullanır.\nFonksiyon kavramı açıklanır.\n         Fonksiyon kullandırır.\n         Fonksiyon kavramı açıklanır.\n         Fonksiyon kullandırır.\n         Kendi fonksiyonunu tanımla işlemi açıklanır.\n         Tanımladığı fonksiyonu tanımlar ve düzenletir.\n         Parametre kavramı açıklanır.\n         Fonksyionlarda parametreleri kullandırır.\n         Değer döndürme kavramı açıklanır.\n         Değer döndüren fonksiyon yaptırır."
+    },
+    {
+      "ÜNİTE": "Fonksiyonlar",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "Fonksiyonlar ve fonksiyon tanımlama işlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Programlama dilinde fonksiyonları kullanır.\nFonksiyon kavramı açıklanır.\n         Fonksiyon kullandırır.\n         Fonksiyon kavramı açıklanır.\n         Fonksiyon kullandırır.\n         Kendi fonksiyonunu tanımla işlemi açıklanır.\n         Tanımladığı fonksiyonu tanımlar ve düzenletir.\n         Parametre kavramı açıklanır.\n         Fonksyionlarda parametreleri kullandırır.\n         Değer döndürme kavramı açıklanır.\n         Değer döndüren fonksiyon yaptırır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Fonksiyonlar",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "Fonksiyon türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Fonksiyon türlerine göre programlar geliştirir.\nLambda fonksiyon kavramı açıklanır.\n         Lambda fonksiyonu kullandırır.\n         Özyinelemeli fonksiyon açıklanır.\n         Özyinelemeli fonksiyon yazdırılır.\n         Fonksiyonların yerel ve genel değişkenler ile etkileşimi hakkında bilgi verir."
+    },
+    {
+      "ÜNİTE": "Fonksiyonlar",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "Fonksiyon türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Fonksiyon türlerine göre programlar geliştirir.\nLambda fonksiyon kavramı açıklanır.\n         Lambda fonksiyonu kullandırır.\n         Özyinelemeli fonksiyon açıklanır.\n         Özyinelemeli fonksiyon yazdırılır.\n         Fonksiyonların yerel ve genel değişkenler ile etkileşimi hakkında bilgi verir."
+    },
+    {
+      "ÜNİTE": "Fonksiyonlar",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "Fonksiyon türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Fonksiyon türlerine göre programlar geliştirir.\nLambda fonksiyon kavramı açıklanır.\n         Lambda fonksiyonu kullandırır.\n         Özyinelemeli fonksiyon açıklanır.\n         Özyinelemeli fonksiyon yazdırılır.\n         Fonksiyonların yerel ve genel değişkenler ile etkileşimi hakkında bilgi verir."
+    },
+    {
+      "ÜNİTE": "Fonksiyonlar",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "Fonksiyon türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Fonksiyon türlerine göre programlar geliştirir.\nLambda fonksiyon kavramı açıklanır.\n         Lambda fonksiyonu kullandırır.\n         Özyinelemeli fonksiyon açıklanır.\n         Özyinelemeli fonksiyon yazdırılır.\n         Fonksiyonların yerel ve genel değişkenler ile etkileşimi hakkında bilgi verir."
+    },
+    {
+      "ÜNİTE": "Tarih Ve String Işlemleri",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "Tarih Nesnesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Tarih nesnesi oluşturur.\nTarih nesnesi kullanılır."
+    },
+    {
+      "ÜNİTE": "Tarih Ve String Işlemleri",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "Tarih Bilgisinin Biçimlendirilmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Tarih bilgisini biçimlendirir.\nTarih bilgisi biçimlendirme kriterleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Tarih Ve String Işlemleri",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "String Metin İşlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Metin bilgisini biçimlendirir.\nMetin bilgisi biçimlendirme kriterleri açıklanır"
+    },
+    {
+      "ÜNİTE": "Hata Yakalama İşlemleri",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "Hata kavramı ve Hata Türleri      Hata Yakalama",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "İstisna işlemlerini açıklar.\n Try-except bloklarını kullanır.\nİstisna kavramı açıklanır.\n       Try-except blokları kullandırılır."
+    },
+    {
+      "ÜNİTE": "Hata Yakalama İşlemleri",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "Python Hata Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Finally bloğunu kullanır.\nFinally bloğu kullandırılır."
+    },
+    {
+      "ÜNİTE": "Dosya İşlemleri",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "Çalışma Dizini Ayarları ve Klasör Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Programlama dilinde dosya okuma işlemlerini yapar.\nVar olan bir metin dosyası açtırılır.\n       Var  olan  bir  metin  dosyasını  okuyup  içeriğini  ekrana yazdırır."
+    },
+    {
+      "ÜNİTE": "Dosya İşlemleri",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "Dosya Oluşturma ve Yazma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Dosya oluşturma ve yazma işlemlerini yapar.\nYeni bir metin dosyası oluşturma işlemi yaptırır.\n       Dosyaya veri yazma işlemi yaptırılır.\n       Dosyadaki verilerin okunup değiştirilmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Dosya İşlemleri",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "Dosya Silme ve Yedekleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Dosya silme ve yedekleme işlemlerini yapar.\nDosya silme işlemlerini gerçekleştirmesi sağlanır.\n       Dosya yedekleme işlemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}
