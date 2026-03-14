@@ -1,0 +1,338 @@
+{
+  "sinif": "11",
+  "ders": "HABERLEŞME",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ HABERLEŞMENİN TEMELLERİ\n1. HABERLEŞME SİSTEMİNİN TEMEL KAVRAMLARI\n1.1. Haberleşmenin tanımı \n1.2. Haberleşme sisteminin özellikleri \n1.3. Haberleşme sistemindeki kavramlar \n2. SİNYALLER VE ÇEŞİTLERİ\n2.1. Sinyalin tanımı \n2.2. Sinyallerin özellikleri \n2.3. Sinyallerin çeşitleri \nDemokrasinin önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Haberleşme sisteminin temel kavramlarını açıklar.\nSinyallerin özelliklerini ve çeşitlerini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "3. İLETİM ORTAMINDAN KAYNAKLANAN PROBLEMLER GÜRÜLTÜLER\n3.1. İletim ortamının özellikleri \n3.2. İletim ortamından kaynaklanan bozulmalar \n3.3. Gürültü \n4. SİNYALLERDE BANT GENİŞLİĞİ\n4.1. Sinyalde bant genişliği \n4.2. Bant genişliği hesabı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "İletim ortamından kaynaklanan bozulmalar ve gürültü problemlerini açıklar.\nSinyallerde bant genişliğini örneklerle açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ ANALOG HABERLEŞME\n1. ANALOG HABERLEŞMENİN TEMELLERİ VE ELEMANLARI\n1.1. ANALOG haberleşmenin özellikleri \n1.2. ANALOG haberleşmede kullanılan elemanlar",
+      "KAZANIM": "ANALOG haberleşmede kullanılan elemanların özelliklerini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "2. ANALOG MODÜLASYON ÇEŞİTLERİ\n2.1. Modülasyon ve özellikleri \n2.2. ANALOG modülasyonun özellikleri \n2.3. ANALOG modülasyon çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "ANALOG modülasyon çeşitlerini ve özelliklerini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "2.4. Genlik modülasyonun özellikleri\n2.5. Genlik modülasyon çeşitleri \n2.6. Açı modülasyonun özellikleri \n2.7. Açı modülasyon çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "ANALOG modülasyon çeşitlerini ve özelliklerini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "3. ANALOG MODÜLASYON DEVRELERİ\n3.1. Genlik modülasyonda kullanılan devreler\n3.2. Açı modülasyonda kullanılan devreler",
+      "KAZANIM": "ANALOG modülasyon devrelerini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "4. ANALOG DEMODÜLASYON ÇEŞİTLERİ\n4.1. Demodülasyon ve özellikleri \n4.2. ANALOG demodülasyonun özellikleri \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "ANALOG demodülasyon çeşitlerini ve özelliklerini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "4.2. ANALOG demodülasyonun özellikleri \n4.3. ANALOG demodülasyon çeşitleri \n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "ANALOG demodülasyon çeşitlerini ve özelliklerini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "5. ANALOG DEMODÜLASYON DEVRELERİ\n5.1. Genlik demodülasyonda kullanılan devreler\n5.2. Açı demodülasyonda kullanılan devreler \nAtatürkün eğitime ve bilime verdiği önem",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav ANALOG demodülasyon devrelerini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "6. FM RADYO ALICI DEVRESİ YAPIMI\n6.1. FM radyo alıcı devresi \n6.2. FM radyo alıcı devre montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "FM radyo alıcı devresini kurar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "6.2. FM radyo alıcı devre montajı \n6.3. FM radyo alıcı devresi testi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "FM radyo alıcı devresini kurar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "7. FM RADYO VERİCİ DEVRESİ YAPIMI\n7.1. FM radyo verici devresi \n7.2. FM radyo verici devre montajı \n7.3. FM radyo verici devresi testi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "FM radyo verici devresini kurar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ SAYISAL HABERLEŞME\n1. SAYISAL HABERLEŞMENİN TEMELLERİ VE ELEMANLARI\n1.1. Sayısal haberleşmenin özellikleri \n1.2. Sayısal haberleşmede kullanılan elemanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Sayısal haberleşmenin temelleri ve haberleşmede kullanılan elemanların özelliklerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "2. SAYISAL MODÜLASYON ÇEŞİTLERİ\n2.1. Darbe kod modülasyonu pcm\n2.2. Delta modülasyonu",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Sayısal modülasyon çeşitlerini ve özelliklerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "2.3. Darbe pozisyon modülasyonu ppm\n2.4. Darbe genişlik modülasyonu pwm\n2.5. Darbe genlik modülasyonu pam",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Sayısal modülasyon çeşitlerini ve özelliklerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "3. SAYISAL MODÜLASYON DEVRELERİ\n3.1. Darbe kod PCM modülasyonda kullanılan devreler\n3.2. Delta modülasyonda kullanılan devreler \n3.3. Darbe pozisyon PPM modülasyonda kullanılan devreler\n3.4. Darbe genişlik PWM modülasyonda kullanılan devreler\n3.5. Darbe genlik PAM modülasyonda kullanılan devreler \n1.Dönem 2.Sınav",
+      "KAZANIM": "Sayısal modülasyon devrelerini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "4. SAYISAL DEMODÜLASYON ÇEŞİTLERİ\n4.1. Demodülasyon ve özellikleri \n4.2. Sayısal demodülasyonun özellikleri \n4.3. Sayısal demodülasyon çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Sayısal demodülasyon çeşitlerini ve özelliklerini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "5. SAYISAL DEMODÜLASYON DEVRELERİ\n5.1. Darbe kod PCM demodülasyonda kullanılan devreler \n5.2. Delta demodülasyonda kullanılan devreler\n5.3. Darbe pozisyon PPM demodülasyonda kullanılan devreler \n5.4. Darbe genişlik PWM demodülasyonda kullanılan devreler \n5.5. Darbe genlik PAM demodülasyonda kullanılan devreler",
+      "KAZANIM": "Sayısal demodülasyon devrelerini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ HABERLEŞME YÖNTEMLERİ\n1. ELEKTRİK HATLARINDAN HABERLEŞME SİSTEMLERİ PLC- POWER LİNE COMMUNİCATİON\n1.1. Elektrik hatlarından haberleşme sisteminin PLC özellikleri ve çalışması \n1.2. Elektrik hatlarından haberleşme sisteminin PLC çeşitleri \n1.3. Elektrik hatlarından haberleşme sisteminin PLC kullanım alanları \n1.4. Elektrik hatlarından haberleşme sisteminin PLC bileşenleri \n1.5. Elektrik hatlarından haberleşme sisteminde PLC kullanılan teknikler",
+      "KAZANIM": "Elektrik hatlarından haberleşme sistemlerinin özelliklerini çeşitlerini açıklar ve devresini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "1.6. Elektrik hatlarından haberleşme sisteminin PLC avantaj ve dezavantajları 1.7. Elektrik ağı üzerinden internet işlemi 1.8. Elektrik hatlarından haberleşme sistemindeki PLC problemler ve çözümler 1.9. Kuranportörün özellikleri 1.10. Kuranportörde kullanılan elemanların özellikleri 1.11. Elektrik hatlarından haberleşme sisteminin PLC AC ve DCdeki etkileri 1.12. Elektrik hatlarından haberleşme sistemi PLC uygulama devresi",
+      "KAZANIM": "Elektrik hatlarından haberleşme sistemlerinin özelliklerini çeşitlerini açıklar ve devresini yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "2. HABERLEŞME KABLO BAĞLANTISI\n2.1. CAT5 CAT6 CAT7 kabloların özellikleri ve bağlantıları \n2.2. RJ45 kablo özelliği ve bağlantısı \n2.3. Koaksiyel kablonun BNC özelliği ve bağlantısı \n2.4. Reglet krone bağlantısı \n2.5. Krone bıçağı ile krone bağlantısı \n2.6. Kablo test cihazı ile kablo testi",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Haberleşme kablo bağlantılarını yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "3. FİBEROPTİK HABERLEŞME SİSTEMLERİ\n3.1. Fiberoptik haberleşme sisteminin temel elemanları \n3.2. Fiberoptik haberleşme sisteminin yapısı ve çalışması \n3.3. Fiberoptik bağlantı şekilleri \n3.4. Fiberoptik bağlantı testi \n3.5. Fiberoptik sonlandırma işlemi \n3.6. Örnek fiberoptik devresi",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Fiberoptik haberleşme sistemlerinin özelliklerini çeşitlerini açıklar ve devresini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "4. KABLOSUZ HABERLEŞME SİSTEMLERİ\n4.1. Kablosuz haberleşme sistemlerinin özellikleri \n4.2. Kablosuz haberleşme protokolleri ve standartları \n4.3. Kablosuz haberleşme çeşitleri Wi-fi Bluetooth Zigbee GSMGPRS Radyo RF",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Kablosuz haberleşme sistemlerinin özelliklerini çeşitlerini açıklar ve devresini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "4.4. Kablosuz haberleşmenin avantaj ve dezavantajları \n4.5. Kablosuz ağ yöntemleri \n4.6. Kablosuz haberleşme devreleri ve bağlantıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Kablosuz haberleşme sistemlerinin özelliklerini çeşitlerini açıklar ve devresini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ BİNA İÇİ HABERLEŞME TESİSATI\n1. BİNA İÇİ HABERLEŞME TESİSAT ELEMANLARI\n1.1. Bina içi haberleşme sisteminin özellikleri \n1.2. Bina içi haberleşme sisteminde kullanılan elemanlar \nAtatürkün vatan ve millet sevgisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Bina içi haberleşme tesisatında kullanılan elemanları açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "2. BİNA İÇİ SİSTEM ODASI KURULUMU\n2.1. Bina içi sistem odası tasarımı \n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Bina içi sistem odasını kurar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "2.2. Bina içi sistem odası kurulumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Bina içi sistem odasını kurar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "3. BİNA İÇİ HABERLEŞME TESİSAT PROJELERİ\n3.1. Bina içi haberleşme tesisatında kullanılan semboller ve işaretler \n3.2. Bina içi haberleşme tesisatının projesinin çizim aşamaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Bina içi haberleşme tesisatının projelerini çizer."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "3.2. Bina içi haberleşme tesisatının projesinin çizim aşamaları \n3.3. Bina içi haberleşme tesisatının projeleri \nÇocuk insan sevgisi ve evrensellik",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Bina içi haberleşme tesisatının projelerini çizer."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "4. BİNA İÇİ HABERLEŞME TESİSATI MONTAJI\n4.1. Bina içi haberleşme tesisatının özellikleri ve kullanılacak malzemeler \n4.2. Bina içi haberleşme tesisatında kullanılacak kablo kablo kanalı ve PVC boruları \n4.3. Bina içi haberleşme tesisatında kullanılacak terminal kutusu terminal bloğu telefon prizi telefon fişi ve soketler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Bina içi haberleşme tesisatının montajını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "4.4. Telefon santrallerinin özellikleri \n4.5. Bina içi tesisatının bağlantılarını yapma teknikleri \n4.6. Bina içi tesisatının montaj yöntemleri \n4.7. Bina içi tesisatında kullanılan santralin programlama işlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Bina içi haberleşme tesisatının montajını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "5. BİNA İÇİ HABERLEŞME TESİSATI BAKIM ONARIMI\n5.1. Bina içi tesisatında olabilecek arızalar \n5.2. Bina içi tesisatında arızaların giderilme yöntemleri \n5.3. Bina içi tesisatının bakım onarımları \nAtatürkçü düşüncede yer alan temel fikirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Bina içi haberleşme tesisatının arızalarını bulur bakımını ve onarımını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ AĞ YAPILARI\n1. AĞ TOPOLOJİLERİ\n1.1. Haberleşme modeli \n1.2. Haberleşme protokolleri\n1.3. Haberleşme standartları \n1.4. Haberleşme standardizasyon kuruluşları \n1.5. Ağ gerekliliği \n1.6. OSI referans modeli \n1.7. LAN WAN MAN ağları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Ağ topolojilerini açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "2. IP ÜZERİNDEN SES İLETİŞİMİ VOIP\n2.1. VoIP ve sisteminin genel yapısı \n2.2. Bant genişliği ve kodeklerin özellikleri \n2.3. Kontrol işaretleşme protokolleri H323 SIP \n2.4. Medya taşıma protokolleri RTP RTCP \n2.5. VoIPde güvenlik \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav IP üzerinden ses iletişim VoIP tekniklerini açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "3. AĞLAR ARASI HABERLEŞME İNTERNET\n3.1. Bağlantısız haberleşmenin özelliği \n3.2. IP protokolü IPV6 \n3.3. Yönlendirme protokolleri \n3.4. Bağlantıya dayalı taşıma protokol mekanizmaları \n3.5. TCP ve UDP sistemleri \n3.6. HTTPnin özelliği",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Ağlar arası haberleşme internet sistemini ve özelliklerini açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "4. AĞ KURULUM SİMÜLASYON YAZILIMI İLE AĞ KURMA\n4.1. Simülasyon programı kurulumu ve ayarları\n4.2. Simülasyon program ile ağ kurulum ve testi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Ağ kurulum simülasyon yazılımı ile ağlar kurar ve testini yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

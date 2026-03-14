@@ -1,0 +1,374 @@
+{
+  "sinif": "8",
+  "ders": "TEKNOLOJ TASARIM",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+      "KONU": "1. İnovatif Düşüncenin Geliştirilmesi ve Fikirlerin Korunması",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1.İnovasyon yenilik kavramını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+      "KONU": "1. İnovatif Düşüncenin Geliştirilmesi ve Fikirlerin Korunması",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "2.İnsan hayatını kolaylaştıracak inovatif bir fikir geliştirir.\n3.Geliştirdiği inovatif fikri değerlendirir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "ÜNİTE": "TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+      "KONU": "1. İnovatif Düşüncenin Geliştirilmesi ve Fikirlerin Korunması",
+      "KAZANIM": "4. Geri bildirimler doğrultusunda inovatif fikrini yeniden geliştirir."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+      "KONU": "1. İnovatif Düşüncenin Geliştirilmesi ve Fikirlerin Korunması",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "5. Patent belgesi faydalı model belgesi marka tescili endüstriyel tasarım tescili kavramlarını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+      "KONU": "1. İnovatif Düşüncenin Geliştirilmesi ve Fikirlerin Korunması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "6.Fikrî ve sınai mülkiyet haklarının teknolojik ilerlemedeki önemini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "1. Bilgisayar Destekli Tasarım ve Akıllı Ürünler",
+      "KAZANIM": "1.Tasarımı için taslak çizimler yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "1. Bilgisayar Destekli Tasarım ve Akıllı Ürünler",
+      "KAZANIM": "2.Taslak çizimlerini bilgisayar yardımıyla üç boyutlu görsellere dönüştürür."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "1. Bilgisayar Destekli Tasarım ve Akıllı Ürünler",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "3.Sensör teknolojisinin günlük hayattaki uygulamalarını değerlendirir."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "1. Bilgisayar Destekli Tasarım ve Akıllı Ürünler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 4.İnternete bağlı teknolojik araçların günlük hayattaki kullanımlarına örnekler verir."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "1. Bilgisayar Destekli Tasarım ve Akıllı Ürünler",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "4.İnternete bağlı teknolojik araçların günlük hayattaki kullanımlarına örnekler verir."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "1. Bilgisayar Destekli Tasarım ve Akıllı Ürünler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "5.Akıllı ürün kavramına uygun olarak gelecekte kullanılabilecek bir ürün tasarlar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "2. Tanıtım ve Pazarlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "1.Tanıtım ve pazarlama tekniklerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "2. Tanıtım ve Pazarlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "2.Mevcut bir kurum veya şirkete ait kurumsal kimlik çalışmalarını ve pazarlama tekniklerini analiz eder."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "1. Görsel İletişim Tasarımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "1.Görsel iletişim tasarımı kavramını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "1. Görsel İletişim Tasarımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "2.Grafik tasarım eleman ve ilkelerini kullanarak ürün tasarlar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "1. Görsel İletişim Tasarımı",
+      "KAZANIM": "3.Tasarladığı grafik tasarım ürününü geri bildirimler doğrultusunda yeniden yapılandırır. 4.Yayın grafiği tasarımı kavramını açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "1. Görsel İletişim Tasarımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 5.Mizanpaj ilkelerini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "1. Görsel İletişim Tasarımı",
+      "KAZANIM": "6.Mizanpaj ilkelerini kullanarak bir tasarım oluşturur."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM SÜRECİ VE TANITIM",
+      "KONU": "1. Görsel İletişim Tasarımı",
+      "KAZANIM": "7.Seçtiği herhangi bir ürün için tanıtım ve pazarlama tekniklerini uygular."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "2. Ürün Geliştirme",
+      "KAZANIM": "1.Ergonomi kavramını ifade eder. 2.Ürün tasarımında ergonominin önemini açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "2. Ürün Geliştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "3.Bir ürünün günlük hayattaki kullanımını analiz eder."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "2. Ürün Geliştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "4.Ergonomi kavramını dikkate alarak bir ürün tasarlar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "3. Mühendislik ve Tasarım",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "1.Mühendislik ve tasarım ilişkisini ifade eder. 2.Çevresindeki ürünleri mühendislik ve tasarım kavramları açısından ilişkilendirir."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "3. Mühendislik ve Tasarım",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "3.Mühendislik tasarım sürecindeki sınırlılıkları değerlendirir."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "3. Mühendislik ve Tasarım",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "4.Mühendislik tasarım sürecini kullanarak bir ürün tasarlar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "4. Doğadan Tasarıma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 1.Biyotaklit kavramını açıklar. 2.Biyotaklit ile tasarlanmış bir ürünü analiz eder."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "YAPILI ÇEVRE VE ÜRÜN",
+      "KONU": "4. Doğadan Tasarıma",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "3.Gündelik hayatında var olan bir sorunun çözümünde biyotaklit kavramını kullanarak ürün tasarlar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "ÜNİTE": "İHTİYAÇLAR VE YENİLİKÇİLİK",
+      "KONU": "1. Ulaşım Teknolojileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "1.Ulaşım araçlarının tasarımında dikkate alınan temel prensipleri açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "İHTİYAÇLAR VE YENİLİKÇİLİK",
+      "KONU": "1. Ulaşım Teknolojileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "2.Farklı ortamlarda kullanılan ulaşım araçlarını özelliklerine göre sınıflandırır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "İHTİYAÇLAR VE YENİLİKÇİLİK",
+      "KONU": "1. Ulaşım Teknolojileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "3.Farklı ortamlarda çalışabilecek bir ulaşım aracı tasarlar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM VE TEKNOLOJİK ÇÖZÜM",
+      "KONU": "1. Özgün Ürünümü Tasarlıyorum",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "1.Günlük hayatta karşılaştığı tasarım problemlerini örneklerle açıklar. 2.Tasarım probleminin çözümüne yönelik araştırma basamaklarını uygular."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM VE TEKNOLOJİK ÇÖZÜM",
+      "KONU": "1. Özgün Ürünümü Tasarlıyorum",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "3.Tasarım planlama sürecini uygular."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM VE TEKNOLOJİK ÇÖZÜM",
+      "KONU": "1. Özgün Ürünümü Tasarlıyorum",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "4.Özgün tasarım modelini veya prototipini oluşturur."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM VE TEKNOLOJİK ÇÖZÜM",
+      "KONU": "1. Özgün Ürünümü Tasarlıyorum",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 5.Tasarladığı ürünü değerlendirir."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM VE TEKNOLOJİK ÇÖZÜM",
+      "KONU": "1. Özgün Ürünümü Tasarlıyorum",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "6.Tasarladığı ürünü model veya prototip yeniden yapılandırır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "TASARIM VE TEKNOLOJİK ÇÖZÜM",
+      "KONU": "2. Bunu Ben Yaptım",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "1. Sergileyeceği ürün için tanıtım materyalleri hazırlar.\n 2. Sergileyeceği ürünü sunar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

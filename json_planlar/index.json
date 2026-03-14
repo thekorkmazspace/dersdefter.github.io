@@ -1,6 +1,12 @@
 {
-  "toplam": 716,
+  "toplam": 807,
   "dosyalar": [
+    {
+      "dosya": "grade_0_ingilizce_hazirlik_meb_1700.json",
+      "sinif": "0",
+      "ders": "İNGİLİZCE HAZIRLIK (MEB",
+      "kayit_sayisi": 42
+    },
     {
       "dosya": "grade_1_beden_egitimi_ve_oyun_meb1_1949.json",
       "sinif": "1",
@@ -56,10 +62,28 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_2_beden_egitim_ve_oyun_meb_1950.json",
+      "sinif": "2",
+      "ders": "BEDEN EĞİTİM VE OYUN (MEB)",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_2_gorsel_sanatlar_233.json",
       "sinif": "2",
       "ders": "GÖRSEL SANATLAR",
       "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_2_hayat_bilgisi_meb_1670.json",
+      "sinif": "2",
+      "ders": "HAYAT BİLGİSİ (MEB)",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_2_matematik_meb_1621.json",
+      "sinif": "2",
+      "ders": "MATEMATİK (MEB)",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_2_muzik_1842.json",
@@ -80,9 +104,27 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_2_turkce_meb_1698.json",
+      "sinif": "2",
+      "ders": "TÜRKÇE (MEB)",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_2_ingilizce_meb_1943.json",
+      "sinif": "2",
+      "ders": "İNGİLİZCE (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_3_beden_egitim_ve_oyun_227.json",
       "sinif": "3",
       "ders": "BEDEN EĞİTİM VE OYUN",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_3_fen_blmler_cem_yayinlari_1512.json",
+      "sinif": "3",
+      "ders": "FEN BLMLER (CEM YAYINLARI)",
       "kayit_sayisi": 42
     },
     {
@@ -92,9 +134,69 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_3_hayat_bilgisi_evren_yayinlari_1517.json",
+      "sinif": "3",
+      "ders": "HAYAT BİLGİSİ (EVREN YAYINLARI)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_3_hayat_bilgisi_meb_1730.json",
+      "sinif": "3",
+      "ders": "HAYAT BİLGİSİ (MEB",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_3_hayat_bilgisi_meb_2026.json",
+      "sinif": "3",
+      "ders": "HAYAT BİLGİSİ (MEB",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_3_hayat_bilgisi_sdr_1906.json",
+      "sinif": "3",
+      "ders": "HAYAT BİLGİSİ (SDR)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_3_matematik_ekoyay_1904.json",
+      "sinif": "3",
+      "ders": "MATEMATİK (EKOYAY)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_3_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1720.json",
+      "sinif": "3",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_3_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1727.json",
+      "sinif": "3",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_3_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1738.json",
+      "sinif": "3",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_3_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1739.json",
+      "sinif": "3",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_3_muzik_253.json",
       "sinif": "3",
       "ders": "MÜZİK",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_3_muzik_hecce_1905.json",
+      "sinif": "3",
+      "ders": "MÜZİK (HECCE)",
       "kayit_sayisi": 42
     },
     {
@@ -134,10 +236,52 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_4_din_kultur_ve_ahlak_bilgisi_meb_1755.json",
+      "sinif": "4",
+      "ders": "DİN KÜLTÜR VE AHLAK BİLGİSİ (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_4_fen_blmler_ata_yayinlari_1509.json",
+      "sinif": "4",
+      "ders": "FEN BLMLER (ATA YAYINLARI)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_4_gorsel_sanatlar_235.json",
       "sinif": "4",
       "ders": "GÖRSEL SANATLAR",
       "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_4_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1721.json",
+      "sinif": "4",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_4_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1728.json",
+      "sinif": "4",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_4_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1731.json",
+      "sinif": "4",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_4_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1740.json",
+      "sinif": "4",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_4_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1741.json",
+      "sinif": "4",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_4_muzik_254.json",
@@ -155,6 +299,12 @@
       "dosya": "grade_4_sosyal_bilgiler_246.json",
       "sinif": "4",
       "ders": "SOSYAL BİLGİLER",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_4_sosyal_bilgiler_tuna_yayinlari_1516.json",
+      "sinif": "4",
+      "ders": "SOSYAL BİLGİLER (TUNA YAYINLARI)",
       "kayit_sayisi": 42
     },
     {
@@ -176,6 +326,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_5_afet_blncyen_1227.json",
+      "sinif": "5",
+      "ders": "AFET BLNC(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_5_arapca_143.json",
       "sinif": "5",
       "ders": "ARAPÇA",
@@ -188,10 +344,22 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_5_din_kultur_ve_ahlak_bilgisi_1131.json",
+      "sinif": "5",
+      "ders": "DİN KÜLTÜR VE AHLAK BİLGİSİ",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_5_din_kultur_ve_ahlak_bilgisi_meb_1754.json",
       "sinif": "5",
       "ders": "DİN KÜLTÜR VE AHLAK BİLGİSİ (MEB)",
       "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_5_fen_blmler_meb_1605.json",
+      "sinif": "5",
+      "ders": "FEN BLMLER (MEB)",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_5_gorsel_sanatlar_161.json",
@@ -212,10 +380,22 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_5_meslege_grs_2017.json",
+      "sinif": "5",
+      "ders": "MESLEĞE GRŞ",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_5_okuma_becerler_210.json",
       "sinif": "5",
       "ders": "OKUMA BECERLER",
       "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_5_peygambermzn_hayati_meb_1773.json",
+      "sinif": "5",
+      "ders": "PEYGAMBERMZN HAYATI (MEB)",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_5_secmeli_robotk_kodlama_814.json",
@@ -224,10 +404,28 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_5_secmeli_ingilizce_maarif_1982.json",
+      "sinif": "5",
+      "ders": "SEÇMELİ İNGİLİZCE (MAARİF)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_5_sinif_rehberlk_436.json",
       "sinif": "5",
       "ders": "SINIF REHBERLK",
       "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_5_sosyal_bilgiler_meb_1647.json",
+      "sinif": "5",
+      "ders": "SOSYAL BİLGİLER (MEB)",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_5_temel_dn_bilgiler_islam_1_1781.json",
+      "sinif": "5",
+      "ders": "TEMEL DNÎ BİLGİLER (İSLAM 1)",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_5_turkce_anittepe_185.json",
@@ -254,6 +452,18 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_5_ingilizce_meb_1939.json",
+      "sinif": "5",
+      "ders": "İNGİLİZCE (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_5_ingilizce_cyd_meb_1940.json",
+      "sinif": "5",
+      "ders": "İNGİLİZCE ÇYD (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_6_arapca_144.json",
       "sinif": "6",
       "ders": "ARAPÇA",
@@ -272,6 +482,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_6_bilim_uygulamalariyen_1550.json",
+      "sinif": "6",
+      "ders": "BİLİM UYGULAMALARI(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_6_dgtal_sanatlar_818.json",
       "sinif": "6",
       "ders": "DGTAL SANATLAR",
@@ -284,9 +500,21 @@
       "kayit_sayisi": 43
     },
     {
+      "dosya": "grade_6_fen_blmler_meb_1606.json",
+      "sinif": "6",
+      "ders": "FEN BLMLER (MEB)",
+      "kayit_sayisi": 45
+    },
+    {
       "dosya": "grade_6_gorsel_sanatlar_162.json",
       "sinif": "6",
       "ders": "GÖRSEL SANATLAR",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_6_hukuk_ve_adaletyen_1272.json",
+      "sinif": "6",
+      "ders": "HUKUK VE ADALET(YEN*)",
       "kayit_sayisi": 42
     },
     {
@@ -302,9 +530,21 @@
       "kayit_sayisi": 43
     },
     {
+      "dosya": "grade_6_okul_temell_sosyal_sorumluluk_calismalariyen_1286.json",
+      "sinif": "6",
+      "ders": "OKUL TEMELL SOSYAL SORUMLULUK ÇALIŞMALARI(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_6_okuma_becerler_211.json",
       "sinif": "6",
       "ders": "OKUMA BECERLER",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_6_peygambermzn_hayati_meb_1774.json",
+      "sinif": "6",
+      "ders": "PEYGAMBERMZN HAYATI (MEB)",
       "kayit_sayisi": 42
     },
     {
@@ -314,9 +554,27 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_6_secmeli_ingilizce_1283.json",
+      "sinif": "6",
+      "ders": "SEÇMELİ İNGİLİZCE",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_6_sinif_rehberlk_435.json",
       "sinif": "6",
       "ders": "SINIF REHBERLK",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_6_sosyal_bilgiler_meb_1648.json",
+      "sinif": "6",
+      "ders": "SOSYAL BİLGİLER (MEB)",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_6_temel_dn_bilgiler_islam_2_1782.json",
+      "sinif": "6",
+      "ders": "TEMEL DNÎ BİLGİLER (İSLAM 2)",
       "kayit_sayisi": 42
     },
     {
@@ -329,6 +587,36 @@
       "dosya": "grade_6_zeka_oyunlari_216.json",
       "sinif": "6",
       "ders": "ZEKA OYUNLARI",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_6_ingilizce_1454.json",
+      "sinif": "6",
+      "ders": "İNGİLİZCE",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_6_ingilizce_cyd_meb_1941.json",
+      "sinif": "6",
+      "ders": "İNGİLİZCE ÇYD (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_6_sehrmz_1222.json",
+      "sinif": "6",
+      "ders": "ŞEHRMZ",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_7_afet_blncyen_1228.json",
+      "sinif": "7",
+      "ders": "AFET BLNC(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_7_ahlak_ve_vatandaslik_egitimyen_1862.json",
+      "sinif": "7",
+      "ders": "AHLAK VE VATANDAŞLIK EĞİTİM(YEN*)",
       "kayit_sayisi": 42
     },
     {
@@ -347,6 +635,12 @@
       "dosya": "grade_7_bilim_uygulamalari_202.json",
       "sinif": "7",
       "ders": "BİLİM UYGULAMALARI",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_7_bilim_uygulamalariyen_1551.json",
+      "sinif": "7",
+      "ders": "BİLİM UYGULAMALARI(YEN*)",
       "kayit_sayisi": 42
     },
     {
@@ -374,6 +668,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_7_gorg_kurallari_ve_nezaketyen_1229.json",
+      "sinif": "7",
+      "ders": "GÖRG KURALLARI VE NEZAKET(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_7_gorsel_sanatlar_163.json",
       "sinif": "7",
       "ders": "GÖRSEL SANATLAR",
@@ -392,15 +692,45 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_7_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1722.json",
+      "sinif": "7",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_7_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1732.json",
+      "sinif": "7",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_7_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1865.json",
       "sinif": "7",
       "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
       "kayit_sayisi": 43
     },
     {
+      "dosya": "grade_7_okul_temell_sosyal_sorumluluk_calismalariyen_1287.json",
+      "sinif": "7",
+      "ders": "OKUL TEMELL SOSYAL SORUMLULUK ÇALIŞMALARI(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_7_peygambermzn_hayati_178.json",
       "sinif": "7",
       "ders": "PEYGAMBERMZN HAYATI",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_7_peygambermzn_hayati_meb_1779.json",
+      "sinif": "7",
+      "ders": "PEYGAMBERMZN HAYATI (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_7_secmeli_ingilizce_1284.json",
+      "sinif": "7",
+      "ders": "SEÇMELİ İNGİLİZCE",
       "kayit_sayisi": 42
     },
     {
@@ -413,6 +743,12 @@
       "dosya": "grade_7_teknoloj_tasarim_213.json",
       "sinif": "7",
       "ders": "TEKNOLOJ TASARIM",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_7_temel_yasam_becerleryen_1225.json",
+      "sinif": "7",
+      "ders": "TEMEL YAŞAM BECERLER(YEN*)",
       "kayit_sayisi": 42
     },
     {
@@ -437,6 +773,18 @@
       "dosya": "grade_7_ingilizce_167.json",
       "sinif": "7",
       "ders": "İNGİLİZCE",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_7_ingilizce_cyd_meb_1942.json",
+      "sinif": "7",
+      "ders": "İNGİLİZCE ÇYD (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_8_ahlak_ve_vatandaslik_egitimyen_1861.json",
+      "sinif": "8",
+      "ders": "AHLAK VE VATANDAŞLIK EĞİTİM(YEN*)",
       "kayit_sayisi": 42
     },
     {
@@ -476,6 +824,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_8_gorg_kurallari_ve_nezaketyen_1230.json",
+      "sinif": "8",
+      "ders": "GÖRG KURALLARI VE NEZAKET(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_8_gorsel_sanatlar_164.json",
       "sinif": "8",
       "ders": "GÖRSEL SANATLAR",
@@ -494,10 +848,22 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1723.json",
+      "sinif": "8",
+      "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1866.json",
       "sinif": "8",
       "ders": "MEVCUDU VE OKUL TÜRÜ FARKLILIĞI DIKKATE ALINMASI GEREKIR. ÖĞRETIM SÜRECINDE YER ALAN OKUL DIŞI ÖĞ...",
       "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_8_okul_temell_sosyal_sorumluluk_calismalariyen_1288.json",
+      "sinif": "8",
+      "ders": "OKUL TEMELL SOSYAL SORUMLULUK ÇALIŞMALARI(YEN*)",
+      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_8_peygambermzn_hayati_179.json",
@@ -506,9 +872,21 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_8_peygambermzn_hayati_meb_1780.json",
+      "sinif": "8",
+      "ders": "PEYGAMBERMZN HAYATI (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_8_rehberlk_ve_karyer_planlama_212.json",
       "sinif": "8",
       "ders": "REHBERLK VE KARYER PLANLAMA",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_8_secmeli_ingilizce_1285.json",
+      "sinif": "8",
+      "ders": "SEÇMELİ İNGİLİZCE",
       "kayit_sayisi": 42
     },
     {
@@ -530,6 +908,18 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_8_temel_yasam_becerleryen_1226.json",
+      "sinif": "8",
+      "ders": "TEMEL YAŞAM BECERLER(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_8_trk_sosyal_hayatinda_aleyen_1233.json",
+      "sinif": "8",
+      "ders": "TRK SOSYAL HAYATINDA ALE(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_8_yapay_zeka_uygulamalari_817.json",
       "sinif": "8",
       "ders": "YAPAY ZEKA UYGULAMALARI",
@@ -548,6 +938,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_8_cevre_egtm_ve_iklm_degsklg_1158.json",
+      "sinif": "8",
+      "ders": "ÇEVRE EĞ̇ṪṀ VE İKL̇M DEĞ̇Ş̇KL̇Ğ̇",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_8_ingilizce_168.json",
       "sinif": "8",
       "ders": "İNGİLİZCE",
@@ -558,6 +954,12 @@
       "sinif": "9",
       "ders": "ADAB",
       "kayit_sayisi": 44
+    },
+    {
+      "dosya": "grade_9_adabimuaseret_2021.json",
+      "sinif": "9",
+      "ders": "ADABIMUAŞERET",
+      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_9_ahsap_kagr_atolyesi_714.json",
@@ -854,6 +1256,24 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_9_peygambermzn_hayati_meb_1775.json",
+      "sinif": "9",
+      "ders": "PEYGAMBERMZN HAYATI (MEB)",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_9_secmeli_trk_sosyal_hayatinda_aleyen_2016.json",
+      "sinif": "9",
+      "ders": "SEÇMELİ TRK SOSYAL HAYATINDA ALE(YEN*)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_secmeli_ingilizce_maarif_1983.json",
+      "sinif": "9",
+      "ders": "SEÇMELİ İNGİLİZCE (MAARİF)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_9_sinif_rehberlk_432.json",
       "sinif": "9",
       "ders": "SINIF REHBERLK",
@@ -1037,6 +1457,18 @@
       "dosya": "grade_9_cocuk_ruh_sagligi_409.json",
       "sinif": "9",
       "ders": "ÇOCUK RUH SAĞLIĞI",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_ingilizce_meb_1702.json",
+      "sinif": "9",
+      "ders": "İNGİLİZCE (MEB",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_9_ingilizce_meb_1945.json",
+      "sinif": "9",
+      "ders": "İNGİLİZCE (MEB",
       "kayit_sayisi": 42
     },
     {
@@ -1682,6 +2114,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_10_peygambermzn_hayati_meb_1776.json",
+      "sinif": "10",
+      "ders": "PEYGAMBERMZN HAYATI (MEB)",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_10_programlama_temeller_268.json",
       "sinif": "10",
       "ders": "PROGRAMLAMA TEMELLER",
@@ -1715,6 +2153,12 @@
       "dosya": "grade_10_servs_atolyesi_546.json",
       "sinif": "10",
       "ders": "SERVS ATÖLYESİ",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_secmeli_ingilizce_1279.json",
+      "sinif": "10",
+      "ders": "SEÇMELİ İNGİLİZCE",
       "kayit_sayisi": 42
     },
     {
@@ -1964,6 +2408,24 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_10_ingilizce_1453.json",
+      "sinif": "10",
+      "ders": "İNGİLİZCE",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_ingilizce_meb_1703.json",
+      "sinif": "10",
+      "ders": "İNGİLİZCE (MEB",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_ingilizce_meb_1707.json",
+      "sinif": "10",
+      "ders": "İNGİLİZCE (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_10_insaat_altyapi_atolyesi_718.json",
       "sinif": "10",
       "ders": "İNŞAAT ALTYAPI ATÖLYESİ",
@@ -1973,6 +2435,12 @@
       "dosya": "grade_10_insaat_ustyapi_atolyesi_719.json",
       "sinif": "10",
       "ders": "İNŞAAT ÜSTYAPI ATÖLYESİ",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_islam_bilim_tarih_1995.json",
+      "sinif": "10",
+      "ders": "İSLAM BİLİM TARİH",
       "kayit_sayisi": 42
     },
     {
@@ -1997,6 +2465,12 @@
       "dosya": "grade_11_akaid_110.json",
       "sinif": "11",
       "ders": "AKAİD",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_akaid_meb_1786.json",
+      "sinif": "11",
+      "ders": "AKAİD (MEB)",
       "kayit_sayisi": 42
     },
     {
@@ -2231,6 +2705,12 @@
       "dosya": "grade_11_diksiyon_ve_hitabet_103.json",
       "sinif": "11",
       "ders": "DİKSİYON VE HİTABET",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_din_kultur_ve_ahlak_bilgisi_71.json",
+      "sinif": "11",
+      "ders": "DİN KÜLTÜR VE AHLAK BİLGİSİ",
       "kayit_sayisi": 42
     },
     {
@@ -2672,6 +3152,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_11_peygambermzn_hayati_meb_1777.json",
+      "sinif": "11",
+      "ders": "PEYGAMBERMZN HAYATI (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_11_prototp_urnler_ve_organzasyon_atolyesi_477.json",
       "sinif": "11",
       "ders": "PROTOTP ÜRNLER VE ORGANZASYON ATÖLYESİ",
@@ -2741,6 +3227,12 @@
       "dosya": "grade_11_secmeli_yakit_hcrel_araclar_403.json",
       "sinif": "11",
       "ders": "SEÇMELİ YAKIT HCREL ARAÇLAR",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_secmeli_ingilizce_1274.json",
+      "sinif": "11",
+      "ders": "SEÇMELİ İNGİLİZCE",
       "kayit_sayisi": 42
     },
     {
@@ -3011,6 +3503,24 @@
       "dosya": "grade_11_illstrasyon_uygulamalari_767.json",
       "sinif": "11",
       "ders": "İLLSTRASYON UYGULAMALARI",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_ingilizce_67.json",
+      "sinif": "11",
+      "ders": "İNGİLİZCE",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_ingilizce_meb_1704.json",
+      "sinif": "11",
+      "ders": "İNGİLİZCE (MEB",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_ingilizce_meb_1708.json",
+      "sinif": "11",
+      "ders": "İNGİLİZCE (MEB)",
       "kayit_sayisi": 42
     },
     {
@@ -3314,6 +3824,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_12_dnler_tarih_73.json",
+      "sinif": "12",
+      "ders": "DNLER TARİH",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_12_dograma_resmi_imalati_671.json",
       "sinif": "12",
       "ders": "DOĞRAMA RESMİ İMALATI",
@@ -3335,6 +3851,12 @@
       "dosya": "grade_12_diksiyon_ve_etkl_iletsm_593.json",
       "sinif": "12",
       "ders": "DİKSİYON VE ETKL İLETŞM",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_12_din_kultur_ve_ahlak_bilgisi_72.json",
+      "sinif": "12",
+      "ders": "DİN KÜLTÜR VE AHLAK BİLGİSİ",
       "kayit_sayisi": 42
     },
     {
@@ -3812,6 +4334,12 @@
       "kayit_sayisi": 44
     },
     {
+      "dosya": "grade_12_peygambermzn_hayati_meb_1778.json",
+      "sinif": "12",
+      "ders": "PEYGAMBERMZN HAYATI (MEB)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_12_portfolyo_hazirlamagvf_774.json",
       "sinif": "12",
       "ders": "PORTFOLYO HAZIRLAMA(GVF)",
@@ -3953,6 +4481,12 @@
       "dosya": "grade_12_secmeli_yazilim_projes_133.json",
       "sinif": "12",
       "ders": "SEÇMELİ YAZILIM PROJES",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_12_secmeli_ingilizce_1275.json",
+      "sinif": "12",
+      "ders": "SEÇMELİ İNGİLİZCE",
       "kayit_sayisi": 42
     },
     {
@@ -4223,6 +4757,18 @@
       "dosya": "grade_12_iler_plc_uygulamalari_504.json",
       "sinif": "12",
       "ders": "İLER PLC UYGULAMALARI",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_12_ingilizce_68.json",
+      "sinif": "12",
+      "ders": "İNGİLİZCE",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_12_ingilizce_meb_1705.json",
+      "sinif": "12",
+      "ders": "İNGİLİZCE (MEB",
       "kayit_sayisi": 42
     },
     {

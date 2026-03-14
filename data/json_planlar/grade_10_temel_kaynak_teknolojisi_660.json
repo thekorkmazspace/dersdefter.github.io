@@ -1,0 +1,338 @@
+{
+  "sinif": "10",
+  "ders": "TEMEL KAYNAK TEKNOLOJİSİ",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ OKSİ-GAZ İLE KAYNAK\n1. Oksijen Ve Asetilen Tüplerini Açıp Kapatma Ve Manometre Regülâtör Ayarı\n1.1. Oksi Gaz Kaynak Donanımları\n1.2. Oksijen Ve Asetilen Tüplerini Güvenli Bir Şekilde Sabitlenmesi\n1.3. Manometre Ve Alev Kesicilerin Takılarak Gaz Kaçaklarını Kontrolü\n1.4. Manometrelerin Çalışma Basıncı Ayarları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Oksijen ve asetilen tüplerini açıp kapatma ve manometre Regülâtör ayarını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "2. Alev Oluşturma Ve Alev Ayarı\n2.1. Üflecin Yakılıp Söndürülmesinde İşlem Sırası\n2.2. Üfleçlerde Geri Tepme Ve Gaz Kaçak Kontrolü\n2.3. Alev Ayarı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Üflecin yakılıp söndürülmesi ile alev oluşturma ve alev ayarını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "3. Yatayda Telsiz Dikiş Çekme İşlemi",
+      "KAZANIM": "Oksi gaz ile yatayda telsiz kaynak dikişini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "4. Yatayda Telli Dikiş Çekme İşlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Oksi gaz ile yatayda telli kaynak dikişini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ OKSİ-GAZ İLE KÜT EK KAYNAĞI\n1. Yatayda Kenet Eki Kaynağı\n1.1. Kenet Eki Kaynağı İşlem Basamakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Oksi gaz ile yatayda kenet eki kaynağını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "2. Yatayda Sağdan Sola Küt Ek Kaynağı\n2.1. Yatayda Sağdan Sola Küt Ek Kaynağında Üfleç Seçimi\n2.2. Yatayda Sağdan Sola Küt Ek Kaynağında Üfleç Açısı",
+      "KAZANIM": "Oksi gaz ile yatayda sağdan sola küt ek kaynak dikişini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "3. Yatayda Soldan Sağa Küt Ek Kaynağı\n3.1. Yatayda Soldan Sağa Küt Ek Kaynak Pozisyonunda Üfleç Ve Tel Açısı",
+      "KAZANIM": "Oksi gaz ile yatayda soldan sağa küt ek kaynağını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ OKSİ-GAZ İLE KESME\n1. Kesme Üflecinde Alev Ayarı\n1.1. Oksi gaz ile kesmede kullanılan gazların özellikleri\n1.2. Kesme Üfleçlerinde Alev Ayarı \n \n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Oksi gaz ile kesme üflecinde alev ayarını açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "2. Kesme Üfleci İle Elle Düz Kesme\n2.1. Oksi Gaz İle Düz Kesme İşlemi\n2.2. Oksi gaz ile kesmede dikkat edilecek hususlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Oksi gaz kaynak donanımlarını kullanarak kesme üfleci ile düz kesmeyi açıklar"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "3. Kesme Üfleci İle Elle Dairesel Kesme\n3.1. Oksi-gaz ile dairesel kesme işlemine başlamadan yapılan ön hazırlık işlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Oksi gaz kaynak donanımlarını kullanarak kesme üfleci ile dairesel kesmeyi açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "3.2. Oksi-Gaz İle Dairesel Kesme İşleminde Eksen Merkezinin Bulunması\n3.3. Oksi gaz ile dairesel kesme işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Oksi gaz kaynak donanımlarını kullanarak kesme üfleci ile dairesel kesmeyi açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ LEHİMLEME\n1. Yumuşak Lehimleme\n1.1. Lehimleme Bölgesinin Temizlenmesi\n1.2. Yumuşak Lehim İşlem Basamakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Yumuşak lehimlemeyi açıklar"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "2. Sert Lehimleme\n2.1. Lehimleme Bölgesinin Temizlenmesi\n2.2. Sert Lehim İşlem Basamakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Sert lehimlemeyi açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ ELEKTRİK DİRENÇ KAYNAĞI\n1. Sac Parçaların Direnç Kaynağı\n1.1. Sac Malzemelerin Yüzey Temizliği\n1.2. Direnç Nokta Kaynak Makinesinin Ayarları",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Sac parçaların direnç kaynağı ile birleştirme işlemini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "2. Yuvarlak Ve Kare Kesitli Malzemelerin Direnç Kaynağı\n2.1. Yuvarlak Ve Kare Kesitli Malzemelerin Yüzey Temizliği\n2.2. Direnç alın kaynağı ile farklı kalınlıktaki malzemelerin kaynağının yapılışında işlem basamakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Yuvarlak ve kare kesitli malzemeleri direnç kaynağı ile birleştirme işlemini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ ELEKTRİK ARKI İLE DÜZ DİKİŞ\n1. Kaynak Makinesini Kaynağa Hazırlamak Ark Oluşturmak\n1.1. Elektrik Ark Kaynak Makinesinin Bağlantı Elemanları Ve Yardımcı Elemanları\n1.2. Kaynak Yöntem Şartnamesi\n1.3. Elektrot Çapına Uygun Amper Ayarı \n1.Dönem 2.Sınav",
+      "KAZANIM": "Elektrik ark kaynak makinesini kaynağa hazırlamayı açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "1.4. Farklı Yöntemlerle Kaynak Arkı Oluşturma\n2. Yatayda Düz Kaynak Dikişi Çekmek",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Yatayda düz kaynak dikişini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "ÜNİTE": "Yarıyıl Tatili",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ ELEKTRİK ARK KAYNAĞI İLE YATAYDA KÜT EK VE BİNDİRME KAYNAĞI\n1. Yatayda Küt Ek Kaynağı Yapma Yöntemi",
+      "KAZANIM": "Yatayda küt ek kaynağını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "2. Yatayda Bindirme Kaynağı Yapma Yöntemi",
+      "KAZANIM": "Yatayda bindirme kaynağını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2. Yatayda Kalınlıkları Farklı Parçaların Kaynağı Yapma Yöntemi",
+      "KAZANIM": "Yatayda kalınlıkları farklı parçaların kaynağını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "3. Yatayda Kalınlıkları Farklı Parçaların Kaynağı Yapma Yöntemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Yatayda kalınlıkları farklı parçaların kaynağını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "Öğrenme Birimi Elektrik Ark Kaynağı İle Yatayda Köşe Kaynakları\n1. Yatayda İç Köşe Kaynağı Yapma Yöntemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Yatayda iç köşe kaynağını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "1. Yatayda İç Köşe Kaynağı Yapma Yöntemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Yatayda iç köşe kaynağını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "2. Yatayda Dış Köşe Kaynağı Yapma Yöntemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Yatayda dış köşe kaynağını açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "2. Yatayda Dış Köşe Kaynağı Yapma Yöntemi \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Yatayda dış köşe kaynağını açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "3. Yatayda Flanş Kaynağı Yapma Yöntemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Yatayda flanş kaynağını açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "3. Yatayda Flanş Kaynağı Yapma Yöntemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Yatayda flanş kaynağını açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ ELEKTRİK ARK KAYNAĞI İLE YATAYDA KÜÇÜK ÇAPLI BORU VE PROFİL KAYNAĞI\n1. Yatayda Küçük Çaplı Boruların Küt Ek Kaynağı\n1.1.  Boru çeşitleri ve kullanım amaçları\n1.2. Boruları kesmede kullanılan araç gereçler\n1.3. Elektrik arkı ile küçük çaplı boruların yatayda küt ek kaynak yapma yöntemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Yatayda küçük çaplı borulara küt ek kaynağını açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "2. Yatayda Küçük Çaplı Boruların T Kaynağı\n2.1. Arakesit ve açınımlar\n2.2. Elektrik arkı ile yatayda küçük çaplı boruların yatayda T kaynak yapma yöntemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Yatayda küçük çaplı borulara T kaynağını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "3. Yatayda Profil Ve Boruların Alın Kaynağı\n3.1.Profil borular\n3.2. Elektrik arkı ile yatayda profil ve boruların alın kaynağı yapma işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Yatayda profil ve borulara alın kaynağını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "4. Yatayda Profil Ve Boruların Köşe Kaynağı\n4.1. Profil ve borunun yatayda köşe kaynağı yapma işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Yatayda profil ve borulara köşe kaynağını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ KAYNAK HATALARI\n1. Kaynak Hataları\n1.1. Kaynak hataları çeşitleri ve nedenleri\n1.2. Kaynak hatalarını önleme yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Kaynak hatalarını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "2. Ark Üflemesi\n2.1. Ark üflemesi tanımı ve nedenleri \n2.2. Ark üflemesini önleme yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Ark üflemesini açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "ÖĞRENME BİRİMİ ELEKTROT VE PLAZMA İLE KESME\n1. Kömür Elektrotla Kesme\n1.1. Kömür elektrotun özellikleri\n1.2. Kömür elektrot ile kesme işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Kömür elektrotla kesmeyi açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "2. Metal Elektrotla Kesme\n2.1. Kesmede kullanılan metal elektrot çeşitleri\n2.2. Metal elektrotla kesme işlemi \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Metal elektrotla kesmeyi açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "3. Plazma Arkı İle Kesme \n3.1. Plazma oluşumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Plazma arkı ile kesmeyi açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "ÜNİTE": "Etkinlik Haftası",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}
