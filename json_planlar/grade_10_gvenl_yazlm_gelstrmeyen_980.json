@@ -3,369 +3,369 @@
   "ders": "GVENL̇ YAZLM GEL̇ŞṪRME(YEN*)",
   "plan": [
     {
+      "ÜNİTE": "Kimlik Doğrulama",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "3",
-      "ÜNİTE": "Kimlik Doğrulama",
       "KONU": "Erişim kontrolü       Kimlik yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
       "KAZANIM": "Kimlik yönetimi güvenlik unsurunu açıklar.Yetkilendirme güvenlik unsurunu açıklar.\nKimlik yönetimi güvenlik bileşeninin görevleri açıklanır.\n       Kimlik yönetimi uygulama şekilleri açıklanır.\n       Kimlik yönetimi güvenlik unsurunda alınması gereken önlemler açıklanır.\n       Yetkilendirme güvenlik bileşeninin görevleri açıklanır.\n       Yetkilendirme güvenlik unsurunda alınması gereken önlemler açıklanır."
     },
     {
+      "ÜNİTE": "Kimlik Doğrulama",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "3",
-      "ÜNİTE": "Kimlik Doğrulama",
       "KONU": "Yetkilendirme",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
       "KAZANIM": "Erişim kontrolü güvenlik unsurunu açıklar.\nErişim kontrolü güvenlik bileşeninin görevleri açıklanır.\n       Erişim kontrolü güvenlik unsurunda alınması gereken önlemler açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli kod inceleme",
       "KAZANIM": "Güvenli  YAZILIM  geliştirme  yaşam  döngüsü modellerini açıklar.\nYAZILIM geliştirme yaşam döngüsü SDLC açıklanır.\n       YAZILIM geliştirme yaşam döngüsü aşamaları açıklanır.\n       YAZILIM geliştirme yaşam döngüsü modelleri açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli kod inceleme",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
       "KAZANIM": "Güvenli  YAZILIM  geliştirme  yaşam  döngüsü modellerini açıklar.\nYAZILIM geliştirme yaşam döngüsü SDLC açıklanır.\n       YAZILIM geliştirme yaşam döngüsü aşamaları açıklanır.\n       YAZILIM geliştirme yaşam döngüsü modelleri açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli kod inceleme",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
       "KAZANIM": "Güvenli  YAZILIM  geliştirme  yaşam  döngüsü modellerini açıklar.\nYAZILIM geliştirme yaşam döngüsü SDLC açıklanır.\n       YAZILIM geliştirme yaşam döngüsü aşamaları açıklanır.\n       YAZILIM geliştirme yaşam döngüsü modelleri açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli kodlama teknikleri",
       "KAZANIM": "Güvenli kodlama tekniklerini uygular.\nGüvenli kodlama teknikleri açıklanır.\n       Girdi denetimi yöntemleri açıklanır.\n       Güvenli girdi kontrolü uygulaması yaptırır.\n       Güvenli oturum yönetimi açıklanır.\n       Güvenli oturum yönetimi uygulaması yaptırır.\n       Güvenli dizayn bileşenleri açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli kodlama teknikleri",
       "KAZANIM": "Güvenli kodlama tekniklerini uygular.\nGüvenli kodlama teknikleri açıklanır.\n       Girdi denetimi yöntemleri açıklanır.\n       Güvenli girdi kontrolü uygulaması yaptırır.\n       Güvenli oturum yönetimi açıklanır.\n       Güvenli oturum yönetimi uygulaması yaptırır.\n       Güvenli dizayn bileşenleri açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli kodlama teknikleri",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
       "KAZANIM": "Güvenli kodlama tekniklerini uygular.\nGüvenli kodlama teknikleri açıklanır.\n       Girdi denetimi yöntemleri açıklanır.\n       Güvenli girdi kontrolü uygulaması yaptırır.\n       Güvenli oturum yönetimi açıklanır.\n       Güvenli oturum yönetimi uygulaması yaptırır.\n       Güvenli dizayn bileşenleri açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli web servisi ve AJAX",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
       "KAZANIM": "1. Dönem 1. Sınav Güvenli kod inceleme uygulaması yapar.\nKod analizi temelleri açıklanır.\n       Kod analizi araçları açıklanır.\n       Kod analizi araçları ile uygulama yaptırır.\n       Kodu tekrar gözden geçirme uygulaması yaptırır."
     },
     {
+      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "3",
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli web servisi ve AJAX",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
       "KAZANIM": "Güvenli kod inceleme uygulaması yapar.\nKod analizi temelleri açıklanır.\n       Kod analizi araçları açıklanır.\n       Kod analizi araçları ile uygulama yaptırır.\n       Kodu tekrar gözden geçirme uygulaması yaptırır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli web servisi ve AJAX",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
       "KAZANIM": "Güvenli kod inceleme uygulaması yapar.\nKod analizi temelleri açıklanır.\n       Kod analizi araçları açıklanır.\n       Kod analizi araçları ile uygulama yaptırır.\n       Kodu tekrar gözden geçirme uygulaması yaptırır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli YAZILIM geliştirme yaşam döngüsü",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
       "KAZANIM": "Web     Servisi     ve     AJAX     zafiyetlerinde alınabilecek önlemleri açıklar.\nWeb servisi zafiyetleri ve alınabilecek önlemler açıklanır.\n       AJAX zafiyetleri ve alınabilecek önlemler açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli YAZILIM geliştirme yaşam döngüsü",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
       "KAZANIM": "Web     Servisi     ve     AJAX     zafiyetlerinde alınabilecek önlemleri açıklar.\nWeb servisi zafiyetleri ve alınabilecek önlemler açıklanır.\n       AJAX zafiyetleri ve alınabilecek önlemler açıklanır."
     },
     {
+      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "3",
-      "ÜNİTE": "Güvenli YAZILIM\nGeliştirme Teknikleri",
       "KONU": "Güvenli YAZILIM geliştirme yaşam döngüsü",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
       "KAZANIM": "Web     Servisi     ve     AJAX     zafiyetlerinde alınabilecek önlemleri açıklar.\nWeb servisi zafiyetleri ve alınabilecek önlemler açıklanır.\n       AJAX zafiyetleri ve alınabilecek önlemler açıklanır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "Güvenli YAZILIM geliştirme",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
       "KAZANIM": "YAZILIM güvenliğini sağlama yöntemlerini açıklar.\nYAZILIM güvenliğinin önemi tanımlanır.\n       YAZILIM güvenliğinde uyulması gereken temel ilkeler açıklanır.\n       Uluslararası YAZILIM güvenliği standartlarını açıklar.\n       YAZILIM güvenliğini artırmak için kullanılan temel yöntemler açıklanır.\n       YAZILIM çalışma ortamı güvenliğini sağlayan yöntemler açıklanır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "Güvenli YAZILIM geliştirme",
       "KAZANIM": "YAZILIM güvenliğini sağlama yöntemlerini açıklar.\nYAZILIM güvenliğinin önemi tanımlanır.\n       YAZILIM güvenliğinde uyulması gereken temel ilkeler açıklanır.\n       Uluslararası YAZILIM güvenliği standartlarını açıklar.\n       YAZILIM güvenliğini artırmak için kullanılan temel yöntemler açıklanır.\n       YAZILIM çalışma ortamı güvenliğini sağlayan yöntemler açıklanır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "Güvenli YAZILIM geliştirme",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
       "KAZANIM": "1. Dönem 2. Sınav YAZILIM güvenliğini sağlama yöntemlerini açıklar.\nYAZILIM güvenliğinin önemi tanımlanır.\n       YAZILIM güvenliğinde uyulması gereken temel ilkeler açıklanır.\n       Uluslararası YAZILIM güvenliği standartlarını açıklar.\n       YAZILIM güvenliğini artırmak için kullanılan temel yöntemler açıklanır.\n       YAZILIM çalışma ortamı güvenliğini sağlayan yöntemler açıklanır."
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "3",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "KAZANIM": "Etkinlik Haftası"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "3",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "3",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "Güvenli YAZILIM geliştirme",
       "KAZANIM": "YAZILIM güvenliğini sağlama yöntemlerini açıklar.\nYAZILIM güvenliğinin önemi tanımlanır.\n       YAZILIM güvenliğinde uyulması gereken temel ilkeler açıklanır.\n       Uluslararası YAZILIM güvenliği standartlarını açıklar.\n       YAZILIM güvenliğini artırmak için kullanılan temel yöntemler açıklanır.\n       YAZILIM çalışma ortamı güvenliğini sağlayan yöntemler açıklanır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "Kimlik doğrulama",
       "KAZANIM": "YAZILIM güvenliğinde kimlik doğrulamayı açıklar.\nKimlik doğrulama çeşitleri açıklanır.\n       Kimlik doğrulamada kullanılan kaba kuvvet saldırıları önleme algoritmalarını açıklanır.\n       Güvenli CAPTCHA kullanımı örneklerle açıklanır.\n       Yetkilendirme yöntemleri açıklanır.\n       Eksik yetkilendirme kontrolleri açıklanır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "Kimlik doğrulama",
       "KAZANIM": "YAZILIM güvenliğinde kimlik doğrulamayı açıklar.\nKimlik doğrulama çeşitleri açıklanır.\n       Kimlik doğrulamada kullanılan kaba kuvvet saldırıları önleme algoritmalarını açıklanır.\n       Güvenli CAPTCHA kullanımı örneklerle açıklanır.\n       Yetkilendirme yöntemleri açıklanır.\n       Eksik yetkilendirme kontrolleri açıklanır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "Kimlik doğrulama",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
       "KAZANIM": "YAZILIM güvenliğinde kimlik doğrulamayı açıklar.\nKimlik doğrulama çeşitleri açıklanır.\n       Kimlik doğrulamada kullanılan kaba kuvvet saldırıları önleme algoritmalarını açıklanır.\n       Güvenli CAPTCHA kullanımı örneklerle açıklanır.\n       Yetkilendirme yöntemleri açıklanır.\n       Eksik yetkilendirme kontrolleri açıklanır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "Kimlik doğrulama",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
       "KAZANIM": "YAZILIM güvenliğinde kimlik doğrulamayı açıklar.\nKimlik doğrulama çeşitleri açıklanır.\n       Kimlik doğrulamada kullanılan kaba kuvvet saldırıları önleme algoritmalarını açıklanır.\n       Güvenli CAPTCHA kullanımı örneklerle açıklanır.\n       Yetkilendirme yöntemleri açıklanır.\n       Eksik yetkilendirme kontrolleri açıklanır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "YAZILIM güvenliği yöntemleri",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
       "KAZANIM": "Güvenli YAZILIM geliştirme uygulaması yapar.\nGüvenli web uygulaması yaptırır.\n       Güvenli mobil uygulama yaptırır.\n       Güvenli IoT uygulaması yaptırır."
     },
     {
+      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "3",
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "YAZILIM güvenliği yöntemleri",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
       "KAZANIM": "Güvenli YAZILIM geliştirme uygulaması yapar.\nGüvenli web uygulaması yaptırır.\n       Güvenli mobil uygulama yaptırır.\n       Güvenli IoT uygulaması yaptırır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "YAZILIM güvenliği yöntemleri",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
       "KAZANIM": "Güvenli YAZILIM geliştirme uygulaması yapar.\nGüvenli web uygulaması yaptırır.\n       Güvenli mobil uygulama yaptırır.\n       Güvenli IoT uygulaması yaptırır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "YAZILIM güvenliği yöntemleri",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
       "KAZANIM": "2. Dönem 1. Sınav Güvenli YAZILIM geliştirme uygulaması yapar.\nGüvenli web uygulaması yaptırır.\n       Güvenli mobil uygulama yaptırır.\n       Güvenli IoT uygulaması yaptırır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "YAZILIM testleri",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
       "KAZANIM": "Güvenli YAZILIM hazırlamada kullanılan test tekniklerini ile uygulama güvenlik testi yapar.\nYAZILIM güvenliği testindeki güvenlik isterleri açıklanır.\n       YAZILIM güvenliği test çeşitleri açıklanır.\n       YAZILIM güvenlik test araçları açıklanır.\n       YAZILIM güvenlik test araçları ile uygulama yaptırır.\n       Etkileşimli uygulama güvenliği testi açıklanır.\n       Etkileşimli uygulama güvenliği testi yaptırır.\n       Statik kod analizi yaptırır.\n       Dinamik kod analizi yaptırır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "YAZILIM testleri",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
       "KAZANIM": "Güvenli YAZILIM hazırlamada kullanılan test tekniklerini ile uygulama güvenlik testi yapar.\nYAZILIM güvenliği testindeki güvenlik isterleri açıklanır.\n       YAZILIM güvenliği test çeşitleri açıklanır.\n       YAZILIM güvenlik test araçları açıklanır.\n       YAZILIM güvenlik test araçları ile uygulama yaptırır.\n       Etkileşimli uygulama güvenliği testi açıklanır.\n       Etkileşimli uygulama güvenliği testi yaptırır.\n       Statik kod analizi yaptırır.\n       Dinamik kod analizi yaptırır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "YAZILIM testleri",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
       "KAZANIM": "Güvenli YAZILIM hazırlamada kullanılan test tekniklerini ile uygulama güvenlik testi yapar.\nYAZILIM güvenliği testindeki güvenlik isterleri açıklanır.\n       YAZILIM güvenliği test çeşitleri açıklanır.\n       YAZILIM güvenlik test araçları açıklanır.\n       YAZILIM güvenlik test araçları ile uygulama yaptırır.\n       Etkileşimli uygulama güvenliği testi açıklanır.\n       Etkileşimli uygulama güvenliği testi yaptırır.\n       Statik kod analizi yaptırır.\n       Dinamik kod analizi yaptırır."
     },
     {
+      "ÜNİTE": "YAZILIM Güvenliği",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "3",
-      "ÜNİTE": "YAZILIM Güvenliği",
       "KONU": "YAZILIM testleri",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
       "KAZANIM": "Güvenli YAZILIM hazırlamada kullanılan test tekniklerini ile uygulama güvenlik testi yapar.\nYAZILIM güvenliği testindeki güvenlik isterleri açıklanır.\n       YAZILIM güvenliği test çeşitleri açıklanır.\n       YAZILIM güvenlik test araçları açıklanır.\n       YAZILIM güvenlik test araçları ile uygulama yaptırır.\n       Etkileşimli uygulama güvenliği testi açıklanır.\n       Etkileşimli uygulama güvenliği testi yaptırır.\n       Statik kod analizi yaptırır.\n       Dinamik kod analizi yaptırır."
     },
     {
+      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "3",
-      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "KONU": "Web güvenliği uygulamaları",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
       "KAZANIM": "Web uygulama güvenliğini açıklar.\nWeb uygulama güvenliğinin önemi açıklanır.\n       Web uygulama güvenliği temel ilkeleri açıklanır.\n       Web sızma teknikleri açıklanır."
     },
     {
+      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "3",
-      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "KONU": "Web güvenliği uygulamaları",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
       "KAZANIM": "Web uygulama güvenliğini açıklar.\nWeb uygulama güvenliğinin önemi açıklanır.\n       Web uygulama güvenliği temel ilkeleri açıklanır.\n       Web sızma teknikleri açıklanır."
     },
     {
+      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "3",
-      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "KONU": "Web uygulama güvenliği",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
       "KAZANIM": "Web uygulama güvenliği için test ortamının kurulumunu yapar.\nWeb uygulama güvenliği için test ortamının kurulumunu yaptırır.\n       Web uygulama güvenliği test ortamını yapılandırır."
     },
     {
+      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "3",
-      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "KONU": "Web uygulama güvenliği",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
       "KAZANIM": "2. Dönem 2. Sınav Web uygulama güvenliği için test ortamının kurulumunu yapar.\nWeb uygulama güvenliği için test ortamının kurulumunu yaptırır.\n       Web uygulama güvenliği test ortamını yapılandırır."
     },
     {
+      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "3",
-      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "KONU": "Web uygulama güvenliği test ortamı kurulumu",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
       "KAZANIM": "Web    ortamının    güvenliği    için    araçlar kullanarak test yapar.\nSQL Injection uygulaması yaptırır.\n       Cross Site Scripting XSS uygulamaları yaptırır.\n       Insecure Direct Object References IDOR uygulaması geliştirir.\n       Command Execution uygulaması yaptırır.\n       CSRF uygulaması yaptırır.\n       File Inclusion uygulaması yaptırır.\n       Brute force atağı yaptırır."
     },
     {
+      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "3",
-      "ÜNİTE": "Açık Web Uygulama Güvenliği",
       "KONU": "Web uygulama güvenliği test ortamı kurulumu",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Web    ortamının    güvenliği    için    araçlar kullanarak test yapar.\nSQL Injection uygulaması yaptırır.\n       Cross Site Scripting XSS uygulamaları yaptırır.\n       Insecure Direct Object References IDOR uygulaması geliştirir.\n       Command Execution uygulaması yaptırır.\n       CSRF uygulaması yaptırır.\n       File Inclusion uygulaması yaptırır.\n       Brute force atağı yaptırır."
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "3",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Etkinlik Haftası"

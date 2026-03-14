@@ -3,369 +3,369 @@
   "ders": "İZABE ATÖLYESİ̇ 10 (METALURJ)(YEN*)",
   "plan": [
     {
+      "ÜNİTE": "Kömür Hazırlama",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "8",
-      "ÜNİTE": "Kömür Hazırlama",
       "KONU": "1. Kömürü cinslerine göre ayırma",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
       "KAZANIM": "Taş kömürden numune alarak karbon oranını ve uçuculuk oranını tayin edip uçuculuk oranına göre stoklayarak cinslerine göre ayırır.\nStok edilecek kömürden numune alınarak uçuculuk oranlarının belirlenmesi sağlanır.\n       Kömürde karbon oranı tayininin yapılması sağlanır.\n       Kömürü stoklanması sağlanır."
     },
     {
+      "ÜNİTE": "Kömür Hazırlama",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "8",
-      "ÜNİTE": "Kömür Hazırlama",
       "KONU": "2. Kömürün kırıcılara sevkini yapma",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
       "KAZANIM": "Cinslerine ayırdığı taş kömürünü kırıcılara sevk eder.\nKömürlerin karbon oranlarına göre kömür silolarına doldurulması sağlanır.\n       Kömürün tartılarak kırıcılarda kırılması sağlanır."
     },
     {
+      "ÜNİTE": "Kömür Hazırlama",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "8",
-      "ÜNİTE": "Kömür Hazırlama",
       "KONU": "3. Kömürü silolara doldurma",
       "KAZANIM": "Kırıcılarda parçalanan taş kömürünü özelliklerine göre silolara doldurur.\nKırıcılarda taş kömürünü kırılması sağlanır\n       Kırılmış kömürü bantlarla özelliklerine göre farklı silolara doldurulması sağlanır."
     },
     {
+      "ÜNİTE": "Kömürün Depolanması",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "8",
-      "ÜNİTE": "Kömürün Depolanması",
       "KONU": "1. Şarj kömürünü silolara doldurma",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
       "KAZANIM": "Şarj edilecek kömürlerin yüzdeliklerini belirler ve kömürü homojen hale getirip silolara doldurur.\nŞarj edilecek kömürlerin yüzdeliklerini belirlemesi sağlanır.\n       Kömürü taşıyacak bantların hızını ayarlaması sağlanır.\n       Kömürü mikserde homojen hale getirip silolara doldurulması sağlanır."
     },
     {
+      "ÜNİTE": "Kömürün Depolanması",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "8",
-      "ÜNİTE": "Kömürün Depolanması",
       "KONU": "2. Şarj malzemesini kok kamaralarına doldurma",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
       "KAZANIM": "Şarj malzemesini kok kamaralarına doldurur.\nŞarj arabalarıyla kamaraların doldurulması sağlanır.\n       Kamaraların üzerindeki şarj deliklerinin açılması sağlanır.\n       Gaz kanalı oluşturmak için süngüleme işlemi yapılması sağlanır."
     },
     {
+      "ÜNİTE": "Kömürün Fiziki Testleri",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "8",
-      "ÜNİTE": "Kömürün Fiziki Testleri",
       "KONU": "1.   Yığın ağırlığı testi yapma",
       "KAZANIM": "Yığın ağırlık test cihazını hazırlayarak taş kömürüne yığın ağırlığı testi yapar.\nYığın ağırlık test cihazını hazırlanması sağlanır.\n       Test yapılacak yığından numune alınması sağlanır.\n       Yığın ağırlığının bulunmasını sağlanır."
     },
     {
+      "ÜNİTE": "Kömürün Fiziki Testleri",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "8",
-      "ÜNİTE": "Kömürün Fiziki Testleri",
       "KONU": "2.   Elek analizi testi yapma",
       "KAZANIM": "Elek analiz cihazını hazırlayarak elek analiz testini yapar.\nElek analizi için kömürden numune alması sağlanır.\n       Elek analiz cihazının hazırlanması sağlanır.\n       Elek üzerinde kalan kömürü tarttırarak toplam kömüre oranlamasının yapılması sağlanır."
     },
     {
+      "ÜNİTE": "Kömür Analizleri",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "8",
-      "ÜNİTE": "Kömür Analizleri",
       "KONU": "1.   Rutubet analizi yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
       "KAZANIM": "Kömür ve kok kömüründe rutubet analizi yapar.\nRutubet analizi için kömürden numune alınması sağlanır.\n       Numuneyi etüvde kurutularak kurutma öncesi ve sonrasında tartılması sağlanır.\n       Kömürdeki nem oranı hesabını yapması sağlanır."
     },
     {
+      "ÜNİTE": "Kömür Analizleri",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "8",
-      "ÜNİTE": "Kömür Analizleri",
       "KONU": "2.   Kok kömürüne stabilite testi yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
       "KAZANIM": "1. Dönem 1. Sınav  Taş kömüründen ürettiği kok kömürüne stabilite testi yapar.\nKok kömürüne stabilite testi için kömürden numune alması sağlanır.\n       Stabilite tamburuna kok kömürü doldurularak tamburun çalıştırılması sağlanır.\n       Elek üstünde kalan koku toplam koka oranlaması sağlanır."
     },
     {
+      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "8",
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
+      "ÜNİTE": "Kömür Analizleri",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "8",
-      "ÜNİTE": "Kömür Analizleri",
       "KONU": "3.   Kükürt tayini yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
       "KAZANIM": "Kömür ve kok kömüründeki kükürt oranını saptar.\nKükürt tayini yapılacak kok kömüründen numune alınarak 1351o C deki fırına koyulması sağlanır.\n       Fırında açığa çıkan kükürdü oksijenle birleştirerek kükürtdiokside SO2  dönüştürülmesi sağlanır.\n       Detektörle kükürt miktarının ölçülmesi sağlanır."
     },
     {
+      "ÜNİTE": "Kamaraların Çalıştırılması",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "8",
-      "ÜNİTE": "Kamaraların Çalıştırılması",
       "KONU": "1. Isıtma kamaralarını çalıştırma",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
       "KAZANIM": "Koklaşmayı sağlamak için ısıtma kamaralarını çalıştırır.\nKamaralara toz kömürü şarj edilmesi sağlanır.\n       Nozullara yüksek fırın veya kok gazı gönderilerek yakılması sağlanır."
     },
     {
+      "ÜNİTE": "Kamaraların Çalıştırılması",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "8",
-      "ÜNİTE": "Kamaraların Çalıştırılması",
       "KONU": "2. Koklaşmayı meydana getirme",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
       "KAZANIM": "Isıtma kamaralarındaki toz kömürü sıcaklık altında koklaştırır.\nKamaraları yeterli sıcaklığa kadar ısıtılması sağlanır.\n       Fırın içindeki toz kömürünün kapalı ortamda sıcaklık altında koklaştırılmasını yapılması sağlanır."
     },
     {
+      "ÜNİTE": "Kamaraların Çalıştırılması",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "8",
-      "ÜNİTE": "Kamaraların Çalıştırılması",
       "KONU": "2. Koklaşmayı meydana getirme",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
       "KAZANIM": "Isıtma kamaralarındaki toz kömürü sıcaklık altında koklaştırır.\nKamaraları yeterli sıcaklığa kadar ısıtılması sağlanır.\n       Fırın içindeki toz kömürünün kapalı ortamda sıcaklık altında koklaştırılmasını yapılması sağlanır."
     },
     {
+      "ÜNİTE": "Kamaraların Boşaltılması",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "8",
-      "ÜNİTE": "Kamaraların Boşaltılması",
       "KONU": "1.  İtme arabasıyla fırınları boşaltma",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
       "KAZANIM": "Isıtma fırınlarını itme arabasına boşaltır.\nİtme arabasını ve klavuz arabasının hazırlanması sağlanır.\n       Tamponu fırını itmek üzere hizalatarak fırın içindeki kokun söndürme arabasına boşaltılması sağlanır."
     },
     {
+      "ÜNİTE": "Kamaraların Boşaltılması",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "8",
-      "ÜNİTE": "Kamaraların Boşaltılması",
       "KONU": "2.  Kömüre soğutma işlemi yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
       "KAZANIM": "Kok kömürüne soğutma işlemi yapar.\nSöndürme arabasındaki kızgın kokunsöndürme kulesinde su ile soğutulması sağlanır.\n       Soğutulmuş koku kok rampasına boşaltılması sağlanır."
     },
     {
+      "ÜNİTE": "Demir cevherinin Zenginleştirilmesi",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "8",
-      "ÜNİTE": "Demir cevherinin Zenginleştirilmesi",
       "KONU": "1.   Demir cevheri kırma işlemleri",
       "KAZANIM": "Demir cevherini kırar.\nCevheri çubuk eleklere sevk ettirerek elenmesi sağlanır.\n       Cevheri kırıcıda kırılması sağlanır.\n       Kırılan cevherin uygun yerde stoklanması sağlanır."
     },
     {
+      "ÜNİTE": "Demir cevherinin Zenginleştirilmesi",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "8",
-      "ÜNİTE": "Demir cevherinin Zenginleştirilmesi",
       "KONU": "2.   Demir cevheri öğütülme işlemleri",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
       "KAZANIM": "1. Dönem 2. Sınav  Demir cevherini öğütür.\nDeğirmenlerde demir cevherini öğütülmesini sağlar.\n       Öğütülen demir cevherinin stoklanmasını sağlar."
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "8",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "KAZANIM": "Etkinlik Haftası"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "8",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "8",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Sinter Üretimi",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "8",
-      "ÜNİTE": "Sinter Üretimi",
       "KONU": "1. Sinterlenecek malzemeleri hazırlama",
       "KAZANIM": "Sinterlenecek malzemeleri hazırlar.\nUygun boyut ve bileşimdeki toz cevheri hazırlanmasını sağlar.\n       İri koku kırıcılarda kırılmasını sağlar.\n       İnce koku silolara doldurulmasını sağlar.\n       Kireç taşı ve dolomitin silolara doldurulmasını sağlar. Artık  maddeleri  çelikhane  cürufu  baca  tozu  tufal ayrı ayrı silolara doldurulmasını sağlar"
     },
     {
+      "ÜNİTE": "Sinter Üretimi",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "8",
-      "ÜNİTE": "Sinter Üretimi",
       "KONU": "2. Sinter hammaddesi hazırlama",
       "KAZANIM": "Sinter hammaddesi hazırlar.\nSinter malzemelerinin karıştırıcıda karıştırılmasını sağlar.\n       Hammaddede topaklanma meydana getirilmesi sağlanır.\n       Topaklanmış hammaddeyi sinter makinesine yüklenmesi sağlanır."
     },
     {
+      "ÜNİTE": "Sinter Üretimi",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "8",
-      "ÜNİTE": "Sinter Üretimi",
       "KONU": "3. Sinter hammaddesini pişirme",
       "KAZANIM": "Sinter hammaddesini pişirir.\nSinter  makinesine  yatak  malzemesi  serilmesi sağlanır.\n       Sinterleşmenin gerçekleşmesiiçin pişirilmesi sağlanır. Bloklar  halinde  dökülen  sinteri  sıcak  kırıcılara  sevk edilmesini sağlar."
     },
     {
+      "ÜNİTE": "Sinter Üretimi",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "8",
-      "ÜNİTE": "Sinter Üretimi",
       "KONU": "4. Sinterin yüksek fırına sevkini yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
       "KAZANIM": "Sinterin yüksek fırına sevkini yapar\nKırılmış sinteri sıcak elekte elenmesi sağlanır.\n       Elek üzerinde kalan sıcak sinteri dairesel soğutucularda soğutulması sağlanır.\n       Soğuyan  malzemeyi  soğuk  eleğe  alarak  ebatlarına göre ayırılması sağlanır."
     },
     {
+      "ÜNİTE": "Sinter Üretimi",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "8",
-      "ÜNİTE": "Sinter Üretimi",
       "KONU": "4. Sinterin yüksek fırına sevkini yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
       "KAZANIM": "Sinterin yüksek fırına sevkini yapar\nKırılmış sinteri sıcak elekte elenmesi sağlanır.\n       Elek üzerinde kalan sıcak sinteri dairesel soğutucularda soğutulması sağlanır.\n       Soğuyan  malzemeyi  soğuk  eleğe  alarak  ebatlarına göre ayırılması sağlanır."
     },
     {
+      "ÜNİTE": "Sinter Üretimi",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "8",
-      "ÜNİTE": "Sinter Üretimi",
       "KONU": "4. Sinterin yüksek fırına sevkini yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
       "KAZANIM": "Sinterin yüksek fırına sevkini yapar\nKırılmış sinteri sıcak elekte elenmesi sağlanır.\n       Elek üzerinde kalan sıcak sinteri dairesel soğutucularda soğutulması sağlanır.\n       Soğuyan  malzemeyi  soğuk  eleğe  alarak  ebatlarına göre ayırılması sağlanır."
     },
     {
+      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "8",
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
+      "ÜNİTE": "Kanal Yapma",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "8",
-      "ÜNİTE": "Kanal Yapma",
       "KONU": "1. Yüksek fırında ergimiş maden akış kanalı yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
       "KAZANIM": "Yüksek fırında ergimiş maden akış kanalı yapar.\nAşınmış kanalı kırıcı tabanca ile kırarak temizlenmesi sağlanır.\n   Kanal yapım harcını yere sererek sıkıştırma tabancası ile harcın sıkıştırılması sağlanır.\n   Kok gazı ile kanalın kurutulması sağlanır."
     },
     {
+      "ÜNİTE": "Kanal Yapma",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "8",
-      "ÜNİTE": "Kanal Yapma",
       "KONU": "2. Yüksek fırın akış kanalına sifon yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
       "KAZANIM": "Yüksek fırın akış kanalına sifon yapar.\nCüruf akış kanalını sıvı maden akış kanalından daha yükseğe yapılmasını sağlar.\n   Akış kanalı içine bir takoz koyularak üzerinin kanal yapım harcı ile sıkıştırılması sağlanır.\n   Yapılan kanalları ve sifonu kok gazı ile kurutularak döküme hazırlanması sağlanır."
     },
     {
+      "ÜNİTE": "Kanal Yapma",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "8",
-      "ÜNİTE": "Kanal Yapma",
       "KONU": "2. Yüksek fırın akış kanalına sifon yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
       "KAZANIM": "2. Dönem 1. Sınav  Yüksek fırın akış kanalına sifon yapar.\nCüruf akış kanalını sıvı maden akış kanalından daha yükseğe yapılmasını sağlar.\n   Akış kanalı içine bir takoz koyularak üzerinin kanal yapım harcı ile sıkıştırılması sağlanır.\n   Yapılan kanalları ve sifonu kok gazı ile kurutularak döküme hazırlanması sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "1. Yüksek fırına şarj malzemelerini yükleme",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
       "KAZANIM": "Yüksek fırına şarj malzemelerini yükler.\nŞarj malzemelerinin belirli bir sırayla yüksek fırına şarj edilmesi sağlanır.\n   Sıcak havanın tüyerlere gönderilmesi sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "2. Yüksek fırın şarj malzemesini ergitme",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
       "KAZANIM": "Yüksek fırın şarj malzemesini ergitir.\nYüksek fırın içinde kokun yanması sağlanır.\n   Fırın içinde oluşan yüksek sıcaklık ile demir cevherini ergitilmesi sağlanır.\n   Haznede biriken sıvı metali ve cürufu belirli aralıklarla döküm ağzından alınması sağlanır.\n   Sıvı metali torpidolara büyük pota doldurarak çelikhaneye veya pik makinesine sevk edilmesi sağlanır.\n   Sıvı cürufu granülasyon sistemine gönderilmesini sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "3. Yüksek fırın akış ağzını açma",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
       "KAZANIM": "Demirin seviyesini kontrol ettikten sonra matkap ile akış ağzını açar.\nSıvı ham demir seviye kontrolüyapılması sağlanır.\n   Akış ağzı matkabının hazırlanması sağlanır.\n   Yüksek fırın akış ağzına matkapla delik açılması sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "4. Yüksek fırın akış ağzını kapatmak",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
       "KAZANIM": "Yüksek fırın akış ağzını kapatır.\nSıvı ham demiri ve cürufu döküm ağzından alınması sağlanır.\n   Döküm ağzı kapatma çamurunu hazırlanarak döküm deliğinin çamur topu ile kapatılması sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "5. Pik üretimi yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
       "KAZANIM": "Torpidolarla sıvı cevheri pik makinesine götürür ve pik üretimi yapar.\nSıvı ham demiri torpidolarla pik makinesine sevkinin yapılması sağlanır.\n   Pik makinesi kalıplarını hazırlanması sağlanır.\n   Pik makinesinin çalıştırılması sağlanır.\n   Torpidodaki sıvı metali pik kalıplarına dökülmesi sağlanır.\n   Katılaşan piki stoklanması sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "5. Pik üretimi yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
       "KAZANIM": "Torpidolarla sıvı cevheri pik makinesine götürür ve pik üretimi yapar.\nSıvı ham demiri torpidolarla pik makinesine sevkinin yapılması sağlanır.\n   Pik makinesi kalıplarını hazırlanması sağlanır.\n   Pik makinesinin çalıştırılması sağlanır.\n   Torpidodaki sıvı metali pik kalıplarına dökülmesi sağlanır.\n   Katılaşan piki stoklanması sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "5. Pik üretimi yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
       "KAZANIM": "Torpidolarla sıvı cevheri pik makinesine götürür ve pik üretimi yapar.\nSıvı ham demiri torpidolarla pik makinesine sevkinin yapılması sağlanır.\n   Pik makinesi kalıplarını hazırlanması sağlanır.\n   Pik makinesinin çalıştırılması sağlanır.\n   Torpidodaki sıvı metali pik kalıplarına dökülmesi sağlanır.\n   Katılaşan piki stoklanması sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "5. Pik üretimi yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
       "KAZANIM": "2. Dönem 2. Sınav  Torpidolarla sıvı cevheri pik makinesine götürür ve pik üretimi yapar.\nSıvı ham demiri torpidolarla pik makinesine sevkinin yapılması sağlanır.\n   Pik makinesi kalıplarını hazırlanması sağlanır.\n   Pik makinesinin çalıştırılması sağlanır.\n   Torpidodaki sıvı metali pik kalıplarına dökülmesi sağlanır.\n   Katılaşan piki stoklanması sağlanır."
     },
     {
+      "ÜNİTE": "Ham Demir",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "8",
-      "ÜNİTE": "Ham Demir",
       "KONU": "5. Pik üretimi yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
       "KAZANIM": "Torpidolarla sıvı cevheri pik makinesine götürür ve pik üretimi yapar.\nSıvı ham demiri torpidolarla pik makinesine sevkinin yapılması sağlanır.\n   Pik makinesi kalıplarını hazırlanması sağlanır.\n   Pik makinesinin çalıştırılması sağlanır.\n   Torpidodaki sıvı metali pik kalıplarına dökülmesi sağlanır.\n   Katılaşan piki stoklanması sağlanır."
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "8",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Genel Tekrar"
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "8",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Etkinlik Haftası"

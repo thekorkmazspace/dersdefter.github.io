@@ -3,369 +3,369 @@
   "ders": "HEDEF TEMELL EĞİTİM (FİZİK 2)",
   "plan": [
     {
+      "ÜNİTE": "Fizik Bilimine GirişMadde ve Özellikleri",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "1",
-      "ÜNİTE": "Fizik Bilimine GirişMadde ve Özellikleri",
       "KONU": "Kütle ve Hacim Özkütle Dayanıklılık Adezyon kohezyon yüzey gerilimi ve kılcallık",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
       "KAZANIM": "9.1.1.1. Evrendeki olayların anlaşılmasında fizik biliminin önemini açıklar. 9.1.2.1. Fiziğin uygulama alanlarını alt dalları ve diğer disiplinlerle ilişkilendirir. 9.1.3.1. Fiziksel nicelikleri sınıflandırır. 9.1.4.1. Bilim araştırma merkezlerinin fizik bilimi için önemini açıklar. 9.2.1.1. Özkütleyi kütle ve hacimle ilişkilendirerek açıklar. 9.2.1.2. Günlük hayatta saf maddelerin ve karışımların özkütlelerinden faydalanılan durumlara örnekler verir. 9.2.2.1. Dayanıklılık kavramını açıklar. 9.2.3.1. Yapışma adezyon ve birbirini tutma kohezyon olaylarını örneklerle açıklar."
     },
     {
+      "ÜNİTE": "Hareket ve Kuvvet",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "1",
-      "ÜNİTE": "Hareket ve Kuvvet",
       "KONU": "Hareket Kavramları İvme Kavramı Kuvvet Kavramı Newtonın Hareket Yasaları Sürtünme Kuvveti",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
       "KAZANIM": "9.3.1.1. Cisimlerin hareketlerini sınıflandırır. 9.3.1.2. Konum alınan yol yer değiştirme sürat ve hız kavramlarını birbirleri ile ilişkilendirir. 9.3.1.3. Düzgün doğrusal hareket için konum hız ve zaman kavramlarını ilişkilendirir. 9.3.1.4. Ortalama hız kavramını açıklar. 9.3.1.5. İvme kavramını hızlanma ve yavaşlama olayları ile ilişkilendirir. 9.3.1.6. Bir cismin hareketini farklı referans noktalarına göre açıklar. 9.3.2.1. Kuvvet kavramını örneklerle açıklar. 9.3.3.1. Dengelenmiş kuvvetlerin etkisindeki cisimlerin hareket durumlarını örneklerle açıklar. 9.3.3.2. Kuvvet ivme ve kütle kavramları arasındaki ilişkiyi açıklar. 9.3.3.3. Etki-tepki kuvvetlerini örneklerle açıklar. 9.3.4.1. Sürtünme kuvvetinin bağlı olduğu değişkenleri analiz eder."
     },
     {
+      "ÜNİTE": "Enerji",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "1",
-      "ÜNİTE": "Enerji",
       "KONU": "İş enerji ve güç Enerji Çeşitleri ve Mekanik Enerji Enerji Korunumu Verim ve Enerji Kaynakları",
       "KAZANIM": "9.4.1.1. İş enerji ve güç kavramlarını birbirleriyle ilişkilendirir. 9.4.1.2. Mekanik iş ve mekanik güç ile ilgili hesaplamalar yapar. 9.4.2.1. Öteleme kinetik enerjisi yer çekimi potansiyel enerjisi ve esneklik potansiyel enerjisinin bağlı olduğu değişkenleri analiz eder. 9.4.3.1. Enerjinin bir biçimden diğer bir biçime mekanik ısı ışık ses gibi dönüşümünde toplam enerjinin korunduğu çıkarımını yapar. 9.4.3.2. Canlıların besinlerden kazandıkları enerji ile günlük aktiviteler için harcadıkları enerjiyi karşılaştırır. 9.4.4.1. Verim kavramını açıklar. 9.4.4.2. Örnek bir sistem veya tasarımın verimini artıracak öneriler geliştirir. 9.4.5.1. Yenilenebilir ve yenilenemez enerji kaynaklarını avantaj ve dezavantajları açısından değerlendirir."
     },
     {
+      "ÜNİTE": "Isı ve Sıcaklık",
       "AY": "EKİM",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "1",
-      "ÜNİTE": "Isı ve Sıcaklık",
       "KONU": "Isı ve Sıcaklık Kavramları Termometreler Isı Alışverişi Hâl Değişimi Isıl Denge Enerji İletim Yolları Genleşme",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
       "KAZANIM": "9.5.1.1. Isı sıcaklık ve iç enerji kavramlarını açıklar. 9.5.1.2. Termometre çeşitlerini kullanım amaçları açısından karşılaştırır. 9.5.1.3. Sıcaklık birimleri ile ilgili hesaplamalar yapar. 9.5.1.4. Öz ısı ve ısı sığası kavramlarını birbiriyle ilişkilendirir. 9.5.1.5. Isı alan veya ısı veren saf maddelerin sıcaklığında meydana gelen değişimin bağlı olduğu değişkenleri analiz eder. 9.5.2.1. Saf maddelerde hâl değişimi için gerekli olan ısı miktarının bağlı olduğu değişkenleri analiz eder. 9.5.3.1. Isıl denge kavramının sıcaklık farkı ve ısı kavramı ile olan ilişkisini analiz eder. 9.5.4.1. Enerji iletim yollarını örneklerle açıklar. 9.5.4.2. Katı maddedeki enerji iletim hızını etkileyen değişkenleri analiz eder. 9.5.4.3. Enerji tasarrufu için yaşam alanlarının yalıtımına yönelik tasarım yapar. 9.5.4.4. Hissedilen ve gerçek sıcaklık arasındaki farkın sebeplerini yorumlar. 9.5.4.5. Küresel ısınmaya karşı alınacak tedbirlere yönelik proje geliştirir. 9.5.5.1. Katı ve sıvılarda genleşme ve büzülme olaylarının günlük hayattaki etkilerini yorumlar."
     },
     {
+      "ÜNİTE": "Elektrostatik",
       "AY": "EKİM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "1",
-      "ÜNİTE": "Elektrostatik",
       "KONU": "Elektrik Yüklerinin Özellikleri ve Elektrikle Yüklenme Çeşitleri İletken ve Yalıtkanlarda Yük Dağılımı Elektriksel Kuvvet ve Elektrik Alan",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
       "KAZANIM": "9.6.1.1. Elektrikle yüklenme çeşitlerini örneklerle açıklar. 9.6.1.2. Elektriklenen iletken ve yalıtkan maddelerde yük dağılımlarını karşılaştırır. 9.6.1.3. Elektrik yüklü cisimler arasındaki etkileşimi açıklar. 9.6.1.4. Elektrik alan kavramını açıklar."
     },
     {
+      "ÜNİTE": "Elektrik ve Manyetizma",
       "AY": "EKİM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "1",
-      "ÜNİTE": "Elektrik ve Manyetizma",
       "KONU": "Elektrik Akımı ve Direnç Ohm Yasası ve Dirençlerin Bağlanması Üreteçler Elektrik Enerjisi Elektriksel Güç ve Lamba Parlaklıkları Mıknatıslar ve Manyetik Alan Akım ve Manyetik Alan",
       "KAZANIM": "10.1.1.1. Elektrik akımı direnç ve potansiyel farkı kavramlarını açıklar. 10.1.1.2. Katı bir iletkenin direncinin bağlı olduğu değişkenleri analiz eder. 10.1.2.1. Elektrik Akımı direnç ve potansiyel farkı arasındaki ilişkiyi analiz eder. 10.1.2.2. Üreteçlerin seri ve paralel bağlanma gerekçelerini açıklar. 10.1.2.3. Elektrik enerjisi ve elektriksel güç kavramlarını ilişkilendirir. 10.1.2.4. Elektrik akımının oluşturabileceği tehlikelere karşı alınması gereken sağlık ve güvenlik önlemlerini açıklar. 10.1.3.1. Mıknatısların oluşturduğu manyetik alanı ve özelliklerini açıklar. 10.1.4.1. Üzerinden akım geçen düz bir iletken telin oluşturduğu manyetik alanı etkileyen değişkenleri analiz eder. 10.1.4.2. Dünyanın manyetik alanının sonuçlarını açıklar."
     },
     {
+      "ÜNİTE": "Basınç ve Kaldırma Kuvveti",
       "AY": "EKİM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "1",
-      "ÜNİTE": "Basınç ve Kaldırma Kuvveti",
       "KONU": "Basınç Kavramı Katılarda Basınç ve Basınç Kuvveti Durgun Sıvılarda Basınç ve Basınç Kuvveti Pascal Prensibi Gaz Basıncı Atmosfer Basıncı ve Basınç Ölçen Aletler Akışkan Basıncı Bernoulli İlkesi Kaldırma Kuvveti",
       "KAZANIM": "10.2.2.1. Durgun akışkanlarda cisimlere etki eden kaldırma kuvvetinin basınç kuvveti farkından kaynaklandığını açıklar. 10.2.2.2. Kaldırma kuvvetiyle ilgili belirlediği günlük hayattaki problemlere kaldırma kuvveti veveya Bernoulli İlkesini kullanarak çözüm önerisi üretir."
     },
     {
+      "ÜNİTE": "Dalgalar",
       "AY": "EKİM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "1",
-      "ÜNİTE": "Dalgalar",
       "KONU": "Dalgalarda Temel Kavramlar ve Özellikleri Yay Dalgalarının Hızı ve Yansıması Yay Dalgalarının Farklı Ortamlara Geçişi ve Yay Dalgalarının Girişimi Su Dalgalarının Özellikleri ve Yansıması Su Dalgalarının Hızı ve Kırılması Ses Dalgaları Deprem Dalgaları",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
       "KAZANIM": "10.3.1.1. Titreşim dalga hareketi dalga boyu periyot frekans hız ve genlik kavramlarını açıklar. 10.3.1.2. Dalgaları taşıdığı enerjiye ve titreşim doğrultusuna göre sınıflandırır. 10.3.2.1. Atma ve periyodik dalga oluşturarak aralarındaki farkı açıklar. 10.3.2.2. Yaylarda atmanın yansımasını ve iletilmesini analiz eder. 10.3.3.1. Dalgaların ilerleme yönü dalga tepesi ve dalga çukuru kavramlarını açıklar. 10.3.3.2. Doğrusal ve dairesel su dalgalarının yansıma hareketlerini analiz eder. 10.3.3.3. Ortam derinliği ile su dalgalarının yayılma hızını ilişkilendirir. 10.3.3.4. Doğrusal su dalgalarının kırılma hareketini analiz eder. 10.3.4.1. Ses dalgaları ile ilgili temel kavramları örneklerle açıklar. 10.3.4.2. Ses dalgalarının tıp denizcilik sanat ve coğrafya alanlarında kullanımına örnekler verir. 10.3.5.1. Deprem dalgasını tanımlar. 10.3.5.2. Deprem kaynaklı can ve mal kayıplarını önlemeye yönelik çözüm önerileri geliştirir."
     },
     {
+      "ÜNİTE": "Optik",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "1",
-      "ÜNİTE": "Optik",
       "KONU": "Işık Işık Şiddeti Işık Akısı ve Aydınlanma Şiddeti Gölge Işığın Yansıması ve Düzlem Aynalar Küresel Aynaların Özellikleri ve Küresel Aynalarda Özel Işınlar Küresel Aynalarda Görüntü Oluşumu",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
       "KAZANIM": "1. Dönem 1. Sınav 10.4.1.1. Işığın davranış modellerini açıklar. 10.4.1.2. Işık şiddeti ışık akısı ve aydınlanma şiddeti kavramları arasında ilişki kurar. 10.4.2.1. Saydam yarı saydam ve saydam olmayan maddelerin ışık geçirme özelliklerini açıklar. 10.4.3.1. Işığın yansımasını su dalgalarında yansıma olayıyla ilişkilendirir. 10.4.4.1. Düzlem aynada görüntü oluşumunu açıklar. 10.4.5.1. Küresel aynalarda odak noktası merkez tepe noktası ve asal eksen kavramlarını açıklar. 10.4.5.2. Küresel aynalarda görüntü oluşumunu ve özelliklerini açıklar."
     },
     {
+      "ÜNİTE": "Ara Tatil",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "1",
-      "ÜNİTE": "Ara Tatil",
       "KONU": "Ara Tatil",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
       "KAZANIM": "Ara Tatil"
     },
     {
+      "ÜNİTE": "Optik",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "1",
-      "ÜNİTE": "Optik",
       "KONU": "Işığın Kırılması Tam Yansıma Sınır Açısı ve Görünür Uzaklık Merceklerin Özellikleri ve Merceklerde Özel Işınlar Merceklerde Görüntü Oluşumu Işık Prizmaları Renk",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
       "KAZANIM": "10.4.6.1. İşığın kırılmasını su dalgalarında kırılma olayı ile ilişkilendirir. 10.4.6.2. Işığın tam yansıma olayını ve sınır açısını analiz eder. 10.4.6.3. Farklı ortamda bulunan bir cismin görünür uzaklığını etkileyen sebepleri açıklar. 10.4.7.1. Merceklerin özelliklerini ve mercek çeşitlerini açıklar. 10.4.7.2. Merceklerin oluşturduğu görüntünün özelliklerini açıklar. 10.4.8.1. Işık prizmalarının özelliklerini açıklar. 10.4.9.1. Cisimlerin renkli görülmesinin sebeplerini açıklar."
     },
     {
+      "ÜNİTE": "Kuvvet ve Hareket",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "1",
-      "ÜNİTE": "Kuvvet ve Hareket",
       "KONU": "Vektörler Bağıl Hareket",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
       "KAZANIM": "11.1.1.1. Vektörlerin özelliklerini açıklar. 11.1.1.2. İki ve üç boyutlu kartezyen koordinat sisteminde vektörleri çizer. 11.1.1.3. Vektörlerin bileşkelerini farklı yöntemleri kullanarak hesaplar. 11.1.1.4. Bir vektörün iki boyutlu kartezyen koordinat sisteminde bileşenlerini çizerek büyüklüklerini hesaplar. 11.1.2.1. Sabit hızlı iki cismin hareketini birbirine göre yorumlar. 11.1.2.2. Hareketli bir ortamdaki sabit hızlı cisimlerin hareketini farklı gözlem çerçevelerine göre yorumlar. 11.1.2.3. Bağıl hareket ile ilgili hesaplamalar yapar."
     },
     {
+      "ÜNİTE": "Kuvvet ve Hareket",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "1",
-      "ÜNİTE": "Kuvvet ve Hareket",
       "KONU": "Newtonın Hareket Yasaları Net Kuvvetin Hesaplanması Newtonın Hareket Yasaları Net Kuvvet Etkisindeki Cisimlerin Hareketi Bir Boyutta Sabit İvmeli Hareket Serbest Düşme ve Hava Direnç Kuvveti Bir Boyutta Yukarı veya Aşağı Atılan Cisimlerin Hareketi",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
       "KAZANIM": "11.1.3.1. Net kuvvetin yönünü belirleyerek büyüklüğünü hesaplar. 11.1.3.2. Net kuvvet etkisindeki cismin hareketi ile ilgili hesaplamalar yapar. 11.1.4.1. Bir boyutta sabit ivmeli hareketi analiz eder. 11.1.4.2. Bir boyutta sabit ivmeli hareket ile ilgili hesaplamalar yapar. 11.1.4.3. Hava direncinin ihmal edildiği ortamda düşen cisimlerin hareketlerini analiz eder. 11.1.4.4. Düşen cisimlere etki eden hava direnç kuvvetinin bağlı olduğu değişkenleri analiz eder. 11.1.4.5. Limit hız kavramını açıklar. 11.1.4.6. Düşey doğrultuda ilk hızı olan ve sabit ivmeli hareket yapan cisimlerin hareketlerini analiz eder."
     },
     {
+      "ÜNİTE": "Kuvvet ve Hareket",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "1",
-      "ÜNİTE": "Kuvvet ve Hareket",
       "KONU": "Yatay Atış Eğik Atış İş Kavramı ve Enerji Türleri Enerji Korunumu",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
       "KAZANIM": "11.1.5.1. Atış hareketlerini yatay ve düşey boyutta analiz eder. 11.1.5.2. İki boyutta sabit ivmeli hareket ile ilgili hesaplamalar yapar. 11.1.6.1. Yapılan iş ile enerji arasındaki ilişkiyi analiz eder. 11.1.6.2. Cisimlerin hareketini mekanik enerjinin korunumunu kullanarak analiz eder. 11.1.6.3. Sürtünmeli yüzeylerde enerji korunumunu ve dönüşümlerini analiz eder."
     },
     {
+      "ÜNİTE": "Kuvvet ve Hareket",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "1",
-      "ÜNİTE": "Kuvvet ve Hareket",
       "KONU": "İtme ve Çizgisel Momentum Çizgisel Momentumun Korunumu Esnek Çarpışmalar Çizgisel Momentumun Korunumu Esnek Olmayan Çarpışmalar ve Patlamalar",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
       "KAZANIM": "11.1.7.1. İtme ve çizgisel momentum kavramlarını açıklar. 11.1.7.2. İtme ile çizgisel momentum değişimi arasında ilişki kurar. 11.1.7.3. Çizgisel momentumun korunumunu analiz eder. 11.1.7.4. Çizgisel momentumun korunumu ile ilgili hesaplamalar yapar."
     },
     {
+      "ÜNİTE": "Kuvvet ve Hareket",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "1",
-      "ÜNİTE": "Kuvvet ve Hareket",
       "KONU": "Tork Denge ve Denge Şartları Kütle ve Ağırlık Merkezi Basit Makineler",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
       "KAZANIM": "11.1.8.1. Tork kavramını açıklar. 11.1.8.2. Torkun bağlı olduğu değişkenleri analiz eder. 11.1.8.3. Tork ile ilgili hesaplamalar yapar. 11.1.9.1. Cisimlerin denge şartlarını açıklar. 11.1.9.2. Kütle merkezi ve ağırlık merkezi kavramlarını açıklar. 11.1.9.3. Kütle merkezi ve ağırlık merkezi ile ilgili hesaplamalar yapar. 11.1.10.1. Günlük hayatta kullanılan basit makinelerin işlevlerini açıklar. 11.1.10.2. Basit makineler ile ilgili hesaplamalar yapar. 11.1.10.3. Hayatı kolaylaştırmak amacıyla basit makinelerden oluşan güvenli bir sistem tasarlar."
     },
     {
+      "ÜNİTE": "Elektrik ve Manyetizma",
       "AY": "OCAK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "1",
-      "ÜNİTE": "Elektrik ve Manyetizma",
       "KONU": "Elektriksel Kuvvet Elektrik Alan Elektriksel Potansiyel Enerji ve Elektriksel Potansiyel Elektriksel Potansiyel Farkı ve Elektriksel İş",
       "KAZANIM": "11.2.1.1. Yüklü cisimler arasındaki elektriksel kuvveti etkileyen değişkenleri belirler. 11.2.1.2. Noktasal yük için elektrik alanı açıklar. 11.2.1.3. Noktasal yüklerde elektriksel kuvvet ve elektrik alanı ile ilgili hesaplamalar yapar. 11.2.2.1. Noktasal yükler için elektriksel potansiyel enerji elektriksel potansiyel elektriksel potansiyel farkı ve elektriksel iş kavramlarını açıklar. 11.2.2.2. Düzgün bir elektrik alan içinde iki nokta arasındaki potansiyel farkını hesaplar. 11.2.2.3. Noktasal yükler için elektriksel potansiyel enerji elektriksel potansiyel elektriksel potansiyel farkı ve elektriksel iş ile ilgili hesaplamalar yapar."
     },
     {
+      "ÜNİTE": "Elektrik ve Manyetizma",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "1",
-      "ÜNİTE": "Elektrik ve Manyetizma",
       "KONU": "Düzgün Elektrik Alan Sığa Kavramı ve Sığaçlar",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
       "KAZANIM": "1. Dönem 2. Sınav 11.2.3.1. Yüklü iletken ve paralel levhalar arasında oluşan elektrik alanı alan çizgilerini çizerek açıklar. 11.2.3.2. Yüklü iletken ve paralel levhalar arasında oluşan elektrik alanının bağlı olduğu değişkenleri analiz eder. 11.2.3.3. Yüklü parçacıkların düzgün elektrik alanındaki davranışını açıklar. 11.2.3.4. Sığa kapasite kavramını açıklar. 11.2.3.5. Sığanın bağlı olduğu değişkenleri analiz eder. 11.2.3.6. Yüklü levhaların özelliklerinden faydalanarak sığacın kondansatör işlevini açıklar."
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "1",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "KAZANIM": "Etkinlik Haftası"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "1",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "1",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Elektrik ve Manyetizma",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "1",
-      "ÜNİTE": "Elektrik ve Manyetizma",
       "KONU": "Manyetik Alan Düz Tele Etki Eden Manyetik Kuvvet ve Manyetik Kuvvetin Döndürme Etkisi Yüklü Parçacıkların Manyetik Alan İçindeki Hareketi",
       "KAZANIM": "11.2.4.1. Üzerinden akım geçen iletken düz bir telin çevresinde halkanın merkezinde ve akım makarasının bobin merkez ekseninde oluşan manyetik alanın şiddetini etkileyen değişkenleri analiz eder. 11.2.4.2. Üzerinden akım geçen iletken düz bir telin çevresinde halkanın merkezinde ve akım makarasının merkez ekseninde oluşan manyetik alan ile ilgili hesaplamalar yapar. 11.2.4.3. Üzerinden akım geçen iletken düz bir tele manyetik alanda etki eden kuvvetin yönünün ve şiddetinin bağlı olduğu değişkenleri analiz eder. 11.2.4.4. Manyetik alan içerisinde akım taşıyan dikdörtgen tel çerçeveye etki eden kuvvetlerin döndürme etkisini açıklar. 11.2.4.5. Yüklü parçacıkların manyetik alan içindeki hareketini analiz eder."
     },
     {
+      "ÜNİTE": "Elektrik ve Manyetizma",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "1",
-      "ÜNİTE": "Elektrik ve Manyetizma",
       "KONU": "Manyetik Akı ve İndüksiyon Akımı Öz İndüksiyon Akımı Lorentz Kuvveti ve Elektromotor Kuvveti",
       "KAZANIM": "11.2.4.6. Manyetik akı kavramını açıklar. 11.2.4.7. İndüksiyon akımını oluşturan sebeplere ilişkin çıkarım yapar. 11.2.4.8. Manyetik akı ve indüksiyon akımı ile ilgili hesaplamalar yapar. 11.2.4.9. Öz-indüksiyon akımının oluşum sebebini açıklar. 11.2.4.10. Yüklü parçacıkların manyetik alan ve elektrik alandaki davranışını açıklar. 11.2.4.11. Elektromotor kuvveti oluşturan sebeplere ilişkin çıkarım yapar."
     },
     {
+      "ÜNİTE": "Elektrik ve Manyetizma",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "1",
-      "ÜNİTE": "Elektrik ve Manyetizma",
       "KONU": "Alternatif Akım Transformatörler",
       "KAZANIM": "11.2.5.1. Alternatif akımı açıklar. 11.2.5.2. Alternatif ve doğru akımı karşılaştırır. 11.2.5.3. Alternatif ve doğru akım devrelerinde direncin bobinin ve sığacın davranışını açıklar. 11.2.5.4. İndüktans kapasitans rezonans ve empedans kavramlarını açıklar. 11.2.6.1. Transformatörlerin çalışma prensibini açıklar. 11.2.6.2. Transformatörlerin kullanım amaçlarını açıklar."
     },
     {
+      "ÜNİTE": "Çembersel Hareket",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "1",
-      "ÜNİTE": "Çembersel Hareket",
       "KONU": "Düzgün Çembersel Hareket Kavramları Merkezcil Kuvvet Virajlarda Emniyetli Dönüş Şartları Öteleme ve Dönme Hareketi Eylemsizlik Momenti ve Dönme Kinetik Enerjisi",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
       "KAZANIM": "12.1.1.1. Düzgün çembersel hareketi açıklar. 12.1.1.2. Düzgün çembersel harekette merkezcil kuvvetin bağlı olduğu değişkenleri analiz eder. 12.1.1.3. Düzgün çembersel hareket yapan cisimlerin hareketini analiz eder. 12.1.1.4. Yatay düşey eğimli zeminlerde araçların emniyetli dönüş şartları ile ilgili hesaplamalar yapar. 12.1.2.1. Öteleme ve dönme hareketini karşılaştırır. 12.1.2.2. Eylemsizlik momenti kavramını açıklar. 12.1.2.3. Dönme ve dönerek öteleme hareketi yapan cismin kinetik enerjisinin bağlı olduğu değişkenleri açıklar."
     },
     {
+      "ÜNİTE": "Çembersel Hareket",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "1",
-      "ÜNİTE": "Çembersel Hareket",
       "KONU": "Açısal Momentum",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
       "KAZANIM": "12.1.3.1. Açısal momentumun fiziksel bir nicelik olduğunu açıklar. 12.1.3.2. Açısal momentumu çizgisel momentum ile ilişkilendirerek açıklar. 12.1.3.3. Açısal momentumu torkla ilişkilendirir. 12.1.3.4. Açısal momentumun korunumunu günlük hayattan örneklerle açıklar."
     },
     {
+      "ÜNİTE": "Çembersel Hareket",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "1",
-      "ÜNİTE": "Çembersel Hareket",
       "KONU": "Kütle Çekim Kuvveti Kepler Kanunları",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
       "KAZANIM": "12.1.4.1. Kütle çekim kuvvetini açıklar. 12.1.4.2. Newtonın Hareket Kanunlarını kullanarak kütle çekim ivmesinin bağlı olduğu değişkenleri belirler. 12.1.4.3. Kütle çekim potansiyel enerjisini açıklar. 12.1.5.1. Kepler Kanunlarını açıklar."
     },
     {
+      "ÜNİTE": "Ara Tatil",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "1",
-      "ÜNİTE": "Ara Tatil",
       "KONU": "Ara Tatil",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
       "KAZANIM": "Ara Tatil"
     },
     {
+      "ÜNİTE": "Basit Harmonik Hareket",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "1",
-      "ÜNİTE": "Basit Harmonik Hareket",
       "KONU": "Basit Harmonik Hareket Kavramları Basit Sarkaç ve Yay Sarkacı",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
       "KAZANIM": "12.2.1.1. Basit harmonik hareketi düzgün çembersel hareketi kullanarak açıklar. 12.2.1.2. Basit harmonik harekette konumun zamana göre değişimini analiz eder. 12.2.1.3. Basit harmonik harekette kuvvet hız ve ivmenin konuma göre değişimi ile ilgili hesaplamalar yapar. 12.2.1.4. Yay sarkacı ve basit sarkaçta periyodun bağlı olduğu değişkenleri belirler. 12.2.1.5. Yay sarkacı ve basit sarkacın periyodu ile ilgili hesaplamalar yapar."
     },
     {
+      "ÜNİTE": "Dalga Mekaniği",
       "AY": "NİSAN",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "1",
-      "ÜNİTE": "Dalga Mekaniği",
       "KONU": "Su Dalgalarında Kırınım ve Girişim Işığın Çift Yarıkta Girişimi Işığın Tek Yarıkta Kırınımı Işığın Dalga Doğası ve Doppler Olayı Elektromanyetik Dalgalar",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
       "KAZANIM": "12.3.1.1. Su dalgalarında kırınım olayının dalga boyu ve yarık genişliği ile ilişkisini belirler. 12.3.1.2. Su dalgalarında girişim olayını açıklar. 12.3.1.3. Işığın çift yarıkta girişimine etki eden değişkenleri açıklar. 12.3.1.4. Işığın tek yarıkta kırınımına etki eden değişkenleri açıklar. 12.3.1.5. Kırınım ve girişim olaylarını inceleyerek ışığın dalga doğası hakkında çıkarım yapar. 12.3.1.6. Doppler olayının etkilerini ışık ve ses dalgalarından örneklerle açıklar. 12.3.2.1. Elektromanyetik dalgaların ortak özelliklerini açıklar. 12.3.2.2. Elektromanyetik spektrumu günlük hayattan örneklerle ilişkilendirerek açıklar."
     },
     {
+      "ÜNİTE": "Atom Fiziğine Giriş ve Radyoaktivite",
       "AY": "NİSAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "1",
-      "ÜNİTE": "Atom Fiziğine Giriş ve Radyoaktivite",
       "KONU": "Atom Modelleri Bohr Atom Teorisi ve Atomun Uyarılma Yolları Büyük Patlama Teorisi ve Atomaltı Parçacıklar",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
       "KAZANIM": "2. Dönem 1. Sınav 12.4.1.1. Atom kavramını açıklar. 12.4.1.2. Atomun uyarılma yollarını açıklar. 12.4.1.3. Modern atom teorisinin önemini açıklar. 12.4.2.1. Büyük patlama teorisini açıklar. 12.4.2.2. Atom altı parçacıkların özelliklerini temel düzeyde açıklar. 12.4.2.3. Madde oluşum sürecini açıklar. 12.4.2.4. Madde ve antimadde kavramlarını açıklar. 12.4.3.1. Kararlı ve kararsız durumdaki atomların özelliklerini karşılaştırır. 12.4.3.2. Radyoaktif bozunma sonucu atomun kütle numarası atom numarası ve enerjisindeki değişimi açıklar. 12.4.3.3. Nükleer fisyon ve füzyon olaylarını açıklar. 12.4.3.4. Radyasyonun canlılar üzerindeki etkilerini açıklar."
     },
     {
+      "ÜNİTE": "Atom Fiziğine Giriş ve Radyoaktivite",
       "AY": "NİSAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "1",
-      "ÜNİTE": "Atom Fiziğine Giriş ve Radyoaktivite",
       "KONU": "Radyoaktivite",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
       "KAZANIM": "12.4.3.1. Kararlı ve kararsız durumdaki atomların özelliklerini karşılaştırır. 12.4.3.2. Radyoaktif bozunma sonucu atomun kütle numarası atom numarası ve enerjisindeki değişimi açıklar. 12.4.3.3. Nükleer fisyon ve füzyon olaylarını açıklar. 12.4.3.4. Radyasyonun canlılar üzerindeki etkilerini açıklar."
     },
     {
+      "ÜNİTE": "Modern Fizik",
       "AY": "NİSAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "1",
-      "ÜNİTE": "Modern Fizik",
       "KONU": "Özel Görelilik Siyah Cisim Işıması ve Planck Hipotezi",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
       "KAZANIM": "12.5.1.1. Michelson-Morley deneyinin amacını ve sonuçlarını açıklar. 12.5.1.2. Einsteinin özel görelilik teorisinin temel postülalarını ifade eder. 12.5.1.3. Göreli zaman ve göreli uzunluk kavramlarını açıklar. 12.5.1.4. Kütle-enerji eşdeğerliğini açıklar. 12.5.2.1. Siyah cisim ışımasını açıklar."
     },
     {
+      "ÜNİTE": "Modern Fizik",
       "AY": "NİSAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "1",
-      "ÜNİTE": "Modern Fizik",
       "KONU": "Fotoelektrik Olay Fotoelektrik Olay Uygulamaları ve Kesme Gerilimi",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
       "KAZANIM": "12.5.3.1. Foton kavramını açıklar. 12.5.3.2. Fotoelektrik olayını açıklar. 12.5.3.3. Farklı metaller için maksimum kinetik enerji-frekans grafiğini çizer. 12.5.3.4. Fotoelektronların sahip olduğu maksimum kinetik enerji durdurma gerilimi ve metalin eşik enerjisi arasındaki matematiksel ilişkiyi açıklar. 12.5.3.5. Fotoelektrik olayın günlük hayattaki uygulamalarına örnekler verir. 12.5.3.6. Fotoelektrik olayla ilgili hesaplamalar yapar."
     },
     {
+      "ÜNİTE": "Modern Fizik",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "1",
-      "ÜNİTE": "Modern Fizik",
       "KONU": "Compton Saçılması ve De Broglie Dalga Boyu",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
       "KAZANIM": "12.5.4.1. Compton olayında foton ve elektron etkileşimini açıklar. 12.5.4.2. Compton ve fotoelektrik olaylarının benzer yönlerini belirterek ışığın tanecik doğası hakkında çıkarım yapar. 12.5.4.3. Işığın ikili doğasını açıklar. 12.5.4.4. Madde ve dalga arasındaki ilişkiyi açıklar."
     },
     {
+      "ÜNİTE": "Modern Fiziğin Teknolojideki Uygulamaları",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "1",
-      "ÜNİTE": "Modern Fiziğin Teknolojideki Uygulamaları",
       "KONU": "Görüntüleme Cihazları LCD ve Plazma Yarı İletken Teknolojisi",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
       "KAZANIM": "12.6.1.1. Görüntüleme cihazlarının çalışma prensiplerini açıklar. 12.6.1.2. LCD ve plazma teknolojilerinde fizik biliminin yerini açıklar. 12.6.2.1. Yarı iletken maddelerin genel özelliklerini açıklar. 12.6.2.2. Yarı iletken malzemelerin teknolojideki önemini açıklar. 12.6.2.3. LED teknolojisinin kullanıldığı yerlere örnekler verir. 12.6.2.4. Güneş pillerinin çalışma şeklini açıklar. 12.6.2.5. Günlük hayatı kolaylaştıran güneş pillerinin kullanıldığı sistem tasarlar."
     },
     {
+      "ÜNİTE": "Modern Fiziğin Teknolojideki Uygulamaları",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "1",
-      "ÜNİTE": "Modern Fiziğin Teknolojideki Uygulamaları",
       "KONU": "Süper İletkenler Nanoteknoloji LASER Işınları",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
       "KAZANIM": "12.6.3.1. Süper iletken maddenin temel özelliklerini açıklar. 12.6.3.2. Süper iletkenlerin teknolojideki kullanım alanlarına örnekler verir. 12.6.4.1. Nanobilimin temellerini açıklar. 12.6.4.2. Nanomalzemelerin temel özelliklerini açıklar. 12.6.4.3. Nanomalzemelerin teknolojideki kullanım alanlarına örnekler verir. 12.6.5.1. LASER ışınlarının elde edilişini açıklar. 12.6.5.2. LASER ışınlarının teknolojideki kullanım alanlarına örnekler verir."
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "1",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
       "KAZANIM": "Genel Tekrar"
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZİRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "1",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
       "KAZANIM": "2. Dönem 2. Sınav Genel Tekrar"
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZİRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "1",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
       "KAZANIM": "Genel Tekrar"
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZİRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "1",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Genel Tekrar"
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZİRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "1",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Etkinlik Haftası"

@@ -72,10 +72,10 @@
       "KAZANIM": "1. Dönem 1. Sınav Sistem bütünlüğüne uygun bellek birim çeşitlerini seçer.\nÇalışma standartlarına uygun bellek birimlerinin bakımını yapar. 10 KASIM - ATATÜRKÜN KİŞİLİĞİ VE İNKILAPLARI ATATÜRK HAFTASI"
     },
     {
+      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "6",
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
       "KAZANIM": "1. Dönem Ara Tatili"
@@ -144,26 +144,26 @@
       "KAZANIM": "1. Dönem 2. Sınav Sistemin düzgün çalışması için ilk açılış esnasında oluşabilecek hataları giderir."
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "6",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "KAZANIM": "Etkinlik Haftası"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "6",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "6",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
@@ -213,10 +213,10 @@
       "KAZANIM": "Dizüstü bilgisayarların RAM arızalarını giderir.\n18 Mart Çanakkale Zaferini ve yaşanan olayları söyleme. Atatürkün zaferdeki rolünü kavrama"
     },
     {
+      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "6",
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
       "KAZANIM": "2. Dönem Ara Tatili"
@@ -310,28 +310,28 @@
       "KAZANIM": "2. Dönem 2. Sınav Standartlara uygun olarak sunucu işletim sistemi sorunlarını giderir."
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "6",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
       "KAZANIM": "Etkinlik Haftası"
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "6",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Genel Tekrar"
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "6",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Etkinlik Haftası"

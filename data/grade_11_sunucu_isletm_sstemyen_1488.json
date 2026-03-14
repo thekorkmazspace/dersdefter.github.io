@@ -3,369 +3,369 @@
   "ders": "SUNUCU İŞLEṪM ṠSTEṀ(YEN*)",
   "plan": [
     {
+      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "KONU": "1.    Sunucu işletim sistemi seçimi",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
       "KAZANIM": "Sunucu   işletim   sistemi   gereksinimlerine   göre   sunucu işletim sistemini seçer.\nSunucu işletim sistemi kavramlarını ve gereksinimlere göre sistem seçimini yapar."
     },
     {
+      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "KONU": "1.    Sunucu işletim sistemi seçimi",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
       "KAZANIM": "Sunucu   işletim   sistemi   gereksinimlerine   göre   sunucu işletim sistemini seçer.\nSunucu işletim sistemi kavramlarını ve gereksinimlere göre sistem seçimini yapar."
     },
     {
+      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "KONU": "2.   Sunucu işletim sistemin kurulumu",
       "KAZANIM": "Yönergelere    göre    sunucu    işletim    sistemini    kurarak yapılandırır.\nSunucu işletim sistemini kurdurur.\n       İşletim sisteminin temel ayarlarını yapılandırır.\n       Yedekleme işlemini yaptırır.\n       Disk yapılandırmasını gerçekleşmesini sağlar."
     },
     {
+      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "KONU": "2.   Sunucu işletim sistemin kurulumu",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
       "KAZANIM": "Yönergelere    göre    sunucu    işletim    sistemini    kurarak yapılandırır.\nSunucu işletim sistemini kurdurur.\n       İşletim sisteminin temel ayarlarını yapılandırır.\n       Yedekleme işlemini yaptırır.\n       Disk yapılandırmasını gerçekleşmesini sağlar."
     },
     {
+      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu İşletim Sistemleri Kurulumu",
       "KONU": "2.   Sunucu işletim sistemin kurulumu",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
       "KAZANIM": "Yönergelere    göre    sunucu    işletim    sistemini    kurarak yapılandırır.\nSunucu işletim sistemini kurdurur.\n       İşletim sisteminin temel ayarlarını yapılandırır.\n       Yedekleme işlemini yaptırır.\n       Disk yapılandırmasını gerçekleşmesini sağlar."
     },
     {
+      "ÜNİTE": "Sanallaştırma",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
-      "ÜNİTE": "Sanallaştırma",
       "KONU": "1.     Sanal sunucu yönetimi",
       "KAZANIM": "Yönergelere göre sunucuyu yönetir."
     },
     {
+      "ÜNİTE": "Sanallaştırma",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "4",
-      "ÜNİTE": "Sanallaştırma",
       "KONU": "2.     Sanallaştırm a rolü Hyper- V kurulumu",
       "KAZANIM": "Yönergelere       göre       sanallaştırma       uygulamalarının kurulumunu yapar.\nHyper-V rolü kurulumunu yaptırır."
     },
     {
+      "ÜNİTE": "Sanallaştırma",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "4",
-      "ÜNİTE": "Sanallaştırma",
       "KONU": "3.   Sanallaştırm a uygulamaları nın gerçekleştiril mesi",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
       "KAZANIM": "Yönergelere       göre       sanallaştırma       uygulamalarının yapılandırmasını gerçekleştirir.\nHyper-V  ile  ağ  ayarları  sanal  anahtar  yapılandırmasını yapar.\n       Hyper-V ile sanal makine eylemlerini düzenler.\n       Hyper-V ile sanal makine ayarlarını gerçekleştirir.\n       Hyper-V   ile   sanal   sunucu   işletim   sistemi   kurulumunu gerçekleştirir.\n       Hyper-V ile  kurulan sanal  sunucuların  yapılandırılıması ve taşınması işlemlerini gerçekleştirir."
     },
     {
+      "ÜNİTE": "Sanallaştırma",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "4",
-      "ÜNİTE": "Sanallaştırma",
       "KONU": "3.   Sanallaştırm a uygulamaları nın gerçekleştiril mesi",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
       "KAZANIM": "1. Dönem 1. Sınav  Yönergelere       göre       sanallaştırma       uygulamalarının yapılandırmasını gerçekleştirir.\nHyper-V  ile  ağ  ayarları  sanal  anahtar  yapılandırmasını yapar.\n       Hyper-V ile sanal makine eylemlerini düzenler.\n       Hyper-V ile sanal makine ayarlarını gerçekleştirir.\n       Hyper-V   ile   sanal   sunucu   işletim   sistemi   kurulumunu gerçekleştirir.\n       Hyper-V ile  kurulan sanal  sunucuların  yapılandırılıması ve taşınması işlemlerini gerçekleştirir."
     },
     {
+      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "4",
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
+      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "KONU": "1.   Ağ ve paylaşım merkezinin kullanılması",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
       "KAZANIM": "Paylaşım ve güvenlik izinlerini yapılandırır.\nDosya ve klasör güvenliğini alır.\n       Dosya ve klasör paylaşımını yapabilir.\n       Paylaşım izinlerini düzenletir.\n       Paylaştırılmış klasörlere erişim yapar.\n       Yazıcıların paylaşımlarını yaptırır."
     },
     {
+      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "KONU": "2.     Yerel güvenlik duvarı yazılımını ve güvenlik ayarları",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
       "KAZANIM": "Yerel   güvenlik   duvarı   yazılımını   ve   güvenlik   ayarlarını yapılandırır.\nStandart güvenlik duvarı ayarlarını yapabilir.\n       Gelişmiş güvenlik duvarı ayarlarını yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "KONU": "3.    DHCPnin yönetilmesi",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
       "KAZANIM": "Yönergelere göre IP dağıtımı için DHCPi yapılandırır.\nAğ ortamında protokol olarak DHCP aşamalarını kavrar.\n       DHCP rolünün kurulumunu yapabilir.\n       DHCP IP kapsam aralığı yapılandırmasını gerçekleştirir.\n       İstemci bilgisayarlarda DHCP sunucusundan IP almak için otomatik ayar seçimi yapabilir.\n       İstemci komut satırı ile DHCP sunucusundan IP almak için ilgili komutları kullanır."
     },
     {
+      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "KONU": "4.   DNSin yönetilmesi",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
       "KAZANIM": "Sistem yönetimi için DNSi yapılandırır.\nDNS rolü kurulumunu yapar.\n       İleriye doğru birincil arama bölgeleri oluşturur.\n       DNS kayıt türlerini tanır.\n       Ana  bilgisayar  A  Kısa  ad  CNAME  ve  Mail  Exchanger MX kayıt türlerini oluşturabilir.\n       İstemci bilgisayarda DNS ayarlarını yapar.\n       İstemci bilgisayar komut satırında DNS işlemleri yapar.\n       İkincil bölge ve geriye doğru arama bölgeleri yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "KONU": "4.   DNSin yönetilmesi",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
       "KAZANIM": "Sistem yönetimi için DNSi yapılandırır.\nDNS rolü kurulumunu yapar.\n       İleriye doğru birincil arama bölgeleri oluşturur.\n       DNS kayıt türlerini tanır.\n       Ana  bilgisayar  A  Kısa  ad  CNAME  ve  Mail  Exchanger MX kayıt türlerini oluşturabilir.\n       İstemci bilgisayarda DNS ayarlarını yapar.\n       İstemci bilgisayar komut satırında DNS işlemleri yapar.\n       İkincil bölge ve geriye doğru arama bölgeleri yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Ağ Mimarisi",
       "KONU": "4.   DNSin yönetilmesi",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
       "KAZANIM": "Sistem yönetimi için DNSi yapılandırır.\nDNS rolü kurulumunu yapar.\n       İleriye doğru birincil arama bölgeleri oluşturur.\n       DNS kayıt türlerini tanır.\n       Ana  bilgisayar  A  Kısa  ad  CNAME  ve  Mail  Exchanger MX kayıt türlerini oluşturabilir.\n       İstemci bilgisayarda DNS ayarlarını yapar.\n       İstemci bilgisayar komut satırında DNS işlemleri yapar.\n       İkincil bölge ve geriye doğru arama bölgeleri yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Dizin Hizmeti Active Directory Yapısı",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Dizin Hizmeti Active Directory Yapısı",
       "KONU": "1.    Active Directory Kurulumu",
       "KAZANIM": "Yönergelere göre dizin hizmetini Active Directory kurar.\nActive Directory kavramlarını tanır.\n       Sunucu     işletim     sistemi     üzerinde     Active     Directory kurulumunu yapar.\n       İstemci   bilgisayarları   Active   Directory   etki   alanına   üye yapabilir"
     },
     {
+      "ÜNİTE": "Sunucu Dizin Hizmeti Active Directory Yapısı",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Dizin Hizmeti Active Directory Yapısı",
       "KONU": "2.     Active Directory Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
       "KAZANIM": "1. Dönem 2. Sınav  Sistem gereksinimlerine göre Active Directoryi yönetir.\nActive Directory kullanıcı ve grup hesapları oluşturur.\n       Active Directory yapısal birimlerini oluşturabilir."
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "KAZANIM": "Etkinlik Haftası"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Sunucu Dizin Hizmeti Active Directory Yapısı",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Dizin Hizmeti Active Directory Yapısı",
       "KONU": "3.   Grup Politikalarını n Düzenlenme si",
       "KAZANIM": "Yönergede  tanımlı  olan  ilkelere  göre  grup  politikalarını düzenler.\nGrup ilkesi nesnesi işlemlerini yaptırır.\n       Nesne ayarları raporu hazırlatır.\n       Sonuç kümelerini yapılandırır."
     },
     {
+      "ÜNİTE": "Sunucu Dizin Hizmeti Active Directory Yapısı",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Dizin Hizmeti Active Directory Yapısı",
       "KONU": "3.   Grup Politikalarını n Düzenlenme si",
       "KAZANIM": "Yönergede  tanımlı  olan  ilkelere  göre  grup  politikalarını düzenler.\nGrup ilkesi nesnesi işlemlerini yaptırır.\n       Nesne ayarları raporu hazırlatır.\n       Sonuç kümelerini yapılandırır."
     },
     {
+      "ÜNİTE": "Sunucu Rolleri",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Rolleri",
       "KONU": "1.     Web Sunucuları",
       "KAZANIM": "Kullanıcı izinlerine göre web sunucuyu yapılandırır.\nWeb sunucusu IIS rolü kurulumunu yapabilir.\n       Yönergelere göre web sunucusunu yapılandırabilir.\n       Varsayılan web sitesi ayarlarını gerçekleştirebilir.\n       Web sunucusuna yayımlanmak üzere yeni site ekletir.\n       Güvenli web yayınları gerçekleştirebilir.\n       Dosyalara erişim için göz atma siteleri oluşturabilir."
     },
     {
+      "ÜNİTE": "Sunucu Rolleri",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Rolleri",
       "KONU": "1.     Web Sunucuları",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
       "KAZANIM": "Kullanıcı izinlerine göre web sunucuyu yapılandırır.\nWeb sunucusu IIS rolü kurulumunu yapabilir.\n       Yönergelere göre web sunucusunu yapılandırabilir.\n       Varsayılan web sitesi ayarlarını gerçekleştirebilir.\n       Web sunucusuna yayımlanmak üzere yeni site ekletir.\n       Güvenli web yayınları gerçekleştirebilir.\n       Dosyalara erişim için göz atma siteleri oluşturabilir."
     },
     {
+      "ÜNİTE": "Sunucu Rolleri",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Rolleri",
       "KONU": "1.     Web Sunucuları",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
       "KAZANIM": "Kullanıcı izinlerine göre web sunucuyu yapılandırır.\nWeb sunucusu IIS rolü kurulumunu yapabilir.\n       Yönergelere göre web sunucusunu yapılandırabilir.\n       Varsayılan web sitesi ayarlarını gerçekleştirebilir.\n       Web sunucusuna yayımlanmak üzere yeni site ekletir.\n       Güvenli web yayınları gerçekleştirebilir.\n       Dosyalara erişim için göz atma siteleri oluşturabilir."
     },
     {
+      "ÜNİTE": "Sunucu Rolleri",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Rolleri",
       "KONU": "2.    Yazdırma Sunucusu Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
       "KAZANIM": "Yazdırma sunucusunu yapılandırır.\nYazdırma sunucusu rolü kurulumunu yapabilir.\n       İstemci bilgisayardan paylaştırılmış yazıcılara erişebilir.\n       Active   Directory   kullanıcılarına   paylaştırılmış   yazıcıları dağıtabilir.\n       İnternet üzerinden web yazıcılarını ekletip kullanabilir."
     },
     {
+      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "4",
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
+      "ÜNİTE": "Sunucu Rolleri",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Rolleri",
       "KONU": "2.    Yazdırma Sunucusu Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
       "KAZANIM": "Yazdırma sunucusunu yapılandırır.\nYazdırma sunucusu rolü kurulumunu yapabilir.\n       İstemci bilgisayardan paylaştırılmış yazıcılara erişebilir.\n       Active   Directory   kullanıcılarına   paylaştırılmış   yazıcıları dağıtabilir.\n       İnternet üzerinden web yazıcılarını ekletip kullanabilir."
     },
     {
+      "ÜNİTE": "Sunucu Rolleri",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Rolleri",
       "KONU": "2.    Yazdırma Sunucusu Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
       "KAZANIM": "Yazdırma sunucusunu yapılandırır.\nYazdırma sunucusu rolü kurulumunu yapabilir.\n       İstemci bilgisayardan paylaştırılmış yazıcılara erişebilir.\n       Active   Directory   kullanıcılarına   paylaştırılmış   yazıcıları dağıtabilir.\n       İnternet üzerinden web yazıcılarını ekletip kullanabilir."
     },
     {
+      "ÜNİTE": "Sunucu Hizmetleri",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Hizmetleri",
       "KONU": "1.    Dosya Hizmetleri Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
       "KAZANIM": "2. Dönem 1. Sınav  Kullanıcı ihtiyaçlarına göre dosya hizmetlerini yönetir.\nDosya ve depolama hizmetleri rolü kurulumunu yapar.\n       Dosya sunucusu kaynak yönetimini gerçekleştirir.\n       Dosya sunucusu kaynak kota yönetimi dosya filtreleme ve raporlama işlemlerini yaptırır.\n       Dağıtılmış dosya sistemi kurulumunu yaptırır.\n       Ağ  dosya  sistemi  için  ad  alanları  ve  çoğaltma  işlemlerini yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Hizmetleri",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Hizmetleri",
       "KONU": "1.    Dosya Hizmetleri Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
       "KAZANIM": "Kullanıcı ihtiyaçlarına göre dosya hizmetlerini yönetir.\nDosya ve depolama hizmetleri rolü kurulumunu yapar.\n       Dosya sunucusu kaynak yönetimini gerçekleştirir.\n       Dosya sunucusu kaynak kota yönetimi dosya filtreleme ve raporlama işlemlerini yaptırır.\n       Dağıtılmış dosya sistemi kurulumunu yaptırır.\n       Ağ  dosya  sistemi  için  ad  alanları  ve  çoğaltma  işlemlerini yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Hizmetleri",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Hizmetleri",
       "KONU": "2.    Uzak Masaüstü Hizmetleri Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
       "KAZANIM": "Kullanıcı  gereksinimlerine  göre  uzak  masaüstü  hizmetini yapılandırır.\nUzak   sunucu   bilgisayarda   masaüstü   bağlantı   izinlerini gerçekleştirir.\n       İstemci bilgisayardan uzak bilgisayara bağlantılar yapabilir.\n       Uzak masaüstü hizmeti kurulumunu gerçekleştirir.\n       Uzak masaüstü rol hizmetlerini yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Hizmetleri",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Hizmetleri",
       "KONU": "2.    Uzak Masaüstü Hizmetleri Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
       "KAZANIM": "Kullanıcı  gereksinimlerine  göre  uzak  masaüstü  hizmetini yapılandırır.\nUzak   sunucu   bilgisayarda   masaüstü   bağlantı   izinlerini gerçekleştirir.\n       İstemci bilgisayardan uzak bilgisayara bağlantılar yapabilir.\n       Uzak masaüstü hizmeti kurulumunu gerçekleştirir.\n       Uzak masaüstü rol hizmetlerini yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Hizmetleri",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Hizmetleri",
       "KONU": "3.     Dağırım Hizmetleri Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
       "KAZANIM": "Kullanılan  sistemin  ihtiyaçlarına  göre  dağıtım  hizmetlerini yapılandırır.\nDağıtım hizmetleri rolü kurulumunu yapabilir.\n       Yükleme yansıması oluşumunu sağlar.\n       Ön yükleme yansıması oluşumunu sağlar.\n       Dağıtım hizmetleri için DHCP sunucusu kapsam ayarlarını yapabilir.\n       Dağıtım   hizmetleri   ile   istemci   bilgisayar   işletim   sistemi kurulumunu yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Hizmetleri",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Hizmetleri",
       "KONU": "3.     Dağırım Hizmetleri Yönetimi",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
       "KAZANIM": "Kullanılan  sistemin  ihtiyaçlarına  göre  dağıtım  hizmetlerini yapılandırır.\nDağıtım hizmetleri rolü kurulumunu yapabilir.\n       Yükleme yansıması oluşumunu sağlar.\n       Ön yükleme yansıması oluşumunu sağlar.\n       Dağıtım hizmetleri için DHCP sunucusu kapsam ayarlarını yapabilir.\n       Dağıtım   hizmetleri   ile   istemci   bilgisayar   işletim   sistemi kurulumunu yapabilir."
     },
     {
+      "ÜNİTE": "Sunucu Performansını İzleme",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Performansını İzleme",
       "KONU": "1.     Sunucu kaynaklarını n verimli kullanılması ve sunucu performans yönetiminin izlenmesi",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
       "KAZANIM": "Sunucu   kaynaklarının   verimli   kullanılması   için   sunucu performans yönetimini izler.\nSunucu görev yöneticisini kullanabilir.\n       Sunucu performans kaynak ve olay yönetimini izletir."
     },
     {
+      "ÜNİTE": "Sunucu Performansını İzleme",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Performansını İzleme",
       "KONU": "1.     Sunucu kaynaklarını n verimli kullanılması ve sunucu performans yönetiminin izlenmesi",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
       "KAZANIM": "Sunucu   kaynaklarının   verimli   kullanılması   için   sunucu performans yönetimini izler.\nSunucu görev yöneticisini kullanabilir.\n       Sunucu performans kaynak ve olay yönetimini izletir."
     },
     {
+      "ÜNİTE": "Sunucu Performansını İzleme",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Performansını İzleme",
       "KONU": "2.    İşletim sisteminin güncelleştiril mesi",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
       "KAZANIM": "2. Dönem 2. Sınav  İşletim sistemi güncelleştirmelerini yapar.\nİşletim sistemi güncelleştirme işlemlerini yaptırır."
     },
     {
+      "ÜNİTE": "Sunucu Performansını İzleme",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "4",
-      "ÜNİTE": "Sunucu Performansını İzleme",
       "KONU": "2.    İşletim sisteminin güncelleştiril mesi",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
       "KAZANIM": "İşletim sistemi güncelleştirmelerini yapar.\nİşletim sistemi güncelleştirme işlemlerini yaptırır."
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "4",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Genel Tekrar"
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "4",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Etkinlik Haftası"

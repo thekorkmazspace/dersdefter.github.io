@@ -3,369 +3,369 @@
   "ders": "GEṀ ELEKTROṄĞ̇ ATÖLYESİ̇(YEN*)",
   "plan": [
     {
+      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "10",
-      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
       "KONU": "1.   Osiloskop ile ölçüm  2.   Direnç bağlantısı",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
       "KAZANIM": "Osiloskop ile ölçüm yapar.\n Direnç bağlantısı yapar.\nOsiloskop  kullanımı  ile  ilgili  bilgi verilir\n       Sinyal jenaratörü açıklanır.\n       Osiloskop  ve  sinyal  jenaratörünü kullanarak        ölçüm        yapması sağlanır.\n       Dirençlerin     gövde     bağlantıları açıklanır\n       Direnç  ile  seri  bağlantı  yapılması sağlanır\n       Direnç      ile      paralel      bağlantı yapılması sağlanır\n       Direnç      ile      karışık      bağlantı yapılması sağlanır"
     },
     {
+      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "10",
-      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
       "KONU": "3.   Kondansatör bağlantısı  4.   Bobin bağlantısı",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
       "KAZANIM": "Kondansatör bağlantısı yapar.\n Bobin      Kondansatör      bağlantısı yapar.\nKondansatörlerin                  gövde bağlantıları açıklanır\n       Kondansatör    ile    seri    bağlantı yapılması sağlanır\n       Kondansatör  ile  paralel  bağlantı yapılması sağlanır\n       Kondansatör   ile   karışık   bağlantı yapılması sağlanır\n       Bobinlerin      gövde      bağlantıları açıklanır\n       Bobin  ile  seri  bağlantı  yapılması sağlanır\n       Bobin      ile      paralel      bağlantı yapılması sağlanır\n       Bobin      ile      karışık      bağlantı yapılması sağlanır"
     },
     {
+      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "10",
-      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
       "KONU": "5.   Rezonans devresi",
       "KAZANIM": "Rezonans devresi kurar.\nRLC devresi kurması sağlanır.\n         Rezonans      ölçümü      yapması sağlanır"
     },
     {
+      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "10",
-      "ÜNİTE": "Alternatif Akım ve Elektromanyetizmanın Temelleri",
       "KONU": "6.   Elektromanyetizma deneyi",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
       "KAZANIM": "Elektromanyetizma deneyi yapar.\nBobin           üzerinde           oluşan elektromanyetizma açıklanır.\n       İletken ile bobin yapması sağlanır.\n       Bobin  üzerinde  oluşan  manyetik alan gözlemlenmesi sağlanır."
     },
     {
+      "ÜNİTE": "Elektrik-Elektronik Resmi",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "10",
-      "ÜNİTE": "Elektrik-Elektronik Resmi",
       "KONU": "1. Zayıf akım elektrik tesisatı",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
       "KAZANIM": "Zayıf akım elektrik tesisatı çizer.\nZayıf    akım    devre    elemanları sembolleri açıklanır.\n       Zayıf akım elektrik tesisatı çizmesi sağlanır."
     },
     {
+      "ÜNİTE": "Elektrik-Elektronik Resmi",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "10",
-      "ÜNİTE": "Elektrik-Elektronik Resmi",
       "KONU": "2. Elektronik devre",
       "KAZANIM": "Elektronik devre çizer\nElektronik devre çizimi açıklanır.\n       Devre    elemanların    bağlantıları açıklanır.\n       Elektronik devre çizmesi sağlanır."
     },
     {
+      "ÜNİTE": "Elektrik-Elektronik Resmi",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "10",
-      "ÜNİTE": "Elektrik-Elektronik Resmi",
       "KONU": "2. Elektronik devre",
       "KAZANIM": "Elektronik devre çizer\nElektronik devre çizimi açıklanır.\n       Devre    elemanların    bağlantıları açıklanır.\n       Elektronik devre çizmesi sağlanır."
     },
     {
+      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "10",
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "KONU": "1.  Devre elemanlarını lehimleme",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
       "KAZANIM": "Basit     elektronik     devreyi     bakır plaket üzerine çıkarır.\nElektronik devrenin nasıl çizilmesi gerekleri açıklanır.\n       Asetatlı  kalem  ile  plaket  üzerine devre çizmesi sağlanır.\n       Asit   ile   gerçekleşecek   işlemler anlatılır\n       Baskı devre çıkarması sağlanır."
     },
     {
+      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "10",
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "KONU": "2.  Basit elektronik devreyi bakır plaket üzerine çıkarma",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
       "KAZANIM": "1. Dönem 1. Sınav  Devre elemanlarını lehimler\nDevre     elemanlarını     lehimleme açıklanır\n       Devre elemanlarını plaket üzerine lehimlenmesi sağlanır"
     },
     {
+      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "10",
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "KONU": "1. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
+      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "10",
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "KONU": "2.  Basit elektronik devreyi bakır plaket üzerine çıkarma",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
       "KAZANIM": "Devre elemanlarını lehimler\nDevre     elemanlarını     lehimleme açıklanır\n       Devre elemanlarını plaket üzerine lehimlenmesi sağlanır"
     },
     {
+      "ÜNİTE": "Sayısal Elektronik Temelleri",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "10",
-      "ÜNİTE": "Sayısal Elektronik Temelleri",
       "KONU": "1.   Mantıksal kapı devreleri",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
       "KAZANIM": "Mantıksal kapı devreleri yapar.\nVe   kapısı   ve   doğruluk   tablosu açıklanır.\n       Veya  kapısı  ve  doğruluk  tablosu açıklanır.\n       Değil  kapısı  ve  doğruluk  tablosu açıklanır.\n       Ve    Değil    kapısı    ve    doğruluk tablosu açıklanır.\n       Veya   değil   kapısı   ve   doğruluk tablosu açıklanır."
     },
     {
+      "ÜNİTE": "Sayısal Elektronik Temelleri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "10",
-      "ÜNİTE": "Sayısal Elektronik Temelleri",
       "KONU": "1.   Mantıksal kapı devreleri",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
       "KAZANIM": "Mantıksal kapı devreleri yapar.\nVe   kapısı   ve   doğruluk   tablosu açıklanır.\n       Veya  kapısı  ve  doğruluk  tablosu açıklanır.\n       Değil  kapısı  ve  doğruluk  tablosu açıklanır.\n       Ve    Değil    kapısı    ve    doğruluk tablosu açıklanır.\n       Veya   değil   kapısı   ve   doğruluk tablosu açıklanır."
     },
     {
+      "ÜNİTE": "Sayısal Elektronik Temelleri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "10",
-      "ÜNİTE": "Sayısal Elektronik Temelleri",
       "KONU": "2.   Sayısal devreler",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
       "KAZANIM": "Sayısal devreler kurar.\nBreadboardprotoboard açıklanır.\n       Breadboarda        devre        kurma açıklanır.\n       Sayısal        devreleri        kurması sağlanır."
     },
     {
+      "ÜNİTE": "Sayısal Elektronik Temelleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "10",
-      "ÜNİTE": "Sayısal Elektronik Temelleri",
       "KONU": "2.   Sayısal devreler",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
       "KAZANIM": "Sayısal devreler kurar.\nBreadboardprotoboard açıklanır.\n       Breadboarda        devre        kurma açıklanır.\n       Sayısal        devreleri        kurması sağlanır."
     },
     {
+      "ÜNİTE": "Elektronik Devre Uygulamaları",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "10",
-      "ÜNİTE": "Elektronik Devre Uygulamaları",
       "KONU": "1.   Yarı iletken elemanlar ile yükselteç devreleri",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
       "KAZANIM": "Yarı       iletken       elemanlar       ile yükselteç devreleri kurar.\nYarı   iletken   elemanların   kılıfları açıklanır\n       Yarı         iletkenin         bağlantıları açıklanır."
     },
     {
+      "ÜNİTE": "Elektronik Devre Uygulamaları",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "10",
-      "ÜNİTE": "Elektronik Devre Uygulamaları",
       "KONU": "1.   Yarı iletken elemanlar ile yükselteç devreleri",
       "KAZANIM": "Yarı       iletken       elemanlar       ile yükselteç devreleri kurar.\nYarı   iletken   elemanların   kılıfları açıklanır\n       Yarı         iletkenin         bağlantıları açıklanır."
     },
     {
+      "ÜNİTE": "Elektronik Devre Uygulamaları",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "10",
-      "ÜNİTE": "Elektronik Devre Uygulamaları",
       "KONU": "2.   Operasyonel yükselteç devreleri",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
       "KAZANIM": "1. Dönem 2. Sınav  Operasyonel   yükselteç   devreleri kurar.\nOperasyonel   yükselteçlerin   nasıl çalıştığı açıklanır\n       Operasyonel  yükselteç  ile  eviren yükselteç kurulması sağlanır\n       Operasyonel        yükselteç        ile evirmeyen    yükselteç    kurulması sağlanır\n       Operasyonel yükselteç ile tampon yükselteç kurulması sağlanır\n       Operasyonel        yükselteç        ile integral-türev   devresi   kurulması sağlanır"
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "10",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "KAZANIM": "Etkinlik Haftası"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "10",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "10",
-      "ÜNİTE": "Yarıyıl Tatili",
       "KONU": "Yarıyıl Tatili",
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
+      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "10",
-      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
       "KONU": "1.   Osilatör deneyleri",
       "KAZANIM": "Osilatör deneyleri yapar.\nOsilatör        devrelerinin        nasıl yapılacağı açıklanır\n       Osilatör        devreleri        kurması sağlanır."
     },
     {
+      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "10",
-      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
       "KONU": "2.   Hoparlör uygulamaları",
       "KAZANIM": "Ses yükseltecine hoparlör bağlar.\nHoparlörün         nasıl         çalıştığı açıklanır.\n       Hoparlörün   devreye   bağlanması sağlanır"
     },
     {
+      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "10",
-      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
       "KONU": "3.   Mikrofon uygulamaları",
       "KAZANIM": "Mikrofonlu hartley osilatör devresi yapar.\nMikrofonun         nasıl         çalıştığı açıklanır.\n       Mikrofonun   devreye   bağlanması sağlanır."
     },
     {
+      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "10",
-      "ÜNİTE": "Yükselteç ve Osilatör Deneyleri",
       "KONU": "3.   Mikrofon uygulamaları",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
       "KAZANIM": "Mikrofonlu hartley osilatör devresi yapar.\nMikrofonun         nasıl         çalıştığı açıklanır.\n       Mikrofonun   devreye   bağlanması sağlanır."
     },
     {
+      "ÜNİTE": "Modülasyon Tekniği",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "10",
-      "ÜNİTE": "Modülasyon Tekniği",
       "KONU": "1.   Genlik modulasyonu  2.   Frekans modulasyonu",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
       "KAZANIM": "Genlik modülasyonunu açıklar.\n Frekans modülasyonunu açıklar.\nGenlik modülasyonunu açıklanır.\n       Frekans modülasyonu açıklanır"
     },
     {
+      "ÜNİTE": "Modülasyon Tekniği",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "10",
-      "ÜNİTE": "Modülasyon Tekniği",
       "KONU": "3.   Faz modulasyonu",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
       "KAZANIM": "Faz modülasyonunu açıklar.\nFaz modülasyonu açıklanır."
     },
     {
+      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "10",
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "KONU": "2. Dönem Ara Tatili",
       "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
+      "ÜNİTE": "Modülasyon Tekniği",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "10",
-      "ÜNİTE": "Modülasyon Tekniği",
       "KONU": "4.   Sayısal modulasyonlar",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
       "KAZANIM": "Sayısal modülasyonları açıklar.\nPAM modülasyonu açıklanır\n       PSK modülasyonu açıklanır.\n       QAM modülasyonu açıklanır"
     },
     {
+      "ÜNİTE": "Asenkron Motor Uygulamaları",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "10",
-      "ÜNİTE": "Asenkron Motor Uygulamaları",
       "KONU": "1.   Asenkron motorlarda yol verme  2.   Asenkron motorlarda devir ayarı",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
       "KAZANIM": "Asenkron motora yol verir.\n Asenkron  motorlarda  devir  ayarı yapar.\nAsenkron      motorun      çalışması açıklanır.\n       Asenkron    motora    yol    vermesi sağlanır."
     },
     {
+      "ÜNİTE": "Asenkron Motor Uygulamaları",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "10",
-      "ÜNİTE": "Asenkron Motor Uygulamaları",
       "KONU": "3.   Asenkron motorlarda frenleme",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
       "KAZANIM": "2. Dönem 1. Sınav  Asenkron      motorları      frenleme işlemi yapar.\nAsenkron      motorları      frenleme yöntemleri açıklanır.\n       Asenkron       motorun       dinamik frenleme işlemini yapar."
     },
     {
+      "ÜNİTE": "Kontrol kartı Devreleri",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "10",
-      "ÜNİTE": "Kontrol kartı Devreleri",
       "KONU": "1.   Kontrol kartı programlama",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
       "KAZANIM": "Kontrol kartına program yükler.\nKontrol kartına program yüklemek için bilgisayara program kurulumu gösterilir.\n       Kontrol   kartına   örnek   program yüklenir.\n       Kontrol kartına program yüklemesi sağlanır."
     },
     {
+      "ÜNİTE": "Kontrol kartı Devreleri",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "10",
-      "ÜNİTE": "Kontrol kartı Devreleri",
       "KONU": "2.   Kontrol kartı ile DC motor sürme",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
       "KAZANIM": "Kontrol kartı ile DC motor sürer.\nKontrol kartı ile DC motorun nasıl sürüleceği açıklanır.\n       Kontrol kartı ile DC motor sürmesi sağlanır."
     },
     {
+      "ÜNİTE": "Kontrol kartı Devreleri",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "10",
-      "ÜNİTE": "Kontrol kartı Devreleri",
       "KONU": "3.   Kontrol kartı ile LCD kontrol etme",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
       "KAZANIM": "Kontrol kartı ile LCD kontrol eder.\nKontrol kartı ile LCD kontrolü nasıl yapılacağı açıklanır.\n       Kontrol  kartı  ile  LCD  kullanması sağlanır."
     },
     {
+      "ÜNİTE": "Kontrol kartı Devreleri",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "10",
-      "ÜNİTE": "Kontrol kartı Devreleri",
       "KONU": "4.   Kontrol kartı ile sensörleri kullanma",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
       "KAZANIM": "Kontrol  kartı  ile  çeşitli  sensörleri kullanır.\nKontrol      kartlarında      kullanılan sıcaklık       sensörlerinin       nasıl çalıştığı açıklanır.\n       Sıcaklık   sensörlerini   kullanması sağlanır\n       Kontrol      kartlarında      kullanılan basınç sensörlerinin nasıl çalıştığı açıklanır.\n       Basınç    sensörlerini    kullanması sağlanır\n       Kontrol  kartlarında  kullanılan  limit sensörlerinin       nasıl       çalıştığı açıklanır.\n       Limit      sensörlerini      kullanması sağlanır\n       Kontrol  kartlarında  kullanılan  gaz sensörlerinin       nasıl       çalıştığı açıklanır.\n       Gaz      sensörlerini      kullanması sağlanır."
     },
     {
+      "ÜNİTE": "Kontrol kartı Devreleri",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "10",
-      "ÜNİTE": "Kontrol kartı Devreleri",
       "KONU": "4.   Kontrol kartı ile sensörleri kullanma",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
       "KAZANIM": "Kontrol  kartı  ile  çeşitli  sensörleri kullanır.\nKontrol      kartlarında      kullanılan sıcaklık       sensörlerinin       nasıl çalıştığı açıklanır.\n       Sıcaklık   sensörlerini   kullanması sağlanır\n       Kontrol      kartlarında      kullanılan basınç sensörlerinin nasıl çalıştığı açıklanır.\n       Basınç    sensörlerini    kullanması sağlanır\n       Kontrol  kartlarında  kullanılan  limit sensörlerinin       nasıl       çalıştığı açıklanır.\n       Limit      sensörlerini      kullanması sağlanır\n       Kontrol  kartlarında  kullanılan  gaz sensörlerinin       nasıl       çalıştığı açıklanır.\n       Gaz      sensörlerini      kullanması sağlanır."
     },
     {
+      "ÜNİTE": "Kontrol kartı Devreleri",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "10",
-      "ÜNİTE": "Kontrol kartı Devreleri",
       "KONU": "4.   Kontrol kartı ile sensörleri kullanma",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
       "KAZANIM": "Kontrol  kartı  ile  çeşitli  sensörleri kullanır.\nKontrol      kartlarında      kullanılan sıcaklık       sensörlerinin       nasıl çalıştığı açıklanır.\n       Sıcaklık   sensörlerini   kullanması sağlanır\n       Kontrol      kartlarında      kullanılan basınç sensörlerinin nasıl çalıştığı açıklanır.\n       Basınç    sensörlerini    kullanması sağlanır\n       Kontrol  kartlarında  kullanılan  limit sensörlerinin       nasıl       çalıştığı açıklanır.\n       Limit      sensörlerini      kullanması sağlanır\n       Kontrol  kartlarında  kullanılan  gaz sensörlerinin       nasıl       çalıştığı açıklanır.\n       Gaz      sensörlerini      kullanması sağlanır."
     },
     {
+      "ÜNİTE": "Telsiz Alıcı Verici Sistemleri",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "10",
-      "ÜNİTE": "Telsiz Alıcı Verici Sistemleri",
       "KONU": "1.   DSC haberleşmesi  2.   Dar bant doğrudan yazmalı telgraf sistemi NBDP ve telsiz telex cihazı ile haberleşme",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
       "KAZANIM": "DSC haberleşmesi yapar.\n Dar bant doğrudan yazmalı telgraf sistemi   NBDP   ve   telsiz   telex cihazı ile haberleşme yapar.\nDSC     haberleşmesinin     işleyişi açıklanır.\n       DSC    haberleşmesi    için    cihaz menüleri açıklanır.\n       DSC      haberleşmesi      yapması sağlanır.\n       Dar bant doğrudan yazmalı telgraf sistemi   NBDP   ve   telsiz   telex cihazının çalışması açıklanır\n       Dar bant doğrudan yazmalı telgraf sistemi   NBDP   ve   telsiz   telex cihazı   ile   haberleşme   yapması sağlanır."
     },
     {
+      "ÜNİTE": "Telsiz Alıcı Verici Sistemleri",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "10",
-      "ÜNİTE": "Telsiz Alıcı Verici Sistemleri",
       "KONU": "3.   Alıcı- verici anten bağlantısı",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
       "KAZANIM": "2. Dönem 2. Sınav  Alıcı- verici anten bağlantısı yapar.\nAlıcı-verici anten türleri açıklanır.\n       Alıcı-     verici     anten     türlerinin bağlantıları açıklanır.\n       Alıcı-     verici     anten     bağlantısı yapması sağlanır."
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "10",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
       "KAZANIM": "Genel Tekrar"
     },
     {
+      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "10",
-      "ÜNİTE": "Genel Tekrar",
       "KONU": "Genel Tekrar",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Genel Tekrar"
     },
     {
+      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "10",
-      "ÜNİTE": "Etkinlik Haftası",
       "KONU": "Etkinlik Haftası",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
       "KAZANIM": "Etkinlik Haftası"

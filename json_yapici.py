@@ -151,15 +151,21 @@ def parse_docx_to_json(file_path, file_name):
             for row_idx in range(header_row_idx + 1, len(table.rows)):
                 try: cells = table.rows[row_idx].cells
                 except: continue
+                
+                # Pre-define order for better readability (Ünite first)
+                ordered_keys = ["ÜNİTE", "AY", "HAFTA", "SAAT", "KONU", "BELİRLİ GÜN VE HAFTALAR"]
                 entry = {}
                 has_val = False
-                for key, col_idx in header_map.items():
-                    if key == "KAZANIM_COLS": continue
-                    if col_idx < len(cells):
+                
+                for key in ordered_keys:
+                    col_idx = header_map.get(key)
+                    if col_idx is not None and col_idx < len(cells):
                         val = cells[col_idx].text.strip()
                         if val:
                             entry[key] = fix_turkish_chars(val)
                             has_val = True
+                
+                # Handle KAZANIM separately at the end
                 if "KAZANIM_COLS" in header_map:
                     kazanim_texts = []
                     for k_idx in header_map["KAZANIM_COLS"]:
@@ -173,6 +179,7 @@ def parse_docx_to_json(file_path, file_name):
                                 unique_kazanims.append(kt)
                         entry["KAZANIM"] = fix_turkish_chars("\n".join(unique_kazanims))
                         has_val = True
+                
                 if has_val: all_data.append(entry)
 
         if sinif == "bilinmeyen" or ders == "bilinmeyen":
