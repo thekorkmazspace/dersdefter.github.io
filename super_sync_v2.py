@@ -35,23 +35,58 @@ def turkish_title(text):
     return " ".join(fix_word(w) for w in text.split())
 
 RESTORATION_MAP = {
-    "ETKNLK": "ETKİNLİK", "ETKNLKLER": "ETKİNLİKLER",
-    "SNF": "SINIF", "MAARF": "MAARİF",
-    "MATEMATK": "MATEMATİK", "BLM": "BİLİM",
-    "DN": "DİN", "TURKCE": "TÜRKÇE", "TRKCE": "TÜRKÇE",
-    "GORSEL": "GÖRSEL", "SANATLARE": "SANATLAR",
-    "ELEKTRK": "ELEKTRİK", "ELEKTRONK": "ELEKTRONİK", "ELEKTROṄK": "ELEKTRONİK",
-    "TEKNOLOJS": "TEKNOLOJİSİ", "TEKNOLOJLER": "TEKNOLOJİLER",
-    "İNGİLİZCE": "İNGİLİZCE", "CHAZ": "CİHAZ", "SISTEM": "SİSTEM",
-    "TRK DL EDEBYATI": "TÜRK DİLİ VE EDEBİYATI",
-    "EDEBYATI": "EDEBİYATI", "EDEBYAT": "EDEBİYAT",
-    "BEDEN EGT": "BEDEN EĞİTİMİ", "FZK": "FİZİK",
-    "BLGSAYAR": "BİLGİSAYAR", "MZK": "MÜZİK",
-    "TESSAT": "TESİSAT", "GYM": "GİYİM", "MAKNELER": "MAKİNELER",
-    "MMAR": "MİMARİ", "TRNE": "TÜRÜNE", "LABORATUVAR": "LABORATUVAR",
-    "ANATOM": "ANATOMİ", "FZYOLOJ": "FİZYOLOJİ", "ADL": "ADLİ",
-    "MCADELE": "MÜCADELE", "ARCLK": "ARICILIK", "GYSI": "GİYSİ", "ÜRETIM": "ÜRETİMİ"
+    # Frequency Fixes
+    "MAARIF": "MAARİF", "MAARF": "MAARİF", "MAARİF": "MAARİF",
+    "BILGISI": "BİLGİSİ", "BILGI": "BİLGİ", "BILGILERI": "BİLGİLERİ",
+    "DKAB": "DİN KÜLTÜRÜ VE AHLAK BİLGİSİ", "DIN": "DİN",
+    "KULTURU": "KÜLTÜRÜ", "KULTUR": "KÜLTÜR",
+    "DILI": "DİLİ", "EDEBİYATI": "EDEBİYATI", "EDEBYATI": "EDEBİYATI",
+    "TURK": "TÜRK", "TRK": "TÜRK",
+    "INGILIZCE": "İNGİLİZCE", "ING": "İNGİLİZCE",
+    "MATEMATIK": "MATEMATİK", "MAT": "MATEMATİK",
+    "FIZIK": "FİZİK", "FZK": "FİZİK",
+    "BIYOLOJI": "BİYOLOJİ", "BYL": "BİYOLOJİ",
+    "KIMYA": "KİMYA", "KMY": "KİMYA",
+    "GORSEL": "GÖRSEL", "SANATLAR": "SANATLAR",
+    "MUZIK": "MÜZİK", "MZK": "MÜZİK",
+    "BEDEN": "BEDEN", "EGT": "EĞİTİMİ", "EGITIMI": "EĞİTİMİ",
+    "REHBERLK": "REHBERLİK", "REHBERLIK": "REHBERLİK",
+    "BECERILERI": "BECERİLERİ", "BECERI": "BECERİ",
+    "ILETISIM": "İLETİŞİM", "ILETISM": "İLETİŞİM",
+    "GMDSS": "GMDSS", "TEKNK": "TEKNİK", "TEKNIK": "TEKNİK",
+    "SISTEMLERI": "SİSTEMLERİ", "SISTEMLER": "SİSTEMLER", "SISTEMI": "SİSTEMİ",
+    "UYGULAMALARI": "UYGULAMALARI", "UYGULAMA": "UYGULAMA",
+    "ANATOMI": "ANATOMİ", "FIZYOLOJI": "FİZYOLOJİ",
+    "HAZIRLIK": "HAZIRLIK", "HZL": "HAZIRLIK",
+    "OZEL": "ÖZEL", "EGITIM": "EĞİTİM",
+    "MESLEKI": "MESLEKİ", "GELISIM": "GELİŞİM",
+    "COGRAFYA": "COĞRAFYA", "TARİH": "TARİH", "TARIH": "TARİH",
+    "INKILAP": "İNKILAP", "ATATURKCULUK": "ATATÜRKÇÜLÜK",
+    "SAGLIK": "SAĞLIK", "GUVENLIK": "GÜVENLİK",
+    "ISARET": "İŞARET", "TOPLUMSAL": "TOPLUMSAL", "UYUM": "UYUM",
+    "BECERILER": "BECERİLER", "BECERISI": "BECERİSİ"
 }
+
+def deep_fix_name(name):
+    # Fix character level corruption before mapping
+    # Common OCR/Conversion issue: i -> ı
+    # We only fix 'ı' in words that clearly should have 'i'
+    # High frequency words
+    fixes = [
+        (r'DıL', 'DİL'), (r'BıLG', 'BİLG'), (r'ıLETıS', 'İLETİŞ'),
+        (r'ıNGıLıZ', 'İNGİLİZ'), (r'MATEMATıK', 'MATEMATİK'),
+        (r'MuzıK', 'MÜZİK'), (r'BıRıNCı', 'BİRİNCİ'), (r'ıkıncı', 'İKİNCİ'),
+        (r'ııı', 'III'), (r'ıı', 'II'), (r'ı\.+kadem', 'I. Kademe'),
+        (r'maarıf', 'MAARİF'), (r'BECERı', 'BECERİ'), (r'SıSTEM', 'SİSTEM'),
+        (r'SıNF', 'SINIF'), (r'EDEBıYAT', 'EDEBİYAT'), (r'eğıtım', 'EĞİTİM'),
+        (r'ıŞaret', 'İŞARET'), (r'ıletıŞım', 'İLETİŞİM')
+    ]
+    
+    # Case insensitive base fix
+    for bad, good in fixes:
+        name = re.sub(bad, good, name, flags=re.IGNORECASE)
+        
+    return name
 
 def fix_lesson_name(name, grade, file_id):
     # 0. Basic cleaning (strip combining marks if any, but safely)
@@ -62,7 +97,10 @@ def fix_lesson_name(name, grade, file_id):
     if str(file_id) in OFFICIAL_NAMES:
         name = OFFICIAL_NAMES[str(file_id)]
     
-    # 2. General restoration
+    # 2. Pre-cleanup character corruption
+    name = deep_fix_name(name)
+    
+    # 3. General restoration
     # Map back broken words to uppercase first for consistency
     name = turkish_upper(name)
     for bad, good in RESTORATION_MAP.items():
@@ -80,6 +118,13 @@ def fix_lesson_name(name, grade, file_id):
     # Final check for common mistakes
     if "TÜRK DİLİ EDEBİYATI" in name:
         name = name.replace("TÜRK DİLİ EDEBİYATI", "TÜRK DİLİ VE EDEBİYATI")
+    if "MAARİF" in name:
+        name = name.replace("MAARİF*", "MAARİF").replace("(MAARİF)", "MAARİF")
+    
+    # Clean up Roman numerals and cadres
+    name = name.replace("I-ıı-ıı Kademe", "I-II-III. Kademe")
+    name = name.replace("I-ıı-ııı Kademe", "I-II-III. Kademe")
+    name = name.replace("I-ıı Kademe", "I-II. Kademe")
     
     # 4. Apply Title Case
     name = turkish_title(name)
