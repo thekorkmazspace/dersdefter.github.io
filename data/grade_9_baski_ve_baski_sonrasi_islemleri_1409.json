@@ -1,0 +1,374 @@
+{
+  "sinif": "9",
+  "ders": "Baskı Ve Baskı Sonrası İşlemleri",
+  "plan": [
+    {
+      "ÜNİTE": "Matbaacılığa Giriş",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "6",
+      "KONU": "1.   Matbaacılığın tarihi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Ünite/Tema: Matbaacılığa Giriş\nKonu/İçerik: 1.   Matbaacılığın tarihi\nKazanım/Öğrenme Çıktıları: Matbaacılığın tarihi gelişimini açıklar.\nNot: Uluslararası Temiz Hava Günü"
+    },
+    {
+      "ÜNİTE": "Matbaacılığa Giriş",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "6",
+      "KONU": "2.   Baskı teknikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Ünite/Tema: Matbaacılığa Giriş\nKonu/İçerik: 2.   Baskı teknikleri\nKazanım/Öğrenme Çıktıları: Tipo  baskı  ofset  baskı  flekso  baskı  tifdruk  baskı dijital    baskı    serigrafi    baskı    ve    tampon    baskı sistemlerini açıklar.\nNot: İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "ÜNİTE": "Matbaacılığa Giriş",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "6",
+      "KONU": "3.   Kâğıt",
+      "KAZANIM": "Ünite/Tema: Matbaacılığa Giriş\nKonu/İçerik: 3.   Kâğıt\nKazanım/Öğrenme Çıktıları: Kâğıt üretimi türleri standartları ile kâğıdın özellikleri ve gramajını açıklar."
+    },
+    {
+      "ÜNİTE": "Matbaacılığa Giriş",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "6",
+      "KONU": "4.   Mürekkep",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Ünite/Tema: Matbaacılığa Giriş\nKonu/İçerik: 4.   Mürekkep\nKazanım/Öğrenme Çıktıları: Mürekkep üretimi ile mürekkebin yapısı ve çeşitlerini açıklar.\nNot: Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "ÜNİTE": "Matbaa El İşlemleri",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "6",
+      "KONU": "1.   Kâğıt havalandırmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Ünite/Tema: Matbaa El İşlemleri\nKonu/İçerik: 1.   Kâğıt havalandırmak\nKazanım/Öğrenme Çıktıları: Tekniğine uygun olarak kâğıdı havalandırır ve kâğıdı toplar.\nİki eli arasında kâğıdı basamaklı şekilde açmayı yapması sağlanır.\n       Kâğıdın nasıl havalandırılması gerektiği gösterilir.\n       Poza ve makas yönleri açıklanır.\n       Kâğıdın  poza  ve  makas  yönüne  göre  nasıl  toplanacağı gösterilir.\nNot: Ahilik Kültürü Haftası"
+    },
+    {
+      "ÜNİTE": "Matbaa El İşlemleri",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "6",
+      "KONU": "2.   Su yönünü bulmak",
+      "KAZANIM": "Ünite/Tema: Matbaa El İşlemleri\nKonu/İçerik: 2.   Su yönünü bulmak\nKazanım/Öğrenme Çıktıları: Su  yönü  bulma  tekniklerini  uygulayarak  kullanacağı kâğıdın su yönünü bulur.\nKâğıdın su yönünü bulma yöntemleri açıklanır.\n       Kâğıdın su yönü bulma yöntemleri örneklerle gösterilir."
+    },
+    {
+      "ÜNİTE": "Matbaa El İşlemleri",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "6",
+      "KONU": "3.   Trase çizmek",
+      "KAZANIM": "Ünite/Tema: Matbaa El İşlemleri\nKonu/İçerik: 3.   Trase çizmek\nKazanım/Öğrenme Çıktıları: Montaj planına uygun trase çizer."
+    },
+    {
+      "ÜNİTE": "Matbaa El İşlemleri",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "6",
+      "KONU": "4.   Forma düzenine göre sayfa yerleşim PLANI yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Ünite/Tema: Matbaa El İşlemleri\nKonu/İçerik: 4.   Forma düzenine göre sayfa yerleşim PLANI yapmak\nKazanım/Öğrenme Çıktıları: Forma düzenine göre sayfa yerleşim PLANI yapar.\nKırma  katlama  yapılan  kâğıtlarla  4  sayfalı8  sayfalı16 sayfalı forma hazırlatıp sayfa numarası verdirir.\nNot: Cumhuriyet Bayramı"
+    },
+    {
+      "ÜNİTE": "Matbaa El İşlemleri",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "6",
+      "KONU": "5.   Kâğıt kırmak ve katlamak",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Ünite/Tema: Matbaa El İşlemleri\nKonu/İçerik: 5.   Kâğıt kırmak ve katlamak\nKazanım/Öğrenme Çıktıları: 1. Dönem 1. Sınav  Kâğıt türlerine uygun kırma işlemini gerçekleştirir.\nTemel kâğıt kırma katlama şekilleri açıklanır.\n       İstenilen sayıda kırım katlama yapması sağlanır.\nNot: Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "6",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "Ünite/Tema: 1. Dönem Ara Tatili\nKonu/İçerik: 1. Dönem Ara Tatili\nKazanım/Öğrenme Çıktıları: 1. Dönem Ara Tatili\nNot: Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "ÜNİTE": "Matbaa El İşlemleri",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "6",
+      "KONU": "6.   Harman çekmek ve istiflemek",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Ünite/Tema: Matbaa El İşlemleri\nKonu/İçerik: 6.   Harman çekmek ve istiflemek\nKazanım/Öğrenme Çıktıları: İşin niteliğine uygun harman yapar.\nKâğıt bloklarını sırasına göre masa üzerine yerleştirmesi sağlanır.\n       Çekilen  harmanları  birbirine  karıştırmadan  istif  yapması sağlanır.\nNot: Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "ÜNİTE": "Matbaa El İşlemleri",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "6",
+      "KONU": "6.   Harman çekmek ve istiflemek",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Ünite/Tema: Matbaa El İşlemleri\nKonu/İçerik: 6.   Harman çekmek ve istiflemek\nKazanım/Öğrenme Çıktıları: İşin niteliğine uygun harman yapar.\nKâğıt bloklarını sırasına göre masa üzerine yerleştirmesi sağlanır.\n       Çekilen  harmanları  birbirine  karıştırmadan  istif  yapması sağlanır.\nNot: Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "ÜNİTE": "Kâğıt Kesme",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "6",
+      "KONU": "1.   El aletleri ile kâğıt kesmek",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Ünite/Tema: Kâğıt Kesme\nKonu/İçerik: 1.   El aletleri ile kâğıt kesmek\nKazanım/Öğrenme Çıktıları: El aletleri ile kâğıt keser.\nKretuar ve ya maket bıçağı kullanımına yönelik güvenlik önlemleri açıklanır.\n       Kesim ile ilgili örnekler verilir.\nNot: Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "ÜNİTE": "Kâğıt Kesme",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "6",
+      "KONU": "2.   Giyotinle tabaka kâğıt kesmek",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Ünite/Tema: Kâğıt Kesme\nKonu/İçerik: 2.   Giyotinle tabaka kâğıt kesmek\nKazanım/Öğrenme Çıktıları: Giyotinle tabaka kâğıt keser.\nTabaka ölçüleri açıklanır.\n       Giyotinde çalışırken alınması gereken güvenlik önlemleri açıklanır.\n       Giyotinin kısımları gösterilir.\n       Tabaka kâğıt ebatlama örneklendirilir.\n       Giyotinde tabaka kesim işlemi yapması sağlanır.\nNot: Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "ÜNİTE": "Kâğıt Kesme",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "6",
+      "KONU": "3.   Giyotinle kitapçık kesmek",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Ünite/Tema: Kâğıt Kesme\nKonu/İçerik: 3.   Giyotinle kitapçık kesmek\nKazanım/Öğrenme Çıktıları: Giyotinle kitapçık keser.\nKitap kısımları açıklanır.\n       Kitapçık kesimi gösterili ve yaptırılır.\nNot: Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "ÜNİTE": "Kâğıt Kesme",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "6",
+      "KONU": "3.   Giyotinle kitapçık kesmek",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Ünite/Tema: Kâğıt Kesme\nKonu/İçerik: 3.   Giyotinle kitapçık kesmek\nKazanım/Öğrenme Çıktıları: Giyotinle kitapçık keser.\nKitap kısımları açıklanır.\n       Kitapçık kesimi gösterili ve yaptırılır.\nNot: Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "ÜNİTE": "Ofset Baskı Hazırlığı",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "6",
+      "KONU": "1.   Ofset Baskıya orijinal hazırlamak",
+      "KAZANIM": "Ünite/Tema: Ofset Baskı Hazırlığı\nKonu/İçerik: 1.   Ofset Baskıya orijinal hazırlamak\nKazanım/Öğrenme Çıktıları: Ofset Baskıya orijinal hazırlar.\nOfset baskı için gereken özelliklerdeki orijinalin nasıl hazırlanması gerektiği açıklanır.\n       Aydınger ve siyah mürekkepli kalem kullanarak ofset baskıya uygun orijinal yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ofset Baskı Hazırlığı",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "6",
+      "KONU": "2.   Filmin kalıp üzerine sabitlenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Ünite/Tema: Ofset Baskı Hazırlığı\nKonu/İçerik: 2.   Filmin kalıp üzerine sabitlenmesi\nKazanım/Öğrenme Çıktıları: 1. Dönem 2. Sınav  Filmi kalıp üzerine sabitler.\nOfset kalıbı üzerine filmin sabitlenmesinde dikkat edilmesi gereken hususlar üzerinde durulur.\nNot: Enerji Tasarrufu Haftası"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "6",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Ünite/Tema: Etkinlik Haftası\nKonu/İçerik: Etkinlik Haftası\nKazanım/Öğrenme Çıktıları: Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "6",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Ünite/Tema: Yarıyıl Tatili\nKonu/İçerik: Yarıyıl Tatili\nKazanım/Öğrenme Çıktıları: Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "6",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Ünite/Tema: Yarıyıl Tatili\nKonu/İçerik: Yarıyıl Tatili\nKazanım/Öğrenme Çıktıları: Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Ofset Baskı Hazırlığı",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "6",
+      "KONU": "4.   Rötuş ve zamklama",
+      "KAZANIM": "Ünite/Tema: Ofset Baskı Hazırlığı\nKonu/İçerik: 4.   Rötuş ve zamklama\nKazanım/Öğrenme Çıktıları: Kalıp   üzerinde   tespit   edilen   hataların   rötuş   ve zamklama yapar.\nOfset kalıbında rötüş yapılacak kısımlar açıklanır.\n       Rötüş işleminde kullanılan malzemeler tanıtılır.\n       Rötüş işlemi yapması sağlanır.\n       Zamklama işlemi gösterilerek yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ofset Baskı Hazırlığı",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "6",
+      "KONU": "4.   Rötuş ve zamklama",
+      "KAZANIM": "Ünite/Tema: Ofset Baskı Hazırlığı\nKonu/İçerik: 4.   Rötuş ve zamklama\nKazanım/Öğrenme Çıktıları: Kalıp   üzerinde   tespit   edilen   hataların   rötuş   ve zamklama yapar.\nOfset kalıbında rötüş yapılacak kısımlar açıklanır.\n       Rötüş işleminde kullanılan malzemeler tanıtılır.\n       Rötüş işlemi yapması sağlanır.\n       Zamklama işlemi gösterilerek yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ofset Baskı Hazırlığı",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "6",
+      "KONU": "4.   Rötuş ve zamklama",
+      "KAZANIM": "Ünite/Tema: Ofset Baskı Hazırlığı\nKonu/İçerik: 4.   Rötuş ve zamklama\nKazanım/Öğrenme Çıktıları: Kalıp   üzerinde   tespit   edilen   hataların   rötuş   ve zamklama yapar.\nOfset kalıbında rötüş yapılacak kısımlar açıklanır.\n       Rötüş işleminde kullanılan malzemeler tanıtılır.\n       Rötüş işlemi yapması sağlanır.\n       Zamklama işlemi gösterilerek yaptırılır."
+    },
+    {
+      "ÜNİTE": "Tek Renk Ofset Baskı Denemesi",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "6",
+      "KONU": "1.   Makinaya kâğıt yüklemek",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Ünite/Tema: Tek Renk Ofset Baskı Denemesi\nKonu/İçerik: 1.   Makinaya kâğıt yüklemek\nKazanım/Öğrenme Çıktıları: Ofset baskı makinasına kâğıt yükler.\nİstif asansörünü ayarlamak gösterilir.\n       Kâğıt havalandırma işlemi yaptırılır.\n       Kâğıtların asansöre yüklenmesi sağlanır.\nNot: Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "ÜNİTE": "Tek Renk Ofset Baskı Denemesi",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "6",
+      "KONU": "2.   Kâğıt akışını ayarlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Ünite/Tema: Tek Renk Ofset Baskı Denemesi\nKonu/İçerik: 2.   Kâğıt akışını ayarlama\nKazanım/Öğrenme Çıktıları: Baskısı yapılacak kâğıda göre kâğıt akışını ayarlar.\nEmici üfleyici asansör kalkış poza ön siper ayarları gösterilir.\n       Çıkış asansörünün ayarlarını gösterilir.\n       Makineden kâğıt geçirme işlemi yaptırılır.\nNot: Girişimcilik Haftası"
+    },
+    {
+      "ÜNİTE": "Tek Renk Ofset Baskı Denemesi",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "6",
+      "KONU": "3.   Makinaya kalıp takma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Ünite/Tema: Tek Renk Ofset Baskı Denemesi\nKonu/İçerik: 3.   Makinaya kalıp takma\nKazanım/Öğrenme Çıktıları: Ofset baskı kalıbını tekniğine uygun olarak kalıp kazanına takar.\nMakineye kalıp takma işlemi gösterilir.\n       Makineye kalıp takması sağlanır.\nNot: Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "6",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "Ünite/Tema: 2. Dönem Ara Tatili\nKonu/İçerik: 2. Dönem Ara Tatili\nKazanım/Öğrenme Çıktıları: 2. Dönem Ara Tatili\nNot: Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "ÜNİTE": "Tek Renk Ofset Baskı Denemesi",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "6",
+      "KONU": "4.   Mürekkeplemek",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Ünite/Tema: Tek Renk Ofset Baskı Denemesi\nKonu/İçerik: 4.   Mürekkeplemek\nKazanım/Öğrenme Çıktıları: Yeterli miktarda mürekkepleme yapar.\nMürekkep haznesine mürekkep koymak gösterilir.\n       Hazneye mürekkep koyması sağlanır.\n       Hazne ayarları gösterilir.\nNot: Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "ÜNİTE": "Tek Renk Ofset Baskı Denemesi",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "6",
+      "KONU": "5.   Baskı işleminin gerçekleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Ünite/Tema: Tek Renk Ofset Baskı Denemesi\nKonu/İçerik: 5.   Baskı işleminin gerçekleşmesi\nKazanım/Öğrenme Çıktıları: Baskı işlemini gerçekleştirir.\nKalıp temizleme malzemesiyle sildirilir.\n       Kalıp nemlendirme ve mürekkepleme işlemleri yaptırılır.\n       Baskı yaptırılır.\nNot: Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "ÜNİTE": "Tek Renk Ofset Baskı Denemesi",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "6",
+      "KONU": "5.   Baskı işleminin gerçekleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Ünite/Tema: Tek Renk Ofset Baskı Denemesi\nKonu/İçerik: 5.   Baskı işleminin gerçekleşmesi\nKazanım/Öğrenme Çıktıları: 2. Dönem 1. Sınav  Baskı işlemini gerçekleştirir.\nKalıp temizleme malzemesiyle sildirilir.\n       Kalıp nemlendirme ve mürekkepleme işlemleri yaptırılır.\n       Baskı yaptırılır.\nNot: Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "ÜNİTE": "Tek Renk Ofset Baskı Denemesi",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "6",
+      "KONU": "5.   Baskı işleminin gerçekleşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Ünite/Tema: Tek Renk Ofset Baskı Denemesi\nKonu/İçerik: 5.   Baskı işleminin gerçekleşmesi\nKazanım/Öğrenme Çıktıları: Baskı işlemini gerçekleştirir.\nKalıp temizleme malzemesiyle sildirilir.\n       Kalıp nemlendirme ve mürekkepleme işlemleri yaptırılır.\n       Baskı yaptırılır.\nNot: Turizm Haftası"
+    },
+    {
+      "ÜNİTE": "İç Blok Birleştirme",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "6",
+      "KONU": "1.   İplik dikiş yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Ünite/Tema: İç Blok Birleştirme\nKonu/İçerik: 1.   İplik dikiş yapmak\nKazanım/Öğrenme Çıktıları: İç blok şekline ve boyutuna uygun iplik dikiş yapar.\nİplik dikişte kullanılan malzemeler açıklanır.\n       Forma kırım katlama yaptırılır.\n       İplik dikiş işlemi gösterilir.\n       İplik dikişi yapması sağlanır.\nNot: Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "ÜNİTE": "İç Blok Birleştirme",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "6",
+      "KONU": "2.   Blok saplama dikiş yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Ünite/Tema: İç Blok Birleştirme\nKonu/İçerik: 2.   Blok saplama dikiş yapmak\nKazanım/Öğrenme Çıktıları: İç blok şekline ve boyutuna uygun blok saplama dikiş yapar.\nKalıp matkapları açıklanır.\n       Giyotinde kâğıt bloğu kesilmesi sağlanır.\n       Kâğıt bloklarını kâğıt matkabıyla delmesi sağlanır.\n       Blok dikişi yapması sağlanır.\nNot: Kûtül Amâre Zaferi"
+    },
+    {
+      "ÜNİTE": "İç Blok Birleştirme",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "6",
+      "KONU": "3.   Tutkalla birleştirmek",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Ünite/Tema: İç Blok Birleştirme\nKonu/İçerik: 3.   Tutkalla birleştirmek\nKazanım/Öğrenme Çıktıları: İç bloğu tekniğine uygun tutkalla birleştirir.\nTutkalla birleştirme gösterilir.\n       Giyotinde kâğıt bloğu kestirilir.\n       Tutkalla kâğıt bloğu birleştirilmesi sağlanır.\nNot: Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "ÜNİTE": "İç Blok Birleştirme",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "6",
+      "KONU": "4.   Spiral takmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Ünite/Tema: İç Blok Birleştirme\nKonu/İçerik: 4.   Spiral takmak\nKazanım/Öğrenme Çıktıları: İç bloğu tekniğine uygun spiral takar.\nSpiral cilt örnekleri gösterilir.\n       Spiral cilt yapma işlemi gösterilir.\n       Giyotinde kâğıt bloğu kesmesi sağlanır.\n       Spiral takma işlemi yaptırılır.\nNot: Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "ÜNİTE": "İç Blok Birleştirme",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "6",
+      "KONU": "5.   Tel dikiş yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Ünite/Tema: İç Blok Birleştirme\nKonu/İçerik: 5.   Tel dikiş yapmak\nKazanım/Öğrenme Çıktıları: İç blok şekline ve boyutuna uygun tel dikiş yapar.\nTel dikiş makineleri açıklanır.\n       Giyotinde kâğıt bloğu kesmesi sağlanır.\n       Tel dikiş işlemini yapması sağlanır.\nNot: Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "ÜNİTE": "İç Blok Birleştirme",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "6",
+      "KONU": "5.   Tel dikiş yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Ünite/Tema: İç Blok Birleştirme\nKonu/İçerik: 5.   Tel dikiş yapmak\nKazanım/Öğrenme Çıktıları: İç blok şekline ve boyutuna uygun tel dikiş yapar.\nTel dikiş makineleri açıklanır.\n       Giyotinde kâğıt bloğu kesmesi sağlanır.\n       Tel dikiş işlemini yapması sağlanır.\nNot: Etik Günü İstanbulun Fethi"
+    },
+    {
+      "ÜNİTE": "İç Blok Birleştirme",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "6",
+      "KONU": "5.   Tel dikiş yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Ünite/Tema: İç Blok Birleştirme\nKonu/İçerik: 5.   Tel dikiş yapmak\nKazanım/Öğrenme Çıktıları: 2. Dönem 2. Sınav  İç blok şekline ve boyutuna uygun tel dikiş yapar.\nTel dikiş makineleri açıklanır.\n       Giyotinde kâğıt bloğu kesmesi sağlanır.\n       Tel dikiş işlemini yapması sağlanır.\nNot: Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "ÜNİTE": "Paketleme ve Sevkiyat",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "6",
+      "KONU": "1.   Üretilen ürünü paketleyip sevkiyata hazır hale getirmek  2.    Paketlemesi tamamlanan ürünleri sevkiyata hazır hale getirmek",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Ünite/Tema: Paketleme ve Sevkiyat\nKonu/İçerik: 1.   Üretilen ürünü paketleyip sevkiyata hazır hale getirmek  2.    Paketlemesi tamamlanan ürünleri sevkiyata hazır hale getirmek\nKazanım/Öğrenme Çıktıları: Üretilen ürünü tekniğine uygun paketler.\n Paketlemesi tamamlanan ürünleri sevkiyata hazır hale getirir.\nPaketleme malzemeleri açıklanır.\n       Paket yapım işlemi gösterilir.\n       Paket yapması sağlanır.\nNot: Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "6",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Ünite/Tema: Genel Tekrar\nKonu/İçerik: Genel Tekrar\nKazanım/Öğrenme Çıktıları: Genel Tekrar\nNot: Etik Günü"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "6",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Ünite/Tema: Etkinlik Haftası\nKonu/İçerik: Etkinlik Haftası\nKazanım/Öğrenme Çıktıları: Etkinlik Haftası\nNot: Etik Günü"
+    }
+  ]
+}

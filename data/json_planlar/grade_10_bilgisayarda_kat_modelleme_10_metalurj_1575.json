@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "Bilgisayarda Kat Modelleme 10 (metalurj)",
+  "plan": [
+    {
+      "ÜNİTE": "Taslak Modelleme",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "1. Taslak Ortamında Çalışma",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Ünite/Tema: Taslak Modelleme\nKonu/İçerik: 1. Taslak Ortamında Çalışma\nKazanım/Öğrenme Çıktıları: Taslak ortamında çalışır.\nTaslak çizim komutlarının genel amacını açıklaması sağlanır.\n       Taslak çizim komutlarını listelemesi sağlanır.\nNot: Uluslararası Temiz Hava Günü"
+    },
+    {
+      "ÜNİTE": "Taslak Modelleme",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "2. Taslaklara Geometrik Kısıtlamalarını Atama",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Ünite/Tema: Taslak Modelleme\nKonu/İçerik: 2. Taslaklara Geometrik Kısıtlamalarını Atama\nKazanım/Öğrenme Çıktıları: Taslaklara geometrik kısıtlamalarını atar.\nTaslak çizimlerde çizgiler arasında geometrik ilişkilendirmeleri açıklaması sağlanacaktır.\n       Taslak çizim düzenleme komutlarını listelemesi sağlanacaktır.\nNot: İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü"
+    },
+    {
+      "ÜNİTE": "Taslak Modelleme",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "3. Taslak Ortamında Ölçülendirme",
+      "KAZANIM": "Ünite/Tema: Taslak Modelleme\nKonu/İçerik: 3. Taslak Ortamında Ölçülendirme\nKazanım/Öğrenme Çıktıları: Taslak ortamında ölçülendirme yapar.\nÖlçülendirme komutlarını listelemesi sağlanacaktır."
+    },
+    {
+      "ÜNİTE": "Taslak Modelleme",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "3. Taslak Ortamında Ölçülendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Ünite/Tema: Taslak Modelleme\nKonu/İçerik: 3. Taslak Ortamında Ölçülendirme\nKazanım/Öğrenme Çıktıları: Taslak ortamında ölçülendirme yapar.\nÖlçülendirme komutlarını listelemesi sağlanacaktır.\nNot: Disleksi Haftası Dünya Disleksi Günü"
+    },
+    {
+      "ÜNİTE": "Taslak Modelleme",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "3. Taslak Ortamında Ölçülendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Ünite/Tema: Taslak Modelleme\nKonu/İçerik: 3. Taslak Ortamında Ölçülendirme\nKazanım/Öğrenme Çıktıları: Taslak ortamında ölçülendirme yapar.\nÖlçülendirme komutlarını listelemesi sağlanacaktır.\nNot: Ahilik Kültürü Haftası"
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "1. Modelleri Oluşturma",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 1. Modelleri Oluşturma\nKazanım/Öğrenme Çıktıları: Modelleri oluşturur.\nKatı model oluşturma komutlarını listelemesi sağlanır.\n       Katı model oluşturma komutlarının görevlerini açıklaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "1. Modelleri Oluşturma",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 1. Modelleri Oluşturma\nKazanım/Öğrenme Çıktıları: Modelleri oluşturur.\nKatı model oluşturma komutlarını listelemesi sağlanır.\n       Katı model oluşturma komutlarının görevlerini açıklaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "1. Modelleri Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 1. Modelleri Oluşturma\nKazanım/Öğrenme Çıktıları: Modelleri oluşturur.\nKatı model oluşturma komutlarını listelemesi sağlanır.\n       Katı model oluşturma komutlarının görevlerini açıklaması sağlanır.\nNot: Cumhuriyet Bayramı"
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "2. Modelleri Düzenleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 2. Modelleri Düzenleme\nKazanım/Öğrenme Çıktıları: 1. Dönem 1. Sınav  Modelleri düzenler.\nOluşturulan Katı modelin düzenleme revize komutlarını açıklaması sağlanır.\nNot: Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası"
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "Ünite/Tema: 1. Dönem Ara Tatili\nKonu/İçerik: 1. Dönem Ara Tatili\nKazanım/Öğrenme Çıktıları: 1. Dönem Ara Tatili\nNot: Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü"
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "2. Modelleri Düzenleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 2. Modelleri Düzenleme\nKazanım/Öğrenme Çıktıları: Modelleri düzenler.\nOluşturulan Katı modelin düzenleme revize komutlarını açıklaması sağlanır.\nNot: Dünya FELSEFE Günü Dünya Çocuk Hakları Günü"
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "2. Modelleri Düzenleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 2. Modelleri Düzenleme\nKazanım/Öğrenme Çıktıları: Modelleri düzenler.\nOluşturulan Katı modelin düzenleme revize komutlarını açıklaması sağlanır.\nNot: Ağız ve Diş Sağlığı Haftası Öğretmenler Günü"
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "3. Referans Elemanlarını Atama",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 3. Referans Elemanlarını Atama\nKazanım/Öğrenme Çıktıları: Referans elemanlarını atar.\nKatı model üzerinde var olan diğer gövdelerin taslak çizimleri ve referans yüzeylerini açıklaması sağlanır.\n       Mevcut yüzey ve düzlemler dışında taslak çizim için uygun referans düzlem atamayı açıklaması sağlanır.\n       Silindirik yüzeylere referans eksen atamayı açıklaması sağlanır.\nNot: Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi"
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "3. Referans Elemanlarını Atama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 3. Referans Elemanlarını Atama\nKazanım/Öğrenme Çıktıları: Referans elemanlarını atar.\nKatı model üzerinde var olan diğer gövdelerin taslak çizimleri ve referans yüzeylerini açıklaması sağlanır.\n       Mevcut yüzey ve düzlemler dışında taslak çizim için uygun referans düzlem atamayı açıklaması sağlanır.\n       Silindirik yüzeylere referans eksen atamayı açıklaması sağlanır.\nNot: Mevlana Haftası İnsan Hakları ve Demokrasi Haftası"
+    },
+    {
+      "ÜNİTE": "Katı Oluşturma",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "3. Referans Elemanlarını Atama",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Ünite/Tema: Katı Oluşturma\nKonu/İçerik: 3. Referans Elemanlarını Atama\nKazanım/Öğrenme Çıktıları: Referans elemanlarını atar.\nKatı model üzerinde var olan diğer gövdelerin taslak çizimleri ve referans yüzeylerini açıklaması sağlanır.\n       Mevcut yüzey ve düzlemler dışında taslak çizim için uygun referans düzlem atamayı açıklaması sağlanır.\n       Silindirik yüzeylere referans eksen atamayı açıklaması sağlanır.\nNot: Tutum Yatırım ve Türk Malları Haftası"
+    },
+    {
+      "ÜNİTE": "Sac Metal",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "1. Temel Sac Metal Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Ünite/Tema: Sac Metal\nKonu/İçerik: 1. Temel Sac Metal Oluşturma\nKazanım/Öğrenme Çıktıları: Temel sac metal oluşturur.\nSac düzenleme komutlarını açıklaması sağlanır.\nNot: Mehmet Akif Ersoyu Anma Haftası"
+    },
+    {
+      "ÜNİTE": "Sac Metal",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "1. Temel Sac Metal Oluşturma",
+      "KAZANIM": "Ünite/Tema: Sac Metal\nKonu/İçerik: 1. Temel Sac Metal Oluşturma\nKazanım/Öğrenme Çıktıları: Temel sac metal oluşturur.\nSac düzenleme komutlarını açıklaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Sac Metal",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "2. Sacları Düzenleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "Ünite/Tema: Sac Metal\nKonu/İçerik: 2. Sacları Düzenleme\nKazanım/Öğrenme Çıktıları: 1. Dönem 2. Sınav  Sacları düzenler.\nSac düzenleme işlem sırasının açıklaması sağlanır.\nNot: Enerji Tasarrufu Haftası"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Ünite/Tema: Etkinlik Haftası\nKonu/İçerik: Etkinlik Haftası\nKazanım/Öğrenme Çıktıları: Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Ünite/Tema: Yarıyıl Tatili\nKonu/İçerik: Yarıyıl Tatili\nKazanım/Öğrenme Çıktıları: Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Ünite/Tema: Yarıyıl Tatili\nKonu/İçerik: Yarıyıl Tatili\nKazanım/Öğrenme Çıktıları: Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Sac Metal",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "3. Sac Açınımlarını Oluşturmak ve Kalıplama",
+      "KAZANIM": "Ünite/Tema: Sac Metal\nKonu/İçerik: 3. Sac Açınımlarını Oluşturmak ve Kalıplama\nKazanım/Öğrenme Çıktıları: Sac açınımlarını oluşturur ve kalıplar.\nSac modellerin kısmi ve tam açınımının açıklaması sağlanır.\n       Oluşturduğu sac üzerine yapılabilen standart formları baskıları açıklaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Sac Metal",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "3. Sac Açınımlarını Oluşturmak ve Kalıplama",
+      "KAZANIM": "Ünite/Tema: Sac Metal\nKonu/İçerik: 3. Sac Açınımlarını Oluşturmak ve Kalıplama\nKazanım/Öğrenme Çıktıları: Sac açınımlarını oluşturur ve kalıplar.\nSac modellerin kısmi ve tam açınımının açıklaması sağlanır.\n       Oluşturduğu sac üzerine yapılabilen standart formları baskıları açıklaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Sac Metal",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "3. Sac Açınımlarını Oluşturmak ve Kalıplama",
+      "KAZANIM": "Ünite/Tema: Sac Metal\nKonu/İçerik: 3. Sac Açınımlarını Oluşturmak ve Kalıplama\nKazanım/Öğrenme Çıktıları: Sac açınımlarını oluşturur ve kalıplar.\nSac modellerin kısmi ve tam açınımının açıklaması sağlanır.\n       Oluşturduğu sac üzerine yapılabilen standart formları baskıları açıklaması sağlanır."
+    },
+    {
+      "ÜNİTE": "Sac Metal",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "3. Sac Açınımlarını Oluşturmak ve Kalıplama",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Ünite/Tema: Sac Metal\nKonu/İçerik: 3. Sac Açınımlarını Oluşturmak ve Kalıplama\nKazanım/Öğrenme Çıktıları: Sac açınımlarını oluşturur ve kalıplar.\nSac modellerin kısmi ve tam açınımının açıklaması sağlanır.\n       Oluşturduğu sac üzerine yapılabilen standart formları baskıları açıklaması sağlanır.\nNot: Vergi Haftası Yeşilay Haftası"
+    },
+    {
+      "ÜNİTE": "Montaj Modelleme",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "1. Katı Modellerin Montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Ünite/Tema: Montaj Modelleme\nKonu/İçerik: 1. Katı Modellerin Montajı\nKazanım/Öğrenme Çıktıları: Katı modellerin montajını yapar.\nMontaj işleminde kullanılan komutları açıklaması sağlanır.\n       Standart makine elemanlarının bulunduğu kütüphanenin kullanımının açıklaması sağlanır.\n       Montaj ilişkilerini açıklaması sağlanır.\nNot: Girişimcilik Haftası"
+    },
+    {
+      "ÜNİTE": "Montaj Modelleme",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "1. Katı Modellerin Montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Ünite/Tema: Montaj Modelleme\nKonu/İçerik: 1. Katı Modellerin Montajı\nKazanım/Öğrenme Çıktıları: Katı modellerin montajını yapar.\nMontaj işleminde kullanılan komutları açıklaması sağlanır.\n       Standart makine elemanlarının bulunduğu kütüphanenin kullanımının açıklaması sağlanır.\n       Montaj ilişkilerini açıklaması sağlanır.\nNot: Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü"
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "Ünite/Tema: 2. Dönem Ara Tatili\nKonu/İçerik: 2. Dönem Ara Tatili\nKazanım/Öğrenme Çıktıları: 2. Dönem Ara Tatili\nNot: Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası"
+    },
+    {
+      "ÜNİTE": "Montaj Modelleme",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "1. Katı Modellerin Montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Ünite/Tema: Montaj Modelleme\nKonu/İçerik: 1. Katı Modellerin Montajı\nKazanım/Öğrenme Çıktıları: Katı modellerin montajını yapar.\nMontaj işleminde kullanılan komutları açıklaması sağlanır.\n       Standart makine elemanlarının bulunduğu kütüphanenin kullanımının açıklaması sağlanır.\n       Montaj ilişkilerini açıklaması sağlanır.\nNot: Orman Haftası Dünya Tiyatrolar Günü"
+    },
+    {
+      "ÜNİTE": "Montaj Modelleme",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "2. Montaja Kaynak Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Ünite/Tema: Montaj Modelleme\nKonu/İçerik: 2. Montaja Kaynak Uygulama\nKazanım/Öğrenme Çıktıları: Montaja kaynak uygular.\n3D ile taslak çizmeyi açıklaması sağlanır.\n       Kaynak düzenleme komutlarının ve kaynak düzenleme işlem sırasını açıklaması sağlanır.\nNot: Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü"
+    },
+    {
+      "ÜNİTE": "Montaj Modelleme",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "2. Montaja Kaynak Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "Ünite/Tema: Montaj Modelleme\nKonu/İçerik: 2. Montaja Kaynak Uygulama\nKazanım/Öğrenme Çıktıları: 2. Dönem 1. Sınav  Montaja kaynak uygular.\n3D ile taslak çizmeyi açıklaması sağlanır.\n       Kaynak düzenleme komutlarının ve kaynak düzenleme işlem sırasını açıklaması sağlanır.\nNot: Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü"
+    },
+    {
+      "ÜNİTE": "Montaj Modelleme",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "2. Montaja Kaynak Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Ünite/Tema: Montaj Modelleme\nKonu/İçerik: 2. Montaja Kaynak Uygulama\nKazanım/Öğrenme Çıktıları: Montaja kaynak uygular.\n3D ile taslak çizmeyi açıklaması sağlanır.\n       Kaynak düzenleme komutlarının ve kaynak düzenleme işlem sırasını açıklaması sağlanır.\nNot: Turizm Haftası"
+    },
+    {
+      "ÜNİTE": "Katı Modeli Teknik Resme Aktarma",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "1. Katı Modeli İki Boyutlu Resme Çevirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Ünite/Tema: Katı Modeli Teknik Resme Aktarma\nKonu/İçerik: 1. Katı Modeli İki Boyutlu Resme Çevirme\nKazanım/Öğrenme Çıktıları: Katı modeli iki boyutlu resme çevirir.\nPaket programın iki boyutlu çizim options özellikler ayarlarını açıklaması sağlanır.\n       İki boyutlu çizim çalışma ortamı ve özelliklerini açıklaması sağlanır.\n       Modeli kâğıda yerleştirme ve detaylandırma komutlarını sıralaması sağlanır.\n       Antet doldurması sağlanır.\n       Parça listesi ve tablo oluşturması sağlanır\nNot: Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "ÜNİTE": "Katı Modeli Teknik Resme Aktarma",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "1. Katı Modeli İki Boyutlu Resme Çevirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Ünite/Tema: Katı Modeli Teknik Resme Aktarma\nKonu/İçerik: 1. Katı Modeli İki Boyutlu Resme Çevirme\nKazanım/Öğrenme Çıktıları: Katı modeli iki boyutlu resme çevirir.\nPaket programın iki boyutlu çizim options özellikler ayarlarını açıklaması sağlanır.\n       İki boyutlu çizim çalışma ortamı ve özelliklerini açıklaması sağlanır.\n       Modeli kâğıda yerleştirme ve detaylandırma komutlarını sıralaması sağlanır.\n       Antet doldurması sağlanır.\n       Parça listesi ve tablo oluşturması sağlanır\nNot: Kûtül Amâre Zaferi"
+    },
+    {
+      "ÜNİTE": "Katı Modeli Teknik Resme Aktarma",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "2. İki Boyutlu veya Katıyı YazdırmaÇizdirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Ünite/Tema: Katı Modeli Teknik Resme Aktarma\nKonu/İçerik: 2. İki Boyutlu veya Katıyı YazdırmaÇizdirme\nKazanım/Öğrenme Çıktıları: İki boyutlu ve katıyı çizer.\nYazıcı ve çizicileri sınıflandırması sağlanır.\n       Resim için uygun kâğıt ayarlamayı açıklaması sağlanır.\n       Yazıcıçiziciden çıktı alınması sağlanır\nNot: Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası"
+    },
+    {
+      "ÜNİTE": "Katı Modeli Teknik Resme Aktarma",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "2. İki Boyutlu veya Katıyı YazdırmaÇizdirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Ünite/Tema: Katı Modeli Teknik Resme Aktarma\nKonu/İçerik: 2. İki Boyutlu veya Katıyı YazdırmaÇizdirme\nKazanım/Öğrenme Çıktıları: İki boyutlu ve katıyı çizer.\nYazıcı ve çizicileri sınıflandırması sağlanır.\n       Resim için uygun kâğıt ayarlamayı açıklaması sağlanır.\n       Yazıcıçiziciden çıktı alınması sağlanır\nNot: Engelliler Haftası Vakıflar Haftası"
+    },
+    {
+      "ÜNİTE": "Animasyon",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "1. Animasyon Parametrelerini Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Ünite/Tema: Animasyon\nKonu/İçerik: 1. Animasyon Parametrelerini Uygulama\nKazanım/Öğrenme Çıktıları: Animasyon parametrelerini uygular.\nMontaj animasyonu yapmanın önemini açıklaması sağlanır.\n       Montaj animasyonu yapma komutlarını açıklaması sağlanır.\nNot: Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı"
+    },
+    {
+      "ÜNİTE": "Animasyon",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "1. Animasyon Parametrelerini Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Ünite/Tema: Animasyon\nKonu/İçerik: 1. Animasyon Parametrelerini Uygulama\nKazanım/Öğrenme Çıktıları: Animasyon parametrelerini uygular.\nMontaj animasyonu yapmanın önemini açıklaması sağlanır.\n       Montaj animasyonu yapma komutlarını açıklaması sağlanır.\nNot: Etik Günü İstanbulun Fethi"
+    },
+    {
+      "ÜNİTE": "Animasyon",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "2. Animasyonları Oluşturma ve Kaydetme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Ünite/Tema: Animasyon\nKonu/İçerik: 2. Animasyonları Oluşturma ve Kaydetme\nKazanım/Öğrenme Çıktıları: 2. Dönem 2. Sınav  Animasyonları oluşturur ve kaydeder.\nMontaj ve Demontaj animasyonunun yapılış yöntemini açıklaması sağlanır.\n       Montaj ve demontaj animasyonunun video formatına dönüştürülmesini açıklaması sağlanır.\nNot: Etik Günü Hayat Boyu Öğrenme Haftası"
+    },
+    {
+      "ÜNİTE": "Animasyon",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "2. Animasyonları Oluşturma ve Kaydetme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Ünite/Tema: Animasyon\nKonu/İçerik: 2. Animasyonları Oluşturma ve Kaydetme\nKazanım/Öğrenme Çıktıları: Animasyonları oluşturur ve kaydeder.\nMontaj ve Demontaj animasyonunun yapılış yöntemini açıklaması sağlanır.\n       Montaj ve demontaj animasyonunun video formatına dönüştürülmesini açıklaması sağlanır.\nNot: Etik Günü Çevre ve İklim Değişikliği Haftası"
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Ünite/Tema: Genel Tekrar\nKonu/İçerik: Genel Tekrar\nKazanım/Öğrenme Çıktıları: Genel Tekrar\nNot: Etik Günü"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Ünite/Tema: Etkinlik Haftası\nKonu/İçerik: Etkinlik Haftası\nKazanım/Öğrenme Çıktıları: Etkinlik Haftası\nNot: Etik Günü"
+    }
+  ]
+}

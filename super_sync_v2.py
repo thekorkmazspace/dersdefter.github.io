@@ -35,88 +35,161 @@ def turkish_title(text):
     return " ".join(fix_word(w) for w in text.split())
 
 RESTORATION_MAP = {
-    # Frequency Fixes
-    "MAARIF": "MAARİF", "MAARF": "MAARİF",
-    "BILGISI": "BİLGİSİ", "BILGI": "BİLGİ", "BILGILERI": "BİLGİLERİ",
-    "DKAB": "DİN KÜLTÜRÜ VE AHLAK BİLGİSİ", "DIN": "DİN",
-    "KULTURU": "KÜLTÜRÜ", "KULTUR": "KÜLTÜR",
-    "DILI": "DİLİ", "EDEBİYATI": "EDEBİYATI", "EDEBYATI": "EDEBİYATI",
-    "TURK": "TÜRK", "TRK": "TÜRK",
-    "INGILIZCE": "İNGİLİZCE", "ING": "İNGİLİZCE",
-    "MATEMATIK": "MATEMATİK", "MAT": "MATEMATİK",
-    "FIZIK": "FİZİK", "FZK": "FİZİK",
-    "BIYOLOJI": "BİYOLOJİ", "BYL": "BİYOLOJİ",
-    "KIMYA": "KİMYA", "KMY": "KİMYA",
-    "GORSEL": "GÖRSEL", "SANATLAR": "SANATLAR",
-    "MUZIK": "MÜZİK", "MZK": "MÜZİK",
-    "BEDEN": "BEDEN", "EGT": "EĞİTİMİ", "EGITIMI": "EĞİTİMİ",
-    "REHBERLK": "REHBERLİK", "REHBERLIK": "REHBERLİK",
-    "BECERILERI": "BECERİLERİ", "BECERI": "BECERİ",
-    "ILETISIM": "İLETİŞİM", "ILETISM": "İLETİŞİM",
-    "GMDSS": "GMDSS", "TEKNK": "TEKNİK", "TEKNIK": "TEKNİK",
-    "SISTEMLERI": "SİSTEMLERİ", "SISTEMLER": "SİSTEMLER", "SISTEMI": "SİSTEMİ",
-    "UYGULAMALARI": "UYGULAMALARI", "UYGULAMA": "UYGULAMA",
-    "ANATOMI": "ANATOMİ", "FIZYOLOJI": "FİZYOLOJİ",
-    "HAZIRLIK": "HAZIRLIK", "HZL": "HAZIRLIK",
-    "OZEL": "ÖZEL", "EGITIM": "EĞİTİM",
-    "MESLEKI": "MESLEKİ", "GELISIM": "GELİŞİM",
-    "COGRAFYA": "COĞRAFYA", "TARİH": "TARİH", "TARIH": "TARİH",
-    "INKILAP": "İNKILAP", "ATATURKCULUK": "ATATÜRKÇÜLÜK",
-    "SAGLIK": "SAĞLIK", "GUVENLIK": "GÜVENLİK",
-    "ISARET": "İŞARET", "TOPLUMSAL": "TOPLUMSAL", "UYUM": "UYUM",
-    "BECERILER": "BECERİLER", "BECERISI": "BECERİSİ",
-    "AHSAP": "AHŞAP", "ATOLYESI": "ATÖLYESİ", "ATOLYE": "ATÖLYE",
-    "YONLENDIRME": "YÖNLENDİRME", "YONETICILIGI": "YÖNETİCİLİĞİ",
-    "GIRISIMCILIK": "GİRİŞİMCİLİK", "AHILIK": "AHİLİK",
-    "URETIMI": "ÜRETİMİ", "URETIM": "ÜRETİM", "GIYSI": "GİYSİ",
-    "TASARIMI": "TASARIMI", "SAYISAL": "SAYISAL", "MANTIK": "MANTIK",
-    "TEKNOLOJISI": "TEKNOLOJİSİ", "TEKNOLOJILERI": "TEKNOLOJİLERİ",
-    "TESSAT": "TESİSAT", "Tesisati": "TESİSATI",
-    "YAPI": "YAPI", "ELEKTRIK": "ELEKTRİK", "KUVVET": "KUVVET",
-    "OTOMASYON": "OTOMASYON", "GUC": "GÜÇ", "ELEKTRONIGI": "ELEKTRONİĞİ",
-    "BILGISAYAR": "BİLGİSAYAR", "DESTEKLI": "DESTEKLİ", "CİZİM": "ÇİZİM",
-    "CIHAZ": "CİHAZ", "CIHAZLARI": "CİHAZLARI", "GRAFIK": "GRAFİK",
-    "MMAR": "MİMARİ", "MOBILYA": "MOBİLYA", "İC": "İÇ", "MEKAN": "MEKAN",
-    "SİSTEMİNDE": "SİSTEMİNDE", "İLK": "İLK", "YARDIM": "YARDIM",
-    "FELSEFE": "FELSEFE", "ALMANCA": "ALMANCA", "COĞRAFYA": "COĞRAFYA",
-    "EDEBYAT": "EDEBİYAT", "EDB": "EDEBİYAT", "TRKCE": "TÜRKÇE",
-    "BILISIM": "BİLİŞİM", "İC": "İÇ", "DİSYON": "DİKSİYON",
-    "SBL": "SOSYAL BİLİMLER LİSESİ", "AL": "ANADOLU LİSESİ", "FL": "FEN LİSESİ"
+    "SBL": "SOSYAL BİLİMLER LİSESİ", "AL": "ANADOLU LİSESİ", "FL": "FEN LİSESİ",
+    "COGRAFYASI": "COĞRAFYASI", "DUNYASI": "DÜNYASI",
+    "PNOMATIK": "PNÖMATİK", "HIDROLIK": "HİDROLİK", "SİSTEM": "SİSTEM",
+    "TERMİNOLOJİSİ": "TERMİNOLOJİSİ", "ELEMANLARI": "ELEMANLARI",
+    "TASARIM": "TASARIM", "GRAFİĞİ": "GRAFİĞİ",
+    # Advanced Hyper-Fixes
+    "ALE": "AİLE", "EKONOMS": "EKONOMİSİ", "KAYNAKLAR": "KAYNAKLARI",
+    "ACIL": "ACİL", "HIZMET": "HİZMET", "HIZMETLER": "HİZMETLERİ",
+    "DENZCLK": "DENİZCİLİK", "DENZDE": "DENİZDE", "EMNYET": "EMNİYET",
+    "DGTAL": "DİJİTAL", "DIGITAL": "DİJİTAL", "ELEKTRONIK": "ELEKTRONİK",
+    "COCUK": "ÇOCUK", "AKTVTELER": "AKTİVİTELERİ", "BAKIMI": "BAKIMI",
+    "BASSAVCL": "BAŞSAVCILIK", "BASSAVCI": "BAŞSAVCI", "KALEM": "KALEM",
+    "HUKUKI": "HUKUKİ", "TERMNO": "TERMİNOLOJİ", "TERM": "TERMİNOLOJİ",
+    "İNKILAP": "İNKILAP", "TARİHİ": "TARİHİ", "ATATURK": "ATATÜRK",
+    "TÜRKÇESİ": "TÜRKÇESİ", "URDU": "URDU", "OSMANLI": "OSMANLI",
+    "CAGDAS": "ÇAĞDAŞ", "DUNYA": "DÜNYA", "MUKAYESELİ": "MUKAYESELİ",
+    "ADAB-I": "ADAB-I", "MUASERET": "MUAŞERET", "AHLAK": "AHLAK",
+    "TEKSTIL": "TEKSTİL", "TEKNOLOJILER": "TEKNOLOJİLERİ",
+    "MODA": "MODA", "TASARIMLARI": "TASARIMLARI",
+    "AHSAP": "AHŞAP", "OYUNCAK": "OYUNCAK", "ATOLYESI": "ATÖLYESİ",
+    "TAKPLK": "TAKİPÇİLİK", "ATCLK": "ATÇILIK", "ATKLAR": "ATIKLAR",
+    "ADL": "ADLİ", "SBLMEB": "SOSYAL BİLİMLER LİSESİ",
+    "ALMEB": "ANADOLU LİSESİ", "FLMEB": "FEN LİSESİ",
+    "REHBERLK": "REHBERLİK"
 }
 
 def deep_fix_name(name):
-    # Fix character level corruption before mapping
-    fixes = [
-        (r'DıL', 'DİL'), (r'BıLG', 'BİLG'), (r'ıLETıS', 'İLETİŞ'),
-        (r'ıNGıLıZ', 'İNGİLİZ'), (r'MATEMATıK', 'MATEMATİK'),
-        (r'MuzıK', 'MÜZİK'), (r'BıRıNCı', 'BİRİNCİ'), (r'ıkıncı', 'İKİNCİ'),
-        (r'ııı', 'III'), (r'ıı', 'II'), (r'ı\.+kademe', 'I. Kademe'),
-        (r'maarıf', 'MAARİF'), (r'BECERı', 'BECERİ'), (r'SıSTEM', 'SİSTEM'),
-        (r'SıNF', 'SINIF'), (r'EDEBıYAT', 'EDEBİYAT'), (r'eğıtım', 'EĞİTİM'),
-        (r'ıŞaret', 'İŞARET'), (r'ıletıŞım', 'İLETİŞİM'), (r'ıÇerık', 'İÇERİK'),
-        (r'ıle', 'İLE'), (r'etkınlık', 'ETKİNLİK'),
-        (r'ıbadet', 'İBADET'), (r'ınanc', 'İNANÇ'), (r'ıslam', 'İSLAM'),
-        (r'tıcaret', 'TİCARET'), (r'ısletme', 'İŞLETME'), (r'ıletısım', 'İLETİŞİM'),
-        (r'fızık', 'FİZİK'), (r'bıyolojı', 'BİYOLOJİ'), (r'kımya', 'KİMYA'),
-        (r'dzayn', 'DİZAYN'), (r'grafık', 'GRAFİK'), (r'resem', 'RESİM'),
-        (r'teknık', 'TEKNİK'), (r'hukukı', 'HUKUKİ'), (r'takplk', 'TAKİPÇİLİK'),
-        (r'clık', 'CILIK'), (r'clıgı', 'CILIĞI'), (r'atatrkclk', 'ATATÜRKÇÜLÜK'),
-        (r'osmanlı turkcesı', 'OSMANLI TÜRKÇESİ'), (r'inkılap tarıh', 'İNKILAP TARİHİ'),
-        (r'termınolojı', 'TERMİNOLOJİ'), (r'haberlesme', 'HABERLEŞME'),
-        (r'emnyet', 'EMNİYET'), (r'uretımı', 'ÜRETİMİ'), (r'gıysı', 'GİYSİ'),
-        (r'teknolojı', 'TEKNOLOJİ'), (r'sıstemlerı', 'SİSTEMLERİ'), (r'teknyen', 'TEKNİSYEN'),
-        (r'ahılık', 'AHİLİK'), (r'abıyee', 'ABİYE'), (r'abıye', 'ABİYE'),
-        (r'ıscılıgı', 'İŞÇİLİĞİ'), (r'ıscı', 'İŞÇİ'), (r'ısnın', 'İŞİNİN'),
-        (r'sanatlar', 'SANATLAR'), (r'turk_cesı', 'TÜRKÇESİ')
+    # Fix combining marks
+    name = unicodedata.normalize('NFKC', name)
+    name = name.replace("ı̇", "i").replace("İ", "İ").replace("i̇", "i")
+    
+    # Stem-based context aware character fix
+    stems = [
+        (r'B[Iıİ]LG[Iıİ]SAYAR', 'BİLGİSAYAR'),
+        (r'[Iıİ]LET[Iıİ]S[Iıİ]M', 'İLETİŞİM'),
+        (r'[Iıİ]NG[Iıİ]L[Iıİ]ZCE', 'İNGİLİZCE'),
+        (r'[İIicç]ER[Iıİ]K', 'İÇERİK'),
+        (r'D[Iıİ]S', 'DIŞ'),
+        (r'S[Iıİ]STEM', 'SİSTEM'),
+        (r'UR[EÉ]T[Iıİ]M', 'ÜRETİM'),
+        (r'E[GĞ][Iıİ]T[Iıİ]M', 'EĞİTİM'),
+        (r'B[Iıİ]L[Iıİ]M', 'BİLİM'),
+        (r'TEKN[Iıİ]K', 'TEKNİK'),
+        (r'D[Iıİ]L', 'DİL'),
+        (r'M[UÜ]Z[Iıİ]K', 'MÜZİK'),
+        (r'BECER[Iıİ]', 'BECERİ'),
+        (r'EDEB[Iıİ]YAT', 'EDEBİYAT'),
+        (r'[Iıİ]S[Iıİ]ARET', 'İŞARET'),
+        (r'C[AÁ]GDA[SŞ]', 'ÇAĞDAŞ'),
+        (r'D[UÜ]NYA', 'DÜNYA'),
+        (r'B[Iıİ]RLE[SŞ]T[Iıİ]RME', 'BİRLEŞTİRME'),
+        (r'H[Iıİ]ZMET', 'HİZMET'),
+        (r'D[Iıİ]J[Iıİ]TAL', 'DİJİTAL'),
+        (r'D[Iıİ]G[Iıİ]TAL', 'DİJİTAL'),
+        (r'ADAB-I', 'ADAB-I'),
+        (r'MU[AÁ]SERET', 'MUAŞERET'),
+        (r'AHSAP', 'AHŞAP'),
+        (r'URET[Iıİ]M[Iıİ]', 'ÜRETİMİ'),
+        (r'RES[Iıİ]M', 'RESİM'),
+        (r'BA[GĞ][Iıİ]MS[Iıİ]Z', 'BAĞIMSIZ'),
+        (r'[OÖ]NCES[Iıİ]', 'ÖNCESİ'),
+        (r'SONRAS[Iıİ]', 'SONRASI'),
+        (r'D[Iıİ]KS[Iıİ]YON', 'DİKSİYON'),
+        (r'H[Iıİ]TABET', 'HİTABET'),
+        (r'D[UÜ][SŞ][UÜ]NME', 'DÜŞÜNME'),
+        (r'M[UÜ]DAHALE', 'MÜDAHALE'),
+        (r'Y[OÖ]NTEM', 'YÖNTEM'),
+        (r'B[Iıİ]LG[Iıİ]S[Iıİ]', 'BİLGİSİ'),
+        (r'MEDEN[Iıİ]YET', 'MEDENİYETİ'),
+        (r'YASAM', 'YAŞAM'),
+        (r'İŞLEMLER$', 'İŞLEMLERİ'),
+        (r'ISLEMLER$', 'İŞLEMLERİ'),
+        (r'ISLEMLER', 'İŞLEMLERİ')
     ]
     
-    # Selective high-confidence replacements for corrupted suffixes
-    # Only if not preceded by 'Hazırl' 'Sın' 'Bak' 'Anlat' 'Yap' 'Yaz'
-    # Actually, let's stick to the word list for now to be safe, but more expanded.
+    for bad, good in stems:
+        if good == 'MÜDÜRHALE': good = 'MÜDAHALE' # Cleanup
+        name = re.sub(bad, good, name, flags=re.IGNORECASE)
+
+    # Common OCR/Conversion fixes
+    fixes = [
+        (r'ı\.+kademe', 'I. Kademe'),
+        (r'maarıf', 'MAARİF'),
+        (r'atatrkclk', 'ATATÜRKÇÜLÜK'),
+        (r'uretımı', 'ÜRETİMİ'),
+        (r'gıysı', 'GİYSİ'),
+        (r'ıscılıgı', 'İŞÇİLİĞİ'),
+        (r'ale ekonoms', 'AİLE EKONOMİSİ'),
+        (r'ale kaynaklar', 'AİLE KAYNAKLARI'),
+        (r'cografyası', 'COĞRAFYASI'),
+        (r'pnomatık', 'PNÖMATİK'),
+        (r'hızmetlerı', 'HİZMETLERİ'),
+        (r'hızmetler$', 'HİZMETLERİ'),
+        (r'yasam becerileri', 'Yaşam Becerileri')
+    ]
     
-    # Apply word-based fixes
     for bad, good in fixes:
         name = re.sub(bad, good, name, flags=re.IGNORECASE)
+        
+    trunc_suffixes = [
+        (r'SİSTEMLER$', 'SİSTEMLERİ'),
+        (r'UYGULAMALAR$', 'UYGULAMALARI'),
+        (r'TEKNOLOJİLER$', 'TEKNOLOJİLERİ'),
+        (r'TEKNİKLER$', 'TEKNİKLERİ'),
+        (r'İŞLEMLER$', 'İŞLEMLERİ'),
+        (r'BECERİLER$', 'BECERİLERİ'),
+        (r'CİHAZLAR$', 'CİHAZLARI'),
+        (r'LABORATUVAR$', 'LABORATUVARI')
+    ]
+    
+    name = turkish_upper(name)
+    for bad, good in trunc_suffixes:
+        name = re.sub(bad, good, name)
+        
+    return name
+
+def linguistic_harmony_fix(name):
+    # Fixes ı/i confusion at the end of words based on linguistic harmony
+    words = name.split()
+    fixed_words = []
+    for word in words:
+        if not word or len(word) < 3:
+            fixed_words.append(word)
+            continue
+            
+        clean_word = word.strip("()*")
+        if clean_word.endswith('ı') and any(v in clean_word.lower() for v in 'eiöü'):
+            word = word.replace('ı', 'i')
+        elif clean_word.endswith('i') and any(v in clean_word.lower() for v in 'aıou'):
+            # Only fix if it's common lesson suffix pattern
+            if any(clean_word.lower().endswith(s) for s in ['ları', 'ması', 'ısı', 'ası']):
+                word = word.replace('i', 'ı')
+        fixed_words.append(word)
+    return " ".join(fixed_words)
+    
+    # Selective high-confidence replacements for corrupted suffixes
+    # (e.g. Sistemler -> Sistemleri, Uygulamalar -> Uygulamaları)
+    trunc_suffixes = [
+        (r'SİSTEMLER$', 'SİSTEMLERİ'),
+        (r'UYGULAMALAR$', 'UYGULAMALARI'),
+        (r'TEKNOLOJİLER$', 'TEKNOLOJİLERİ'),
+        (r'TEKNİKLER$', 'TEKNİKLERİ'),
+        (r'İŞLEMLER$', 'İŞLEMLERİ'),
+        (r'BECERİLER$', 'BECERİLERİ'),
+        (r'CİHAZLAR$', 'CİHAZLARI'),
+        (r'UYGULAMALARI$', 'UYGULAMALARI'),
+        (r'LABORATUVAR$', 'LABORATUVARI')
+    ]
+    
+    for bad, good in fixes:
+        name = re.sub(bad, good, name, flags=re.IGNORECASE)
+        
+    name = turkish_upper(name)
+    for bad, good in trunc_suffixes:
+        name = re.sub(bad, good, name)
         
     return name
 
@@ -134,6 +207,7 @@ def fix_lesson_name(name, grade, file_id):
     
     # 3. General restoration
     # Map back broken words to uppercase first for consistency
+    # (Deep fix already converted to upper, but we call it again for safety)
     name = turkish_upper(name)
     for bad, good in RESTORATION_MAP.items():
         name = re.sub(r'\b' + re.escape(bad) + r'\b', good, name)
@@ -160,6 +234,9 @@ def fix_lesson_name(name, grade, file_id):
     
     # 4. Apply Title Case
     name = turkish_title(name)
+    
+    # 5. Linguistic Harmony cleanup (surgical)
+    name = linguistic_harmony_fix(name)
     
     # Clean up excess spaces again
     name = re.sub(r'\s+', ' ', name).strip()
