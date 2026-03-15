@@ -165,7 +165,7 @@ def parse_docx_to_json(file_path, file_name):
                             entry[key] = fix_turkish_chars(val)
                             has_val = True
                 
-                # Handle KAZANIM separately at the end
+                # Handle KAZANIM with new header structure
                 if "KAZANIM_COLS" in header_map:
                     kazanim_texts = []
                     for k_idx in header_map["KAZANIM_COLS"]:
@@ -177,7 +177,20 @@ def parse_docx_to_json(file_path, file_name):
                         for kt in kazanim_texts:
                             if not unique_kazanims or kt != unique_kazanims[-1]:
                                 unique_kazanims.append(kt)
-                        entry["KAZANIM"] = fix_turkish_chars("\n".join(unique_kazanims))
+                        
+                        # Build descriptive Kazanım block
+                        unite = entry.get("ÜNİTE", "-")
+                        konu = entry.get("KONU", "-")
+                        kazanim_raw = "\n".join(unique_kazanims)
+                        not_val = entry.get("BELİRLİ GÜN VE HAFTALAR", "")
+                        
+                        new_kazanim = f"Ünite/Tema: {unite}\n"
+                        new_kazanim += f"Konu/İçerik: {konu}\n"
+                        new_kazanim += f"Kazanım/Öğrenme Çıktıları: {kazanim_raw}"
+                        if not_val:
+                            new_kazanim += f"\nNot: {not_val}"
+                            
+                        entry["KAZANIM"] = fix_turkish_chars(new_kazanim)
                         has_val = True
                 
                 if has_val: all_data.append(entry)
