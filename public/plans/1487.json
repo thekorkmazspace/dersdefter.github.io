@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "Ag Sistemleri Ve Yönlendirme",
+  "plan": [
+    {
+      "ÜNİTE": "Ağ Simülasyonu",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "8",
+      "KONU": "1.    Simülasyon Programının Kullanımı  2.    LAN Simülasyonu İşlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Simülasyon       programının       temel özelliklerini açıklar.\n Doğru   çalışan   LAN   simülasyonunu yapar.\nSimülasyon programının kurulumu yaptırılır.\n Simülasyon ortamına ağ cihazları yerleştirilir.\n Cihazların özellikleri ayarlanır.\n Cihazların bağlantıları yaptırılır.\n LAN cihazlarının bağlantıları yaptırılır.\n LAN cihazları yapılandırılır.\n Yönlendirme işlemleri yapılandırılır.\n Bağlantı testi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Ağ Simülasyonu",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "8",
+      "KONU": "3.    WAN Simülasyonu İşlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Doğru  çalışan  WAN  simülasyonunu yapar.\nWAN cihazlarının bağlantıları yaptırılır.\n WAN cihazları yapılandırılır.\n Yönlendirme işlemleri uygulatılır.\n Bağlantı testi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Kablosuz Ağlar",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "8",
+      "KONU": "1.     Kablosuz Ağ Standartları ve Bileşenleri",
+      "KAZANIM": "Ağdaki  cihaz  uyumluluğuna  göre  ağ standardını seçer.\nKablosuz ağ teknolojileri açıklanır.\n Kablosuz ağ standartları listelenir.\n Kablosuz ağ standartlarının özellikleri açıklanır.\n Kablosuz ağ bileşenlerinin özellikleri açıklanır.\n Cihazın kablosuz ağa nasıl bağlandığı açıklanır.\n Kablosuz ağda kanalların seçimi yapılır."
+    },
+    {
+      "ÜNİTE": "Kablosuz Ağlar",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "8",
+      "KONU": "2.    Kişisel Alan Ağları",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Doğru     çalışan     kişisel     alan     ağ yapılandırmasını yapar.\nKişisel alan ağları listelenir.\n Kişisel alan ağları açıklanır."
+    },
+    {
+      "ÜNİTE": "Kablosuz Ağlar",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "8",
+      "KONU": "3.     Kablosuz Ağ Simülasyonu Yapılandırması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Doğru     çalışan     kablosuz     LAN yapılandırmasını yapar.\nKablosuz ağ cihazlarının yapılandırılması işlemi açıklanır.\n Kablosuz ağı kullanacak cihazlar yapılandırılır.\n Kablosuz ağ tehditleri açıklanır.\n Kablosuz ağın güvenliğinin nasıl sağlanacağı açıklanır.\n Kablosuz ağ sorunları giderilir.\n Kablosuz ağ testi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Kablosuz Ağlar",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "8",
+      "KONU": "3.     Kablosuz Ağ Simülasyonu Yapılandırması",
+      "KAZANIM": "Doğru     çalışan     kablosuz     LAN yapılandırmasını yapar.\nKablosuz ağ cihazlarının yapılandırılması işlemi açıklanır.\n Kablosuz ağı kullanacak cihazlar yapılandırılır.\n Kablosuz ağ tehditleri açıklanır.\n Kablosuz ağın güvenliğinin nasıl sağlanacağı açıklanır.\n Kablosuz ağ sorunları giderilir.\n Kablosuz ağ testi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Kablosuz Ağlar",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "8",
+      "KONU": "3.     Kablosuz Ağ Simülasyonu Yapılandırması",
+      "KAZANIM": "Doğru     çalışan     kablosuz     LAN yapılandırmasını yapar.\nKablosuz ağ cihazlarının yapılandırılması işlemi açıklanır.\n Kablosuz ağı kullanacak cihazlar yapılandırılır.\n Kablosuz ağ tehditleri açıklanır.\n Kablosuz ağın güvenliğinin nasıl sağlanacağı açıklanır.\n Kablosuz ağ sorunları giderilir.\n Kablosuz ağ testi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Yönlendiriciler",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "8",
+      "KONU": "1.    Yönlendirici Bağlantılarının Yapılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Ağ         üzerinde         uygun         yere yönlendiricinin   fiziksel   kurulumunu yapar.\nYönlendiricinin ethernet seri ve konsol bağlantıları yaptırılır.\n Terminal programı kullanılarak yönlendiriciye uzaktan bağlantı yaptırılır."
+    },
+    {
+      "ÜNİTE": "Yönlendiriciler",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "8",
+      "KONU": "1.    Yönlendirici Bağlantılarının Yapılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Ağ         üzerinde         uygun         yere yönlendiricinin   fiziksel   kurulumunu yapar.\nYönlendiricinin ethernet seri ve konsol bağlantıları yaptırılır.\n Terminal programı kullanılarak yönlendiriciye uzaktan bağlantı yaptırılır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "8",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Yönlendiriciler",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "8",
+      "KONU": "2.     Yönlendirici Yazılımının Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Yönlendirici        komut        arayüzünü kullanarak kullanıcı girişini yapar.\nTerminal programı kullanılarak yönlendiriciye bağlanılır.\n Kullanıcı modları arasında geçiş yaptırılır.\n Yardım komutları kullanılır."
+    },
+    {
+      "ÜNİTE": "Yönlendiriciler",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "8",
+      "KONU": "2.     Yönlendirici Yazılımının Kullanılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Yönlendirici        komut        arayüzünü kullanarak kullanıcı girişini yapar.\nTerminal programı kullanılarak yönlendiriciye bağlanılır.\n Kullanıcı modları arasında geçiş yaptırılır.\n Yardım komutları kullanılır."
+    },
+    {
+      "ÜNİTE": "Yönlendiriciler",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "8",
+      "KONU": "3.     Yönlendirici Ayarlarının Yapılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Yönlendirici   komutlarını   kullanarak temel    yönlendirici    tanımlamalarını yapar.\nYönlendirici modları arasında geçiş yaptırılır.\n Yönlendirici adını değiştirme anlatılır.\n Yönlendirici açılış şifresini oluşturma anlatılır.\n Seri arayüzleri yapılandırma anlatılır.\n Ethernet arayüzleri yapılandırma anlatılır.\n Yapılandırma ayarlarını kaydettirme anlatılır."
+    },
+    {
+      "ÜNİTE": "Yönlendiriciler",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "8",
+      "KONU": "3.     Yönlendirici Ayarlarının Yapılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Yönlendirici   komutlarını   kullanarak temel    yönlendirici    tanımlamalarını yapar.\nYönlendirici modları arasında geçiş yaptırılır.\n Yönlendirici adını değiştirme anlatılır.\n Yönlendirici açılış şifresini oluşturma anlatılır.\n Seri arayüzleri yapılandırma anlatılır.\n Ethernet arayüzleri yapılandırma anlatılır.\n Yapılandırma ayarlarını kaydettirme anlatılır."
+    },
+    {
+      "ÜNİTE": "Yönlendiriciler",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "8",
+      "KONU": "4.    Konfigürasyon Tanımlarının Yapılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Yönlendirici   komutlarını   kullanarak arayüzleri yapılandırır.\nArayüz tanımlama ve bağlantı mesajı verme işlemi yaptırılır.\n Yönlendiriciye açılış mesajları ekleme anlatılır.\n Host tablosunu düzenleme anlatılır.\n Kullanıcı seviyeleri oluşturma açıklanır.\n Yapılandırma dosyalarını uzak sunucuya yedekleme açıklanır.\n İşe uygun konfigürasyon tanımlanarak konfigürasyonun doğruluğunun test edilmesi açıklanır."
+    },
+    {
+      "ÜNİTE": "Yönlendiriciler",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "8",
+      "KONU": "4.    Konfigürasyon Tanımlarının Yapılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Yönlendirici   komutlarını   kullanarak arayüzleri yapılandırır.\nArayüz tanımlama ve bağlantı mesajı verme işlemi yaptırılır.\n Yönlendiriciye açılış mesajları ekleme anlatılır.\n Host tablosunu düzenleme anlatılır.\n Kullanıcı seviyeleri oluşturma açıklanır.\n Yapılandırma dosyalarını uzak sunucuya yedekleme açıklanır.\n İşe uygun konfigürasyon tanımlanarak konfigürasyonun doğruluğunun test edilmesi açıklanır."
+    },
+    {
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "8",
+      "KONU": "1.    Yönlendirme Protokollerinin Kullanımı",
+      "KAZANIM": "Yönergelere       göre       yönlendirme protokollerini kullanır.\nYönlendirme tabloları açıklanır.\n Yönlendirme komutları açıklanır."
+    },
+    {
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "8",
+      "KONU": "2.    Yol Tanımlama Protokollerinin Kullanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Verilen talimatlara göre yol tanımlama protokollerini kullanır.\nStatik yönlendirme işlemi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "8",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "8",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "8",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "8",
+      "KONU": "3.     Statik Yönlendirme İşlemleri",
+      "KAZANIM": "Ağ      adreslemesine      göre      statik yönlendirme yapar.\niproute komutu kullanılarak statik yönlendirme yapılması açıklanır.\n NAT yönlendirme işlemi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Yönlendirme Temelleri ve Statik Yönlendirme",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "8",
+      "KONU": "3.     Statik Yönlendirme İşlemleri",
+      "KAZANIM": "Ağ      adreslemesine      göre      statik yönlendirme yapar.\niproute komutu kullanılarak statik yönlendirme yapılması açıklanır.\n NAT yönlendirme işlemi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "8",
+      "KONU": "1.     Dinamik Yönlendirme İşlemleri",
+      "KAZANIM": "İletişim    kurallarına    göre    dinamik yönlendirme yapar.\nDinamik yönlendirmelerin amacı ve neler yapılabileceği açıklanır.\n Dinamik  yönlendirme  hesaplamalarında kullanılabilecek parametreler açıklanır.\n Dinamik  yönlendirme  tablolarının  nasıl oluştuğu kavratılır.\n İletişim       kurallarına       işleyiş       ve davranışlarına     göre     farklı     dinamik yönlendirme protokolleri tanıtılır.\n İç  Ağ  Geçidi  IGP  ve  Dış  Ağ  Geçidi EGP yönlendirme protokolleri açıklanır.\n Kullanılan   ağa   göre   doğru   dinamik yönlendirme       protokolünün       seçimi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "8",
+      "KONU": "1.     Dinamik Yönlendirme İşlemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "İletişim    kurallarına    göre    dinamik yönlendirme yapar.\nDinamik yönlendirmelerin amacı ve neler yapılabileceği açıklanır.\n Dinamik  yönlendirme  hesaplamalarında kullanılabilecek parametreler açıklanır.\n Dinamik  yönlendirme  tablolarının  nasıl oluştuğu kavratılır.\n İletişim       kurallarına       işleyiş       ve davranışlarına     göre     farklı     dinamik yönlendirme protokolleri tanıtılır.\n İç  Ağ  Geçidi  IGP  ve  Dış  Ağ  Geçidi EGP yönlendirme protokolleri açıklanır.\n Kullanılan   ağa   göre   doğru   dinamik yönlendirme       protokolünün       seçimi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "8",
+      "KONU": "2.    RIP Yönlendirmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "İstenen     yönergelere     uygun     RIP yönlendirmesini yapılandırır.\nRIP yönlendirme protokolü ve özellikleri açıklanır.\n RIP yönlendirmesinin yapılandırılması uygulatılır.\n RIP ve RIPv2 farklılıkları açıklanır.\n Yönlendirici arayüzlerinde RIP paketlerinin gönderiminin engellenmesi uygulatılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "8",
+      "KONU": "2.    RIP Yönlendirmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "İstenen     yönergelere     uygun     RIP yönlendirmesini yapılandırır.\nRIP yönlendirme protokolü ve özellikleri açıklanır.\n RIP yönlendirmesinin yapılandırılması uygulatılır.\n RIP ve RIPv2 farklılıkları açıklanır.\n Yönlendirici arayüzlerinde RIP paketlerinin gönderiminin engellenmesi uygulatılır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "8",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "8",
+      "KONU": "3.    OSPF Yönlendirilmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "İstenen    yönergelere    uygun    OSPF yönlendirmesini yapılandırır.\nOSPF yönlendirme protokolü ve özellikleri açıklanır.\n OSPF yönlendirmesinin oluşması için gerçekleşen aşamalar açıklanır.\n OSPF alanı içinde konumlarına göre yönlendiricilerin çeşitleri açıklanır.\n OSPF yönlendirmesinin yapılandırılması uygulatılır.\n OSPF rotalarının maliyet hesaplamalarının nasıl yapıldığı açıklanır.\n Yayın ağlarında OSPF uygulaması yaptırılır.\n OSPF ile yönlendiriciler arasında kimlik doğrulaması yaptırılır.\n Farklı       OSPF       alanları       arasında yönlendirme işlemi uygulatılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "8",
+      "KONU": "3.    OSPF Yönlendirilmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "İstenen    yönergelere    uygun    OSPF yönlendirmesini yapılandırır.\nOSPF yönlendirme protokolü ve özellikleri açıklanır.\n OSPF yönlendirmesinin oluşması için gerçekleşen aşamalar açıklanır.\n OSPF alanı içinde konumlarına göre yönlendiricilerin çeşitleri açıklanır.\n OSPF yönlendirmesinin yapılandırılması uygulatılır.\n OSPF rotalarının maliyet hesaplamalarının nasıl yapıldığı açıklanır.\n Yayın ağlarında OSPF uygulaması yaptırılır.\n OSPF ile yönlendiriciler arasında kimlik doğrulaması yaptırılır.\n Farklı       OSPF       alanları       arasında yönlendirme işlemi uygulatılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "8",
+      "KONU": "4.    EİGRP Yönlendirilmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  İstenen   yönergelere   uygun   EİGRP yönlendirmesini yapılandırır.\nEIGRP yönlendirme protokolü ve özellikleri açıklanır.\n EIGRP yönlendirmesi için gerekli paket türleri açıklanır.\n EIGRP yönlendirmesinin yapılandırılması uygulanır.\n Farklı uygulamalar ile EIGRP rotalarının maliyetleri hesaplanır ve yönlendiriciler arasında kimlik doğrulama işlemleri yaptırılır.\n OSPF ve EIGRP sistemleri arasında yönlendirme işlemleri gerçekleştirilir."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "8",
+      "KONU": "4.    EİGRP Yönlendirilmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "İstenen   yönergelere   uygun   EİGRP yönlendirmesini yapılandırır.\nEIGRP yönlendirme protokolü ve özellikleri açıklanır.\n EIGRP yönlendirmesi için gerekli paket türleri açıklanır.\n EIGRP yönlendirmesinin yapılandırılması uygulanır.\n Farklı uygulamalar ile EIGRP rotalarının maliyetleri hesaplanır ve yönlendiriciler arasında kimlik doğrulama işlemleri yaptırılır.\n OSPF ve EIGRP sistemleri arasında yönlendirme işlemleri gerçekleştirilir."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "8",
+      "KONU": "5.   BGP Yönlendirilmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "İstenen    yönergelere    uygun    BGP yönlendirmesini yapılandırır.\nSınır ağ geçidi protokolü BGP ve özellikleri açıklanır.\n BGP mesaj türleri açıklanır.\n BGP komşuluk türleri ve komşuluk kurma aşamaları açıklanır.\n BGP yapılandırmasının uygulaması yaptırılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "8",
+      "KONU": "5.   BGP Yönlendirilmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "İstenen    yönergelere    uygun    BGP yönlendirmesini yapılandırır.\nSınır ağ geçidi protokolü BGP ve özellikleri açıklanır.\n BGP mesaj türleri açıklanır.\n BGP komşuluk türleri ve komşuluk kurma aşamaları açıklanır.\n BGP yapılandırmasının uygulaması yaptırılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "8",
+      "KONU": "5.   BGP Yönlendirilmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "İstenen    yönergelere    uygun    BGP yönlendirmesini yapılandırır.\nSınır ağ geçidi protokolü BGP ve özellikleri açıklanır.\n BGP mesaj türleri açıklanır.\n BGP komşuluk türleri ve komşuluk kurma aşamaları açıklanır.\n BGP yapılandırmasının uygulaması yaptırılır."
+    },
+    {
+      "ÜNİTE": "Dinamik Yönlendirme İşlemleri",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "8",
+      "KONU": "5.   BGP Yönlendirilmesinin Yapılandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "İstenen    yönergelere    uygun    BGP yönlendirmesini yapılandırır.\nSınır ağ geçidi protokolü BGP ve özellikleri açıklanır.\n BGP mesaj türleri açıklanır.\n BGP komşuluk türleri ve komşuluk kurma aşamaları açıklanır.\n BGP yapılandırmasının uygulaması yaptırılır."
+    },
+    {
+      "ÜNİTE": "WAN Konsepti",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "8",
+      "KONU": "1.   Point-to-Point Bağlantılar  2.   Erişim   Kontrol   Listeleri ACL",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Point-to-Point bağlantılarını yapılandırır.\n Erişim kontrol listelerini ACL yapılandırır.\nŞube bağlantılarını gösterip uygulatır.\n ACL çeşitlerini uygulatır."
+    },
+    {
+      "ÜNİTE": "WAN Konsepti",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "8",
+      "KONU": "3.    Ağ    Güvenliği    ve    Ağ İzleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Ağ güvenliği ve ağ izlemesi yapar.\nAğ izleme yazılımı kullandırılır.\n Servis kalitesi QoS açıklanır.\n Ağ sorunları giderilir."
+    },
+    {
+      "ÜNİTE": "Güvenlik Duvarı Teknolojileri",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "8",
+      "KONU": "1.     IDS",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  IDS cihazlarını açıklar.\nIDS cihazları açıklanır."
+    },
+    {
+      "ÜNİTE": "Güvenlik Duvarı Teknolojileri",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "8",
+      "KONU": "2.     IPS",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "IPS cihazlarını yapılandırır.\nIPS cihazları açıklanır.\n       Yönlendiriciye     IPS     yapılandırılması yaptırılır."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "8",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "8",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

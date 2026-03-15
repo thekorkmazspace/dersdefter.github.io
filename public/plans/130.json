@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "Mıkrodenetleyıciler",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "1. SAYISAL İŞLEMLER\n1.1. SAYI SİSTEMLERİ İLE SAYISAL İŞLEMLER\n1.1.1. Sayı Sistemleri\n1.1.1.1. Onluk Decimal Sayı Sistemleri\n1.1.1.2. İkilik Binary Sayı Sistemleri\n1.1.1.3. Sekizlik Octal Sayı Sistemleri\n1.1.1.4. Onaltılık Hexadecimal Sayı\nSistemleri Demokrasinin önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Sayı sistemleri ile sayısal işlemler yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "1.1.2. Sayı Sistemlerinde Aritmetik İşlemler\n1.1.2.1. İkilik Binary Sayılarda Toplama İşlemi\n1.1.2.2. İkilik Binary Sayılarda Çıkarma İşlemi\n1.1.2.3. İkilik Binary Sayılarda Çarpma İşlemi\n1.1.2.4. İkilik Binary Sayılarda Bölme İşlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Sayı sistemleri ile sayısal işlemler yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "1.1.2.5. Sekizlik Octal Sayılarda Toplama İşlemi\n1.1.2.6. Sekizlik Octal Sayılarda Çıkarma İşlemi\n1.1.2.7. Onaltılık Hexadecimal Sayılarda Toplama İşlemi\n1.1.2.8. Onaltılık Hexadecimal Sayılarda Çıkarma İşlemi",
+      "KAZANIM": "Sayı sistemleri ile sayısal işlemler yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "1.1.3. Sayı Sistemleri Arasındaki Dönüştürmeler\n1.1.3.1. Onluk Decimal Sayının İkilik Binary Sayıya Dönüştürülmesi\n1.1.3.2. Onluk Decimal Sayının Onaltılık Hexadecimal Sayıya\nDönüştürülmesi\n1.1.3.3. İkilik Binary Sayının Onluk Decimal Sayıya Dönüştürülmesi\n1.1.3.4. Onaltılık Hexadecimal Sayının Onluk Decimal Sayıya\nDönüştürülmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Sayı sistemleri ile sayısal işlemler yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "1.1.3.5. Onaltılık Hexadecimal Sayının İkilik Binary Sayıya Dönüştürülmesi\n1.1.3.6. İkilik Binary Sayının Onaltılık Hexadecimel Sayıya\nDönüştürülmesi\n1.1.3.7. Sekizlik Octal Sayının İkilik Binary Sayıya Dönüştürülmesi\n1.1.3.8. İkilik Binary Sayının Sekizlik Octal Sayıya Dönüştürülmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Sayı sistemleri ile sayısal işlemler yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "1.2. TEMEL LOJİK KAPILARDA MANTIKSAL İŞLEMLER\n1.2.1. Temel Lojik Kapıların Seçimi\n1.2.1.1. Temel Lojik Kapılar\n1.2.1.2. Diğer Lojik Kapılar",
+      "KAZANIM": "Temel lojik kapılarla mantıksal işlemler yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "1.2.2. Temel Lojik Kapılarda İşlemler\n1.2.2.1. Bolen Çarpma\n1.2.2.2. Bolen Toplama\n1.2.2.3. Bolen Kanun ve Kuralları\nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Temel lojik kapılarla mantıksal işlemler yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "1.2.2.4. Dö Morgın De Morgan Teoremi\n1.2.2.5. Çarpımların Toplamı Minterm\n1.2.2.6. Toplamların Çarpımı Maxterm\n1.2.2.7. Lojik Devreden Lojik İfade Elde Etme\n1.2.2.8. Lojik İfadeden Lojik Devre Çizimi\n1.2.2.9. Doğruluk Tablosu Hazırlama 1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Temel lojik kapılarla mantıksal işlemler yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "1.3. TEMEL LOJİK ENTEGRELERLE\nDEVRELER\n1.3.1. Temel Lojik Entegrelerin Seçimi\n1.3.2. Temel Lojik Devreler Kurma\n1.3.2.1. Sadeleştirilmiş Lojik İfadeden Devre Kurulması\n1.3.2.2. Karno Karnough Haritası Kullanılarak\nDevre Kurma\nAtatürkün eğitime ve bilime verdiği önem",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Temel lojik entegrelerle devreler kurar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "2. MİKRODENETLEYİCİ PROGRAMLAMA\n2.1. MİKRODENETLEYİCİ VE\nPROGRAMLAMA\n2.1.1. Mikro İşlemci\n2.1.1.1. Mikro İşlemci Temel Birimleri\n2.1.2. Mikrodenetleyici\n2.1.2.1. Mikrodenetleyicinin Temel Bileşenleri\n2.1.2.2. Bellek Organizasyonu Açısından\nDenetleyici Mimarileri\n2.1.2.3. Mikrodenetleyici Pin Diyagramı ve Kılıf Yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Mikrodenetleyiciyi ve programını tanıtır."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "2.1.2.4. Besleme Uçları ve Bağlantıları\n2.1.2.5. Osilatör Devreleri\n2.1.2.6. Reset Sıfırlama Devresi ve Çeşitleri\n2.1.3. Uygun Mikrodenetleyicinin Seçimi\n2.1.3.1. Atmega328P Denetleyicisinin Özellikleri\n2.1.3.2. Mikrodenetleyici Komut Seti",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Mikrodenetleyiciyi ve\nprogramını tanıtır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "2.1.4. Mikrodenetleyici Programlama İçin\nGerekenler\n2.1.5. Programlama Yazılımının Kurulumu\n2.1.5.1. Proje Oluşturma\n2.1.5.2. YAZILIM Arayüz Tanıtımı\n2.1.5.3. Kodun Makine Diline Dönüştürülmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Mikrodenetleyiciyi ve\nprogramını tanıtır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "2.2. MİKRODENETLEYİCİYLE GİRİŞ - ÇIKIŞ\nKONTROLÜ\n2.2.1. DDRx Kaydedicisi\n2.2.2. PORTx Kaydedicisi\n2.2.3. PINx Kaydedicisi\n2.2.4. Gecikme İşlemleri\n2.2.5. Bitwise Operatörler\n2.2.6. Mikrodenetleyiciyle Buton Kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Mikrodenetleyici ile giriş-çıkış kontrolü yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "2.3. MİKRODENETLEYİCİYE PROGRAMI\nYÜKLEYEREK TEST ETME\n2.3.1. Programlayıcının Mikrodenetleyiciye Bağlantısı\n2.3.2. Mikrodenetleyiciye Programın\nYüklenmesi\n2.3.3. Mikrodenetleyicinin Osilatör ve Sigorta\nAyarlarını Yapmak\n2.3.3.1. Low Byte Fuse\n2.3.3.2. High Byte Fuse\n2.3.3.3. Extended Byte Fuse",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Mikrodenetleyiciye programı yükleyerek test eder."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "MİKRODENETLEYİCİ İLE ÇEVRE BİRİMLERİ\nBAĞLAMA\n3.1. MİKRODENETLEYİCİ İLE TUŞ TAKIMINDAN VERİ OKUMA\n3.2. MİKRODENETLEYİCİ İLE DİSPLAY\nKONTROLÜ\n3.2.1. 7 Segment Display 7 Parçalı Gösterge\n3.2.2. Matris LED Display\n3.2.3. Karakter LCD\n3.2.3.1. Kişiye Özel LCD Dosyası Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Mikrodenetleyici ile tuş takımından veri\nokur. Mikrodenetleyici ile display kontrolü yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "3.3. MİKRODENETLEYİCİ İLE RÖLE\nKONTROL UYGULAMALARI\n3.3.1. Röle Çeşitleri\n3.3.1.1. Çubuk Röle Reed Röle\n3.3.1.2. Termik Röle\n3.3.1.3. Katı Hal Rölesi Solid State Röle",
+      "KAZANIM": "Mikrodenetleyici ile röle kontrol uygulamaları yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "3.3.1.4. Kaçak Akım Koruma Rölesi\n3.3.1.5. Zaman Rölesi\n3.3.1.6. Faz Koruma Rölesi\n3.3.2. Röle Seçimi ve Bağlantısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Mikrodenetleyici ile röle kontrol uygulamaları yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "3.4. MİKRODENETLEYİCİ İLE MOTOR\nKONTROLÜ\n3.4.1. DC Motor\n3.4.1.1. Transistörlü H-Köprü Sürücü Devresi\n3.4.1.2. DC Motor Sürücü Entegreleri\n3.4.2. Step Motorlar",
+      "KAZANIM": "Mikrodenetleyici ile motor kontrol uygulamaları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "3.5. MİKRODENETLEYİCİ İLE HABERLEŞME\nUYGULAMALARI\n3.5.1. SPI Haberleşmesi\n3.5.1.1. SPI Çalışma Modları\n3.5.1.2. SPI Veri Modları\n3.5.1.3. SPI Kontrol Kaydedicisi\n3.5.1.4. SPI Veri Aktarım Durumu",
+      "KAZANIM": "Mikrodenetleyici ile haberleşme uygulamaları yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "3.5.2. USART Haberleşmesi\n3.5.2.1. USART Çalışma Modları\n3.5.2.2. USART Çerçeve Formatları\n3.5.2.3. Hata Kontrol Bitlerinin Hesaplanması\n3.5.2.4. USART Giriş  Çıkış Veri Kaydedicisi n\nUDRn\n3.5.2.5. USART Kontrol ve Durum İzleme İşlemleri",
+      "KAZANIM": "Mikrodenetleyici ile\nhaberleşme"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "3.5.2.6. USART Baud Ratein Ayarlanması\n3.5.2.7. USART Kurulumu\n3.5.2.8. USART ile Veri Gönderme\n3.5.2.9. USART ile Veri Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Mikrodenetleyici ile haberleşme uygulamaları yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "3.5.3. TWI Haberleşmesi\n3.5.3.1. BAŞLA ve DUR Durumları\n3.5.3.2. Adres Paketi Formatı\n3.5.3.3. Veri Paketi Formatı\n3.5.3.4. Aktarımda Adres ve Veri Paketlerinin Birleştirilmesi\n3.5.3.5. TWI Modülünün Yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Mikrodenetleyici ile haberleşme uygulamaları yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "3.5.3.6. TWI Bit Rate Değerinin Belirlenmesi\n3.5.3.7. TWI İşlemlerinin Kontrolü\n3.5.3.8. TWI Durumlarının İzlenmesi\n3.5.3.9. TWI Modülünde Veri Gönderme ve Alma\n3.5.3.10. TWI Modülünde Adresleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Mikrodenetleyici ile haberleşme uygulamaları yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "3.5.3.11. TWI Adres Maskeleme\n3.5.3.12. Master Gönderici Modunda\nHaberleşme\n3.5.3.13. Master Alıcı Modunda Haberleşme\n3.5.3.14. Slave Alıcı Modu\n3.5.3.15. Slave Gönderici Modu Atatürkün vatan ve millet sevgisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Mikrodenetleyici ile haberleşme uygulamaları yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "MİKRODENETLEYİCİ İLE ANALOG İŞLEMLER\n4.1. MİKRODENETLEYİCİ ADC VE DAC ÇEVRİM KONTROLÜ\n4.1.1.ANALOG ve Sayısal İşaretler\n4.1.2. ADC\n4.1.3. ADCnin İç Yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "4.1.4.Mikrodenetleyici ADC Modülü\n4.1.4.1. ADC Modülünün Yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "4.1.5. DAC\n4.1.5.1. Haricî DAC Entegresi Kullanma\n4.1.5.2. ZamanlayıcıSayıcı Modülü İle PWM İşareti Üretme\n4.1.6. Mikrodenetleyici ZS Modülünün Yapısı\n4.1.7. Darbe Genişlik Modülasyonu PWM 2.Dönem 1.Sınav\n4.1.4.2. Referans Gerilimi ve ADC Giriş Kanalı\nSeçimi\n4.1.4.3. ADC Modülünün Etkinleştirilmesi ve Çevirme İşlemine Başlama\n4.1.4.4. Kullanılmayan Sayısal Girişlerin Devre Dışı Bırakılması\n4.1.4.5. ADC Çevirme Sonucunun Bulunması\n4.1.4.6. ADC Çevirme İşleminin Adımları\n4.1.4.7. ADC Çevirme İşlemi Tamamlama\nKesmesi Kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "4.1.8. ZS0 Modülü\n4.1.9. ZS0 Çalışma Modları\n4.1.9.1. Normal Mod\n4.1.9.2. Karşılaştırma Eşleşmesinde ZSyi Sıfırlama CTC Modu\n4.1.9.3. Hızlı PWM Modu\n4.1.9.4. Doğru Faz PWM Modu",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.1.10. Ön Ölçekleyici Prescaler Kullanımı\n4.1.11. ZS0 Modülünde Karşılaştırma Çıkış Modu ve Çalışma Modunun\nBelirlenmesi\n4.1.12. ZS Modülünde Zorlamalı Çıkış Karşılaştırma ve Çalışma Saat\nDarbesi Seçimi\nÇocuk insan sevgisi ve evrensellik",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.1.13. ZS0 Modülü ZS Değeri\n4.1.14. ZS0 Modülü Çıkış Karşılaştırma\nKaydedicileri\n4.1.15. ZS0 Modülünde ZS Kesmelerinin\nEtkinleştirilmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.1.16. ZS0 Modülünde ZS Kesme\nBayraklarının Kontrolü\n4.1.17. ZS0 Modülü Çalıştırma Adımları\n4.1.18. ZS1 Modülü\n4.1.19. ZS1 Giriş Yakalama Birimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.1.20. ZS1 PWM Çalışma Modları\n4.1.20.1. Hızlı PWM Modu\n4.1.20.2. Doğru Faz PWM Modu\n4.1.20.3. Doğru Faz ve Frekans PWM Modu Atatürkçü düşüncede yer alan temel fikirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.1.21. ZS1 Modülünde Çıkış Karşılaştırma Modu ve Dalga Şekli Üretme\nModunun Belirlenmesi\n4.1.22. ZS1 Modülünde Giriş Yakalama Ayarları ve Saat Darbesi Kaynağı Seçimi\n4.1.23. ZS1 Modülü Zorlamalı Çıkış Karşılaştırma İşlemi\n4.1.24. ZS1 Modülü ZS Kaydedicileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "4.1.25. ZS1 Çıkış Karşılaştırma Kaydedicileri\n4.1.26. ZS1 Modülü Giriş Yakalama\nKaydedicileri\n4.1.27. ZS1 Modülü Kesmeleri Etkinleştrime\n4.1.28. ZS1 Modülü Kesme Bayraklarının\nKontrolü\n4.1.29. ZS1 Modülü Çalıştırma Adımları 2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "4.1.30. ZS2 Modülü\n4.1.31. ZS2 Modülünde Karşılaştırma Çıkış Modu ve Çalışma Modunun\nBelirlenmesi\n4.1.32. ZS2 Modülünde Zorlamalı Çıkış Karşılaştırma ve Çalışma Saat\nDarbesi Seçimi\n4.1.33. ZS2 Modülünde ZS Değeri\n4.1.34. ZS2 Modülünde Çıkış Karşılaştırma\nKaydedicileri\n4.1.35. ZS2 Modülünde ZS Kesmelerinin\nEtkinleştirilmesi\n4.1.36. ZS2 Modülünde ZS Kesme\nBayraklarının Kontrolü\n4.1.37. ZS2 Modülü Çalıştırma Adomları",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Mikrodenetleyici ADC DAC çevrim kontrolü yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "4.2. MİKRODENETLEYİCİ İLE SICAKLIK\nKONTROLÜ\n4.2.1. Mikrodenetleyici Dâhili Sıcaklık Algılayıcısı\n4.2.2. Haricî Sıcaklık Algılayıcısı\n4.2.2.1. Haricî Sıcaklık Algılayıcı Türleri 4.2.2.2.Yarıiletken Sıcaklık Algılayıcıların Kullanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Mikrodenetleyici ile sıcaklık kontrolü yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

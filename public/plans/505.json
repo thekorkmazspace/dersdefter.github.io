@@ -1,0 +1,338 @@
+{
+  "sinif": "9",
+  "ders": "Atölye(yet)",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 1.YENİLENEBİLİR ENERJİ KAYNAKLARI \n1.1.Yenilenebilir Enerji Kaynakları\n1.1.1.Yenilenebilir Enerji\n1.1.2.Yenilenemeyen Enerji Kaynakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Yenilenebilir enerji kaynaklarını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "9",
+      "KONU": "1.1.3.Yenilenebilir Enerji Kaynaklarının Çevreye Etkisi\n1.2.Yenilenebilir Enerji Kaynaklarının Çeşitleri\n1.2.1.Güneş Enerjisi \n1.2.2.Rüzgâr Enerjisi",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Yenilenebilir enerji kaynaklarının çeşitlerini çevreye olan avantaj ve dezavantajlarıyla açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "9",
+      "KONU": "1.2.3.Jeotermal Enerji\n1.2.4.Biyokütle Enerjisi \n1.2.5.Hidrolik Enerjisi\n1.2.6.Deniz Kaynaklı Enerjiler\n1.2.7.Hidrojen Enerjisi",
+      "KAZANIM": "Yenilenebilir enerji kaynaklarının çeşitlerini çevreye olan avantaj ve dezavantajlarıyla açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 2.FİZİKSEL VE ELEKTRİKSEL BÜYÜKLÜKLER \n2.1.Fiziksel Büyüklükler \n2.1.1.Uzunluk Ölçme\n2.1.2.Sıcaklık Ölçme  \n2.1.3.Devir Ölçme",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Fiziksel büyüklüklerin uzunluk sıcaklık hız devir basınç nem ışık ses ölçümlerini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "9",
+      "KONU": "2.1.4.Basınç Ölçme \n2.1.5.Nem Seviyesi Ölçme \n2.1.6.Işık Şiddeti Ölçme \n2.1.7.Ses Seviyesi Ölçme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Fiziksel büyüklüklerin uzunluk sıcaklık hız devir basınç nem ışık ses ölçümlerini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "9",
+      "KONU": "2.2.Elektriksel Büyüklükler \n2.2.1.Akım Gerilim ve Direnç Ölçme\n2.2.2.Güç Ölçme \n2.2.3.Endüktans ve Kapasite Ölçme\n2.2.4.Frekans Ölçme",
+      "KAZANIM": "Elektriksel büyüklüklerin direnç endüktans kapasite akım gerilim frekans ölçümünü yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 3.TEMEL MEKANİK İŞLEMLER \n3.1.Ölçme ve Kontrol Aletleri\n3.1.1.Ölçme ve Kontrol\n3.1.2.Ölçme ve Kontrol Aletleri \n3.2.Kesme\n3.2.1.Kesme \n3.2.2.Kesme İşlemleri",
+      "KAZANIM": "Kumpas mikrometre ve gönye kullanarak uzunluk çap ölçümü ile yüzey ve açı kontrolleri yapar.\nYapım resmine göre iş parçasının basit kesici ve şekillendirici aletleri kullanarak kesimini yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "9",
+      "KONU": "3.3.Markalama \n3.3.1.Markalama\n3.3.2.Markalama Takımları\n3.3.3.Markalamada Dikkat Edilecek Hususlar \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Yapım resmine göre iş parçasının üzerinde markalama yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "9",
+      "KONU": "3.4.Eğeleme\n3.4.1.Eğeleme \n3.4.2.Mengenelerde Çalışma Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav İş parçasını istenilen ölçüye getirmek için eğeleme yapar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "9",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "9",
+      "KONU": "3.5.Delme \n3.5.1.Delme \n3.5.2.Delme Yöntemleri\n3.5.3.Matkap Mengenesi\n3.5.4.Matkap Çeşitleri \n3.5.5.Delme İşlemlerinde Dikkat Edilecek Hususlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "İş parçasına uygun ucu seçerek delme yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "9",
+      "KONU": "3.6.Kılavuz Pafta \n3.6.1.Kılavuz ve Pafta ile Diş Açma\n3.6.2.Vidalı Birleştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Yapım resmine göre iş parçalarını kılavuzpafta ile diş açarak vidalı birleştirme yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 4.TEMEL ELEKTRİK TESİSATI MONTAJI VE BAĞLANTILARI\n4.1.İletken Bağlantıları \n4.1.1.Basit Kesici ve Şekillendirici Aletler\n4.1.2.İletken ve Yalıtkanlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "İletken bağlantılarını işe uygun el aletleri kullanarak bağlantısını yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "9",
+      "KONU": "4.2.İç Aydınlatma Tesisatı\n4.2.1.Aydınlatma\n4.2.2.Işık Kaynakları \n4.2.3.Anahtarlar\n4.2.4.Aydınlatma Tesisatı Bağlantıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Aydınlatma tesisatı için boru buat ve kasaların yerleşimini kablolamasını bağlantılarını sistemin çalışmasının testini yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "9",
+      "KONU": "4.3.Priz Tesisatı\n4.3.1.Elektrik Tesisatları ile İlgili Tanımlar\n4.3.2.Priz Tesisatlarında Kullanılan Gereçler\n4.3.3.Priz Tesisatında Dikkat Edilecek Hususlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Priz tesisatı için boru buat ve kasaların yerleşimini kablolamasını bağlantılarını sistemin çalışmasının testini yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "9",
+      "KONU": "4.4.Pano Sistemleri\n4.4.1.Elektrik Panoları Dağıtım Tabloları\n4.4.2.Pano Montaj Malzemeleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Pano montajını ve kablo bağlantılarını yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 5.LEHİMLEME VE BASKI DEVRE \n5.1.Lehimleme\n5.1.1.Lehim\n5.1.2.Lehim Pastası \n1.Dönem 2.Sınav",
+      "KAZANIM": "Farklı lehimleme yöntemlerini kullanarak düzgün lehimleme yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "9",
+      "KONU": "5.1.3.Havya\n5.1.4.Havya Altlığı\n5.1.5.Lehim Pompası",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Baskı devre paternini baskı devre işlem basamaklarına uygun şekilde çıkartır"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "9",
+      "KONU": "5.2.Baskı Devre\n5.2.1.Baskı Devre",
+      "KAZANIM": "Baskı devre paternini baskı devre işlem basamaklarına uygun şekilde çıkartır"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 6.ANALOG DEVRE ELEMANLARI İLE ELEKTRONİK DEVRE KURULUMU \n6.1.Direnç \n6.1.1.Direnç Tanımı\n6.1.2.Direnç Çeşitleri\n6.1.3.Direnç Renk Kodları \n6.1.4.Dirençlerin Bağlantı Şekilleri\n6.1.5.Ölçü Aleti ile Direnç Ölçümü Yapmak",
+      "KAZANIM": "Dirençlerin değerlerinin hesaplamasını ve ölçümünü yapar"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "9",
+      "KONU": "6.2.Kondansatör\n6.2.1.Kondansatör Tanımı\n6.2.2.Kondansatör Çeşitleri \n6.2.3.Kondansatör Değerinin Belirlenmesi \n6.2.4.Kondansatör Bağlantı Şekilleri\n6.2.5.Ölçü Aleti ile Kondansatör Kapasitesinin Ölçülmesi \n6.2.6.Farklı Kondansatör Çeşitleriyle Değer Okuma \n6.2.7.Dijital Avometre ile Kondansatör Sağlamlık Kontrolü\n6.2.8.Kondansatör ve Kapasite İlişkisi\n6.2.9.Kapasiteyi Etkileyen Faktörler",
+      "KAZANIM": "Kondansatör değerlerini okuma ve sağlamlık kontrolünü yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "9",
+      "KONU": "6.3.Bobin \n6.3.1.Bobin Tanımı\n6.3.2.Bobin Çeşitleri\n6.3.3.Bobin Değerinin Belirlenmesi \n6.3.4.Bobin Bağlantıları\n6.3.5.Bobin ve Endüktans İlişkisi\n6.4.Diyot\n6.4.1.Diyot ve Yarı İletken Madde \n6.4.2.Diyot",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Bobin üzerindeki rakam ve renk kodlarına göre endüktans değerini okuyup ölçümünü yapar.\nDiyotun uçlarını belirleyerek sağlamlığını kontrol eder"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "9",
+      "KONU": "6.4.3.Diyot Çeşitleri \n6.4.4.Diyotun Uçlarının Ölçü Aleti ile Belirlenmesi\n6.4.5.Diyotun Ölçü Aleti ile Sağlamlık Kontrolü \n6.4.6.Elektronik Devrelerde Diyotların Montaj ve Bağlantısının Yapılması \n6.5.Transistor\n6.5.1.Transistör \n6.5.2.Transistörlerin Çalışması\n6.5.3.Transistör Çeşitleri ve Yapıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Diyotun uçlarını belirleyerek sağlamlığını kontrol eder.\nTransistörün uçlarını ve tipini belirleyerek sağlamlığını kontrol eder."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "9",
+      "KONU": "6.5.4.Transistör Katalog Bilgileri \n6.5.5.Transistör Uçlarının Ölçü Aleti ile Tespiti ve Sağlamlık Kontrolü\n6.6.Devre Kurulumu \n6.6.1.Akü Şarj Devresi\n6.6.2.Güç Kaynağı Devresi \n6.6.3.Akü Koruma Devresi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Transistörün uçlarını ve tipini belirleyerek sağlamlığını kontrol eder.\nANALOG devre elemanları ile elektronik devre kurulumu yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "9",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 7.DOĞRULTMA FİLTRE VE REGÜLE DEVRELERİ \n7.1.Doğrultma ve Filtre Devreleri\n7.1.1.Doğrultma Devreleri \n7.1.2.Filtreli Doğrultma Devreleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Doğrultma ve filtre devrelerini kurar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "9",
+      "KONU": "7.2.Regüle Devreleri\n7.2.1.Regüle Devreleri \n7.3.Gerilim Çoklayıcı Devreler \nAtatürkün vatan ve millet sevgisi \n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Regüle devrelerini kurarak analizlerini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "9",
+      "KONU": "7.3.Gerilim Çoklayıcı Devreler\n7.3.1.Gerilim Çoklayıcılar\n7.3.2.Gerilim Çoklayıcı Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Gerilimin çoklayıcı devreleri kurar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 8.ÖLÇÜM İSTASYONU KURULUM YERİNİ HAZIRLAMA\n8.1.Kurulum Sahasının Uygunluk Tespiti\n8.1.1.İstasyon Sahası\n8.1.2.Işınım Ölçme \n8.1.3.Pusula",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "İstasyon kurulumu yapılacak sahanın uygunluk kontrolünü yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "9",
+      "KONU": "8.2.İstasyon Temeli\n8.2.1.Çukurun Hazırlanması\n8.2.2.Demir Kafesin Oluşturulması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Tespit edilen yere temel çukuru açarak ankraj demir montajını yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "9",
+      "KONU": "8.3.Betonlama \n8.3.1.Beton Harcı Hazırlanması ve Dökümü \n8.4.Topraklama ve Ölçüm Direği Kazıklarının Çakılması \n8.4.1.Topraklama\n8.4.2.Topraklama Ölçümü",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Hazırlanan kalıba beton döker.\nTopraklama yaparak ölçüm direği kazıklarını çakar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 9.ÖLÇÜM İSTASYONU KURULUMU \n9.1.Kurulum Öncesi Hazırlıklar\n9.1.1.Gergi Teli ve Boyu\n9.1.2.Gergi Teli Ekipmanları ve Hazır Hale Getirilmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Kurulum öncesinde gergi tellerinin montajını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "9",
+      "KONU": "9.2.Ölçüm İstasyonu Direğini Kaldırmak \n9.2.1.Ölçüm İstasyonu Direğinin Kaldırılması \n9.3.Ölçüm Elemanlarının Direk Üzerine Sabitlenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Ölçüm istasyonu direğini kaldırır."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "9",
+      "KONU": "9.3.1.Ölçüm İstasyonunda Kurulacak Ekipmanlar ve Bunların Montajı\n9.4.Veri Toplayıcı Data Logger Sensör ve Topraklama Kablolaması \n9.4.1.Ölçüm İstasyonunda Kurulan Elemanların Kablo Bağlantısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Ölçüm elemanlarının ölçüm direğine montajını yapar"
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "9",
+      "KONU": "9.4.2.Muhafaza Kutusunun Kablo Montajı\n9.4.3.Cihaz Ayarlarının Yapılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Veri toplayıcı data logger sensör ve topraklama kablo bağlantılarını yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "9",
+      "KONU": "Öğrenme Birimi 10.ÖLÇÜM DİREĞİ BAKIMI VE KONTROLÜ \n10.1.Ölçüm Direğinin Mekanik Bakımı \n10.1.1.Ölçüm Direği Mekanik Bakımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Ölçüm direğinin mekanik bakımını yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "9",
+      "KONU": "10.2.Ölçüm Direği Elektrik Elektronik Bakımı\n10.2.1.Ölçüm Direği Elektrik ve Elektronik Bakımının Yapılması \n10.3.Sistem Testi  \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Ölçüm direğinin elektrik-elektronik bakımını yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "9",
+      "KONU": "10.3.1.Sistem Testi Yapılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Sistemi test eder."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

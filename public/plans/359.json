@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "Düz Yüzey Yenileştirme Teknolojisi-11",
+  "plan": [
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "1. Parçaların temizlenmesi ve kontrolü                                              1.1. İş sağlığı ve güvenliği yangın ve acil durum kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak parçaların temizlik ve kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1. Parçaların temizlenmesi ve kontrolü                                         1.2. Çevre koruma mevzuatı\n1.3. Çalışılan yerin düzeni",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak parçaların temizlik ve kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "1. Parçaların temizlenmesi ve kontrolü                                          1.4. Çalışma alet ve donanımlarının koruyucu ve talimatlı bakımları",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak parçaların temizlik ve kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "1. Parçaların temizlenmesi ve kontrolü                                           1.5. Yenileştirmenin tanımı ve çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak parçaların temizlik ve kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "1. Parçaların temizlenmesi ve kontrolü                                                     1.6. Temizlemenin önemi\n1.7. Temizleme maddeleri ve özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak parçaların temizlik ve kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "1. Parçaların temizlenmesi ve kontrolü                                           1.8. Temizleme araçları\n1.9. Temizleme yöntemleri",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak parçaların temizlik ve kontrollerini yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "2. Parçalarda çatlak kontrolü ve onarımı                                     2.1. Çatlama ve çatlama nedenleri\nATATÜRKÜN CUMHURİYETÇİLİK İLKESİ",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak parçalarda çatlak kontrolü ve onarımı yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "2. Parçalarda çatlak kontrolü ve onarımı                                            2.2. Gözle çatlaklık kontrolü\n2.3. Basınçlı hava ile çatlak kontrol yöntemi                                         1. DÖNEM 1. YAZILI SINAVI",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak parçalarda çatlak kontrolü ve onarımı yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "2. Parçalarda çatlak kontrolü ve onarımı                                        2.4. Manyetik çatlak kontrol yöntemi\n2.5. Özel boyalarla çatlak kontrol yöntemi\n10 KASIM ATATÜKÜ ANMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 2. İş sağlığı ve güvenliği tedbirlerini alarak parçalarda çatlak kontrolü ve onarımı yapar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "2. Parçalarda çatlak kontrolü ve onarımı                                       2.6. Dikişle çatlak onarma yöntemi\n2.7. Çatlak su ceketleri tespit ve onarım metotları\n24 KASIM  ÖĞRETMENLER GÜNÜ",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak parçalarda çatlak kontrolü ve onarımı yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "2. Parçalarda çatlak kontrolü ve onarımı                                          2.8. Motor bloğunun ve silindir kapağının çatlaklık kontrolü\n2.9. Çatlak tespit edilen kısımların onarımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak parçalarda çatlak kontrolü ve onarımı yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 1 ÇATLAK ONARIMI",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "2. Parçalarda çatlak kontrolü ve onarımı                                        2.10. Krank milini manyetik kontrol yöntemi ile kontrol etme\n2.11. Onarımı yapılamayacak parçaları katalog değerlerine uygun olarak değiştirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak parçalarda çatlak kontrolü ve onarımı yapar."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "1. Taşlama tezgâhını hazırlama                                               1.1. Taşlama taşlarını tanımı ve elemanları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak taşlama tezgâhını hazırlar."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "1. Taşlama tezgâhını hazırlama                                                   1.2. Taşlama taşı çeşitleri ve biçimsel özellikleri                                                         1.3. Taşın konumu                                                                                                                                                                                       ATATÜRKÜN SANAYİLEŞMEYE VERDİĞİ ÖNEM",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak taşlama tezgâhını hazırlar."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "1. Taşlama tezgâhını hazırlama                                            1.4. Taş bilemenin önemi ve bilenmesi\n1.5. Taş bilemede dikkat edilecek hususlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak taşlama tezgâhını hazırlar."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "1. Taşlama tezgâhını hazırlama                                                  1.4. Taş bilemenin önemi ve bilenmesi\n1.5. Taş bilemede dikkat edilecek hususlar",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak taşlama tezgâhını hazırlar."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "1. Taşlama tezgâhını hazırlama                                                       1.6. Taşlama tezgâhları\n1.7. Soğutma Sıvıları ve kullanıldıkları yerler                                   1. DÖNEM 2. YAZILI SINAVI",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 1. İş sağlığı ve güvenliği tedbirlerini alarak taşlama tezgâhını hazırlar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "1. Taşlama tezgâhını hazırlama                                                       1.6. Taşlama tezgâhları\n1.7. Soğutma Sıvıları ve kullanıldıkları yerler",
+      "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak taşlama tezgâhını hazırlar."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "2. Silindir kapaklarının yenileştirilmesi                                                 2.1. Silindir kapaklarının görevi malzemesi ve yapısal özellikleri",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak silindir kapaklarını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2. Silindir kapaklarının yenileştirilmesi                                           2.2. Silindir kapağının eğilme yiv ve korozyon nedenleri ve belirtileri",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak silindir kapaklarını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "2. Silindir kapaklarının yenileştirilmesi                                                2.3. Mastarları ve sentilleri açıklama                                                       2.4. Silindir kapağının eğiklik kontrolü                                                                                                 ATATÜRKÜN MİLLİYETÇİLİK İLKESİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak silindir kapaklarını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "2. Silindir kapaklarının yenileştirilmesi                                           2.3. Mastarları ve sentilleri açıklama                                                       2.4. Silindir kapağının eğiklik kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak silindir kapaklarını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "2. Silindir kapaklarının yenileştirilmesi                                             2.5. Silindir kapağının taşlanması ve dikkat edilecek hususlar\n12 MART İSTİKLAL MARŞININ KABULÜ VE M.AKİF ERSOYU ANMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak silindir kapaklarını yenileştirir."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "2. Silindir kapaklarının yenileştirilmesi                                            2.6. Silindir kapağının frezelenmesi ve dikkat edilecek hususlar\n18 MART ÇANAKKALE ZAFERİ VE ÖNEMİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak silindir kapaklarını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "3. Motor bloğunun yenileştirilmesi                                                 3.1. Motor bloğunun görevi malzemesi ve yapısı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak motor bloğunu yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "3. Motor bloğunun yenileştirilmesi                                                      3.2. Motor bloğunun fiziki kontrolleri\nATATÜRKÜN LAİKLİK İLKESİ                                                    2. DÖNEM 1. YAZILI SINAVI",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 3. İş sağlığı ve güvenliği tedbirlerini alarak motor bloğunu yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "3. Motor bloğunun yenileştirilmesi                                      3.3. Motor bloğunu eğiklik kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak motor bloğunu yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "3. Motor bloğunun yenileştirilmesi                                                  3.4. Motor bloğunun taşlanması\n3.5. Motor bloğunun taşlamada dikkat edilecek hususlar\n 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak motor bloğunu yenileştirir.                                                                                                                                                        ATATÜRK ün çocuklara verdiği önemi bilir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "3. Motor bloğunun yenileştirilmesi                                                 3.6. Motor bloğunu tezgâha bağlama\n3.7. Motor bloğunu katalog değerlerine göre taşlamafrezeleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak motor bloğunu yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "4. Manifold volan ve baskı plakasını yenileştirme                             4.1. Manifoldların görevi çeşitleri ve malzemelerin özellikleri\n1 MAYIS EMEK VE DAYANIŞMA GÜNÜ",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak manifold volan ve baskı plakasını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "4. Manifold volan ve baskı plakasını yenileştirme                           4.2. Manifold volan ve baskı plakasının gözle kontrolleri\n4.3. Manifold volan ve baskı plakasının eğiklik kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak manifold volan ve baskı plakasını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "4. Manifold volan ve baskı plakasını yenileştirme                           4.4. Manifoldların taşlanması işlemi\n4.5. Manifoldların frezelenmesi işlemi                                                                                                                                                           19 Mayıs  ATATÜRK ü Anma Gençlik ve Spor Bayramı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak manifold volan ve baskı plakasını yenileştirir.                                                                                                                                                                                       ATATÜRKün Türk Gençliğine verdiği önemi bilir"
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "4. Manifold volan ve baskı plakasını yenileştirme                           4.6. Volanın görevini çeşitleri ve malzemeleri özellikleri\nATATÜRKÜN İNKILAPÇILIK İLKESİ",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak manifold volan ve baskı plakasını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "4. Manifold volan ve baskı plakasını yenileştirme                            4.7. Manifold volan ve baskı plakasının gözle kontrolleri\n4.8. Manifold volan ve baskı plakasının eğiklik kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 4. İş sağlığı ve güvenliği tedbirlerini alarak manifold volan ve baskı plakasını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "4. Manifold volan ve baskı plakasını yenileştirme                           4.9. Baskı plakasının görevi çeşitleri ve malzemeleri özellikleri            2. DÖNEM 2. YAZILI SINAVI",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak manifold volan ve baskı plakasını yenileştirir."
+    },
+    {
+      "ÜNİTE": "MODÜL 2 SİLİNDİR KAPAĞI VE BLOĞU YENİLEŞTİRMEK",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "4. Manifold volan ve baskı plakasını yenileştirme                       4.10. Volanın taşlanması işlemi\n4.11. Baskı plakasının taşlanması işlemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak manifold volan ve baskı plakasını yenileştirir."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

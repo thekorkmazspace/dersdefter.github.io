@@ -1,0 +1,338 @@
+{
+  "sinif": "10",
+  "ders": "Susleme Teknikleri",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "Uygulama Birimi DİKİŞ TEKNİĞİ İLE SÜSLEME\nİş Sağlığı ve Güvenliği Tedbirleri \n1. Dikiş Tekniği İle Süsleme\n1.1. Süsleme\n1.1.1. Süslemenin Tanımı ve Süsleme Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Nervür yapmada kumaş miktarını hesaplar işaretleme yaparak diker."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "1.2. Nervür Yapma\n1. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Nervür yapmada kumaş miktarını hesaplar işaretleme yaparak diker."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "2. Uygulama",
+      "KAZANIM": "Nervür yapmada kumaş miktarını hesaplar işaretleme yaparak diker."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "1.3. Biye Yapma\n1.3.1. Hazırlanan Biye Parçalarını Uygulama Şekilleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Biyelik kumaşı ölçülere uygun keserek diker."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Biyelik kumaşı ölçülere uygun keserek diker."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "4. Uygulama",
+      "KAZANIM": "Biyelik kumaşı ölçülere uygun keserek diker."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "1.4. Pili Pili Kaşe Yapma\n1.4.1. Katlama Şekline Göre Pili Çeşitleri",
+      "KAZANIM": "Kumaşa pili genişliğini işaretleyerek teğellediği yerden diker."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "5. Uygulama\n6. Uygulama \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Kumaşa pili genişliğini işaretleyerek teğellediği yerden diker."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "1.5. Kapitone Yapma\n7. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Kapitone kumaşı ve kabartma malzemesini hazırlayarak kapitone yapar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "1.6. Firfir Ve Farbela Yapma\n8. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Fırfır veya farbela kumaşını hazırlayarak makinede büzgü dikişi ile fırfır yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "Uygulama Birimi EL VE MAKİNE NAKIŞI TEKNİĞİ İLE SÜSLEME\n2. El Ve Makine Nakişi Tekniği İle Süsleme\n2.1. Basit Nakiş İğne Teknikleriyle Süsleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Basit nakış iğneleriyle süsleme yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "2.1.1. Basit Nakış İğne Teknikleri \n1. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Basit nakış iğneleriyle süsleme yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "2. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Basit nakış iğneleriyle süsleme yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "2.1.2. Karışık İğne Teknikleri\n3. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Basit nakış iğneleriyle süsleme yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "2.2. Zincir Suzeni İğnesi Tekniğiyle Süsleme\n2.2.1. Elde Zincir İşi Tekniği Yapımında Dikkat Edilmesi Gereken Noktalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Zincir işi tekniği ile süsleme yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "4. Uygulama \n1.Dönem 2.Sınav",
+      "KAZANIM": "Zincir işi tekniği ile süsleme yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "2.3. Çin İğnesi Tekniğiyle Süsleme\n2.3.1. Fantezi Çin İğnesi \n5. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Çin iğnesi tekniğiyle süsleme yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "2.4. Aplike Tekniğiyle Süsleme\n2.4.1. Aplike Yaparken Dikkat Edilecek Noktalar\n6. Uygulama",
+      "KAZANIM": "Aplike tekniğiyle süsleme yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "7. Uygulama",
+      "KAZANIM": "Aplike tekniğiyle süsleme yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "2.5. Bilgisayarli Makinede İşleme Tekniğiyle Süsleme\n8. Uygulama",
+      "KAZANIM": "Bilgisayarlı makinada istenilen desen ve renkleri programlayarak makinede işleme tekniğiyle süsleme yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "Uygulama Birimi HAZIR GEREÇLERLE YAPILAN SÜSLEMELER\n3. Hazir Gereçlerle Yapilan Süslemeler\n3.1. Kordonlar İle Süsleme Yapma\n3.1.1. Kordon ve Kordon Çeşitleri\n1. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Kordonlar ile süsleme yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "2. Uygulama\n3. Uygulama\n4. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Kordonlar ile süsleme yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "3.2. Danteller Ve Fistolar İle Süsleme Yapma\n3.2.1. Dantel Dikiş Çeşitleri\n5. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Dantel ve fistolar ile süsleme yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "3.3. Sutaşi Ve Hazir Harçlar İle Süsleme Yapma\n6. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Sutaşı ve hazır harçlar ile süsleme yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "3.4. Kurdele Ve Şeritlerle Süsleme Yapma\n7. Uygulama\n8. Uygulama\n9. Uygulama \n \n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Kurdela ve şeritler ile süsleme yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "Uygulama Birimi BÜZGÜ TEKNİKLERİYLE SÜSLEME\n4. Büzgü Teknikleriyle Süsleme\n4.1. Büzgü\n4.1. Düz Büzgü",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Düz büzgü ile süsleme yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "1. Uygulama\n2. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Düz büzgü ile süsleme yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "3. Uygulama\n4. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Düz büzgü ile süsleme yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "4.3. Kordon Ve Lastik İle Büzgü\n5. Uygulama \nÇocuk insan sevgisi ve evrensellik",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Kordon ve lastik ile büzgü yaparak süsler."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "6. Uygulama\n4.4. Şematik Büzgüler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Şematik büzgü ile süsleme yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "7. Uygulama\n8. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Şematik büzgü ile süsleme yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "Uygulama Birimi PUL BONCUK İŞİ YAPMA\n5. Pul Boncuk İşi Yapma\n5.1. Pul Boncuk İle Süsleme\n5.1.1. Pul Boncuk ile Süslemede Kullanılan Araç Gereçler\n5.1.2. Pul Boncukla Süslemenin Kullanım Alanları",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Desen çizerek desene göre pul boncuk ile süsleme yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "5.2. Desen Çizerek Desene Göre Pul Boncuk İle Süsleme\n5.2.1. Pul ve Boncuk Dikme Teknikleri \n5.2.2. Pul Boncuk İşleme Tekniğinde Dikkat Edilmesi Gereken Noktalar \nAtatürkçü düşüncede yer alan temel fikirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Desen çizerek desene göre pul boncuk ile süsleme yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "1. Uygulama\n2. Uygulama\n3. Uygulama\n4. Uygulama\n5. Uygulama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Desen çizerek desene göre pul boncuk ile süsleme yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "6. Uygulama\n7. Uygulama\n8. Uygulama\n9. Uygulama\n10. Uygulama \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Desen çizmeden modele göre pul boncuk ile süsleme yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "11. Uygulama\n12. Uygulama\n5.3. Desen Çizmeden Modele Göre Pul Boncuk İle Süsleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Desen çizmeden modele göre pul boncuk ile süsleme yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

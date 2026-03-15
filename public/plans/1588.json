@@ -1,0 +1,444 @@
+{
+  "sinif": "10",
+  "ders": "Kimya (fen Lisesi Meb)",
+  "plan": [
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "Kimyasal Tepkimelerin Oluşumu",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "10.1.1.Kimyasal değişimlere ilişkin kanıtları belirlemeye yönelik bilimsel gözlem yapabilme\na Kimyasal değişimlerin gözlemlenebilir göstergelerini enerji değişimi gaz çıkışı renk değişimi veya yeni bir katının oluşumu tanımlar.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.1. İletişim Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "Kimyasal Tepkimelerin Oluşumu",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "10.1.1.Kimyasal değişimlere ilişkin kanıtları belirlemeye yönelik bilimsel gözlem yapabilme\nb Kimyasal değişimlerin gözlemlenebilir göstergelerine ilişkin veri toplar ve kaydeder. c Kimyasal değişimlerin gözlemlenebilir göstergelerine ilişkin topladığı verileri tepkenlerin alt mikro seviyedeki değişimi temelinde açıklar.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.1. İletişim Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "Kimyasal Tepkime Türleri",
+      "KAZANIM": "10.1.2. Kimyasal tepkimelerin oluşumunu açıklamak için model oluşturabilme\na Taneciklerin yeniden düzenlenmesi temelinde kimyasal tepkimelerin oluşumunu temsil eden model önerir. b Önerdiği modelin geçerliliğini farklı kimyasal tepkimelerin oluşum süreçlerini inceleyerek sınar. c Sınama sürecinde elde ettiği kanıtlara uygun olarak modelini geliştirir.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.1.İletişim Becerisi",
+      "OB": "1.Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "Kimyasal Tepkime Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "10.1.3. Kimyasal tepkime türlerinin oluşum sürecine ilişkin bilimsel gözlem yapabilme\na Tepkime türlerinin çökelme indirgenme-yükseltgenme asit-baz oluşum sürecine ilişkin gözlemlenebilir göstergeleri renk değişimi çökelek oluşumu enerji değişimi gaz çıkışı tanımlar. b Tepkime türlerinin oluşum sürecine ilişkin gözlemlenebilir göstergelere yönelik veri toplar ve kaydeder.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "Kimyasal Tepkime Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "10.1.3. Kimyasal tepkime türlerinin oluşum sürecine ilişkin bilimsel gözlem yapabilme\nc Tepkimelerin oluşum sürecine ilişkin verileri sembolik ve alt mikro seviyedeki gösterimlerle açıklar. ZENGİNLEŞTİRME Öğrenciler kimyasal tepkime türlerini öğretmek için kullanılabilecek bir sanal gerçeklik VR deney seti geliştirebilir. Bu set asit-baz indirgenme-yükseltgenme gibi farklı tepkime türlerini etkileşimli ve görsel olarak sunabilir. Böylece öğrenciler sanal ortamda tehlikeli kimyasal maddelerle doğrudan temas etmeden deney yapabilir ve tepkimelerin sonuçlarını gözlemleyebilir.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "Mol Kavramı",
+      "KAZANIM": "10.1.4. Mol kavramına ilişkin operasyonel tanımlama yapabilme\na Maddelerin miktarını ifade etmek için ölçülebilir kütle tanecik sayısı vb. özellikleri belirler. b Maddelerin aynı sayıda tanecik içeren örneklerinin kütlesini ölçer.",
+      "SDB": "2.1.İletişim Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "Mol Kavramı",
+      "KAZANIM": "10.1.4. Mol kavramına ilişkin operasyonel tanımlama yapabilme\nc Maddelerin tanecik sayısını ifade etmek için yaptığı işlemlere uygun tanım yapar.",
+      "SDB": "2.1.İletişim Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "Mol Kavramı",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "10.1.5. Saf maddelerin ölçülebilir özellikleri arasındaki ilişkileri belirlemeye yönelik tümdengelimsel akıl yürütebilme\na Atom sayısı molekül sayısı kütle ile mol sayısı arasındaki ilişkiyi kuramsal temele dayalı kurduğu hipotezleri ile test eder. b Değişkenler arasındaki orantısal ilişkilere yönelik hipotezlerini yeni durumları açıklamak için kullanır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "Kimyasal Tepkime Denklemlerinin Denkleştirilmesi Kimyasal Stokiyometrik Hesaplamalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 10.1.6. Kimyasal tepkime denklemlerinde tanecik sayılarının tutarsızlıklarına ilişkin çelişkiyi giderebilme\na Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarındaki tutarsızlıkların nerede olduğunu belirler. b Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarının denkleştirilmesi için olası yolları araştırır. c Kimyasal tepkime denklemlerinde tepken ve ürünlerin tanecik sayılarının denkleştirilmesi için uygun yolu seçerek uygular. ç Kimyasal tepkime denklemlerinde tanecik sayılarının denkliğini değerlendirir.",
+      "SDB": "2.1. İletişim Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım 2025",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "KONU": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım 2025",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım 2025"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "Kimyasal Tepkime Denklemlerinin Denkleştirilmesi Kimyasal Stokiyometrik Hesaplamalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "10.1.7. Kimyasal tepkimelerde stokiyometrik ilişkilere yönelik tümdengelimsel akıl yürütebilme\na Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünlerin katsayıları ile mol sayıları arasındaki ilişkileri belirler. b Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünler arasındaki stokiyometrik ilişkileri kurar.",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "Kimyasal Tepkime Denklemlerinin Denkleştirilmesi Kimyasal Stokiyometrik Hesaplamalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "10.1.7. Kimyasal tepkimelerde stokiyometrik ilişkilere yönelik tümdengelimsel akıl yürütebilme\nc Denkleştirilmiş kimyasal tepkimelerde tepken ve ürünler arasındaki stokiyometrik ilişkilere yönelik çıkarım yapar.",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "Gazların Özellikleri ve Gaz Yasaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "10.1.8. Gazların özelliklerine ilişkin bilimsel gözlem yapabilme\na Gazların özelliklerinin hacim basınç genleşme sıkıştırılabilirlik karışabilirlik yoğunluk farkını ortaya koyar.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.1. İletişim Becerisi SDB2.2. İş Birliği Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "Gazların Özellikleri ve Gaz Yasaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "10.1.8. Gazların özelliklerine ilişkin bilimsel gözlem yapabilme\nb Gazların özelliklerine ilişkin veri toplar ve kaydeder. c Topladığı veriler üzerinden gazların özelliklerine basınç hacim sıcaklık ve madde miktarı ilişkin keşfettiği örüntüleri tanecikli model ile açıklar.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.1. İletişim Becerisi SDB2.2. İş Birliği Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "Gazların Kinetik Moleküler Teorisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "10.1.9. Gazların özellikleri arasındaki ilişkileri bilimsel sorgulayabilme\na Gazların hacim basınç sıcaklık ve madde miktarı değişkenleri arasındaki ilişkilere yönelik araştırılabilir sorular oluşturur. b Değişkenler arasındaki ilişkiyi belirlemek üzere hipotez kurar. c Basınç hacim sıcaklık ve madde miktarı arasındaki ikili ilişkileri gösteren gaz yasalarına yönelik araştırma planlar ve planladığı araştırmayı gerçekleştirir.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.1. İletişim Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "Gazların Kinetik Moleküler Teorisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "10.1.9. Gazların özellikleri arasındaki ilişkileri bilimsel sorgulayabilme\nç Çizdiği grafikler üzerinden matematiksel modeller önerir. d Elde ettiği grafiksel ve matematiksel modelleri kullanarak gazlara ilişkin değişkenler P V T n arasındaki ilişkileri açıklar. e Gaz yasalarını kinetik moleküler teori ile değerlendirir.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.1. İletişim Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "İdeal Gaz Yasası",
+      "KAZANIM": "10.1.10. İdeal gaz denklemini tümevarımsal akıl yürütme yoluyla oluşturabilme\na Boyle Charles ve Avogadro yasaları arasında örüntü oluşturur.",
+      "OB": "4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "İdeal Gaz Yasası",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 10.1.10. İdeal gaz denklemini tümevarımsal akıl yürütme yoluyla oluşturabilme\nb Gazların basınç hacim sıcaklık ve mol sayısı değişkenleri arasındaki ilişkiyi genel matematiksel bir eşitlikle ifade eder.",
+      "OB": "4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "OKUL TEMELLİ PLANLAMA",
+      "KAZANIM": "OKUL TEMELLİ PLANLAMA"
+    },
+    {
+      "ÜNİTE": "YARIYIL TATİLİ 19 - 30 Ocak 2026",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "KONU": "YARIYIL TATİLİ 19 - 30 Ocak 2026",
+      "KAZANIM": "YARIYIL TATİLİ 19 - 30 Ocak 2026"
+    },
+    {
+      "ÜNİTE": "YARIYIL TATİLİ 19 - 30 Ocak 2026",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "KONU": "YARIYIL TATİLİ 19 - 30 Ocak 2026",
+      "KAZANIM": "YARIYIL TATİLİ 19 - 30 Ocak 2026"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "Graham Difüzyon ve Efüzyon Yasası",
+      "KAZANIM": "10.1.11. Gazların farklı ortamlarda yayılmasına ilişkin deney yapabilme\na Efüzyon ve difüzyon ile ilgili deney tasarlar.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.2. İş Birliği Becerisi SDB3.2.Esneklik Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ETKİLEŞİM",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "Graham Difüzyon ve Efüzyon Yasası",
+      "KAZANIM": "10.1.11. Gazların farklı ortamlarda yayılmasına ilişkin deney yapabilme\nb Deney sonuçlarını günlük hayattaki durumları açıklamak için kullanır. ZENGİNLEŞTİRME Öğrenciler çeşitli endüstriyel gazları ayırma sera gazı emisyonlarını azaltma hava saflaştırma tıbbi gaz ayırma ve saflaştırma işlemlerini verimli ve etkili bir şekilde gerçekleştirebilecek nano filtreler geliştirebilir. Bu amaçla zeolit metal-organik çerçeveler MOF ve nanoporöz karbon yapılar gibi nanoporöz malzemeler kullanarak belirli boyut ve şekildeki gaz moleküllerini seçici olarak geçirecek filtreler tasarlayabilir. Tıbbi cihazlar yapabilir veya bunları kullanabilir.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB2.2. İş Birliği Becerisi SDB3.2.Esneklik Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "Çözünme Süreci",
+      "KAZANIM": "10.2.1. Çözünme sürecine ilişkin bilimsel model oluşturabilme\na Çözünme sürecini temsil etmek için basit tanecik modelleri geliştirir. b Çözünme sürecine ilişkin modelleri bilimsel modellerle karşılaştırır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi SDB1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB1.3. Kendine Uyarlama Öz Yansıtma Becerisi SDB2.3. Sosyal Farkındalık Becerisi",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "Maddelerin Birbiri İçindeki Çözünebilirliği",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "10.2.2. Farklı maddelerin birbiri içinde çözünebilirliğini kanıt kullanarak açıklayabilme\na Farklı maddelerin birbiri içinde çözünmesi ya da çözünmemesi durumuna ilişkin ölçütler çözücü ve çözünenin polarapolar veya iyonikmoleküler olması belirler. b Çözünme sürecine yönelik verileri kullanarak çözünme ya da çözünmeme durumlarını açıklayacak şekilde veri seti oluşturur.",
+      "SDB": "2.1. İletişim Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "Maddelerin Birbiri İçindeki Çözünebilirliği",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "10.2.2. Farklı maddelerin birbiri içinde çözünebilirliğini kanıt kullanarak açıklayabilme\nc Farklı maddelerin birbiri içinde çözünme ya da çözünmeme durumunu kanıtlara dayalı olarak açıklar.",
+      "SDB": "2.1. İletişim Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "Çözünme Olayının Sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "10.2.3. Çözünme olayını sınıflandırabilme\na Çeşitli maddelerin suda çözünme olayını ayırt etmek için ölçütler çözücü ve çözünenin etkileşimleri ve sembolik gösterimleri belirler. b Çözünme olayını belirlediği ölçütlere iyonik veya moleküler fiziksel veya kimyasal göre ayrıştırır. c Belirlediği ölçütleri kullanarak çözünme olaylarını gruplandırır. ç Oluşturduğu grup adlandırmalarını bilimsel karşılığı ile kıyaslar.",
+      "SDB": "2.1. İletişim Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "2. DÖNEM ARA TATİLİ 16 - 20 Mart 2026",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "KONU": "2. DÖNEM ARA TATİLİ 16 - 20 Mart 2026",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. DÖNEM ARA TATİLİ 16 - 20 Mart 2026"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "Derişim Birimleri Molarite ppm",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "10.2.4. Çözeltilerin molar derişimine ilişkin tümevarımsal akıl yürütebilme\na Çözeltilerin molar derişimine ilişkin keşfettiği örüntüyü matematiksel olarak modeller. b Matematiksel modelini yeni çözeltilerin verileri üzerinde test eder.",
+      "SDB": "2.1. İletişim Becerisi SDB2.3. Sosyal Farkındalık Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "Derişim Birimleri Molarite ppm",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "10.2.4. Çözeltilerin molar derişimine ilişkin tümevarımsal akıl yürütebilme\nc Çözeltilerin molar derişimini kurduğu matematiksel model üzerinden geneller. ç Genellemelerini bilim insanlarının genellemeleriyle karşılaştırır.",
+      "SDB": "2.1. İletişim Becerisi SDB2.3. Sosyal Farkındalık Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "Çözünürlük",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 10.2.5. Çözünürlük kavramına ilişkin operasyonel tanımlama yapabilme\na Katıların saf sudaki çözünürlüğüne ilişkin ölçütler maddde cinsi sıcaklık belirler. b Çözünürlüğe ilişkin belirlediği ölçütleri test eder. c Çözünürlüğün tanımını yaparak kendi tanımı ile bilimsel tanım arasındaki farkı açıklar.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi SDB1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB1.3. Kendine Uyarlama Öz Yansıtma Becerisi SDB2.3. Sosyal Farkındalık Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "Çözünürlüğe Etki Eden Faktörler Sıcaklık Basınç ve Madde Cinsi",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "10.2.6. Çözünürlüğe etki eden faktörleri belirlemeye yönelik kanıt kullanabilme\na Katı ve gazların saf sudaki çözünürlüğüne etki eden faktörlere ilişkin ölçütler madde cinsi sıcaklık basınç belirler. b Çözünürlük ile ilgili seçtiği verileri değişkenler arası ilişkileri belirleyecek şekilde düzenler.",
+      "SDB": "2.1. İletişim Becerisi SDB2.3. Sosyal Farkındalık Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "Çözünürlüğe Etki Eden Faktörler Sıcaklık Basınç ve Madde Cinsi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "10.2.6. Çözünürlüğe etki eden faktörleri belirlemeye yönelik kanıt kullanabilme\nc Çözünürlüğe etki eden faktörleri veriye dayalı açıklar.",
+      "SDB": "2.1. İletişim Becerisi SDB2.3. Sosyal Farkındalık Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "Çözeltilerin Sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "10.2.7. Çözeltileri sınıflandırabilme\na Çözeltileri ayırt etmek için ölçütler içerdiği çözünenin miktarı üzerinden doymuş doymamış aşırı doymuş içerdiği çözünenin iyonik karakteri üzerinden elektrolit olan elektrolit olmayan belirler. b Çözeltileri belirlediği ölçütlere göre ayrıştırır. c Çözeltileri farklı biçimlerde gruplandırır. ç Oluşturduğu grup adlandırmalarını bilimsel karşılığı ile kıyaslar. ZENGİNLEŞTİRME Öğrencilerden katı sıvı ya da gazların çözünme sürecini web tasarım araçlarını kullanarak modellemeleri istenebilir. Çözünme sürecini kullanarak günlük hayatta karşılaşılan problemlere tekstil mobilya vb. ürünlerdeki lekelerin çıkarılması gibi çözümler üretilmesi sağlanabilir. Öğrenciler petrol sızıntısının temizlenmesi gibi kimyasal bir sorunu çözmek için özgün çözümler geliştirebilir. Öğrencilerden katı bir madde ile hazırlanan doymuş sulu çözeltilerde çözünenden farklı bir katının çözünürlüğünü ve bu çözünürlüğü etkileyen etmenleri incelemek üzere hipotez oluşturmaları veya bilimsel sorgulama yapmaları istenebilir.",
+      "SDB": "2.1. İletişim Becerisi",
+      "OB": "7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "Koligatif Özellikler Kaynama Noktası Yükselmesi Donma Noktası Düşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "10.2.8. Çözünen maddenin tanecik sayısının çözeltilerin kaynama ve donma noktasına etkisini belirlemeye yönelik hipotez oluşturabilme\na Katı-sıvı çözeltilerin kaynama ve donma noktasının saf suya göre değişimine yönelik araştırma sorusu belirler. b Çözeltilerin kaynama ve donma noktasının değişimine yönelik neden-sonuç ilişkilerini belirtir. c Neden-sonuç ilişkilerini araştırabilmek için bağımlı-bağımsız değişkenleri ve kontrol değişkenlerini belirler.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi SDB1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB1.3. Kendine Uyarlama Öz Yansıtma Becerisi SDB2.1. İletişim Becerisi SDB2.2.İş Birliği Becerisi SDB3.3. Sorumlu Karar Verme Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "ÇEŞİTLİLİK",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "Koligatif Özellikler Kaynama Noktası Yükselmesi Donma Noktası Düşmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "10.2.8. Çözünen maddenin tanecik sayısının çözeltilerin kaynama ve donma noktasına etkisini belirlemeye yönelik hipotez oluşturabilme\nç Değişkenler arasındaki ilişkiyi belirlemek üzere deneyler yaparak elde ettiği verilere dayalı önermeler sunar. d Çözeltilerin kaynama noktasının yükselmesi ve donma noktasının düşmesine neden olan faktörlere yönelik sunduğu önermeleri bilimsel kuramlar ile destekler.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi SDB1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB1.3. Kendine Uyarlama Öz Yansıtma Becerisi SDB2.1. İletişim Becerisi SDB2.2.İş Birliği Becerisi SDB3.3. Sorumlu Karar Verme Becerisi",
+      "OB": "1. Bilgi Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "Yeşil Kimya Çevresel ve Ekolojik Sürdürülebilirlik Makro ve Mikro Ölçekli Deneyler",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "10.3.1. Kimya dersinde mikro ölçekli deney tercih etmenin sonuçlarını ekosistem açısından değerlendirebilme\na Makro ve mikro ölçekli deneylerin ekosisteme etkilerine ilişkin ölçütler kimyasal madde miktarı su miktarı ve kimyasal kirlilik miktarı belirler. b Kimyasal tepkimelerle ilgili makro ve mikro ölçekli deneyleri gerçekleştirirken belirlediği ölçütler temelinde ölçümler yapar.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB1.3. Kendine Uyarlama Öz Yansıtma Becerisi SDB2.2. İş Birliği Becerisi  SDB2.3. Sosyal Farkındalık Becerisi SDB3.3. Sorumlu Karar Verme Becerisi",
+      "OB": "5. KÜLTÜRÜ Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "Makro ve Mikro Ölçekli Deneyler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "10.3.1. Kimya dersinde mikro ölçekli deney tercih etmenin sonuçlarını ekosistem açısından değerlendirebilme\nc Ölçme sonuçlarından hareketle makro ve mikro ölçekli deneylerin etkilerine ilişkin belirlediği ölçütleri karşılaştırır. ç Makro ve mikro ölçekli deneylerin ekosisteme etkileri hakkında yargıya varır.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB1.3. Kendine Uyarlama Öz Yansıtma Becerisi SDB2.2. İş Birliği Becerisi  SDB2.3. Sosyal Farkındalık Becerisi SDB3.3. Sorumlu Karar Verme Becerisi",
+      "OB": "5. KÜLTÜRÜ Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "Atmosferdeki Tepkimeler ve Küresel Sorunlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  10.3.2. Kimyasal tepkimeler sonucunda atmosferin doğasındaki değişimin ekosisteme etkilerine yönelik problem çözebilme\na Kimyasal tepkimeler sonucunda atmosferin doğasındaki değişimin ekosisteme etkilerine yönelik problemleri hava kirliliği ozon azalımı asit yağmurları sera etkisi küresel ısınma vb. belirler. b Belirlediği problemlerin ekosistem canlı cansız sucul sistem toprak hava sağlık vb. üzerindeki etkilerini özetler.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB1.3. Kendine Uyarlama Öz Yansıtma Becerisi SDB2.1. İletişim Becerisi SDB2.2. İş Birliği Becerisi  SDB2.3. Sosyal Farkındalık Becerisi SDB3.3. Sorumlu Karar Verme Becerisi",
+      "OB": "8. Sürdürülebilirlik Okuryazarlığı OB5. KÜLTÜRÜ Okuryazarlıği"
+    },
+    {
+      "ÜNİTE": "SÜRDÜRÜLEBİLİRLİK",
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "Atmosferdeki Tepkimeler ve Küresel Sorunlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "10.3.2. Kimyasal tepkimeler sonucunda atmosferin doğasındaki değişimin ekosisteme etkilerine yönelik problem çözebilme\nc Problemlerin çözümüne yönelik veriye dayalı tahminlerde bulunur. ç Problemin çözümüne yönelik önermeler üzerinden akıl yürütür. d Problemin çözümüne ilişkin değerlendirmelerde bulunur. d Problemin çözümüne ilişkin değerlendirmelerde bulunur. ZENGİNLEŞTİRME Öğrencilerin emisyon ayak izini azaltmaya yönelik proje yapmaları sağlanabilir. Öğrencilerden bu projede hava kirliliği ve asit yağmurlarına neden olabilecek SOx ve NOx gazlarını azaltmak veya gidermek amacıyla tasarım yapmaları istenebilir. Öğrencilerin yeşil kimya kapsamında atık önleme ve yenilenebilir ham madde kullanımı temelinde emisyon gazlarının yeniden kullanımı için deneyler yapmaları sağlanabilir. Öğrencilere sürdürülebilirlik kapsamında sera gazını azaltmak için deney yaptırılabilir. Örneğin öğrencilerin CO2 gazının su içinde çözünmesiyle gazlı içecek veya asidik su elde etmeleri sağlanabilir. Öğrencilerden okyanuslardaki çürümenin neden olduğu metan gazının atmosfere ulaşmasını önlemeye yönelik araştırmalar ve projeler yapmaları istenebilir. Öğrenciler eriyen buzulların içerisindeki metan gazının atmosfere karışması sorununu çözmek için proje tasarlayabilir. Projeler sırasında öğrencilerde var olan en büyük metan gazı kaynağının hayvancılık olduğu kavram yanılgısı da giderilebilir.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme Becerisi SDB1.3. Kendine Uyarlama Öz Yansıtma Becerisi SDB2.1. İletişim Becerisi SDB2.2. İş Birliği Becerisi  SDB2.3. Sosyal Farkındalık Becerisi SDB3.3. Sorumlu Karar Verme Becerisi",
+      "OB": "8. Sürdürülebilirlik Okuryazarlığı OB5. KÜLTÜRÜ Okuryazarlıği"
+    },
+    {
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA",
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "OKUL TEMELLİ PLANLAMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "OKUL TEMELLİ PLANLAMA"
+    },
+    {
+      "ÜNİTE": "SOSYAL ETKİNLİK",
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "KONU": "SOSYAL ETKİNLİK",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "SOSYAL ETKİNLİK"
+    },
+    {
+      "BELİRLİ GÜN VE HAFTALAR": "** Bu YILLIK plan; 19.09.2022 tarih ve 58168473 sayılı \"Millî Eğitim Bakanlığı Eğitim Öğretim Çalışmalarının Planlı Yürütülmesine İlişkin Yönerge\", 2104 sayılı Tebliğler Dergisi, İlköğretim ve Ortaöğretim Kurumlarında Atatürk İNKILAP ve İlkelerinin Öğretim Esasları Yönergesi, Talim ve\nTerbiye Kurulu'nun 23.05.2024 tarih ve 20 sayılı Kurul Kararı eki, Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni, \"M.E.B. 2024-2025 Eğitim ve Öğretim Yılı Çalışma Takvimi Genelgesi\" ile Talim ve Terbiye Kurulu'nun 24.08.2023 tarih ve 43 sayılı Kurul Kararı eki esas\nalınarak hazırlanmıştır.\n** ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır.",
+      "KAZANIM": "-"
+    }
+  ]
+}

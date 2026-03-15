@@ -1,0 +1,338 @@
+{
+  "sinif": "9",
+  "ders": "Çocuk Ruh Sağlığı-9",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "1. Öğrenme Birimi ÇOCUK RUH SAĞLIĞI\n1.1. Ruh Sağlığı İle İlgili Konular\n1.1.1. Sağlığının Tanımı Ve Çocuk Ruh Sağlığının Önemi \nDemokrasinin önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Ruh sağlığı ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.2. Ruh Sağlığı İle İlgili Temel Kavramlar\n1.1.3. Ruh Sağlığını Etkileyen Etmenler",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Ruh sağlığı ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.4. Çocuk Ruh Sağlığını Etkileyen Olumsuz Etmenler\n1.1.5. Duygusal Gelişim \n1.1.6 Duygusal Gelişim Özellikleri",
+      "KAZANIM": "Ruh sağlığı ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "1.1.7. Duygu Çeşitleri\n1.1.8. İlk Duygusal Tepkiler \n1.1.9. Aile Ve Çocuk",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Ruh sağlığı ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "1.1.10. Ailedeki Diğer Bireyler \n1.1.11. Okul Ve Çocuk",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Ruh sağlığı ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "1.1.12. Toplum Ve Çocuk\n1.2. 0-72 Ay Çocuklarında Etkili İletişim Yöntemleri\n1.2.1. İletişimin Tanımı Ve Önemi",
+      "KAZANIM": "0-72 ay çocuklarında etkili iletişim yöntemlerini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.2. İletişim Becerileri\n1.2.3. Sağlıklı İletişimin Yolları \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "İletişimi engelleyen anne baba öğretmen tutumlarını ve diğer faktörleri açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.4. İletişim Türleri \n1.2.5. Çocukla İletişim Kurarken Dikkat Edilecek Noktalar \n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "İletişimi engelleyen anne baba öğretmen tutumlarını ve diğer faktörleri açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "1.3. İletişimi Engelleyen Anne Baba Ve Öğretmen Tutumları\n1.3.1. İletişimi Engelleyen Anne Baba Tutumları\n1.3.2. İletişimi Engelleyen Öğretmen Tutumları \nAtatürkün eğitime ve bilime verdiği önem",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav İletişimi engelleyen anne baba öğretmen tutumlarını ve diğer faktörleri açıklar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "1.4. Duygu Ve Davranış Bozuklukları \n1.4.1. Duygusal Gelişim Problemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Duygu ve davranış bozukluklarını açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "1.4.2. Alışkanlık Ve Eğitim Problemleri \n1.4.3. Davranış Bozuklukları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Duygu ve davranış bozukluklarını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "1.5. Savunma Mekanizmaları\n1.5.1. Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Savunma mekanizmalarını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "1.5.2. Savunma Mekanizmalarının Önemi \n1.5.3. Başlıca Savunma Mekanizmaları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Savunma mekanizmalarını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "1.6. Problem Çözme \n1.6.1. Problemin Tanımı \n1.6.2. Problem Çözme Basamakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Problem çözme aşamalarını açıklar"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "1.6.3 Çocuklara Problem Çözme Becerisi Kazandırma\n1.6.4. Problemi Olan Çocuklarla Sağlıklı İletişim Kurma Yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Problem çözme aşamalarını açıklar"
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "1.7. Disiplinin Amacı Yöntemleri Ve İlkeleri\n1.7.1. Disiplin \n1.7.2. Ödül \n1.Dönem 2.Sınav",
+      "KAZANIM": "Disiplinin amacı yöntemleri ve ilkelerini açıklar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "1.8. Olumsuz Davranış Karşısında Sergilenecek Tutumlar \n1.8.1. Olumsuz Davranış Karşısında Tutumlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Olumsuz davranış karşısında takınılacak tutumları açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "1.8.2. Uyarı Ve Yaptırımların Amacı Ve İlkeleri\n1.8.3. Aile İçi İletişimde Uyulması Gereken Kurallar",
+      "KAZANIM": "Olumsuz davranış karşısında takınılacak tutumları açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "2. Öğrenme Birimi ÇOCUKLARI TANIMA  DEĞERLENDİRME\n2.1. Çocukları Tanıma Tekniklerini Kullanarak Veri Toplama",
+      "KAZANIM": "Çocukları tanıma tekniklerini kullanarak veri toplamaya yardımcı olma ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2.1.1. Çocukları Tanıma Ve Değerlendirmenin Önemi \n2.1.2. Çocukları Tanıma Ve Değerlendirmede Dikkat Edilmesi Gereken Noktalar",
+      "KAZANIM": "Çocukları tanıma tekniklerini kullanarak veri toplamaya yardımcı olma ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "2.1.3. Çocukları Tanıma Ve Değerlendirmede Kullanılan Teknikler\n2.1.3.1. Gözlem Ve Gözleme Dayalı Teknikler",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Çocukları tanıma tekniklerini kullanarak veri toplamaya yardımcı olma ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "2.1.3.2. Görüşme",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Çocukları tanıma tekniklerini kullanarak veri toplamaya yardımcı olma ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "2.1.3.3. Ev Ziyaretleri \n2.1.3.4. Oyun Temelli Değerlendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Çocukları tanıma tekniklerini kullanarak veri toplamaya yardımcı olma ile ilgili temel konuları açıklar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "2.1.3.5. Gelişimsel Tanıma Ve Değerlendirme\n2.1.3.6. Derecelendirme Ölçekleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Çocukları tanıma tekniklerini kullanarak veri toplamaya yardımcı olma ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "2.1.3.7. Rubrik\n2.2. Portfolyo Dosyası Toplu Dosya Oluşturma \nAtatürkün vatan ve millet sevgisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Çocukları tanıma tekniklerini kullanarak veri toplamaya yardımcı olma ile ilgili temel konuları açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "2.2.1. Portfolyonun Özellikleri \n2.2.2. Portfolyonun Kapsamı \n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Portfolyo dosyası toplu dosya oluşturmayı açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "2.2.3. Portfolyonun Yararları\n2.2.4. Portfolyo Oluştururken Dikkar Edilmesi Gereken Noktalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Portfolyo dosyası toplu dosya oluşturmayı açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "3. Öğrenme Birimi ÇOCUK HAKLARI ÇOCUK DOSTU ORTAMLAR\n3.1. Çocuk Hakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Çocuk haklarını açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.1. Çocuk Haklarının Tarihçesi\n3.1.2. Çocuk Hakları Sözleşmesi \nÇocuk insan sevgisi ve evrensellik",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Çocuk haklarını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.3. Temel Çocuk Hakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Çocuk haklarını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.2. Çocuk Haklarına Uygun Ortam Hazırlama \n3.2.1. Çocuk Haklarına Uygun  Çocuk Dostu Ortamlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Çocuk haklarına uygun ortamlar hazırlar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.2.2. Çocuk Haklarına Uygun  Çocuk Dostu Ortamların AmaçlarıÖzellikleri Ve Yararları\n3.2.3. Çocuk Haklarına Uygun Çocuk Dostu Ortamların Oluşturulması GerekenYerler \nAtatürkçü düşüncede yer alan temel fikirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Çocuk haklarına uygun ortamlar hazırlar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.3. Çocuk İhmalleri Ve İstismarı\n3.3.1. Çocuk İhmalleri Ve İstismarının Tanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Çocuk hakları ihmal ve istismarını açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "3.3.2. İhmal Ve İstismarın Nedenleri \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Çocuk hakları ihmal ve istismarını açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "3.3.3. İhmal Türleri \n3.3.4. Çocuk İstismar Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Çocuk hakları ihmal ve istismarını açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "3.3.5. Çocuk İhmal Ve İstismarı Durumunda Başvurulacak Kurumlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Çocuk hakları ihmal ve istismarını açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

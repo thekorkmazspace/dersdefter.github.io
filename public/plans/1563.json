@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "Katı Modelleme (plastık Teknolojisi)",
+  "plan": [
+    {
+      "ÜNİTE": "Katı Modelleme Programında 2 Boyutlu Çizimler",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Bilgisayar Destekli Tasarım Programlarını Yükleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarını talimatlara uygun olarak yükler."
+    },
+    {
+      "ÜNİTE": "Katı Modelleme Programında 2 Boyutlu Çizimler",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Bilgisayar Destekli Tasarım Programlarını Yükleme",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarını talimatlara uygun olarak yükler."
+    },
+    {
+      "ÜNİTE": "Katı Modelleme Programında 2 Boyutlu Çizimler",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "2. Bilgisayar Destekli Tasarım Programlarında Sistem ve Doküman Özelliklerini Ayarlama",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında sistem ve doküman özeliklerini istenilen şekilde ayarlar."
+    },
+    {
+      "ÜNİTE": "Katı Modelleme Programında 2 Boyutlu Çizimler",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "2. Bilgisayar Destekli Tasarım Programlarında Sistem ve Doküman Özelliklerini Ayarlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında sistem ve doküman özeliklerini istenilen şekilde ayarlar."
+    },
+    {
+      "ÜNİTE": "Katı Modelleme Programında 2 Boyutlu Çizimler",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Bilgisayar Destekli Tasarım Programlarında 2 Boyutlu Çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak 2 boyutlu çizimleri yapar."
+    },
+    {
+      "ÜNİTE": "Katı Modelleme Programında 2 Boyutlu Çizimler",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Bilgisayar Destekli Tasarım Programlarında 2 Boyutlu Çizim",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak 2 boyutlu çizimleri yapar."
+    },
+    {
+      "ÜNİTE": "Katı Modelleme Programında 2 Boyutlu Çizimler",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Bilgisayar Destekli Tasarım Programlarında 2 Boyutlu Çizim",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak 2 boyutlu çizimleri yapar."
+    },
+    {
+      "ÜNİTE": "Katı Modelleme Programında 2 Boyutlu Çizimler",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Bilgisayar Destekli Tasarım Programlarında 2 Boyutlu Çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak 2 boyutlu çizimleri yapar."
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Bilgisayar Destekli Tasarım Programlarında 3 Boyutlu Modelleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Bilgisayar destekli tasarım programlarında verilen resme uygun 3 boyutlu parça modellemesini yapar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Bilgisayar Destekli Tasarım Programlarında 3 Boyutlu Modelleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun 3 boyutlu parça modellemesini yapar."
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Bilgisayar Destekli Tasarım Programlarında 3 Boyutlu Modelleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun 3 boyutlu parça modellemesini yapar."
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "1. Bilgisayar Destekli Tasarım Programlarında 3 Boyutlu Modelleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun 3 boyutlu parça modellemesini yapar."
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "1. Bilgisayar Destekli Tasarım Programlarında 3 Boyutlu Modelleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun 3 boyutlu parça modellemesini yapar."
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "2. Bilgisayar Destekli Tasarım Programlarında Teknik Resim Görünüşleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen modelin teknik resim görünüşlerini oluşturur."
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "2. Bilgisayar Destekli Tasarım Programlarında Teknik Resim Görünüşleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen modelin teknik resim görünüşlerini oluşturur."
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "2. Bilgisayar Destekli Tasarım Programlarında Teknik Resim Görünüşleri",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen modelin teknik resim görünüşlerini oluşturur."
+    },
+    {
+      "ÜNİTE": "3 Boyutlu Parça Modelleme Ve Teknik Resim Görünüşleri Oluşturma",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "2. Bilgisayar Destekli Tasarım Programlarında Teknik Resim Görünüşleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Bilgisayar destekli tasarım programlarında verilen modelin teknik resim görünüşlerini oluşturur."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarımda Montaj",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programında Montaj",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarımda Montaj",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programında Montaj",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarımda Montaj",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programında Montaj",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında verilen resme uygun olarak montaj yapar."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarımda Montaj",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Hareket",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında modele hareket verir."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarımda Montaj",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Hareket",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında modele hareket verir."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarımda Montaj",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Hareket",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında modele hareket verir."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarım Programında Kalıp Çekirdeği Oluşturma",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programlarında Kalıp Çekirdeklerini Oluşturmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında istenilen ürüne uygun olarak kalıp çekirdeklerini oluşturur."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarım Programında Kalıp Çekirdeği Oluşturma",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programlarında Kalıp Çekirdeklerini Oluşturmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında istenilen ürüne uygun olarak kalıp çekirdeklerini oluşturur."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarım Programında Kalıp Çekirdeği Oluşturma",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programlarında Kalıp Çekirdeklerini Oluşturmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Bilgisayar destekli tasarım programlarında istenilen ürüne uygun olarak kalıp çekirdeklerini oluşturur."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarım Programında Kalıp Çekirdeği Oluşturma",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Kalıp Seti",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında istenilen kalıp çekirdeğine uygun kalıp setini oluşturur."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarım Programında Kalıp Çekirdeği Oluşturma",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Kalıp Seti",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında istenilen kalıp çekirdeğine uygun kalıp setini oluşturur."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Tasarım Programında Kalıp Çekirdeği Oluşturma",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Kalıp Seti",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında istenilen kalıp çekirdeğine uygun kalıp setini oluşturur."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Çizim Programında İleri İşlemler",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programlarında Yüzey Modelleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında yüzey modelleme yapar."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Çizim Programında İleri İşlemler",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programlarında Yüzey Modelleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında yüzey modelleme yapar."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Çizim Programında İleri İşlemler",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "1.   Bilgisayar Destekli Tasarım Programlarında Yüzey Modelleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında yüzey modelleme yapar."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Çizim Programında İleri İşlemler",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Plastik Akış Analiz",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında kalıplanan ürünün akış analizini yapar."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Çizim Programında İleri İşlemler",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Plastik Akış Analiz",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Bilgisayar destekli tasarım programlarında kalıplanan ürünün akış analizini yapar."
+    },
+    {
+      "ÜNİTE": "Bilgisayar Destekli Çizim Programında İleri İşlemler",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "2.   Bilgisayar Destekli Tasarım Programlarında Plastik Akış Analiz",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Bilgisayar destekli tasarım programlarında kalıplanan ürünün akış analizini yapar."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

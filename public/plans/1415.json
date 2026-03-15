@@ -1,0 +1,378 @@
+{
+  "sinif": "11",
+  "ders": "Televızyon Atölyesi",
+  "plan": [
+    {
+      "ÜNİTE": "Televizyon Haberinin Yazımı",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "9",
+      "KONU": "1. Televizyon Haberciliğinin Temel Kavramları",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Haberin temel kavramlarını açıklar.\nHaber   kavramı   haber   değeri   ve   haberin   temel özellikleri açıklanır.\n       TV   haberinin   yazılı   ve   işitsel   haberlerden   farkı açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Haberinin Yazımı",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "9",
+      "KONU": "2. Haber Merkezi",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Haber merkezinin işleyişini analiz eder.\nHaber    merkezinin    çalışanları    ve    görev    dağılımı açıklanır.\n       Haber üretim süreci açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Haberinin Yazımı",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "9",
+      "KONU": "3. Televizyon Haberi İçin Veri Toplama",
+      "KAZANIM": "Televizyon haberi için veri toplar.\nTelevizyon haberciliğinde kullanılan veri toplama araç gereçleri gösterilir.\n       Haber kaynakları açıklanır.\n       Haber görüntü kaynakları açıklanır.\n       Televizyon haberi veri toplama yolları açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Haberinin Yazımı",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "9",
+      "KONU": "4. Televizyon Haberi Yazma",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Televizyon haberi yazar.\nTelevizyon haber dili ve yapısal özellikleri açıklanır.\n       Televizyon  haber  metni  yazarken  uyulması  gereken etik ve yasal kurallar açıklanır.\n       Uzmanlık alanlarına göre haber yazımına girilmez.\n       Televizyon haber çeşitleri örneklerle gösterilir.\n       Televizyon haber metni yazım teknikleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Haberinin Yazımı",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "9",
+      "KONU": "4. Televizyon Haberi Yazma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Televizyon haberi yazar.\nTelevizyon haber dili ve yapısal özellikleri açıklanır.\n       Televizyon  haber  metni  yazarken  uyulması  gereken etik ve yasal kurallar açıklanır.\n       Uzmanlık alanlarına göre haber yazımına girilmez.\n       Televizyon haber çeşitleri örneklerle gösterilir.\n       Televizyon haber metni yazım teknikleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Haberinin Yazımı",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "9",
+      "KONU": "4. Televizyon Haberi Yazma",
+      "KAZANIM": "Televizyon haberi yazar.\nTelevizyon haber dili ve yapısal özellikleri açıklanır.\n       Televizyon  haber  metni  yazarken  uyulması  gereken etik ve yasal kurallar açıklanır.\n       Uzmanlık alanlarına göre haber yazımına girilmez.\n       Televizyon haber çeşitleri örneklerle gösterilir.\n       Televizyon haber metni yazım teknikleri açıklanır."
+    },
+    {
+      "ÜNİTE": "Haber Çekimi",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "9",
+      "KONU": "1. Haber Çekim Hazırlıkları",
+      "KAZANIM": "Haber     çekimi     öncesi     kamera     ve     yardımcı ekipmanlarının hazırlığını yapar.\nHabere    giderken    bulundurulması    gereken    araç- gereçler sıralanır.\n       Haber   çekimi   öncesi   kamera   hazırlığının   önemi açıklanır.\n       Habere  giderken bulundurulması  gereken diğer  araç- gereçleri hazırlamanın önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Haber Çekimi",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "9",
+      "KONU": "2. Haber Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Haber çekimi yapar.\nHaber çekiminde kamera konumlandırılmasında dikkat edilmesi gereken hususlar açıklanır.\n       Ortama uygun kamera ayarlarının yapılması sağlanır.\n       Haber   görüntüsüne   time   code   döşemenin   önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Haber Çekimi",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "9",
+      "KONU": "3. Anons Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  Anons çekimi yapar.\nOlay yerinden anons çekiminin önemi açıklanır.\n       Green-box uygulaması anons çekimi yaptırılır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "9",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Haber Çekimi",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "9",
+      "KONU": "4. Röportaj Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Röportaj çekimi yapar.\nTek kamera ile röportaj yapılması sağlanır.\n       Çift kamera ile röportaj yapılması sağlanır.\n       Üç kamera ile röportaj yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Haber Çekimi",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "9",
+      "KONU": "4. Röportaj Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Röportaj çekimi yapar.\nTek kamera ile röportaj yapılması sağlanır.\n       Çift kamera ile röportaj yapılması sağlanır.\n       Üç kamera ile röportaj yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Haber Çekimi",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "9",
+      "KONU": "4. Röportaj Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Röportaj çekimi yapar.\nTek kamera ile röportaj yapılması sağlanır.\n       Çift kamera ile röportaj yapılması sağlanır.\n       Üç kamera ile röportaj yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Haber Kurgusu",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "9",
+      "KONU": "1. Görsel ve işitsel malzeme sağlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Haber   için   görsel   ve   işitsel   malzemeleri   ses görüntü grafik ve animasyon vb. hazırlar.\nHaber metni seslendirmesi yaptırılır.\n       Haber değeri taşıyan görüntülerin seçimi yaptırılır.\n       Arşiv görüntülerinin kullanım amacı açıklanır.\n       Müzik ve efekt seçimi yaptırılır.\n       Kurguda kullanılacak yerleri belirler. time-code alma\n       Haber için görsel malzemelerin grafik ve animasyonlar hazırlanması sağlanır."
+    },
+    {
+      "ÜNİTE": "Haber Kurgusu",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "9",
+      "KONU": "2. Haber VTRsi hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Haber metnine göre haberin VTRsini hazırlar.\nGörüntü   veya   seslendirme   önceliğine   göre   haber kurgusu yaptırılır.\n       Türüne göre  DSF  Seslendirmeli  anonslu röportajlı haber kurgusu yaptırılır."
+    },
+    {
+      "ÜNİTE": "Haber Kurgusu",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "9",
+      "KONU": "3. Yazı ve Grafik Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Görüntüyle verilecek yazıları ve grafikleri ekler.\nYazı  görüntüsü  oluşturma  programları  ve  cihazları açıklanır.\n       Görüntüyle verilecek yazıların ve grafiklerin hazırlanması sağlanır.\n       Yazılara ve grafiklere efekt eklenmesi sağlanır."
+    },
+    {
+      "ÜNİTE": "Haber Kurgusu",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "9",
+      "KONU": "4. Export çıktı alma",
+      "KAZANIM": "Kurgu çalışmasını  istenilen formatta  export çıktı alır.\nKurgunun son izlemesinin yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Haber Kurgusu",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "9",
+      "KONU": "4. Export çıktı alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  Kurgu çalışmasını  istenilen formatta  export çıktı alır.\nKurgunun son izlemesinin yapılması sağlanır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Metni Yazımı",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "9",
+      "KONU": "1. Program Tasarım Aşaması",
+      "KAZANIM": "Televizyon program projesi oluşturur.\nTelevizyon programı formatları açıklanır.\n       Program   fikrinin   geliştirilmesi   ve   program   öneri formunun hazırlanması sağlanır.\n       Program bütçe araştırması yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Metni Yazımı",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "9",
+      "KONU": "1. Program Tasarım Aşaması",
+      "KAZANIM": "Televizyon program projesi oluşturur.\nTelevizyon programı formatları açıklanır.\n       Program   fikrinin   geliştirilmesi   ve   program   öneri formunun hazırlanması sağlanır.\n       Program bütçe araştırması yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Metni Yazımı",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "9",
+      "KONU": "2. Program Yapım Hazırlıkları",
+      "KAZANIM": "Yapım ekibini ve donanım ihtiyaçlarını belirler.\nTV programı yapım ekibi oluşturulması sağlanır.\n       Programın yapım özelliklerinin belirlenmesi sağlanır.\n       Çekimde  kullanılacak  donanımların  temini  için  rapor hazırlanması sağlanır.\n       Çekim ve yayın izinlerinin alınmasının önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Metni Yazımı",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "9",
+      "KONU": "2. Program Yapım Hazırlıkları",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Yapım ekibini ve donanım ihtiyaçlarını belirler.\nTV programı yapım ekibi oluşturulması sağlanır.\n       Programın yapım özelliklerinin belirlenmesi sağlanır.\n       Çekimde  kullanılacak  donanımların  temini  için  rapor hazırlanması sağlanır.\n       Çekim ve yayın izinlerinin alınmasının önemi açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Metni Yazımı",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "9",
+      "KONU": "3. Program Metinleri Ve Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Türüne göre televizyon programı metni yazar.\nTelevizyon dilinin özellikleri açıklanır.\n       Metin  yazımında  dikkat edilmesi gerekenler  hususlar açıklanır.\n       Programın   türüne   göre   akış   metni   hazırlanması sağlanır.\n       Program   için   sunucu   destek   metni   oluşturulması sağlanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Metni Yazımı",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "9",
+      "KONU": "3. Program Metinleri Ve Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Türüne göre televizyon programı metni yazar.\nTelevizyon dilinin özellikleri açıklanır.\n       Metin  yazımında  dikkat edilmesi gerekenler  hususlar açıklanır.\n       Programın   türüne   göre   akış   metni   hazırlanması sağlanır.\n       Program   için   sunucu   destek   metni   oluşturulması sağlanır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "9",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Çekimi",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "9",
+      "KONU": "1. Kamera Konumlandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Çekimin türüne göre kamera konumlandırması yapar.\nAks çizgisi kuralına uygun kamera konumlandırılması yaptırılır.\n   Türüne göre stüdyo programlarının için kamera konumlandırılması yaptırılır.\n   Tek iki ve üç kamera ile kamera konumlandırılması yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Çekimi",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "9",
+      "KONU": "2. VTR Çekimi Yapma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Dış mekânda VTR çekimi yapar.\nVTR çekimi için ön hazırlıklar yaptırılır.\n   VTR çekimi yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Çekimi",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "9",
+      "KONU": "3. Ses ve Işık Hazırlıkları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Programın türüne göre ses ve ışık hazırlıklarını yürütür.\nProgramın türüne göre ses sistemlerinin hazırlığı yaptırılır.\n   Programın türüne göre ışık sistemlerinin hazırlığı yaptırılır.\n   Green-box aydınlatması yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Çekimi",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "9",
+      "KONU": "4. Soğuk ve Sıcak Provalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Soğuk ve sıcak provalar yapar.\nProva yapma amaçları açıklanır.\n   Reji toplantısı yaptırılır.\n   Soğuk ve sıcak provalar yaptırılır.\n   Deneme ve pilot çekimleri yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Çekimi",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "9",
+      "KONU": "5. Stüdyo Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Türüne göre program çekimi yapar.\nProgram türleri açıklanır.\n   Uluslararası yönetmen komutları açıklanır\n   Stüdyonun çekime hazır hale getirilmesi sağlanır.\n   Canlı yayınlanan programlarda verilecek aralara ve genel süreye dikkat edilmesi sağlanır.\n   Canlı yayınlarda sunucu ile yaşanabilecek iletişim kazaları örneklerle açıklanır.\n   Canlı muhabir bağlantısında dikkat edilecek esaslar açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Çekimi",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "9",
+      "KONU": "5. Stüdyo Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Türüne göre program çekimi yapar.\nProgram türleri açıklanır.\n   Uluslararası yönetmen komutları açıklanır\n   Stüdyonun çekime hazır hale getirilmesi sağlanır.\n   Canlı yayınlanan programlarda verilecek aralara ve genel süreye dikkat edilmesi sağlanır.\n   Canlı yayınlarda sunucu ile yaşanabilecek iletişim kazaları örneklerle açıklanır.\n   Canlı muhabir bağlantısında dikkat edilecek esaslar açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Çekimi",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "9",
+      "KONU": "5. Stüdyo Çekimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Türüne göre program çekimi yapar.\nProgram türleri açıklanır.\n   Uluslararası yönetmen komutları açıklanır\n   Stüdyonun çekime hazır hale getirilmesi sağlanır.\n   Canlı yayınlanan programlarda verilecek aralara ve genel süreye dikkat edilmesi sağlanır.\n   Canlı yayınlarda sunucu ile yaşanabilecek iletişim kazaları örneklerle açıklanır.\n   Canlı muhabir bağlantısında dikkat edilecek esaslar açıklanır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Kurgusu",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "9",
+      "KONU": "1.  Kurgu Öncesi Çalışmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Kurgu öncesi çalışmaları yürütür.\nSeslendirme müzik efekt grafik ve program jeneriği hazırlanması işlemleri yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Kurgusu",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "9",
+      "KONU": "2.  VTR Kurgusu",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Programda    kullanılacak    VTRlerin    kurgusunu yapar.\nProgramda kullanılacak VTRlerin kurgusu yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Kurgusu",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "9",
+      "KONU": "3.  Yazı ve Grafik Hazırlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Televizyon programlarının kurgusunu yapar.\nTürüne    göre    televizyon    programlarının    kurgusu yaptırılır."
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Kurgusu",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "9",
+      "KONU": "4.  Program Kurgusu",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Görüntüye verilecek yazıları hazırlar.\nGörüntüye verilecek yazıları ve grafikleri eklemek"
+    },
+    {
+      "ÜNİTE": "Televizyon Programı Kurgusu",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "9",
+      "KONU": "5.  Export çıktı Alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Kurgu çalışmasını export çıktı alır."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "9",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "KONU": "* * Bu plan Talim Terbiye Kurulunun yayınladığı Çerçeve Öğretim Programı ve Ders Bilgi Formlarına göre hazırlanmıştır. ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır.",
+      "KAZANIM": "-"
+    }
+  ]
+}

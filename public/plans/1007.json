@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "Ayakkabı Istampasi Cıkarma Atölyesi",
+  "plan": [
+    {
+      "ÜNİTE": "Taban ve Taban Astarı Modeli",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "5",
+      "KONU": "1.  Taban ve taban astarı kalıp bantlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Taban ve taban astarı için kalıp bantlar.\nTaban ve taban astarı modeli çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Tekniğine  uygun  taban  ve  taban  astarı  için  kalıp bantlatılır."
+    },
+    {
+      "ÜNİTE": "Taban ve Taban Astarı Modeli",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "5",
+      "KONU": "2.  Taban astarı ıstampası çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Taban astarı ıstampası çıkarır.\nTekniğine uygun taban astarı için ıstampa çıkartılır."
+    },
+    {
+      "ÜNİTE": "Taban ve Taban Astarı Modeli",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "5",
+      "KONU": "3.  Taban ıstampası çıkarma",
+      "KAZANIM": "Taban ıstampası çıkarır.\nTekniğine uygun taban için ıstampa çıkartılır."
+    },
+    {
+      "ÜNİTE": "Taban ve Taban Astarı Modeli",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "5",
+      "KONU": "3.  Taban ıstampası çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Taban ıstampası çıkarır.\nTekniğine uygun taban için ıstampa çıkartılır."
+    },
+    {
+      "ÜNİTE": "Terlik Modeli",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "5",
+      "KONU": "1.   Terlik modelini kalıp üzerine çizme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Terlik modelini kalıp üzerine çizer.\nModel çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Kalıp  üzerine  modele  ve  tekniğine  uygun  sandalet terlik ayakkabı çizimi yaptırır."
+    },
+    {
+      "ÜNİTE": "Terlik Modeli",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "5",
+      "KONU": "2.   Terlik modelinin yüz ıstampalarını çıkarma",
+      "KAZANIM": "Terlik modelinin yüz ıstampalarını hazırlar.\nSandalet terlik modelinin yüz ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Terlik Modeli",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "5",
+      "KONU": "3.   Terlik modelinin astar ıstampalarını çıkarma",
+      "KAZANIM": "Terlik modelinin astar ıstampalarını hazırlar.\nSandalet terlik modelin astar ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Terlik Modeli",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "5",
+      "KONU": "4.   Terlikmodelinin mostra ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Terlik modelinin mostra ıstampasını hazırlar.\nSandalet terlik modelin mostra ıstampasını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Sandalet Modeli",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "5",
+      "KONU": "1.   Sandalet modeli kalıp üzerine çizme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Sandalet modelini kalıp üzerine çizer.\nModel çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Kalıp  üzerine  modele  ve  tekniğine  uygun  sandalet terlik ayakkabı çizimi yaptırır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "5",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Sandalet Modeli",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "5",
+      "KONU": "2.   Sandalet modelinin yüz ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Sandalet modelinin yüz ıstampalarını hazırlar.\nSandalet terlik modelinin yüz ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Sandalet Modeli",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "5",
+      "KONU": "3.   Sandalet modelinin astar ıstampalarını çıkarma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Sandalet modelinin astar ıstampalarını hazırlar.\nSandalet terlik modelin astar ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Sandalet Modeli",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "5",
+      "KONU": "4.   Sandalet modelinin mostra ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Sandalet modelinin mostra ıstampasını hazırlar.\nSandalet terlik modelin mostra ıstampasını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Gova Modeli",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "5",
+      "KONU": "1.   Gova modelini kalıp üzerine çizme  2.   Gova modelinin standart formunu çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Gova modelini kalıp üzerine çizer.Gova modelinin tekniğine ve kurallarına uygun olarak çeşitli standart formlar oluşturur.\nModel çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Kalıp   üzerine   modele   ve   tekniğine   uygun   gova ayakkabı çizimi yaptırır.\n       Gova modelin standartlarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Gova Modeli",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "5",
+      "KONU": "3.   Gova modelinin yüz ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Gova modelinin yüz ıstampalarını hazırlar.\nGova modelinin yüz ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Gova Modeli",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "5",
+      "KONU": "4.   Gova modelinin astar ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Gova modelinin astar ıstampalarını hazırlar.\nGova modelinin astar ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Gova Modeli",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "5",
+      "KONU": "5.   Gova modelinin mostra ıstampalarını çıkarma",
+      "KAZANIM": "Gova modelinin mostra ıstampasını hazırlar.\nGova modelinin mostra ıstampasını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Molyer Modeli",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "5",
+      "KONU": "1.   Molyer modeli kalıp üzerine çizme  2.   Molyer modelinin standart formunu çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Molyer modelini kalıp üzerine çizer.Molyer   modelinin   tekniğine   ve   kurallarına   uygun olarak çeşitli standart formlar oluşturur.\nModel çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Kalıp  üzerine  modele  ve  tekniğine  uygun  molyer modelinin çizimi yaptırır.\n       Molyer modelinin standartlarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "5",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "5",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "5",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Molyer Modeli",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "5",
+      "KONU": "3.   Molyer modelinin yüz ıstampalarını çıkarma",
+      "KAZANIM": "Molyer modelinin yüz ıstampalarını hazırlar.\nMolyer modelinin yüz ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Molyer Modeli",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "5",
+      "KONU": "4.   Molyer modelinin astar ıstampalarını çıkarma",
+      "KAZANIM": "Molyer modelinin astar ıstampalarını hazırlar.\nÇarık modelin astar ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Molyer Modeli",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "5",
+      "KONU": "5.   Molyer modelinin mostra ıstampalarını çıkarma",
+      "KAZANIM": "Molyer modelinin mostra ıstampasını hazırlar\nMolyer modelinin mostra ıstampasını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Çarık Modeli",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "5",
+      "KONU": "1.   Çarık modelini kalıp üzerine çizme.  2.   Çarık modelinin standart formunu çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Çarık modelini kalıp üzerine çizer.Çarık modelinin tekniğine ve kurallarına uygun olarak çeşitli standart formlarını oluşturur.\nModel çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Kalıp   üzerine   modele   ve   tekniğine   uygun   çarık ayakkabı çizimi yaptırır.\n       Çarık modelin standartlarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Çarık Modeli",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "5",
+      "KONU": "3.   Çarık modelinin yüz ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Çarık modelinin yüz ıstampalarını hazırlar.\nÇarık modelinin yüz ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Çarık Modeli",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "5",
+      "KONU": "4.   Çarık modelinin astar ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Çarık modelinin astar ıstampalarını hazırlar.\nÇarık modelin astar ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "5",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Çarık Modeli",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "5",
+      "KONU": "5.   Çarık modelinin mostra ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Çarık modelinin mostra ıstampasını hazırlar.\nÇarık modelin mostra ıstampasını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Makosen Modeli",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "5",
+      "KONU": "1.   Makosen modeli kalıp üzerine çizme  2.   Makosen modelinin standart formunu çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Makosen modelini kalıp üzerine çizer.Makosen  modelinin  tekniğine  ve  kurallarına  uygun olarak çeşitli standart formlarını oluşturur.\nModel çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Kalıp  üzerine  modele  ve  tekniğine  uygun  Makosen ayakkabı çizimi yaptırır.\n       Makosen modelinin standartlarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Makosen Modeli",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "5",
+      "KONU": "3.   Makosen modelinin yüz ıstampalarını çıkarma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Makosen modelinin yüz ıstampalarını hazırlar.\nMakosen modelinin yüz ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Makosen Modeli",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "5",
+      "KONU": "4.   Makosen modelinin astar ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Makosen modelinin astar ıstampalarını hazırlar.\nMakosen modelin astar ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Makosen Modeli",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "5",
+      "KONU": "5.   Makosen modelinin mostra ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Makosen modelinin mostra ıstampasını hazırlar.\nMakosen modelin mostra ıstampasını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Spor Ayakkabısı Modeli",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "5",
+      "KONU": "1.   Spor modeli kalıp üzerine çizme  2.   Spor modelinin standart formunu çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Spor modelini kalıp üzerine çizer.Spor modelinin tekniğine ve kurallarına uygun olarak çeşitli standart formlarını oluşturur.\nModel çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Kalıp     üzerine     modele     ve     tekniğine     uygun sporayakkabı çizimi yaptırır.\n       Spor modelin standartlarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Spor Ayakkabısı Modeli",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "5",
+      "KONU": "3.   Spor modelinin yüz ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Spor ayakkabısı modelinin yüz ıstampalarını hazırlar.\nSpor modelinin yüz ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Spor Ayakkabısı Modeli",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "5",
+      "KONU": "4.   Spor modelinin astar ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Spor    ayakkabısı    modelinin    astar    ıstampalarını hazırlar.\nSpor modelin astar ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Spor Ayakkabısı Modeli",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "5",
+      "KONU": "5.   Spor modelinin mostra ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Spor    ayakkabısı    modelinin    mostra    ıstampasını hazırlar.\nSpor modelin mostra ıstampasını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Bot Modeli",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "5",
+      "KONU": "1.   Bot modeli kalıp üzerine çizme  2.   Bot modelinin standart formunu çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Bot modelini kalıp üzerine çizer.Bot  modelinin  tekniğine  ve  kurallarına  uygun  olarak çeşitli standart formlarını oluşturur.\nModel çıkarmak için gerekli olan araç ve gereçleri ve özellikleri açıklanır.\n       Kalıp   üzerine   modele   ve   tekniğine   uygun   bot ayakkabı çizimi yaptırır.\n       Bot modelin standartlarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Bot Modeli",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "5",
+      "KONU": "3.   Bot modelinin yüz ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Bot modelinin yüz ıstampalarını hazırlar.\nBot modelinin yüz ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Bot Modeli",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "5",
+      "KONU": "4.   Bot modelinin astar ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Bot modelinin astar ıstampalarını hazırlar.\nBot modelin astar ıstampalarını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Bot Modeli",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "5",
+      "KONU": "5.   Bot modelinin mostra ıstampalarını çıkarma",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Bot modelinin mostra ıstampasını hazırlar.\nBot modelin mostra ıstampasını hazırlatır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "5",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

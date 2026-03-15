@@ -1,0 +1,339 @@
+{
+  "sinif": "10",
+  "ders": "Insaat Ustyapı Atölyesi",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "9",
+      "KONU": "1. Ahşap Kalıp Öncesi Hazırlık\n1.1. Üstyapı Ahşap Atölyesinde İş Sağlığı Ve Güvenliği Yönergesi\nDoğrultusunda Ahşap Kalıp Öncesi Hazırlık\n1.2. Proje Okuma Esasları Doğrultusunda Kalıp PLANI Ve Detay Çizimlerini Okuma Uygulaması \n1.3. Kalıp Araç Ve Gereçleri Hazırlama Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Üst yapı ahşap atölyesinde iş sağlığı ve güvenliği yönergesi doğrultusunda tedbirleri alarak ahşap kalıp öncesi hazırlık yapar.\nProje okuma esasları doğrultusunda kalıp PLANI ve detay çizimlerini okur.\nAhşap kalıp işleme araç gereçlerini yönerge doğrultusunda hazırlar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "9",
+      "KONU": "2. Ahşap Malzeme İle Temel Kalıpları\n2.1. Temel Kalıp Elemanlarını Hazırlama\n2.1.1. Temel Kalıp Elemanlarını Hazırlama Uygulaması\n2.1.2. Tekil Münferit Temel Kalıp Elemanlarını Hazırlama Uygulaması \n2.1.3. Birleşik Temel Kalıp Elemanlarını Hazırlama Uygulaması\n2.1.4. Sürekli Mütemadi Temel Kalıp Elemanlarını Hazırlama Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Temel kalıp elemanlarını hazırlar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "9",
+      "KONU": "2.1.5. Radye Temel Kalıp Elemanlarını Hazırlanma Uygulaması\n2.1.6. Tekil Münferit Temel Kalıbı Yapma Uygulaması\n2.1.7. Birleşik Temel Kalıbı Yapma Uygulaması \n2.1.8. Sürekli Mütemadi Temel Kalıbı Yapma Uygulaması\n2.1.9. Radye Temel Kalıbı Yapma Uygulaması",
+      "KAZANIM": "İş resmine uygun olarak tekil münferit ve birleşik temel kalıbı yapar.\nSürekli mütemadi ve radye temel kalıbı yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "9",
+      "KONU": "3. Ahşap Malzeme İle Kolon Ve Perde Duvar Kalıpları\n3.1. Kolon Kalıbı Yapma Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "İş resmi veya projesine ve kalıp yapım tekniklerine göre kolon kalıbı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "9",
+      "KONU": "3.1. Kolon Kalıbı Yapma Uygulaması\n3.2. Perde Duvar Kalıbı Yapma Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "İş resmi veya projesine ve kalıp yapım tekniklerine göre kolon kalıbı yapar.\nİş resmi veya projesine ve kalıp yapım tekniklerine göre perde kalıbı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "9",
+      "KONU": "3.2. Perde Duvar Kalıbı Yapma Uygulaması",
+      "KAZANIM": "İş resmi veya projesine ve kalıp yapım tekniklerine göre perde kalıbı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "9",
+      "KONU": "4. Ahşap Malzeme İle Hatıl Ve Lento Kalıpları\n4.1. Hatıl Ve Lento Kalıp Elemanlarını Hazırlama Uygulaması \n4.1.1. Hatıl Kalıp Elemanlarını Hazırlama Uygulaması \n4.1.2. Lento Kalıp Elemanlarını Hazırlama Uygulaması\n4.2. Hatıl Kalıbı Hazırlama Uygulaması\n4.3. Lento Kalıbı Hazırlama Uygulaması\n4.4. Grobeton Kalıbı Hazırlama Uygulaması",
+      "KAZANIM": "İş resmi ve projesine uygun olarak hatıl ve lento kalıp elemanlarını hazırlar.\nİş resmi ve projesine uygun olarak hatıl kalıbı yapar.\nİş resmi ve projesine uygun olarak lento kalıbı yapar.\nİş resmi ve projesine uygun olarak grobeton kalıbı yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "9",
+      "KONU": "5. Ahşap Malzeme İle Kiriş Kalıbı\n5.1. Kiriş Kalıp Elemanlarını Hazırlama\n5.1.1. Kiriş Kalıp Elemanlarını Hazırlama Uygulaması  \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Projesi veya iş resmine göre kiriş kalıp elemanlarını hazırlar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "9",
+      "KONU": "5.1.2. Kiriş Kalıbı Yapma Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Projesi veya iş resmine göre kiriş kalıplarını yapar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "9",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "9",
+      "KONU": "5.1.2. Kiriş Kalıbı Yapma Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Projesi veya iş resmine göre kiriş kalıplarını yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "9",
+      "KONU": "6. Ahşap Malzeme İle Döşeme Ve Merdiven Kalıpları\n6.1. Döşeme Kalıbı Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Proje ve kalıp yapım kurallarına göre döşeme kalıbı yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "9",
+      "KONU": "6.1. Döşeme Kalıbı Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Proje ve kalıp yapım kurallarına göre döşeme kalıbı yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "9",
+      "KONU": "6.2. Merdiven Kalıbı Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Proje ve kalıp yapım kurallarına göre merdiven kalıbı yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "9",
+      "KONU": "6.2. Merdiven Kalıbı Uygulaması",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Proje ve kalıp yapım kurallarına göre merdiven kalıbı yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "9",
+      "KONU": "7. Betonun Yerine Dökülmesi Ve Korunması\n7.1. Betonu Dökme Ve Sıkıştırma \n7.2. Betonu Kalıba Göre Düzeltme\n7.3. Betonu Koruma\n8. Ahşap Kalıbın Sökülmesi Ve Bakımı\n8.1. Kalıp Kanatlarını Sökme",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Beton döküm kurallarına göre betonu döker ve sıkıştırır.\nBetonu kalıba uygun şekilde düzeltir.\nNormal veya anormal havalarda dökülen betonu kurallarına göre korur.\nİş sağlığı ve güvenliği tedbirlerini alarak kalıp sökme kurallarına göre kalıp kanatlarını söker."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "9",
+      "KONU": "8.2. Kalıp Dikmelerini Sökme\n8.3. Kiriş Ve Döşeme Kalıpları Sökümü\n8.4. Merdiven Kalıbının Sökümü \n9. Ahşap Çatı Hazırlık \n9.1. Ahşap Çatı Araç Gereçleri \n9.2. Ahşap Çatı Proje Ve Detayları \n1.Dönem 2.Sınav",
+      "KAZANIM": "İş sağlığı ve güvenliği tedbirlerini alarak kalıp sökme kurallarına göre kalıp dikmelerini söker.\nİş sağlığı ve güvenliği tedbirlerini alarak kalıp sökme kurallarına göre kiriş ve döşeme kalıplarını söker.\nİş sağlığı ve güvenliği tedbirlerini alarak kalıp sökme kurallarına göre merdiven kalıplarını söker.\nÜst yapı ahşap atölyesinde iş sağlığı ve güvenliği tedbirlerini alarak ahşap çatı öncesi hazırlık yapar.\nProje okuma esasları doğrultusunda çatı PLANI ve detay çizimlerini okur."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "9",
+      "KONU": "10. Ahşap Çatı İmalatı\n10.1. Ahşap Sundurma Çatı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Ahşap çatı tanzim düzenleme ve uygulama yönergelerine uygun olarak ahşap sundurma çatı yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "9",
+      "KONU": "10.2. Ahşap Oturtma Çatı Yapımı",
+      "KAZANIM": "Ahşap çatı tanzim düzenleme ve uygulama yönergelerine uygun olarak ahşap oturtma çatı yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "9",
+      "KONU": "10.3. Ahşap Askılı Çatı Yapımı",
+      "KAZANIM": "Ahşap çatı tanzim düzenleme ve uygulama yönergelerine uygun olarak ahşap askılı çatı yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "9",
+      "KONU": "11. İnşaat Demirlerini İşleme \n11.1. Üstyapı Kâgir Atölyesinde Alınması Gereken İş Sağlığı Ve Güvenliği Tedbirleri\n11.2. Donatı Araç Ve Gereçlerinin Hazırlanması\n11.2.1. Statik Proje Okuma Esasları\n11.2.2. Donatı Araç Gereçlerinin Hazırlanması \n11.3. Etriye Yapımı\n11.4. Pilye Yapımı\n11.5. Fret Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Üst yapı kâgir atölyesinde iş sağlığı tedbirlerini alarak betonarme demir işleme öncesi hazırlık yapar.\nProje okuma esasları doğrultusunda kalıp PLANI ve  detay çizimlerini okur.\nİş resmi veya plan detaylarına uygun olarak etriye yapar.\nİş resmi veya plan detaylarına uygun olarak pilye yapar.\nİş resmi veya plan detaylarına uygun olarak fret yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "9",
+      "KONU": "12. Kiriş Donatıları \n12.1. Basit Kiriş Donatısı Yapımı\n12.2. Hatıl Ve Lento Donatıları",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak basit kiriş donatısı yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "9",
+      "KONU": "12.2.1. Hatıl Donatısı Yapımı\n12.2.2. Lento Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak hatıl ve lento donatısı yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "9",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "9",
+      "KONU": "12.3. Sürekli Kiriş Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak sürekli kiriş donatısı yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "9",
+      "KONU": "13. Kolon Ve Perde Donatıları\n13.1. Kare Ve Dikdörtgen Kesitli Kolon Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak kare ve dikdörtgen kesitli kolon donatısı yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "9",
+      "KONU": "13.2. Perde Duvar Donatısı Yapımı\n13.3. Daire Kesitli Kolon Donatısı Yapımı \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav İş resmi veya plan detaylarına uygun olarak perde duvar donatısı yapar.\nİş resmi veya plan detaylarına uygun olarak daire kesitli kolon donatısı yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "9",
+      "KONU": "14. Temel Donatıları\n14.1. Tekıl Münferıt Temel Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak tekil münferit ve birleşik temel donatısı yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "9",
+      "KONU": "14.2. Süreklı Mütemadı Temel Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak sürekli mütemadi ve radye temel donatısı yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "9",
+      "KONU": "14.3. Radye Plaka Temel Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak sürekli mütemadi ve radye temel donatısı yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "9",
+      "KONU": "15. Döşeme Donatıları \n15.1. Tek Yönlü Hurdi Ve Çift Yönlü Dal Döşeme Donatısı\n15.1.1. Tek Yönlü Hurdi Döşeme Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak tek yönlü hurdi ve çift yönlü dal döşeme donatısı yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "9",
+      "KONU": "15.1.2. Çift Yönlü Dal Döşeme Donatısı Yapımı \n15.2. Nervürlü Ve Asmolen Döşeme Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak nervürlü döşeme donatısı yapar.\nİş resmi veya plan detaylarına uygun olarak asmolen döşeme donatısı yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "9",
+      "KONU": "16. Merdiven Donatıları\n16.1. Merdiven Donatı Çeşitleri\n16.1.1. Kirişli Merdiven Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak kirişli merdiven donatısı yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "9",
+      "KONU": "16.1.2. Kirişsiz Merdiven Donatısı Yapımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "İş resmi veya plan detaylarına uygun olarak kirişsiz merdiven donatısı yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "9",
+      "KONU": "17. Duvar Örme Hazırlığı\n17.1. Duvar Araç Gereçlerini Hazırlama\n17.2. Proje Detaylarını Okuma\n17.3. Duvar Aplikasyonu \n18. Tuğla Ve Briket İle Duvar Örme \n18.1. Tuğla Duvarların Köşe Birleşimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav İş PLANI ve duvar örme kurallarına göre duvar araç ve gereçlerini hazırlar.\nProje okuma esasları doğrultusunda duvar PLANI ve detay çizimlerini okur.\nDuvar örme kuralları ve iş planına göre duvar aplikasyonunu yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "9",
+      "KONU": "18.2. Dilatasyon Derzli Tuğla Duvar Örme\n18.3. Tuğla İle Kemerli Duvar Örme\n18.4. Briket İle Duvar Örme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Duvar örme kuralları ve iş planına göre tuğla duvar köşe birleşimi yapar.\nDuvar örme kuralları ve iş planına göre dilatasyon derzli tuğla duvar yapar.\nDuvar örme kuralları ve iş planına göre kemerli tuğla duvar yapar.\nDuvar örme kuralları ve iş planına göre briket ile duvar yapar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "9",
+      "KONU": "19. Gazbeton Ve Bims Blok İle Duvar Örülmesi\n19.1. Bims Blok İle Duvar Örme Temrin Uygulaması\n19.2. Gazbeton İle Duvar Örme \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Duvar örme kuralları ve iş planına göre bims blok duvar yapar.\nDuvar örme kuralları ve iş planına göre gazbeton ile duvar yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

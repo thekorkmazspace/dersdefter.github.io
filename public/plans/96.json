@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "Mantık",
+  "plan": [
+    {
+      "ÜNİTE": "ÜNİTE 1 MANTIĞA GİRİŞ",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "Müfredat Hakkında Bilgi Verilmesi MANTIĞA GİRİŞ A.Doğru Düşünme nedir 1. Temel Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "1. Mantık ve Doğru Düşünme arasındaki ilişkiyi değerlendirir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 1 MANTIĞA GİRİŞ",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "2. Akıl İlkeleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "2. Akıl ilkelerinin önemini değerlendirir.\n3. Akıl yürütmede kullanılan temel terimleri analiz eder."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 1 MANTIĞA GİRİŞ",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "2. Akıl İlkeleri",
+      "KAZANIM": "4. Akıl yürütme yöntemlerini değerlendirir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 1 MANTIĞA GİRİŞ",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "B. Mantığın Uygulama Alanları 1. Mantık ve Pratik Yaşam\n2. Mantık ve Teknik",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "5. Mantığın pratik yaşam açısından önemini fark eder.\n6. Teknoloji - Mantık ilişkisini değerlendir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 1 MANTIĞA GİRİŞ",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "3. Mantık ve Bilim",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "7. Bilimlere yöntem oluşturması bakımından mantığı değerlendirir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 1 MANTIĞA GİRİŞ",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "4. Mantık ve FELSEFE Atatürkün Akılcılık Mantıklılık ve Bilimsellik İlkesi4. Mantık ve FELSEFE Atatürkün Akılcılık Mantıklılık ve Bilimsellik İlkesi",
+      "KAZANIM": "7. Bilimlere yöntem oluşturması bakımından mantığı değerlendirir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "KLASİK MANTIK A. Kavram ve Terim 1. Nelik Gerçeklik Kimlik 2. İçlem ve Kaplam",
+      "KAZANIM": "8. Aristonun Mantık bilimi açısından önemini fark eder. 9. Kavramın ne olduğunu açıklar. 10. Kavram ve Terim arasındaki ilişkiyi analiz eder. 11. Kavram açısından nelik gerçeklik kimlik ilişkisini analiz eder. 12. Kavramı içlem ve kaplama göre değerlendirir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "3. Kavram Çeşitleri 4. Beş Tümel Atatürkün Kişiliği ve Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "13. Kavram çeşitlerini sınıflandırır. 14. Kavramları Beş Tümel açısından değerlendirir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "5. Kavramların Birbirleriyle Olan İlişkisi I. Dönem I. Yazılı Yoklama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav 15. Kavramlar arasındaki ilişkiyi analiz eder."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "B. Tanım",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "16. Tanımı analiz eder."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "C. Önerme Nedir 1. Önerme Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "17. Önerme olan cümlelerle önerme olmayan cümleleri birbirinden ayırır. 18. Önerme çeşitlerini sınıflandırır."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "1. Önerme Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "18. Önerme çeşitlerini sınıflandırır."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "D. Çıkarım Nedir 1. Doğrudan Çıkarım a. Karşı Olum Çıkarımları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "19. Önermelerden sonuç çıkarır. 20. Karşı olum çıkarımlarını analiz eder."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "b. Döndürme",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "21. Bir önermeden ona eşdeğer ikinci bir önerme çıkarır."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "2. Dolaylı Çıkarım a. Kıyas Nedir b. Kıyas Kuralları c. Kıyasta Mantıksal Zorunluluk ve Olasılık",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "22. Kıyasın yapısını değerlendirir. 23. Kıyas kurallarını uygular. 24. Kıyası zorunluluk ve olasılık bakımından değerlendirir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "ç. Kıyas Çeşitleri I. Dönem II. Yazılı Yoklama",
+      "KAZANIM": "25. Basit Kıyası analiz eder."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 2 KLASİK MANTIK",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "Ç. Kıyas Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav 26. Bileşik Kıyası analiz eder."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "ÜNİTE 3 MANTIK VE DİL",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "Dilin farklı Görevleri 1. Bilgi Aktarma ve Dil",
+      "KAZANIM": "27. Dilin birden çok işlevi olduğunu fark eder."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 3 MANTIK VE DİL",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "Dilin farklı Görevleri 1. Bilgi Aktarma ve Dil",
+      "KAZANIM": "28. Çok anlamlılığın sakıncalarını sorgular."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 3 MANTIK VE DİL",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2. Bilgi Aktarmayı Aksatan Etkenler a. Çok Anlamlılık",
+      "KAZANIM": "29. Dildeki anlam belirsizliğinin nedenlerini sorgular."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 3 MANTIK VE DİL",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "b. Belirsizlik",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "30. Dildeki anlam belirsizliğinin derecelerini sorgular."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 3 MANTIK VE DİL",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "b. Belirsizlik",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "31. Dildeki anlam belirsizliğinin günlük yaşam ve bilimdeki sakıncalarını görür."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 3 MANTIK VE DİL",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "c. Olgusal ve Sözel Tartışmalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "32. Olgusal ve sözle tartışmaların temelinde yatan nedenleri fark eder."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "ÜNİTE 3 MANTIK VE DİL",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "B. Anlama ve Tanımlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "33. Anlama ve tanımlama ilişkisini analiz eder."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "SEMBOLİK MANTIK A. Sembolik Mantığa Geçiş B. Önermeler Mantığı 1. Önerme ve Yapısı 2. Basit ve Bileşik Önermeler 3. Önerme Eklemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "34. Sembolik mantığın Klasik mantığın sembolleştirilmiş biçimi olduğunu fark eder. 35. Bilgileri doğru ve yanlış olarak değerlendirir. 36. Basit ve bileşik önermeleri birbirinden ayırır. 37. Önerme eklemlerinin işlevlerini belirtir. 38. Ana eklem ve ana bileşenleri ayırt eder."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "5. Sembolleştirme 6. Yorumlama",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav 39. Klasik Mantıktaki çıkarımla Sembolik Mantıktaki çıkarımın farkını ayırt eder. 40. Mantık değişmezlerini önermeleri ve çıkarımları sembolleştirir. 41. Önermelerin doğruluk değerlerini yorumlar."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "7. Doğruluk Çizelgesi -Tutarlılık",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "42. Temel doğruluk değerlerini doğruluk çizelgesi üzerinde gösterir. 43. Doğruluk çizelgesinde önermenin ve önermelerin tutarlılığını denetler."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "II. Dönem I. Yazılı Yoklama -Geçerlilik",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "44. Önermelerin geçerlilik ve eşdeğerliğini denetler. 45. Çıkarımların geçerliliğini denetler."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "-Eşdeğerlik",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "44. Önermelerin geçerlilik ve eşdeğerliğini denetler. 45. Çıkarımların geçerliliğini denetler."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "Atatürkün Milliyetçilik İlkesi ve Milli Egemenlik 8.Çözümleyici Çizelge - Tutarlılık",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "46. Çözümleyici Çizelgenin Ağaç yöntemi temel kurallarını uygular. 47. Önermeleri çözümleyici çizelgede denetler."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "Geçerlilik\nEşdeğerlik",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "48. Çıkarımları çözümleyici çizelgede denetler."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "C. Niceleme Yüklemler Mantığı 1. Sembolleştirme Atatürkün Gençliğe Hitabesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "49. Önermeler mantığı ile niceleme mantığının farkını analiz eder. 50. Niceleme mantığında önermeleri ve çıkarımları sembolleştirir."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "2. Temel Kavramlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "51. Niceleme mantığının temel kavramlarını açıklar."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "3. Temel Kurallar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav 52. Niceleme mantığında temel kuralları uygular."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "3. Temel Kurallar II. Dönem II. Yazılı Yoklama",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "52. Niceleme mantığında temel kuralları uygular."
+    },
+    {
+      "ÜNİTE": "ÜNİTE 4 SEMBOLİK MANTIK",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "D. Çok Değerli Mantık1. Üç Değerli mantık 2. Bulanık Mantık Yıl Sonu Genel Değerlendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "53. İki değerli mantık dışında çok değerli mantık sistemleri olduğunu fark eder."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

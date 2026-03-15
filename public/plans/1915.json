@@ -1,0 +1,374 @@
+{
+  "sinif": "10",
+  "ders": "Bilgisayar Destekli Tasarm Ve Modelleme (havacılık Ve Uzay Teknolojisi)",
+  "plan": [
+    {
+      "ÜNİTE": "Geometrik Çizimler",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "3",
+      "KONU": "1. Eğik ve dik standart yazı",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Teknik resim kurallarına TS EN ISO standartlarına uygun olarak eğik ve dik standart yazı yazar.\nTeknik resmin endüstrideki önemi üzerinde durulur.\n Teknik resim araç gereçleri ve çizim kâğıtları üzerinde durulur.\n Standart yazı ve norm yazı örnekleri verilir.\n Norm yazı temrinleri verilir."
+    },
+    {
+      "ÜNİTE": "Geometrik Çizimler",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "3",
+      "KONU": "2. Çizgi çalışmaları",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Serbest elle ve çizim takımlarıyla çizgi çalışmaları yapar.\nÇizgi çeşitleri ve kalınlıkları üzerinde durulur.\n Çizgi çeşitlerinin kullanım alanları ile ilgili örnekler verilir.\n Çizgi çalışması temrinleri verilir."
+    },
+    {
+      "ÜNİTE": "Geometrik Çizimler",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "3",
+      "KONU": "3. Geometrik şekiller",
+      "KAZANIM": "Teknik resim kurallarına uygun olarak geometrik şekiller çizer.\nTeknik resimde açı paralellik ve diklik kavramları üzerinde durulur.\n Çember ve teğet doğrular üzerinde durulur.\n Teğet çizim örnekleri verilir.\n Çokgen çizim yöntemleri üzerinde durulur.\n Açılı çizimler çember ve teğet çizimleri çokgen çizim temrinleri verilir.\n Çokgen çizim örnekleri verilir.\n Elips oval parabol evolvent spiral çizimlerine girilmez."
+    },
+    {
+      "ÜNİTE": "Geometrik Çizimler",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Geometrik şekiller",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Teknik resim kurallarına uygun olarak geometrik şekiller çizer.\nTeknik resimde açı paralellik ve diklik kavramları üzerinde durulur.\n Çember ve teğet doğrular üzerinde durulur.\n Teğet çizim örnekleri verilir.\n Çokgen çizim yöntemleri üzerinde durulur.\n Açılı çizimler çember ve teğet çizimleri çokgen çizim temrinleri verilir.\n Çokgen çizim örnekleri verilir.\n Elips oval parabol evolvent spiral çizimlerine girilmez."
+    },
+    {
+      "ÜNİTE": "Geometrik Çizimler",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "3",
+      "KONU": "3. Geometrik şekiller",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Teknik resim kurallarına uygun olarak geometrik şekiller çizer.\nTeknik resimde açı paralellik ve diklik kavramları üzerinde durulur.\n Çember ve teğet doğrular üzerinde durulur.\n Teğet çizim örnekleri verilir.\n Çokgen çizim yöntemleri üzerinde durulur.\n Açılı çizimler çember ve teğet çizimleri çokgen çizim temrinleri verilir.\n Çokgen çizim örnekleri verilir.\n Elips oval parabol evolvent spiral çizimlerine girilmez."
+    },
+    {
+      "ÜNİTE": "Görünüş Çıkarma",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "3",
+      "KONU": "1. Teknik resim görünüşler",
+      "KAZANIM": "Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait görünüşleri çizer.\nİzdüşüm ve görünüş çeşitleri üzerinde durulur.\n Görünüş sayısı yardımcı detay ve özel görünüş belirleme üzerinde durulur.\n Dik izdüşüm örnekleri ve temrinleri verilir.\n Tek görünüşün yeterli olduğu temrinler verilir.\n İki veya daha fazla görünüş isteyen temrinler verilir.\n Yardımcı detay ve özel görünüş temrinleri verilir."
+    },
+    {
+      "ÜNİTE": "Görünüş Çıkarma",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "3",
+      "KONU": "2. Kesit görünüşler",
+      "KAZANIM": "Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait kesit görünüşleri çizer.\nKesit alma ve kesit görünüş almanın gerekliliği üzerinde durulur.\n Kesit görünüş çeşitleri ve kesit görünüş almada uyulacak çizim kuralları üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Görünüş Çıkarma",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "3",
+      "KONU": "2. Kesit görünüşler",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Serbest elle ve çizim takımlarıyla çeşitli iş parçalarına ait kesit görünüşleri çizer.\nKesit alma ve kesit görünüş almanın gerekliliği üzerinde durulur.\n Kesit görünüş çeşitleri ve kesit görünüş almada uyulacak çizim kuralları üzerinde durulur."
+    },
+    {
+      "ÜNİTE": "Perspektif ve Ölçülendirme",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Perspektif resimler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "Teknik resim kurallarına uygun olarak resmini çizdiği iş parçalarının perspektif resimlerini çizer.\nParçanın perspektifi çizdirilir.\n Perspektifi çizilen parça ölçülendirilir."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "3",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Perspektif ve Ölçülendirme",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "3",
+      "KONU": "2. Görünüşleri ölçülendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Teknik resim kurallarına uygun olarak resmini çizdiği iş parçalarının ölçülendirme işlemini yapar.\nÖlçülerin resim üzerinde dağılışı açıklanır.\n Resimde gereksiz ölçüler belirlenir.\n Ölçülendirme uygulamaları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Perspektif ve Ölçülendirme",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "3",
+      "KONU": "2. Görünüşleri ölçülendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Teknik resim kurallarına uygun olarak resmini çizdiği iş parçalarının ölçülendirme işlemini yapar.\nÖlçülerin resim üzerinde dağılışı açıklanır.\n Resimde gereksiz ölçüler belirlenir.\n Ölçülendirme uygulamaları yaptırılır."
+    },
+    {
+      "ÜNİTE": "İki Boyutlu Çizim",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "3",
+      "KONU": "1. Çizim öncesi ayarlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "CAD programında çizim öncesi ayarları yapar.\nCAD programları ile alakalı araştırma yapmaları istenir.\n CAD programını kurulumu aşamasını mutlaka öğrenci ile beraber yapar.\n Programın nasıl açılacağı açıklanır.\n Program ara yüzü tanıtılır."
+    },
+    {
+      "ÜNİTE": "İki Boyutlu Çizim",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "3",
+      "KONU": "2. Çizim sayfası",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "CAD programında çizim sayfası oluşturur.\nÇizim alanını sınırlama işlemi açıklanır.\n Devamlı kullanılacak araç çubuklarının açılması ve yerlerine yerleştirilmesi sağlanır\n Açılan yeni çizim sayfası ve ayarları mutlaka kaydedilir.\n Dosya kayıt işlemi açıklanır."
+    },
+    {
+      "ÜNİTE": "İki Boyutlu Çizim",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "3",
+      "KONU": "3. Çizim komutları",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "CAD programında çizim komutları ile İki boyutlu çizimler yapar.\nÇizim komutlarına ulaşma yöntemleri açıklanır.\n Çizim komutları ve görevleri anlatılır.\n Çizimi hızlandırmak için kısa yolları mutlaka anlatılır.\n Bir komutun kullanımı öğretilmeden diğer komuta geçilmez.\n Komutlar anlatılırken mutlaka örneklendirme yapılır.\n Örnek çizimler yapılırken işlem sırasına dikkat etmeleri sağlanır.\n Çizimler önce çizilerek gösterilir sonra öğrencilerin yapması istenir.\n Seçilen örneklerin çizimi yaptırılarak öğrencilerin komutları pekiştirmesine fırsat verilir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "İki Boyutlu Çizim",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "3",
+      "KONU": "4. Düzenleme komutları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "CAD programında düzenleme komutları ile iki boyutlu çizimleri düzenler.\nDüzenleme işlemleri açıklanır.\n Çizim düzenleme komutları ayarlarını sırası ile anlatılır.\n Çizimi hızlandırmak için kısa yollar mutlaka anlatılır.\n Düzenleme komutları anlatılırken örneklendirme yapılır.\n Çizimler ve çizimler üzerindeki düzenlemeler önce çizilerek gösterilir sonra öğrencilerin yapması sağlanır.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "İki Boyutlu Çizim",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "3",
+      "KONU": "5. Görüntü kontrol komutları",
+      "KAZANIM": "CAD programında görüntü kontrol komutlarını ile ekran görüntüsünü değiştirir.\nGörüntü kontrol komutları ve ayarları sırası ile anlatılır.\n Çizimi hızlandırmak için kısa yolları mutlaka anlatılır.\n Görüntü kontrol komutları örnekler üzerinde önce gösterilir sonra öğrencilerin uygulaması istenir.\n Öğrencilerin kendi seçtikleri bir resim üzerinde uygulama yapmasına fırsat verilir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "İki Boyutlu Çizim",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "3",
+      "KONU": "5. Görüntü kontrol komutları",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "CAD programında görüntü kontrol komutlarını ile ekran görüntüsünü değiştirir.\nGörüntü kontrol komutları ve ayarları sırası ile anlatılır.\n Çizimi hızlandırmak için kısa yolları mutlaka anlatılır.\n Görüntü kontrol komutları örnekler üzerinde önce gösterilir sonra öğrencilerin uygulaması istenir.\n Öğrencilerin kendi seçtikleri bir resim üzerinde uygulama yapmasına fırsat verilir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "3",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "İki Boyutlu Çizim",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "3",
+      "KONU": "5. Görüntü kontrol komutları",
+      "KAZANIM": "CAD programında görüntü kontrol komutlarını ile ekran görüntüsünü değiştirir.\nGörüntü kontrol komutları ve ayarları sırası ile anlatılır.\n Çizimi hızlandırmak için kısa yolları mutlaka anlatılır.\n Görüntü kontrol komutları örnekler üzerinde önce gösterilir sonra öğrencilerin uygulaması istenir.\n Öğrencilerin kendi seçtikleri bir resim üzerinde uygulama yapmasına fırsat verilir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "İki Boyutlu Çizim",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "3",
+      "KONU": "5. Görüntü kontrol komutları",
+      "KAZANIM": "CAD programında görüntü kontrol komutlarını ile ekran görüntüsünü değiştirir.\nGörüntü kontrol komutları ve ayarları sırası ile anlatılır.\n Çizimi hızlandırmak için kısa yolları mutlaka anlatılır.\n Görüntü kontrol komutları örnekler üzerinde önce gösterilir sonra öğrencilerin uygulaması istenir.\n Öğrencilerin kendi seçtikleri bir resim üzerinde uygulama yapmasına fırsat verilir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Özellik ve Tanımlama",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "3",
+      "KONU": "1. Resimlere yazı ekleme",
+      "KAZANIM": "CAD programında yazı yazma komutlarını kullanarak çizime yazı ekler.\nYazı yazma komutlarının kullanımı açıklanır.\n Yazı yazma komutlarının ayarları açıklanır.\n Yazı düzenleme komutları açıklanır.\n Yazı yazma ve düzenleme komutları örnekler üzerinde önce gösterilir sonra öğrencilerin yapması istenir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Özellik ve Tanımlama",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "3",
+      "KONU": "2. Resimleri ölçülendirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "CAD programında ölçülendirme komutları ile çizimi ölçülendirir.\nÖlçülendirme araç çubuğu üzerindeki komutlar sırası ile açıklanır.\n Ölçülendirme işlemleri önce çizilerek gösterilir sonra öğrencilerin yapması sağlanır.\n Ölçülendirme ayarları açıklanır.\n Öğrencinin daha önce çizmiş olduğu resimler üzerinde ölçülendirme komutlarını uygulamasına fırsat verilir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Özellik ve Tanımlama",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "3",
+      "KONU": "3. Özellik ve sorgulama komutları",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "CAD programında özellik ve sorgulama komutlarını kullanır.\nObjelerin özellikleri tanımlanır.\n Hesaplama komutları örnekler üzerinde açıklanır.\n Öğrencilere çizdirilen resimler üzerinde hesaplama komutları uygulatılmalıdır.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Özellik ve Tanımlama",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "3",
+      "KONU": "4. Katmanlar renkler ve çizgiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "CAD programında katmanlar renkler ve çizgi tiplerini yönetir.\nProgramın katman özellikleri açıklanır.\n Daha önce çizilmiş bir resim katman komutları ile tekrar çizilerek uygulama yapılmalıdır.\n Katmanlar ve katman düzenleme komutları önce uygulanarak gösterilir sonra öğrencilerin yapması istenir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "3",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Özellik ve Tanımlama",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "3",
+      "KONU": "4. Katmanlar renkler ve çizgiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "CAD programında katmanlar renkler ve çizgi tiplerini yönetir.\nProgramın katman özellikleri açıklanır.\n Daha önce çizilmiş bir resim katman komutları ile tekrar çizilerek uygulama yapılmalıdır.\n Katmanlar ve katman düzenleme komutları önce uygulanarak gösterilir sonra öğrencilerin yapması istenir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Özellik ve Tanımlama",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "3",
+      "KONU": "4. Katmanlar renkler ve çizgiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "CAD programında katmanlar renkler ve çizgi tiplerini yönetir.\nProgramın katman özellikleri açıklanır.\n Daha önce çizilmiş bir resim katman komutları ile tekrar çizilerek uygulama yapılmalıdır.\n Katmanlar ve katman düzenleme komutları önce uygulanarak gösterilir sonra öğrencilerin yapması istenir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Özellik ve Tanımlama",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "3",
+      "KONU": "4. Katmanlar renkler ve çizgiler",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "CAD programında katmanlar renkler ve çizgi tiplerini yönetir.\nProgramın katman özellikleri açıklanır.\n Daha önce çizilmiş bir resim katman komutları ile tekrar çizilerek uygulama yapılmalıdır.\n Katmanlar ve katman düzenleme komutları önce uygulanarak gösterilir sonra öğrencilerin yapması istenir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Perspektif Çizimleri ve Kütüphane",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "3",
+      "KONU": "1. Çizim kütüphanesi oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "CAD programında objeleri blok haline getirerek kütüphane oluşturur.\nÇizim programında blok oluşturma işleminin gereği ve önemi açıklanır.\n Çizim kütüphanesi oluşturmanın önemi açıklanır.\n Önce blok oluşturma işlemleri öğrencilere gösterilir sonra öğrencilerin yapması istenir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Perspektif Çizimleri ve Kütüphane",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "3",
+      "KONU": "2. Perspektif çizme",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "CAD programında izometrik perspektifler çizer.\nİzometrik perspektif çizim ayarları açıklanır.\n Kısa yol fonksiyon tuşları açıklanır.\n İzometrik perspektifte elips komutu kullanılarak daire çizme işlemi mutlaka anlatılır.\n Perspektifleri ölçülendirmek için kullanılacak eğik ölçülendirme komutları mutlaka anlatılmalıdır.\n Önce perspektif çizme işlemleri öğrencilere gösterilir sonra öğrencilerin yapması istenir.\n Öğrencinin çizdiği her örnek bir port folyo dosyasına kaydedilir ve bir örneğini öğretmen alır."
+    },
+    {
+      "ÜNİTE": "Perspektif Çizimleri ve Kütüphane",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "3",
+      "KONU": "3. Çıktı alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "CAD programında çizilen temrinlerin çıktısını alır.\nÇizdirme komutlarını açıklar.\n Çizidirme sayfa ayarlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Perspektif Çizimleri ve Kütüphane",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "3",
+      "KONU": "3. Çıktı alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "CAD programında çizilen temrinlerin çıktısını alır.\nÇizdirme komutlarını açıklar.\n Çizidirme sayfa ayarlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Perspektif Çizimleri ve Kütüphane",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "3",
+      "KONU": "3. Çıktı alma",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "CAD programında çizilen temrinlerin çıktısını alır.\nÇizdirme komutlarını açıklar.\n Çizidirme sayfa ayarlarını açıklar."
+    },
+    {
+      "ÜNİTE": "Analiz",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "3",
+      "KONU": "1. Termal analiz . 3boyutlu çizim programı ile analiz  program uyumluluğu zorunludur",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Termal analiz temel seviyede açıklanır.\nTermal yükleri açıklar.\n Termal değişimleri açıklar.\n Termal değişim grafiklerini okur."
+    },
+    {
+      "ÜNİTE": "Analiz",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "3",
+      "KONU": "2. Yapısal analiz . 3boyutlu çizim programı ile analiz  program uyumluluğu zorunludur",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Yapısal analiz temel seviyede açıklanır.\nÜç boyutlu modellerin yapısal analizlerini açıklar."
+    },
+    {
+      "ÜNİTE": "Analiz",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "3",
+      "KONU": "3. Aerodinamik analiz.. 3boyutlu çizim programı ile analiz  program uyumluluğu zorunludur",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "Aerodinamik analiz temel seviyede açıklanır.\nÜç boyutlu modellerin Aerodinamik analizlerini açıklar"
+    },
+    {
+      "ÜNİTE": "Analiz",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "3",
+      "KONU": "3. Aerodinamik analiz.. 3boyutlu çizim programı ile analiz  program uyumluluğu zorunludur",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Aerodinamik analiz temel seviyede açıklanır.\nÜç boyutlu modellerin Aerodinamik analizlerini açıklar"
+    },
+    {
+      "ÜNİTE": "Analiz",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "3",
+      "KONU": "3. Aerodinamik analiz.. 3boyutlu çizim programı ile analiz  program uyumluluğu zorunludur",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Aerodinamik analiz temel seviyede açıklanır.\nÜç boyutlu modellerin Aerodinamik analizlerini açıklar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "3",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "sinif": "9",
+  "ders": "Coğrafya (fen Lisesi-meb)",
+  "plan": [
+    {
+      "ÜNİTE": "COĞRAFYANIN DOĞASI",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "Coğrafya Biliminin Konusu ve Bölümleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "COĞ.9.1.1. Coğrafya biliminin konusu ve bölümlerini çözümleyebilme\na Coğrafya biliminin konusu ve bölümlerini oluşturan bileşenleri belirler. b Coğrafya biliminin konusu ve bölümlerini oluşturan bileşenler arasındaki ilişkileri belirler.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "COĞRAFYANIN DOĞASI",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "Niçin Coğrafya Öğrenmeliyiz",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "COĞ.9.1.2. Örnek olay olgu veya konu üzerinden mekânsal düşünme ile coğrafya öğrenmenin önemini çözümleyebilme\na Mekânda gerçekleşen coğrafi olay olgu veya konuyu belirler. b Mekânda gerçekleşen coğrafi olay olgu veya konu ile coğrafya öğrenmenin önemi arasındaki ilişkiyi belirler.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "COĞRAFYANIN DOĞASI",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "Coğrafya Biliminin Gelişimi",
+      "KAZANIM": "COĞ.9.1.3. Coğrafya biliminin gelişimi hakkında bilgi toplayabilme\na Coğrafya biliminin gelişimiyle ilgili gerekli bilgilere ulaşmak için hangi araçları kul-lanacağını belirler. b Belirlediği araçları kullanarak coğrafya biliminin gelişimiyle ilgili ihtiyaç duyduğu bilgilere ulaşır. c Coğrafya biliminin gelişimiyle ilgili ulaştığı bilgileri doğrular. ç Coğrafya biliminin gelişimiyle ilgili doğruladığı bilgileri kaydeder.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+      "AY": "EKİM",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "Mekânın Aynası Haritalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "COĞ.9.2.1. Harita uygulamaları yapabilme\na Haritaya ait bileşenlerden yararlanarak haritaları okur. b Haritaya ait bileşenlerden yararlanarak haritadaki olay olgu ve mekânlar arası ilişkileri çözümler. c Haritada yer alan olay olgu veya mekânların özellik konum dağılış ve ilişkileri iledeğişim veveya harita türüne ilişkin çıkarım yapar. ç Harita yapım aşamalarını kullanarak harita oluşturur.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık",
+      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+      "AY": "EKİM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "Mekânın Aynası Haritalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "COĞ.9.2.1. Harita uygulamaları yapabilme\na Haritaya ait bileşenlerden yararlanarak haritaları okur. b Haritaya ait bileşenlerden yararlanarak haritadaki olay olgu ve mekânlar arası ilişkileri çözümler. c Haritada yer alan olay olgu veya mekânların özellik konum dağılış ve ilişkileri iledeğişim veveya harita türüne ilişkin çıkarım yapar. ç Harita yapım aşamalarını kullanarak harita oluşturur.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık",
+      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+      "AY": "EKİM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "Mekânın Aynası Haritalar",
+      "KAZANIM": "COĞ.9.2.1. Harita uygulamaları yapabilme\na Haritaya ait bileşenlerden yararlanarak haritaları okur. b Haritaya ait bileşenlerden yararlanarak haritadaki olay olgu ve mekânlar arası ilişkileri çözümler. c Haritada yer alan olay olgu veya mekânların özellik konum dağılış ve ilişkileri iledeğişim veveya harita türüne ilişkin çıkarım yapar. ç Harita yapım aşamalarını kullanarak harita oluşturur.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık",
+      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+      "AY": "EKİM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "Türkiyenin Coğrafi Konumu",
+      "KAZANIM": "COĞ.9.2.2. Türkiyenin konum özelliklerini algılayabilme\na Türkiyenin konum özelliklerini belirler. b Türkiyenin konum özelliklerini görselleştirir. c Türkiyenin konum özelliklerini özetler.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık",
+      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+      "AY": "EKİM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "Mekânsal Bilgi Teknolojilerinin Bileşenleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "COĞ.9.2.3. Mekânsal bilgi teknolojilerini oluşturan bileşenleri çözümleyebilme\na Mekânsal bilgi teknolojilerini oluşturan bileşenleri belirler. b Mekânsal bilgi teknolojilerini oluşturan bileşenler arasındaki ilişkileri belirler."
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "Hava Olayları ve Günlük Hayata Etkileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav COĞ.9.3.1. Hava olaylarının günlük hayata etkisini gözleme dayalı tahmin edebilme\na Hava olaylarıyla ilgili deneyim gözlem veri veveya coğrafi temsillere dayalı elde ettiği bilgilerin günlük hayata etkilerini ilişkilendirir. b Hava olaylarıyla ilgili deneyim gözlem veri veveya coğrafi temsillere dayalı elde ettiği bilgilerin günlük hayata etkilerine ilişkin çıkarım yapar. c Hava olaylarıyla ilgili deneyim gözlem veri veveya coğrafi temsillere dayalı elde ettiği bilgilerin günlük hayata etkilerine ilişkin yargıda bulunur.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "KONU": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "Hava Olayları ve Günlük Hayata Etkileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "COĞ.9.3.1. Hava olaylarının günlük hayata etkisini gözleme dayalı tahmin edebilme\na Hava olaylarıyla ilgili deneyim gözlem veri veveya coğrafi temsillere dayalı elde ettiği bilgilerin günlük hayata etkilerini ilişkilendirir. b Hava olaylarıyla ilgili deneyim gözlem veri veveya coğrafi temsillere dayalı elde ettiği bilgilerin günlük hayata etkilerine ilişkin çıkarım yapar. c Hava olaylarıyla ilgili deneyim gözlem veri veveya coğrafi temsillere dayalı elde ettiği bilgilerin günlük hayata etkilerine ilişkin yargıda bulunur.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "İklim Sisteminin Bileşen ve Değişkenleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "COĞ.9.3.2. İklim sisteminin bileşen ve değişkenlerini çözümleyebilme\na İklim sisteminin bileşen ve değişkenlerini belirler. b İklim sistemine ait değişkenler arasındaki ilişkileri belirler.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "İklim Sisteminin Bileşen ve Değişkenleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "COĞ.9.3.2. İklim sisteminin bileşen ve değişkenlerini çözümleyebilme\na İklim sisteminin bileşen ve değişkenlerini belirler. b İklim sistemine ait değişkenler arasındaki ilişkileri belirler.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "İklim Sisteminin Bileşen ve Değişkenleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "COĞ.9.3.2. İklim sisteminin bileşen ve değişkenlerini çözümleyebilme\na İklim sisteminin bileşen ve değişkenlerini belirler. b İklim sistemine ait değişkenler arasındaki ilişkileri belirler.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "İklim Sisteminin Bileşen ve Değişkenleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "COĞ.9.3.2. İklim sisteminin bileşen ve değişkenlerini çözümleyebilme\na İklim sisteminin bileşen ve değişkenlerini belirler. b İklim sistemine ait değişkenler arasındaki ilişkileri belirler.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "İklim Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "COĞ.9.3.3. Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak tablo grafik şekil veveya diyagram hazırlayabilme\na Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak oluşturacağı tablo grafik şekil veveya diyagramın amacını belirler. b Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak oluşturacağı tablo grafik şekil veveya diyagramın türü için gerekli olan araç gereci belirler. c Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini toplar. ç Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini sınıflandırır. d Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini tablo grafik şekil veveya diyagram şeklinde görselleştirir. e Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak görselleştirdiği tablo grafik şekil veveya diyagramı amacına uygun kullanır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "OCAK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "İklim Türleri",
+      "KAZANIM": "COĞ.9.3.3. Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak tablo grafik şekil veveya diyagram hazırlayabilme\na Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak oluşturacağı tablo grafik şekil veveya diyagramın amacını belirler. b Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak oluşturacağı tablo grafik şekil veveya diyagramın türü için gerekli olan araç gereci belirler. c Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini toplar. ç Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini sınıflandırır. d Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini tablo grafik şekil veveya diyagram şeklinde görselleştirir. e Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak görselleştirdiği tablo grafik şekil veveya diyagramı amacına uygun kullanır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "İklim Sisteminde Yaşanan Değişiklikler",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav COĞ.9.3.4. İklim sistemi ve sürecinde meydana gelen değişiklikleri algılayabilme\na İklim sistemi ve sürecinde meydana gelen değişiklikleri coğrafi temsiller aracılığıyla karşılaştırır. b İklim sistemi ve sürecinde meydana gelen değişiklikleri sıralar. c Küresel iklim değişikliğinin neden ve sonuçlarını yorumlar. ç Küresel iklim değişikliğini sentezler. d İklim sistemi ve sürecinde meydana gelebilecek değişime yönelik kanıta dayalı öngörüde bulunur.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "OKUL TEMELLİ PLANLAMA",
+      "KAZANIM": "OKUL TEMELLİ PLANLAMA"
+    },
+    {
+      "ÜNİTE": "YARIYIL TATİLİ 19 Ocak - 30 Ocak",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "KONU": "YARIYIL TATİLİ 19 Ocak - 30 Ocak",
+      "KAZANIM": "YARIYIL TATİLİ 19 Ocak - 30 Ocak"
+    },
+    {
+      "ÜNİTE": "YARIYIL TATİLİ 19 Ocak - 30 Ocak",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "KONU": "YARIYIL TATİLİ 19 Ocak - 30 Ocak",
+      "KAZANIM": "YARIYIL TATİLİ 19 Ocak - 30 Ocak"
+    },
+    {
+      "ÜNİTE": "DOĞAL SİSTEMLER VE SÜREÇLER",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "İklim Sisteminde Yaşanan Değişiklikler",
+      "KAZANIM": "COĞ.9.3.4. İklim sistemi ve sürecinde meydana gelen değişiklikleri algılayabilme\na İklim sistemi ve sürecinde meydana gelen değişiklikleri coğrafi temsiller aracılığıyla karşılaştırır. b İklim sistemi ve sürecinde meydana gelen değişiklikleri sıralar. c Küresel iklim değişikliğinin neden ve sonuçlarını yorumlar. ç Küresel iklim değişikliğini sentezler. d İklim sistemi ve sürecinde meydana gelebilecek değişime yönelik kanıta dayalı öngörüde bulunur.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık OB5. KÜLTÜRÜ Okuryazarlığı OB7. Veri Okuryazarlığı OB8. Sürdürülebilirlik Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "BEŞERÎ SİSTEMLER VE SÜREÇLER",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "Nüfusun Tarihsel Değişimi ve Geleceği",
+      "KAZANIM": "COĞ.9.4.1. Nüfusun zaman içerisindeki değişimini tablo ve grafikler aracılığı ile yorumlayabilme\na Nüfusun zaman içerisindeki değişimini gösteren tablo ve grafiklerdeki bileşenleri anlamlandırır. b Nüfusun zaman içerisindeki değişimini gösteren tablo ve grafiklerdeki bileşenler arası ilişkileri çözümler. c Nüfusun zaman içerisindeki değişimine dair incelediği tablo ve grafiklerden sonuçlar çıkarır. ç Farklı ülke nüfuslarındaki değişimi incelediği tablo ve grafikleri kullanarak karşılaştırır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. So-rumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "BEŞERÎ SİSTEMLER VE SÜREÇLER",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "Nüfusun Tarihsel Değişimi ve Geleceği",
+      "KAZANIM": "COĞ.9.4.1. Nüfusun zaman içerisindeki değişimini tablo ve grafikler aracılığı ile yorumlayabilme\na Nüfusun zaman içerisindeki değişimini gösteren tablo ve grafiklerdeki bileşenleri anlamlandırır. b Nüfusun zaman içerisindeki değişimini gösteren tablo ve grafiklerdeki bileşenler arası ilişkileri çözümler. c Nüfusun zaman içerisindeki değişimine dair incelediği tablo ve grafiklerden sonuçlar çıkarır. ç Farklı ülke nüfuslarındaki değişimi incelediği tablo ve grafikleri kullanarak karşılaştırır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. So-rumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "BEŞERÎ SİSTEMLER VE SÜREÇLER\nSINAV HAFTASI",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "Nüfusun Dağılışı ve Hareketleri\nSINAV HAFTASI",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "COĞ.9.4.2. Dünya ve Türkiyedeki nüfusun dağılışı ve hareketlerini etkileyen faktörler hakkında haritalar üzerinden çıkarımda bulunabilme\nDünya ve Türkiyede nüfus yoğunluğunun fazla ve az olduğu alanlar ile nüfusun dağılışı ve hareketlerini etkileyen faktörlerin incelenebildiği haritaları ilişkilendirerek çıkarım yapar.\nSINAV HAFTASI",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. So-rumlu Karar Verme\nSINAV HAFTASI",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı\nSINAV HAFTASI"
+    },
+    {
+      "ÜNİTE": "BEŞERÎ SİSTEMLER VE SÜREÇLER",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "Nüfusun Dağılışı ve Hareketleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "COĞ.9.4.2. Dünya ve Türkiyedeki nüfusun dağılışı ve hareketlerini etkileyen faktörler hakkında haritalar üzerinden çıkarımda bulunabilme\nDünya ve Türkiyede nüfus yoğunluğunun fazla ve az olduğu alanlar ile nüfusun dağılışı ve hareketlerini etkileyen faktörlerin incelenebildiği haritaları ilişkilendirerek çıkarım yapar."
+    },
+    {
+      "ÜNİTE": "BEŞERÎ SİSTEMLER VE SÜREÇLER",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "Demografik Dönüşüm ve Nüfus Piramitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "COĞ.9.4.3. Türkiye ve farklı ülkelerin nüfus piramitlerinden yararlanarak demografik dönüşüm sürecini yorumlayabilme\na Türkiye ve farklı ülkelerin nüfus piramitlerini demografik dönüşüm modeline göre anlamlandırır. b Demografik dönüşüm modelinin aşamalarını doğum ve ölüm oranı ile nüfus yapısı arasındaki ilişkiye göre çözümler. c Türkiye ve farklı ülkelerin nüfus piramitlerini demografik dönüşüm modelinin aşamaları ile ilişkilendirerek buradan sonuç çıkarır. ç Türkiye ve farklı ülkelerin nüfus piramitleri ile demografik dönüşüm modelinin aşamalarını ilişkilendirerek elde ettiği sonuçları karşılaştırır."
+    },
+    {
+      "ÜNİTE": "2. DÖNEM ARA TATİLİ 16-20 Mart",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "KONU": "2. DÖNEM ARA TATİLİ 16-20 Mart",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. DÖNEM ARA TATİLİ 16-20 Mart"
+    },
+    {
+      "ÜNİTE": "BEŞERÎ SİSTEMLER VE SÜREÇLER",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "Demografik Dönüşüm ve Nüfus Piramitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "COĞ.9.4.3. Türkiye ve farklı ülkelerin nüfus piramitlerinden yararlanarak demografik dönüşüm sürecini yorumlayabilme\na Türkiye ve farklı ülkelerin nüfus piramitlerini demografik dönüşüm modeline göre anlamlandırır. b Demografik dönüşüm modelinin aşamalarını doğum ve ölüm oranı ile nüfus yapısı arasındaki ilişkiye göre çözümler. c Türkiye ve farklı ülkelerin nüfus piramitlerini demografik dönüşüm modelinin aşamaları ile ilişkilendirerek buradan sonuç çıkarır. ç Türkiye ve farklı ülkelerin nüfus piramitleri ile demografik dönüşüm modelinin aşamalarını ilişkilendirerek elde ettiği sonuçları karşılaştırır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. So-rumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "BEŞERÎ SİSTEMLER VE SÜREÇLER",
+      "AY": "NİSAN",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "Nüfusla İlgili Fırsat Sorun ve Politikalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "COĞ.9.4.4. Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisini sorgulayabilme\na Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin sorular sorar. b Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin bilgi toplar. c Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin topladığı bilgileri düzenler. ç Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin düzenlediği bilgileri çözümler. d Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin çözümlediği bilgilerden çıkardığı sonuçları paylaşır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. So-rumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "BEŞERÎ SİSTEMLER VE SÜREÇLER",
+      "AY": "NİSAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "Nüfusla İlgili Fırsat Sorun ve Politikalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav COĞ.9.4.4. Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisini sorgulayabilme\na Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin sorular sorar. b Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin bilgi toplar. c Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin topladığı bilgileri düzenler. ç Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin düzenlediği bilgileri çözümler. d Türkiye ve farklı ülkelerdeki nüfusla ilgili fırsat ve sorunların nüfus politikalarının belirlenmesindeki etkisine ilişkin çözümlediği bilgilerden çıkardığı sonuçları paylaşır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB3.3. So-rumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "EKONOMİK FAALİYETLER VE ETKİLERİ",
+      "AY": "NİSAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "Ekonomik Faaliyetleri Etkileyen Coğrafi Faktörler",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "COĞ.9.5.1. Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkilerini sorgulayabilme\na Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili merak ettiği soruları sorar. b Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili bilgi toplar. c Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili topladığı bilgileri düzenler. ç Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili düzenlediği bilgileri çözümler. d Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili çözümlediği bilgilerden çıkardığı sonuçları paylaşır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği",
+      "OB": "1. Bilgi Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "EKONOMİK FAALİYETLER VE ETKİLERİ",
+      "AY": "NİSAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "Ekonomik Faaliyetleri Etkileyen Coğrafi Faktörler",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "COĞ.9.5.1. Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkilerini sorgulayabilme\na Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili merak ettiği soruları sorar. b Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili bilgi toplar. c Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili topladığı bilgileri düzenler. ç Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili düzenlediği bilgileri çözümler. d Doğal ve beşerî faktörlerin ekonomik faaliyetlere etkileriyle ilgili çözümlediği bilgilerden çıkardığı sonuçları paylaşır.",
+      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği",
+      "OB": "1. Bilgi Okuryazarlığı"
+    },
+    {
+      "ÜNİTE": "AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE",
+      "AY": "NİSAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "Tehlike Risk ve Afet",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "COĞ.9.6.1. Tehlike risk ve afet kavramlarını çözümleyebilme\na Tehlike risk ve afet kavramlarının özelliklerini belirler. b Tehlike risk ve afet kavramları arasındaki ilişkileri belirler.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "Afet Türleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "COĞ.9.6.2. Afetleri sınıflandırabilme\na Oluşum kaynağına göre afetleri belirler. b Oluşum kaynağına göre afetleri ayrıştırır. c Oluşum kaynağına göre afetleri tasnif eder. ç Oluşum kaynağına göre afetleri etiketler.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "Bütüncül Afet Yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "COĞ.9.6.3. Bütüncül afet yönetimi uygulamalarını tablo grafik şekil veveya diyagramlar aracılığıyla yorumlayabilme\na Bütüncül afet yönetimi uygulamalarını gösteren tablo grafik şekil veveya diyagramlardaki bileşenleri anlamlandırır. b Bütüncül afet yönetimi uygulamalarını gösteren tablo grafik şekil veveya diyagramlardaki bileşenleri ve bu bileşenler arası ilişkileri çözümler. c Bütüncül afet yönetimi uygulamalarını gösteren tablo grafik şekil veveya diyagramlardaki bileşenlerle ilgili sonuçlar çıkarır. ç Bütüncül afet yönetimi uygulamalarını gösteren tablo grafik şekil veveya diyagramlardaki bileşenlerle ilgili ulaştığı sonuçları karşılaştırır.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "AFETLER VE SÜRDÜRÜLEBİLİR ÇEVRE",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "Bütüncül Afet Yönetimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "COĞ.9.6.3. Bütüncül afet yönetimi uygulamalarını tablo grafik şekil veveya diyagramlar aracılığıyla yorumlayabilme\na Bütüncül afet yönetimi uygulamalarını gösteren tablo grafik şekil veveya diyagramlardaki bileşenleri anlamlandırır. b Bütüncül afet yönetimi uygulamalarını gösteren tablo grafik şekil veveya diyagramlardaki bileşenleri ve bu bileşenler arası ilişkileri çözümler. c Bütüncül afet yönetimi uygulamalarını gösteren tablo grafik şekil veveya diyagramlardaki bileşenlerle ilgili sonuçlar çıkarır. ç Bütüncül afet yönetimi uygulamalarını gösteren tablo grafik şekil veveya diyagramlardaki bileşenlerle ilgili ulaştığı sonuçları karşılaştırır.\nDB1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sos-yal Farkındalık SDB3.3. Sorumlu Karar Verme",
+      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "BÖLGELER ÜLKELER VE KÜRESEL BAĞLANTILAR",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "Bölge ve Bölge Sınırı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "COĞ.9.7.1. Bölgelerin belirlenmesinde kullanılan kriterlere göre bölge hakkında çıkarım yapabilme\na Bölge ve bölge sınırı hakkında varsayımda bulunur. b Bölge ve bölge sınırındaki örüntüleri listeler. c Bölgeyi ve bölge sınırlarını karşılaştırır. ç Bölge ve bölge sınırları hakkında önerme sunar. d Bölgeyi ve bölge sınırlarını değerlendirir.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma DB2.1. İletişim SDB2.2. İş Birliği",
+      "OB": "2. Dijital Okuryazarlık"
+    },
+    {
+      "AY": "HAZİRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav"
+    },
+    {
+      "ÜNİTE": "BÖLGELER ÜLKELER VE KÜRESEL BAĞLANTILAR",
+      "AY": "HAZİRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "Bölge ve Bölge Sınırı",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "COĞ.9.7.1. Bölgelerin belirlenmesinde kullanılan kriterlere göre bölge hakkında çıkarım yapabilme\na Bölge ve bölge sınırı hakkında varsayımda bulunur. b Bölge ve bölge sınırındaki örüntüleri listeler. c Bölgeyi ve bölge sınırlarını karşılaştırır. ç Bölge ve bölge sınırları hakkında önerme sunar. d Bölgeyi ve bölge sınırlarını değerlendirir.",
+      "SDB": "1.2. Kendini Düzenleme Öz Düzenleme SDB1.3. Kendine Uyarlama Öz Yansıtma DB2.1. İletişim SDB2.2. İş Birliği",
+      "OB": "2. Dijital Okuryazarlık"
+    },
+    {
+      "ÜNİTE": "OKUL TEMELLİ PLANLAMA",
+      "AY": "HAZİRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "OKUL TEMELLİ PLANLAMA",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "OKUL TEMELLİ PLANLAMA"
+    },
+    {
+      "ÜNİTE": "SOSYAL ETKİNLİK",
+      "AY": "HAZİRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "KONU": "SOSYAL ETKİNLİK",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "SOSYAL ETKİNLİK"
+    },
+    {
+      "KONU": "Türkiye Yüzyılı Maarif Modeli Ortak Metninde Farklılaştırılmış öğrenme yaşantılarında öğrencilerin ilgi alanları ile öğrenme profilleri önemlidir ve öğrencilere çeşitli öğrenme yaşantıları sunulur. Farklılaştırma kapsamında yapılacak zenginleştirme ve destekleme uygulamalarında öğrencilerin bireysel farklılıkları öğrenme hızları öğrenme stilleri yetenekleri vb. ilgi ve ihtiyaçları dikkate alınarak gereken planlamalar yapılır. Öğretmenler sınıftaki öğrencilerini gözlemleyerek gerek gördükleri konularda farklılaştırma uygulamalarını ders sürecine dahil etmelidirler.",
+      "KAZANIM": "-"
+    },
+    {
+      "KONU": "Okul temelli planlama zumre öğretmenler kurulu tarafından ders kapsamında gerçekleştirilmesi kararlaştırılan araştırma ve gözlem sosyal etkinlikler proje çalışmaları yerel çalışmalar okuma çalışmaları vb. çalışmaları kapsamaktadır. Çalışmalar için ayrılan sure eğitim-öğretim yılı içinde planlanır ve YILLIK planlarda ifade edilir. Bu planlamalar kapsamında yurutulecek öğretim faaliyetleri öğrenci katılımını desteklemeli yaparak ve yaşayarak öğrenmeye olanak tanımalı öğrencinin butuncul gelişime hizmet etmelidir. Bu çerçeve planda belirtilen okul temelli planlama haftaları örnek olarak sunulmuştur. Zümre öğretmenler kurulunda aldığınız karara göre okul ve ders koşullarınıza uygun öğretim programında belirtilen okul temelli planlama ders saati 2 haftadan fazla sürebilir düzenleyebilirsiniz.",
+      "KAZANIM": "-"
+    },
+    {
+      "KONU": "** Bu YILLIK plan; 19.09.2022 tarih ve 58168473 sayılı \"Millî Eğitim Bakanlığı Eğitim Öğretim Çalışmalarının Planlı Yürütülmesine İlişkin Yönerge\", 2104 sayılı Tebliğler Dergisi, İlköğretim ve Ortaöğretim Kurumlarında Atatürk İNKILAP ve İlkelerinin Öğretim Esasları Yönergesi, Talim ve\nTerbiye Kurulu'nun 23.05.2024 tarih ve 20 sayılı Kurul Kararı eki, Türkiye Yüzyılı Maarif Modeli Öğretim Programları Ortak Metni, \"M.E.B. 2024-2025 Eğitim ve Öğretim Yılı Çalışma Takvimi Genelgesi\" ile Talim ve Terbiye Kurulu'nun 24.08.2023 tarih ve 43 sayılı Kurul Kararı eki esas\nalınarak hazırlanmıştır.\n** ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır.",
+      "KAZANIM": "-"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "sinif": "9",
+  "ders": "Model Analızı Ve Model Gelıstırme",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "2",
+      "KONU": "1.Öğrenme Birimi  MODEL ANALİZİ\n1.1. Giysi Kalıp Tasarımı Ve Üretim Terminolojisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Giysi kalıp tasarımı ve üretiminde kullanılan terminolojiyi kullanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.1. Temel Kavramlar\n1.1.2. Giysi Türlerinin Sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Giysi kalıp tasarımı ve üretiminde kullanılan terminolojiyi kullanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "2",
+      "KONU": "1.1.3. Giysi Türlerinin Listelenmesi",
+      "KAZANIM": "Giysi kalıp tasarımı ve üretiminde kullanılan terminolojiyi kullanır."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2. Giysi Parçalarının Analizi\n1.2.1. Giysi Parçalarının Sınıflandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Model üzerinde giysi parçalarınıyakakolmanşet vb. analiz eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.2. Yaka Çeşitleri Ve Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Model üzerinde giysi parçalarınıyakakolmanşet vb. analiz eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.3. Cep Türleri Ve Özellikleri",
+      "KAZANIM": "Model üzerinde giysi parçalarınıyakakolmanşet vb. analiz eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.4. Kol Çeşitleri Ve Özellikleri\n1.2.5. Giyside Kullanılan Diğer Dikiş Detayları",
+      "KAZANIM": "Model üzerinde giysi parçalarınıyakakolmanşet vb. analiz eder."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "2",
+      "KONU": "1.2.5. Giyside Kullanılan Diğer Dikiş Detayları \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Model üzerinde giysi parçalarınıyakakolmanşet vb. analiz eder."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "2",
+      "KONU": "1.2.6. Detay Ve Aksesuar Çeşitleri\n1.2.7. Giysi Boyları",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Model üzerinde giysi parçalarınıyakakolmanşet vb. analiz eder."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "2",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "2",
+      "KONU": "1.2.8. Giysi Türlerinin Teknik Çizimleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Model üzerinde giysi parçalarınıyakakolmanşet vb. analiz eder."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "2",
+      "KONU": "2.Öğrenme Birimi  MODEL GELİŞTİRME\n2.1. Model Geliştirme Öğeleri Prensip Ve Yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Model geliştirme prensiplerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "2",
+      "KONU": "2.1.1. Model Geliştirme Öğeleri\n2.1.2. Model Geliştirme Prensipleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Model geliştirme prensiplerini açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "2",
+      "KONU": "2.1.3. Model Geliştirme Yöntemleri\n2.2. Temel Ve Geometrik Çizgiler\n2.2.1. Teknik Resmin Endüstrideki Yeri Ve Önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Temel çizgileri çizer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "2",
+      "KONU": "2.2.2. Teknik Resimde Kullanılan Araç Gereçler\n2.2.3. Çizim Araçlarının Kullanımı",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Temel çizgileri çizer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "2",
+      "KONU": "2.2.4. Çizgi\n2.2.5. Çizgi Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Temel çizgileri çizer."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "2",
+      "KONU": "2.2.6. Teknik Resimde Kullanılan Çizgi Çeşitleri\n2.2.7. Geometrik Şekiller  \n1.Dönem 2.Sınav",
+      "KAZANIM": "Geometrik çizimler yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "2",
+      "KONU": "2.2.8. Geometrik Şekillerin Çizimi\n2.2.9. Dikiş Görünümleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Geometrik çizimler yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "2",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "2",
+      "KONU": "2.3. Modele Uygun Siluet Ve Malzeme Seçimi\n2.3.1. Moda Tasarımın Tanımı Ve Önemi",
+      "KAZANIM": "Silüet seçimi yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "2",
+      "KONU": "2.3.2. Siluet Seçimi Yaparken Dikkat Edilecek Noktalar\n2.3.3. Hayal Gücü Tetikleme Noktaları",
+      "KAZANIM": "Silüet seçimi yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "2",
+      "KONU": "2.3.4. Siluet Duruş Şekilleri\n2.3.5. Modele Uygun Siluet Seçimi",
+      "KAZANIM": "Silüet seçimi yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "2",
+      "KONU": "2.3.6. Modele Uygun Belirlenen Malzemeleri Sınıflandırma",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Silüet seçimi yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "2",
+      "KONU": "2.3.7. Modele Uygun Malzemeleri Toplama\n2.3.8. Malzeme Kartelası Oluşturma",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Silüet seçimi yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "2",
+      "KONU": "2.4. Siluet Üzerinde Model Geliştirme\n2.4.1. Siluet Üzerine Model Geliştirme İşlem Basamakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Silüet üzerinde model geliştirme yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "2",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "2",
+      "KONU": "2.4.2. Siluet Üzerine Model Geliştirmede Dikkat Edilecek Hususlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Silüet üzerinde model geliştirme yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "2",
+      "KONU": "2.4.3. Çeşitli Tekniklerle Siluet Üzerine Model Geliştirme \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Silüet üzerinde model geliştirme yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "2",
+      "KONU": "2.4.4. Yapılan Çalışmaları Sergiye Hazır Hale Getirme",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Silüet üzerinde model geliştirme yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "2",
+      "KONU": "3.Öğrenme Birimi  MODEL TEKNİK FÖY HAZIRLAMA\n3.1. Giysi Detaylarının Teknik Çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Giysi detaylarının serbest teknik çizimleri yapar ölçüsüz teknik çizim."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "2",
+      "KONU": "3.1.1. Teknik Çizimin Kullanım Alanları\n3.1.2. Teknik Çizimdeki Doğru Ve Yanlışlar",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Giysi detaylarının serbest teknik çizimleri yapar ölçüsüz teknik çizim."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.3. Teknik Çizim Yaparken Dikkat Edilmesi Gerekenler\n3.1.4. Serbest Ölçüsüz Teknik Çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Giysi detaylarının serbest teknik çizimleri yapar ölçüsüz teknik çizim."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.5. Mamul Giysiden Ölçülü Teknik Çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Mamul giysiden ölçülü teknik çizim yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.6. Artistik Çizimden Ölçülü Teknik Çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Artistik çizimden ölçülü teknik çizim yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.1.7. Fotoğraftan Ölçülü Teknik Çizim",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Fotoğraftan ölçülü teknik çizim yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "2",
+      "KONU": "3.2. Teknik Föy\n3.2.1. Teknik Föy Hazırlarken Dikkat Edilmesi Gerekenler",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Ölçülü teknik çizim model detay çizimleri ve ölçü tablosundan oluşan teknik föyü hazırlar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2.2. Ölçülü Teknik Çizimlerin Kontrol Edilmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Ölçülü teknik çizim model detay çizimleri ve ölçü tablosundan oluşan teknik föyü hazırlar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2.3. Model Detay Çizimlerinin Kontrol Edilmesi \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Ölçülü teknik çizim model detay çizimleri ve ölçü tablosundan oluşan teknik föyü hazırlar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "2",
+      "KONU": "3.2.4. Ölçü Tablosunun Kontrol Edilmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Ölçülü teknik çizim model detay çizimleri ve ölçü tablosundan oluşan teknik föyü hazırlar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "2",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}
