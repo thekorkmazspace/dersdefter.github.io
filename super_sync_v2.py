@@ -227,30 +227,30 @@ def fix_lesson_name(name, grade, file_id):
     if "MAARİF" in name:
         name = name.replace("MAARİF*", "MAARİF").replace("(MAARİF)", "MAARİF")
     
-    # Clean up Roman numerals and cadres
-    name = name.replace("I-ii-iii", "I-II-III").replace("I-Ii-Iii", "I-II-III").replace("I-ıı-ıı", "I-II-III")
-    name = name.replace("I-ii", "I-II").replace("I-ıı", "I-II")
-    
-    # Fix spacing for Kadememaarif, Özel Eğitimmaarif etc.
-    name = name.replace("Kadememaarif", "Kademe Maarif")
-    name = name.replace("Eğitimmaarif", "Eğitim Maarif")
-    name = name.replace("maarif", "Maarif") # Ensure Title Case for Maarif
-    
-    # Standardize Kademe suffix
-    name = name.replace("Kademe", " Kademe ").replace("  ", " ").strip()
-    
     # 4. Apply Title Case
     name = turkish_title(name)
     
-    # Final surgical Roman numeral and cleanup
-    name = name.replace("I-Ii-Iii", "I-II-III").replace("I-Ii", "I-II")
-    name = name.replace("Kademe Maarif", "Kademe Maarif")
-    name = name.replace("Maarif*", "Maarif")
+    # Final surgical Roman numeral and cleanup using regex
+    # Fix I-ii-iii -> I-II-III (handles case variations from title case)
+    name = re.sub(r'\bI-i{2,3}\b', lambda m: m.group(0).upper(), name, flags=re.IGNORECASE)
+    name = re.sub(r'\bI-i\b', 'I-II', name, flags=re.IGNORECASE)
+    # Fix dotless variations if any left
+    name = name.replace("I-ıı-ıı", "I-II-III").replace("I-ıı", "I-II")
+    
+    # Fix concatenated Maarif
+    name = re.sub(r'([Kk]ademe|[Ee]ğitim|[İi]şaret|[Dd]ili|[Bb]ecerileri|[Ss]anatlar|[Mm]üzik)([Mm]aarif)', r'\1 \2', name)
+    # Ensure Maarif is Title Case
+    name = name.replace("maarif", "Maarif").replace("MAARİF", "Maarif").replace("Maarif*", "Maarif")
     
     # 5. Linguistic Harmony cleanup (surgical)
     name = linguistic_harmony_fix(name)
     
-    # Clean up excess spaces again
+    # Final touch for Roman numerals & Maarif
+    name = name.replace("I-ii-iii", "I-II-III").replace("I-ii", "I-II").replace("I-iii", "I-III")
+    name = name.replace("I-Ii-Iii", "I-II-III").replace("I-Ii", "I-II")
+    name = name.replace("Kadememaarif", "Kademe Maarif").replace("Maarif*", "Maarif")
+    
+    # Final space cleanup
     name = re.sub(r'\s+', ' ', name).strip()
     
     if len(name) > 80: name = name[:77] + "..."
