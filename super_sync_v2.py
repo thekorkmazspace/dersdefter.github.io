@@ -228,12 +228,24 @@ def fix_lesson_name(name, grade, file_id):
         name = name.replace("MAARİF*", "MAARİF").replace("(MAARİF)", "MAARİF")
     
     # Clean up Roman numerals and cadres
-    name = name.replace("I-ıı-ıı Kademe", "I-II-III. Kademe")
-    name = name.replace("I-ıı-ııı Kademe", "I-II-III. Kademe")
-    name = name.replace("I-ıı Kademe", "I-II. Kademe")
+    name = name.replace("I-ii-iii", "I-II-III").replace("I-Ii-Iii", "I-II-III").replace("I-ıı-ıı", "I-II-III")
+    name = name.replace("I-ii", "I-II").replace("I-ıı", "I-II")
+    
+    # Fix spacing for Kadememaarif, Özel Eğitimmaarif etc.
+    name = name.replace("Kadememaarif", "Kademe Maarif")
+    name = name.replace("Eğitimmaarif", "Eğitim Maarif")
+    name = name.replace("maarif", "Maarif") # Ensure Title Case for Maarif
+    
+    # Standardize Kademe suffix
+    name = name.replace("Kademe", " Kademe ").replace("  ", " ").strip()
     
     # 4. Apply Title Case
     name = turkish_title(name)
+    
+    # Final surgical Roman numeral and cleanup
+    name = name.replace("I-Ii-Iii", "I-II-III").replace("I-Ii", "I-II")
+    name = name.replace("Kademe Maarif", "Kademe Maarif")
+    name = name.replace("Maarif*", "Maarif")
     
     # 5. Linguistic Harmony cleanup (surgical)
     name = linguistic_harmony_fix(name)
