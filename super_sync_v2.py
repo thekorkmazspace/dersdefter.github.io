@@ -36,7 +36,7 @@ def turkish_title(text):
 
 RESTORATION_MAP = {
     # Frequency Fixes
-    "MAARIF": "MAARİF", "MAARF": "MAARİF", "MAARİF": "MAARİF",
+    "MAARIF": "MAARİF", "MAARF": "MAARİF",
     "BILGISI": "BİLGİSİ", "BILGI": "BİLGİ", "BILGILERI": "BİLGİLERİ",
     "DKAB": "DİN KÜLTÜRÜ VE AHLAK BİLGİSİ", "DIN": "DİN",
     "KULTURU": "KÜLTÜRÜ", "KULTUR": "KÜLTÜR",
@@ -64,7 +64,24 @@ RESTORATION_MAP = {
     "INKILAP": "İNKILAP", "ATATURKCULUK": "ATATÜRKÇÜLÜK",
     "SAGLIK": "SAĞLIK", "GUVENLIK": "GÜVENLİK",
     "ISARET": "İŞARET", "TOPLUMSAL": "TOPLUMSAL", "UYUM": "UYUM",
-    "BECERILER": "BECERİLER", "BECERISI": "BECERİSİ"
+    "BECERILER": "BECERİLER", "BECERISI": "BECERİSİ",
+    "AHSAP": "AHŞAP", "ATOLYESI": "ATÖLYESİ", "ATOLYE": "ATÖLYE",
+    "YONLENDIRME": "YÖNLENDİRME", "YONETICILIGI": "YÖNETİCİLİĞİ",
+    "GIRISIMCILIK": "GİRİŞİMCİLİK", "AHILIK": "AHİLİK",
+    "URETIMI": "ÜRETİMİ", "URETIM": "ÜRETİM", "GIYSI": "GİYSİ",
+    "TASARIMI": "TASARIMI", "SAYISAL": "SAYISAL", "MANTIK": "MANTIK",
+    "TEKNOLOJISI": "TEKNOLOJİSİ", "TEKNOLOJILERI": "TEKNOLOJİLERİ",
+    "TESSAT": "TESİSAT", "Tesisati": "TESİSATI",
+    "YAPI": "YAPI", "ELEKTRIK": "ELEKTRİK", "KUVVET": "KUVVET",
+    "OTOMASYON": "OTOMASYON", "GUC": "GÜÇ", "ELEKTRONIGI": "ELEKTRONİĞİ",
+    "BILGISAYAR": "BİLGİSAYAR", "DESTEKLI": "DESTEKLİ", "CİZİM": "ÇİZİM",
+    "CIHAZ": "CİHAZ", "CIHAZLARI": "CİHAZLARI", "GRAFIK": "GRAFİK",
+    "MMAR": "MİMARİ", "MOBILYA": "MOBİLYA", "İC": "İÇ", "MEKAN": "MEKAN",
+    "SİSTEMİNDE": "SİSTEMİNDE", "İLK": "İLK", "YARDIM": "YARDIM",
+    "FELSEFE": "FELSEFE", "ALMANCA": "ALMANCA", "COĞRAFYA": "COĞRAFYA",
+    "EDEBYAT": "EDEBİYAT", "EDB": "EDEBİYAT", "TRKCE": "TÜRKÇE",
+    "BILISIM": "BİLİŞİM", "İC": "İÇ", "DİSYON": "DİKSİYON",
+    "SBL": "SOSYAL BİLİMLER LİSESİ", "AL": "ANADOLU LİSESİ", "FL": "FEN LİSESİ"
 }
 
 def deep_fix_name(name):
