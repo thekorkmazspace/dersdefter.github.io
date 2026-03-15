@@ -1,5 +1,5 @@
 {
-  "toplam": 1536,
+  "toplam": 1535,
   "dosyalar": [
     {
       "dosya": "grade_0_beden_egitimi_1596.json",
@@ -1480,7 +1480,7 @@
     {
       "dosya": "grade_8_cevre_egitimi_ve_iklim_degisikligi_1158.json",
       "sinif": "8",
-      "ders": "Çevre Eğı̇tı̇mı̇ Ve İklı̇m Değı̇şı̇klı̇ğı̇",
+      "ders": "Çevre Eğitimi Ve İklim Değişikliği",
       "kayit_sayisi": 42
     },
     {
@@ -1612,7 +1612,7 @@
     {
       "dosya": "grade_9_atolye_ivyg_1505.json",
       "sinif": "9",
-      "ders": "Atölye (ı̇vyg)",
+      "ders": "Atölye (ivyg)",
       "kayit_sayisi": 42
     },
     {
@@ -1790,6 +1790,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_9_elektrik_devre_analizi_atolyesi_932.json",
+      "sinif": "9",
+      "ders": "Elektrik Devre Analizi Atölyesi",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_9_elektroteknik_498.json",
       "sinif": "9",
       "ders": "Elektroteknık",
@@ -1799,12 +1805,6 @@
       "dosya": "grade_9_elektrikelektronige_giris_326.json",
       "sinif": "9",
       "ders": "Elektrık-elektronığe Gırış",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_9_elektrik_devre_analizi_atolyesi_932.json",
-      "sinif": "9",
-      "ders": "Elektrı̇k Devre Analı̇zı̇ Atölyesı̇",
       "kayit_sayisi": 42
     },
     {
@@ -1894,13 +1894,13 @@
     {
       "dosya": "grade_9_halkla_iliskiler_ve_iletisim_1244.json",
       "sinif": "9",
-      "ders": "Halkla İlı̇şkı̇ler Ve İletı̇şı̇m",
+      "ders": "Halkla İlişkiler Ve İletişim",
       "kayit_sayisi": 43
     },
     {
       "dosya": "grade_9_halkla_iliskilerde_yazma_ve_konusma_1245.json",
       "sinif": "9",
-      "ders": "Halkla İlı̇şkı̇lerde Yazma Ve Konuşma",
+      "ders": "Halkla İlişkilerde Yazma Ve Konuşma",
       "kayit_sayisi": 43
     },
     {
@@ -1928,6 +1928,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_9_kimya_teknolojisine_giris_kimyateknolojisi_1879.json",
+      "sinif": "9",
+      "ders": "Kimya Teknolojisine Giriş (kımyateknolojısı)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_9_klarnet_dersi_1911.json",
       "sinif": "9",
       "ders": "Klarnet Dersı",
@@ -1946,16 +1952,16 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_9_konaklama_ve_seyahat_hizmetleri_atolyesi_dersi_1907.json",
+      "sinif": "9",
+      "ders": "Konaklama Ve Seyahat Hizmetleri Atölyesi Dersi",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_9_konaklama_ve_seyahat_hizmetleri_atolyesi_682.json",
       "sinif": "9",
       "ders": "Konaklama Ve Seyahat Hızmetlerı Atölyesı",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_9_konaklama_ve_seyahat_hizmetleri_atolyesi_dersi_1907.json",
-      "sinif": "9",
-      "ders": "Konaklama Ve Seyahat Hı̇zmetlerı̇ Atölyesı̇ Dersı̇",
-      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_9_kur039ani_kerim_1885.json",
@@ -2000,15 +2006,9 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_9_kimya_teknolojisine_giris_kimyateknolojisi_1879.json",
-      "sinif": "9",
-      "ders": "Kı̇mya Teknolojı̇sı̇ne Gı̇rı̇ş (kımyateknolojısı)",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_9_laboratuvar_guvenligi_ve_analizlere_hazirlik_1093.json",
       "sinif": "9",
-      "ders": "Laboratuvar Güvenlı̇ğı̇ Ve Analı̇zlere Hazırlık",
+      "ders": "Laboratuvar Güvenliği Ve Analizlere Hazırlık",
       "kayit_sayisi": 42
     },
     {
@@ -2020,7 +2020,7 @@
     {
       "dosya": "grade_9_laboratuvar_temel_islemleri_1092.json",
       "sinif": "9",
-      "ders": "Laboratuvar Temel İşlemlerı̇",
+      "ders": "Laboratuvar Temel İşlemleri",
       "kayit_sayisi": 42
     },
     {
@@ -2062,7 +2062,7 @@
     {
       "dosya": "grade_9_medeni_hukuk_h_1090.json",
       "sinif": "9",
-      "ders": "Medenı̇ Hukuk (h)",
+      "ders": "Medeni Hukuk (h)",
       "kayit_sayisi": 42
     },
     {
@@ -2086,7 +2086,7 @@
     {
       "dosya": "grade_9_mesleki_gelisim_atolyesittvi_446.json",
       "sinif": "9",
-      "ders": "Meslekı Gelışım Atölyesı(ttvı̇)",
+      "ders": "Meslekı Gelışım Atölyesı(ttvi)",
       "kayit_sayisi": 42
     },
     {
@@ -2164,7 +2164,7 @@
     {
       "dosya": "grade_9_pazarlama_ilkeleri_1015.json",
       "sinif": "9",
-      "ders": "Pazarlama İlkelerı̇",
+      "ders": "Pazarlama İlkeleri",
       "kayit_sayisi": 42
     },
     {
@@ -2284,7 +2284,7 @@
     {
       "dosya": "grade_9_tarimsal_uretime_hazirlik_976.json",
       "sinif": "9",
-      "ders": "Tarımsal Üretı̇me Hazırlık",
+      "ders": "Tarımsal Üretime Hazırlık",
       "kayit_sayisi": 42
     },
     {
@@ -2320,7 +2320,7 @@
     {
       "dosya": "grade_9_teknik_resimttvi_447.json",
       "sinif": "9",
-      "ders": "Teknık Resım(ttvı̇)",
+      "ders": "Teknık Resım(ttvi)",
       "kayit_sayisi": 42
     },
     {
@@ -2408,15 +2408,15 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_9_temel_mesleki_uygulamalar_620.json",
+      "dosya": "grade_9_temel_mesleki_uygulamalar_h_1091.json",
       "sinif": "9",
-      "ders": "Temel Meslekı Uygulamalar",
+      "ders": "Temel Mesleki Uygulamalar (h)",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_9_temel_mesleki_uygulamalar_h_1091.json",
+      "dosya": "grade_9_temel_mesleki_uygulamalar_620.json",
       "sinif": "9",
-      "ders": "Temel Meslekı̇ Uygulamalar (h)",
+      "ders": "Temel Meslekı Uygulamalar",
       "kayit_sayisi": 42
     },
     {
@@ -2428,13 +2428,13 @@
     {
       "dosya": "grade_9_temel_rayli_sistemler_atolyesi_1070.json",
       "sinif": "9",
-      "ders": "Temel Raylı Sı̇stemler Atölyesı̇",
+      "ders": "Temel Raylı Sistemler Atölyesi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_9_temel_seramik_ve_cam_1369.json",
       "sinif": "9",
-      "ders": "Temel Seramı̇k Ve Cam",
+      "ders": "Temel Seramik Ve Cam",
       "kayit_sayisi": 42
     },
     {
@@ -2444,21 +2444,21 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_9_temel_teknik_resim_1370.json",
+      "sinif": "9",
+      "ders": "Temel Teknik Resim",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_9_temel_teknikler_atolyesi_468.json",
       "sinif": "9",
       "ders": "Temel Teknıkler Atolyesı",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_9_temel_teknik_resim_1370.json",
-      "sinif": "9",
-      "ders": "Temel Teknı̇k Resı̇m",
-      "kayit_sayisi": 43
-    },
-    {
       "dosya": "grade_9_temel_tekstil_uygulamalari_atolyesi_1104.json",
       "sinif": "9",
-      "ders": "Temel Tekstı̇l Uygulamaları Atölyesı̇",
+      "ders": "Temel Tekstil Uygulamaları Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -2488,7 +2488,7 @@
     {
       "dosya": "grade_9_temel_itfaiyecilik_1506.json",
       "sinif": "9",
-      "ders": "Temel İtfaı̇yecı̇lı̇k",
+      "ders": "Temel İtfaiyecilik",
       "kayit_sayisi": 42
     },
     {
@@ -2536,13 +2536,13 @@
     {
       "dosya": "grade_9_tuketici_davranislari_1026.json",
       "sinif": "9",
-      "ders": "Tüketı̇cı̇ Davranışları",
+      "ders": "Tüketici Davranışları",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_9_ucak_malzeme_ve_donanim_atolyesi_965.json",
       "sinif": "9",
-      "ders": "Uçak Malzeme Ve Donanım Atölyesı̇",
+      "ders": "Uçak Malzeme Ve Donanım Atölyesi",
       "kayit_sayisi": 43
     },
     {
@@ -2650,13 +2650,13 @@
     {
       "dosya": "grade_10_alci_sekillendirme_1375.json",
       "sinif": "10",
-      "ders": "Alçı Şekı̇llendı̇rme",
+      "ders": "Alçı Şekillendirme",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_analog_elektronik_atolyesi_929.json",
       "sinif": "10",
-      "ders": "Analog Elektronı̇k Atölyesı̇",
+      "ders": "Analog Elektronik Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -2690,21 +2690,21 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_10_araclarda_hidrolik_pnomatik_sistemler_1076.json",
+      "sinif": "10",
+      "ders": "Araçlarda Hidrolik Pnömatik Sistemler",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_10_araclarda_hidrolik_pnomatik_sistemleri_353.json",
       "sinif": "10",
       "ders": "Araçlarda Hıdrolık Pnömatık Sıstemlerı",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_araclarda_hidrolik_pnomatik_sistemler_1076.json",
+      "dosya": "grade_10_aseptik_teknikler_ve_kisisel_bakim_uygulamalari_1202.json",
       "sinif": "10",
-      "ders": "Araçlarda Hı̇drolı̇k Pnömatı̇k Sı̇stemler",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_aseptik_teknikler_ve_kisisel_bakim_uygulamalar_1202.json",
-      "sinif": "10",
-      "ders": "Aseptı̇k Teknı̇kler Ve Kı̇şı̇sel Bakım Uygulamaları",
+      "ders": "Aseptik Teknikler Ve Kişisel Bakım Uygulamaları",
       "kayit_sayisi": 42
     },
     {
@@ -2752,7 +2752,7 @@
     {
       "dosya": "grade_10_atolye_ivyg_1507.json",
       "sinif": "10",
-      "ders": "Atölye (ı̇vyg)",
+      "ders": "Atölye (ivyg)",
       "kayit_sayisi": 42
     },
     {
@@ -2782,7 +2782,7 @@
     {
       "dosya": "grade_10_baski_deseni_hazirlama_atolyesi_1197.json",
       "sinif": "10",
-      "ders": "Baskı Desenı̇ Hazırlama Atölyesı̇",
+      "ders": "Baskı Deseni Hazırlama Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -2813,6 +2813,24 @@
       "dosya": "grade_10_beslenme_sosyal_destek_hizmetler_842.json",
       "sinif": "10",
       "ders": "Beslenme (sosyal Destek Hızmetler)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_bilgisayarda_desen_tasarimi_sct_1374.json",
+      "sinif": "10",
+      "ders": "Bilgisayarda Desen Tasarımı (sct)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_bilgisayarla_devre_dizayni_rs_1080.json",
+      "sinif": "10",
+      "ders": "Bilgisayarla Devre Dizaynı (rs)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_biyomedikal_teknik_resim_1046.json",
+      "sinif": "10",
+      "ders": "Biyomedikal Teknik Resim",
       "kayit_sayisi": 42
     },
     {
@@ -2978,24 +2996,6 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_10_bilgisayarda_desen_tasarimi_sct_1374.json",
-      "sinif": "10",
-      "ders": "Bı̇lgı̇sayarda Desen Tasarımı (sct)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_bilgisayarla_devre_dizayni_rs_1080.json",
-      "sinif": "10",
-      "ders": "Bı̇lgı̇sayarla Devre Dı̇zaynı (rs)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_biyomedikal_teknik_resim_1046.json",
-      "sinif": "10",
-      "ders": "Bı̇yomedı̇kal Teknı̇k Resı̇m",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_10_cam_fuzyon_1372.json",
       "sinif": "10",
       "ders": "Cam Füzyon",
@@ -3034,7 +3034,7 @@
     {
       "dosya": "grade_10_demiryolu_altyapi_atolyesi_1075.json",
       "sinif": "10",
-      "ders": "Demı̇ryolu Altyapı Atölyesı̇",
+      "ders": "Demiryolu Altyapı Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -3068,9 +3068,15 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_10_dijital_uygulamalari_atolyesi_928.json",
+      "sinif": "10",
+      "ders": "Dijital Uygulamaları Atölyesi",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_10_dokuma_orguleri_1198.json",
       "sinif": "10",
-      "ders": "Dokuma Örgülerı̇",
+      "ders": "Dokuma Örgüleri",
       "kayit_sayisi": 42
     },
     {
@@ -3116,18 +3122,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_dijital_uygulamalari_atolyesi_928.json",
-      "sinif": "10",
-      "ders": "Dı̇jı̇tal Uygulamaları Atölyesı̇",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_eticaret_uyglamalari_564.json",
-      "sinif": "10",
-      "ders": "E-tıcaret Uyglamaları",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_10_eticaret_uyglamalari_564.json",
       "sinif": "10",
       "ders": "E-tıcaret Uyglamaları",
@@ -3137,6 +3131,12 @@
       "dosya": "grade_10_ekonomi_565.json",
       "sinif": "10",
       "ders": "Ekonomı",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_elektrifikasyon_atolyesi_1074.json",
+      "sinif": "10",
+      "ders": "Elektrifikasyon Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -3179,12 +3179,6 @@
       "dosya": "grade_10_elektrikli_arac_teknolojisi_atolyesi_361.json",
       "sinif": "10",
       "ders": "Elektrıklı Araç Teknolojısı Atölyesı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_elektrifikasyon_atolyesi_1074.json",
-      "sinif": "10",
-      "ders": "Elektrı̇fı̇kasyon Atölyesı̇",
       "kayit_sayisi": 42
     },
     {
@@ -3268,7 +3262,7 @@
     {
       "dosya": "grade_10_gaz_turbinli_motorlar_atolyesi_935.json",
       "sinif": "10",
-      "ders": "Gaz Türbı̇nlı̇ Motorlar Atölyesı̇",
+      "ders": "Gaz Türbinli Motorlar Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -3388,19 +3382,19 @@
     {
       "dosya": "grade_10_halkla_iliskiler_ve_medya_1247.json",
       "sinif": "10",
-      "ders": "Halkla İlı̇şkı̇ler Ve Medya",
+      "ders": "Halkla İlişkiler Ve Medya",
       "kayit_sayisi": 43
     },
     {
       "dosya": "grade_10_halkla_iliskiler_ve_meslek_uygulamalari_1250.json",
       "sinif": "10",
-      "ders": "Halkla İlı̇şkı̇ler Ve Meslek Uygulamaları",
+      "ders": "Halkla İlişkiler Ve Meslek Uygulamaları",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_harita_hesaplari_1105.json",
       "sinif": "10",
-      "ders": "Harı̇ta Hesapları",
+      "ders": "Harita Hesapları",
       "kayit_sayisi": 42
     },
     {
@@ -3418,13 +3412,13 @@
     {
       "dosya": "grade_10_havacilik_emniyeti_ve_guvenligi_1054.json",
       "sinif": "10",
-      "ders": "Havacılık Emnı̇yetı̇ Ve Güvenlı̇ğı̇",
+      "ders": "Havacılık Emniyeti Ve Güvenliği",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_havacilik_yonetimi_1055.json",
       "sinif": "10",
-      "ders": "Havacılık Yönetı̇mı̇",
+      "ders": "Havacılık Yönetimi",
       "kayit_sayisi": 42
     },
     {
@@ -3710,6 +3704,18 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_10_mesleki_hukuk_halkla_iliskiler_1251.json",
+      "sinif": "10",
+      "ders": "Mesleki Hukuk (halkla İlişkiler)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_mesleki_matematik_1014.json",
+      "sinif": "10",
+      "ders": "Mesleki Matematik",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_10_mesleki_elektrik_elektrong_507.json",
       "sinif": "10",
       "ders": "Meslekı Elektrık Elektrong",
@@ -3766,25 +3772,19 @@
     {
       "dosya": "grade_10_mesleki_yabanci_dilyih_547.json",
       "sinif": "10",
-      "ders": "Meslekı Yabancı Dıl(yı̇h)",
+      "ders": "Meslekı Yabancı Dıl(yih)",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_mesleki_hukuk_halkla_iliskiler_1251.json",
-      "sinif": "10",
-      "ders": "Meslekı̇ Hukuk (halkla İlı̇şkı̇ler)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_mesleki_matematik_1014.json",
-      "sinif": "10",
-      "ders": "Meslekı̇ Matematı̇k",
-      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_10_metin_tahlilleri_ii_1268.json",
       "sinif": "10",
       "ders": "Metın Tahlıllerı Iı",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_mikrobiyolojik_analizler_1094.json",
+      "sinif": "10",
+      "ders": "Mikrobiyolojik Analizler",
       "kayit_sayisi": 42
     },
     {
@@ -3818,12 +3818,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_mikrobiyolojik_analizler_1094.json",
-      "sinif": "10",
-      "ders": "Mı̇krobı̇yolojı̇k Analı̇zler",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_10_nesne_tabanli_programlama_1839.json",
       "sinif": "10",
       "ders": "Nesne Tabanlı Programlama",
@@ -3833,6 +3827,18 @@
       "dosya": "grade_10_nitel_analiz_733.json",
       "sinif": "10",
       "ders": "Nıtel Analız",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_ofis_uygulamalari_1049.json",
+      "sinif": "10",
+      "ders": "Ofis Uygulamaları",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_ofis_uygulamalari_halkla_iliskiler_1246.json",
+      "sinif": "10",
+      "ders": "Ofis Uygulamaları (halkla İlişkiler)",
       "kayit_sayisi": 42
     },
     {
@@ -3860,18 +3866,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_ofis_uygulamalari_1049.json",
-      "sinif": "10",
-      "ders": "Ofı̇s Uygulamaları",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_ofis_uygulamalari_halkla_iliskiler_1246.json",
-      "sinif": "10",
-      "ders": "Ofı̇s Uygulamaları (halkla İlı̇şkı̇ler)",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_10_osmanli_turkcesi_89.json",
       "sinif": "10",
       "ders": "Osmanlı Turkcesı",
@@ -3884,27 +3878,27 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_10_otomotiv_govde_kaynak_atolyesi_mtal_motorlu_aracl_1973.json",
+      "sinif": "10",
+      "ders": "Otomotiv Gövde Kaynak Atölyesi (mtal Motorlu Araçlar)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_otomotiv_govde_teknolojisi_mtal_motorlu_araclar_1974.json",
+      "sinif": "10",
+      "ders": "Otomotiv Gövde Teknolojisi (mtal Motorlu Araçlar)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_otomotiv_teknik_resmi_mtal_motorlu_araclar_dal_or_1975.json",
+      "sinif": "10",
+      "ders": "Otomotiv Teknik Resmi (mtal Motorlu Araçlar Dal Ortak)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_10_otomotiv_elektromekanik_atolyesi_384.json",
       "sinif": "10",
       "ders": "Otomotıv Elektromekanık Atölyesı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_otomotiv_govde_kaynak_atolyesi_mtal_motorlu_ara_1973.json",
-      "sinif": "10",
-      "ders": "Otomotı̇v Gövde Kaynak Atölyesı̇ (mtal Motorlu Araçlar)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_otomotiv_govde_teknolojisi_mtal_motorlu_aracla_1974.json",
-      "sinif": "10",
-      "ders": "Otomotı̇v Gövde Teknolojı̇sı̇ (mtal Motorlu Araçlar)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_otomotiv_teknik_resmi_mtal_motorlu_araclar_dal_1975.json",
-      "sinif": "10",
-      "ders": "Otomotı̇v Teknı̇k Resmı̇ (mtal Motorlu Araçlar Dal Ortak)",
       "kayit_sayisi": 42
     },
     {
@@ -3916,7 +3910,7 @@
     {
       "dosya": "grade_10_perakendecilik_862.json",
       "sinif": "10",
-      "ders": "Perakendecı̇lı̇k",
+      "ders": "Perakendecilik",
       "kayit_sayisi": 42
     },
     {
@@ -3970,19 +3964,19 @@
     {
       "dosya": "grade_10_ramp_hizmetleri_1056.json",
       "sinif": "10",
-      "ders": "Ramp Hı̇zmetlerı̇",
+      "ders": "Ramp Hizmetleri",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_rayli_sistem_arac_mekanik_atolyesi_1071.json",
       "sinif": "10",
-      "ders": "Raylı Sı̇stem Araç Mekanı̇k Atölyesı̇",
+      "ders": "Raylı Sistem Araç Mekanik Atölyesi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_rayli_sistem_bilgisi_1072.json",
       "sinif": "10",
-      "ders": "Raylı Sı̇stem Bı̇lgı̇sı̇",
+      "ders": "Raylı Sistem Bilgisi",
       "kayit_sayisi": 46
     },
     {
@@ -4024,13 +4018,13 @@
     {
       "dosya": "grade_10_satis_teknikleri_1020.json",
       "sinif": "10",
-      "ders": "Satış Teknı̇klerı̇",
+      "ders": "Satış Teknikleri",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_satista_iletisim_teknikleri_1021.json",
       "sinif": "10",
-      "ders": "Satışta İletı̇şı̇m Teknı̇klerı̇",
+      "ders": "Satışta İletişim Teknikleri",
       "kayit_sayisi": 43
     },
     {
@@ -4070,6 +4064,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_10_sigortacilikta_hizmet_pazarlamasi_1023.json",
+      "sinif": "10",
+      "ders": "Sigortacılıkta Hizmet Pazarlaması",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_10_sstem_gvenlg_982.json",
       "sinif": "10",
       "ders": "Sstem Gvenlg",
@@ -4100,12 +4100,6 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_10_sigortacilikta_hizmet_pazarlamasi_1023.json",
-      "sinif": "10",
-      "ders": "Sı̇gortacılıkta Hı̇zmet Pazarlaması",
-      "kayit_sayisi": 43
-    },
-    {
       "dosya": "grade_10_taki_etudu_ve_cizimi_1397.json",
       "sinif": "10",
       "ders": "Takı Etudu Ve Cızımı",
@@ -4126,7 +4120,7 @@
     {
       "dosya": "grade_10_talasli_cam_isleme_atolyesi_1373.json",
       "sinif": "10",
-      "ders": "Talaşlı Cam İşleme Atölyesı̇",
+      "ders": "Talaşlı Cam İşleme Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -4150,19 +4144,19 @@
     {
       "dosya": "grade_10_tarim_analizlerilh_1385.json",
       "sinif": "10",
-      "ders": "Tarım Analı̇zlerı̇(lh)",
+      "ders": "Tarım Analizleri(lh)",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_tasarim_atolyesi_mtt_1837.json",
       "sinif": "10",
-      "ders": "Tasarım Atölyesı̇ (mtt)",
+      "ders": "Tasarım Atölyesi (mtt)",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_tasarim_tarihi_ve_ergonomi_1894.json",
       "sinif": "10",
-      "ders": "Tasarım Tarı̇hı̇ Ve Ergonomı̇",
+      "ders": "Tasarım Tarihi Ve Ergonomi",
       "kayit_sayisi": 42
     },
     {
@@ -4170,6 +4164,12 @@
       "sinif": "10",
       "ders": "Tek Düzen Muhasebe Sıstemı",
       "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_10_teknik_resim_rs_1073.json",
+      "sinif": "10",
+      "ders": "Teknik Resim (rs)",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_10_teknik_resimmat_406.json",
@@ -4184,10 +4184,10 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_teknik_resim_rs_1073.json",
+      "dosya": "grade_10_tekstil_lifleri_laboratuvari_1796.json",
       "sinif": "10",
-      "ders": "Teknı̇k Resı̇m (rs)",
-      "kayit_sayisi": 43
+      "ders": "Tekstil Lifleri Laboratuvarı",
+      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_tekstil_kimyasi_1200.json",
@@ -4196,21 +4196,15 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_tekstil_lifleri_laboratuvari_1796.json",
+      "dosya": "grade_10_temel_bitki_koruma_977.json",
       "sinif": "10",
-      "ders": "Tekstı̇l Lı̇flerı̇ Laboratuvarı",
+      "ders": "Temel Bitki Koruma",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_temel_bna_tasarimi_721.json",
       "sinif": "10",
       "ders": "Temel Bna Tasarımı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_temel_bitki_koruma_977.json",
-      "sinif": "10",
-      "ders": "Temel Bı̇tkı̇ Koruma",
       "kayit_sayisi": 42
     },
     {
@@ -4280,15 +4274,15 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_temel_sogutma_ve_iklimlendirme_atolyesi_459.json",
+      "dosya": "grade_10_temel_sigortacilik_1025.json",
       "sinif": "10",
-      "ders": "Temel Soğutma Ve İklımlendırme Atölyesı",
+      "ders": "Temel Sigortacılık",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_temel_sigortacilik_1025.json",
+      "dosya": "grade_10_temel_sogutma_ve_iklimlendirme_atolyesi_459.json",
       "sinif": "10",
-      "ders": "Temel Sı̇gortacılık",
+      "ders": "Temel Soğutma Ve İklımlendırme Atölyesı",
       "kayit_sayisi": 42
     },
     {
@@ -4312,7 +4306,7 @@
     {
       "dosya": "grade_10_temel_iplik_meslek_hesaplari_1201.json",
       "sinif": "10",
-      "ders": "Temel İplı̇k Meslek Hesapları",
+      "ders": "Temel İplik Meslek Hesapları",
       "kayit_sayisi": 42
     },
     {
@@ -4324,7 +4318,7 @@
     {
       "dosya": "grade_10_teslim_ve_odeme_sekilleri_1059.json",
       "sinif": "10",
-      "ders": "Teslı̇m Ve Ödeme Şekı̇llerı̇",
+      "ders": "Teslim Ve Ödeme Şekilleri",
       "kayit_sayisi": 42
     },
     {
@@ -4390,19 +4384,19 @@
     {
       "dosya": "grade_10_ucak_elektrik_sistemleri_atolyesi_937.json",
       "sinif": "10",
-      "ders": "Uçak Elektrı̇k Sı̇stemlerı̇ Atölyesı̇",
+      "ders": "Uçak Elektrik Sistemleri Atölyesi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_ucak_govde_ve_yapilari_atolyesi_961.json",
       "sinif": "10",
-      "ders": "Uçak Gövde Ve Yapıları Atölyesı̇",
+      "ders": "Uçak Gövde Ve Yapıları Atölyesi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_ucak_teknik_resmi_dersi_967.json",
       "sinif": "10",
-      "ders": "Uçak Teknı̇k Resmı̇ Dersı̇",
+      "ders": "Uçak Teknik Resmi Dersi",
       "kayit_sayisi": 42
     },
     {
@@ -4486,7 +4480,7 @@
     {
       "dosya": "grade_10_on_buro_hizmetleri_atolyesi_dersi_1797.json",
       "sinif": "10",
-      "ders": "Ön Büro Hı̇zmetlerı̇ Atölyesı̇ Dersı̇",
+      "ders": "Ön Büro Hizmetleri Atölyesi Dersi",
       "kayit_sayisi": 42
     },
     {
@@ -4498,19 +4492,19 @@
     {
       "dosya": "grade_10_orme_makineleri_atolyesi_1199.json",
       "sinif": "10",
-      "ders": "Örme Makı̇nelerı̇ Atölyesı̇",
+      "ders": "Örme Makineleri Atölyesi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_ortu_alti_yetistiricilik_sistemleri_851.json",
       "sinif": "10",
-      "ders": "Örtü Altı Yetı̇ştı̇rı̇cı̇lı̇k Sı̇stemlerı̇",
+      "ders": "Örtü Altı Yetiştiricilik Sistemleri",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_uretme_ve_cogaltma_teknikleri_978.json",
       "sinif": "10",
-      "ders": "Üretme Ve Çoğaltma Teknı̇klerı̇",
+      "ders": "Üretme Ve Çoğaltma Teknikleri",
       "kayit_sayisi": 42
     },
     {
@@ -4546,7 +4540,7 @@
     {
       "dosya": "grade_10_itfaiyecilikte_teknik_resim_1508.json",
       "sinif": "10",
-      "ders": "İtfaı̇yecı̇lı̇kte Teknı̇k Resı̇m",
+      "ders": "İtfaiyecilikte Teknik Resim",
       "kayit_sayisi": 42
     },
     {
@@ -4570,7 +4564,7 @@
     {
       "dosya": "grade_11_acil_servis_ve_destek_tedavi_cihazlari_ydtc_1361.json",
       "sinif": "11",
-      "ders": "Acı̇l Servı̇s Ve Destek Tedavı̇ Cı̇hazları (ydtc)",
+      "ders": "Acil Servis Ve Destek Tedavi Cihazları (ydtc)",
       "kayit_sayisi": 42
     },
     {
@@ -4622,21 +4616,21 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_11_ameliyathane_ve_yogun_bakim_cihazlari_ydtc_1362.json",
+      "sinif": "11",
+      "ders": "Ameliyathane Ve Yoğun Bakım Cihazları (ydtc)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_11_ameliyathane_ve_yogun_bakim_cihazlari_344.json",
       "sinif": "11",
       "ders": "Amelıyathane Ve Yoğun Bakım Cıhazları",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_ameliyathane_ve_yogun_bakim_cihazlari_ydtc_1362.json",
-      "sinif": "11",
-      "ders": "Amelı̇yathane Ve Yoğun Bakım Cı̇hazları (ydtc)",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_analiz_ve_laboratuvar_cihazlari_1134.json",
       "sinif": "11",
-      "ders": "Analı̇z Ve Laboratuvar Cı̇hazları",
+      "ders": "Analiz Ve Laboratuvar Cihazları",
       "kayit_sayisi": 42
     },
     {
@@ -4744,7 +4738,7 @@
     {
       "dosya": "grade_11_atolye_ivyg_1858.json",
       "sinif": "11",
-      "ders": "Atölye (ı̇vyg)",
+      "ders": "Atölye (ivyg)",
       "kayit_sayisi": 43
     },
     {
@@ -4756,25 +4750,25 @@
     {
       "dosya": "grade_11_ascilik_atolyesi_dersi_10_saat_1242.json",
       "sinif": "11",
-      "ders": "Aşçılık Atölyesı̇ Dersı̇ (10 Saat)",
+      "ders": "Aşçılık Atölyesi Dersi (10 Saat)",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_baski_kimyasi_1347.json",
       "sinif": "11",
-      "ders": "Baskı Kı̇myası",
+      "ders": "Baskı Kimyası",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_baski_makineleri_1350.json",
       "sinif": "11",
-      "ders": "Baskı Makı̇nelerı̇",
+      "ders": "Baskı Makineleri",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_baski_teknikleri_atolyesi_1340.json",
       "sinif": "11",
-      "ders": "Baskı Teknı̇klerı̇ Atölyesı̇",
+      "ders": "Baskı Teknikleri Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -4805,6 +4799,30 @@
       "dosya": "grade_11_beden_egitimi_ve_spor_77.json",
       "sinif": "11",
       "ders": "Beden Eğıtımı Ve Spor",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_bilgisayarla_harita_cizimi_1109.json",
+      "sinif": "11",
+      "ders": "Bilgisayarla Harita Çizimi",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_bilgisayarli_asansor_tasarimi_1724.json",
+      "sinif": "11",
+      "ders": "Bilgisayarlı Asansör Tasarımı",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_bitki_doku_kulturu_ile_cogaltma_1095.json",
+      "sinif": "11",
+      "ders": "Bitki Doku Kültürü İle Çoğaltma",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_biyo_sinyal_izleme_ve_takip_cihazlari_atolyesi_1047.json",
+      "sinif": "11",
+      "ders": "Biyo Sinyal İzleme Ve Takip Cihazları Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -4846,7 +4864,7 @@
     {
       "dosya": "grade_11_boyama_ve_apre_teknikleri_atolyesi_1337.json",
       "sinif": "11",
-      "ders": "Boyama Ve Apre Teknı̇klerı̇ Atölyesı̇",
+      "ders": "Boyama Ve Apre Teknikleri Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -4946,30 +4964,6 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_11_bilgisayarla_harita_cizimi_1109.json",
-      "sinif": "11",
-      "ders": "Bı̇lgı̇sayarla Harı̇ta Çı̇zı̇mı̇",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_bilgisayarli_asansor_tasarimi_1724.json",
-      "sinif": "11",
-      "ders": "Bı̇lgı̇sayarlı Asansör Tasarımı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_bitki_doku_kulturu_ile_cogaltma_1095.json",
-      "sinif": "11",
-      "ders": "Bı̇tkı̇ Doku Kültürü İle Çoğaltma",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_biyo_sinyal_izleme_ve_takip_cihazlari_atolyesi_1047.json",
-      "sinif": "11",
-      "ders": "Bı̇yo Sı̇nyal İzleme Ve Takı̇p Cı̇hazları Atölyesı̇",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_cagdas_trk_ve_dnya_tarih_2_saat_92.json",
       "sinif": "11",
       "ders": "Cagdas Trk Ve Dnya Tarıh (2 Saat)",
@@ -5056,7 +5050,7 @@
     {
       "dosya": "grade_11_cografi_bilgi_sistemleri_1332.json",
       "sinif": "11",
-      "ders": "Coğrafı̇ Bı̇lgı̇ Sı̇stemlerı̇",
+      "ders": "Coğrafi Bilgi Sistemleri",
       "kayit_sayisi": 42
     },
     {
@@ -5074,13 +5068,13 @@
     {
       "dosya": "grade_11_demiryolu_aplikasyonu_ve_hesaplamalari_1083.json",
       "sinif": "11",
-      "ders": "Demı̇ryolu Aplı̇kasyonu Ve Hesaplamaları",
+      "ders": "Demiryolu Aplikasyonu Ve Hesaplamaları",
       "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_demiryolu_ust_yapi_atolyesi_1084.json",
       "sinif": "11",
-      "ders": "Demı̇ryolu Üst Yapı Atölyesı̇",
+      "ders": "Demiryolu Üst Yapı Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -5122,13 +5116,13 @@
     {
       "dosya": "grade_11_dunya_seyahat_ve_turizm_cografyasi_1813.json",
       "sinif": "11",
-      "ders": "Dünya Seyahat Ve Turı̇zm Coğrafyası",
+      "ders": "Dünya Seyahat Ve Turizm Coğrafyası",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_duz_ve_corap_ormede_uretim_atolyesi_1348.json",
       "sinif": "11",
-      "ders": "Düz Ve Çorap Örmede Üretı̇m Atölyesı̇",
+      "ders": "Düz Ve Çorap Örmede Üretim Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -5194,7 +5188,7 @@
     {
       "dosya": "grade_11_elektrofizyoloji_cihazlari_1048.json",
       "sinif": "11",
-      "ders": "Elektrofı̇zyolojı̇ Cı̇hazları",
+      "ders": "Elektrofizyoloji Cihazları",
       "kayit_sayisi": 42
     },
     {
@@ -5228,6 +5222,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_11_endustriyel_elektronikrs_1081.json",
+      "sinif": "11",
+      "ders": "Endüstriyel Elektronik(rs)",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_11_endustriyel_elektronik_287.json",
       "sinif": "11",
       "ders": "Endüstrıyel Elektronık",
@@ -5243,12 +5243,6 @@
       "dosya": "grade_11_endustriyel_sogutma_atolyesi_460.json",
       "sinif": "11",
       "ders": "Endüstrıyel Soğutma Atölyesı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_endustriyel_elektronikrs_1081.json",
-      "sinif": "11",
-      "ders": "Endüstrı̇yel Elektronı̇k(rs)",
       "kayit_sayisi": 42
     },
     {
@@ -5308,7 +5302,7 @@
     {
       "dosya": "grade_11_gaz_turbinli_motor_sistemleri_atolyesi_934.json",
       "sinif": "11",
-      "ders": "Gaz Türbı̇nlı̇ Motor Sı̇stemlerı̇ Atölyesı̇ (*)",
+      "ders": "Gaz Türbinli Motor Sistemleri Atölyesi (*)",
       "kayit_sayisi": 43
     },
     {
@@ -5332,19 +5326,19 @@
     {
       "dosya": "grade_11_genel_bahce_bitkileri_973.json",
       "sinif": "11",
-      "ders": "Genel Bahçe Bı̇tkı̇lerı̇",
+      "ders": "Genel Bahçe Bitkileri",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_genel_sus_bitkileri_974.json",
       "sinif": "11",
-      "ders": "Genel Süs Bı̇tkı̇lerı̇",
+      "ders": "Genel Süs Bitkileri",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_genel_tarla_bitkileri_975.json",
       "sinif": "11",
-      "ders": "Genel Tarla Bı̇tkı̇lerı̇",
+      "ders": "Genel Tarla Bitkileri",
       "kayit_sayisi": 42
     },
     {
@@ -5386,7 +5380,7 @@
     {
       "dosya": "grade_11_gida_analizleri_1096.json",
       "sinif": "11",
-      "ders": "Gıda Analı̇zlerı̇",
+      "ders": "Gıda Analizleri",
       "kayit_sayisi": 42
     },
     {
@@ -5444,9 +5438,9 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_halkla_iliskilerde_butunlesik_pazarlama_iletis_1253.json",
+      "dosya": "grade_11_halkla_iliskilerde_butunlesik_pazarlama_iletisimi_1253.json",
       "sinif": "11",
-      "ders": "Halkla İlı̇şkı̇lerde Bütünleşı̇k Pazarlama İletı̇şı̇mı̇",
+      "ders": "Halkla İlişkilerde Bütünleşik Pazarlama İletişimi",
       "kayit_sayisi": 42
     },
     {
@@ -5458,7 +5452,7 @@
     {
       "dosya": "grade_11_harekt_hizmetleri_1062.json",
       "sinif": "11",
-      "ders": "Harekât Hı̇zmetlerı̇",
+      "ders": "Harekât Hizmetleri",
       "kayit_sayisi": 42
     },
     {
@@ -5470,7 +5464,7 @@
     {
       "dosya": "grade_11_hayat_disi_sigortalar_1012.json",
       "sinif": "11",
-      "ders": "Hayat Dışı Sı̇gortalar",
+      "ders": "Hayat Dışı Sigortalar",
       "kayit_sayisi": 42
     },
     {
@@ -5572,7 +5566,7 @@
     {
       "dosya": "grade_11_kat_hizmetleri_atolyesi_dersi_1815.json",
       "sinif": "11",
-      "ders": "Kat Hı̇zmetlerı̇ Atölyesı̇ Dersı̇",
+      "ders": "Kat Hizmetleri Atölyesi Dersi",
       "kayit_sayisi": 42
     },
     {
@@ -5584,7 +5578,13 @@
     {
       "dosya": "grade_11_kent_ici_rayli_sistemler_1077.json",
       "sinif": "11",
-      "ders": "Kent İçı̇ Raylı Sı̇stemler",
+      "ders": "Kent İçi Raylı Sistemler",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_kimyasal_ve_fiziksel_test_laboratuvari_1341.json",
+      "sinif": "11",
+      "ders": "Kimyasal Ve Fiziksel Test Laboratuvarı",
       "kayit_sayisi": 42
     },
     {
@@ -5594,27 +5594,27 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_11_klinik_goruntuleme_cihazlari_1138.json",
+      "sinif": "11",
+      "ders": "Klinik Görüntüleme Cihazları",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_klinik_laboratuvar_cihazlari_atolyesi_1135.json",
+      "sinif": "11",
+      "ders": "Klinik Laboratuvar Cihazları Atölyesi",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_11_klnk_hzmetler_992.json",
       "sinif": "11",
       "ders": "Klnk Hzmetler",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_klinik_goruntuleme_cihazlari_1138.json",
-      "sinif": "11",
-      "ders": "Klı̇nı̇k Görüntüleme Cı̇hazları",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_klinik_laboratuvar_cihazlari_atolyesi_1135.json",
-      "sinif": "11",
-      "ders": "Klı̇nı̇k Laboratuvar Cı̇hazları Atölyesı̇",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_konaklama_isletmeciligi_dersi_1899.json",
       "sinif": "11",
-      "ders": "Konaklama İşletmecı̇lı̇ğı̇ Dersı̇",
+      "ders": "Konaklama İşletmeciliği Dersi",
       "kayit_sayisi": 42
     },
     {
@@ -5626,7 +5626,7 @@
     {
       "dosya": "grade_11_kontrollu_uretim_uygulamalari_1103.json",
       "sinif": "11",
-      "ders": "Kontrollü Üretı̇m Uygulamaları",
+      "ders": "Kontrollü Üretim Uygulamaları",
       "kayit_sayisi": 42
     },
     {
@@ -5650,7 +5650,7 @@
     {
       "dosya": "grade_11_kumas_dokuma_ve_makina_sistemleri_atolyesi_1345.json",
       "sinif": "11",
-      "ders": "Kumaş Dokuma Ve Makı̇na Sı̇stemlerı̇ Atölyesı̇",
+      "ders": "Kumaş Dokuma Ve Makina Sistemleri Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -5702,33 +5702,27 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_11_kimyasal_ve_fiziksel_test_laboratuvari_1341.json",
-      "sinif": "11",
-      "ders": "Kı̇myasal Ve Fı̇zı̇ksel Test Laboratuvarı",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_laboratuvar_kalite_yonetim_sistemi_1102.json",
       "sinif": "11",
-      "ders": "Laboratuvar Kalı̇te Yönetı̇m Sı̇stemı̇",
+      "ders": "Laboratuvar Kalite Yönetim Sistemi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_lojistik_belgeler_1063.json",
       "sinif": "11",
-      "ders": "Lojı̇stı̇k Belgeler",
+      "ders": "Lojistik Belgeler",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_lojistik_hesaplamalar_1064.json",
       "sinif": "11",
-      "ders": "Lojı̇stı̇k Hesaplamalar",
+      "ders": "Lojistik Hesaplamalar",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_lojistik_satin_alma_1065.json",
       "sinif": "11",
-      "ders": "Lojı̇stı̇k Satın Alma",
+      "ders": "Lojistik Satın Alma",
       "kayit_sayisi": 42
     },
     {
@@ -5818,13 +5812,13 @@
     {
       "dosya": "grade_11_magaza_atmosferi_ve_gorsellik_1013.json",
       "sinif": "11",
-      "ders": "Mağaza Atmosferı̇ Ve Görsellı̇k",
+      "ders": "Mağaza Atmosferi Ve Görsellik",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_medeni_usul_ve_icra_iflas_hukuku_1115.json",
       "sinif": "11",
-      "ders": "Medenı̇ Usul Ve İcra İflas Hukuku",
+      "ders": "Medeni Usul Ve İcra İflas Hukuku",
       "kayit_sayisi": 42
     },
     {
@@ -5843,6 +5837,36 @@
       "dosya": "grade_11_mekatronik_sistemler_502.json",
       "sinif": "11",
       "ders": "Mekatronık Sıstemler",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_mesleki_yabanci_dil_animatorluk_1510.json",
+      "sinif": "11",
+      "ders": "Mesleki Yabancı Dil (anımatörlük)",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_11_mesleki_yabanci_dil_sh_1067.json",
+      "sinif": "11",
+      "ders": "Mesleki Yabancı Dil (sh)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_mesleki_yabanci_dil_dersi_konaklama_1511.json",
+      "sinif": "11",
+      "ders": "Mesleki Yabancı Dil Dersi (konaklama)",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_mesleki_yabanci_dilpvp_869.json",
+      "sinif": "11",
+      "ders": "Mesleki Yabancı Dil(pvp)",
+      "kayit_sayisi": 43
+    },
+    {
+      "dosya": "grade_11_mesleki_yabanci_diluh_1066.json",
+      "sinif": "11",
+      "ders": "Mesleki Yabancı Dil(uh)",
       "kayit_sayisi": 42
     },
     {
@@ -5867,36 +5891,6 @@
       "dosya": "grade_11_mesleki_yabanci_dilkt_1405.json",
       "sinif": "11",
       "ders": "Meslekı Yabancı Dıl(kt)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_mesleki_yabanci_dil_animatorluk_1510.json",
-      "sinif": "11",
-      "ders": "Meslekı̇ Yabancı Dı̇l (anımatörlük)",
-      "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_11_mesleki_yabanci_dil_sh_1067.json",
-      "sinif": "11",
-      "ders": "Meslekı̇ Yabancı Dı̇l (sh)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_mesleki_yabanci_dil_dersi_konaklama_1511.json",
-      "sinif": "11",
-      "ders": "Meslekı̇ Yabancı Dı̇l Dersı̇ (konaklama)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_mesleki_yabanci_dilpvp_869.json",
-      "sinif": "11",
-      "ders": "Meslekı̇ Yabancı Dı̇l(pvp)",
-      "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_11_mesleki_yabanci_diluh_1066.json",
-      "sinif": "11",
-      "ders": "Meslekı̇ Yabancı Dı̇l(uh)",
       "kayit_sayisi": 42
     },
     {
@@ -5948,6 +5942,12 @@
       "kayit_sayisi": 43
     },
     {
+      "dosya": "grade_11_miras_ve_ayni_haklar_hukuku_1116.json",
+      "sinif": "11",
+      "ders": "Miras Ve Ayni Haklar Hukuku",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_11_moblya_montaj_islemler_1900.json",
       "sinif": "11",
       "ders": "Moblya Montaj Islemler",
@@ -5968,7 +5968,7 @@
     {
       "dosya": "grade_11_model_ve_prototip_atolyesi_1838.json",
       "sinif": "11",
-      "ders": "Model Ve Prototı̇p Atölyesı̇",
+      "ders": "Model Ve Prototip Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -5998,7 +5998,7 @@
     {
       "dosya": "grade_11_mutfak_hizmetleri_yonetimi_1993.json",
       "sinif": "11",
-      "ders": "Mutfak Hı̇zmetlerı̇ Yönetı̇mı̇",
+      "ders": "Mutfak Hizmetleri Yönetimi",
       "kayit_sayisi": 42
     },
     {
@@ -6044,15 +6044,9 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_11_miras_ve_ayni_haklar_hukuku_1116.json",
-      "sinif": "11",
-      "ders": "Mı̇ras Ve Aynı̇ Haklar Hukuku",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_numune_kumas_dokuma_atolyesi_1336.json",
       "sinif": "11",
-      "ders": "Numune Kumaş Dokuma Atölyesı̇",
+      "ders": "Numune Kumaş Dokuma Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -6070,7 +6064,7 @@
     {
       "dosya": "grade_11_organizasyon_secmeli_organizasyon_1259.json",
       "sinif": "11",
-      "ders": "Organı̇zasyon (seçmelı̇ Organı̇zasyon)",
+      "ders": "Organizasyon (seçmeli Organizasyon)",
       "kayit_sayisi": 43
     },
     {
@@ -6250,7 +6244,7 @@
     {
       "dosya": "grade_11_perakende_matematigi_1017.json",
       "sinif": "11",
-      "ders": "Perakende Matematı̇ğı̇",
+      "ders": "Perakende Matematiği",
       "kayit_sayisi": 42
     },
     {
@@ -6262,7 +6256,7 @@
     {
       "dosya": "grade_11_pervane_atolyesi_936.json",
       "sinif": "11",
-      "ders": "Pervane Atölyesı̇",
+      "ders": "Pervane Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -6310,13 +6304,13 @@
     {
       "dosya": "grade_11_radyoloji_cihazlari_atolyesi_1137.json",
       "sinif": "11",
-      "ders": "Radyolojı̇ Cı̇hazları Atölyesı̇",
+      "ders": "Radyoloji Cihazları Atölyesi",
       "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_ramp_hizmetleri_1068.json",
       "sinif": "11",
-      "ders": "Ramp Hı̇zmetlerı̇",
+      "ders": "Ramp Hizmetleri",
       "kayit_sayisi": 42
     },
     {
@@ -6328,7 +6322,7 @@
     {
       "dosya": "grade_11_rayli_sistem_arac_elektrik_atolyesi_1078.json",
       "sinif": "11",
-      "ders": "Raylı Sı̇stem Araç Elektrı̇k Atölyesı̇",
+      "ders": "Raylı Sistem Araç Elektrik Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -6338,15 +6332,15 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_ritim_egitimi_ve_halk_danslari_1156.json",
+      "dosya": "grade_11_risk_ve_hasar_yonetimi_1019.json",
       "sinif": "11",
-      "ders": "Rıtım Egıtımı Ve Halk Dansları",
+      "ders": "Risk Ve Hasar Yönetimi",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_risk_ve_hasar_yonetimi_1019.json",
+      "dosya": "grade_11_ritim_egitimi_ve_halk_danslari_1156.json",
       "sinif": "11",
-      "ders": "Rı̇sk Ve Hasar Yönetı̇mı̇",
+      "ders": "Rıtım Egıtımı Ve Halk Dansları",
       "kayit_sayisi": 42
     },
     {
@@ -6400,7 +6394,7 @@
     {
       "dosya": "grade_11_servis_atolyesi_dersi_5_saat_1243.json",
       "sinif": "11",
-      "ders": "Servı̇s Atölyesı̇ Dersı̇ (5 Saat)",
+      "ders": "Servis Atölyesi Dersi (5 Saat)",
       "kayit_sayisi": 42
     },
     {
@@ -6438,6 +6432,18 @@
       "sinif": "11",
       "ders": "Seçmelı Yakıt Hücrelı Araçlar",
       "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_sigorta_hukuku_1022.json",
+      "sinif": "11",
+      "ders": "Sigorta Hukuku",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_sinyalizasyon_ve_haberlesme_atolyesi_1082.json",
+      "sinif": "11",
+      "ders": "Sinyalizasyon Ve Haberleşme Atölyesi",
+      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_sistem_hastaliklari_630.json",
@@ -6514,7 +6520,7 @@
     {
       "dosya": "grade_11_surdurulebilir_turizm_1814.json",
       "sinif": "11",
-      "ders": "Sürdürülebı̇lı̇r Turı̇zm",
+      "ders": "Sürdürülebilir Turizm",
       "kayit_sayisi": 42
     },
     {
@@ -6554,18 +6560,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_sigorta_hukuku_1022.json",
-      "sinif": "11",
-      "ders": "Sı̇gorta Hukuku",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_sinyalizasyon_ve_haberlesme_atolyesi_1082.json",
-      "sinif": "11",
-      "ders": "Sı̇nyalı̇zasyon Ve Haberleşme Atölyesı̇",
-      "kayit_sayisi": 43
-    },
-    {
       "dosya": "grade_11_takim_sporlari_1153.json",
       "sinif": "11",
       "ders": "Takım Sporları",
@@ -6574,7 +6568,7 @@
     {
       "dosya": "grade_11_tanitim_faaliyetleri_1258.json",
       "sinif": "11",
-      "ders": "Tanıtım Faalı̇yetlerı̇",
+      "ders": "Tanıtım Faaliyetleri",
       "kayit_sayisi": 42
     },
     {
@@ -6658,7 +6652,7 @@
     {
       "dosya": "grade_11_terbiye_makineleri_1342.json",
       "sinif": "11",
-      "ders": "Terbı̇ye Makı̇nelerı̇",
+      "ders": "Terbiye Makineleri",
       "kayit_sayisi": 42
     },
     {
@@ -6688,13 +6682,13 @@
     {
       "dosya": "grade_11_teshis_takip_ve_kayit_cihazlari_1139.json",
       "sinif": "11",
-      "ders": "Teşhı̇s Takı̇p Ve Kayıt Cı̇hazları",
+      "ders": "Teşhis Takip Ve Kayıt Cihazları",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_tohumluk_analizleri_1100.json",
       "sinif": "11",
-      "ders": "Tohumluk Analı̇zlerı̇",
+      "ders": "Tohumluk Analizleri",
       "kayit_sayisi": 42
     },
     {
@@ -6706,7 +6700,7 @@
     {
       "dosya": "grade_11_trafik_yonetim_sistemleri_1079.json",
       "sinif": "11",
-      "ders": "Trafı̇k Yönetı̇m Sı̇stemlerı̇",
+      "ders": "Trafik Yönetim Sistemleri",
       "kayit_sayisi": 43
     },
     {
@@ -6796,7 +6790,7 @@
     {
       "dosya": "grade_11_ucak_sistemleri_atolyesi_966.json",
       "sinif": "11",
-      "ders": "Uçak Sı̇stemlerı̇ Atölyesı̇",
+      "ders": "Uçak Sistemleri Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -6826,13 +6820,13 @@
     {
       "dosya": "grade_11_xisinli_goruntuleyiciler_1136.json",
       "sinif": "11",
-      "ders": "X-ışınlı Görüntüleyı̇cı̇ler",
+      "ders": "X-ışınlı Görüntüleyiciler",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_yangin_onleme_tedbirleri_1855.json",
       "sinif": "11",
-      "ders": "Yangın Önleme Tedbı̇rlerı̇",
+      "ders": "Yangın Önleme Tedbirleri",
       "kayit_sayisi": 42
     },
     {
@@ -6850,25 +6844,25 @@
     {
       "dosya": "grade_11_yasam_destek_cihazlari_atolyesi_1363.json",
       "sinif": "11",
-      "ders": "Yaşam Destek Cı̇hazları Atölyesı̇",
+      "ders": "Yaşam Destek Cihazları Atölyesi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_yem_analizleri_1099.json",
       "sinif": "11",
-      "ders": "Yem Analı̇zlerı̇",
+      "ders": "Yem Analizleri",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_11_yeni_medyada_halkla_iliskiler_1257.json",
+      "sinif": "11",
+      "ders": "Yeni Medyada Halkla İlişkiler",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_yenilikci_uretimi_yontemleri_540.json",
       "sinif": "11",
       "ders": "Yenılıkçı Üretimi Yöntemlerı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_yeni_medyada_halkla_iliskiler_1257.json",
-      "sinif": "11",
-      "ders": "Yenı̇ Medyada Halkla İlı̇şkı̇ler",
       "kayit_sayisi": 42
     },
     {
@@ -6880,13 +6874,13 @@
     {
       "dosya": "grade_11_yolcu_hizmetleri_1069.json",
       "sinif": "11",
-      "ders": "Yolcu Hı̇zmetlerı̇",
+      "ders": "Yolcu Hizmetleri",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_yuvarlak_orme_uretim_atolyesi_1351.json",
       "sinif": "11",
-      "ders": "Yuvarlak Örme Üretı̇m Atölyesı̇",
+      "ders": "Yuvarlak Örme Üretim Atölyesi",
       "kayit_sayisi": 42
     },
     {
@@ -6940,7 +6934,7 @@
     {
       "dosya": "grade_11_cagri_merkezi_islemleri_1252.json",
       "sinif": "11",
-      "ders": "Çağrı Merkezı̇ İşlemlerı̇",
+      "ders": "Çağrı Merkezi İşlemleri",
       "kayit_sayisi": 42
     },
     {
@@ -6976,19 +6970,19 @@
     {
       "dosya": "grade_11_ormede_analiz_ve_desen_atolyesi_1349.json",
       "sinif": "11",
-      "ders": "Örmede Analı̇z Ve Desen Atölyesı̇",
+      "ders": "Örmede Analiz Ve Desen Atölyesi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_urun_bilgisi_1027.json",
       "sinif": "11",
-      "ders": "Ürün Bı̇lgı̇sı̇",
+      "ders": "Ürün Bilgisi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_urun_gelistirme_uygulamalari_1898.json",
       "sinif": "11",
-      "ders": "Ürün Gelı̇ştı̇rme Uygulamaları",
+      "ders": "Ürün Geliştirme Uygulamaları",
       "kayit_sayisi": 42
     },
     {
@@ -7006,7 +7000,7 @@
     {
       "dosya": "grade_11_immunoloji_ve_seroloji_1098.json",
       "sinif": "11",
-      "ders": "İmmünolojı̇ Ve Serolojı̇",
+      "ders": "İmmünoloji Ve Seroloji",
       "kayit_sayisi": 42
     },
     {
@@ -7018,31 +7012,31 @@
     {
       "dosya": "grade_11_iplik_bitim_islemleri_atolyesi_dersi_1343.json",
       "sinif": "11",
-      "ders": "İplı̇k Bı̇tı̇m İşlemlerı̇ Atölyesı̇ Dersı̇",
+      "ders": "İplik Bitim İşlemleri Atölyesi Dersi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_iplik_uretim_hesaplari_1346.json",
       "sinif": "11",
-      "ders": "İplı̇k Üretı̇m Hesapları",
+      "ders": "İplik Üretim Hesapları",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_iplik_uretimde_kontroller_atolyesi_dersi_1344.json",
       "sinif": "11",
-      "ders": "İplı̇k Üretı̇mde Kontroller Atölyesı̇ Dersı̇",
+      "ders": "İplik Üretimde Kontroller Atölyesi Dersi",
       "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_iplikte_farkli_uretim_sistemleri_1338.json",
       "sinif": "11",
-      "ders": "İplı̇kte Farklı Üretı̇m Sı̇stemlerı̇",
+      "ders": "İplikte Farklı Üretim Sistemleri",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_ic_mekn_sus_bitkileri_yetistiriciligi_1851.json",
       "sinif": "11",
-      "ders": "İç Mekân Süs Bı̇tkı̇lerı̇ Yetı̇ştı̇rı̇cı̇lı̇ğı̇",
+      "ders": "İç Mekân Süs Bitkileri Yetiştiriciliği",
       "kayit_sayisi": 42
     },
     {
@@ -7108,7 +7102,7 @@
     {
       "dosya": "grade_12_afet_lojistigi_1810.json",
       "sinif": "12",
-      "ders": "Afet Lojı̇stı̇ğı̇",
+      "ders": "Afet Lojistiği",
       "kayit_sayisi": 42
     },
     {
@@ -7256,6 +7250,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_12_bitki_sagligi_1881.json",
+      "sinif": "12",
+      "ders": "Bitki Sağlığı",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_12_blgsayarla_mimari_ve_ic_mekan_detaylari_727.json",
       "sinif": "12",
       "ders": "Blgsayarla Mımarı Ve Ic Mekan Detayları",
@@ -7374,12 +7374,6 @@
       "sinif": "12",
       "ders": "Bıyolojı(fen Lıselerı)",
       "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_12_bitki_sagligi_1881.json",
-      "sinif": "12",
-      "ders": "Bı̇tkı̇ Sağlığı",
-      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_12_cagdas_trk_ve_dnya_tarih_2_saat_93.json",
@@ -7534,7 +7528,7 @@
     {
       "dosya": "grade_12_dokumantasyon_ve_arsivleme_ivyg_1856.json",
       "sinif": "12",
-      "ders": "Dökümantasyon Ve Arşı̇vleme (ı̇vyg)",
+      "ders": "Dökümantasyon Ve Arşivleme (ivyg)",
       "kayit_sayisi": 42
     },
     {
@@ -7550,6 +7544,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_12_digital_tasarim_7.json",
+      "sinif": "12",
+      "ders": "Dıgıtal Tasarım",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_12_digital_tasarim_305.json",
       "sinif": "12",
       "ders": "Dıgıtal Tasarım",
@@ -7557,12 +7557,6 @@
     },
     {
       "dosya": "grade_12_digital_tasarim_421.json",
-      "sinif": "12",
-      "ders": "Dıgıtal Tasarım",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_digital_tasarim_7.json",
       "sinif": "12",
       "ders": "Dıgıtal Tasarım",
       "kayit_sayisi": 42
@@ -7646,16 +7640,16 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_12_elektrikelektronik_projeleri_1719.json",
+      "sinif": "12",
+      "ders": "Elektrik-elektronik Projeleri",
+      "kayit_sayisi": 43
+    },
+    {
       "dosya": "grade_12_elektrikli_motorsikletler_362.json",
       "sinif": "12",
       "ders": "Elektrıklı Motorsıkletler",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_elektrikelektronik_projeleri_1719.json",
-      "sinif": "12",
-      "ders": "Elektrı̇k-elektronı̇k Projelerı̇",
-      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_12_emlak_yonetimi_579.json",
@@ -7670,6 +7664,12 @@
       "kayit_sayisi": 42
     },
     {
+      "dosya": "grade_12_endustri_bitkileri_yetistiriciligi_1860.json",
+      "sinif": "12",
+      "ders": "Endüstri Bitkileri Yetiştiriciliği",
+      "kayit_sayisi": 42
+    },
+    {
       "dosya": "grade_12_endustriyel_elektrik_sistemleri_330.json",
       "sinif": "12",
       "ders": "Endüstrıyel Elektrık Sıstemlerı",
@@ -7679,12 +7679,6 @@
       "dosya": "grade_12_endustriyel_kontrol_sistemleri_331.json",
       "sinif": "12",
       "ders": "Endüstrıyel Kontrol Sıstemlerı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_endustri_bitkileri_yetistiriciligi_1860.json",
-      "sinif": "12",
-      "ders": "Endüstrı̇ Bı̇tkı̇lerı̇ Yetı̇ştı̇rı̇cı̇lı̇ğı̇",
       "kayit_sayisi": 42
     },
     {
@@ -7834,7 +7828,7 @@
     {
       "dosya": "grade_12_hava_yolunda_iletisim_1811.json",
       "sinif": "12",
-      "ders": "Hava Yolunda İletı̇şı̇m",
+      "ders": "Hava Yolunda İletişim",
       "kayit_sayisi": 42
     },
     {
@@ -8272,7 +8266,7 @@
     {
       "dosya": "grade_12_malzeme_bilgisittvi_453.json",
       "sinif": "12",
-      "ders": "Malzeme Bılgısı(ttvı̇)",
+      "ders": "Malzeme Bılgısı(ttvi)",
       "kayit_sayisi": 42
     },
     {
@@ -8380,7 +8374,7 @@
     {
       "dosya": "grade_12_meyve_yetistiriciligi_1882.json",
       "sinif": "12",
-      "ders": "Meyve Yetı̇ştı̇rı̇cı̇lı̇ğı̇",
+      "ders": "Meyve Yetiştiriciliği",
       "kayit_sayisi": 42
     },
     {
@@ -8914,19 +8908,19 @@
     {
       "dosya": "grade_12_tapu_islemleri_1846.json",
       "sinif": "12",
-      "ders": "Tapu İşlemlerı̇",
+      "ders": "Tapu İşlemleri",
+      "kayit_sayisi": 42
+    },
+    {
+      "dosya": "grade_12_tekstilde_uretim_takibi_1994.json",
+      "sinif": "12",
+      "ders": "Tekstilde Üretim Takibi",
       "kayit_sayisi": 42
     },
     {
       "dosya": "grade_12_tekstil_yuzeyleri_ve_malzeme_bilgisi_758.json",
       "sinif": "12",
       "ders": "Tekstıl Yuzeylerı Ve Malzeme Bılgısı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_tekstilde_uretim_takibi_1994.json",
-      "sinif": "12",
-      "ders": "Tekstı̇lde Üretı̇m Takı̇bı̇",
       "kayit_sayisi": 42
     },
     {
@@ -9022,7 +9016,7 @@
     {
       "dosya": "grade_12_ucucu_yag_uretimi_ve_analizleri_1101.json",
       "sinif": "12",
-      "ders": "Uçucu Yağ Üretı̇mı̇ Ve Analı̇zlerı̇",
+      "ders": "Uçucu Yağ Üretimi Ve Analizleri",
       "kayit_sayisi": 42
     },
     {
@@ -9034,7 +9028,7 @@
     {
       "dosya": "grade_12_yangin_olay_yeri_inceleme_1857.json",
       "sinif": "12",
-      "ders": "Yangın Olay Yerı̇ İnceleme",
+      "ders": "Yangın Olay Yeri İnceleme",
       "kayit_sayisi": 42
     },
     {

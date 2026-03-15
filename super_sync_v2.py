@@ -18,26 +18,19 @@ if os.path.exists(OFF_PATH):
 
 import unicodedata
 
+def turkish_upper(text):
+    if not text: return ""
+    return text.replace('i', 'İ').replace('ı', 'I').upper()
+
+def turkish_lower(text):
+    if not text: return ""
+    return text.replace('İ', 'i').replace('I', 'ı').lower()
+
 def turkish_title(text):
     if not text: return ""
     def fix_word(w):
         if not w: return ""
-        # First character
-        f = w[0]
-        if f == 'i': f = 'İ'
-        elif f == 'ı': f = 'I'
-        else: f = f.upper()
-        
-        # Remaining characters
-        r = w[1:]
-        # Standard lower() results in "i" for "İ" and "i" for "I" in most locales
-        # We need to be specific for Turkish
-        r_fixed = ""
-        for char in r:
-            if char == 'İ': r_fixed += 'i'
-            elif char == 'I': r_fixed += 'ı'
-            else: r_fixed += char.lower()
-        return f + r_fixed
+        return turkish_upper(w[0]) + turkish_lower(w[1:])
     
     return " ".join(fix_word(w) for w in text.split())
 
@@ -71,7 +64,7 @@ def fix_lesson_name(name, grade, file_id):
     
     # 2. General restoration
     # Map back broken words to uppercase first for consistency
-    name = name.upper()
+    name = turkish_upper(name)
     for bad, good in RESTORATION_MAP.items():
         name = re.sub(r'\b' + re.escape(bad) + r'\b', good, name)
     
