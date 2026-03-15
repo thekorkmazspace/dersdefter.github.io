@@ -148,7 +148,8 @@ def run_sync():
     for target in [DATA_DIR, os.path.join(BASE_DIR, "data/json_planlar")]:
         if not os.path.exists(target): os.makedirs(target)
         for f in os.listdir(target):
-            if f.endswith(".json"): os.remove(os.path.join(target, f))
+            if f.endswith(".json") and f != "official_names.json":
+                os.remove(os.path.join(target, f))
         for f in os.listdir(SOURCE_DIR):
             shutil.copy2(os.path.join(SOURCE_DIR, f), target)
 
