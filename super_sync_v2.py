@@ -69,20 +69,35 @@ RESTORATION_MAP = {
 
 def deep_fix_name(name):
     # Fix character level corruption before mapping
-    # Common OCR/Conversion issue: i -> ı
-    # We only fix 'ı' in words that clearly should have 'i'
-    # High frequency words
     fixes = [
         (r'DıL', 'DİL'), (r'BıLG', 'BİLG'), (r'ıLETıS', 'İLETİŞ'),
         (r'ıNGıLıZ', 'İNGİLİZ'), (r'MATEMATıK', 'MATEMATİK'),
         (r'MuzıK', 'MÜZİK'), (r'BıRıNCı', 'BİRİNCİ'), (r'ıkıncı', 'İKİNCİ'),
-        (r'ııı', 'III'), (r'ıı', 'II'), (r'ı\.+kadem', 'I. Kademe'),
+        (r'ııı', 'III'), (r'ıı', 'II'), (r'ı\.+kademe', 'I. Kademe'),
         (r'maarıf', 'MAARİF'), (r'BECERı', 'BECERİ'), (r'SıSTEM', 'SİSTEM'),
         (r'SıNF', 'SINIF'), (r'EDEBıYAT', 'EDEBİYAT'), (r'eğıtım', 'EĞİTİM'),
-        (r'ıŞaret', 'İŞARET'), (r'ıletıŞım', 'İLETİŞİM')
+        (r'ıŞaret', 'İŞARET'), (r'ıletıŞım', 'İLETİŞİM'), (r'ıÇerık', 'İÇERİK'),
+        (r'ıle', 'İLE'), (r'etkınlık', 'ETKİNLİK'),
+        (r'ıbadet', 'İBADET'), (r'ınanc', 'İNANÇ'), (r'ıslam', 'İSLAM'),
+        (r'tıcaret', 'TİCARET'), (r'ısletme', 'İŞLETME'), (r'ıletısım', 'İLETİŞİM'),
+        (r'fızık', 'FİZİK'), (r'bıyolojı', 'BİYOLOJİ'), (r'kımya', 'KİMYA'),
+        (r'dzayn', 'DİZAYN'), (r'grafık', 'GRAFİK'), (r'resem', 'RESİM'),
+        (r'teknık', 'TEKNİK'), (r'hukukı', 'HUKUKİ'), (r'takplk', 'TAKİPÇİLİK'),
+        (r'clık', 'CILIK'), (r'clıgı', 'CILIĞI'), (r'atatrkclk', 'ATATÜRKÇÜLÜK'),
+        (r'osmanlı turkcesı', 'OSMANLI TÜRKÇESİ'), (r'inkılap tarıh', 'İNKILAP TARİHİ'),
+        (r'termınolojı', 'TERMİNOLOJİ'), (r'haberlesme', 'HABERLEŞME'),
+        (r'emnyet', 'EMNİYET'), (r'uretımı', 'ÜRETİMİ'), (r'gıysı', 'GİYSİ'),
+        (r'teknolojı', 'TEKNOLOJİ'), (r'sıstemlerı', 'SİSTEMLERİ'), (r'teknyen', 'TEKNİSYEN'),
+        (r'ahılık', 'AHİLİK'), (r'abıyee', 'ABİYE'), (r'abıye', 'ABİYE'),
+        (r'ıscılıgı', 'İŞÇİLİĞİ'), (r'ıscı', 'İŞÇİ'), (r'ısnın', 'İŞİNİN'),
+        (r'sanatlar', 'SANATLAR'), (r'turk_cesı', 'TÜRKÇESİ')
     ]
     
-    # Case insensitive base fix
+    # Selective high-confidence replacements for corrupted suffixes
+    # Only if not preceded by 'Hazırl' 'Sın' 'Bak' 'Anlat' 'Yap' 'Yaz'
+    # Actually, let's stick to the word list for now to be safe, but more expanded.
+    
+    # Apply word-based fixes
     for bad, good in fixes:
         name = re.sub(bad, good, name, flags=re.IGNORECASE)
         
