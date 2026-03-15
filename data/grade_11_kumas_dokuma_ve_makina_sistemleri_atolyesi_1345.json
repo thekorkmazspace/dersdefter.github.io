@@ -1,0 +1,374 @@
+{
+  "sinif": "11",
+  "ders": "Kumaş Dokuma Ve Makı̇na Sı̇stemlerı̇ Atölyesı̇",
+  "plan": [
+    {
+      "ÜNİTE": "İş Bağlama",
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "9",
+      "KONU": "1. Dokuma makinesinde tip değişimi yeni iş bağlama yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "İş ve bakım talimatına uygun olarak dokuma makinesinde tip değişimi yeni iş bağlama yapar.\nTip değişimi tanımlatılır.\n       Tip değişimi sırasında yapılan işlem ve ayarları kavratılır.\n       Tip değişimi sırasında dikkat edilecek hususları açıklatılır."
+    },
+    {
+      "ÜNİTE": "İş Bağlama",
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "9",
+      "KONU": "2. Dokuma makinesine ulama ile iş bağlamak",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "İş ve bakım talimatına uygun olarak dokuma makinesine ulama ile iş bağlar.\nDüğüm sehpası tanımlatılır.\n       Düğüm sehpasının parçaları sıralattırılır.\n       Düğüm sehpasının görevi açıklatılır.\n       Düğüm makinesinin çalışma prensibi açıklatılır.\n       Düğümleme sırasında dikkat edilecek hususlar kavratılır."
+    },
+    {
+      "ÜNİTE": "Düz Kumaş Dokuma",
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "9",
+      "KONU": "1. Eksantrikli dokuma makinelerinde kumaş dokumak",
+      "KAZANIM": "İş talimatına uygun olarak eksantrikli dokuma makinesinde kumaş dokur.\nEksantrikli dokuma makineleri tanımlatılır.\n       Eksantrikli dokuma makinelerinin kullanım alanları açıklatılır.\n       Eksantrikli dokuma makinelerinin çalışma prensibi kavratılır.\n       Dokunacak örgüye göre eksantrik plakalarının hazırlanmasının gerekliliği kavratılır.\n       Eksantrikli dokuma makinelerinde kumaş dokumak için gerekli ayarlar açıklatılır.\n       Dokuma sırasında dokunan kumaşın kontrolünü yapmanın önemi açıklatılır.\n     Dokuma makinesinden kumaş alma işlemi açıklatılır."
+    },
+    {
+      "ÜNİTE": "Düz Kumaş Dokuma",
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "9",
+      "KONU": "1. Eksantrikli dokuma makinelerinde kumaş dokumak",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "İş talimatına uygun olarak eksantrikli dokuma makinesinde kumaş dokur.\nEksantrikli dokuma makineleri tanımlatılır.\n       Eksantrikli dokuma makinelerinin kullanım alanları açıklatılır.\n       Eksantrikli dokuma makinelerinin çalışma prensibi kavratılır.\n       Dokunacak örgüye göre eksantrik plakalarının hazırlanmasının gerekliliği kavratılır.\n       Eksantrikli dokuma makinelerinde kumaş dokumak için gerekli ayarlar açıklatılır.\n       Dokuma sırasında dokunan kumaşın kontrolünü yapmanın önemi açıklatılır.\n     Dokuma makinesinden kumaş alma işlemi açıklatılır."
+    },
+    {
+      "ÜNİTE": "Düz Kumaş Dokuma",
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "9",
+      "KONU": "2. Armürlü dokuma makinelerinde kumaş dokumak",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "İş talimatına uygun olarak armürlü dokuma makinesinde kumaş dokur.\nArmürlü dokuma makineleri tanımlatılır.\n       Armürlü dokuma makinelerinin kullanım alanları açıklatılır.\n       Armürlü dokuma makinelerinin çalışma prensibi kavratılır.\n       Armürlü dokuma makinelerinde kumaş dokumak için gerekli ayarlar açıklatılır.\n       Dokuma sırasında dokunan kumaşın kontrolünün yapılmasının önemi açıklatılır.\n       Dokuma makinesinde kumaş dokuma işlemi kavratılır."
+    },
+    {
+      "ÜNİTE": "Düz Kumaş Dokuma",
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "9",
+      "KONU": "2. Armürlü dokuma makinelerinde kumaş dokumak",
+      "KAZANIM": "İş talimatına uygun olarak armürlü dokuma makinesinde kumaş dokur.\nArmürlü dokuma makineleri tanımlatılır.\n       Armürlü dokuma makinelerinin kullanım alanları açıklatılır.\n       Armürlü dokuma makinelerinin çalışma prensibi kavratılır.\n       Armürlü dokuma makinelerinde kumaş dokumak için gerekli ayarlar açıklatılır.\n       Dokuma sırasında dokunan kumaşın kontrolünün yapılmasının önemi açıklatılır.\n       Dokuma makinesinde kumaş dokuma işlemi kavratılır."
+    },
+    {
+      "ÜNİTE": "Düz Kumaş Dokuma",
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "9",
+      "KONU": "3. Jakarda tahar malyon dizimleri yapmak",
+      "KAZANIM": "İş talimatına uygun olarak jakarlı dokuma makinesinde tahar yapar.\nJakar hesapları açıklatılır.\n       Malyon ipliği sayısını bulma kavratılır.\n       Alt harnıç delik sayısını hesaplama işlemi kavratılır.\n       Çengellere takılacak Malyon ipliği sayısının hesaplaması kavratılır.\n     Jakarda yapılacak diğer hesaplar kavratılır.\n     Düz jakar dizimi ve gerekli ayarlarını yapmayı açıklatılır.\n     Simetrik jakar dizimi ve gerekli ayarlarını yapmayı açıklatılır."
+    },
+    {
+      "ÜNİTE": "Düz Kumaş Dokuma",
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "9",
+      "KONU": "3. Jakarda tahar malyon dizimleri yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "İş talimatına uygun olarak jakarlı dokuma makinesinde tahar yapar.\nJakar hesapları açıklatılır.\n       Malyon ipliği sayısını bulma kavratılır.\n       Alt harnıç delik sayısını hesaplama işlemi kavratılır.\n       Çengellere takılacak Malyon ipliği sayısının hesaplaması kavratılır.\n     Jakarda yapılacak diğer hesaplar kavratılır.\n     Düz jakar dizimi ve gerekli ayarlarını yapmayı açıklatılır.\n     Simetrik jakar dizimi ve gerekli ayarlarını yapmayı açıklatılır."
+    },
+    {
+      "ÜNİTE": "Düz Kumaş Dokuma",
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "9",
+      "KONU": "4. Jakarlı kumaş dokumak",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav  İş talimatına uygun olarak jakarlı dokuma makinesinde kumaş dokur.\nJakarlı dokuma makinesi tanımlatılır.\n       Jakarlı dokuma makinesinin kullanım alanları açıklatılır.\n       Jakarlı dokuma makinesinin çalışma prensibi kavratılır.\n       Kumaş dokumak için gerekli ayarları yapmanın önemi açıklatılır.\n       Jakarlı kumaş dokurken kumaş kontrolü yapmanın önemi açıklatılır."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "9",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Düz Kumaş Dokuma",
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "9",
+      "KONU": "4. Jakarlı kumaş dokumak",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "İş talimatına uygun olarak jakarlı dokuma makinesinde kumaş dokur.\nJakarlı dokuma makinesi tanımlatılır.\n       Jakarlı dokuma makinesinin kullanım alanları açıklatılır.\n       Jakarlı dokuma makinesinin çalışma prensibi kavratılır.\n       Kumaş dokumak için gerekli ayarları yapmanın önemi açıklatılır.\n       Jakarlı kumaş dokurken kumaş kontrolü yapmanın önemi açıklatılır."
+    },
+    {
+      "ÜNİTE": "Kumaş Hatalarının Tespiti",
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "9",
+      "KONU": "1. İplikten kaynaklanan hataları ayırt etmek  2. Dokuma hazırlıktan kaynaklanan hataları ayırt etmek  3. Dokuma sırasında oluşan hataları ayırt etmek",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "İplikten kaynaklanan hataları kumaş üzerinde ayırt eder.\n Dokuma hazırlıktan kaynaklanan hataları kumaş üzerinde ayırt eder.\n Dokuma sırasında kaynaklanan hataları kumaş üzerinde ayırt eder.\nİnce-kalın atkı hatası kavratılır.\n       Nope hatası kavratılır.\n       Uçuntu hatası kavratılır.\n       Farklı büküm hatası kavratılır.\n       Düğüm hatası kavratılır.\n       Kıvırcık ip hatası kavratılır.\n       Balık hatası kavratılır.\n       Punta izi hatası kavratılır.\n       Gergin-gevşek çözgü açıklatılır.\n       Çözgü bandı hatası açıklatılır.\n       Tahar hatası açıklatılır.\n       Gergin-gevşek kenarı tanımlatılır.\n       Eksik çözgü tanımlatılır.\n       Çözgü kopuğu hatası açıklatılır.\n       Atkı kaçığı hatası açıklatılır.\n       Çift atkı hatası açıklatılır.\n       Kafes hatası açıklatılır.\n       Duruş izi hatası açıklatılır.\n       Cımbar izi hatası açıklatılır.\n       Tarak izi hatası açıklatılır.\n       Tahar hatası açıklatılır."
+    },
+    {
+      "ÜNİTE": "Üretim Hesapları",
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "9",
+      "KONU": "1.   Makinede hammadde miktarı hesaplamak  2.   Makinede üretim hesabını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Formülleri kullanarak numune kumaşa göre hammadde miktarını hesaplar.\n Verilen değer ve formülleri kullanarak üretilecek kumaşa göre üretim miktarını hesaplar.\nÇözgü ağırlığının hesaplanması kavratılır.\n       Atkı ağırlığının hesaplaması kavratılır.\n       Ham kumaş ağırlığının hesaplaması kavratılır.\n       Tahar makinesi tanımlatılır.\n       Tahar makinesinin çalışma prensibi açıklatılır.\n       Makine ile yapılan tahar için kullanılan malzemeleri listeler.\n       Tahar makinesinin günlük bakımında yapılması gerekenleri sıralar."
+    },
+    {
+      "ÜNİTE": "Havlu Kumaş Dokuma",
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "9",
+      "KONU": "1.   Tefenin değişik kurs hareketiyle havlu kumaş dokumak",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "İş talimatına uygun olarak havlu dokuma makinesinde tefenin değişik kurs hareketleriyle havlu kumaş dokur.\nHavlu dokuma makinesi tanımlatılır.\n       Havlu dokuma makinesinin özellikleri açıklatılır.\n       Hav oluşturmak için dokuma makinesine ilave edilen parçalar seçtirilir.\n       Havluda tahar yapma açıklatılır.\n       Tefenin değişik kurs hareketiyle hav oluşturması kavratılır.\n       Tefeye ilave edilen parçaların ayarlanması açıklatılır.\n       Tefenin periyodik kurs farkının ayarlanması açıklatılır.\n       Dokuma eninde birden fazla kumaş dokunuyor ise kesme makaslarının ayarlanması kavratılır.\n       Tefenin değişik kursuyla hav oluşturma sistemlerinin bakım ve ayarlarını yapması kavratılır."
+    },
+    {
+      "ÜNİTE": "Havlu Kumaş Dokuma",
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "9",
+      "KONU": "2.   Kumaş ve çözgü köprüsünün  hareketini değiştirerek havlu kumaş dokumak",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "İş talimatına uygun olarak havlu dokuma makinesinde kumaş ve çözgü köprüsünün hareketini değiştirerek havlu kumaş dokur.\nKumaş ve çözgü köprüsüne ilave edilen parçaların ayarlanması kavratılır.\n       Tefenin periyodik kurs farkının ayarlanması açıklatılır.\n       Dokuma eninde birden fazla kumaş dokunuyor ise kesme makaslarının ayarlanması kavratılır.\n       Kumaş ve çözgü köprüsünün hareketini değiştirerek hav oluşturma sistemlerinin bakım ve ayarlarının yapılması kavratılır."
+    },
+    {
+      "ÜNİTE": "Kadife Kumaş Dokuma",
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "9",
+      "KONU": "1.   Atkı kadife kumaş dokumak  2.   Tek katlı çözgü kadife epegle kumaş dokumak",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "İş talimatına göre kord kumaştan atkı kadifesi elde etme tekniklerini kullanarak atkı kadife kumaş dokur.\n İş talimatına göre tek katlı şişli çözgü kadife epegle kumaş dokuma sisteminin bakım ve ayarlarını yaparak tek katlı çözgü kadife kumaş dokur.\nKadifenin özellikleri açıklatılır.\n       Kadifenin kullanım alanları açıklatılır.\n       Kadife elde etme teknikleri tanımlatılır.\n       Atkı kadife elde etme tekniği kavratılır.\n       Çözgü kadife elde etme tekniği kavratılır.\n       Atkı Kadife kumaş dokuma tanımlatılır.\n       Kord örgülü kumaş dokuma açıklatılır.\n       Kord kumaştan atkı kadifesi elde etme açıklatılır.\n       Atkı kadife elde etme sisteminin bakım ve ayarlarının yapılması kavratılır.\n       Tek katlı şişli kadife kumaş dokuma açıklatılır.\n       Hav ve zemin çözgülerin ayrı leventlere sarılmasının önemi kavratılır.\n       Hav yüksekliğinin belirlenmesi açıklatılır.\n       Hav ve zemin çözgü ipliklerinin taharlanması kavratılır.\n       Tek katlı şişli çözgü kadife epegle kumaş dokuma sisteminin bakım ve ayarlarının yapılması kavratılır."
+    },
+    {
+      "ÜNİTE": "Makinede Halı Dokuma",
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "9",
+      "KONU": "1.   Halı makinesini işe hazırlamak  2.   Halı makinesinde halı dokumak",
+      "KAZANIM": "İş talimatına göre hav ipliklerini cağlığa dizerek hav yükseklik ayarını yapar.\n İş talimatına uygun olarak halı makinesinde wilton ve axmister tipi halı dokur.\nHav ipliklerini cağlığa dizilmesi kavratılır.\n       Hav ipliklerinin taharını yapması kavratılır.\n       Hav yükseklik ayarını yapması kavratılır.\n       Hav   ipliklerini   cağlığa   dizme   ve   hav   yükseklik ayarını  yapma  sırasında  dikkat  edilmesi  gereken hususlar açıklatılır.\n       Halı dokuma makinesi tanımlatılır.\n       Halı dokuma makinelerinin özellikleri kavratılır.\n       Halı dokuma makinelerinin ana sistemleri ve çalışma prensibi açıklatılır.\n       Halı dokuma makinelerinde hav oluşturma sistemleri açıklatılır.\n       Wilton tipi halı hav oluşturulması kavratılır.\n       Axminster tipi halı hav oluşturulması kavratılır."
+    },
+    {
+      "ÜNİTE": "Yuvarlak Hortum Dokuma",
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "9",
+      "KONU": "1.   Yuvarlak hortum dokuma makinesini işe hazırlamak  2.   Yuvarlak hortum dokuma makinesinde kumaş dokumak",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav  İş talimatına göre yuvarlak dokuma makinesinde çözgü hazırlayarak tahar yapar.\n İş talimatına uygun olarak yuvarlak dokuma makinesinde kumaş dokur.\nYuvarlak hortum dokuma makinesi tanımlatılır.\n       Yuvarlak hortum dokuma makinesinin özellikleri açıklatılır.\n       Yuvarlak hortum dokuma makinesinin kullanım alanları kavratılır.\n       Yuvarlak dokuma makinesinin kısımları kavratılır.\n       Yuvarlak dokuma makinesinin çalışma prensibi açıklatılır.\n       Yuvarlak dokuma makinesinde üretim hesapları kavratılır.\n       Yuvarlak dokuma makinesinde çözgü hazırlanması kavratılır.\n       Yuvarlak dokuma makinesinde çözgü taharının yapılması kavratılır.\n       Çözgü hazırlama ve tahar yapma sırasında dikkat edilecek hususlar kavratılır.\n       Yuvarlak dokuma makinesinin kısımları açıklatılır.\n       Yuvarlak dokuma makinesinin çalışma şekli kavratılır.\n       Yuvarlak dokuma makinesinde yapılan bakım ve ayarlar kavratılır.\n       Yuvarlak dokuma makinesinde yapılan bakım ve ayarlar sırasında dikkat edilecek hususlar açıklatılır.\n       Yuvarlak hortum kumaş dokuma sırasında yapılan kontroller açıklatılır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "9",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Dar Dokuma",
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "9",
+      "KONU": "2.   Dar dokuma makinesinde kumaş dokumak",
+      "KAZANIM": "İş  talimatına  göre  yatakların  bakım  ve  ayarlarını yaparak kumaş dokur.\nDar dokuma makinelerinin ana sistemleri açıklatılır.\n       Dar    dokuma    makinelerinin    çalışma    prensibi kavratılır.\n       Dar dokuma makinesinde kumaş dokuma sırasında kumaş kontrolünün yapılması kavratılır.\n       Dar dokuma makinesinde yapılan bakım ve ayarlar açıklatılır.\n       Dar dokuma makinesinde yapılan bakım ve ayarlar sırasında dikkat edilecek hususlar kavratılır."
+    },
+    {
+      "ÜNİTE": "Leno Çapraz Dokuma",
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "9",
+      "KONU": "1.   Leno çapraz dokuma makinesini işe hazırlamak  2.   Leno çapraz dokuma makinesinde kumaş dokumak",
+      "KAZANIM": "İş talimatına uygun olarak leno çapraz dokuma makinesini işe hazırlar.\n İş sağlığı ve güvenliği kuralları ile iş talimatına göre leno çapraz dokuma makinesinin ayarlarını yaparak kumaş dokur.\nLeno çapraz dokuması tanımlatılır.\n       Leno çapraz dokumanın çeşitleri kavratılır.\n       Leno çapraz dokumanın kullanım alanları kavratılır.\n       Leno çapraz dokuma çözgü hesaplamalarının yapılması kavratılır.\n       Leno çapraz dokuma için çözgü hazırlama açıklatılır.\n       Leno çapraz dokuma makinelerinin ana sistemleri tanımlatılır.\n       Leno çapraz dokuma makinelerinin ana sistemleri ve çalışma prensibi açıklatılır.\n       Leno çapraz dokuma makinesinde kumaş dokuma sırasında kumaşın kontrolünün yapılması kavratılır.\n       Leno çapraz dokuma makinesinde yapılan bakım ve ayarlar kavratılır.\n       Leno çapraz dokuma makinesinde yapılan bakım ve ayarlar sırasında dikkat edilecek hususlar kavratılır."
+    },
+    {
+      "ÜNİTE": "Eksantrikli Ağızlık Açma Sisteminin Bakım ve Ayarları",
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "9",
+      "KONU": "1.   İçten ve Dıştan Eksantrik mekanizmasının periyodik bakımını yapmak",
+      "KAZANIM": "İçten ve Dıştan Eksantrik mekanizmasının periyodik bakımını yapar.\nİçten ve Dıştan Eksantrikli dokuma makinesinin periyodik bakımı için gerekli malzemeler seçtirilir.\n       İçten ve Dıştan Eksantrikli dokuma makinesinin periyodik bakımı yaptırılır."
+    },
+    {
+      "ÜNİTE": "Eksantrikli Ağızlık Açma Sisteminin Bakım ve Ayarları",
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "9",
+      "KONU": "2.   İçten ve Dıştan Eksantrik mekanizmasının genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "İçten ve Dıştan Eksantrik mekanizmasının genel ayarlarını yapar.\nİçten ve Dıştan Eksantrikli dokuma makinesinin genel ayarları için gerekli malzemeler seçtirilir.\n       İçten ve Dıştan Eksantrikli dokuma makinesinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Armürlü Ağızlık Açma Sisteminin Bakım ve Ayarları",
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "9",
+      "KONU": "1.   Elektronik ve Mekanik Armür mekanizmasının periyodik bakımını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Elektronik ve Mekanik Armür mekanizmasının periyodik bakımını yapar.\nElektronik ve Mekanik Armürlü dokuma makinesinin\n       Elektronik ve Mekanik Armürlü dokuma makinesinin periyodik bakımı yaptırılır."
+    },
+    {
+      "ÜNİTE": "Armürlü Ağızlık Açma Sisteminin Bakım ve Ayarları",
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "9",
+      "KONU": "1.   Elektronik ve Mekanik Armür mekanizmasının periyodik bakımını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "Elektronik ve Mekanik Armür mekanizmasının periyodik bakımını yapar.\nElektronik ve Mekanik Armürlü dokuma makinesinin\n       Elektronik ve Mekanik Armürlü dokuma makinesinin periyodik bakımı yaptırılır."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "9",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "ÜNİTE": "Armürlü Ağızlık Açma Sisteminin Bakım ve Ayarları",
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "9",
+      "KONU": "2.   Elektronik ve Mekanik Armür mekanizmasının genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "Elektronik ve Mekanik Armür mekanizmasının genel ayarlarını yapar.\nElektronik ve Mekanik Armürlü dokuma makinesinin genel ayarları için gerekli malzemeler seçtirilir.\n       Elektronik ve Mekanik Armürlü dokuma makinesinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Armürlü Ağızlık Açma Sisteminin Bakım ve Ayarları",
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "9",
+      "KONU": "2.   Elektronik ve Mekanik Armür mekanizmasının genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Elektronik ve Mekanik Armür mekanizmasının genel ayarlarını yapar.\nElektronik ve Mekanik Armürlü dokuma makinesinin genel ayarları için gerekli malzemeler seçtirilir.\n       Elektronik ve Mekanik Armürlü dokuma makinesinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Jakarlı Ağızlık Açma Sisteminin Bakım ve Ayarları",
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "9",
+      "KONU": "1.   Mekanik ve Elektronik Jakar mekanizması nın periyodik bakımını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav  Mekanik ve Elektronik Jakar mekanizmasının periyodik bakımını yapar.\nMekanik ve Elektronik Jakar dokuma makinesinin periyodik bakımı için gerekli malzemeler seçtirilir.\n       Mekanik ve Elektronik Jakar dokuma makinesinin periyodik bakımı yaptırılır."
+    },
+    {
+      "ÜNİTE": "Jakarlı Ağızlık Açma Sisteminin Bakım ve Ayarları",
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "9",
+      "KONU": "2.   Mekanik ve Elektronik Jakar mekanizmasının genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Mekanik ve Elektronik Jakar mekanizmasının genel ayarlarını yapar.\nMekanik ve Elektronik Jakar dokuma makinesinin genel ayarları için gerekli malzemeler seçtirilir.\n       Mekanik ve Elektronik Jakar dokuma makinesinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Mekikli Atkı Atma Sisteminin Bakım ve Ayarları",
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "9",
+      "KONU": "1.   Mekikli dokuma makinesinin periyodik bakımını yapmak  2.   Mekikli dokuma makinesinin genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Mekikli dokuma makinesinin periyodik bakımını yapar.\n Mekikli dokuma makinesinin genel ayarlarını yapar.\nMekikli dokuma makinesinin periyodik bakımı için gerekli malzemeler seçtirilir.\n       Mekikli dokuma makinesinin periyodik bakımı yaptırılır.\n       Mekikli dokuma makinesinin genel ayarları için gerekli malzemeler seçtirilir.\n       Mekikli dokuma makinesinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Mekikcikli Atkı Atma Sisteminin Bakım ve Ayarları",
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "9",
+      "KONU": "1.   Mekikçikli dokuma makinesinin periyodik bakımını yapmak  2.   Mekikçikli dokuma makinesinin genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Mekikçikli dokuma makinesinin periyodik bakımını yapar.\n Mekikçikli dokuma makinesinin genel ayarlarını yapar.\nMekikçikli dokuma periyodik bakımı için gerekli malzemeler seçtirilir.\n       Mekikçikli dokuma makinesinin periyodik bakımı yaptırılır.\n       Mekikçikli dokuma makinesinin genel ayarları için gerekli malzemeler seçtirilir.\n       Mekikçikli dokuma makinesinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Kancalı Atkı Atma Sisteminin Bakım ve Ayarları",
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "9",
+      "KONU": "1.   Esnek ve Sert bantlı kancalı atkı atma sistemlerinin periyodik bakımını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Esnek ve Sert bantlı kancalı atkı atma sistemlerinin periyodik bakımını yapar.\nEsnek ve Sert bantlı kancalı atkı atma sistemlerinin periyodik bakımı için gerekli malzemeler seçtirilir.\n       Esnek ve Sert bantlı kancalı atkı atma sistemlerinin periyodik bakımı yaptırılır."
+    },
+    {
+      "ÜNİTE": "Kancalı Atkı Atma Sisteminin Bakım ve Ayarları",
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "9",
+      "KONU": "1.   Esnek ve Sert bantlı kancalı atkı atma sistemlerinin periyodik bakımını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Esnek ve Sert bantlı kancalı atkı atma sistemlerinin periyodik bakımını yapar.\nEsnek ve Sert bantlı kancalı atkı atma sistemlerinin periyodik bakımı için gerekli malzemeler seçtirilir.\n       Esnek ve Sert bantlı kancalı atkı atma sistemlerinin periyodik bakımı yaptırılır."
+    },
+    {
+      "ÜNİTE": "Kancalı Atkı Atma Sisteminin Bakım ve Ayarları",
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "9",
+      "KONU": "2.   Esnek ve Sert bantlı kancalı atkı atma sistemlerinin genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Esnek ve Sert bantlı kancalı atkı atma sistemlerinin genel ayarlarını yapar.\nEsnek ve Sert bantlı kancalı atkı atma sistemlerinin genel ayarları için gerekli malzemeler seçtirilir.\n       Esnek ve Sert bantlı kancalı atkı atma sistemlerinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Kancalı Atkı Atma Sisteminin Bakım ve Ayarları",
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "9",
+      "KONU": "2.   Esnek ve Sert bantlı kancalı atkı atma sistemlerinin genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Esnek ve Sert bantlı kancalı atkı atma sistemlerinin genel ayarlarını yapar.\nEsnek ve Sert bantlı kancalı atkı atma sistemlerinin genel ayarları için gerekli malzemeler seçtirilir.\n       Esnek ve Sert bantlı kancalı atkı atma sistemlerinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Hava Jetli Atkı Atma Sisteminin Bakım ve Ayarları",
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "9",
+      "KONU": "1.  Hava jetli atkı atma sistemlerinin periyodik bakımını yapmak  2.  Hava jetli atkı atma sistemlerinin genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav  Hava jetli atkı atma sistemlerinin periyodik bakımını yapar.\n Hava jetli atkı atma sistemlerinin genel ayarlarını yapar.\nHava jetli atkı atma sistemlerinin periyodik bakımı için gerekli malzemeler seçtirilir.\n       Hava jetli atkı atma sistemlerinin periyodik bakımı yaptırılır.\n       Hava jetli atkı atma sistemlerinin genel ayarları için gerekli malzemeler seçtirilir.\n       Hava jetli atkı atma sistemlerinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Su Jetli Atkı Atma Sisteminin Bakım ve Ayarları",
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "9",
+      "KONU": "1.   Su jetli atkı atma sistemlerinin periyodik bakımını yapmak  2.   Su jetli atkı atma sistemlerinin genel ayarlarını yapmak",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Su jetli atkı atma sistemlerinin periyodik bakımını yapar.\n Su jetli atkı atma sistemlerinin genel ayarlarını yapar.\nSu jetli atkı atma sistemlerinin periyodik bakımı için gerekli malzemeler seçtirilir.\n       Su jetli atkı atma sistemlerinin periyodik bakımı yaptırılır.\n       Su jetli atkı atma sistemlerinin genel ayarları için gerekli malzemeler seçtirilir.\n       Su jetli atkı atma sistemlerinin genel ayarları yaptırılır."
+    },
+    {
+      "ÜNİTE": "Genel Tekrar",
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "9",
+      "KONU": "Genel Tekrar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Genel Tekrar"
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "9",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

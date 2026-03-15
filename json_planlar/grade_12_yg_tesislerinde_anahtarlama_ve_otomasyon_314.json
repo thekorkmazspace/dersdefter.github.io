@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "Yg Tesıslerınde Anahtarlama Ve Otomasyon",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ METAL MUHAFAZALI MODÜLER HÜCRELER\n1. Metal Muhafazalı Modüler Hücrelerin MMMH Bölümleri ve Donanımları \nDemokrasinin önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Metal muhafazalı modüler hücrelerin MMMH bölümlerini ve donanımlarını açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "2. Metal Muhafazalı Modüler Hücrelerin MMMH Yerine Montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Metal muhafazalı modüler hücrelerin yerine montajını yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "3. Metal Muhafazalı Modüler Hücre MMMH Bağlantıları",
+      "KAZANIM": "Metal muhafazalı modüler hücre bağlantılarını yapar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "Uygulama 1 Metal muhafazalı modüler hücrelerin iç aydınlatma bakım onarımını yapma.\nUygulama 2 Metal muhafazalı modüler hücrelerde sigorta değişimi yapma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Metal muhafazalı modüler hücrelerin MMMH bölümlerini ve donanımlarını açıklar.\nMetal muhafazalı modüler hücrelerin yerine montajını yapar.\nMetal muhafazalı modüler hücre bağlantılarını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "Uygulama 3 Metal muhafazalı modüler hücrelerin kapak emniyet siviçlerinin kontrol ve değişimi.\nUygulama 4 Metal muhafazalı modüler hücrelerde manevra uygulamaları.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Metal muhafazalı modüler hücrelerin MMMH bölümlerini ve donanımlarını açıklar.\nMetal muhafazalı modüler hücrelerin yerine montajını yapar.\nMetal muhafazalı modüler hücre bağlantılarını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "Uygulama 5 Metal muhafazalı modüler hücrelerde koruma röleleri ve bunlara ait ikazları açıklama.\nUygulama 6 Metal muhafazalı modüler hücrelerde bara akımının ölçülmesi",
+      "KAZANIM": "Metal muhafazalı modüler hücrelerin MMMH bölümlerini ve donanımlarını açıklar.\nMetal muhafazalı modüler hücrelerin yerine montajını yapar.\nMetal muhafazalı modüler hücre bağlantılarını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "Uygulama 7 Metal muhafazalı modüler hücrelerde bara sıcaklığının endirekt ölçülmesi\nUygulama 8 Metal muhafazalı modüler hücrelerde meğer ile izolasyon testinin yapılması \nAtatürkün Cumhuriyetçilik İlkesi",
+      "KAZANIM": "Metal muhafazalı modüler hücrelerin MMMH bölümlerini ve donanımlarını açıklar.\nMetal muhafazalı modüler hücrelerin yerine montajını yapar.\nMetal muhafazalı modüler hücre bağlantılarını yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "Uygulama 9 Metal muhafazalı modüler hücrelerde meğer ile izolasyon testinin yapılması \n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Metal muhafazalı modüler hücrelerin MMMH bölümlerini ve donanımlarını açıklar.\nMetal muhafazalı modüler hücrelerin yerine montajını yapar.\nMetal muhafazalı modüler hücre bağlantılarını yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ YG ŞALT SAHALARI VE KUMANDA PANOLARI\n1. Şalt Sahaları ve Donanımları \nAtatürkün eğitime ve bilime verdiği önem",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Şalt sahaların çeşitlerini ve donanımlarını açıklar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "1. Şalt Sahaları ve Donanımları\n2. YG Kumanda Panoları ve Donanımları",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Şalt sahaların çeşitlerini ve donanımlarını açıklar.\nYG kumanda panolarının yapısını ve donanımlarını açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "2. YG Kumanda Panoları ve Donanımları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "YG kumanda panolarının yapısını ve donanımlarını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "Uygulama 1 Şalt sahası kumanda panosu üzerinden uzaktan kumanda biriminden açma kapama manevrası yapma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Şalt sahaların çeşitlerini ve donanımlarını açıklar.\nYG kumanda panolarının yapısını ve donanımlarını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "Uygulama 2 Şalt sahası içi kumanda panosundan açma kapama manevrası yapma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Şalt sahaların çeşitlerini ve donanımlarını açıklar.\nYG kumanda panolarının yapısını ve donanımlarını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "Uygulama 3 Şalt sahası içi kumanda panosundan manuel olarak ayırıcıya açma kapama manevrası yapma.",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Şalt sahaların çeşitlerini ve donanımlarını açıklar.\nYG kumanda panolarının yapısını ve donanımlarını açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ YG TESİSLERİNDE DC KAYNAKLAR VE KULLANIM YERLERİ\n1. YG Tesislerinde DA Güç Kaynakları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "YG tesislerinde DA güç kaynaklarının bakımını ve onarımını yapar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "2. YG Tesislerinde DA Motorları \n1.Dönem 2.Sınav",
+      "KAZANIM": "YG tesislerinde DA motorların bağlantısını bakımını onarımını yapar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "Uygulama 1 Bakımlı akülerde akü yoğunluğunun Bome ölçümü.",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav YG tesislerinde DA güç kaynaklarının bakımını ve onarımını yapar.\nYG tesislerinde DA motorların bağlantısını bakımını onarımını yapar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "Uygulama 2 Bakımlı akülerde saf su ve asit ilavesi.",
+      "KAZANIM": "YG tesislerinde DA güç kaynaklarının bakımını ve onarımını yapar.\nYG tesislerinde DA motorların bağlantısını bakımını onarımını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "Uygulama 3 Akü değişimi yapma\nUygulama 4 Akülerin seri bağlantısı.",
+      "KAZANIM": "YG tesislerinde DA güç kaynaklarının bakımını ve onarımını yapar.\nYG tesislerinde DA motorların bağlantısını bakımını onarımını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "Uygulama 5 Akülerin redresöre bağlanarak şarj edilmesi.\nUygulama 6 Elektrik kesintilerinde akü grubu ile acil aydınlatma yapılması.",
+      "KAZANIM": "YG tesislerinde DA güç kaynaklarının bakımını ve onarımını yapar.\nYG tesislerinde DA motorların bağlantısını bakımını onarımını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ YG SİGORTALAR\n1. YG Sigortaların Yapısı ve Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "YG sigortaların yapısını ve çeşitlerini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "1. YG Sigortaların Yapısı ve Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "YG sigortaların yapısını ve çeşitlerini açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "2. YG Sigorta Montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "YG sigortalarının montajını yapar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "3. YG Sigorta Değişimi",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "YG sigortaların değişimini yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "Uygulama 1 YG sigorta etiket bilgilerini okuma \nAtatürkün vatan ve millet sevgisi",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "YG sigortaların yapısını ve çeşitlerini açıklar.\nYG sigortalarının montajını yapar.\nYG sigortaların değişimini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "Uygulama 2 YG sigorta montajı \n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav YG sigortaların yapısını ve çeşitlerini açıklar.\nYG sigortalarının montajını yapar.\nYG sigortaların değişimini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "Uygulama 2 YG sigorta montajı",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "YG sigortaların yapısını ve çeşitlerini açıklar.\nYG sigortalarının montajını yapar.\nYG sigortaların değişimini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "Uygulama 3 YG sigortaların izole sigorta sökme pensi ile değiştirilmesi.",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "YG sigortaların yapısını ve çeşitlerini açıklar.\nYG sigortalarının montajını yapar.\nYG sigortaların değişimini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "ÖĞRENME BİRİMİ KURANPORTÖR VE SCADA SİSTEMLERİ\n1. Kuranportör Sistemleri \nÇocuk insan sevgisi ve evrensellik",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Kuranportör sistemlerinin bakımını ve onarımını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "1. Kuranportör Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Kuranportör sistemlerinin bakımını ve onarımını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "2. Network Ağ Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Network ağ sistemlerini kurar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "2. Network Ağ Sistemleri \nAtatürkçü düşüncede yer alan temel fikirler",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Network ağ sistemlerini kurar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "3. SCADA Sistemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "SCADA sistemlerini kullanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "3. SCADA Sistemleri \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav SCADA sistemlerini kullanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "Uygulama 1 5li yıldız topoloji ağ kurulumu.",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Kuranportör sistemlerinin bakımını ve onarımını yapar.\nNetwork ağ sistemlerini kurar.\nSCADA sistemlerini kullanır."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "Uygulama 2 Simülasyon programı ile sistem elemanlarının kontrolü",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Kuranportör sistemlerinin bakımını ve onarımını yapar.\nNetwork ağ sistemlerini kurar.\nSCADA sistemlerini kullanır."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}

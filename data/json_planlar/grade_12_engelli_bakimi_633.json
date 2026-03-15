@@ -1,0 +1,338 @@
+{
+  "sinif": "12",
+  "ders": "Engellı Bakımı",
+  "plan": [
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "1. Hafta:\n08-12 Eylül",
+      "SAAT": "4",
+      "KONU": "1. ENGELLİLERDE ENGEL TÜRÜNE GÖRE BAKIM HİZMETLERİ\n1.1. Engel Tespiti\n1.1.1. Kişinin Engel Durumunun Belirlenmesinde İlgili MESLEKİ Elemanlarıyla İş Birliği \n1.1.1.1. Bireyin Engel Durumunun Tespiti",
+      "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
+      "KAZANIM": "Kişinin engel durumunu ilgili personel ile tespitini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "2. Hafta:\n15-19 Eylül",
+      "SAAT": "4",
+      "KONU": "1.1.1.2. Sık Görülen Fiziksel ve Zihinsel Engellilikler\n1.1.1.3. Fiziksel ve Zihinsel Engelliliklerin Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
+      "KAZANIM": "Kişinin engel durumunu ilgili personel ile tespitini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "3. Hafta:\n22-26 Eylül",
+      "SAAT": "4",
+      "KONU": "1.2. İhtiyaca Özgü Bakım Hizmeti\n1.2.1. Engellinin İhtiyaçlarına Uygun Bireye Özel Bakım Hizmetleri",
+      "KAZANIM": "Engellinin ihtiyaçlarına uygun kişiye bakım hizmetlerini açıklar."
+    },
+    {
+      "AY": "EYLÜL",
+      "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
+      "SAAT": "4",
+      "KONU": "1.2.1.1. Kişisel Engellerin Etkilerini En Aza İndirmenin Olumlu Etkileri \n1.2.1.2. Kişinin Engeline Uygun Yeni Beceriler Elde Etmesine Destek Olma",
+      "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
+      "KAZANIM": "Engellinin ihtiyaçlarına uygun kişiye bakım hizmetlerini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "5. Hafta:\n06-10 Ekim",
+      "SAAT": "4",
+      "KONU": "2. BAKIM PLANI HAZIRLAMA\n2.1. Hasta Bakım PLANI Hakkında Bilgi Toplama\n2.1.1. Hasta Bakım Planında Bilgi Toplama Yöntemleri\n2.1.1.1. Bireyin Kendisinden Bilgi Alma\n2.1.1.2. Bireyin Yakınından Bilgi Alma\n2.1.1.3. Engelli Bireyin Bakım Elemanı Tarafından Gözlemi \n2.1.1.4. Doktor Raporları",
+      "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
+      "KAZANIM": "Hasta planında bilgi toplama yöntemlerini açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "6. Hafta:\n13-17 Ekim",
+      "SAAT": "4",
+      "KONU": "2.2. Engelli Bireylerin Bakım Sorunları\n2.2.1. Engelli Bireylerin Bakım Gerektiren Sorunları\n2.2.1.1. Engelli Bireylerin Bakım Gerektiren Sorunlarının Belirlenmesi\n2.2.1.2. Engelli Bireyin Tedavi Edici Bakım Gerektiren Sağlık Sorunları\n2.2.1.3. Kullanılacak Temel Bakım Yöntemleri",
+      "KAZANIM": "Engellinin bakım sorunlarını açıklar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "7. Hafta:\n20-24 Ekim",
+      "SAAT": "4",
+      "KONU": "2.3. Engelli Bakım PLANI \n2.3.1. Engelli Bakım PLANI Yapma\n2.3.1.1. Bakım Planının Amacının Belirlenmesi",
+      "KAZANIM": "Engelli bakım PLANI yapar."
+    },
+    {
+      "AY": "EKIM",
+      "HAFTA": "8. Hafta:\n27-31 Ekim",
+      "SAAT": "4",
+      "KONU": "2.3.1.2. Planlama \n2.3.1.3. Bakım Planının Uygulanması\n2.3.1.4. Bakım Planının Değerlendirilmesi  \n\n1.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
+      "KAZANIM": "Engelli bakım PLANI yapar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "9. Hafta:\n03-07 Kasım",
+      "SAAT": "4",
+      "KONU": "3. ENGELLİ BİREYLERDE ÖZ BAKIM BECERİLERİ\n3.1. Öz Bakım Becerileri\n3.1.1. Engel Durumuna Göre Yapılabilecek Öz Bakım Becerileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
+      "KAZANIM": "1. Dönem 1. Sınav Engel durumuna göre yapabilecek öz bakım becerilerini açıklar."
+    },
+    {
+      "ÜNİTE": "1. Dönem Ara Tatili",
+      "AY": "KASIM",
+      "HAFTA": "10. Hafta:\n10-14 Kasım",
+      "SAAT": "4",
+      "KONU": "1. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Atatürk Haftası Afet Eğitimi Hazırlık Günü Dünya Diyabet Günü",
+      "KAZANIM": "1. Dönem Ara Tatili"
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "11. Hafta:\n17-21 Kasım",
+      "SAAT": "4",
+      "KONU": "3.1.1.1. Öz Bakım Becerilerinin Engelli Tarafından Yapılmasının Önemi \n3.1.1.2. Öz Bakımın Birey Tarafından Yapılmasının Psikolojik Etkileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
+      "KAZANIM": "Engel durumuna göre yapabilecek öz bakım becerilerini açıklar."
+    },
+    {
+      "AY": "KASIM",
+      "HAFTA": "12. Hafta:\n24-28 Kasım",
+      "SAAT": "4",
+      "KONU": "3.2. Engeline Uygun Öz Bakım Becerileri Kazandırma\n3.2.1. Engelli Bireylere Engeline Uygun Öz Bakım Becerilerini Kazandırma\n3.2.1.1. Öz Bakım Becerilerinin Çeşitleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
+      "KAZANIM": "Engelli bireylere engeline uygun öz bakım becerilerini kazandırmayı açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "13. Hafta:\n01-05 Aralık",
+      "SAAT": "4",
+      "KONU": "3.2.1.2. Engel Durumuna Uygun Gerçekleştirilecek Öz Bakım Becerileri \n3.2.1.3. Engellinin Öz Bakım Becerilerini Yapabilmesi İçin Uygulama PLANI",
+      "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
+      "KAZANIM": "Engelli bireylere engeline uygun öz bakım becerilerini kazandırmayı açıklar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "14. Hafta:\n08-12 Aralık",
+      "SAAT": "4",
+      "KONU": "4. ENGELLİ BİREYLERDE BESLENME \n4.1. Sağlıklı Beslenme \n4.1.1. Sağlıklı Beslenme Kuralları",
+      "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
+      "KAZANIM": "Sağlıklı beslenme kurallarını araştırır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "15. Hafta:\n15-19 Aralık",
+      "SAAT": "4",
+      "KONU": "4.1.1.1. Engelli Bireye Uygun Besin Ögelerinin Seçilmesinin Önemi",
+      "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
+      "KAZANIM": "Sağlıklı beslenme kurallarını araştırır."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "16. Hafta:\n22-26 Aralık",
+      "SAAT": "4",
+      "KONU": "4.2. Engel Durumuna Göre Beslenme \n4.2.1. Engel Durumuna Göre Beslenme İlkeleri ve Engelli Bireyin Beslenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
+      "KAZANIM": "Engel durumuna göre beslenme ilkelerini araştırarak beslenmelerini sağlar."
+    },
+    {
+      "AY": "ARALIK",
+      "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
+      "SAAT": "4",
+      "KONU": "4.2.1.1. Engellinin Beslenmesinde Uygun Teknikler Kullanılmasının Önemi \n1.Dönem 2.Sınav",
+      "KAZANIM": "Engel durumuna göre beslenme ilkelerini araştırarak beslenmelerini sağlar."
+    },
+    {
+      "AY": "OCAK",
+      "HAFTA": "18. Hafta:\n05-09 Ocak",
+      "SAAT": "4",
+      "KONU": "4.2.1.2. Engellinin Hastalıklara ve Özel Durumlara Uygun Beslenmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
+      "KAZANIM": "1. Dönem 2. Sınav Engel durumuna göre beslenme ilkelerini araştırarak beslenmelerini sağlar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "OCAK",
+      "HAFTA": "19. Hafta:\n12-16 Ocak",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "KAZANIM": "Etkinlik Haftası"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "20. Hafta:\n19-23 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "ÜNİTE": "Yarıyıl Tatili",
+      "AY": "OCAK",
+      "HAFTA": "21. Hafta:\n26-30 Ocak",
+      "SAAT": "4",
+      "KONU": "Yarıyıl Tatili",
+      "KAZANIM": "Yarıyıl Tatili"
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "22. Hafta:\n02-06 ubat",
+      "SAAT": "4",
+      "KONU": "5. ENGELLİYE YEMEK YEDİRME \n5.1. Yemek Öncesi Ön Hazırlık \n5.1.1. Engelli Bireye Yemek Yedirilmesinde Bireyin ve Ortamın Hazırlanması",
+      "KAZANIM": "Engelli bireye yemek yedirme öncesinde bireyin ve ortamın hazırlığını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "23. Hafta:\n09-13 ubat",
+      "SAAT": "4",
+      "KONU": "5.1.2. Beslenme Öncesi Dikkat Edilmesi Gereken Noktalar",
+      "KAZANIM": "Engelli bireye yemek yedirme öncesinde bireyin ve ortamın hazırlığını açıklar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "24. Hafta:\n16-20 ubat",
+      "SAAT": "4",
+      "KONU": "5.2. Engelli Bireylerde Ağız Bakımı\n5.2.1. Ağız İçi Değerlendirme\n5.2.2. Temel Ağız Bakımı",
+      "KAZANIM": "Engelli bireyin yemek sonrası ağız bakımını yapar."
+    },
+    {
+      "AY": "ŞUBAT",
+      "HAFTA": "25. Hafta:\n23-27 ubat",
+      "SAAT": "4",
+      "KONU": "5.3. Ağız Bakımında Kullanılan Araç Gereç ve Özellikleri\n5.3.1. Diş Fırçalama Malzemeleri ve Özellikleri\n5.3.2. Özel Ağız Bakımı Malzemeleri ve Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
+      "KAZANIM": "Engelli bireyin yemek sonrası ağız bakımını yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "26. Hafta:\n02-06 Mart",
+      "SAAT": "4",
+      "KONU": "5.4. Engelli Bireyin Durumuna Uygun Ağız Bakımı Yapma\n5.4.1. Özel Ağız Bakımı Uygulaması\n5.4.1.1. Özel Ağız Bakımı İşlem Basamakları\n5.4.1.2. Özel Ağız Bakımında Dikkat Edilmesi Gereken Noktalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
+      "KAZANIM": "Engelli bireyin yemek sonrası ağız bakımını yapar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "27. Hafta:\n09-13 Mart",
+      "SAAT": "4",
+      "KONU": "6. İLAÇ TAKİBİ\n6.1. İlaçların Kullanımı\n6.1.1. İlaçların Kullanılmasında Dikkat Edilecek Kurallar\n6.1.1.1. İlaçların Özellikleri \n6.1.1.2. İlaçların Gruplandırılması",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
+      "KAZANIM": "İlaçlar kullanmada dikkat edilecek kuralları açıklar."
+    },
+    {
+      "ÜNİTE": "2. Dönem Ara Tatili",
+      "AY": "MART",
+      "HAFTA": "28. Hafta:\n16-20 Mart",
+      "SAAT": "4",
+      "KONU": "2. Dönem Ara Tatili",
+      "BELİRLİ GÜN VE HAFTALAR": "Tüketiciyi Koruma Haftası Türk Dünyası ve Toplulukları Haftası",
+      "KAZANIM": "2. Dönem Ara Tatili"
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "29. Hafta:\n23-27 Mart",
+      "SAAT": "4",
+      "KONU": "6.1.1.3. İlaçların Farmasötik Şekilleri \n6.1.1.4. İlaçların Veriliş Yolları \n6.1.1.5. İlaç Etkileşimleri\n6.1.1.6. İlaç Vermede Temel İlkeler",
+      "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
+      "KAZANIM": "İlaçlar kullanmada dikkat edilecek kuralları açıklar."
+    },
+    {
+      "AY": "MART",
+      "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
+      "SAAT": "4",
+      "KONU": "6.2. Yaşlının Kullandığı İlaçları Takip Etmek ve İlaç Vermek\n6.2.1. Yaşlının Kullandığı İlaçların Takibi\n6.2.1.1. Engelli Bireyin Kullandığı İlaçların Takibi  \n\n2.Dönem 1.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
+      "KAZANIM": "Yaşlının kullandığı ilaçların takip işlemini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "31. Hafta:\n06-10 Nisan",
+      "SAAT": "4",
+      "KONU": "6.2.1.2. İlaç Zehirlenmelerinde İlk Yardım \n6.2.1.3. İlaçların Korunması\n6.2.1.4. İlaç Dolabının Özellikleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
+      "KAZANIM": "2. Dönem 1. Sınav Yaşlının kullandığı ilaçların takip işlemini yapar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "32. Hafta:\n13-17 Nisan",
+      "SAAT": "4",
+      "KONU": "7. ENGELLİLERİN TOPLUMSAL YAŞAMA HAZIRLANMASI \n7.1. Sağlığa Zarar Veren Maddelerden Korunma\n7.1.1. Engelli Bireyleri Sağlığa Zarar Veren Maddelerden Koruma\n7.1.1.1. Engellinin Sağlığa Zarar Veren Maddelerden Korunmasının Önemi \n7.1.1.2. Engellinin Sağlığa Zarar Veren Maddeleri Kullanmasını Etkileyen Etmenler\n7.1.1.3. Engellinin Sağlığa Zarar Veren Maddelerden Korunmasında Dikkat Edilecek Noktalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
+      "KAZANIM": "Engelli bireyleri sağlığa zarar veren maddelerden korumayı açıklar."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "33. Hafta:\n20-24 Nisan",
+      "SAAT": "4",
+      "KONU": "7.2. Toplumsal Mekân Kullanımı\n7.2.1. Engelli Eğitiminde Toplumsal Mekânı Yeterli Kullanmanın Önemi \n7.2.2. Engellinin Toplumsal Mekânı Kullanmasını Etkileyen Faktörler\n7.2.2.1. Engelli Bireylerin Toplumsal Mekânları Yeterli Kullanma Yöntemleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "KAZANIM": "Engellilerin toplumsal mekanları kullanmasını tarif eder."
+    },
+    {
+      "AY": "NISAN",
+      "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
+      "SAAT": "4",
+      "KONU": "7.3. Serbest Zaman Aktivitelerini Uygulama\n7.3.1. Serbest Zaman Aktivitelerini Planlama \n7.3.1.1. Boş Zaman Aktiviteleri\n7.3.1.2. Engellilik Türüne Göre Serbest Zaman Aktivitelerini Belirleme \n7.3.1.3. Zamanı Verimli Kullanma",
+      "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
+      "KAZANIM": "Engelli bireyler için serbest zaman aktiviteleri planlamasını yapar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "35. Hafta:\n04-08 Mayıs",
+      "SAAT": "4",
+      "KONU": "7.4. Ev İçi Becerileri \n7.4.1. Ev İçi Becerilerini Geliştirmenin Önemi \n7.4.2. Ev İçi Becerilerine Katılmayı Etkileyen Etmenler \n7.4.3. Engel Türüne Göre Ev İçi Becerileri Belirleme",
+      "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
+      "KAZANIM": "Ev içi beceri faaliyetlerini açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "36. Hafta:\n11-15 Mayıs",
+      "SAAT": "4",
+      "KONU": "8. ENGELLİ BİREYLERDE TOPLUMSAL UYUM\n8.1. Engelli Bireylerin Yaşadığı Temel Sorunlar\n8.1.1. Dünya Sağlık Örgütünün DSÖ Ölçütlerine Göre Engellinin Sorunları\n8.1.1.1. Engelli Bireylerin Temel Sorunları ve Çözüm Yolları",
+      "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
+      "KAZANIM": "Dünya Sağlık Örgütünün ölçütlerine göre engelli bireylerin sorunlarını açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "37. Hafta:\n18-22 Mayıs",
+      "SAAT": "4",
+      "KONU": "8.2. Engelli Bireylerde Yaşam Kalitesinin Yükseltilmesi\n8.2.1. Dünya Sağlık Örgütünün Kriterlerine Göre Engelli Bireylerin Yaşam Kalitesinin Yükseltilmesi",
+      "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
+      "KAZANIM": "Dünya Sağlık Örgütünün kriterlerine göre engelli bireylerin yaşam kalitesini yükseltmeye yönelik faaliyetleri açıklar."
+    },
+    {
+      "AY": "MAYIS",
+      "HAFTA": "38. Hafta:\n25-29 Mayıs",
+      "SAAT": "4",
+      "KONU": "8.2.1.1. Engellilerde Yaşam Kalitesini Yükseltmenin Önemi\n8.2.1.2. Engelli Bireylerde Yaşam Kalitesini Etkileyen Faktörler\n8.2.1.3. Engelli Bireylere Karşı Tutum ve Davranışların Yaşam Kalitesi Üzerine Etkileri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
+      "KAZANIM": "Dünya Sağlık Örgütünün kriterlerine göre engelli bireylerin yaşam kalitesini yükseltmeye yönelik faaliyetleri açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "39. Hafta:\n01-05 Haziran",
+      "SAAT": "4",
+      "KONU": "9. ENGELLİ BİREYLERE DESTEK VEREN KURUM VE KURULUŞLAR\n9.1. Engelliler İle İlgili Yasal Düzenlemeler\n9.1.1. Engelli Bireylerin Yaşamlarını Düzenleyen Yasalar\n9.2. Engellilere Hizmet Veren Ulusal Kurum ve Kuruluşlar\n9.2.1. Engellilere Hizmet Veren Ulusal Kurum ve Kuruluşların Hizmetleri",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
+      "KAZANIM": "2. Dönem 2. Sınav Engelli bireylerin yaşamlarını düzenleyen yasaları açıklar.  Yasal düzenlemeler çerçevesinde engelli bireylere hizmet veren ulusal kurum ve kuruluşlar ve verdikleri hizmetleri açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "40. Hafta:\n08-12 Haziran",
+      "SAAT": "4",
+      "KONU": "9.3. Engellilere Hizmet Veren Uluslararası Kurum ve Kuruluşlar \n9.3.1. Engellilere Hizmet Veren Uluslararası Kurum  Kuruluşlar ve Hizmetleri  \n2.Dönem 2.Sınav",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
+      "KAZANIM": "Yasal düzenlemeler çerçevesinde engelli bireylere hizmet veren uluslararası kurum ve kuruluşlar ve verdikleri hizmetleri açıklar."
+    },
+    {
+      "AY": "HAZIRAN",
+      "HAFTA": "41. Hafta:\n15-19 Haziran",
+      "SAAT": "4",
+      "KONU": "9.3.1.1. Uluslararası Alanda Engellilere Yönelik Yasal Uygulamalar",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Yasal düzenlemeler çerçevesinde engelli bireylere hizmet veren uluslararası kurum ve kuruluşlar ve verdikleri hizmetleri açıklar."
+    },
+    {
+      "ÜNİTE": "Etkinlik Haftası",
+      "AY": "HAZIRAN",
+      "HAFTA": "42. Hafta:\n22-26 Haziran",
+      "SAAT": "4",
+      "KONU": "Etkinlik Haftası",
+      "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
+      "KAZANIM": "Etkinlik Haftası"
+    }
+  ]
+}
