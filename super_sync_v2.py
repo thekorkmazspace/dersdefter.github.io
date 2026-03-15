@@ -246,6 +246,7 @@ def fix_lesson_name(name, grade, file_id):
     name = linguistic_harmony_fix(name)
     
     # Final touch for Roman numerals & Maarif
+    name = name.replace("I-II-II", "I-II-III") # Fix specific typo
     name = name.replace("I-ii-iii", "I-II-III").replace("I-ii", "I-II").replace("I-iii", "I-III")
     name = name.replace("I-Ii-Iii", "I-II-III").replace("I-Ii", "I-II")
     name = name.replace("Kadememaarif", "Kademe Maarif").replace("Maarif*", "Maarif")
