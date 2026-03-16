@@ -1,34 +1,22 @@
 {
-  "total_plans": 1535,
-  "total_rows": 64817,
+  "total_plans": 1459,
+  "total_rows": 61601,
   "grade_counts": {
-    "1": 22,
-    "10": 322,
-    "11": 420,
-    "12": 357,
-    "2": 13,
-    "3": 21,
-    "4": 18,
-    "5": 38,
-    "6": 42,
-    "7": 42,
-    "8": 41,
-    "9": 189,
-    "Hazırlık": 10
+    "1": 21,
+    "10": 315,
+    "11": 402,
+    "12": 338,
+    "2": 12,
+    "3": 19,
+    "4": 16,
+    "5": 35,
+    "6": 37,
+    "7": 36,
+    "8": 35,
+    "9": 184,
+    "Hazırlık": 9
   },
   "duplicate_lessons": [
-    {
-      "ders": "İngilizce",
-      "adet": 18
-    },
-    {
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "adet": 14
-    },
-    {
-      "ders": "Görsel Sanatlar",
-      "adet": 13
-    },
     {
       "ders": "Sınıf Rehberlik",
       "adet": 12
@@ -38,20 +26,20 @@
       "adet": 11
     },
     {
+      "ders": "İngilizce",
+      "adet": 11
+    },
+    {
+      "ders": "Görsel Sanatlar",
+      "adet": 8
+    },
+    {
       "ders": "Matematik",
-      "adet": 9
+      "adet": 8
     },
     {
       "ders": "Müzik",
       "adet": 8
-    },
-    {
-      "ders": "Türk Dili Ve Edebiyatı",
-      "adet": 7
-    },
-    {
-      "ders": "Matematik Uygulamaları",
-      "adet": 6
     },
     {
       "ders": "Seçmeli İngilizce",
@@ -59,7 +47,7 @@
     },
     {
       "ders": "Bilişim Teknolojiler Ve Yazılım",
-      "adet": 5
+      "adet": 4
     },
     {
       "ders": "Biyoloji (anadolu Lisesi-meb)",
@@ -94,11 +82,23 @@
       "adet": 4
     },
     {
+      "ders": "Matematik Uygulamaları",
+      "adet": 4
+    },
+    {
+      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
+      "adet": 4
+    },
+    {
       "ders": "Takım Sporları",
       "adet": 4
     },
     {
       "ders": "Türk Dili Edebiyatı (anadolu Lisesi-meb)",
+      "adet": 4
+    },
+    {
+      "ders": "Türk Dili Ve Edebiyatı",
       "adet": 4
     },
     {
@@ -140,10 +140,6 @@
     {
       "ders": "İngilizce Cyd",
       "adet": 3
-    },
-    {
-      "ders": "Ahilik Kültürü Ve Girişimcilik",
-      "adet": 2
     },
     {
       "ders": "Arkadaslarına Sunmasına Fırsat Verilerek İletişim Becerilerinın Gelismesi Sag...",
@@ -206,19 +202,7 @@
       "adet": 2
     },
     {
-      "ders": "Digital Tasarım-12",
-      "adet": 2
-    },
-    {
       "ders": "Dijital Sanatlar",
-      "adet": 2
-    },
-    {
-      "ders": "Dijital Tasarım",
-      "adet": 2
-    },
-    {
-      "ders": "Dızel Motor Yakıt Sistemleri Teknolojisi",
       "adet": 2
     },
     {
@@ -235,14 +219,6 @@
     },
     {
       "ders": "Giysi Kalıp Tasarımı Ve Üretimi Atölyesi",
-      "adet": 2
-    },
-    {
-      "ders": "Görsel Sanatlar Hazırlık",
-      "adet": 2
-    },
-    {
-      "ders": "Hukuk Dosyalama Ve Evrak İşlemleri",
       "adet": 2
     },
     {
@@ -274,19 +250,11 @@
       "adet": 2
     },
     {
-      "ders": "Mesleki Teknolojisi Izabe 10 (metalurj)",
-      "adet": 2
-    },
-    {
       "ders": "Okuma Becerler",
       "adet": 2
     },
     {
       "ders": "Otomotıv Konfor Sistemleri",
-      "adet": 2
-    },
-    {
-      "ders": "Otomotıv Meslek Resmi",
       "adet": 2
     },
     {
@@ -366,11 +334,6 @@
       "public_dosya": "plans/1596.json"
     },
     {
-      "id": 1620,
-      "legacy_dosya": "grade_0_gorsel_sanatlar_hazirlik_1620.json",
-      "public_dosya": "plans/1620.json"
-    },
-    {
       "id": 1955,
       "legacy_dosya": "grade_0_gorsel_sanatlar_hazirlik_1955.json",
       "public_dosya": "plans/1955.json"
@@ -424,11 +387,6 @@
       "id": 2040,
       "legacy_dosya": "grade_1_din_kulturu_ve_ahlak_bilgisi_iiiiiii_kademe_maar_2040.json",
       "public_dosya": "plans/2040.json"
-    },
-    {
-      "id": 232,
-      "legacy_dosya": "grade_1_gorsel_sanatlar_232.json",
-      "public_dosya": "plans/232.json"
     },
     {
       "id": 1953,
@@ -526,11 +484,6 @@
       "public_dosya": "plans/1353.json"
     },
     {
-      "id": 226,
-      "legacy_dosya": "grade_2_beden_egitimi_ve_oyun_226.json",
-      "public_dosya": "plans/226.json"
-    },
-    {
       "id": 1950,
       "legacy_dosya": "grade_2_beden_egitimi_ve_oyun_1950.json",
       "public_dosya": "plans/1950.json"
@@ -616,11 +569,6 @@
       "public_dosya": "plans/234.json"
     },
     {
-      "id": 1730,
-      "legacy_dosya": "grade_3_hayat_bilgisi_1730.json",
-      "public_dosya": "plans/1730.json"
-    },
-    {
       "id": 2026,
       "legacy_dosya": "grade_3_hayat_bilgisi_2026.json",
       "public_dosya": "plans/2026.json"
@@ -661,11 +609,6 @@
       "public_dosya": "plans/1539.json"
     },
     {
-      "id": 244,
-      "legacy_dosya": "grade_3_serbest_etkinlikler_244.json",
-      "public_dosya": "plans/244.json"
-    },
-    {
       "id": 438,
       "legacy_dosya": "grade_3_sinif_rehberlik_438.json",
       "public_dosya": "plans/438.json"
@@ -701,11 +644,6 @@
       "public_dosya": "plans/228.json"
     },
     {
-      "id": 231,
-      "legacy_dosya": "grade_4_din_kulturu_ve_ahlak_bilgisi_231.json",
-      "public_dosya": "plans/231.json"
-    },
-    {
       "id": 1755,
       "legacy_dosya": "grade_4_din_kulturu_ve_ahlak_bilgisi_1755.json",
       "public_dosya": "plans/1755.json"
@@ -734,11 +672,6 @@
       "id": 254,
       "legacy_dosya": "grade_4_muzik_254.json",
       "public_dosya": "plans/254.json"
-    },
-    {
-      "id": 246,
-      "legacy_dosya": "grade_4_sosyal_bilgiler_246.json",
-      "public_dosya": "plans/246.json"
     },
     {
       "id": 1731,
@@ -796,11 +729,6 @@
       "public_dosya": "plans/1984.json"
     },
     {
-      "id": 143,
-      "legacy_dosya": "grade_5_arapca_143.json",
-      "public_dosya": "plans/143.json"
-    },
-    {
       "id": 1526,
       "legacy_dosya": "grade_5_arapca_1526.json",
       "public_dosya": "plans/1526.json"
@@ -821,11 +749,6 @@
       "public_dosya": "plans/1951.json"
     },
     {
-      "id": 1131,
-      "legacy_dosya": "grade_5_din_kulturu_ve_ahlak_bilgisi_1131.json",
-      "public_dosya": "plans/1131.json"
-    },
-    {
       "id": 1754,
       "legacy_dosya": "grade_5_din_kulturu_ve_ahlak_bilgisi_1754.json",
       "public_dosya": "plans/1754.json"
@@ -834,11 +757,6 @@
       "id": 1605,
       "legacy_dosya": "grade_5_fen_bilimleri_1605.json",
       "public_dosya": "plans/1605.json"
-    },
-    {
-      "id": 161,
-      "legacy_dosya": "grade_5_gorsel_sanatlar_161.json",
-      "public_dosya": "plans/161.json"
     },
     {
       "id": 1980,
@@ -981,29 +899,14 @@
       "public_dosya": "plans/1985.json"
     },
     {
-      "id": 144,
-      "legacy_dosya": "grade_6_arapca_144.json",
-      "public_dosya": "plans/144.json"
-    },
-    {
       "id": 1518,
       "legacy_dosya": "grade_6_arapca_1518.json",
       "public_dosya": "plans/1518.json"
     },
     {
-      "id": 148,
-      "legacy_dosya": "grade_6_beden_egitimi_ve_spor_148.json",
-      "public_dosya": "plans/148.json"
-    },
-    {
       "id": 1957,
       "legacy_dosya": "grade_6_beden_egitimi_ve_spor_1957.json",
       "public_dosya": "plans/1957.json"
-    },
-    {
-      "id": 201,
-      "legacy_dosya": "grade_6_bilim_uygulamalari_201.json",
-      "public_dosya": "plans/201.json"
     },
     {
       "id": 1550,
@@ -1014,11 +917,6 @@
       "id": 1990,
       "legacy_dosya": "grade_6_bilisim_teknolojiler_ve_yazilim_1990.json",
       "public_dosya": "plans/1990.json"
-    },
-    {
-      "id": 1952,
-      "legacy_dosya": "grade_6_bilisim_teknolojiler_ve_yazilim_1952.json",
-      "public_dosya": "plans/1952.json"
     },
     {
       "id": 818,
@@ -1064,11 +962,6 @@
       "id": 1795,
       "legacy_dosya": "grade_6_matematik_1795.json",
       "public_dosya": "plans/1795.json"
-    },
-    {
-      "id": 205,
-      "legacy_dosya": "grade_6_matematik_uygulamalari_205.json",
-      "public_dosya": "plans/205.json"
     },
     {
       "id": 1552,
@@ -1201,11 +1094,6 @@
       "public_dosya": "plans/1986.json"
     },
     {
-      "id": 145,
-      "legacy_dosya": "grade_7_arapca_145.json",
-      "public_dosya": "plans/145.json"
-    },
-    {
       "id": 1519,
       "legacy_dosya": "grade_7_arapca_1519.json",
       "public_dosya": "plans/1519.json"
@@ -1214,11 +1102,6 @@
       "id": 149,
       "legacy_dosya": "grade_7_beden_egitimi_ve_spor_149.json",
       "public_dosya": "plans/149.json"
-    },
-    {
-      "id": 202,
-      "legacy_dosya": "grade_7_bilim_uygulamalari_202.json",
-      "public_dosya": "plans/202.json"
     },
     {
       "id": 1551,
@@ -1234,11 +1117,6 @@
       "id": 819,
       "legacy_dosya": "grade_7_dijital_sanatlar_819.json",
       "public_dosya": "plans/819.json"
-    },
-    {
-      "id": 153,
-      "legacy_dosya": "grade_7_din_kulturu_ve_ahlak_bilgisi_153.json",
-      "public_dosya": "plans/153.json"
     },
     {
       "id": 1757,
@@ -1286,11 +1164,6 @@
       "public_dosya": "plans/1725.json"
     },
     {
-      "id": 206,
-      "legacy_dosya": "grade_7_matematik_uygulamalari_206.json",
-      "public_dosya": "plans/206.json"
-    },
-    {
       "id": 1553,
       "legacy_dosya": "grade_7_matematik_uygulamalari_1553.json",
       "public_dosya": "plans/1553.json"
@@ -1299,11 +1172,6 @@
       "id": 208,
       "legacy_dosya": "grade_7_medya_okuryazarligi_208.json",
       "public_dosya": "plans/208.json"
-    },
-    {
-      "id": 1742,
-      "legacy_dosya": "grade_7_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1742.json",
-      "public_dosya": "plans/1742.json"
     },
     {
       "id": 1743,
@@ -1324,11 +1192,6 @@
       "id": 1960,
       "legacy_dosya": "grade_7_oyun_ve_oyun_etkinlikleri_geleneksel_oyunlar_modul_1960.json",
       "public_dosya": "plans/1960.json"
-    },
-    {
-      "id": 178,
-      "legacy_dosya": "grade_7_peygamberimizin_hayati_178.json",
-      "public_dosya": "plans/178.json"
     },
     {
       "id": 1779,
@@ -1401,11 +1264,6 @@
       "public_dosya": "plans/1359.json"
     },
     {
-      "id": 146,
-      "legacy_dosya": "grade_8_arapca_146.json",
-      "public_dosya": "plans/146.json"
-    },
-    {
       "id": 1520,
       "legacy_dosya": "grade_8_arapca_1520.json",
       "public_dosya": "plans/1520.json"
@@ -1426,11 +1284,6 @@
       "public_dosya": "plans/141.json"
     },
     {
-      "id": 154,
-      "legacy_dosya": "grade_8_din_kulturu_ve_ahlak_bilgisi_154.json",
-      "public_dosya": "plans/154.json"
-    },
-    {
       "id": 1758,
       "legacy_dosya": "grade_8_din_kulturu_ve_ahlak_bilgisi_1758.json",
       "public_dosya": "plans/1758.json"
@@ -1449,11 +1302,6 @@
       "id": 164,
       "legacy_dosya": "grade_8_gorsel_sanatlar_164.json",
       "public_dosya": "plans/164.json"
-    },
-    {
-      "id": 1547,
-      "legacy_dosya": "grade_8_kuran039i_kerim_1547.json",
-      "public_dosya": "plans/1547.json"
     },
     {
       "id": 1766,
@@ -1481,16 +1329,6 @@
       "public_dosya": "plans/209.json"
     },
     {
-      "id": 1729,
-      "legacy_dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1729.json",
-      "public_dosya": "plans/1729.json"
-    },
-    {
-      "id": 1744,
-      "legacy_dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1744.json",
-      "public_dosya": "plans/1744.json"
-    },
-    {
       "id": 1745,
       "legacy_dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1745.json",
       "public_dosya": "plans/1745.json"
@@ -1504,11 +1342,6 @@
       "id": 1288,
       "legacy_dosya": "grade_8_okul_temelli_sosyal_sorumluluk_calismalari_1288.json",
       "public_dosya": "plans/1288.json"
-    },
-    {
-      "id": 179,
-      "legacy_dosya": "grade_8_peygamberimizin_hayati_179.json",
-      "public_dosya": "plans/179.json"
     },
     {
       "id": 1780,
@@ -1639,11 +1472,6 @@
       "id": 408,
       "legacy_dosya": "grade_9_annecocuk_sagligi_408.json",
       "public_dosya": "plans/408.json"
-    },
-    {
-      "id": 108,
-      "legacy_dosya": "grade_9_arapca_108.json",
-      "public_dosya": "plans/108.json"
     },
     {
       "id": 1548,
@@ -1909,11 +1737,6 @@
       "id": 681,
       "legacy_dosya": "grade_9_genel_turizm_681.json",
       "public_dosya": "plans/681.json"
-    },
-    {
-      "id": 85,
-      "legacy_dosya": "grade_9_gorsel_sanatlar_85.json",
-      "public_dosya": "plans/85.json"
     },
     {
       "id": 1615,
@@ -2306,11 +2129,6 @@
       "public_dosya": "plans/441.json"
     },
     {
-      "id": 586,
-      "legacy_dosya": "grade_9_temel_bakim_atolyesi_586.json",
-      "public_dosya": "plans/586.json"
-    },
-    {
       "id": 1003,
       "legacy_dosya": "grade_9_temel_bakim_atolyesi_1003.json",
       "public_dosya": "plans/1003.json"
@@ -2456,11 +2274,6 @@
       "public_dosya": "plans/349.json"
     },
     {
-      "id": 48,
-      "legacy_dosya": "grade_9_turk_dili_ve_edebiyati_48.json",
-      "public_dosya": "plans/48.json"
-    },
-    {
       "id": 811,
       "legacy_dosya": "grade_9_turk_dili_ve_edebiyati_hazirlik_811.json",
       "public_dosya": "plans/811.json"
@@ -2526,11 +2339,6 @@
       "public_dosya": "plans/409.json"
     },
     {
-      "id": 1702,
-      "legacy_dosya": "grade_9_ingilizce_1702.json",
-      "public_dosya": "plans/1702.json"
-    },
-    {
       "id": 1945,
       "legacy_dosya": "grade_9_ingilizce_1945.json",
       "public_dosya": "plans/1945.json"
@@ -2589,11 +2397,6 @@
       "id": 1884,
       "legacy_dosya": "grade_10_araclarda_hidrolik_pnomatik_sistemleri_1884.json",
       "public_dosya": "plans/1884.json"
-    },
-    {
-      "id": 109,
-      "legacy_dosya": "grade_10_arapca_109.json",
-      "public_dosya": "plans/109.json"
     },
     {
       "id": 1521,
@@ -3141,11 +2944,6 @@
       "public_dosya": "plans/1391.json"
     },
     {
-      "id": 86,
-      "legacy_dosya": "grade_10_gorsel_sanatlar_86.json",
-      "public_dosya": "plans/86.json"
-    },
-    {
       "id": 1617,
       "legacy_dosya": "grade_10_gorsel_sanatlar_1617.json",
       "public_dosya": "plans/1617.json"
@@ -3209,11 +3007,6 @@
       "id": 1916,
       "legacy_dosya": "grade_10_havaclk_ve_uzay_blmlerne_grs_havacilik_ve_uzay_te_1916.json",
       "public_dosya": "plans/1916.json"
-    },
-    {
-      "id": 901,
-      "legacy_dosya": "grade_10_hukuk_dosyalama_ve_evrak_islemleri_901.json",
-      "public_dosya": "plans/901.json"
     },
     {
       "id": 902,
@@ -3329,11 +3122,6 @@
       "id": 1578,
       "legacy_dosya": "grade_10_kur039ani_kerim039in_anlam_dunyasiii_1578.json",
       "public_dosya": "plans/1578.json"
-    },
-    {
-      "id": 1459,
-      "legacy_dosya": "grade_10_kuran039i_kerim_1459.json",
-      "public_dosya": "plans/1459.json"
     },
     {
       "id": 1770,
@@ -3469,11 +3257,6 @@
       "id": 1576,
       "legacy_dosya": "grade_10_mesleki_teknoloj_dokm_10_metalurj_1576.json",
       "public_dosya": "plans/1576.json"
-    },
-    {
-      "id": 1574,
-      "legacy_dosya": "grade_10_mesleki_teknolojisi_izabe_10_metalurj_1574.json",
-      "public_dosya": "plans/1574.json"
     },
     {
       "id": 1750,
@@ -4121,16 +3904,6 @@
       "public_dosya": "plans/520.json"
     },
     {
-      "id": 1453,
-      "legacy_dosya": "grade_10_ingilizce_1453.json",
-      "public_dosya": "plans/1453.json"
-    },
-    {
-      "id": 1703,
-      "legacy_dosya": "grade_10_ingilizce_1703.json",
-      "public_dosya": "plans/1703.json"
-    },
-    {
       "id": 1707,
       "legacy_dosya": "grade_10_ingilizce_1707.json",
       "public_dosya": "plans/1707.json"
@@ -4184,11 +3957,6 @@
       "id": 845,
       "legacy_dosya": "grade_11_aile_kaynaklari_845.json",
       "public_dosya": "plans/845.json"
-    },
-    {
-      "id": 110,
-      "legacy_dosya": "grade_11_akaid_110.json",
-      "public_dosya": "plans/110.json"
     },
     {
       "id": 1786,
@@ -4596,11 +4364,6 @@
       "public_dosya": "plans/103.json"
     },
     {
-      "id": 71,
-      "legacy_dosya": "grade_11_din_kulturu_ve_ahlak_bilgisi_71.json",
-      "public_dosya": "plans/71.json"
-    },
-    {
       "id": 1761,
       "legacy_dosya": "grade_11_din_kulturu_ve_ahlak_bilgisi_1761.json",
       "public_dosya": "plans/1761.json"
@@ -4654,11 +4417,6 @@
       "id": 359,
       "legacy_dosya": "grade_11_duz_yuzey_yenilestirme_teknolojisi_359.json",
       "public_dosya": "plans/359.json"
-    },
-    {
-      "id": 1926,
-      "legacy_dosya": "grade_11_dizel_motor_yakit_sistemleri_teknolojisi_1926.json",
-      "public_dosya": "plans/1926.json"
     },
     {
       "id": 1932,
@@ -4824,11 +4582,6 @@
       "id": 1484,
       "legacy_dosya": "grade_11_grafik_ve_canlandirma_1484.json",
       "public_dosya": "plans/1484.json"
-    },
-    {
-      "id": 87,
-      "legacy_dosya": "grade_11_gorsel_sanatlar_87.json",
-      "public_dosya": "plans/87.json"
     },
     {
       "id": 1618,
@@ -5066,11 +4819,6 @@
       "public_dosya": "plans/1345.json"
     },
     {
-      "id": 107,
-      "legacy_dosya": "grade_11_kuran039i_kerim_107.json",
-      "public_dosya": "plans/107.json"
-    },
-    {
       "id": 1767,
       "legacy_dosya": "grade_11_kuran039i_kerim_1767.json",
       "public_dosya": "plans/1767.json"
@@ -5106,11 +4854,6 @@
       "public_dosya": "plans/1065.json"
     },
     {
-      "id": 375,
-      "legacy_dosya": "grade_11_lpg_yakit_sistemleri_teknolojisi_375.json",
-      "public_dosya": "plans/375.json"
-    },
-    {
       "id": 1933,
       "legacy_dosya": "grade_11_lpg_yakit_sistemleri_teknolojisi_1933.json",
       "public_dosya": "plans/1933.json"
@@ -5134,11 +4877,6 @@
       "id": 96,
       "legacy_dosya": "grade_11_mantik_96.json",
       "public_dosya": "plans/96.json"
-    },
-    {
-      "id": 25,
-      "legacy_dosya": "grade_11_matematik_25.json",
-      "public_dosya": "plans/25.json"
     },
     {
       "id": 27,
@@ -5254,31 +4992,6 @@
       "id": 668,
       "legacy_dosya": "grade_11_metal_dograma_teknolojisi_668.json",
       "public_dosya": "plans/668.json"
-    },
-    {
-      "id": 1651,
-      "legacy_dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1651.json",
-      "public_dosya": "plans/1651.json"
-    },
-    {
-      "id": 1655,
-      "legacy_dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1655.json",
-      "public_dosya": "plans/1655.json"
-    },
-    {
-      "id": 1659,
-      "legacy_dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1659.json",
-      "public_dosya": "plans/1659.json"
-    },
-    {
-      "id": 1674,
-      "legacy_dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1674.json",
-      "public_dosya": "plans/1674.json"
-    },
-    {
-      "id": 1676,
-      "legacy_dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1676.json",
-      "public_dosya": "plans/1676.json"
     },
     {
       "id": 1678,
@@ -5549,11 +5262,6 @@
       "id": 936,
       "legacy_dosya": "grade_11_pervane_atolyesi_936.json",
       "public_dosya": "plans/936.json"
-    },
-    {
-      "id": 100,
-      "legacy_dosya": "grade_11_peygamberimizin_hayati_100.json",
-      "public_dosya": "plans/100.json"
     },
     {
       "id": 1777,
@@ -5926,16 +5634,6 @@
       "public_dosya": "plans/1663.json"
     },
     {
-      "id": 351,
-      "legacy_dosya": "grade_11_turk_dili_ve_edebiyati_351.json",
-      "public_dosya": "plans/351.json"
-    },
-    {
-      "id": 352,
-      "legacy_dosya": "grade_11_turk_dili_ve_edebiyati_352.json",
-      "public_dosya": "plans/352.json"
-    },
-    {
       "id": 1236,
       "legacy_dosya": "grade_11_turk_dili_ve_edebiyati_1236.json",
       "public_dosya": "plans/1236.json"
@@ -6126,11 +5824,6 @@
       "public_dosya": "plans/1823.json"
     },
     {
-      "id": 415,
-      "legacy_dosya": "grade_11_cocuk_aktiviteleri_415.json",
-      "public_dosya": "plans/415.json"
-    },
-    {
       "id": 847,
       "legacy_dosya": "grade_11_cocuk_aktiviteleri_847.json",
       "public_dosya": "plans/847.json"
@@ -6179,16 +5872,6 @@
       "id": 1098,
       "legacy_dosya": "grade_11_immunoloji_ve_seroloji_1098.json",
       "public_dosya": "plans/1098.json"
-    },
-    {
-      "id": 67,
-      "legacy_dosya": "grade_11_ingilizce_67.json",
-      "public_dosya": "plans/67.json"
-    },
-    {
-      "id": 1704,
-      "legacy_dosya": "grade_11_ingilizce_1704.json",
-      "public_dosya": "plans/1704.json"
     },
     {
       "id": 1708,
@@ -6291,11 +5974,6 @@
       "public_dosya": "plans/481.json"
     },
     {
-      "id": 1447,
-      "legacy_dosya": "grade_12_ahilik_kulturu_ve_girisimcilik_1447.json",
-      "public_dosya": "plans/1447.json"
-    },
-    {
       "id": 2008,
       "legacy_dosya": "grade_12_ahilik_kulturu_ve_girisimcilik_2008.json",
       "public_dosya": "plans/2008.json"
@@ -6304,11 +5982,6 @@
       "id": 700,
       "legacy_dosya": "grade_12_ahsap_oyuncak_yapimi_700.json",
       "public_dosya": "plans/700.json"
-    },
-    {
-      "id": 299,
-      "legacy_dosya": "grade_12_akilli_ev_sistemleri_299.json",
-      "public_dosya": "plans/299.json"
     },
     {
       "id": 319,
@@ -6616,39 +6289,14 @@
       "public_dosya": "plans/1500.json"
     },
     {
-      "id": 7,
-      "legacy_dosya": "grade_12_dijital_tasarim_7.json",
-      "public_dosya": "plans/7.json"
-    },
-    {
-      "id": 305,
-      "legacy_dosya": "grade_12_dijital_tasarim_305.json",
-      "public_dosya": "plans/305.json"
-    },
-    {
-      "id": 421,
-      "legacy_dosya": "grade_12_dijital_tasarim_421.json",
-      "public_dosya": "plans/421.json"
-    },
-    {
       "id": 593,
       "legacy_dosya": "grade_12_diksiyon_ve_etkili_iletisim_593.json",
       "public_dosya": "plans/593.json"
     },
     {
-      "id": 72,
-      "legacy_dosya": "grade_12_din_kulturu_ve_ahlak_bilgisi_72.json",
-      "public_dosya": "plans/72.json"
-    },
-    {
       "id": 1762,
       "legacy_dosya": "grade_12_din_kulturu_ve_ahlak_bilgisi_1762.json",
       "public_dosya": "plans/1762.json"
-    },
-    {
-      "id": 73,
-      "legacy_dosya": "grade_12_dinler_tarihi_73.json",
-      "public_dosya": "plans/73.json"
     },
     {
       "id": 1787,
@@ -6821,11 +6469,6 @@
       "public_dosya": "plans/773.json"
     },
     {
-      "id": 88,
-      "legacy_dosya": "grade_12_gorsel_sanatlar_88.json",
-      "public_dosya": "plans/88.json"
-    },
-    {
       "id": 1619,
       "legacy_dosya": "grade_12_gorsel_sanatlar_1619.json",
       "public_dosya": "plans/1619.json"
@@ -6844,11 +6487,6 @@
       "id": 581,
       "legacy_dosya": "grade_12_halkla_iliskiler_ve_iletisim_581.json",
       "public_dosya": "plans/581.json"
-    },
-    {
-      "id": 366,
-      "legacy_dosya": "grade_12_hareket_kontrol_sistemleri_366.json",
-      "public_dosya": "plans/366.json"
     },
     {
       "id": 1987,
@@ -7046,11 +6684,6 @@
       "public_dosya": "plans/334.json"
     },
     {
-      "id": 116,
-      "legacy_dosya": "grade_12_kelam_116.json",
-      "public_dosya": "plans/116.json"
-    },
-    {
       "id": 1790,
       "legacy_dosya": "grade_12_kelam_1790.json",
       "public_dosya": "plans/1790.json"
@@ -7126,11 +6759,6 @@
       "public_dosya": "plans/2013.json"
     },
     {
-      "id": 106,
-      "legacy_dosya": "grade_12_kuran039i_kerim_106.json",
-      "public_dosya": "plans/106.json"
-    },
-    {
       "id": 1768,
       "legacy_dosya": "grade_12_kuran039i_kerim_1768.json",
       "public_dosya": "plans/1768.json"
@@ -7144,11 +6772,6 @@
       "id": 2012,
       "legacy_dosya": "grade_12_lpg_yakit_sistemleri_ariza_tespiti_2012.json",
       "public_dosya": "plans/2012.json"
-    },
-    {
-      "id": 376,
-      "legacy_dosya": "grade_12_lpg_yakit_sistemleri_uygulamalari_376.json",
-      "public_dosya": "plans/376.json"
     },
     {
       "id": 2011,
@@ -7254,16 +6877,6 @@
       "id": 677,
       "legacy_dosya": "grade_12_metal_yzey_ve_muayene_islemleri_677.json",
       "public_dosya": "plans/677.json"
-    },
-    {
-      "id": 1652,
-      "legacy_dosya": "grade_12_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1652.json",
-      "public_dosya": "plans/1652.json"
-    },
-    {
-      "id": 1656,
-      "legacy_dosya": "grade_12_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1656.json",
-      "public_dosya": "plans/1656.json"
     },
     {
       "id": 1660,
@@ -7406,11 +7019,6 @@
       "public_dosya": "plans/1977.json"
     },
     {
-      "id": 1976,
-      "legacy_dosya": "grade_12_otomotiv_meslek_resmi_1976.json",
-      "public_dosya": "plans/1976.json"
-    },
-    {
       "id": 1988,
       "legacy_dosya": "grade_12_otomotiv_meslek_resmi_1988.json",
       "public_dosya": "plans/1988.json"
@@ -7429,11 +7037,6 @@
       "id": 556,
       "legacy_dosya": "grade_12_pasta_yapim_teknikleri_556.json",
       "public_dosya": "plans/556.json"
-    },
-    {
-      "id": 101,
-      "legacy_dosya": "grade_12_peygamberimizin_hayati_101.json",
-      "public_dosya": "plans/101.json"
     },
     {
       "id": 1778,
@@ -7966,16 +7569,6 @@
       "public_dosya": "plans/504.json"
     },
     {
-      "id": 68,
-      "legacy_dosya": "grade_12_ingilizce_68.json",
-      "public_dosya": "plans/68.json"
-    },
-    {
-      "id": 1705,
-      "legacy_dosya": "grade_12_ingilizce_1705.json",
-      "public_dosya": "plans/1705.json"
-    },
-    {
       "id": 1709,
       "legacy_dosya": "grade_12_ingilizce_1709.json",
       "public_dosya": "plans/1709.json"
@@ -7984,11 +7577,6 @@
       "id": 583,
       "legacy_dosya": "grade_12_insaat_muhasebesi_583.json",
       "public_dosya": "plans/583.json"
-    },
-    {
-      "id": 115,
-      "legacy_dosya": "grade_12_islam_kultur_medeniyetii_115.json",
-      "public_dosya": "plans/115.json"
     },
     {
       "id": 1789,

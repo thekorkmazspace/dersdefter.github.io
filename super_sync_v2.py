@@ -264,6 +264,21 @@ def slugify(name):
     name = re.sub(r'[^a-z0-9_]', '', name)
     return re.sub(r'_+', '_', name).strip('_')
 
+
+def extract_plan_id(filename):
+    return filename.rsplit('_', 1)[-1].replace('.json', '')
+
+
+def dedupe_index_entries(entries):
+    latest_by_key = {}
+    for entry in entries:
+        plan_id = int(extract_plan_id(entry["dosya"]))
+        key = (str(entry["sinif"]), entry["ders"])
+        current = latest_by_key.get(key)
+        if current is None or plan_id > current[0]:
+            latest_by_key[key] = (plan_id, entry)
+    return [entry for _, entry in latest_by_key.values()]
+
 def run_sync():
     print("Starting Super Sync V3 (Directory Scan Mode)...")
     
@@ -298,6 +313,8 @@ def run_sync():
             "ders": clean_name,
             "kayit_sayisi": len(plan_data['plan'])
         })
+
+    new_idx_list = dedupe_index_entries(new_idx_list)
 
     # Sort index
     new_idx_list.sort(key=lambda x: (

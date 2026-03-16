@@ -1,17 +1,11 @@
 {
-  "toplam": 1535,
+  "toplam": 1459,
   "dosyalar": [
     {
       "dosya": "grade_0_beden_egitimi_1596.json",
       "sinif": "Hazırlık",
       "ders": "Beden Eğitimi",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_0_gorsel_sanatlar_hazirlik_1620.json",
-      "sinif": "Hazırlık",
-      "ders": "Görsel Sanatlar Hazırlık",
-      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_0_gorsel_sanatlar_hazirlik_1955.json",
@@ -68,21 +62,15 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_1_beden_egitimi_oyun_ve_spor_iiiiii_kademe_maarif_2036.json",
+      "dosya": "grade_1_beden_egitimi_oyun_ve_spor_iiiiiii_kademe_maari_2036.json",
       "sinif": "1",
-      "ders": "Beden Eğitimi, Oyun Ve Spor I-II-III Kademe Maarif",
+      "ders": "Beden Eğitimi, Oyun Ve Spor I-II-IIIi Kademe Maarif",
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_1_din_kulturu_ve_ahlak_bilgisi_iiiiii_kademe_maari_2040.json",
+      "dosya": "grade_1_din_kulturu_ve_ahlak_bilgisi_iiiiiii_kademe_maar_2040.json",
       "sinif": "1",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi I-II-III Kademe Maarif",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_1_gorsel_sanatlar_232.json",
-      "sinif": "1",
-      "ders": "Görsel Sanatlar",
+      "ders": "Din Kültürü Ve Ahlak Bilgisi I-II-IIIi Kademe Maarif",
       "kayit_sayisi": 42
     },
     {
@@ -110,15 +98,15 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_1_matematik_iiiiii_kademe_maarif_2048.json",
+      "dosya": "grade_1_matematik_iiiiiii_kademe_maarif_2048.json",
       "sinif": "1",
-      "ders": "Matematik I-II-III Kademe Maarif",
+      "ders": "Matematik I-II-IIIi Kademe Maarif",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_1_muzik_iiiiii_kademe_maarif_2049.json",
+      "dosya": "grade_1_muzik_iiiiiii_kademe_maarif_2049.json",
       "sinif": "1",
-      "ders": "Müzik I-II-III Kademe Maarif",
+      "ders": "Müzik I-II-IIIi Kademe Maarif",
       "kayit_sayisi": 42
     },
     {
@@ -134,15 +122,15 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_1_saglikli_yasam_ve_guvenlik_becerileri_iiiiii_kad_2050.json",
+      "dosya": "grade_1_saglikli_yasam_ve_guvenlik_becerileri_iiiiiii_ka_2050.json",
       "sinif": "1",
-      "ders": "Saglıklı Yaşam Ve Güvenlik Becerileri I-II-III Kademe Maarif",
+      "ders": "Saglıklı Yaşam Ve Güvenlik Becerileri I-II-IIIi Kademe Maarif",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_1_sosyal_beceriler_iiiiiii_kademe_maarif_2051.json",
+      "dosya": "grade_1_sosyal_beceriler_iiiiiiii_kademe_maarif_2051.json",
       "sinif": "1",
-      "ders": "Sosyal Beceriler I-II-IIIi Kademe Maarif",
+      "ders": "Sosyal Beceriler I-II-IIIıi Kademe Maarif",
       "kayit_sayisi": 42
     },
     {
@@ -182,9 +170,9 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_1_turkce_iiiiii_kademe_maarif_2053.json",
+      "dosya": "grade_1_turkce_iiiiiii_kademe_maarif_2053.json",
       "sinif": "1",
-      "ders": "Türkçe I-II-III Kademe Maarif",
+      "ders": "Türkçe I-II-IIIi Kademe Maarif",
       "kayit_sayisi": 42
     },
     {
@@ -200,12 +188,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_2_beden_egitimi_ve_oyun_226.json",
-      "sinif": "2",
-      "ders": "Beden Eğitimi Ve Oyun",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_2_beden_egitimi_ve_oyun_1950.json",
       "sinif": "2",
       "ders": "Beden Eğitimi Ve Oyun",
@@ -218,9 +200,9 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_2_gorsel_sanatlar_iiiiii_kademe_maarif_2044.json",
+      "dosya": "grade_2_gorsel_sanatlar_iiiiiii_kademe_maarif_2044.json",
       "sinif": "2",
-      "ders": "Görsel Sanatlar I-II-III Kademe Maarif",
+      "ders": "Görsel Sanatlar I-II-IIIi Kademe Maarif",
       "kayit_sayisi": 42
     },
     {
@@ -308,12 +290,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_3_hayat_bilgisi_1730.json",
-      "sinif": "3",
-      "ders": "Hayat Bilgisi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_3_hayat_bilgisi_2026.json",
       "sinif": "3",
       "ders": "Hayat Bilgisi",
@@ -362,12 +338,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_3_serbest_etkinlikler_244.json",
-      "sinif": "3",
-      "ders": "Serbest Etkinlikler",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_3_sinif_rehberlik_438.json",
       "sinif": "3",
       "ders": "Sınıf Rehberlik",
@@ -410,12 +380,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_4_din_kulturu_ve_ahlak_bilgisi_231.json",
-      "sinif": "4",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_4_din_kulturu_ve_ahlak_bilgisi_1755.json",
       "sinif": "4",
       "ders": "Din Kültürü Ve Ahlak Bilgisi",
@@ -449,12 +413,6 @@
       "dosya": "grade_4_muzik_254.json",
       "sinif": "4",
       "ders": "Müzik",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_4_sosyal_bilgiler_246.json",
-      "sinif": "4",
-      "ders": "Sosyal Bilgiler",
       "kayit_sayisi": 42
     },
     {
@@ -524,12 +482,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_5_arapca_143.json",
-      "sinif": "5",
-      "ders": "Arapça",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_5_arapca_1526.json",
       "sinif": "5",
       "ders": "Arapça",
@@ -554,12 +506,6 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_5_din_kulturu_ve_ahlak_bilgisi_1131.json",
-      "sinif": "5",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_5_din_kulturu_ve_ahlak_bilgisi_1754.json",
       "sinif": "5",
       "ders": "Din Kültürü Ve Ahlak Bilgisi",
@@ -570,12 +516,6 @@
       "sinif": "5",
       "ders": "Fen Bilimleri",
       "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_5_gorsel_sanatlar_161.json",
-      "sinif": "5",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_5_gorsel_sanatlar_1980.json",
@@ -746,21 +686,9 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_6_arapca_144.json",
-      "sinif": "6",
-      "ders": "Arapça",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_6_arapca_1518.json",
       "sinif": "6",
       "ders": "Arapça",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_6_beden_egitimi_ve_spor_148.json",
-      "sinif": "6",
-      "ders": "Beden Eğitimi Ve Spor",
       "kayit_sayisi": 42
     },
     {
@@ -768,12 +696,6 @@
       "sinif": "6",
       "ders": "Beden Eğitimi Ve Spor",
       "kayit_sayisi": 44
-    },
-    {
-      "dosya": "grade_6_bilim_uygulamalari_201.json",
-      "sinif": "6",
-      "ders": "Bilim Uygulamaları",
-      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_6_bilim_uygulamalari_1550.json",
@@ -786,12 +708,6 @@
       "sinif": "6",
       "ders": "Bilişim Teknolojiler Ve Yazılım",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_6_bilisim_teknolojiler_ve_yazilim_1952.json",
-      "sinif": "6",
-      "ders": "Bilişim Teknolojiler Ve Yazılım",
-      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_6_dijital_sanatlar_818.json",
@@ -846,12 +762,6 @@
       "sinif": "6",
       "ders": "Matematik",
       "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_6_matematik_uygulamalari_205.json",
-      "sinif": "6",
-      "ders": "Matematik Uygulamaları",
-      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_6_matematik_uygulamalari_1552.json",
@@ -1010,12 +920,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_7_arapca_145.json",
-      "sinif": "7",
-      "ders": "Arapça",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_7_arapca_1519.json",
       "sinif": "7",
       "ders": "Arapça",
@@ -1025,12 +929,6 @@
       "dosya": "grade_7_beden_egitimi_ve_spor_149.json",
       "sinif": "7",
       "ders": "Beden Eğitimi Ve Spor",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_7_bilim_uygulamalari_202.json",
-      "sinif": "7",
-      "ders": "Bilim Uygulamaları",
       "kayit_sayisi": 42
     },
     {
@@ -1049,12 +947,6 @@
       "dosya": "grade_7_dijital_sanatlar_819.json",
       "sinif": "7",
       "ders": "Dijital Sanatlar",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_7_din_kulturu_ve_ahlak_bilgisi_153.json",
-      "sinif": "7",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi",
       "kayit_sayisi": 42
     },
     {
@@ -1112,12 +1004,6 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_7_matematik_uygulamalari_206.json",
-      "sinif": "7",
-      "ders": "Matematik Uygulamaları",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_7_matematik_uygulamalari_1553.json",
       "sinif": "7",
       "ders": "Matematik Uygulamaları",
@@ -1128,12 +1014,6 @@
       "sinif": "7",
       "ders": "Medya Okuryazarlıgı",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_7_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1742.json",
-      "sinif": "7",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_7_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1743.json",
@@ -1157,12 +1037,6 @@
       "dosya": "grade_7_oyun_ve_oyun_etkinlikleri_geleneksel_oyunlar_modul_1960.json",
       "sinif": "7",
       "ders": "Oyun Ve Oyun Etkinlikleri Geleneksel Oyunlar Modülü",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_7_peygamberimizin_hayati_178.json",
-      "sinif": "7",
-      "ders": "Peygamberimizin Hayatı",
       "kayit_sayisi": 42
     },
     {
@@ -1250,12 +1124,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_8_arapca_146.json",
-      "sinif": "8",
-      "ders": "Arapça",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_8_arapca_1520.json",
       "sinif": "8",
       "ders": "Arapça",
@@ -1280,12 +1148,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_8_din_kulturu_ve_ahlak_bilgisi_154.json",
-      "sinif": "8",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_8_din_kulturu_ve_ahlak_bilgisi_1758.json",
       "sinif": "8",
       "ders": "Din Kültürü Ve Ahlak Bilgisi",
@@ -1307,12 +1169,6 @@
       "dosya": "grade_8_gorsel_sanatlar_164.json",
       "sinif": "8",
       "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_8_kuran039i_kerim_1547.json",
-      "sinif": "8",
-      "ders": "Kuran&#039;ı Kerim",
       "kayit_sayisi": 42
     },
     {
@@ -1346,18 +1202,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1729.json",
-      "sinif": "8",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1744.json",
-      "sinif": "8",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
-    },
-    {
       "dosya": "grade_8_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1745.json",
       "sinif": "8",
       "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
@@ -1373,12 +1217,6 @@
       "dosya": "grade_8_okul_temelli_sosyal_sorumluluk_calismalari_1288.json",
       "sinif": "8",
       "ders": "Okul Temelli Sosyal Sorumluluk Çalışmaları",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_8_peygamberimizin_hayati_179.json",
-      "sinif": "8",
-      "ders": "Peygamberimizin Hayatı",
       "kayit_sayisi": 42
     },
     {
@@ -1535,12 +1373,6 @@
       "dosya": "grade_9_annecocuk_sagligi_408.json",
       "sinif": "9",
       "ders": "Anne-çocuk Sağlığı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_9_arapca_108.json",
-      "sinif": "9",
-      "ders": "Arapça",
       "kayit_sayisi": 42
     },
     {
@@ -1859,12 +1691,6 @@
       "dosya": "grade_9_genel_turizm_681.json",
       "sinif": "9",
       "ders": "Genel Turizm",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_9_gorsel_sanatlar_85.json",
-      "sinif": "9",
-      "ders": "Görsel Sanatlar",
       "kayit_sayisi": 42
     },
     {
@@ -2336,12 +2162,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_9_temel_bakim_atolyesi_586.json",
-      "sinif": "9",
-      "ders": "Temel Bakım Atölyesi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_9_temel_bakim_atolyesi_1003.json",
       "sinif": "9",
       "ders": "Temel Bakım Atölyesi",
@@ -2516,12 +2336,6 @@
       "kayit_sayisi": 45
     },
     {
-      "dosya": "grade_9_turk_dili_ve_edebiyati_48.json",
-      "sinif": "9",
-      "ders": "Türk Dili Ve Edebiyati",
-      "kayit_sayisi": 45
-    },
-    {
       "dosya": "grade_9_turk_dili_ve_edebiyati_hazirlik_811.json",
       "sinif": "9",
       "ders": "Türk Dili Ve Edebiyati (hazırlık)",
@@ -2600,12 +2414,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_9_ingilizce_1702.json",
-      "sinif": "9",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_9_ingilizce_1945.json",
       "sinif": "9",
       "ders": "İngilizce",
@@ -2676,12 +2484,6 @@
       "sinif": "10",
       "ders": "Araclarda Hidrolik Pnömatik Sistemleri",
       "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_10_arapca_109.json",
-      "sinif": "10",
-      "ders": "Arapça",
-      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_arapca_1521.json",
@@ -3338,12 +3140,6 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_10_gorsel_sanatlar_86.json",
-      "sinif": "10",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_10_gorsel_sanatlar_1617.json",
       "sinif": "10",
       "ders": "Görsel Sanatlar",
@@ -3420,12 +3216,6 @@
       "sinif": "10",
       "ders": "Havaclk Ve Uzay Blmlerne Grs (havacılık Ve Uzay Teknolojisi)",
       "kayit_sayisi": 46
-    },
-    {
-      "dosya": "grade_10_hukuk_dosyalama_ve_evrak_islemleri_901.json",
-      "sinif": "10",
-      "ders": "Hukuk Dosyalama Ve Evrak İşlemleri",
-      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_10_hukuk_dosyalama_ve_evrak_islemleri_902.json",
@@ -3563,12 +3353,6 @@
       "dosya": "grade_10_kur039ani_kerim039in_anlam_dunyasiii_1578.json",
       "sinif": "10",
       "ders": "Kur&#039;an-ı Kerim&#039;in Anlam Dünyasi(ii)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_kuran039i_kerim_1459.json",
-      "sinif": "10",
-      "ders": "Kuran&#039;ı Kerim",
       "kayit_sayisi": 42
     },
     {
@@ -3731,12 +3515,6 @@
       "dosya": "grade_10_mesleki_teknoloj_dokm_10_metalurj_1576.json",
       "sinif": "10",
       "ders": "Mesleki Teknoloj Dokm 10 (metalurj)",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_mesleki_teknolojisi_izabe_10_metalurj_1574.json",
-      "sinif": "10",
-      "ders": "Mesleki Teknolojisi Izabe 10 (metalurj)",
       "kayit_sayisi": 42
     },
     {
@@ -4514,18 +4292,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_10_ingilizce_1453.json",
-      "sinif": "10",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_10_ingilizce_1703.json",
-      "sinif": "10",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_10_ingilizce_1707.json",
       "sinif": "10",
       "ders": "İngilizce",
@@ -4589,12 +4355,6 @@
       "dosya": "grade_11_aile_kaynaklari_845.json",
       "sinif": "11",
       "ders": "Aile Kaynakları",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_akaid_110.json",
-      "sinif": "11",
-      "ders": "Akaid",
       "kayit_sayisi": 42
     },
     {
@@ -5084,12 +4844,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_din_kulturu_ve_ahlak_bilgisi_71.json",
-      "sinif": "11",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_din_kulturu_ve_ahlak_bilgisi_1761.json",
       "sinif": "11",
       "ders": "Din Kültürü Ve Ahlak Bilgisi",
@@ -5153,12 +4907,6 @@
       "dosya": "grade_11_duz_yuzey_yenilestirme_teknolojisi_359.json",
       "sinif": "11",
       "ders": "Düz Yüzey Yenileştirme Teknolojisi",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_dizel_motor_yakit_sistemleri_teknolojisi_1926.json",
-      "sinif": "11",
-      "ders": "Dızel Motor Yakıt Sistemleri Teknolojisi",
       "kayit_sayisi": 42
     },
     {
@@ -5358,12 +5106,6 @@
       "sinif": "11",
       "ders": "Grafik Ve Canlandırma",
       "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_11_gorsel_sanatlar_87.json",
-      "sinif": "11",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_11_gorsel_sanatlar_1618.json",
@@ -5648,12 +5390,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_kuran039i_kerim_107.json",
-      "sinif": "11",
-      "ders": "Kuran&#039;ı Kerim",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_kuran039i_kerim_1767.json",
       "sinif": "11",
       "ders": "Kuran&#039;ı Kerim",
@@ -5696,12 +5432,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_lpg_yakit_sistemleri_teknolojisi_375.json",
-      "sinif": "11",
-      "ders": "Lpg Yakıt Sistemleri Teknolojisi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_lpg_yakit_sistemleri_teknolojisi_1933.json",
       "sinif": "11",
       "ders": "Lpg Yakıt Sistemleri Teknolojisi",
@@ -5729,12 +5459,6 @@
       "dosya": "grade_11_mantik_96.json",
       "sinif": "11",
       "ders": "Mantık",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_matematik_25.json",
-      "sinif": "11",
-      "ders": "Matematik",
       "kayit_sayisi": 42
     },
     {
@@ -5874,36 +5598,6 @@
       "sinif": "11",
       "ders": "Metal Dograma Teknolojisi",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1651.json",
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1655.json",
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1659.json",
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1674.json",
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1676.json",
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_11_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1678.json",
@@ -6227,12 +5921,6 @@
       "dosya": "grade_11_pervane_atolyesi_936.json",
       "sinif": "11",
       "ders": "Pervane Atölyesi",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_peygamberimizin_hayati_100.json",
-      "sinif": "11",
-      "ders": "Peygamberimizin Hayatı",
       "kayit_sayisi": 42
     },
     {
@@ -6680,18 +6368,6 @@
       "kayit_sayisi": 43
     },
     {
-      "dosya": "grade_11_turk_dili_ve_edebiyati_351.json",
-      "sinif": "11",
-      "ders": "Türk Dili Ve Edebiyati",
-      "kayit_sayisi": 45
-    },
-    {
-      "dosya": "grade_11_turk_dili_ve_edebiyati_352.json",
-      "sinif": "11",
-      "ders": "Türk Dili Ve Edebiyati",
-      "kayit_sayisi": 45
-    },
-    {
       "dosya": "grade_11_turk_dili_ve_edebiyati_1236.json",
       "sinif": "11",
       "ders": "Türk Dili Ve Edebiyati",
@@ -6704,15 +6380,15 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_turk_kultur_ve_medeniyetiiiiii_tarih_2_saat_yen_1802.json",
+      "dosya": "grade_11_turk_kultur_ve_medeniyetiiiiiii_tarih_2_saat_yen_1802.json",
       "sinif": "11",
-      "ders": "Türk Kültür Ve Medeniyetiiiiii Tarih (2 Saat Yen)",
+      "ders": "Türk Kültür Ve Medeniyetiiiiiii Tarih (2 Saat Yen)",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_turk_kultur_ve_medeniyetiiiiii_tarih_4_saat_yen_1804.json",
+      "dosya": "grade_11_turk_kultur_ve_medeniyetiiiiiii_tarih_4_saat_yen_1804.json",
       "sinif": "11",
-      "ders": "Türk Kültür Ve Medeniyetiiiiii Tarih (4 Saat Yen)",
+      "ders": "Türk Kültür Ve Medeniyetiiiiiii Tarih (4 Saat Yen)",
       "kayit_sayisi": 42
     },
     {
@@ -6920,12 +6596,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_11_cocuk_aktiviteleri_415.json",
-      "sinif": "11",
-      "ders": "Çocuk Aktiviteleri",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_11_cocuk_aktiviteleri_847.json",
       "sinif": "11",
       "ders": "Çocuk Aktiviteleri",
@@ -6983,18 +6653,6 @@
       "dosya": "grade_11_immunoloji_ve_seroloji_1098.json",
       "sinif": "11",
       "ders": "İmmünoloji Ve Seroloji",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_ingilizce_67.json",
-      "sinif": "11",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_11_ingilizce_1704.json",
-      "sinif": "11",
-      "ders": "İngilizce",
       "kayit_sayisi": 42
     },
     {
@@ -7118,12 +6776,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_ahilik_kulturu_ve_girisimcilik_1447.json",
-      "sinif": "12",
-      "ders": "Ahilik Kültürü Ve Girişimcilik",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_12_ahilik_kulturu_ve_girisimcilik_2008.json",
       "sinif": "12",
       "ders": "Ahilik Kültürü Ve Girişimcilik",
@@ -7133,12 +6785,6 @@
       "dosya": "grade_12_ahsap_oyuncak_yapimi_700.json",
       "sinif": "12",
       "ders": "Ahşap Oyuncak Yapımı",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_akilli_ev_sistemleri_299.json",
-      "sinif": "12",
-      "ders": "Akıllı Ev Sistemleri",
       "kayit_sayisi": 42
     },
     {
@@ -7508,45 +7154,15 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_dijital_tasarim_7.json",
-      "sinif": "12",
-      "ders": "Dijital Tasarım",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_dijital_tasarim_305.json",
-      "sinif": "12",
-      "ders": "Dijital Tasarım",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_dijital_tasarim_421.json",
-      "sinif": "12",
-      "ders": "Dijital Tasarım",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_12_diksiyon_ve_etkili_iletisim_593.json",
       "sinif": "12",
       "ders": "Diksiyon Ve Etkili İletişim",
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_din_kulturu_ve_ahlak_bilgisi_72.json",
-      "sinif": "12",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_12_din_kulturu_ve_ahlak_bilgisi_1762.json",
       "sinif": "12",
       "ders": "Din Kültürü Ve Ahlak Bilgisi",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_dinler_tarihi_73.json",
-      "sinif": "12",
-      "ders": "Dinler Tarihi",
       "kayit_sayisi": 42
     },
     {
@@ -7754,12 +7370,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_gorsel_sanatlar_88.json",
-      "sinif": "12",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_12_gorsel_sanatlar_1619.json",
       "sinif": "12",
       "ders": "Görsel Sanatlar",
@@ -7782,12 +7392,6 @@
       "sinif": "12",
       "ders": "Halkla İlişkiler Ve İletişim",
       "kayit_sayisi": 44
-    },
-    {
-      "dosya": "grade_12_hareket_kontrol_sistemleri_366.json",
-      "sinif": "12",
-      "ders": "Hareket Kontrol Sistemleri",
-      "kayit_sayisi": 42
     },
     {
       "dosya": "grade_12_hareket_kontrol_sistemleri_1987.json",
@@ -8024,12 +7628,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_kelam_116.json",
-      "sinif": "12",
-      "ders": "Kelam",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_12_kelam_1790.json",
       "sinif": "12",
       "ders": "Kelam",
@@ -8120,12 +7718,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_kuran039i_kerim_106.json",
-      "sinif": "12",
-      "ders": "Kuran&#039;ı Kerim",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_12_kuran039i_kerim_1768.json",
       "sinif": "12",
       "ders": "Kuran&#039;ı Kerim",
@@ -8141,12 +7733,6 @@
       "dosya": "grade_12_lpg_yakit_sistemleri_ariza_tespiti_2012.json",
       "sinif": "12",
       "ders": "Lpg Yakıt Sistemleri Arıza Tespiti",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_lpg_yakit_sistemleri_uygulamalari_376.json",
-      "sinif": "12",
-      "ders": "Lpg Yakıt Sistemleri Uygulamaları",
       "kayit_sayisi": 42
     },
     {
@@ -8274,18 +7860,6 @@
       "sinif": "12",
       "ders": "Metal Yzey Ve Muayene İşlemleri",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1652.json",
-      "sinif": "12",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
-    },
-    {
-      "dosya": "grade_12_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1656.json",
-      "sinif": "12",
-      "ders": "Mevcudu Ve Okul Turu Farklılıgı Dıkkate Alınması Gerekır. Ogretım Surecınde Y...",
-      "kayit_sayisi": 43
     },
     {
       "dosya": "grade_12_mevcudu_ve_okul_turu_farkliligi_dikkate_alinmasi_g_1660.json",
@@ -8456,12 +8030,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_otomotiv_meslek_resmi_1976.json",
-      "sinif": "12",
-      "ders": "Otomotıv Meslek Resmi",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_12_otomotiv_meslek_resmi_1988.json",
       "sinif": "12",
       "ders": "Otomotıv Meslek Resmi",
@@ -8484,12 +8052,6 @@
       "sinif": "12",
       "ders": "Pasta Yapım Teknikleri",
       "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_peygamberimizin_hayati_101.json",
-      "sinif": "12",
-      "ders": "Peygamberimizin Hayatı",
-      "kayit_sayisi": 44
     },
     {
       "dosya": "grade_12_peygamberimizin_hayati_1778.json",
@@ -8942,9 +8504,9 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_web_tabanli_iiiiiiicerik_yonetimi_1496.json",
+      "dosya": "grade_12_web_tabanli_iiiiiiiicerik_yonetimi_1496.json",
       "sinif": "12",
-      "ders": "Web Tabanlı Iiiiiiiçerik Yonetimi",
+      "ders": "Web Tabanlı Iiiiiiiiçerik Yonetimi",
       "kayit_sayisi": 43
     },
     {
@@ -9128,18 +8690,6 @@
       "kayit_sayisi": 42
     },
     {
-      "dosya": "grade_12_ingilizce_68.json",
-      "sinif": "12",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_ingilizce_1705.json",
-      "sinif": "12",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42
-    },
-    {
       "dosya": "grade_12_ingilizce_1709.json",
       "sinif": "12",
       "ders": "İngilizce",
@@ -9149,12 +8699,6 @@
       "dosya": "grade_12_insaat_muhasebesi_583.json",
       "sinif": "12",
       "ders": "İnşaat Muhasebesi",
-      "kayit_sayisi": 42
-    },
-    {
-      "dosya": "grade_12_islam_kultur_medeniyetii_115.json",
-      "sinif": "12",
-      "ders": "İslam Kültür Medeniyetii",
       "kayit_sayisi": 42
     },
     {

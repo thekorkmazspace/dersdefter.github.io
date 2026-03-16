@@ -71,6 +71,22 @@ def sanitize_plan_payload(plan_payload: dict) -> dict:
     return sanitized_payload
 
 
+def dedupe_source_entries(source_entries: list[dict], official_names: dict) -> list[dict]:
+    latest_by_key: dict[tuple[str, str], tuple[int, dict]] = {}
+    for source_entry in source_entries:
+        legacy_name = source_entry["dosya"]
+        plan_id = extract_plan_id(legacy_name)
+        normalized_name = normalize_display_name(
+            official_names.get(str(plan_id), source_entry["ders"])
+        )
+        key = (str(source_entry["sinif"]), normalized_name)
+        current = latest_by_key.get(key)
+        if current is None or plan_id > current[0]:
+            latest_by_key[key] = (plan_id, source_entry)
+
+    return [entry for _, entry in latest_by_key.values()]
+
+
 def extract_plan_id(filename: str) -> int:
     match = PLAN_ID_RE.search(filename)
     if not match:
@@ -113,6 +129,7 @@ def reset_public_dir() -> None:
 def build_public() -> None:
     source_index = load_json(SOURCE_INDEX)
     official_names = load_json(SOURCE_NAMES) if SOURCE_NAMES.exists() else {}
+    source_entries = dedupe_source_entries(source_index["dosyalar"], official_names)
 
     reset_public_dir()
 
@@ -120,7 +137,7 @@ def build_public() -> None:
     legacy_mappings = []
     total_rows = 0
 
-    for source_entry in source_index["dosyalar"]:
+    for source_entry in source_entries:
         legacy_name = source_entry["dosya"]
         source_plan_path = DATA_DIR / legacy_name
         if not source_plan_path.exists():

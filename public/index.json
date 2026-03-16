@@ -1,7 +1,7 @@
 {
   "surum": 1,
-  "uretildi_at": "2026-03-16T10:22:06.595898+00:00",
-  "toplam": 1535,
+  "uretildi_at": "2026-03-16T11:11:25.074106+00:00",
+  "toplam": 1459,
   "dosyalar": [
     {
       "id": 1596,
@@ -9,13 +9,6 @@
       "ders": "Beden Eğitimi (MEB- Hazırlık)-0",
       "kayit_sayisi": 42,
       "dosya": "plans/1596.json"
-    },
-    {
-      "id": 1620,
-      "sinif": "Hazırlık",
-      "ders": "Görsel Sanatlar Hazırlık",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1620.json"
     },
     {
       "id": 1955,
@@ -100,13 +93,6 @@
       "ders": "Görsel Sanatlar (MEB)-1",
       "kayit_sayisi": 43,
       "dosya": "plans/1953.json"
-    },
-    {
-      "id": 232,
-      "sinif": "1",
-      "ders": "Görsel Sanatlar-1",
-      "kayit_sayisi": 42,
-      "dosya": "plans/232.json"
     },
     {
       "id": 1669,
@@ -235,13 +221,6 @@
       "dosya": "plans/1353.json"
     },
     {
-      "id": 226,
-      "sinif": "2",
-      "ders": "Beden Eğitimi Ve Oyun-2",
-      "kayit_sayisi": 42,
-      "dosya": "plans/226.json"
-    },
-    {
       "id": 1950,
       "sinif": "2",
       "ders": "Beden Eğitimi ve Oyun (MEB)-2",
@@ -368,13 +347,6 @@
       "dosya": "plans/1517.json"
     },
     {
-      "id": 1730,
-      "sinif": "3",
-      "ders": "Hayat Bilgisi (MEB-Maarif)-3",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1730.json"
-    },
-    {
       "id": 2026,
       "sinif": "3",
       "ders": "Hayat Bilgisi (Meb-Yeni)-3",
@@ -424,13 +396,6 @@
       "dosya": "plans/1539.json"
     },
     {
-      "id": 244,
-      "sinif": "3",
-      "ders": "Serbest Etkinlikler-3",
-      "kayit_sayisi": 42,
-      "dosya": "plans/244.json"
-    },
-    {
       "id": 438,
       "sinif": "3",
       "ders": "Sınıf Rehberlik",
@@ -478,13 +443,6 @@
       "ders": "Beden Eğitimi Ve Oyun-4",
       "kayit_sayisi": 42,
       "dosya": "plans/228.json"
-    },
-    {
-      "id": 231,
-      "sinif": "4",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi-4",
-      "kayit_sayisi": 42,
-      "dosya": "plans/231.json"
     },
     {
       "id": 1755,
@@ -541,13 +499,6 @@
       "ders": "Sosyal Bilgiler (Tuna Yayınları)-4",
       "kayit_sayisi": 42,
       "dosya": "plans/1516.json"
-    },
-    {
-      "id": 246,
-      "sinif": "4",
-      "ders": "Sosyal Bilgiler-4",
-      "kayit_sayisi": 42,
-      "dosya": "plans/246.json"
     },
     {
       "id": 437,
@@ -620,13 +571,6 @@
       "dosya": "plans/1526.json"
     },
     {
-      "id": 143,
-      "sinif": "5",
-      "ders": "Arapça-5",
-      "kayit_sayisi": 42,
-      "dosya": "plans/143.json"
-    },
-    {
       "id": 1956,
       "sinif": "5",
       "ders": "Beden Eğitimi ve Spor (MEB)-5",
@@ -648,13 +592,6 @@
       "dosya": "plans/1951.json"
     },
     {
-      "id": 1131,
-      "sinif": "5",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi-5",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1131.json"
-    },
-    {
       "id": 1754,
       "sinif": "5",
       "ders": "Din Kültürü ve Ahlak Bilgisi (MEB)-5",
@@ -667,13 +604,6 @@
       "ders": "Fen Bilimleri",
       "kayit_sayisi": 43,
       "dosya": "plans/1605.json"
-    },
-    {
-      "id": 161,
-      "sinif": "5",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42,
-      "dosya": "plans/161.json"
     },
     {
       "id": 1980,
@@ -879,20 +809,6 @@
       "dosya": "plans/1518.json"
     },
     {
-      "id": 144,
-      "sinif": "6",
-      "ders": "Arapça-6",
-      "kayit_sayisi": 42,
-      "dosya": "plans/144.json"
-    },
-    {
-      "id": 148,
-      "sinif": "6",
-      "ders": "Beden Eğitimi Ve Spor-6",
-      "kayit_sayisi": 42,
-      "dosya": "plans/148.json"
-    },
-    {
       "id": 1957,
       "sinif": "6",
       "ders": "Beden Eğitimi ve Spor (MEB)-6",
@@ -905,20 +821,6 @@
       "ders": "Bilim Uygulamaları",
       "kayit_sayisi": 42,
       "dosya": "plans/1550.json"
-    },
-    {
-      "id": 201,
-      "sinif": "6",
-      "ders": "Bilim Uygulamaları-6",
-      "kayit_sayisi": 42,
-      "dosya": "plans/201.json"
-    },
-    {
-      "id": 1952,
-      "sinif": "6",
-      "ders": "Bilişim Teknolojiler Ve Yazılım",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1952.json"
     },
     {
       "id": 1990,
@@ -989,13 +891,6 @@
       "ders": "Matematik",
       "kayit_sayisi": 43,
       "dosya": "plans/1795.json"
-    },
-    {
-      "id": 205,
-      "sinif": "6",
-      "ders": "Matematik Uygulamaları",
-      "kayit_sayisi": 42,
-      "dosya": "plans/205.json"
     },
     {
       "id": 1552,
@@ -1187,13 +1082,6 @@
       "dosya": "plans/1519.json"
     },
     {
-      "id": 145,
-      "sinif": "7",
-      "ders": "Arapça-7",
-      "kayit_sayisi": 42,
-      "dosya": "plans/145.json"
-    },
-    {
       "id": 149,
       "sinif": "7",
       "ders": "Beden Eğitimi Ve Spor-7",
@@ -1208,13 +1096,6 @@
       "dosya": "plans/1551.json"
     },
     {
-      "id": 202,
-      "sinif": "7",
-      "ders": "Bilim Uygulamaları-7",
-      "kayit_sayisi": 42,
-      "dosya": "plans/202.json"
-    },
-    {
       "id": 140,
       "sinif": "7",
       "ders": "Bilişim Teknolojiler Ve Yazılım (secmeli)",
@@ -1227,13 +1108,6 @@
       "ders": "Dijital Sanatlar",
       "kayit_sayisi": 42,
       "dosya": "plans/819.json"
-    },
-    {
-      "id": 153,
-      "sinif": "7",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi-7",
-      "kayit_sayisi": 42,
-      "dosya": "plans/153.json"
     },
     {
       "id": 1757,
@@ -1299,13 +1173,6 @@
       "dosya": "plans/1725.json"
     },
     {
-      "id": 206,
-      "sinif": "7",
-      "ders": "Matematik Uygulamaları",
-      "kayit_sayisi": 42,
-      "dosya": "plans/206.json"
-    },
-    {
       "id": 1553,
       "sinif": "7",
       "ders": "Matematik Uygulamaları",
@@ -1318,13 +1185,6 @@
       "ders": "Medya Okuryazarlıgı",
       "kayit_sayisi": 42,
       "dosya": "plans/208.json"
-    },
-    {
-      "id": 1742,
-      "sinif": "7",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 44,
-      "dosya": "plans/1742.json"
     },
     {
       "id": 1743,
@@ -1360,13 +1220,6 @@
       "ders": "Peygamberimizin Hayatı (MEB)-7",
       "kayit_sayisi": 42,
       "dosya": "plans/1779.json"
-    },
-    {
-      "id": 178,
-      "sinif": "7",
-      "ders": "Peygamberimizin Hayatı-7",
-      "kayit_sayisi": 42,
-      "dosya": "plans/178.json"
     },
     {
       "id": 1468,
@@ -1467,13 +1320,6 @@
       "dosya": "plans/1520.json"
     },
     {
-      "id": 146,
-      "sinif": "8",
-      "ders": "Arapça-8",
-      "kayit_sayisi": 42,
-      "dosya": "plans/146.json"
-    },
-    {
       "id": 150,
       "sinif": "8",
       "ders": "Beden Eğitimi Ve Spor-8",
@@ -1493,13 +1339,6 @@
       "ders": "Bilişim Teknolojiler Ve Yazılım (secmeli)",
       "kayit_sayisi": 42,
       "dosya": "plans/141.json"
-    },
-    {
-      "id": 154,
-      "sinif": "8",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi-8",
-      "kayit_sayisi": 42,
-      "dosya": "plans/154.json"
     },
     {
       "id": 1758,
@@ -1537,13 +1376,6 @@
       "dosya": "plans/1766.json"
     },
     {
-      "id": 1547,
-      "sinif": "8",
-      "ders": "Kuran'ı Kerim-8",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1547.json"
-    },
-    {
       "id": 1271,
       "sinif": "8",
       "ders": "Masal Ve Destanlarımız Iı",
@@ -1572,20 +1404,6 @@
       "dosya": "plans/209.json"
     },
     {
-      "id": 1729,
-      "sinif": "8",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1729.json"
-    },
-    {
-      "id": 1744,
-      "sinif": "8",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1744.json"
-    },
-    {
       "id": 1745,
       "sinif": "8",
       "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
@@ -1612,13 +1430,6 @@
       "ders": "Peygamberimizin Hayatı (MEB)-8",
       "kayit_sayisi": 42,
       "dosya": "plans/1780.json"
-    },
-    {
-      "id": 179,
-      "sinif": "8",
-      "ders": "Peygamberimizin Hayatı-8",
-      "kayit_sayisi": 42,
-      "dosya": "plans/179.json"
     },
     {
       "id": 212,
@@ -1801,13 +1612,6 @@
       "ders": "Arapça (MEB-Maarif)-9",
       "kayit_sayisi": 42,
       "dosya": "plans/1548.json"
-    },
-    {
-      "id": 108,
-      "sinif": "9",
-      "ders": "Arapça-9",
-      "kayit_sayisi": 42,
-      "dosya": "plans/108.json"
     },
     {
       "id": 354,
@@ -2172,13 +1976,6 @@
       "ders": "Genel Turizm-9",
       "kayit_sayisi": 42,
       "dosya": "plans/681.json"
-    },
-    {
-      "id": 85,
-      "sinif": "9",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42,
-      "dosya": "plans/85.json"
     },
     {
       "id": 1615,
@@ -2734,13 +2531,6 @@
       "dosya": "plans/1003.json"
     },
     {
-      "id": 586,
-      "sinif": "9",
-      "ders": "Temel Bakım Atölyesi-9",
-      "kayit_sayisi": 42,
-      "dosya": "plans/586.json"
-    },
-    {
       "id": 986,
       "sinif": "9",
       "ders": "Temel Denizcilik Atölyesi",
@@ -2930,13 +2720,6 @@
       "dosya": "plans/1666.json"
     },
     {
-      "id": 48,
-      "sinif": "9",
-      "ders": "Türk Dili Ve Edebiyatı",
-      "kayit_sayisi": 45,
-      "dosya": "plans/48.json"
-    },
-    {
       "id": 349,
       "sinif": "9",
       "ders": "Türk Dili Ve Edebiyatı",
@@ -3035,13 +2818,6 @@
       "dosya": "plans/409.json"
     },
     {
-      "id": 1702,
-      "sinif": "9",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1702.json"
-    },
-    {
       "id": 1945,
       "sinif": "9",
       "ders": "İngilizce",
@@ -3131,13 +2907,6 @@
       "ders": "Arapça (MEB)-10",
       "kayit_sayisi": 42,
       "dosya": "plans/1521.json"
-    },
-    {
-      "id": 109,
-      "sinif": "10",
-      "ders": "Arapça-10",
-      "kayit_sayisi": 42,
-      "dosya": "plans/109.json"
     },
     {
       "id": 353,
@@ -3896,13 +3665,6 @@
       "dosya": "plans/1391.json"
     },
     {
-      "id": 86,
-      "sinif": "10",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42,
-      "dosya": "plans/86.json"
-    },
-    {
       "id": 1617,
       "sinif": "10",
       "ders": "Görsel Sanatlar",
@@ -3992,13 +3754,6 @@
       "ders": "Havaclk Ve Uzay Blmlerne Grs (havacılık Ve Uzay Teknolojisi)",
       "kayit_sayisi": 46,
       "dosya": "plans/1916.json"
-    },
-    {
-      "id": 901,
-      "sinif": "10",
-      "ders": "Hukuk Dosyalama Ve Evrak İşlemleri",
-      "kayit_sayisi": 42,
-      "dosya": "plans/901.json"
     },
     {
       "id": 902,
@@ -4169,13 +3924,6 @@
       "dosya": "plans/1770.json"
     },
     {
-      "id": 1459,
-      "sinif": "10",
-      "ders": "Kuran'ı Kerim-10",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1459.json"
-    },
-    {
       "id": 1390,
       "sinif": "10",
       "ders": "Kurgu Uygulamaları",
@@ -4342,13 +4090,6 @@
       "ders": "Mesleki Teknoloj Dokm 10 (metalurj)",
       "kayit_sayisi": 42,
       "dosya": "plans/1576.json"
-    },
-    {
-      "id": 1574,
-      "sinif": "10",
-      "ders": "Mesleki Teknolojisi Izabe 10 (metalurj)",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1574.json"
     },
     {
       "id": 1750,
@@ -5268,20 +5009,6 @@
       "dosya": "plans/520.json"
     },
     {
-      "id": 1453,
-      "sinif": "10",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1453.json"
-    },
-    {
-      "id": 1703,
-      "sinif": "10",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1703.json"
-    },
-    {
       "id": 1707,
       "sinif": "10",
       "ders": "İngilizce",
@@ -5364,13 +5091,6 @@
       "ders": "Akaid (MEB)-11",
       "kayit_sayisi": 42,
       "dosya": "plans/1786.json"
-    },
-    {
-      "id": 110,
-      "sinif": "11",
-      "ders": "Akaid-11",
-      "kayit_sayisi": 42,
-      "dosya": "plans/110.json"
     },
     {
       "id": 320,
@@ -5933,13 +5653,6 @@
       "dosya": "plans/103.json"
     },
     {
-      "id": 71,
-      "sinif": "11",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi-11",
-      "kayit_sayisi": 42,
-      "dosya": "plans/71.json"
-    },
-    {
       "id": 1761,
       "sinif": "11",
       "ders": "Din Kültürü ve Ahlak Bilgisi (MEB)-11",
@@ -6015,13 +5728,6 @@
       "ders": "Düz Yüzey Yenileştirme Teknolojisi-11",
       "kayit_sayisi": 42,
       "dosya": "plans/359.json"
-    },
-    {
-      "id": 1926,
-      "sinif": "11",
-      "ders": "Dızel Motor Yakıt Sistemleri Teknolojisi",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1926.json"
     },
     {
       "id": 1932,
@@ -6253,13 +5959,6 @@
       "ders": "Grafik Ve Canlandırma",
       "kayit_sayisi": 43,
       "dosya": "plans/1484.json"
-    },
-    {
-      "id": 87,
-      "sinif": "11",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42,
-      "dosya": "plans/87.json"
     },
     {
       "id": 1618,
@@ -6598,13 +6297,6 @@
       "dosya": "plans/1767.json"
     },
     {
-      "id": 107,
-      "sinif": "11",
-      "ders": "Kuran'ı Kerim-11",
-      "kayit_sayisi": 42,
-      "dosya": "plans/107.json"
-    },
-    {
       "id": 1403,
       "sinif": "11",
       "ders": "Kuyumculukta Hasır Orme",
@@ -6654,13 +6346,6 @@
       "dosya": "plans/1933.json"
     },
     {
-      "id": 375,
-      "sinif": "11",
-      "ders": "Lpg Yakıt Sistemleri Teknolojisi-11",
-      "kayit_sayisi": 42,
-      "dosya": "plans/375.json"
-    },
-    {
       "id": 1001,
       "sinif": "11",
       "ders": "Makyaj Uygulamalar Atölyesi",
@@ -6687,13 +6372,6 @@
       "ders": "Mantık",
       "kayit_sayisi": 42,
       "dosya": "plans/96.json"
-    },
-    {
-      "id": 25,
-      "sinif": "11",
-      "ders": "Matematik",
-      "kayit_sayisi": 42,
-      "dosya": "plans/25.json"
     },
     {
       "id": 27,
@@ -6855,41 +6533,6 @@
       "ders": "Metal Dograma Teknolojisi",
       "kayit_sayisi": 42,
       "dosya": "plans/668.json"
-    },
-    {
-      "id": 1651,
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1651.json"
-    },
-    {
-      "id": 1655,
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1655.json"
-    },
-    {
-      "id": 1659,
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1659.json"
-    },
-    {
-      "id": 1674,
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1674.json"
-    },
-    {
-      "id": 1676,
-      "sinif": "11",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1676.json"
     },
     {
       "id": 1678,
@@ -7275,13 +6918,6 @@
       "ders": "Peygamberimizin Hayatı (MEB)-11",
       "kayit_sayisi": 42,
       "dosya": "plans/1777.json"
-    },
-    {
-      "id": 100,
-      "sinif": "11",
-      "ders": "Peygamberimizin Hayatı-11",
-      "kayit_sayisi": 42,
-      "dosya": "plans/100.json"
     },
     {
       "id": 1321,
@@ -7795,20 +7431,6 @@
       "dosya": "plans/1663.json"
     },
     {
-      "id": 351,
-      "sinif": "11",
-      "ders": "Türk Dili Ve Edebiyatı",
-      "kayit_sayisi": 45,
-      "dosya": "plans/351.json"
-    },
-    {
-      "id": 352,
-      "sinif": "11",
-      "ders": "Türk Dili Ve Edebiyatı",
-      "kayit_sayisi": 45,
-      "dosya": "plans/352.json"
-    },
-    {
       "id": 1236,
       "sinif": "11",
       "ders": "Türk Dili Ve Edebiyatı",
@@ -8082,13 +7704,6 @@
       "dosya": "plans/847.json"
     },
     {
-      "id": 415,
-      "sinif": "11",
-      "ders": "Çocuk Aktiviteleri-11",
-      "kayit_sayisi": 42,
-      "dosya": "plans/415.json"
-    },
-    {
       "id": 416,
       "sinif": "11",
       "ders": "Çocuk Edebiyatı Ve Masal Anlatımı-11",
@@ -8150,20 +7765,6 @@
       "ders": "İmmünoloji̇ Ve Seroloji̇(Yeni*)-11",
       "kayit_sayisi": 42,
       "dosya": "plans/1098.json"
-    },
-    {
-      "id": 67,
-      "sinif": "11",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42,
-      "dosya": "plans/67.json"
-    },
-    {
-      "id": 1704,
-      "sinif": "11",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1704.json"
     },
     {
       "id": 1708,
@@ -8306,13 +7907,6 @@
       "dosya": "plans/481.json"
     },
     {
-      "id": 1447,
-      "sinif": "12",
-      "ders": "Ahilik Kültürü Ve Girişimcilik",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1447.json"
-    },
-    {
       "id": 2008,
       "sinif": "12",
       "ders": "Ahilik Kültürü Ve Girişimcilik",
@@ -8332,13 +7926,6 @@
       "ders": "Akıllı Ev Sistemleri",
       "kayit_sayisi": 42,
       "dosya": "plans/319.json"
-    },
-    {
-      "id": 299,
-      "sinif": "12",
-      "ders": "Akıllı Ev Sistemleri-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/299.json"
     },
     {
       "id": 198,
@@ -8754,27 +8341,6 @@
       "dosya": "plans/577.json"
     },
     {
-      "id": 305,
-      "sinif": "12",
-      "ders": "Digital Tasarım-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/305.json"
-    },
-    {
-      "id": 421,
-      "sinif": "12",
-      "ders": "Digital Tasarım-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/421.json"
-    },
-    {
-      "id": 7,
-      "sinif": "12",
-      "ders": "Dijital Tasarım",
-      "kayit_sayisi": 42,
-      "dosya": "plans/7.json"
-    },
-    {
       "id": 1500,
       "sinif": "12",
       "ders": "Dijital Tasarım",
@@ -8789,13 +8355,6 @@
       "dosya": "plans/593.json"
     },
     {
-      "id": 72,
-      "sinif": "12",
-      "ders": "Din Kültürü Ve Ahlak Bilgisi-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/72.json"
-    },
-    {
       "id": 1762,
       "sinif": "12",
       "ders": "Din Kültürü ve Ahlak Bilgisi (MEB)-12",
@@ -8808,13 +8367,6 @@
       "ders": "Dinler Tarihi (MEB)-12",
       "kayit_sayisi": 42,
       "dosya": "plans/1787.json"
-    },
-    {
-      "id": 73,
-      "sinif": "12",
-      "ders": "Dinler Tarihi-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/73.json"
     },
     {
       "id": 551,
@@ -9048,13 +8600,6 @@
       "dosya": "plans/773.json"
     },
     {
-      "id": 88,
-      "sinif": "12",
-      "ders": "Görsel Sanatlar",
-      "kayit_sayisi": 42,
-      "dosya": "plans/88.json"
-    },
-    {
       "id": 1619,
       "sinif": "12",
       "ders": "Görsel Sanatlar",
@@ -9088,13 +8633,6 @@
       "ders": "Hareket Kontrol Sistemleri",
       "kayit_sayisi": 42,
       "dosya": "plans/1987.json"
-    },
-    {
-      "id": 366,
-      "sinif": "12",
-      "ders": "Hareket Kontrol Sistemleri-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/366.json"
     },
     {
       "id": 2003,
@@ -9370,13 +8908,6 @@
       "dosya": "plans/1790.json"
     },
     {
-      "id": 116,
-      "sinif": "12",
-      "ders": "Kelam-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/116.json"
-    },
-    {
       "id": 708,
       "sinif": "12",
       "ders": "Kesf Ve Malyet",
@@ -9482,13 +9013,6 @@
       "dosya": "plans/1768.json"
     },
     {
-      "id": 106,
-      "sinif": "12",
-      "ders": "Kuran'ı Kerim-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/106.json"
-    },
-    {
       "id": 374,
       "sinif": "12",
       "ders": "Lpg Arıza Teşhisi-12",
@@ -9508,13 +9032,6 @@
       "ders": "Lpg Yakıt Sistemleri Uygulamaları",
       "kayit_sayisi": 42,
       "dosya": "plans/2011.json"
-    },
-    {
-      "id": 376,
-      "sinif": "12",
-      "ders": "Lpg Yakıt Sistemleri Uygulamaları-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/376.json"
     },
     {
       "id": 537,
@@ -9655,20 +9172,6 @@
       "ders": "Metal Yzey Ve Muayene İşlemleri",
       "kayit_sayisi": 42,
       "dosya": "plans/677.json"
-    },
-    {
-      "id": 1652,
-      "sinif": "12",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1652.json"
-    },
-    {
-      "id": 1656,
-      "sinif": "12",
-      "ders": "Mevcudu Ve Okul Turu Farklılığı Dikkate Alınması Gerekir. Öğretim Sürecinde Y...",
-      "kayit_sayisi": 43,
-      "dosya": "plans/1656.json"
     },
     {
       "id": 1660,
@@ -9867,13 +9370,6 @@
       "dosya": "plans/1977.json"
     },
     {
-      "id": 1976,
-      "sinif": "12",
-      "ders": "Otomotıv Meslek Resmi",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1976.json"
-    },
-    {
       "id": 1988,
       "sinif": "12",
       "ders": "Otomotıv Meslek Resmi",
@@ -9907,13 +9403,6 @@
       "ders": "Peygamberimizin Hayatı (MEB)-12",
       "kayit_sayisi": 42,
       "dosya": "plans/1778.json"
-    },
-    {
-      "id": 101,
-      "sinif": "12",
-      "ders": "Peygamberimizin Hayatı-12",
-      "kayit_sayisi": 44,
-      "dosya": "plans/101.json"
     },
     {
       "id": 1322,
@@ -10651,20 +10140,6 @@
       "dosya": "plans/504.json"
     },
     {
-      "id": 68,
-      "sinif": "12",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42,
-      "dosya": "plans/68.json"
-    },
-    {
-      "id": 1705,
-      "sinif": "12",
-      "ders": "İngilizce",
-      "kayit_sayisi": 42,
-      "dosya": "plans/1705.json"
-    },
-    {
       "id": 1709,
       "sinif": "12",
       "ders": "İngilizce",
@@ -10684,13 +10159,6 @@
       "ders": "İslam Kültür Medeniyeti (MEB)-12",
       "kayit_sayisi": 42,
       "dosya": "plans/1789.json"
-    },
-    {
-      "id": 115,
-      "sinif": "12",
-      "ders": "İslam Kültür Medeniyeti-12",
-      "kayit_sayisi": 42,
-      "dosya": "plans/115.json"
     },
     {
       "id": 554,
