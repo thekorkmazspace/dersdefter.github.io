@@ -7,60 +7,69 @@
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
-      "KAZANIM": "G.8.1.2 Görsel Sanat çalışması oluşturma kaynağı olarak bir süreç dosyası geliştirir."
+      "KAZANIM": "G.8.1.2 Görsel Sanat çalışması oluşturma kaynağı olarak bir süreç dosyası geliştirir.",
+      "KONU": ""
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
-      "KAZANIM": "G.8.1.1 Görsel Sanat çalışması oluşturma sürecini eskiz defterinde gösterir."
+      "KAZANIM": "G.8.1.1 Görsel Sanat çalışması oluşturma sürecini eskiz defterinde gösterir.",
+      "KONU": ""
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "1",
-      "KAZANIM": "G.8.1.7 Gözleme dayalı çizimlerinde farklı bakış açılarını gösterir."
+      "KAZANIM": "G.8.1.7 Gözleme dayalı çizimlerinde farklı bakış açılarını gösterir.",
+      "KONU": ""
     },
     {
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
-      "KAZANIM": "G.8.1.5 Güncel Olayları görsel sanat çalışmasına yansıtır."
+      "KAZANIM": "G.8.1.5 Güncel Olayları görsel sanat çalışmasına yansıtır.",
+      "KONU": ""
     },
     {
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
-      "KAZANIM": "Sanat alanlarında üretim ve kazanımlar üzerine söyleşi"
+      "KAZANIM": "Sanat alanlarında üretim ve kazanımlar üzerine söyleşi",
+      "KONU": ""
     },
     {
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "1",
-      "KAZANIM": "1.Ders içi Performans Değerlendirme"
+      "KAZANIM": "1.Ders içi Performans Değerlendirme",
+      "KONU": ""
     },
     {
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "1",
-      "KAZANIM": "G.8.1.3 Görsel Sanat çalışmasını oluşturmak için güncel sanattan yararlanır."
+      "KAZANIM": "G.8.1.3 Görsel Sanat çalışmasını oluşturmak için güncel sanattan yararlanır.",
+      "KONU": ""
     },
     {
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
-      "KAZANIM": "G.8.3.6 Çağdaş medyadaki imaj yazı ve sembol gibi unsurların etkisini analiz eder."
+      "KAZANIM": "G.8.3.6 Çağdaş medyadaki imaj yazı ve sembol gibi unsurların etkisini analiz eder.",
+      "KONU": ""
     },
     {
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
-      "KAZANIM": "1. Dönem 1. Sınav G.8.3.6 Çağdaş medyadaki imaj yazı ve sembol gibi unsurların etkisini analiz eder."
+      "KAZANIM": "1. Dönem 1. Sınav G.8.3.6 Çağdaş medyadaki imaj yazı ve sembol gibi unsurların etkisini analiz eder.",
+      "KONU": ""
     },
     {
       "AY": "KASIM",
@@ -75,14 +84,16 @@
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
-      "KAZANIM": "Reklamcılıkta parasal ve ekonomik kazanımlar üzerine sohbet."
+      "KAZANIM": "Reklamcılıkta parasal ve ekonomik kazanımlar üzerine sohbet.",
+      "KONU": ""
     },
     {
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
-      "KAZANIM": "2.Ders İçi Performans Değerlendirme"
+      "KAZANIM": "2.Ders İçi Performans Değerlendirme",
+      "KONU": ""
     },
     {
       "AY": "ARALIK",
@@ -97,27 +108,31 @@
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
-      "KAZANIM": "G.8.3.1 Sanat eserlerindeki görsel dili düzenlemenin ifadeleri aktarmadaki etkisini analiz eder."
+      "KAZANIM": "G.8.3.1 Sanat eserlerindeki görsel dili düzenlemenin ifadeleri aktarmadaki etkisini analiz eder.",
+      "KONU": ""
     },
     {
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
-      "KAZANIM": "G.8.1.9 Görsel sanat çalışmasını oluştururken sanat elemanlarını ve tasarım ilkelerini kullanır."
+      "KAZANIM": "G.8.1.9 Görsel sanat çalışmasını oluştururken sanat elemanlarını ve tasarım ilkelerini kullanır.",
+      "KONU": ""
     },
     {
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
-      "KAZANIM": "Sosyal yaşamımızda israfın önlenmesi adına yapılacak sanat etkinlikleri."
+      "KAZANIM": "Sosyal yaşamımızda israfın önlenmesi adına yapılacak sanat etkinlikleri.",
+      "KONU": ""
     },
     {
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "1",
-      "KAZANIM": "Ürün dosyası değerlendirme."
+      "KAZANIM": "Ürün dosyası değerlendirme.",
+      "KONU": ""
     },
     {
       "AY": "OCAK",
@@ -152,13 +167,15 @@
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "1",
-      "KAZANIM": "Oran ilişkileri birlik uyum çeşitlilik Bir veya birkaç sanat elemanının uyumlu birlikteliği."
+      "KAZANIM": "Oran ilişkileri birlik uyum çeşitlilik Bir veya birkaç sanat elemanının uyumlu birlikteliği.",
+      "KONU": ""
     },
     {
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "1",
-      "KAZANIM": "Sanat müzayedelerinde eserlerin niçin çok meblağa satıldığı üzerine sohbet."
+      "KAZANIM": "Sanat müzayedelerinde eserlerin niçin çok meblağa satıldığı üzerine sohbet.",
+      "KONU": ""
     },
     {
       "AY": "ŞUBAT",
@@ -172,21 +189,24 @@
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
-      "KAZANIM": "G.8.3.3 Sanatla ilişkili olarak estetiğin ne olduğunu ifade eder."
+      "KAZANIM": "G.8.3.3 Sanatla ilişkili olarak estetiğin ne olduğunu ifade eder.",
+      "KONU": ""
     },
     {
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
-      "KAZANIM": "İnternet üzerinden yapılan müzayedelerden elde edilen kazanç."
+      "KAZANIM": "İnternet üzerinden yapılan müzayedelerden elde edilen kazanç.",
+      "KONU": ""
     },
     {
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
-      "KAZANIM": "1. Ders içi Performans Değerlendirme"
+      "KAZANIM": "1. Ders içi Performans Değerlendirme",
+      "KONU": ""
     },
     {
       "AY": "MART",
@@ -209,14 +229,16 @@
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
-      "KAZANIM": "G.8.3.5 Sanatın tanımlamasını ifade eder."
+      "KAZANIM": "G.8.3.5 Sanatın tanımlamasını ifade eder.",
+      "KONU": ""
     },
     {
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
-      "KAZANIM": "2. Dönem 1. Sınav Sosyal yaşamda eleştirinin etik kuralları"
+      "KAZANIM": "2. Dönem 1. Sınav Sosyal yaşamda eleştirinin etik kuralları",
+      "KONU": ""
     },
     {
       "AY": "NISAN",
@@ -231,21 +253,24 @@
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
-      "KAZANIM": "G.8.1.6 Görsel sanat çalışmasında farklı perspektif derinlik tekniklerini kullanır."
+      "KAZANIM": "G.8.1.6 Görsel sanat çalışmasında farklı perspektif derinlik tekniklerini kullanır.",
+      "KONU": ""
     },
     {
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
-      "KAZANIM": "G.8.3.4 Kendisinin ve akranlarının çalışmalarını analiz eder."
+      "KAZANIM": "G.8.3.4 Kendisinin ve akranlarının çalışmalarını analiz eder.",
+      "KONU": ""
     },
     {
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
-      "KAZANIM": "2. Ders İçi Performans Değerlendirme"
+      "KAZANIM": "2. Ders İçi Performans Değerlendirme",
+      "KONU": ""
     },
     {
       "AY": "MAYIS",
@@ -260,28 +285,32 @@
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
-      "KAZANIM": "G.8.2.3 Dönem üslup kullanılan malzemelere göre sanat eserlerinin özelliklerini karşılaştırır."
+      "KAZANIM": "G.8.2.3 Dönem üslup kullanılan malzemelere göre sanat eserlerinin özelliklerini karşılaştırır.",
+      "KONU": ""
     },
     {
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
-      "KAZANIM": "G.8.2.4 Müzelerdeki eserlerin korunmasının önemini kavrar"
+      "KAZANIM": "G.8.2.4 Müzelerdeki eserlerin korunmasının önemini kavrar",
+      "KONU": ""
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
-      "KAZANIM": "2. Dönem 2. Sınav Proje Çalışmaları Değerlendirme"
+      "KAZANIM": "2. Dönem 2. Sınav Proje Çalışmaları Değerlendirme",
+      "KONU": ""
     },
     {
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "1",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
-      "KAZANIM": "G.8.2.2 Sanatçının toplumda yüklendiği rolleri bilir."
+      "KAZANIM": "G.8.2.2 Sanatçının toplumda yüklendiği rolleri bilir.",
+      "KONU": ""
     },
     {
       "AY": "HAZIRAN",

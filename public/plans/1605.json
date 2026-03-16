@@ -52,8 +52,8 @@
       "AY": "EKİM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "22",
-      "KONU": "Dünyamız ve Gökyüzündeki Komşularımız Kuvvet ve Kuvvetin Ölçülmesi",
-      "KAZANIM": "FB.5.1.3.1. Güneş Dünya ve Ayın birbirlerine göre hareketlerini ve hacimsel büyüklüklerini temsil eden bilimsel model oluşturabilme FB.5.2.1.1. Kuvveti büyüklüğü ile tanımlayabilme\nFB.5.1.3.1. a Güneş Dünya ve Ayın birbirlerine göre hareketlerini ve büyüklüklerini temsil eden bir model önerir. b Güneş Dünya ve Ayın birbirlerine göre hareketlerini ve büyüklüklerini temsil eden modelini yeni kanıtlara göre geliştirir. FB.5.2.1.1. a Kuvvetin niteliklerini tanımlar. b Kuvvetin büyüklüğünü dinamometre ile ölçer. c Kuvvetin büyüklüğünü Newton N birimi ile tanımlar."
+      "KONU": "Dünyamız ve Gökyüzündeki Komşularımız",
+      "KAZANIM": "FB.5.1.3.1. Güneş Dünya ve Ayın birbirlerine göre hareketlerini ve hacimsel büyüklüklerini temsil eden bilimsel model oluşturabilme\nFB.5.1.3.1. a Güneş Dünya ve Ayın birbirlerine göre hareketlerini ve büyüklüklerini temsil eden bir model önerir. b Güneş Dünya ve Ayın birbirlerine göre hareketlerini ve büyüklüklerini temsil eden modelini yeni kanıtlara göre geliştirir."
     },
     {
       "AY": "EKİM",
@@ -196,9 +196,9 @@
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "4",
-      "KONU": "Tam Gölgenin Oluşumu Maddenin Tanecikli Yapısı",
+      "KONU": "Madde ve Işık Tam Gölgenin Oluşumu",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
-      "KAZANIM": "FB.5.4.3.1. Tam gölgeye yönelik bilimsel gözlem yapabilme FB.5.5.1.1. Maddeleri tanecikli boşluklu ve hareketli yapısına göre sınıflandırabilme\nFB.5.4.3.1. a Tam gölgenin nitelikleri tanımlar. b Tam gölgeye ait elde ettiği verileri kaydeder. c Tam gölgeyi etkileyen değişkenleri açıklar. FB.5.5.1.1. a Maddelerin tanecikli boşluklu ve hareketli yapısının niteliklerini belirler. b Maddeleri tanecikli boşluklu ve hareketli yapısına göre ayrıştırır. c Maddeleri tanecikli boşluklu ve hareketli yapısına göre katı sıvı ve gaz olarak gruplandırır. ç Maddeleri tanecikli boşluklu ve hareketli yapılarına göre farklı gruplar altında etiketler."
+      "KAZANIM": "FB.5.4.2.1. Maddeleri ışığı geçirme durumlarına göre sınıflandırabilme FB.5.4.3.1. Tam gölgeye yönelik bilimsel gözlem yapabilme\nFB.5.4.2.1. a Maddelerin ışığı geçirme durumlarına göre niteliklerini belirler. b Maddeleri ışığı geçirme durumlarına göre ayrıştırır. c Maddeleri ışığı geçirme durumlarına göre gruplandırır. ç Maddeleri ışığı geçirme durumlarına göre etiketler. FB.5.4.3.1. a Tam gölgenin nitelikleri tanımlar. b Tam gölgeye ait elde ettiği verileri kaydeder. c Tam gölgeyi etkileyen değişkenleri açıklar."
     },
     {
       "AY": "MART",
@@ -260,9 +260,9 @@
       "AY": "NİSAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "22",
-      "KONU": "Madde ve Isı Devre Elemanlarının Sembollerle Gösterimi ve Devre Şemaları",
+      "KONU": "Madde ve Isı",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
-      "KAZANIM": "FB.5.5.4.2. Isı yalıtımını gösteren model oluşturabilme FB.5.6.1.1. Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre sınıflandırabilme\nFB.5.5.4.2. a Isı yalıtımı ile ilgili model önerir. b Yeni kanıtlarla modeli yeniler. FB.5.6.1.1. a Bir elektrik devresindeki elemanların sembollerini belirler. b Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre ayrıştırır. c Bir elektrik devresindeki elemanları sembollerinin olup olmamasına göre gruplandırır. ç Bir elektrik devresindeki elemanların sembollerini niteliklerine göre etiketler."
+      "KAZANIM": "FB.5.5.4.1. Maddeleri ısı iletimi bakımından sınıflandırabilme FB.5.5.4.2. Isı yalıtımını gösteren model oluşturabilme\nFB.5.5.4.1. a Maddeleri ısı iletimi bakımından belirler. b Maddeleri ısı iletkeni veya yalıtkanı olarak ayrıştırır. c Maddeleri ısı iletkeni veya yalıtkanı olarak gruplandırır. ç Maddeleri ısı iletkeni veya yalıtkanı olarak etiketler. FB.5.5.4.2. a Isı yalıtımı ile ilgili model önerir. b Yeni kanıtlarla modeli yeniler."
     },
     {
       "AY": "MAYIS",
@@ -300,9 +300,9 @@
       "AY": "HAZİRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "4",
-      "KONU": "Basit Bir Elektrik Devresinde Ampul Parlaklığını Etkileyen Değişkenler\nEvsel Atıklar ve Geri Dönüşüm\nSINAV HAFTASI",
+      "KONU": "Basit Bir Elektrik Devresinde Ampul Parlaklığını Etkileyen Değişkenler",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
-      "KAZANIM": "2. Dönem 2. Sınav OKUL TEMELLİ PLANLAMA FB.5.6.2.1. Bir elektrik devresindeki ampul parlaklığını etkileyen değişkenlerin neler olduğuna ilişkin hipotez oluşturabilme\nFB.5.7.1.1. Evsel atıklarda geri dönüştürülebilen ve dönüştürülemeyen maddeleri sınıflandırabilme\nFB.5.6.2.1. a Elektrik devrelerindeki ampul parlaklığını etkileyen değişkenleri tanımlar. b Pil ve ampul sayısını değiştirerek ampul parlaklığındaki değişimi neden-sonuç ilişkisi bağlamında belirler. c Ampul parlaklığındaki bağımlı bağımsız ve kontrol edilen değişkenleri belirler. ç Bağımsız değişken olarak pil sayısı ve ampul sayısını kontrol eder. d Farklı elektrik devreleri üzerinden ampul parlaklığının pil sayısı ve ampul sayısına bağlı olarak değiştiğine yönelik önermelerde bulunur.\nFB.5.7.1.1. a Evsel atıkların niteliklerini tanımlar. b Evsel atıkları geri dönüştürülebilen ve dönüştürülemeyen olarak ayrıştırır. c Evsel atıkları geri dönüştürülebilen ve dönüştürülemeyen olarak gruplandırır. ç Evsel atıkları geri dönüştürülebilen ve dönüştürülemeyen olarak etiketler.\nSINAV HAFTASI"
+      "KAZANIM": "FB.5.6.2.1. Bir elektrik devresindeki ampul parlaklığını etkileyen değişkenlerin neler olduğuna ilişkin hipotez oluşturabilme\nFB.5.6.2.1. a Elektrik devrelerindeki ampul parlaklığını etkileyen değişkenleri tanımlar. b Pil ve ampul sayısını değiştirerek ampul parlaklığındaki değişimi neden-sonuç ilişkisi bağlamında belirler. c Ampul parlaklığındaki bağımlı bağımsız ve kontrol edilen değişkenleri belirler. ç Bağımsız değişken olarak pil sayısı ve ampul sayısını kontrol eder. d Farklı elektrik devreleri üzerinden ampul parlaklığının pil sayısı ve ampul sayısına bağlı olarak değiştiğine yönelik önermelerde bulunur."
     },
     {
       "AY": "HAZİRAN",
