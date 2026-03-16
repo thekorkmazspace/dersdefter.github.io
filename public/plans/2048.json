@@ -3,7 +3,6 @@
   "ders": "Matematik I-II-III Kademe Maarif",
   "plan": [
     {
-      "ÜNİTE": "HATIRLATMADEĞERLENDİRME HAFTASI",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
@@ -11,7 +10,6 @@
       "KAZANIM": "HATIRLATMADEĞERLENDİRME HAFTASI 1\nHATIRLATMA DEĞERLENDİRME HAFTASI 1"
     },
     {
-      "ÜNİTE": "PEKİŞTİRMEGENELLEME HAFTASI",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
@@ -19,81 +17,59 @@
       "KAZANIM": "PEKİŞTİRMEGENELLEME HAFTASI 1"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 1",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "KONU": "Sayılar",
-      "KAZANIM": "MAT1.1. Rakamları ve 200e kadar olan sayıları 200 dâhil tanıyabilme",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT1.1. Rakamları ve 200e kadar olan sayıları 200 dâhil tanıyabilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 1",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "Sayılar",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
-      "KAZANIM": "MAT1.2. Sıralı ve karışık olarak verilen nesneşekilgörselleri dokunarak sayabilme",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT1.2. Sıralı ve karışık olarak verilen nesneşekilgörselleri dokunarak sayabilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 1",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "Sayılar",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
-      "KAZANIM": "MAT1.3. 1den 200e kadar olan sayıları sıralayabilme",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT1.3. 1den 200e kadar olan sayıları sıralayabilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 1",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "KONU": "Sayılar",
-      "KAZANIM": "MAT1.4. Sayılar ile nesne çoklukları arasındaki ilişkiyi matematiksel temsiller kullanarak gösterebilme",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT1.4. Sayılar ile nesne çoklukları arasındaki ilişkiyi matematiksel temsiller kullanarak gösterebilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 1",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "KONU": "Sayılar",
-      "KAZANIM": "MAT1.5. İleriye ve geriye doğru ritmik sayabilme",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT1.5. İleriye ve geriye doğru ritmik sayabilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 1",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "Sayılar",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
-      "KAZANIM": "MAT1.6. Nesne sayı ve şekil örüntülerini çözümleyebilme\na Nesne sayı ve şekil örüntülerinin ardışık ögelerini belirler.",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT1.6. Nesne sayı ve şekil örüntülerini çözümleyebilme\na Nesne sayı ve şekil örüntülerinin ardışık ögelerini belirler."
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 1",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "Sayılar",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
-      "KAZANIM": "MAT1.6. Nesne sayı ve şekil örüntülerini çözümleyebilme\nb Nesne sayı ve şekil örüntülerinin ardışık ögeleri arasındaki ilişkiyi belirler.",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT1.6. Nesne sayı ve şekil örüntülerini çözümleyebilme\nb Nesne sayı ve şekil örüntülerinin ardışık ögeleri arasındaki ilişkiyi belirler."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -102,94 +78,69 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 1",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "Sayılar",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
-      "KAZANIM": "MAT1.6. Nesne sayı ve şekil örüntülerini çözümleyebilme\nb Nesne sayı ve şekil örüntülerinin ardışık ögeleri arasındaki ilişkiyi belirler.",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT1.6. Nesne sayı ve şekil örüntülerini çözümleyebilme\nb Nesne sayı ve şekil örüntülerinin ardışık ögeleri arasındaki ilişkiyi belirler."
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 2",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "Nicelikler Uzunluk Ölçme Nicelikler Kütle Ölçme Nicelikler Sıvı Ölçme",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
-      "KAZANIM": "MAT2.1. Standart olmayan ölçme araçları ile uzunluk ölçebilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT2.1. Standart olmayan ölçme araçları ile uzunluk ölçebilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 2",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "Nicelikler Uzunluk Ölçme Nicelikler Kütle Ölçme Nicelikler Sıvı Ölçme",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
-      "KAZANIM": "MAT2.2. Standart olan ölçme araçları ile uzunluk ölçebilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT2.2. Standart olan ölçme araçları ile uzunluk ölçebilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 2",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "Nicelikler Uzunluk Ölçme Nicelikler Kütle Ölçme Nicelikler Sıvı Ölçme",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
-      "KAZANIM": "MAT2.3. Standart olmayan ölçme araçları ile kütle ölçebilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT2.3. Standart olmayan ölçme araçları ile kütle ölçebilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 2",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "Nicelikler Uzunluk Ölçme Nicelikler Kütle Ölçme Nicelikler Sıvı Ölçme",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
-      "KAZANIM": "MAT2.4. Standart olan ölçme araçları ile kütle ölçebilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT2.4. Standart olan ölçme araçları ile kütle ölçebilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 2",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "Nicelikler Uzunluk Ölçme Nicelikler Kütle Ölçme Nicelikler Sıvı Ölçme",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
-      "KAZANIM": "MAT2.5. Standart olmayan ölçme araçları ile sıvıları ölçebilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT2.5. Standart olmayan ölçme araçları ile sıvıları ölçebilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 2",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "KONU": "Nicelikler Uzunluk Ölçme Nicelikler Kütle Ölçme Nicelikler Sıvı Ölçme",
-      "KAZANIM": "MAT2.6. Standart olan ölçme araçları ile sıvıları ölçebilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT2.6. Standart olan ölçme araçları ile sıvıları ölçebilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 2",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "Nicelikler Uzunluk Ölçme Nicelikler Kütle Ölçme Nicelikler Sıvı Ölçme",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
-      "KAZANIM": "MAT2.6. Standart olan ölçme araçları ile sıvıları ölçebilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT2.6. Standart olan ölçme araçları ile sıvıları ölçebilme"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -197,7 +148,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -205,7 +155,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -213,70 +162,51 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 3",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "KONU": "Nicelikler Paralarımız ve Zaman",
-      "KAZANIM": "MAT3.1. Paraları 1 TL 5 TL 10 TL 20 TL 50 TL 100 TL ve 200 TL tanıyabilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Öz Düzenleme SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT3.1. Paraları 1 TL 5 TL 10 TL 20 TL 50 TL 100 TL ve 200 TL tanıyabilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 3",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "KONU": "Nicelikler Paralarımız ve Zaman",
-      "KAZANIM": "MAT3.2. ANALOG saatler üzerinde gösterilen zamanı tam-yarım-çeyrek saat okuyabilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Öz Düzenleme SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT3.2. ANALOG saatler üzerinde gösterilen zamanı tam-yarım-çeyrek saat okuyabilme"
     },
     {
-      "ÜNİTE": "SAYILAR VE NİCELİKLER 3",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "KONU": "Nicelikler Paralarımız ve Zaman",
-      "KAZANIM": "MAT3.3. Dijital saatler üzerinde gösterilen zamanı saat ve dakika okuyabilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB1.2. Öz Düzenleme SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT3.3. Dijital saatler üzerinde gösterilen zamanı saat ve dakika okuyabilme"
     },
     {
-      "ÜNİTE": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "Toplama Çıkarma Çarpma ve Bölme",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
-      "KAZANIM": "MAT4.1. Toplama işlemi yapabilme",
-      "SDB": "1.1. Kendini Tanıma Öz farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT4.1. Toplama işlemi yapabilme"
     },
     {
-      "ÜNİTE": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "Toplama Çıkarma Çarpma ve Bölme",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
-      "KAZANIM": "MAT4.2. Çıkarma işlemi yapabilme",
-      "SDB": "1.1. Kendini Tanıma Öz farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT4.2. Çıkarma işlemi yapabilme"
     },
     {
-      "ÜNİTE": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "Toplama Çıkarma Çarpma ve Bölme",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
-      "KAZANIM": "MAT4.3. Toplama ve çıkarma işlemi gerektiren problemleri çözebilme",
-      "SDB": "1.1. Kendini Tanıma Öz farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT4.3. Toplama ve çıkarma işlemi gerektiren problemleri çözebilme"
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -285,128 +215,94 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "Toplama Çıkarma Çarpma ve Bölme",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
-      "KAZANIM": "MAT4.4. Çarpma işlemi yapabilme",
-      "SDB": "1.1. Kendini Tanıma Öz farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT4.4. Çarpma işlemi yapabilme"
     },
     {
-      "ÜNİTE": "İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "Toplama Çıkarma Çarpma ve Bölme",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
-      "KAZANIM": "MAT4.5. Bölme işlemi yapabilme",
-      "SDB": "1.1. Kendini Tanıma Öz farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT4.5. Bölme işlemi yapabilme"
     },
     {
-      "ÜNİTE": "NESNELERİN GEOMETRİSİ 1",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "Uzamsal İlişkiler",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
-      "KAZANIM": "MAT5.1. Varlıkları konumlandırabilme\n MAT5.2. Varlıkları özelliklerine göre ayırt edebilme",
-      "SDB": "1.2. Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlığı"
+      "KAZANIM": "MAT5.1. Varlıkları konumlandırabilme\n MAT5.2. Varlıkları özelliklerine göre ayırt edebilme"
     },
     {
-      "ÜNİTE": "NESNELERİN GEOMETRİSİ 1",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "Uzamsal İlişkiler",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
-      "KAZANIM": "MAT5.3. Nesneleri görsel özelliklerine göre eşleyebilme",
-      "SDB": "1.2. Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlığı"
+      "KAZANIM": "MAT5.3. Nesneleri görsel özelliklerine göre eşleyebilme"
     },
     {
-      "ÜNİTE": "NESNELERİN GEOMETRİSİ 1",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "Uzamsal İlişkiler",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
-      "KAZANIM": "MAT5.4. Bütün yarım çeyrek arasındaki ilişkiyi çözümleyebilme\na Varlıkları bütün yarım çeyrek olarak belirler.",
-      "SDB": "1.2. Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlığı"
+      "KAZANIM": "MAT5.4. Bütün yarım çeyrek arasındaki ilişkiyi çözümleyebilme\na Varlıkları bütün yarım çeyrek olarak belirler."
     },
     {
-      "ÜNİTE": "NESNELERİN GEOMETRİSİ 1",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "Uzamsal İlişkiler",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
-      "KAZANIM": "MAT5.4. Bütün yarım çeyrek arasındaki ilişkiyi çözümleyebilme\nb Bütün yarım çeyrek arasındaki ilişkileri belirler.",
-      "SDB": "1.2. Öz Düzenleme SDB2.1. İletişim SDB2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlığı"
+      "KAZANIM": "MAT5.4. Bütün yarım çeyrek arasındaki ilişkiyi çözümleyebilme\nb Bütün yarım çeyrek arasındaki ilişkileri belirler."
     },
     {
-      "ÜNİTE": "NESNELERİN GEOMETRİSİ 2",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "Nesneler ve Geometrik Şekiller",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
-      "KAZANIM": "MAT6.1. Geometrik şekilleri ayırt edebilme",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT6.1. Geometrik şekilleri ayırt edebilme"
     },
     {
-      "ÜNİTE": "NESNELERİN GEOMETRİSİ 2",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "Nesneler ve Geometrik Şekiller",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
-      "KAZANIM": "MAT6.2. Geometrik yapılardaki geometrik şekilleri ayırt edebilme",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT6.2. Geometrik yapılardaki geometrik şekilleri ayırt edebilme"
     },
     {
-      "ÜNİTE": "NESNELERİN GEOMETRİSİ 2",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "Nesneler ve Geometrik Şekiller",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
-      "KAZANIM": "MAT6.3. Geometrik şekilleri özelliklerine göre ayırt edebilme",
-      "SDB": "2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "MAT6.3. Geometrik şekilleri özelliklerine göre ayırt edebilme"
     },
     {
-      "ÜNİTE": "VERİYE DAYALI ARAŞTIRMA",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "Grafikler",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
-      "KAZANIM": "MAT7.1. Grafikleri okuyabilme\na Etkinlik çizelgesini okur.\nb Çetele tablosunu okur.\nc Sıklık tablosunu okur.\nç Nesne grafiğini okur.\nd Şekil grafiğini okur.",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+      "KAZANIM": "MAT7.1. Grafikleri okuyabilme\na Etkinlik çizelgesini okur.\nb Çetele tablosunu okur.\nc Sıklık tablosunu okur.\nç Nesne grafiğini okur.\nd Şekil grafiğini okur."
     },
     {
-      "ÜNİTE": "VERİYE DAYALI ARAŞTIRMA",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "Grafikler",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
-      "KAZANIM": "MAT7.2. Grafikleri oluşturabilme\na Etkinlik çizelgesi oluşturur.\nb Çetele tablosu oluşturur.\nc Sıklık tablosu oluşturur.\nç Nesne grafiği oluşturur.\nd Şekil grafiği oluşturur.",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+      "KAZANIM": "MAT7.2. Grafikleri oluşturabilme\na Etkinlik çizelgesi oluşturur.\nb Çetele tablosu oluşturur.\nc Sıklık tablosu oluşturur.\nç Nesne grafiği oluşturur.\nd Şekil grafiği oluşturur."
     },
     {
-      "ÜNİTE": "Okul Temelli Planlama",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
@@ -415,7 +311,6 @@
       "KAZANIM": "Okul Temelli Planlama"
     },
     {
-      "ÜNİTE": "Okul Temelli Planlama",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
@@ -424,7 +319,6 @@
       "KAZANIM": "Okul Temelli Planlama"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",

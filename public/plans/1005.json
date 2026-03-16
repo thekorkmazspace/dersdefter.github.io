@@ -3,7 +3,6 @@
   "ders": "Temel Üretim Atölyesi",
   "plan": [
     {
-      "ÜNİTE": "Ayak Anatomisi",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "9",
@@ -12,7 +11,6 @@
       "KAZANIM": "Ayak kavramını açıklar.Ayak anatomisini açıklar.\nAyağın tanımı yapılır ve yapısı açıklanır.\n Ayağın fonksiyonu açıklanır.\n Ayağı oluşturan kemikler açıklanır.\n Ayağın hareket kabiliyeti açıklanır.\n Anatomik yapıdan oluşan fiziksel deformasyon açıklanır."
     },
     {
-      "ÜNİTE": "Ayak Anatomisi",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "9",
@@ -21,7 +19,6 @@
       "KAZANIM": "Ayak hastalıklarını açıklar.\nAyaklarda oluşan hastalıklar ve hastalık nedenleri açıklanır."
     },
     {
-      "ÜNİTE": "Ölçü Alma",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "9",
@@ -29,7 +26,6 @@
       "KAZANIM": "Ölçü almada kullanılan araç gereçleri hazırlayarak ayak üzerinden ölçü alır.Ayakkabı kalıbı üzerinden ölçü alır.\nAyak boyu tarak çevresi kontrpiye bilek yüksekliği bilek genişliği baldır genişliği baldır yüksekliği diz altı genişliği diz altı yüksekliği ölçülerinin nasıl alındığı uygulamalı olarak gösterilir.\n Kalıp boyu tarak kontrpiye arka yükseklik  ölçüleri aldırılır. Kalıp üzerinden uygulamalı olarak gösterilir."
     },
     {
-      "ÜNİTE": "Ölçü Alma",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "9",
@@ -38,7 +34,6 @@
       "KAZANIM": "Metrik sistemine uygun saraciye ürünü üzerinden ölçü alır.\nMetrik sistem açıklanır."
     },
     {
-      "ÜNİTE": "Ölçü Alma",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "9",
@@ -47,7 +42,6 @@
       "KAZANIM": "Oran orantı yöntemine uygun saraciye ürün resmi üzerinden ölçü alır.\nOran orantı kavramları açıklanır.\n Oran orantı yöntemi ile ürün resmi üzerinden ölçü alma uygulamalı olarak gösterilir."
     },
     {
-      "ÜNİTE": "Ölçü Alma",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "9",
@@ -55,7 +49,6 @@
       "KAZANIM": "Uluslararası ayak ölçüsü sistemlerine uygun ölçülendirme yapar.\nİnç metrik ve pont ölçü birimleri açıklanır.\n Ölçü birimlerinin birbirine çevirisi yaptırılır."
     },
     {
-      "ÜNİTE": "Temel Model Çıkarma",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "9",
@@ -63,7 +56,6 @@
       "KAZANIM": "Standart gova modelinin ıstampalarını hazırlar.\nKalıp bantlama iç dış ara form standart form astar ve yüz ıstampaları ile ilgili uygulamalar yaptırır."
     },
     {
-      "ÜNİTE": "Temel Model Çıkarma",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "9",
@@ -72,7 +64,6 @@
       "KAZANIM": "Standart molyer modelinin ıstampalarını hazırlar.\nKalıp bantlama iç dış ara form standart form astar ve yüz ıstampaları ile ilgili uygulamalar yaptırır."
     },
     {
-      "ÜNİTE": "Temel Model Çıkarma",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "9",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Temel çanta modelinin yüz ve astar kalıplarını hazırlar.\nKalıp üzerinde kıvırma yakma ve bindirme payları gösterilir."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "9",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Temel Model Çıkarma",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "9",
@@ -99,7 +88,6 @@
       "KAZANIM": "Temel çanta modelinin yüz ve astar kalıplarını hazırlar.\nKalıp üzerinde kıvırma yakma ve bindirme payları gösterilir."
     },
     {
-      "ÜNİTE": "Temel Model Çıkarma",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "9",
@@ -108,7 +96,6 @@
       "KAZANIM": "Temel çanta modelinin yüz ve astar kalıplarını hazırlar.\nKalıp üzerinde kıvırma yakma ve bindirme payları gösterilir."
     },
     {
-      "ÜNİTE": "Temel Kesim",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "9",
@@ -117,7 +104,6 @@
       "KAZANIM": "Kesilecek malzemeleri kontrol eder.\nAstarlık ve yüzlük deri üzerinde esneme yönleri kalite bölgeleri ve hataları gösterilir.\n Suni deri ve kumaş üzerinde esneme yönleri gösterilir."
     },
     {
-      "ÜNİTE": "Temel Kesim",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "9",
@@ -126,7 +112,6 @@
       "KAZANIM": "Istampaları yerleştirir.\nSıfır atık prensibine göre ıstampaların deri suni deri ve diğer malzemeler üzerine yerleştirmesi sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kesim",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "9",
@@ -135,7 +120,6 @@
       "KAZANIM": "El aletleri kullanarak elde kesim yapar.\nKesim bıçaklarının bilenmesi sağlanır.\n Kâğıt ve suni malzemeler üzerinde kesim egzersizleri yaptırılır.\n Istampa kalıp kullanarak elde kesim yaptırılır."
     },
     {
-      "ÜNİTE": "Temel Kesim",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "9",
@@ -144,7 +128,6 @@
       "KAZANIM": "Şerit makinesinde şerit keser.\nŞerit makinesine deri genişliğine uygun kesim bıçaklarının takılması sağlanır.\n Şerit makinesinde 5mm 1cm 2cm 35 cm kalınlıklarına şerit kestirilir."
     },
     {
-      "ÜNİTE": "Temel Kesim",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "9",
@@ -152,7 +135,6 @@
       "KAZANIM": "Pres kesim makinesinde kesim yapar.\nKesim makineleri ve bıçakları açıklanır.\n Yüz astar ve kesilecek malzemeye göre kesim bıçaklarını ayrıştırılır.\n Pres makinesinde kesim bıçakları kullanarak gova ayakkabı için yüz ve astar kesimi yaptırılır.\n Pres makinesinde kesim bıçakları kullanarak Molyer ayakkabı için yüz ve astar kesimi yaptırılır.\n Pres makinesinde heybe çanta için astar ve gövde parçaları kestirilir."
     },
     {
-      "ÜNİTE": "Tezgâh İşleri",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "9",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav Yarma makinesinde yarma yapar.\nYarma makinesi çalışma prensipleri açıklanır.\n Yarma makinesinin kalınlık ayarları yaptırılır.\n Derileri istenilen inceliye getirmek için yarma işlemi yaptırılır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "9",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "9",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "9",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Tezgâh İşleri",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "9",
@@ -193,7 +171,6 @@
       "KAZANIM": "Tıraş makinesinde tıraş yapar.\nTıraş makinesinde çalışma prensipleri açıklanır.\n Tıraş makinesinde bileyleme işlemi yaptırılır.\n Kıvırma binme çatı ve yakma tıraşı işlemlerine göre makine ayarları yaptırılır.\n Binme kıvırma yakma ve çatı tıraşları yaptırılır."
     },
     {
-      "ÜNİTE": "Tezgâh İşleri",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "9",
@@ -201,7 +178,6 @@
       "KAZANIM": "Kesilmiş parçalara yakma işlemi uygular.\nYakma işleminde kullanılan makine araç ve gereçleri gösterilir.\n Tekniğine uygun olarak kenar boyama işlemi yaptırılır."
     },
     {
-      "ÜNİTE": "Tezgâh İşleri",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "9",
@@ -209,7 +185,6 @@
       "KAZANIM": "Kenar kıvırma işlemlerini yapar.\nKıvırma işleminde kullanılan makine araç ve gereçlerin çalışma prensipleri gösterilir.\n Deriye düz yuvarlak ve köşeli kıvırma\n Teknikleri uygulatılır.\n İş güvenliği açısından maske kullandırılır."
     },
     {
-      "ÜNİTE": "Tezgâh İşleri",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "9",
@@ -218,7 +193,6 @@
       "KAZANIM": "Tezgâh işlemlerini yapar.\nRegola işleminde kullanılan araç gereçler ile alması gereken iş güvenliği tedbirleri açıklanır.\n Parçalara gerekli kıvırma yapıştırma işlemleri yaptırılır."
     },
     {
-      "ÜNİTE": "Temel Dikiş Makineleri",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "9",
@@ -227,7 +201,6 @@
       "KAZANIM": "Dikiş makinesini dikime hazırlar.\nDikiş makinesinin kısımları tanıtılır.\n İplik geçirme masura sarma masura takma işlemleri yaptırılır."
     },
     {
-      "ÜNİTE": "Temel Dikiş Makineleri",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "9",
@@ -236,7 +209,6 @@
       "KAZANIM": "Dikiş makinesinde dikiş diker.\nDüz dikiş egzersizleri yaptırılır.\n Kenar dikişi binme dikişi ve çatı dikişi yapması sağlanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "9",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Temel Dikiş Makineleri",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "9",
@@ -254,7 +225,6 @@
       "KAZANIM": "Dikiş makinesinin periyodik bakımlarını yapar.\nMakinenin günlük aylık YILLIK periyotlarla yağlama toz alma gibi bakım işlemlerinin nasıl yapılacağı açıklanır."
     },
     {
-      "ÜNİTE": "Temel Dikiş Makineleri",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "9",
@@ -263,7 +233,6 @@
       "KAZANIM": "Dikiş makinesinin periyodik bakımlarını yapar.\nMakinenin günlük aylık YILLIK periyotlarla yağlama toz alma gibi bakım işlemlerinin nasıl yapılacağı açıklanır."
     },
     {
-      "ÜNİTE": "Temel Dikiş Makineleri",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "9",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav Dikiş makinesinin periyodik bakımlarını yapar.\nMakinenin günlük aylık YILLIK periyotlarla yağlama toz alma gibi bakım işlemlerinin nasıl yapılacağı açıklanır."
     },
     {
-      "ÜNİTE": "Temel Modeli Dikme",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "9",
@@ -281,7 +249,6 @@
       "KAZANIM": "Elde veya preste modele uygun kesim yapar.\nİş güvenliği tedbirleri alınarak kesim yöntemlerinden uygun olan ile gova ayakkabı için yüz ve astar kesimi yaptırılır.\n İş güvenliği tedbirleri alınarak kesim yöntemlerinden uygun olan ile molyer ayakkabı için yüz ve astar kesimi yaptırılır.\n İş güvenliği tedbirleri alınarak kesim yöntemlerinden uygun olan ile ve heybe çanta kesimi yaptırılır."
     },
     {
-      "ÜNİTE": "Temel Modeli Dikme",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "9",
@@ -290,7 +257,6 @@
       "KAZANIM": "Modele uygun yüz ve astar parçalarını hazırlar.\nKesilen parçaları dikime hazırlamak için gerekli olan tıraşlama işlemleri yaptırılır.\n Dikilecek parçalara regola işlemi yaptırılır. kıvırma yapıştırma eşleme"
     },
     {
-      "ÜNİTE": "Temel Modeli Dikme",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "9",
@@ -299,7 +265,6 @@
       "KAZANIM": "Modele uygun üste atma işlemi yapar.\nAstar ve yüz parçalarına üste atma birleştirme işlemi uygulatılır."
     },
     {
-      "ÜNİTE": "Temel Modeli Dikme",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "9",
@@ -308,7 +273,6 @@
       "KAZANIM": "Ara işi ve temizleme işlemlerini yapar.\nAra işi yapmak için kullanılan makine araç ve gereçler açıklanır.\n İplik temizleme ve astar fazlalıklarına ara işi yaptırır.\n Heybe çanta için kenar boyama işlemi yaptırır."
     },
     {
-      "ÜNİTE": "Temel Modeli Dikme",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "9",
@@ -317,7 +281,6 @@
       "KAZANIM": "Ara işi ve temizleme işlemlerini yapar.\nAra işi yapmak için kullanılan makine araç ve gereçler açıklanır.\n İplik temizleme ve astar fazlalıklarına ara işi yaptırır.\n Heybe çanta için kenar boyama işlemi yaptırır."
     },
     {
-      "ÜNİTE": "Temel Modelin Montajı",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "9",
@@ -326,7 +289,6 @@
       "KAZANIM": "Temel modeli el montajına hazırlar.\nMontaj işleminde kullanılan taban taban astarı fort bombe kullanılan yapıştırıcılar çivi kullanılan el aletleri tırpan makinesi zımpara makinesi aktivasyon makinesi üste atma makinesi açıklanır.\n El montajı için gerekli olan malzemeler hazırlatılır.\n Sayaya uygun kalıp ve taban seçimleri yaptırılır."
     },
     {
-      "ÜNİTE": "Temel Modelin Montajı",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "9",
@@ -335,7 +297,6 @@
       "KAZANIM": "Temel modelin el montajını yapar.\nSayayı kalıba çekme işlemleri açıklanır.\n Sayayı kalıba çekme işlemi uygulatılır.\n Taban atma işlem basamakları ve kullanılan malzemeler açıklanır.\n Taban atma üste atma işlemi uygulatılır."
     },
     {
-      "ÜNİTE": "Temel Modelin Montajı",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "9",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Temel modelin finisaj ve kalite kontrolünü yapar.\nFinisaj işlemi için gerekli olan araç gereçler açıklanır.\n Ürüne finişaj işlemi uygulatılır.\n Kalite kontrolde dikkat edilecek hususlar açıklanır.\n Ürün hataları kontrol ettirilerek çözüm yöntemleri açıklanır."
     },
     {
-      "ÜNİTE": "Temel Modelin Montajı",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "9",
@@ -353,7 +313,6 @@
       "KAZANIM": "Temel modelin finisaj ve kalite kontrolünü yapar.\nFinisaj işlemi için gerekli olan araç gereçler açıklanır.\n Ürüne finişaj işlemi uygulatılır.\n Kalite kontrolde dikkat edilecek hususlar açıklanır.\n Ürün hataları kontrol ettirilerek çözüm yöntemleri açıklanır."
     },
     {
-      "ÜNİTE": "Temel Modelin Montajı",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "9",
@@ -362,7 +321,6 @@
       "KAZANIM": "Temel modelin finisaj ve kalite kontrolünü yapar.\nFinisaj işlemi için gerekli olan araç gereçler açıklanır.\n Ürüne finişaj işlemi uygulatılır.\n Kalite kontrolde dikkat edilecek hususlar açıklanır.\n Ürün hataları kontrol ettirilerek çözüm yöntemleri açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "9",

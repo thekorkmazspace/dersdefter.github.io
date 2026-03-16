@@ -3,7 +3,6 @@
   "ders": "İş Makineleri Atölyesi-10",
   "plan": [
     {
-      "ÜNİTE": "1. AYDINLATMA VE UYARI SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "10",
@@ -12,7 +11,6 @@
       "KAZANIM": "1. Araç üstü elektrik tesisatları elemanlarının yapılarını açıklar.\n2. Araç aydınlatma sistemi lambalarının kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "1. AYDINLATMA VE UYARI SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "10",
@@ -21,7 +19,6 @@
       "KAZANIM": "3. Araçlarda kullanılan farların kontrolünü ve ayarını yapar.\n4. Araçlarda kullanılan kornaların kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "1. AYDINLATMA VE UYARI SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "10",
@@ -29,7 +26,6 @@
       "KAZANIM": "5. Araç üstü uyarı lambalarının kontrolünü ve değişimini yapar.\n6. Araçlarda kullanılan sigorta ve role kutusu elemanlarının kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "2. MARŞ SİSTEMİ",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "10",
@@ -38,7 +34,6 @@
       "KAZANIM": "1. Kontak anahtarının kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "2. MARŞ SİSTEMİ",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "10",
@@ -47,7 +42,6 @@
       "KAZANIM": "2. Marş sisteminin elektrik tesisatının kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "2. MARŞ SİSTEMİ",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "10",
@@ -55,7 +49,6 @@
       "KAZANIM": "3. Marş motoru elemanlarının kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "3. ŞARJ SİSTEMİ",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "10",
@@ -63,7 +56,6 @@
       "KAZANIM": "1. Şarj sistemi elemanlarının kontrollerini ve değişimlerini yapar."
     },
     {
-      "ÜNİTE": "3. ŞARJ SİSTEMİ",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "10",
@@ -72,7 +64,6 @@
       "KAZANIM": "2. Şarj sisteminin elektrik tesisatının kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "3. ŞARJ SİSTEMİ",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "10",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 3. Alternatör elemanlarının kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "10",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "4. ARAÇ İKLİMLENDİRME SİSTEMLERİ",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "10",
@@ -99,7 +88,6 @@
       "KAZANIM": "1. Araç iklimlendirme sistemi kontrollerini ve eleman değişimlerini yapar.\n2. Klima kompresörünün kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "4. ARAÇ İKLİMLENDİRME SİSTEMLERİ",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "10",
@@ -108,7 +96,6 @@
       "KAZANIM": "3. Klima sistemi soğutucu akışkan devresi elemanlarının kontrollerini ve değişimlerini yapar.\n4. Otomatik klima sistemi elemanlarının kontrollerini yapar."
     },
     {
-      "ÜNİTE": "5. ARAÇ ISITMA VE HAVALANDIRMA SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "10",
@@ -117,7 +104,6 @@
       "KAZANIM": "1. Elektrikli araç kalorifer sistemi elemanlarının kontrollerini ve değişimlerini yapar."
     },
     {
-      "ÜNİTE": "5. ARAÇ ISITMA VE HAVALANDIRMA SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "10",
@@ -126,7 +112,6 @@
       "KAZANIM": "2. Araç havalandırma sistemi elemanlarının kontrollerini ve değişimlerini yapar.\n3. İlave kalorifer sistemi elemanlarının kontrollerini ve değişimlerini yapar."
     },
     {
-      "ÜNİTE": "6. ARAÇ GÖSTERGE VE GÜVENLİK SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "10",
@@ -135,7 +120,6 @@
       "KAZANIM": "1. Gösterge panelinin kontrollerini ve değişimlerini yapar.\n2. Immobilizer sisteminin kontrollerini ve değişimlerini yapar."
     },
     {
-      "ÜNİTE": "6. ARAÇ GÖSTERGE VE GÜVENLİK SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "10",
@@ -144,7 +128,6 @@
       "KAZANIM": "3. Uzaktan kumanda sistemi elemanlarının kontrollerini ve değişimlerini yapar.\n4. Alarm sistemi elemanlarının kontrollerini ve değişimlerini yapar."
     },
     {
-      "ÜNİTE": "6. ARAÇ GÖSTERGE VE GÜVENLİK SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "10",
@@ -152,7 +135,6 @@
       "KAZANIM": "5. Hava yastıkları airbag sisteminin kontrollerini ve değişimlerini yapar.\n6. Emniyet kemeri sisteminin kontrollerini ve değişimlerini yapar.\n7. Akıllı giriş sistemi elemanlarının kontrollerini ve değişimlerini yapar."
     },
     {
-      "ÜNİTE": "7. İŞ MAKİNELERİ SEÇİMİ",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "10",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 1. İş ve inşaat çalışmalarında yapılacak işe uygun makine seçimini yapar.                              2. Endüstriyel alanda yapılacak işe uygun makine seçimini yapar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "10",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "10",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "10",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "7. İŞ MAKİNELERİ SEÇİMİ",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "10",
@@ -193,7 +171,6 @@
       "KAZANIM": "2. Endüstriyel alanda yapılacak işe uygun makine seçimini yapar.\n3. Yol ve asfalt çalışmalarında yapılacak işe göre makine seçimini yapar."
     },
     {
-      "ÜNİTE": "8. İŞ MAKİNELERİ ELEKTRONİK KONTROL SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "10",
@@ -201,7 +178,6 @@
       "KAZANIM": "1. İş makinesi üzerindeki müşirlerin kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "8. İŞ MAKİNELERİ ELEKTRONİK KONTROL SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "10",
@@ -209,7 +185,6 @@
       "KAZANIM": "2. İş makinesi üzerindeki algılayıcıların sensörleri kontrolünü ve değişimini yapar.\n3. İş makinesi üzerindeki selenoidlerin kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "8. İŞ MAKİNELERİ ELEKTRONİK KONTROL SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "10",
@@ -218,7 +193,6 @@
       "KAZANIM": "4. İş makinesi üzerindeki uygulayıcıların aktuvatörlerin kontrolünü ve değişimini yapar.\n5. Elektronik kontrol ünitesinin ECU kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "8. İŞ MAKİNELERİ ELEKTRONİK KONTROL SİSTEMLERİ",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "10",
@@ -227,7 +201,6 @@
       "KAZANIM": "6. Makine kontrol ünitesinin MCU kontrolünü ve değişimini yapar.\n7. Merkezî veri hattının CAN-BUS kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "9. DİZEL YAKIT BESLEME SİSTEMİ",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "10",
@@ -236,7 +209,6 @@
       "KAZANIM": "1. Dizel yakıt sistemi elemanlarını kontrolünü ve değişimini yapar.\n2. Yakıt borularını ve deposunun kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "10",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "9. DİZEL YAKIT BESLEME SİSTEMİ",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "10",
@@ -254,7 +225,6 @@
       "KAZANIM": "3. Yakıt besleme pompasının kontrolünü ve değişimini yapar.\n4. Yakıt filtrelerinin kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "10. SIRA TİPİ DİZEL YAKIT ENJEKSİYON POMPALARI",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "10",
@@ -263,7 +233,6 @@
       "KAZANIM": "1. Sıra tipi yakıt enjeksiyon pompasının bakımını ve onarımını yapar."
     },
     {
-      "ÜNİTE": "10. SIRA TİPİ DİZEL YAKIT ENJEKSİYON POMPALARI",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "10",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 2. Sıra tip yakıt enjeksiyon pompası regülatör ve avans sistemi elemanlarının değişimini yapar."
     },
     {
-      "ÜNİTE": "11. DİSTRİBÜTÖR TİPİ DİZEL YAKIT ENJEKSİYON POMPALARI",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "10",
@@ -281,7 +249,6 @@
       "KAZANIM": "1. DPA tip pompanın bakımını ve onarımını yapar."
     },
     {
-      "ÜNİTE": "11. DİSTRİBÜTÖR TİPİ DİZEL YAKIT ENJEKSİYON POMPALARI",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "10",
@@ -290,7 +257,6 @@
       "KAZANIM": "2. EPVE tip pompanın bakımını ve onarımını yapar         ATATÜRK ün çocuklara verdiği önemi bilir."
     },
     {
-      "ÜNİTE": "11. DİSTRİBÜTÖR TİPİ DİZEL YAKIT ENJEKSİYON POMPALARI",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "10",
@@ -299,7 +265,6 @@
       "KAZANIM": "3. DPS tip pompanın bakımını ve onarımını yapar."
     },
     {
-      "ÜNİTE": "12. DİZEL MOTORLARI YAKIT ENJEKSİYON SİSTEMİ",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "10",
@@ -308,7 +273,6 @@
       "KAZANIM": "1. Hidrolik enjektörlerin kontrollerini ve ayarlarını yapar.\n2. Dizel yakıt sisteminin havasını alır."
     },
     {
-      "ÜNİTE": "12. DİZEL MOTORLARI YAKIT ENJEKSİYON SİSTEMİ",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "10",
@@ -317,7 +281,6 @@
       "KAZANIM": "3. Isıtma bujisinin kontrolünü ve değişimini yapar.\n4. Aşırı doldurma ve intercooler sistemlerinin kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "13. ELEKTRONİK KONTROLLÜ DİZEL YAKIT SİSTEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "10",
@@ -326,7 +289,6 @@
       "KAZANIM": "1. Selenoid valfli pompa-enjektörlerin kontrollerini ve onarımını yapar.\nATATÜRKün Türk Gençliğine verdiği önemi bilir"
     },
     {
-      "ÜNİTE": "13. ELEKTRONİK KONTROLLÜ DİZEL YAKIT SİSTEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "10",
@@ -335,7 +297,6 @@
       "KAZANIM": "2. Dizel motor yönetim sistemindeki sensörlerin kumandaların ve elektronik kontrol ünitesinin kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "13. ELEKTRONİK KONTROLLÜ DİZEL YAKIT SİSTEMLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "10",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav 3. Common-rail dizel enjeksiyon sisteminin kontrollerini ve onarımını yapar."
     },
     {
-      "ÜNİTE": "13. ELEKTRONİK KONTROLLÜ DİZEL YAKIT SİSTEMLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "10",
@@ -353,7 +313,6 @@
       "KAZANIM": "4. Dizel emisyon kontrol sistemlerinin kontrollerini ve onarımını yapar."
     },
     {
-      "ÜNİTE": "13. ELEKTRONİK KONTROLLÜ DİZEL YAKIT SİSTEMLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "10",
@@ -362,7 +321,6 @@
       "KAZANIM": "5. Dizel motorunun diagnostik cihazı ile arıza tespitini yapar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "10",

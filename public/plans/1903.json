@@ -3,7 +3,6 @@
   "ders": "Plastık Kalıp Atölyesi (plastık Teknolojisi)",
   "plan": [
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp Tasarımı",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "9",
@@ -12,7 +11,6 @@
       "KAZANIM": "Plastik el enjeksiyon kalıplarının imalata uygun yapım resimlerini çizer.\nPlastik el enjeksiyon makinesinin çalışma prensibi ve elemanları üzerinde durulur.\n Plastik el enjeksiyon kalıplarının kullanım yerleri kalıp elemanlarının özellikleri üzerinde durulur.\n Plastik el enjeksiyon kalıp elemanlarının yapım resimlerinin çizim işlem basamakları ve plastik el enjeksiyon kalıbının krokisi örnekleri verilir.\n Plastik el enjeksiyon kalıp temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp Tasarımı",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "9",
@@ -21,7 +19,6 @@
       "KAZANIM": "Plastik el enjeksiyon kalıplarının imalata uygun montaj resmini çizer.\nMontaj resminde bulunması gereken unsurlar plastik el enjeksiyon kalıplarının montaj resminin çizim işlem basamakları ve plastik el enjeksiyon kalıbında kullanılan standart makine elemanları üzerinde durulur.\n Plastik el enjeksiyon kalıp elemanlarının montaj resmini çizme temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp İmalatı",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "9",
@@ -29,7 +26,6 @@
       "KAZANIM": "Plastik el enjeksiyon kalıp elemanlarını Torna tezgahında verilen resme uygun olarak işler.\nTorna tezgâhının çalışma prensibi torna tezgâhında güvenli çalışma kuralları torna tezgâhı çeşitleri ve kısımları üzerinde durulur.\n Tornalama yöntemleri torna katerleri kesicileri ve kesicilerin bilenmesi üzerinde durulur.\n Tornalama yöntemleri işe uygun kesici seçmenin önemi ve işe göre devir hesabı örnekleri verilir.\n Tornalama temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp İmalatı",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "9",
@@ -38,7 +34,6 @@
       "KAZANIM": "Plastik el enjeksiyon kalıp elemanlarını Torna tezgahında verilen resme uygun olarak işler.\nTorna tezgâhının çalışma prensibi torna tezgâhında güvenli çalışma kuralları torna tezgâhı çeşitleri ve kısımları üzerinde durulur.\n Tornalama yöntemleri torna katerleri kesicileri ve kesicilerin bilenmesi üzerinde durulur.\n Tornalama yöntemleri işe uygun kesici seçmenin önemi ve işe göre devir hesabı örnekleri verilir.\n Tornalama temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp İmalatı",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "9",
@@ -47,7 +42,6 @@
       "KAZANIM": "B. Plastik el enjeksiyon kalıp elemanlarını Freze tezgahında verilen resme uygun olarak işler.\nFreze tezgâhının çalışma prensibi freze tezgâhında güvenli çalışma kuralları freze tezgâhı çeşitleri ve kısımları üzerinde durulur.\n Frezeleme yöntemleri ve freze çakıları üzerinde durulur.\n Frezeleme yöntemleri işe uygun freze çakısı seçmenin önemi ve işe göre devir hesabı örnekleri verilir.\n Bağlanan iş parçasının diklik ve paralellik kontrolünü komparatör ile yapmanın önemi üzerinde durulur.\n Frezeleme temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp İmalatı",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "9",
@@ -55,7 +49,6 @@
       "KAZANIM": "B. Plastik el enjeksiyon kalıp elemanlarını Freze tezgahında verilen resme uygun olarak işler.\nFreze tezgâhının çalışma prensibi freze tezgâhında güvenli çalışma kuralları freze tezgâhı çeşitleri ve kısımları üzerinde durulur.\n Frezeleme yöntemleri ve freze çakıları üzerinde durulur.\n Frezeleme yöntemleri işe uygun freze çakısı seçmenin önemi ve işe göre devir hesabı örnekleri verilir.\n Bağlanan iş parçasının diklik ve paralellik kontrolünü komparatör ile yapmanın önemi üzerinde durulur.\n Frezeleme temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp İmalatı",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "9",
@@ -63,7 +56,6 @@
       "KAZANIM": "Plastik el enjeksiyon kalıp elemanlarını Taşlama tezgahında verilen resme uygun olarak işler.\nTaşlama tezgâhının çalışma prensibi taşlama tezgâhında güvenli çalışma kuralları taşlama tezgâhı çeşitleri ve kısımları üzerinde durulur.\n Taşlama yöntemleri taşlama taşları ve taş etiketinin okunması üzerinde durulur.\n Taşlama yöntemleri işe uygun taşlama taşı seçmenin önemi ve işe göre devir hesabı örnekleri verilir.\n Taşlama temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp İmalatı",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "9",
@@ -72,7 +64,6 @@
       "KAZANIM": "Plastik el enjeksiyon kalıp elemanlarını Taşlama tezgahında verilen resme uygun olarak işler.\nTaşlama tezgâhının çalışma prensibi taşlama tezgâhında güvenli çalışma kuralları taşlama tezgâhı çeşitleri ve kısımları üzerinde durulur.\n Taşlama yöntemleri taşlama taşları ve taş etiketinin okunması üzerinde durulur.\n Taşlama yöntemleri işe uygun taşlama taşı seçmenin önemi ve işe göre devir hesabı örnekleri verilir.\n Taşlama temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik El Enjeksiyon Kalıp İmalatı",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "9",
@@ -81,7 +72,6 @@
       "KAZANIM": "Plastik el enjeksiyon kalıp elemanlarını Taşlama tezgahında verilen resme uygun olarak işler.\nTaşlama tezgâhının çalışma prensibi taşlama tezgâhında güvenli çalışma kuralları taşlama tezgâhı çeşitleri ve kısımları üzerinde durulur.\n Taşlama yöntemleri taşlama taşları ve taş etiketinin okunması üzerinde durulur.\n Taşlama yöntemleri işe uygun taşlama taşı seçmenin önemi ve işe göre devir hesabı örnekleri verilir.\n Taşlama temrinleri verilir."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "9",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp Tasarımı",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "9",
@@ -99,7 +88,6 @@
       "KAZANIM": "Plastik enjeksiyon kalıplarının çalışma prensibi ve plastik enjeksiyon kalıplarının elemanları üzerinde durulur."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp Tasarımı",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "9",
@@ -108,7 +96,6 @@
       "KAZANIM": "Plastik enjeksiyon kalıp elemanlarının özellikleri ve plastik enjeksiyon kalıplarında eğim açısı üzerinde durulur.\nPlastik enjeksiyon kalıbının krokisini ve plastik enjeksiyon kalıp elemanlarının yapım resimlerini çizme temrinleri verilir. B. Plastik enjeksiyon kalıplarının imalata uygun montaj resmini çizer.\nPlastik enjeksiyon kalıp elemanlarının montaj resimleri ve kalıp montaj resminde standart makine elemanları üzerinde durulur.\nPlastik enjeksiyon kalıp elemanlarının montaj temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp İmalatı",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "9",
@@ -117,7 +104,6 @@
       "KAZANIM": "Dalma erozyon tezgâhının çalışma prensibi kısımları ve güvenli çalışma üzerinde durulur.\nDalma erozyon tezgâhında dielektrik sıvısı kullanmanın amacı ve dalma erozyon tezgâhında çalışma işlem basamakları üzerinde durulur.\nDağıtıcı kanal ve giriş kanallarını dalma erozyon tezgâhında işleme temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp İmalatı",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "9",
@@ -126,7 +112,6 @@
       "KAZANIM": "Dalma erozyon tezgâhının çalışma prensibi kısımları ve güvenli çalışma üzerinde durulur.\nDalma erozyon tezgâhında dielektrik sıvısı kullanmanın amacı ve dalma erozyon tezgâhında çalışma işlem basamakları üzerinde durulur.\nDağıtıcı kanal ve giriş kanallarını dalma erozyon tezgâhında işleme temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp İmalatı",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "9",
@@ -135,7 +120,6 @@
       "KAZANIM": "Dalma erozyon yöntemleri dalma erozyon elektrot malzeme çeşitleri ve dalma erozyon elektrotlarının Ecu biçimlendirilme yöntemleri üzerinde durulur.\nDalma erozyon işleme temrinleri verilir. B. Plastik enjeksiyon kalıplarının dağıtıcı ve giriş kanallarını verilen resme uygun olarak işler.\nYolluk sisteminin amacı yolluk sisteminin çeşitleri dağıtıcı kanal ve giriş kanal çeşitleri üzerinde durulur.\nDağıtıcı kanal ve giriş kanallarının oluşturulması için gerekli olan işlem basamakları üzerinde durulur."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp İmalatı",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "9",
@@ -144,7 +128,6 @@
       "KAZANIM": "Dalma erozyon yöntemleri dalma erozyon elektrot malzeme çeşitleri ve dalma erozyon elektrotlarının Ecu biçimlendirilme yöntemleri üzerinde durulur.\nDalma erozyon işleme temrinleri verilir. B. Plastik enjeksiyon kalıplarının dağıtıcı ve giriş kanallarını verilen resme uygun olarak işler.\nYolluk sisteminin amacı yolluk sisteminin çeşitleri dağıtıcı kanal ve giriş kanal çeşitleri üzerinde durulur.\nDağıtıcı kanal ve giriş kanallarının oluşturulması için gerekli olan işlem basamakları üzerinde durulur."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp İmalatında Son İşlemler",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "9",
@@ -152,7 +135,6 @@
       "KAZANIM": "Plastik enjeksiyon kalıplarında itici pim delikleri ve soğutma kanallarını verilen resme uygun olarak işler.\nPlastik enjeksiyon kalıplarında itici pimlerin ve soğutma kanallarının amacı çeşitleri ve itici pim delikleri ve soğutma kanallarının oluşturulmasında işlem basamakları üzerinde durulur.\n Plastik enjeksiyon kalıplarında itici pim delikleri ve soğutma kanallarını işleme temrinleri verilir.\n Plastik enjeksiyon kalıplarında itici pim delikleri ve soğutma kanallarını işleme temrinleri verilir."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp İmalatında Son İşlemler",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "9",
@@ -161,7 +143,6 @@
       "KAZANIM": "Plastik enjeksiyon kalıplarının parlatma işlemlerini verilen sürede yapar.\nPlastik enjeksiyon kalıp boşluklarının parlatılması işleminin önemi parlatma ekipmanları parlatma işleminde kullanılan ekipmanların özellikleri ve parlatma işlem basamakları üzerinde durulur.\n Plastik enjeksiyon kalıplarında parlatma işlemi yapılacak kalıp elemanları ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "9",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "9",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "9",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıp İmalatında Son İşlemler",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "9",
@@ -193,7 +171,6 @@
       "KAZANIM": "Plastik enjeksiyon kalıplarının montajını verilen resme uygun olarak yapar.\nPlastik enjeksiyon kalıplarında kullanılan standart makine elemanları montaj işlem basamakları montaj bağlantı elemanlarının çapraz şekilde sıkılması ve kalıp elemanlarını numaralandırılmasının amacı üzerinde durulur.\n Eğitim materyali olarak kullanılan plastik enjeksiyon kalıplarının montaj ve de montaj işlemleri ile ilgili temrinler verilir.\n 3.Montajı yapılan kalıbın enjeksiyon makinesinde deneme baskısı ile ilgili örnekler verilir."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıplarında Bakım",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "9",
@@ -201,7 +178,6 @@
       "KAZANIM": "Bakım ve onarımın önemi bakım prosedürleri bakım kart bilgileri ve bakım talimatları üzerinde durulur. B. Plastik enjeksiyon kalıplarında bakım yöntemlerini talimatlara uygun olarak uygular."
     },
     {
-      "ÜNİTE": "Plastik Enjeksiyon Kalıplarında Bakım",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "9",
@@ -209,7 +185,6 @@
       "KAZANIM": "Plastik enjeksiyon kalıplarının günlük haftalık aylık ve YILLIK bakımları üzerinde durulur.\nPlastik enjeksiyon kalıplarının bakım kartları ile ilgili örnekler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "9",
@@ -218,7 +193,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıplarının imalata uygun yapım resimlerini çizer.\nPlastik ekstrüzyon makinesinin çalışma prensibi plastik ekstrüzyon makinesinin elemanları üzerinde durulur.\n Plastik ekstrüzyon kalıplarının kullanım yerleri Plastik ekstrüzyon kalıplarının çeşitleri Plastik ekstrüzyon kalıp elemanları ve özellikleri üzerinde durulur.\n Plastik ekstrüzyon kalıp elemanlarının yapım resimlerinin çizim işlem basamakları ve plastik ekstrüzyon makinesinde kullanılan plastik hammaddeler üzerinde durulur.\n Plastik ekstrüzyon kalıbının krokisini ve plastik ekstrüzyon kalıp elemanlarının yapım resimleri çizme ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "9",
@@ -227,7 +201,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıplarının imalata uygun yapım resimlerini çizer.\nPlastik ekstrüzyon makinesinin çalışma prensibi plastik ekstrüzyon makinesinin elemanları üzerinde durulur.\n Plastik ekstrüzyon kalıplarının kullanım yerleri Plastik ekstrüzyon kalıplarının çeşitleri Plastik ekstrüzyon kalıp elemanları ve özellikleri üzerinde durulur.\n Plastik ekstrüzyon kalıp elemanlarının yapım resimlerinin çizim işlem basamakları ve plastik ekstrüzyon makinesinde kullanılan plastik hammaddeler üzerinde durulur.\n Plastik ekstrüzyon kalıbının krokisini ve plastik ekstrüzyon kalıp elemanlarının yapım resimleri çizme ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "9",
@@ -236,7 +209,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıp kalibrelerinin ve separatörlerin ana ölçülerini verilen resme uygun olarak oluşturur.\nKalibrenin ve seperatörlerin özellikleri üzerinde durulur.\n Plastik ekstrüzyon kalıp kalibre ve seperatörün referans yüzeylerinin belirlenmesinin önemi ve plastik ekstrüzyon kalıp kalibre ve seperatörün referans yüzeylerinin işlenmesinde dikkat edilecek hususlar üzerinde durulur.\n Kalıp kalibre ve seperatörün referans yüzeylerini belirleme Kalıp kalibre ve seperatörün referans yüzeylerini ve ana ölçülerini takım tezgâhlarında işleme ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "9",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "9",
@@ -254,7 +225,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıp kalibrelerinin ve separatörlerin ana ölçülerini verilen resme uygun olarak oluşturur.\nKalibrenin ve seperatörlerin özellikleri üzerinde durulur.\n Plastik ekstrüzyon kalıp kalibre ve seperatörün referans yüzeylerinin belirlenmesinin önemi ve plastik ekstrüzyon kalıp kalibre ve seperatörün referans yüzeylerinin işlenmesinde dikkat edilecek hususlar üzerinde durulur.\n Kalıp kalibre ve seperatörün referans yüzeylerini belirleme Kalıp kalibre ve seperatörün referans yüzeylerini ve ana ölçülerini takım tezgâhlarında işleme ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "9",
@@ -263,7 +233,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıplarını tel erozyon tezgâhında verilen resme uygun olarak işler.\nTel erozyon tezgâhının çalışma prensibi kısımları ve tezgâhta güvenli çalışma talimatları üzerinde durulur.\n İş parçalarının tel erozyon tezgâhına bağlanma şekilleri tezgâhta dielektrik sıvısı kullanmanın amacı tezgâhta çalışma işlem basamakları ve tezgâh performansını etkileyen faktörler üzerinde durulur.\n İşe uygun tel elektrot seçme tel elektrot bağlantı ayarları ve tezgâh işleme ayarları ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "9",
@@ -272,7 +241,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıplarını tel erozyon tezgâhında verilen resme uygun olarak işler.\nTel erozyon tezgâhının çalışma prensibi kısımları ve tezgâhta güvenli çalışma talimatları üzerinde durulur.\n İş parçalarının tel erozyon tezgâhına bağlanma şekilleri tezgâhta dielektrik sıvısı kullanmanın amacı tezgâhta çalışma işlem basamakları ve tezgâh performansını etkileyen faktörler üzerinde durulur.\n İşe uygun tel elektrot seçme tel elektrot bağlantı ayarları ve tezgâh işleme ayarları ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "9",
@@ -281,7 +249,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıp elemanlarını verilen resme uygun olarak talaşlı üretim makinelerinde işler.\nPlastik ekstrüzyon kalıp kafa plakası boşluklarının bağlantı flanşı kalıp boşluklarının mandrel plakası kalıp boşluklarının ve kalıp plakası kalıp boşluklarının işlem basamakları üzerinde durulur.\n Plastik ekstrüzyon kalıp elemanlarının referans yüzeylerini ve ana ölçülerini takım tezgâhlarında işleme ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "9",
@@ -290,7 +257,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıp elemanlarını verilen resme uygun olarak talaşlı üretim makinelerinde işler.\nPlastik ekstrüzyon kalıp kafa plakası boşluklarının bağlantı flanşı kalıp boşluklarının mandrel plakası kalıp boşluklarının ve kalıp plakası kalıp boşluklarının işlem basamakları üzerinde durulur.\n Plastik ekstrüzyon kalıp elemanlarının referans yüzeylerini ve ana ölçülerini takım tezgâhlarında işleme ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıp Üretimi",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "9",
@@ -299,7 +265,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıp elemanlarını verilen resme uygun olarak talaşlı üretim makinelerinde işler.\nPlastik ekstrüzyon kalıp kafa plakası boşluklarının bağlantı flanşı kalıp boşluklarının mandrel plakası kalıp boşluklarının ve kalıp plakası kalıp boşluklarının işlem basamakları üzerinde durulur.\n Plastik ekstrüzyon kalıp elemanlarının referans yüzeylerini ve ana ölçülerini takım tezgâhlarında işleme ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıplarında Üretime Hazırlık",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "9",
@@ -308,7 +273,6 @@
       "KAZANIM": "Kalibre ve separatör vakum kanallarını verilen resme uygun olarak işler."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıplarında Üretime Hazırlık",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "9",
@@ -317,7 +281,6 @@
       "KAZANIM": "Verilen resme uygun olarak kalibre soğutma kanallarını işler."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıplarında Üretime Hazırlık",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "9",
@@ -326,7 +289,6 @@
       "KAZANIM": "Ekstrüzyon kalıp kalibre ve separatöre verilen sürede parlatma işlemlerini yapar.\nPlastik ekstrüzyon kalıplarının parlatma işlemlerini verilen sürede yapar.\n Plastik ekstrüzyon kalıp boşluklarının parlatılması işleminin önemi parlatma ekipmanları parlatma işleminde kullanılan ekipmanların özellikleri ve parlatma işlem basamakları üzerinde durulur.\n Plastik ekstrüzyon kalıplarında parlatma işlemi yapılacak kalıp elemanları ile ilgili temrinler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıplarında Üretime Hazırlık",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "9",
@@ -335,7 +297,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıplarının montajını verilen resme uygun olarak yapar.\nPlastik ekstrüzyon kalıplarında kullanılan standart makine elemanları montaj işlem basamakları montaj bağlantı elemanlarının çapraz şekilde sıkılması ve kalıp elemanlarını numaralandırılmasının amacı üzerinde durulur.\n Eğitim materyali olarak kullanılan plastik ekstrüzyon kalıplarının montaj ve de montaj işlemleri ile ilgili temrinler verilir.\n Montajı yapılan kalıbın ekstrüzyon makinesinde deneme baskısı ile ilgili örnekler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıplarında Üretime Hazırlık",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "9",
@@ -344,7 +305,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıplarının montajını verilen resme uygun olarak yapar.\nPlastik ekstrüzyon kalıplarında kullanılan standart makine elemanları montaj işlem basamakları montaj bağlantı elemanlarının çapraz şekilde sıkılması ve kalıp elemanlarını numaralandırılmasının amacı üzerinde durulur.\n Eğitim materyali olarak kullanılan plastik ekstrüzyon kalıplarının montaj ve de montaj işlemleri ile ilgili temrinler verilir.\n Montajı yapılan kalıbın ekstrüzyon makinesinde deneme baskısı ile ilgili örnekler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıplarında Üretime Hazırlık",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "9",
@@ -353,7 +313,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıplarının montajını verilen resme uygun olarak yapar.\nPlastik ekstrüzyon kalıplarında kullanılan standart makine elemanları montaj işlem basamakları montaj bağlantı elemanlarının çapraz şekilde sıkılması ve kalıp elemanlarını numaralandırılmasının amacı üzerinde durulur.\n Eğitim materyali olarak kullanılan plastik ekstrüzyon kalıplarının montaj ve de montaj işlemleri ile ilgili temrinler verilir.\n Montajı yapılan kalıbın ekstrüzyon makinesinde deneme baskısı ile ilgili örnekler verilir."
     },
     {
-      "ÜNİTE": "Plastik Ekstrüzyon Kalıplarında Üretime Hazırlık",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "9",
@@ -362,7 +321,6 @@
       "KAZANIM": "Plastik ekstrüzyon kalıplarının montajını verilen resme uygun olarak yapar.\nPlastik ekstrüzyon kalıplarında kullanılan standart makine elemanları montaj işlem basamakları montaj bağlantı elemanlarının çapraz şekilde sıkılması ve kalıp elemanlarını numaralandırılmasının amacı üzerinde durulur.\n Eğitim materyali olarak kullanılan plastik ekstrüzyon kalıplarının montaj ve de montaj işlemleri ile ilgili temrinler verilir.\n Montajı yapılan kalıbın ekstrüzyon makinesinde deneme baskısı ile ilgili örnekler verilir."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "9",

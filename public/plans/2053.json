@@ -3,7 +3,6 @@
   "ders": "Türkçe I-II-III Kademe Maarif",
   "plan": [
     {
-      "ÜNİTE": "HATIRLATMADEĞERLENDİRME HAFTASI",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
@@ -11,7 +10,6 @@
       "KAZANIM": "HATIRLATMADEĞERLENDİRME HAFTASI 1\nHATIRLATMA DEĞERLENDİRME HAFTASI 1"
     },
     {
-      "ÜNİTE": "PEKİŞTİRMEGENELLEME HAFTASI",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
@@ -19,81 +17,59 @@
       "KAZANIM": "PEKİŞTİRMEGENELLEME HAFTASI 1"
     },
     {
-      "ÜNİTE": "MERAK EDİYORUM",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "KONU": "Aynı Olan Nesneleri Eşleme Farklı Olan Nesneleri Ayırt Etme Nesneleri Sınıflandırma Duyduklarını Tekrar Etme Yazı Araç Gerecini Kullanma Boyama Çalışmaları Yapma",
-      "KAZANIM": "Nesneleri seçebilme\n Gördüklerini belirleyebilme",
-      "SDB": "2.1. İletişim",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Nesneleri seçebilme\n Gördüklerini belirleyebilme"
     },
     {
-      "ÜNİTE": "MERAK EDİYORUM",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "Aynı Olan Nesneleri Eşleme Farklı Olan Nesneleri Ayırt Etme Nesneleri Sınıflandırma Duyduklarını Tekrar Etme Yazı Araç Gerecini Kullanma Boyama Çalışmaları Yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
-      "KAZANIM": "Duyduklarına tepki verebilme\n Duyduklarını ifade edebilme",
-      "SDB": "2.1. İletişim",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Duyduklarına tepki verebilme\n Duyduklarını ifade edebilme"
     },
     {
-      "ÜNİTE": "MERAK EDİYORUM",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "Aynı Olan Nesneleri Eşleme Farklı Olan Nesneleri Ayırt Etme Nesneleri Sınıflandırma Duyduklarını Tekrar Etme Yazı Araç Gerecini Kullanma Boyama Çalışmaları Yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
-      "KAZANIM": "Yazı araç gerecini kullanabilme\n El-göz koordinasyonu becerilerini kullanabilme",
-      "SDB": "2.1. İletişim",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Yazı araç gerecini kullanabilme\n El-göz koordinasyonu becerilerini kullanabilme"
     },
     {
-      "ÜNİTE": "KEŞFEDİYORUM",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "KONU": "Aynı Olan Nesne Görsellerini Eşleme Farklı Olan Nesne Görsellerini Ayırt Etme Nesne Görsellerini Sınıflandırma Nesne Görsellerini Gölgesiyle Eşleme Duyduklarına Tepki Verme Duyduklarını Tekrar Etme Çizgi Çalışmaları Yapma",
-      "KAZANIM": "Nesne görselini seçebilme\n Gördüklerini belirleyebilme",
-      "SDB": "2.1. İletişim",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Nesne görselini seçebilme\n Gördüklerini belirleyebilme"
     },
     {
-      "ÜNİTE": "KEŞFEDİYORUM",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "KONU": "Aynı Olan Nesne Görsellerini Eşleme Farklı Olan Nesne Görsellerini Ayırt Etme Nesne Görsellerini Sınıflandırma Nesne Görsellerini Gölgesiyle Eşleme Duyduklarına Tepki Verme Duyduklarını Tekrar Etme Çizgi Çalışmaları Yapma",
-      "KAZANIM": "Duyduklarına tepki verebilme\n Duyduklarını söyleyebilme",
-      "SDB": "2.1. İletişim",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Duyduklarına tepki verebilme\n Duyduklarını söyleyebilme"
     },
     {
-      "ÜNİTE": "KEŞFEDİYORUM",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "Aynı Olan Nesne Görsellerini Eşleme Farklı Olan Nesne Görsellerini Ayırt Etme Nesne Görsellerini Sınıflandırma Nesne Görsellerini Gölgesiyle Eşleme Duyduklarına Tepki Verme Duyduklarını Tekrar Etme Çizgi Çalışmaları Yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
-      "KAZANIM": "El-göz koordinasyon becerilerini kullanabilme",
-      "SDB": "2.1. İletişim",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "El-göz koordinasyon becerilerini kullanabilme"
     },
     {
-      "ÜNİTE": "ÖĞRENMEYE HAZIRIM",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "Örüntü Oluşturma Örüntü Tamamlama Parça-Bütün İlişkisi Kurma Duyduklarını Tekrar Etme Çizgi Çalışmaları Yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
-      "KAZANIM": "Gördüklerini belirleyebilme\n Duyduklarına tepki verebilme",
-      "SDB": "2.1. İletişim",
-      "OB": "4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+      "KAZANIM": "Gördüklerini belirleyebilme\n Duyduklarına tepki verebilme"
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -102,94 +78,69 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "ÖĞRENMEYE HAZIRIM",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "Örüntü Oluşturma Örüntü Tamamlama Parça-Bütün İlişkisi Kurma Duyduklarını Tekrar Etme Çizgi Çalışmaları Yapma",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
-      "KAZANIM": "Duyduklarını söyleyebilme\n El göz koordinasyon becerilerini kullanabilme",
-      "SDB": "2.1. İletişim",
-      "OB": "4. Görsel Okuryazarlık OB7. Veri Okuryazarlığı"
+      "KAZANIM": "Duyduklarını söyleyebilme\n El göz koordinasyon becerilerini kullanabilme"
     },
     {
-      "ÜNİTE": "OKUL YAŞAMIM",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrencilere dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
-      "KAZANIM": "Dinlemeyiizlemeyi yönetebilme\n Dinledikleriizledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır.",
-      "SDB": "2.1.İletişim SDB2.2. İş Birliği",
-      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinlemeyiizlemeyi yönetebilme\n Dinledikleriizledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır."
     },
     {
-      "ÜNİTE": "OKUL YAŞAMIM",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrencilere dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
-      "KAZANIM": "Dinledikleriniizlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Cümleleri doğru okur.",
-      "SDB": "2.1.İletişim SDB2.2. İş Birliği",
-      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinledikleriniizlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Cümleleri doğru okur."
     },
     {
-      "ÜNİTE": "OKUL YAŞAMIM",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrencilere dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
-      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar.",
-      "SDB": "2.1.İletişim SDB2.2. İş Birliği",
-      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar."
     },
     {
-      "ÜNİTE": "OKUL YAŞAMIM",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrencilere dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
-      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nGörsellerle ilgili sözcük ve cümleler yazar.\nHarfleri temel formuna ve yazım yönlerine göre doğru yazar. Harf sözcük ve cümleler arasında uygun boşluk bırakır.",
-      "SDB": "2.1.İletişim SDB2.2. İş Birliği",
-      "OB": "2. Dijital Okuryazarlık OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nGörsellerle ilgili sözcük ve cümleler yazar.\nHarfleri temel formuna ve yazım yönlerine göre doğru yazar. Harf sözcük ve cümleler arasında uygun boşluk bırakır."
     },
     {
-      "ÜNİTE": "ÖĞRENME YOLCULUĞUM",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrencilere dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
-      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinledikleriİzledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır.",
-      "SDB": "2.1.İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinledikleriİzledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır."
     },
     {
-      "ÜNİTE": "ÖĞRENME YOLCULUĞUM",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrencilere dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
-      "KAZANIM": "Dinledikleriniİzlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Cümleleri doğru okur. Telaffuza dikkat ederek okur. Öğrendiği ses hece sözcük cümleleri işitilebilir bir ses düzeyinde okur.",
-      "SDB": "2.1.İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinledikleriniİzlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Cümleleri doğru okur. Telaffuza dikkat ederek okur. Öğrendiği ses hece sözcük cümleleri işitilebilir bir ses düzeyinde okur."
     },
     {
-      "ÜNİTE": "ÖĞRENME YOLCULUĞUM",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrencilere dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
-      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar.",
-      "SDB": "2.1.İletişim SDB2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -197,7 +148,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -205,7 +155,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -213,70 +162,51 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "ATATÜRKÜM VE TÜRKİYEM",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
-      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinledikleriİzledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır.",
-      "SDB": "2.1. İletişim SDB2.2 İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinledikleriİzledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır."
     },
     {
-      "ÜNİTE": "ATATÜRKÜM VE TÜRKİYEM",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
-      "KAZANIM": "Dinledikleriniİzlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Basit ve kısa cümleleri doğru okur. Telaffuza dikkat ederek okur. Öğrendiği ses hece sözcük cümleleri işitilebilir bir ses düzeyinde okur.",
-      "SDB": "2.1. İletişim SDB2.2 İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinledikleriniİzlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Basit ve kısa cümleleri doğru okur. Telaffuza dikkat ederek okur. Öğrendiği ses hece sözcük cümleleri işitilebilir bir ses düzeyinde okur."
     },
     {
-      "ÜNİTE": "ATATÜRKÜM VE TÜRKİYEM",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
-      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar.",
-      "SDB": "2.1. İletişim SDB2.2 İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar."
     },
     {
-      "ÜNİTE": "ATATÜRKÜM VE TÜRKİYEM",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
-      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nGörsellerle ilgili sözcük ve cümleler yazar.\nHarfleri temel formuna ve yazım yönlerine göre yazar. Harf sözcük ve cümleler arasında uygun boşluk bırakır. Harflerin büyük yazılışını yerinde kullanır. Büyük harfleri kuralına uygun kullanır. Yazılarında noktalama işaretlerini kuralına uygun kullanır.",
-      "SDB": "2.1. İletişim SDB2.2 İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nGörsellerle ilgili sözcük ve cümleler yazar.\nHarfleri temel formuna ve yazım yönlerine göre yazar. Harf sözcük ve cümleler arasında uygun boşluk bırakır. Harflerin büyük yazılışını yerinde kullanır. Büyük harfleri kuralına uygun kullanır. Yazılarında noktalama işaretlerini kuralına uygun kullanır."
     },
     {
-      "ÜNİTE": "BENİM GÜZEL AİLEM",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
-      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinledikleriİzledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır.",
-      "SDB": "2.1. İletişim SDB 2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinledikleriİzledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır."
     },
     {
-      "ÜNİTE": "BENİM GÜZEL AİLEM",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
-      "KAZANIM": "Dinledikleriniİzlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Basit ve kısa cümleleri doğru okur. Telaffuza dikkat ederek okur. Öğrendiği ses hece sözcük cümleleri işitilebilir bir ses düzeyinde okur.",
-      "SDB": "2.1. İletişim SDB 2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinledikleriniİzlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Basit ve kısa cümleleri doğru okur. Telaffuza dikkat ederek okur. Öğrendiği ses hece sözcük cümleleri işitilebilir bir ses düzeyinde okur."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -285,150 +215,110 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "BENİM GÜZEL AİLEM",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
-      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar.",
-      "SDB": "2.1. İletişim SDB 2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar."
     },
     {
-      "ÜNİTE": "BENİM GÜZEL AİLEM",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
-      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nGörsellerle ilgili sözcük ve cümleler yazar.\nHarfleri temel formuna ve yazım yönlerine göre yazar. Harf sözcük ve cümleler arasında uygun boşluk bırakır. Harflerin büyük yazılışını yerinde kullanır. Büyük harfleri kuralına uygun kullanır. Yazırlarında noktalama işaretlerini kuralına uygun kullanır.",
-      "SDB": "2.1. İletişim SDB 2.2. İş Birliği SDB2.3. Sosyal Farkındalık",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nGörsellerle ilgili sözcük ve cümleler yazar.\nHarfleri temel formuna ve yazım yönlerine göre yazar. Harf sözcük ve cümleler arasında uygun boşluk bırakır. Harflerin büyük yazılışını yerinde kullanır. Büyük harfleri kuralına uygun kullanır. Yazırlarında noktalama işaretlerini kuralına uygun kullanır."
     },
     {
-      "ÜNİTE": "SOSYAL ÇEVREM",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
-      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinledikleriİzledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır.",
-      "SDB": "2.1. İletişim SDB 2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinledikleriİzledikleri ile ilgili anlam oluşturabilme\nVerilen görseller arasından öğrendiği sesin geçtiği görseligörselleri seçer. Dinleme kurallarına uygun olarak dinler. Dinleme esnasında konuşmaya dâhil olmak için uygun zamanda söz alır.\nSese karşılık gelen sembolü harfi tanır."
     },
     {
-      "ÜNİTE": "SOSYAL ÇEVREM",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
-      "KAZANIM": "Dinledikleriniİzlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Basit ve kısa cümleleri doğru okur. Telaffuza dikkat ederek okur. Öğrendiği ses hece sözcük cümleleri işitilebilir bir ses düzeyinde okur.",
-      "SDB": "2.1. İletişim SDB 2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinledikleriniİzlediklerini çözümleyebilme\n Okuma sürecini yönetebilme\nSeslere karşılık gelen sembolleriharfleri ayırt eder.\nHarfi doğru seslendirir. Heceleri doğru seslendirir. Sözcükleri doğru okur. Basit ve kısa cümleleri doğru okur. Telaffuza dikkat ederek okur. Öğrendiği ses hece sözcük cümleleri işitilebilir bir ses düzeyinde okur."
     },
     {
-      "ÜNİTE": "SOSYAL ÇEVREM",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
-      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar.",
-      "SDB": "2.1. İletişim SDB 2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Konuşmalarını yönetebilme\n Yazılı anlatım becerilerini yönetebilme\nKonuşma sırasında dinleyicilerle göz teması kurar.\nYazma materyalini kuralına uygun kullanır. Hece yazar. Sözcük yazar. Cümle yazar."
     },
     {
-      "ÜNİTE": "SOSYAL ÇEVREM",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının öğrencilere kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
-      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nGörsellerle ilgili sözcük ve cümleler yazar.\nHarfleri temel formuna ve yazım yönlerine göre yazar. Harf sözcük ve cümleler arasında uygun boşluk bırakır. Harflerin büyük yazılışını yerinde kullanır. Büyük harfleri kuralına uygun kullanır. Yazılarında noktalama işaretlerini kuralına uygun kullanır.",
-      "SDB": "2.1. İletişim SDB 2.2. İş Birliği",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nGörsellerle ilgili sözcük ve cümleler yazar.\nHarfleri temel formuna ve yazım yönlerine göre yazar. Harf sözcük ve cümleler arasında uygun boşluk bırakır. Harflerin büyük yazılışını yerinde kullanır. Büyük harfleri kuralına uygun kullanır. Yazılarında noktalama işaretlerini kuralına uygun kullanır."
     },
     {
-      "ÜNİTE": "ARTIK OKUYORUM",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "Bu temadaki metinler aracılığı ile öğrenciye dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
-      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinlediklerini izlediklerini çözümleyebilme.\nDinleme kurallarına uygun olarak dinler.\nDinlediği izlediği metnin konusunu bulur.",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim",
-      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık"
+      "KAZANIM": "Dinlemeyiİzlemeyi yönetebilme\n Dinlediklerini izlediklerini çözümleyebilme.\nDinleme kurallarına uygun olarak dinler.\nDinlediği izlediği metnin konusunu bulur."
     },
     {
-      "ÜNİTE": "ARTIK OKUYORUM",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "Bu temadaki metinler aracılığı ile öğrenciye dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
-      "KAZANIM": "Okuma sürecini yönetebilme\n Okudukları ile ilgili anlam oluşturabilme\nTelaffuza dikkat ederek okur. Noktalama işaretlerine dikkat ederek okur. Anlaşılabilir ve uygun bir hızda sesli okur. Kuralına uygun sesli okur. Kuralına uygun sessiz okur.\nOkuduğu metnin içeriğine uygun çıkarım yapar.",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim",
-      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık"
+      "KAZANIM": "Okuma sürecini yönetebilme\n Okudukları ile ilgili anlam oluşturabilme\nTelaffuza dikkat ederek okur. Noktalama işaretlerine dikkat ederek okur. Anlaşılabilir ve uygun bir hızda sesli okur. Kuralına uygun sesli okur. Kuralına uygun sessiz okur.\nOkuduğu metnin içeriğine uygun çıkarım yapar."
     },
     {
-      "ÜNİTE": "ARTIK OKUYORUM",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "Bu temadaki metinler aracılığı ile öğrenciye dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
-      "KAZANIM": "Okuduklarını çözümleyebilme\n Konuşmalarında içerik oluşturabilme\nOkuduğu metindeki karakter olay bilgi veya duyguları açıklar. Okuduğu metnin konusunu bulur.\nDinlediği izlediği metni anlatır. Dinlediğiizlediği metindeki olayları oluş sırasına göre kendi ifadeleriyle anlatır. Okuduğu metindeki olayları oluş sırasına göre kendi ifadeleriyle anlatır.",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim",
-      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık"
+      "KAZANIM": "Okuduklarını çözümleyebilme\n Konuşmalarında içerik oluşturabilme\nOkuduğu metindeki karakter olay bilgi veya duyguları açıklar. Okuduğu metnin konusunu bulur.\nDinlediği izlediği metni anlatır. Dinlediğiizlediği metindeki olayları oluş sırasına göre kendi ifadeleriyle anlatır. Okuduğu metindeki olayları oluş sırasına göre kendi ifadeleriyle anlatır."
     },
     {
-      "ÜNİTE": "ARTIK OKUYORUM",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "Bu temadaki metinler aracılığı ile öğrenciye dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
-      "KAZANIM": "Konuşma kurallarını uygulayabilme\n Yazılı anlatım ifade becerilerini yönetebilme\nKonuşmalarında konuşma hızını ayarlar. Konuşmalarında vurgu ve tonlamaya dikkat eder. Konuşmalarında sözcükleri yerinde ve anlamına uygun kullanır.\nKısa metinler yazar.",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim",
-      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık"
+      "KAZANIM": "Konuşma kurallarını uygulayabilme\n Yazılı anlatım ifade becerilerini yönetebilme\nKonuşmalarında konuşma hızını ayarlar. Konuşmalarında vurgu ve tonlamaya dikkat eder. Konuşmalarında sözcükleri yerinde ve anlamına uygun kullanır.\nKısa metinler yazar."
     },
     {
-      "ÜNİTE": "ARTIK OKUYORUM",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "Bu temadaki metinler aracılığı ile öğrenciye dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
-      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nDinlediği izlediği bir metindeki olayları oluş sırasına göre kendi ifadeleriyle yazar. Okuduğu bir metindeki olayları oluş sırasına göre kendi ifadeleriyle yazar. Sözcük ve cümlelerde eksik bırakılan yerleri ön bilgileri doğrultusunda yazarak tamamlar.\nHarflerin büyük yazılışını yerinde kullanır. Büyük harfleri kuralına uygun yazar. Yazılarında noktayı kuralına uygun kullanır. Yazılarında soru işaretini kuralına uygun kullanır. Yazılarında virgülü kuralına uygun kullanır. Yazılarında ünlem işaretini kuralına uygun kullanır. Yazılarında kesme işaretini uygun kullanır.",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık SDB2.1. İletişim",
-      "OB": "1. Bilgi Okuryazarlığı OB2. Dijital Okuryazarlık"
+      "KAZANIM": "Yazılarında içerik oluşturabilme\n Yazma kurallarını uygulayabilme\nDinlediği izlediği bir metindeki olayları oluş sırasına göre kendi ifadeleriyle yazar. Okuduğu bir metindeki olayları oluş sırasına göre kendi ifadeleriyle yazar. Sözcük ve cümlelerde eksik bırakılan yerleri ön bilgileri doğrultusunda yazarak tamamlar.\nHarflerin büyük yazılışını yerinde kullanır. Büyük harfleri kuralına uygun yazar. Yazılarında noktayı kuralına uygun kullanır. Yazılarında soru işaretini kuralına uygun kullanır. Yazılarında virgülü kuralına uygun kullanır. Yazılarında ünlem işaretini kuralına uygun kullanır. Yazılarında kesme işaretini uygun kullanır."
     },
     {
-      "ÜNİTE": "İŞLEVSEL OKUMA",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrenciye dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
-      "KAZANIM": "Okuma sürecini yönetebilme\n Görseli verilen sözcüğü seçebilme\nSözcüğü okur.\nGörseli verilen sözcüğü seçer. Yazılışı verilen sözcüğü diğer sözcükler arasından gösterir.",
-      "SDB": "2.1. İletişim",
-      "OB": "4.Görsel Okuryazarlık"
+      "KAZANIM": "Okuma sürecini yönetebilme\n Görseli verilen sözcüğü seçebilme\nSözcüğü okur.\nGörseli verilen sözcüğü seçer. Yazılışı verilen sözcüğü diğer sözcükler arasından gösterir."
     },
     {
-      "ÜNİTE": "İŞLEVSEL OKUMA",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
       "KONU": "Bu temadaki uygulamalar aracılığı ile öğrenciye dinlemeizleme konuşma okuma yazma becerisine ait öğrenme çıktılarının kazandırılması beklenmektedir.",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü",
-      "KAZANIM": "Sözcük yazabilme\n Dinleme eylemi gösterebilme\nSözcük ve o sözcüğe ait görsel gösterildiğinde sözcüğü yazar. Öğretilen sözcük söylendiğinde yazar.\nKonuşan kişiye yönelik dinleme eylemi gösterir.",
-      "SDB": "2.1. İletişim",
-      "OB": "4.Görsel Okuryazarlık"
+      "KAZANIM": "Sözcük yazabilme\n Dinleme eylemi gösterebilme\nSözcük ve o sözcüğe ait görsel gösterildiğinde sözcüğü yazar. Öğretilen sözcük söylendiğinde yazar.\nKonuşan kişiye yönelik dinleme eylemi gösterir."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",

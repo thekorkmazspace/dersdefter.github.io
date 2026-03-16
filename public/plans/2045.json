@@ -3,103 +3,75 @@
   "ders": "Türk İşaret Dili Özel Eğitim Maarif",
   "plan": [
     {
-      "ÜNİTE": "Ben ve Okulum",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
       "KONU": "Öğretmen ve Arkadaşlar Tanışma Fiziksel Özellikler ve Temel Duygular Sınıf ve Okul Ortamı",
       "BELİRLİ GÜN VE HAFTALAR": "Uluslararası Temiz Hava Günü",
-      "KAZANIM": "Öğretmeni ve arkadaşlarıyla tanışırken TİD ile iletişim kurabilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi SDB2.1. İletişim Becerisi SDB3.1. Uyum Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Öğretmeni ve arkadaşlarıyla tanışırken TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Ben ve Okulum",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
       "KONU": "Öğretmen ve Arkadaşlar Tanışma Fiziksel Özellikler ve Temel Duygular Sınıf ve Okul Ortamı",
       "BELİRLİ GÜN VE HAFTALAR": "İlköğretim Haftası Mevlid-i Nebî Haftası Öğrenciler Günü Gaziler Günü",
-      "KAZANIM": "Fiziksel özelliklerine ve temel duygularına ilişkin işaretleri kullanarak TİD ile iletişim kurabilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi SDB2.1. İletişim Becerisi SDB3.1. Uyum Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Fiziksel özelliklerine ve temel duygularına ilişkin işaretleri kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Ben ve Okulum",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "KONU": "Öğretmen ve Arkadaşlar Tanışma Fiziksel Özellikler ve Temel Duygular Sınıf ve Okul Ortamı",
-      "KAZANIM": "Sınıf ve okul ortamına ilişkin işaretleri kullanarak TİD ile iletişim kurabilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi SDB2.1. İletişim Becerisi SDB3.1. Uyum Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Sınıf ve okul ortamına ilişkin işaretleri kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Ben ve Okulum",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
       "KONU": "Öğretmen ve Arkadaşlar Tanışma Fiziksel Özellikler ve Temel Duygular Sınıf ve Okul Ortamı",
       "BELİRLİ GÜN VE HAFTALAR": "Disleksi Haftası Dünya Disleksi Günü",
-      "KAZANIM": "Sınıf ve okul ortamına ilişkin işaretleri kullanarak TİD ile iletişim kurabilme",
-      "SDB": "1.1. Kendini Tanıma Öz Farkındalık Becerisi SDB2.1. İletişim Becerisi SDB3.1. Uyum Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Sınıf ve okul ortamına ilişkin işaretleri kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Vücudum ve Sağlığım",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
       "KONU": "Vücudumuzun Bölümleri Sağlıklı Büyüme ve Gelişme Temizlikle İlgili Günlük Rutinler",
       "BELİRLİ GÜN VE HAFTALAR": "Ahilik Kültürü Haftası",
-      "KAZANIM": "Vücudumuzla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Vücudumuzla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Vücudum ve Sağlığım",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "KONU": "Vücudumuzun Bölümleri Sağlıklı Büyüme ve Gelişme Temizlikle İlgili Günlük Rutinler",
-      "KAZANIM": "Sağlığımızla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Sağlığımızla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Vücudum ve Sağlığım",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "KONU": "Vücudumuzun Bölümleri Sağlıklı Büyüme ve Gelişme Temizlikle İlgili Günlük Rutinler",
-      "KAZANIM": "Sağlıklı büyüme ve gelişme için yapması gerekenlerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Sağlıklı büyüme ve gelişme için yapması gerekenlerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Vücudum ve Sağlığım",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
       "KONU": "Vücudumuzun Bölümleri Sağlıklı Büyüme ve Gelişme Temizlikle İlgili Günlük Rutinler",
       "BELİRLİ GÜN VE HAFTALAR": "Cumhuriyet Bayramı",
-      "KAZANIM": "Temizlikle ilgili günlük rutinlerini TİD ile sıralayabilme\nTemizlik rutinlerini zamansal olarak sıralar.",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Temizlikle ilgili günlük rutinlerini TİD ile sıralayabilme\nTemizlik rutinlerini zamansal olarak sıralar."
     },
     {
-      "ÜNİTE": "Vücudum ve Sağlığım",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
       "KONU": "Vücudumuzun Bölümleri Sağlıklı Büyüme ve Gelişme Temizlikle İlgili Günlük Rutinler",
       "BELİRLİ GÜN VE HAFTALAR": "Kızılay Haftası Organ Bağışı ve Nakli Haftası Lösemili Çocuklar Haftası",
-      "KAZANIM": "Temizlikle ilgili günlük rutinlerini TİD ile sıralayabilme\nTemizlik rutinlerini zamansal olarak sıralar.",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "1. Bilgi Okuryazarlığı OB4. Görsel Okuryazarlık"
+      "KAZANIM": "Temizlikle ilgili günlük rutinlerini TİD ile sıralayabilme\nTemizlik rutinlerini zamansal olarak sıralar."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -108,92 +80,69 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Ailem ve Toplum",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
       "KONU": "Çekirdek Aile Aile Bireylerinin Meslekleri Nezaket İfadeleri Evin Bölümleri Ev Eşyaları Adıllar",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya FELSEFE Günü Dünya Çocuk Hakları Günü",
-      "KAZANIM": "Aile ve toplum yaşantısı ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme\n-",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Aile ve toplum yaşantısı ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme\n-"
     },
     {
-      "ÜNİTE": "Ailem ve Toplum",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
       "KONU": "Çekirdek Aile Aile Bireylerinin Meslekleri Nezaket İfadeleri Evin Bölümleri Ev Eşyaları Adıllar",
       "BELİRLİ GÜN VE HAFTALAR": "Ağız ve Diş Sağlığı Haftası Öğretmenler Günü",
-      "KAZANIM": "Evin bölümleri ve eşyaları ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme\n-",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Evin bölümleri ve eşyaları ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme\n-"
     },
     {
-      "ÜNİTE": "Zıt Kavramlar Renkler ve Uzamsal İlişkiler",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
       "KONU": "Zıt Kavramlar Renkler Uzamsal İlişkiler",
       "BELİRLİ GÜN VE HAFTALAR": "Dünya Engelliler Günü Dünya Madenciler Günü Türk Kadınına Seçme ve Seçilme Hakkının Verilişi",
-      "KAZANIM": "Zıt karşılığı olan kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Zıt karşılığı olan kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Zıt Kavramlar Renkler ve Uzamsal İlişkiler",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
       "KONU": "Zıt Kavramlar Renkler Uzamsal İlişkiler",
       "BELİRLİ GÜN VE HAFTALAR": "Mevlana Haftası İnsan Hakları ve Demokrasi Haftası",
-      "KAZANIM": "Renklerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Renklerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Zıt Kavramlar Renkler ve Uzamsal İlişkiler",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
       "KONU": "Zıt Kavramlar Renkler Uzamsal İlişkiler",
       "BELİRLİ GÜN VE HAFTALAR": "Tutum Yatırım ve Türk Malları Haftası",
-      "KAZANIM": "Uzamsal ilişkilerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Uzamsal ilişkilerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Yiyecek ve İçecek",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
       "KONU": "Meyve ve Sebzeler Kahvaltılıklar Yiyecek ve İçecek",
       "BELİRLİ GÜN VE HAFTALAR": "Mehmet Akif Ersoyu Anma Haftası",
-      "KAZANIM": "Meyve ve sebzelerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Meyve ve sebzelerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Yiyecek ve İçecek",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "KONU": "Meyve ve Sebzeler Kahvaltılıklar Yiyecek ve İçecek",
-      "KAZANIM": "Kahvaltılıklarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Kahvaltılıklarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Yiyecek ve İçecek",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
       "KONU": "Meyve ve Sebzeler Kahvaltılıklar Yiyecek ve İçecek",
       "BELİRLİ GÜN VE HAFTALAR": "Enerji Tasarrufu Haftası",
-      "KAZANIM": "İçeceklerle ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "İçeceklerle ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -201,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -209,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -217,70 +164,51 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yaşadığım Yer ve Ülkem",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "KONU": "Yaşadığımız Çevre Ülkemiz Hakkındaki Temel İfadeler Millî Günler ve Bayramlar Dinî Günler ve Bayramlar",
-      "KAZANIM": "Ülkemiz hakkındaki işaretleri kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Ülkemiz hakkındaki işaretleri kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Yaşadığım Yer ve Ülkem",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "KONU": "Yaşadığımız Çevre Ülkemiz Hakkındaki Temel İfadeler Millî Günler ve Bayramlar Dinî Günler ve Bayramlar",
-      "KAZANIM": "Millî gün ve bayramlarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Millî gün ve bayramlarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Yaşadığım Yer ve Ülkem",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "KONU": "Yaşadığımız Çevre Ülkemiz Hakkındaki Temel İfadeler Millî Günler ve Bayramlar Dinî Günler ve Bayramlar",
-      "KAZANIM": "Dinî gün ve bayramlarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinî gün ve bayramlarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Yaşadığım Yer ve Ülkem",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
       "KONU": "Yaşadığımız Çevre Ülkemiz Hakkındaki Temel İfadeler Millî Günler ve Bayramlar Dinî Günler ve Bayramlar",
       "BELİRLİ GÜN VE HAFTALAR": "Vergi Haftası Yeşilay Haftası",
-      "KAZANIM": "Dinî gün ve bayramlarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dinî gün ve bayramlarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Doğa ve Çevre",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
       "KONU": "Yakın Çevresindeki Hayvanlar ve Bitkiler Dünya Gök Cisimleri Gece ve Gündüz Mevsimler ve Giysiler",
       "BELİRLİ GÜN VE HAFTALAR": "Girişimcilik Haftası",
-      "KAZANIM": "Yakın çevremizdeki canlılarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Yakın çevremizdeki canlılarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Doğa ve Çevre",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
       "KONU": "Yakın Çevresindeki Hayvanlar ve Bitkiler Dünya Gök Cisimleri Gece ve Gündüz Mevsimler ve Giysiler",
       "BELİRLİ GÜN VE HAFTALAR": "Bilim ve Teknoloji Haftası İstiklâl Marşının Kabulü ve Mehmet Akif Ersoyu Anma Günü",
-      "KAZANIM": "Dünya gök cisimleri gece ve gündüz kavramlarının işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Dünya gök cisimleri gece ve gündüz kavramlarının işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -289,136 +217,102 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Doğa ve Çevre",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
       "KONU": "Yakın Çevresindeki Hayvanlar ve Bitkiler Dünya Gök Cisimleri Gece ve Gündüz Mevsimler ve Giysiler",
       "BELİRLİ GÜN VE HAFTALAR": "Orman Haftası Dünya Tiyatrolar Günü",
-      "KAZANIM": "Mevsimlerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Mevsimlerle ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Doğa ve Çevre",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
       "KONU": "Yakın Çevresindeki Hayvanlar ve Bitkiler Dünya Gök Cisimleri Gece ve Gündüz Mevsimler ve Giysiler",
       "BELİRLİ GÜN VE HAFTALAR": "Kütüphaneler Haftası Kanser Haftası Dünya Otizm Farkındalık Günü",
-      "KAZANIM": "Doğa ve çevre kavramlarını TİD ile karşılaştırabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Doğa ve çevre kavramlarını TİD ile karşılaştırabilme"
     },
     {
-      "ÜNİTE": "Doğa ve Çevre",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
       "KONU": "Yakın Çevresindeki Hayvanlar ve Bitkiler Dünya Gök Cisimleri Gece ve Gündüz Mevsimler ve Giysiler",
       "BELİRLİ GÜN VE HAFTALAR": "Kanser Haftası Dünya Sağlık GününDünya Sağlık Haftası Kişisel Verileri Koruma Günü",
-      "KAZANIM": "Doğa ve çevre kavramlarını TİD ile karşılaştırabilme",
-      "SDB": "2.1. İletişim Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Doğa ve çevre kavramlarını TİD ile karşılaştırabilme"
     },
     {
-      "ÜNİTE": "Oyun ve Spor",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
       "KONU": "Geleneksel Oyunlar Temel Spor Becerileri Grup Etkileşimi Grup İletişimi",
       "BELİRLİ GÜN VE HAFTALAR": "Turizm Haftası",
-      "KAZANIM": "Oyunlarında oyun ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi SDB3.1. Uyum Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Oyunlarında oyun ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Oyun ve Spor",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
       "KONU": "Geleneksel Oyunlar Temel Spor Becerileri Grup Etkileşimi Grup İletişimi",
       "BELİRLİ GÜN VE HAFTALAR": "Ulusal Egemenlik ve Çocuk Bayramı",
-      "KAZANIM": "Spor ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.1. İletişim Becerisi SDB3.1. Uyum Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Spor ile ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Oyun ve Spor",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
       "KONU": "Geleneksel Oyunlar Temel Spor Becerileri Grup Etkileşimi Grup İletişimi",
       "BELİRLİ GÜN VE HAFTALAR": "Kûtül Amâre Zaferi",
-      "KAZANIM": "Oyunlarda ve spor etkinliklerinde TİD ile grup dinamiğini sağlayabilme\nOyunlarda ve spor etkinliklerinde TİD ile görev paylaşımı yapar. Oyunlarda ve spor etkinliklerinde TİD ile gruba katkı sağlar. Oyunlarda ve spor etkinliklerinde TİD ile yardımlaşır.",
-      "SDB": "2.1. İletişim Becerisi SDB3.1. Uyum Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Oyunlarda ve spor etkinliklerinde TİD ile grup dinamiğini sağlayabilme\nOyunlarda ve spor etkinliklerinde TİD ile görev paylaşımı yapar. Oyunlarda ve spor etkinliklerinde TİD ile gruba katkı sağlar. Oyunlarda ve spor etkinliklerinde TİD ile yardımlaşır."
     },
     {
-      "ÜNİTE": "Sayılar Geometrik Şekiller ve Zaman Kavramları",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
       "KONU": "Sayılar ve Nicelikler Geometrik Şekiller Zaman ile İlgili Kavramlar",
       "BELİRLİ GÜN VE HAFTALAR": "Bilişim Haftası Trafik ve İlkyardım Haftası İş Sağlığı ve Güvenliği Haftası",
-      "KAZANIM": "0dan 20ye kadar olan sayıların işaretlerini TİD ile iletişim kurarken kullanabilme\n-",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "0dan 20ye kadar olan sayıların işaretlerini TİD ile iletişim kurarken kullanabilme\n-"
     },
     {
-      "ÜNİTE": "Sayılar Geometrik Şekiller ve Zaman Kavramları",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
       "KONU": "Sayılar ve Nicelikler Geometrik Şekiller Zaman ile İlgili Kavramlar",
       "BELİRLİ GÜN VE HAFTALAR": "Engelliler Haftası Vakıflar Haftası",
-      "KAZANIM": "Temel geometrik şekillerle ilgili kavramların işaretlerini TİD ile iletişim kurarken kullanabilme\n-",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Temel geometrik şekillerle ilgili kavramların işaretlerini TİD ile iletişim kurarken kullanabilme\n-"
     },
     {
-      "ÜNİTE": "Sayılar Geometrik Şekiller ve Zaman Kavramları",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
       "KONU": "Sayılar ve Nicelikler Geometrik Şekiller Zaman ile İlgili Kavramlar",
       "BELİRLİ GÜN VE HAFTALAR": "Müzeler Haftası Atatürkü Anma ve Gençlik ve Spor Bayramı",
-      "KAZANIM": "Zamanla ilgili temel kavramların işaretlerini TİD ile iletişim kurarken kullanabilme\n-",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Zamanla ilgili temel kavramların işaretlerini TİD ile iletişim kurarken kullanabilme\n-"
     },
     {
-      "ÜNİTE": "Taşıtlar ve Trafik Güvenliğim",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
       "KONU": "Taşıtlar Temel Trafik Kuralları Çeşitli Mekânlarda Trafik Güvenliği",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü İstanbulun Fethi",
-      "KAZANIM": "Taşıtlarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.3. Sosyal Farkındalık Becerisi SDB2.2. İş Birliği Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Taşıtlarla ilgili kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Taşıtlar ve Trafik Güvenliğim",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
       "KONU": "Taşıtlar Temel Trafik Kuralları Çeşitli Mekânlarda Trafik Güvenliği",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Hayat Boyu Öğrenme Haftası",
-      "KAZANIM": "Ulaşım yollarına göre taşıtlara ilişkin kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.3. Sosyal Farkındalık Becerisi SDB2.2. İş Birliği Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Ulaşım yollarına göre taşıtlara ilişkin kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Taşıtlar ve Trafik Güvenliğim",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
       "KONU": "Taşıtlar Temel Trafik Kuralları Çeşitli Mekânlarda Trafik Güvenliği",
       "BELİRLİ GÜN VE HAFTALAR": "Etik Günü Çevre ve İklim Değişikliği Haftası",
-      "KAZANIM": "Temel trafik kurallarına ilişkin kavramların işaretlerini kullanarak TİD ile iletişim kurabilme",
-      "SDB": "2.3. Sosyal Farkındalık Becerisi SDB2.2. İş Birliği Becerisi",
-      "OB": "4. Görsel Okuryazarlık"
+      "KAZANIM": "Temel trafik kurallarına ilişkin kavramların işaretlerini kullanarak TİD ile iletişim kurabilme"
     },
     {
-      "ÜNİTE": "Okul Temelli Planlama",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
@@ -427,7 +321,6 @@
       "KAZANIM": "Okul Temelli Planlama"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",

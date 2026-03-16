@@ -3,7 +3,6 @@
   "ders": "Hedef Temelli Eğitim (coğrafya 1)",
   "plan": [
     {
-      "ÜNİTE": "Doğa ve İnsan Etkileşimi",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "1",
@@ -12,7 +11,6 @@
       "KAZANIM": "9.1.1 Coğrafyanın konusunu ve bölümlerini açıklar 9.1.2 Doğa ve insan etkileşimini örneklerle açıklar 9.1.3 Coğrafyanın diğer bilimlerle ilişkisini kurar"
     },
     {
-      "ÜNİTE": "Dünyanın Şekli ve Hareketleri",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "1",
@@ -21,7 +19,6 @@
       "KAZANIM": "9.1.4 Dünyanın şekli ve günlük hareketinin sonuçlarını açıklar"
     },
     {
-      "ÜNİTE": "Dünyanın Şekli ve Hareketleri",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "1",
@@ -29,7 +26,6 @@
       "KAZANIM": "9.1.4 Dünyanın şekli ve günlük hareketinin sonuçlarını açıklar"
     },
     {
-      "ÜNİTE": "Koordinat Sistemi",
       "AY": "EKİM",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "1",
@@ -38,7 +34,6 @@
       "KAZANIM": "9.1.5 Koordinat sistemini kullanarak konum belirler"
     },
     {
-      "ÜNİTE": "Zaman Bilgisi",
       "AY": "EKİM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "1",
@@ -47,7 +42,6 @@
       "KAZANIM": "9.1.5 Koordinat sistemini kullanarak konum belirler"
     },
     {
-      "ÜNİTE": "Türkiyenin Konumu",
       "AY": "EKİM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "1",
@@ -55,7 +49,6 @@
       "KAZANIM": "9.1.5 Koordinat sistemini kullanarak konum belirler"
     },
     {
-      "ÜNİTE": "Harita Bilgisi",
       "AY": "EKİM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "1",
@@ -63,7 +56,6 @@
       "KAZANIM": "9.1.6 Harita unsurlarını ve harita çeşitlerini açıklar"
     },
     {
-      "ÜNİTE": "Harita Bilgisi",
       "AY": "EKİM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "1",
@@ -72,7 +64,6 @@
       "KAZANIM": "9.1.7 Yeryüzü şekillerini haritalara aktarır 9.1.8 Haritalarda hesaplamalar yapar"
     },
     {
-      "ÜNİTE": "Atmosfer ve İklim",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "1",
@@ -81,7 +72,6 @@
       "KAZANIM": "9.1.9 Atmosferin özelliklerini açıklar 9.1.10 Hava durumu ve iklim arasındaki farkları açıklar 9.1.11 Sıcaklığın dağılışını etkileyen faktörleri açıklar"
     },
     {
-      "ÜNİTE": "Ara Tatil",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "1",
@@ -90,7 +80,6 @@
       "KAZANIM": "Ara Tatil"
     },
     {
-      "ÜNİTE": "Atmosfer ve İklim",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "1",
@@ -99,7 +88,6 @@
       "KAZANIM": "9.1.11 Sıcaklığın dağılışını etkileyen faktörleri açıklar"
     },
     {
-      "ÜNİTE": "Atmosfer ve İklim",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "1",
@@ -108,7 +96,6 @@
       "KAZANIM": "9.1.11 Sıcaklığın dağılışını etkileyen faktörleri açıklar"
     },
     {
-      "ÜNİTE": "İklim Tipleri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "1",
@@ -117,7 +104,6 @@
       "KAZANIM": "9.1.12 İklim tiplerini özelliklerine göre sınıflandırır"
     },
     {
-      "ÜNİTE": "Türkiye İklimi",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "1",
@@ -126,7 +112,6 @@
       "KAZANIM": "9.1.13 Türkiyenin iklim özelliklerini açıklar"
     },
     {
-      "ÜNİTE": "Yerleşme",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "1",
@@ -135,7 +120,6 @@
       "KAZANIM": "9.2.1 Yerleşme tiplerini açıklar 9.2.2 Türkiyedeki yerleşme özelliklerini analiz eder 9.2.3 Yerleşmelerin dağılışını etkileyen faktörleri açıklar 9.2.4 Yerleşmelerin fonksiyonlarını açıklar"
     },
     {
-      "ÜNİTE": "Bölgeler",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "1",
@@ -144,7 +128,6 @@
       "KAZANIM": "9.3.1 Bölge kavramını açıklar 9.3.2 Bölge türlerini sınıflandırır 9.3.3 Bölgelerin özelliklerini analiz eder"
     },
     {
-      "ÜNİTE": "Doğal Çevre Kullanımı",
       "AY": "OCAK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "1",
@@ -152,7 +135,6 @@
       "KAZANIM": "9.4.1 İnsanların doğal çevreyi kullanma biçimlerini örneklendirir 9.4.2 Doğal ortamda insan etkisiyle meydana gelen değişimleri sonuçları açısından değerlendirir"
     },
     {
-      "ÜNİTE": "Dünyanın Tektonik Oluşumu",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "1",
@@ -161,7 +143,6 @@
       "KAZANIM": "10.1.1 Dünyanın tektonik oluşumunu açıklar 10.1.2 Jeolojik zamanların özelliklerini tektonik olaylarla ilişkilendirerek açıklar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "1",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "1",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "1",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "İç Kuvvetler",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "1",
@@ -193,7 +171,6 @@
       "KAZANIM": "10.1.3 İç kuvvetleri yer şekillerinin oluşum sürecine etkileri açısından açıklar 10.1.4 Kayaçların özellikleri ile yeryüzü şekillerinin oluşum süreçlerini ilişkilendirir"
     },
     {
-      "ÜNİTE": "Dış Kuvvetler",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "1",
@@ -201,7 +178,6 @@
       "KAZANIM": "10.1.6 Dış kuvvetleri yer şekillerinin oluşum sürecine etkileri açısından açıklar"
     },
     {
-      "ÜNİTE": "Dış Kuvvetler",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "1",
@@ -209,7 +185,6 @@
       "KAZANIM": "10.1.6 Dış kuvvetleri yer şekillerinin oluşum sürecine etkileri açısından açıklar"
     },
     {
-      "ÜNİTE": "Dış Kuvvetler",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "1",
@@ -218,7 +193,6 @@
       "KAZANIM": "10.1.6 Dış kuvvetleri yer şekillerinin oluşum sürecine etkileri açısından açıklar"
     },
     {
-      "ÜNİTE": "Türkiyede Yer Şekilleri",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "1",
@@ -227,7 +201,6 @@
       "KAZANIM": "10.1.5 Türkiyedeki yer şekillerinin oluşum sürecine iç kuvvetlerin etkisini açıklar 10.1.7 Türkiyedeki yer şekillerinin oluşum sürecine dış kuvvetlerin etkisini açıklar 10.1.8 Türkiyedeki ana yer şekillerini temel özellikleri ve dağılışları açısından değerlendirir"
     },
     {
-      "ÜNİTE": "Su Kaynakları",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "1",
@@ -236,7 +209,6 @@
       "KAZANIM": "10.1.9 Yeryüzündeki su varlıklarını özelliklerine göre sınıflandırır 10.1.10 Türkiyedeki su varlıklarının genel özelliklerini ve dağılışını açıklar 10.1.11 Türkiyedeki su varlığını verimli kullanmanın ekonomik sosyal ve kültürel etkilerini değerlendirir"
     },
     {
-      "ÜNİTE": "Ara Tatil",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "1",
@@ -245,7 +217,6 @@
       "KAZANIM": "Ara Tatil"
     },
     {
-      "ÜNİTE": "Topraklar",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "1",
@@ -254,7 +225,6 @@
       "KAZANIM": "10.1.12 Yeryüzündeki toprak çeşitliliğini oluşum süreçleri ile ilişkilendirir 10.1.13 Türkiyedeki toprakların dağılışını etkileyen faktörler ile toprak tiplerini ilişkilendirir 10.1.14 Türkiye topraklarının kullanımını verimlilik açısından değerlendirir"
     },
     {
-      "ÜNİTE": "Bitkiler",
       "AY": "NİSAN",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "1",
@@ -263,7 +233,6 @@
       "KAZANIM": "10.1.15 Bitki toplulukları ve türlerini genel özelliklerine göre sınıflandırır 10.1.16 Bitki topluluklarının dağılışı ile iklim ve yer şekillerini ilişkilendirir 10.1.17 Türkiyedeki doğal bitki topluluklarının dağılışını yetişme şartları açısından analiz eder"
     },
     {
-      "ÜNİTE": "Nüfus",
       "AY": "NİSAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "1",
@@ -272,7 +241,6 @@
       "KAZANIM": "10.2.1 İstatistiki verilerden yararlanarak nüfus özelliklerini ve nüfusun önemi hakkında çıkarımlarda bulunur 10.2.2 İstatistiki verilerden yararlanarak dünya nüfusunun tarihsel süreçteki değişimine ilişkin çıkarımlarda bulunur 10.2.3 Nüfusun dağılışı üzerinde etkili olan faktörler ile dünya nüfusunun dağılışını ilişkilendirir 10.2.4 Nüfus piramitlerinden hareketle nüfusun yapısıyla ilgili çıkarımlarda bulunur"
     },
     {
-      "ÜNİTE": "Türkiye Nüfusu",
       "AY": "NİSAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "1",
@@ -281,7 +249,6 @@
       "KAZANIM": "10.2.5 Türkiyede nüfusun tarihsel seyrini sosyal ve ekonomik faktörler açısından değerlendirir 10.2.6 Türkiyede nüfusun dağılışını nüfusun dağılışında etkili olan faktörler açısından değerlendirir 10.2.7 Güncel verilerden yararlanarak Türkiye nüfusunun yapısal özelliklerini analiz eder"
     },
     {
-      "ÜNİTE": "Göçler",
       "AY": "NİSAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "1",
@@ -290,7 +257,6 @@
       "KAZANIM": "10.2.8 Tarihi metin belge ve haritalardan yararlanarak dünyadaki göçlerin nedenleri ve sonuçları hakkında çıkarımlarda bulunur 10.2.9 Türkiyedeki göçleri sebep ve sonuçları açısından değerlendirir 10.2.10 Göçün mekansal etkilerini Türkiyeden örneklerle açıklar"
     },
     {
-      "ÜNİTE": "Ekonomik Faaliyetler",
       "AY": "NİSAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "1",
@@ -299,7 +265,6 @@
       "KAZANIM": "10.2.11 Ekonomik faaliyetleri temel özelliklerine göre ayırt eder 10.2.12 Ekonomik faaliyet türlerinin oransal dağılımına ilişkin verileri ülkelerin gelişmişlik düzeyleriyle ilişkilendirerek çıkarımda bulunur"
     },
     {
-      "ÜNİTE": "Ulaşım",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "1",
@@ -308,7 +273,6 @@
       "KAZANIM": "10.3.1 Uluslararası ulaşım hatlarını bölgesel ve küresel etkileri açısından analiz eder"
     },
     {
-      "ÜNİTE": "Afetler",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "1",
@@ -317,7 +281,6 @@
       "KAZANIM": "10.4.1 Afetlerin oluşum nedenlerini ve özelliklerini açıklar"
     },
     {
-      "ÜNİTE": "Afetler",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "1",
@@ -326,7 +289,6 @@
       "KAZANIM": "10.4.2 Afetlerin dağılışları ile etkilerini ilişkilendirir 10.4.3 Türkiyedeki afetlerin dağılışları ile etkilerini ilişkilendirir 10.4.4 Afetlerden korunma yöntemlerini açıklar"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "1",
@@ -335,7 +297,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZİRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "1",
@@ -344,7 +305,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZİRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "1",
@@ -353,7 +313,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZİRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "1",
@@ -362,7 +321,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZİRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "1",

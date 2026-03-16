@@ -3,7 +3,6 @@
   "ders": "Elektrikli Araç Hareket Sistemleri Atölyesi-11",
   "plan": [
     {
-      "ÜNİTE": "1. GÜÇ AKTARMA ORGANLARI",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "10",
@@ -12,7 +11,6 @@
       "KAZANIM": "1. Elektrikli ve Hibrit araçların güç aktarma çeşitlerini açıklar.                                                                                                    2. Aracı lifte alır."
     },
     {
-      "ÜNİTE": "1. GÜÇ AKTARMA ORGANLARI",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "10",
@@ -21,7 +19,6 @@
       "KAZANIM": "3. Aracın güç aktarma organlarının kontrollerini yapar."
     },
     {
-      "ÜNİTE": "2. HİBRİT ARAÇ KAVRAMA SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "10",
@@ -29,7 +26,6 @@
       "KAZANIM": "1.Kavrama sisteminin onarımını yapar."
     },
     {
-      "ÜNİTE": "2. HİBRİT ARAÇ KAVRAMA SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "10",
@@ -38,7 +34,6 @@
       "KAZANIM": "2. Tork konvertörün onarımını yapar."
     },
     {
-      "ÜNİTE": "3 HİBRİT ARAÇ VİTES KUTULARI",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "10",
@@ -47,7 +42,6 @@
       "KAZANIM": "1. Hibrit Araçlarda kullanılan vites kutularını açıklar."
     },
     {
-      "ÜNİTE": "3. HİBRİT ARAÇ VİTES KUTULARI",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "10",
@@ -55,7 +49,6 @@
       "KAZANIM": "1. Hibrit Araçlarda kullanılan vites kutularını açıklar."
     },
     {
-      "ÜNİTE": "3. HİBRİT ARAÇ VİTES KUTULARI",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "10",
@@ -63,7 +56,6 @@
       "KAZANIM": "2. Mekanik vites kutularının onarımını yapar."
     },
     {
-      "ÜNİTE": "3. HİBRİT ARAÇ VİTES KUTULARI",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "10",
@@ -72,7 +64,6 @@
       "KAZANIM": "2. Mekanik vites kutularının onarımını yapar."
     },
     {
-      "ÜNİTE": "3. HİBRİT ARAÇ VİTES KUTULARI",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "10",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 3.Hibrit araçlardaki otomatik vites kutularının onarımını yapar."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "10",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "3. HİBRİT ARAÇ VİTES KUTULARI",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "10",
@@ -99,7 +88,6 @@
       "KAZANIM": "3.Hibrit araçlardaki otomatik vites kutularının onarımını yapar."
     },
     {
-      "ÜNİTE": "4. ELEKTRİKLİ ARAÇ VİTES KUTUSU",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "10",
@@ -108,7 +96,6 @@
       "KAZANIM": "1. Elektrikli araç vites kutusu transfer grubunun onarımını yapar."
     },
     {
-      "ÜNİTE": "4. ELEKTRİKLİ ARAÇ VİTES KUTUSU",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "10",
@@ -117,7 +104,6 @@
       "KAZANIM": "2. Elektrikli araç vites kutusu diferansiyel grubunun onarımını yapar."
     },
     {
-      "ÜNİTE": "5. HİBRİT ARAÇLARDA ŞAFT VE DİFERANSİYEL",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "10",
@@ -126,7 +112,6 @@
       "KAZANIM": "1. Şaftların onarımını yapar."
     },
     {
-      "ÜNİTE": "5. HİBRİT ARAÇLARDA ŞAFT VE DİFERANSİYEL",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "10",
@@ -135,7 +120,6 @@
       "KAZANIM": "2. Diferansiyelin onarımını yapar."
     },
     {
-      "ÜNİTE": "5. HİBRİT ARAÇLARDA ŞAFT VE DİFERANSİYEL",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "10",
@@ -144,7 +128,6 @@
       "KAZANIM": "2. Diferansiyelin onarımını yapar."
     },
     {
-      "ÜNİTE": "6. AKSLAR",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "10",
@@ -152,7 +135,6 @@
       "KAZANIM": "1.Aks mafsallarının değişimini yapar."
     },
     {
-      "ÜNİTE": "6. AKSLAR",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "10",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 2. Aks körüklerinin değişimini yapar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "10",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "10",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "10",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "7. ELEKTRİKLİ DİREKSİYON SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "10",
@@ -193,7 +171,6 @@
       "KAZANIM": "1. Direksiyon sisteminin kontrol ve ayarını yapar."
     },
     {
-      "ÜNİTE": "7. ELEKTRİKLİ DİREKSİYON SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "10",
@@ -201,7 +178,6 @@
       "KAZANIM": "2. Direksiyon dişli kutusunun onarımını yapar."
     },
     {
-      "ÜNİTE": "7. ELEKTRİKLİ DİREKSİYON SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "10",
@@ -209,7 +185,6 @@
       "KAZANIM": "2. Direksiyon dişli kutusunun onarımını yapar."
     },
     {
-      "ÜNİTE": "7. ELEKTRİKLİ DİREKSİYON SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "10",
@@ -218,7 +193,6 @@
       "KAZANIM": "3. Elektrik yardımlı direksiyon sisteminin onarımını yapar."
     },
     {
-      "ÜNİTE": "8. SÜSPANSİYON SİSTEMLERİ",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "10",
@@ -227,7 +201,6 @@
       "KAZANIM": "1. Süspansiyon sistemlerinin kontrollerini yapar.                                  2. Amortisörlerin değişimini yapar."
     },
     {
-      "ÜNİTE": "8. SÜSPANSİYON SİSTEMLERİ",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "10",
@@ -236,7 +209,6 @@
       "KAZANIM": "3. Süspansiyon sistemi elamanlarının değişimlerini yapar."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "10",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "8. SÜSPANSİYON SİSTEMLERİ",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "10",
@@ -254,7 +225,6 @@
       "KAZANIM": "4. Aktif elektronik kontrollü süspansiyon sistemi parçalarının değişimini yapar."
     },
     {
-      "ÜNİTE": "9. TEKERLEKLER VE ÖN DÜZEN",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "10",
@@ -263,7 +233,6 @@
       "KAZANIM": "1. Tekerleklerin değişimini yapar.                                                                                                    2. Lastik basınç kontrol sistemi değişimini yapar."
     },
     {
-      "ÜNİTE": "9. TEKERLEKLER VE ÖN DÜZEN",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "10",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 3. Tekerlek balans ayarını yapar.                                                                                                                                                                                                                                        4. Ön takım parçalarını kontrol edip değiştirir."
     },
     {
-      "ÜNİTE": "9. TEKERLEKLER VE ÖN DÜZEN",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "10",
@@ -281,7 +249,6 @@
       "KAZANIM": "5. Ön düzen ayarlarını yapar."
     },
     {
-      "ÜNİTE": "10. ELEKTRONİK KONTROLLÜ FREN SİSTEMLERİ",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "10",
@@ -290,7 +257,6 @@
       "KAZANIM": "1. Fren sistemi mekanik elemanlarının değişimini yapar.                                                                                                                                                        ATATÜRK ün çocuklara verdiği önemi bilir."
     },
     {
-      "ÜNİTE": "10. ELEKTRONİK KONTROLLÜ FREN SİSTEMLERİ",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "10",
@@ -299,7 +265,6 @@
       "KAZANIM": "1. Fren sistemi mekanik elemanlarının değişimini yapar."
     },
     {
-      "ÜNİTE": "10. ELEKTRONİK KONTROLLÜ FREN SİSTEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "10",
@@ -308,7 +273,6 @@
       "KAZANIM": "2. Elektromekanik park freninin elemanlarının değişimini yapar."
     },
     {
-      "ÜNİTE": "10. ELEKTRONİK KONTROLLÜ FREN SİSTEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "10",
@@ -317,7 +281,6 @@
       "KAZANIM": "3. Fren sistemi elektronik kontrol elemanlarının değişimini yapar."
     },
     {
-      "ÜNİTE": "11. ARAÇ SİSTEM TESTLERİ",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "10",
@@ -326,7 +289,6 @@
       "KAZANIM": "1. Arıza tespit cihazı ile elektronik sistemlerinin kontrollerini yapar.                           2. Arıza tespit cihazı ile hareket iletim sistemlerindeki elektronik parçaların arıza tespitini yapar.                           3. Hibrit araç kavrama sisteminin testlerini yapar.    4. Hibrit araç vites kutusunun testlerini yapar.  5. Elektrikli araç vites kutusunun testlerini yapar.  6.Hibrit araçlarda kardan mili ve diferansiyelin testlerini yapar.                                                                                                                                                                  ATATÜRKün Türk Gençliğine verdiği önemi bilir"
     },
     {
-      "ÜNİTE": "11. ARAÇ SİSTEM TESTLERİ",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "10",
@@ -335,7 +297,6 @@
       "KAZANIM": "7.Aksların testlerini yapar.                  8. Elektrikli Direksiyon sistemlerinin testlerini yapar.  9. Süspansiyon sistemlerinin testlerini yapar.                                                10. Ön düzen ve Tekerleklerin testlerini yapar.                                         11. Elektronik kontrollü fren sistemlerinin testlerini yapar."
     },
     {
-      "ÜNİTE": "12. PERİYODİK BAKIM",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "10",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav 1. Hibrit araç kavrama sisteminin periyodik bakımını yapar.                                                       2. Hibrit araç vites kutusunun periyodik bakımını yapar.                                 3. Elektrikli araç vites kutusunun periyodik bakımını yapar."
     },
     {
-      "ÜNİTE": "12. PERİYODİK BAKIM",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "10",
@@ -353,7 +313,6 @@
       "KAZANIM": "4. Hibrit araçlarda şaft ve diferansiyelin periyodik bakımını yapar.                                                       5. Aksların periyodik kontrolünü yapar.                                                        6. Elektrikli direksiyon sistemlerinin periyodik bakımını yapar."
     },
     {
-      "ÜNİTE": "12. PERİYODİK BAKIM",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "10",
@@ -362,7 +321,6 @@
       "KAZANIM": "7. Süspansiyon sistemlerinin periyodik kontrollerini yapar.            8. Ön düzen ve tekerleklerin periyodik bakımını yapar.                 9. Elektronik kontrollü fren sistemlerinin periyodik bakımını yapar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "10",

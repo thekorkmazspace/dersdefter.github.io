@@ -3,7 +3,6 @@
   "ders": "Doğal Afetlere Hazirlik(Yeni*)-11",
   "plan": [
     {
-      "ÜNİTE": "Doğal Afet Hareket PLANI",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
@@ -12,7 +11,6 @@
       "KAZANIM": "Doğal afet hareket planında risk bölgelerini ve toplanma yerlerini tespit eder.\nRisk bölgeleri tanımlanır.\n       Toplanma alanları tanımlanır.\n       Emniyetli bölgeleri tanımlanır.\n       Plan üzerinde risk bölgeleri emniyetli bölgeler ve toplanma alanları işaretlenir."
     },
     {
-      "ÜNİTE": "Doğal Afet Hareket PLANI",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
@@ -21,7 +19,6 @@
       "KAZANIM": "Doğal afet hareket planında risk bölgelerini ve toplanma yerlerini tespit eder.\nRisk bölgeleri tanımlanır.\n       Toplanma alanları tanımlanır.\n       Emniyetli bölgeleri tanımlanır.\n       Plan üzerinde risk bölgeleri emniyetli bölgeler ve toplanma alanları işaretlenir."
     },
     {
-      "ÜNİTE": "Doğal Afet Hareket PLANI",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
@@ -29,7 +26,6 @@
       "KAZANIM": "Doğal afet hareket planında alternatif ulaşım yollarını belirler.\nHaritadan alternatif ulaşım yolları tanımlanır.\n       Plan üzerinde alternatif ulaşım yolları işaretlenir."
     },
     {
-      "ÜNİTE": "Doğal Afet Hareket PLANI",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
@@ -38,7 +34,6 @@
       "KAZANIM": "Doğal afet hareket planında alternatif ulaşım yollarını belirler.\nHaritadan alternatif ulaşım yolları tanımlanır.\n       Plan üzerinde alternatif ulaşım yolları işaretlenir."
     },
     {
-      "ÜNİTE": "Doğal Afet Hareket PLANI",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
@@ -47,7 +42,6 @@
       "KAZANIM": "Doğal afet hareket planında tesisat hat ve vana yerlerini işaretler.\nMevcut doğalgaz hatlarının yerlerini şehir yerleşim PLANI üzerinde işaretlenir.\n       Mevcut su hatlarının şehir yerleşim PLANI üzerinde işaretlenir.\n       Mevcut elektrik hatlarının yerlerini şehir yerleşim PLANI üzerinde işaretlenir.\n       Su ve doğalgaz vana şehir yerleşim PLANI üzerinde işaretlenir."
     },
     {
-      "ÜNİTE": "Doğal Afet Hareket PLANI",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
@@ -55,7 +49,6 @@
       "KAZANIM": "Doğal afet hareket planında tesisat hat ve vana yerlerini işaretler.\nMevcut doğalgaz hatlarının yerlerini şehir yerleşim PLANI üzerinde işaretlenir.\n       Mevcut su hatlarının şehir yerleşim PLANI üzerinde işaretlenir.\n       Mevcut elektrik hatlarının yerlerini şehir yerleşim PLANI üzerinde işaretlenir.\n       Su ve doğalgaz vana şehir yerleşim PLANI üzerinde işaretlenir."
     },
     {
-      "ÜNİTE": "Doğal Afet Hareket PLANI",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
@@ -63,7 +56,6 @@
       "KAZANIM": "Doğal afet hareket planında su kaynaklarının yerlerini tespit eder. Doğal afet hareket PLANI üzerinde yerlerini işaretler.\nHaritadan kullanma suyu kaynakları işaretlenir.\n      Haritadan içme suyu kaynakları işaretlenir.\n      Su kaynaklarının yerleri harita üzerinde işaretlenir."
     },
     {
-      "ÜNİTE": "Doğal Afet Hareket PLANI",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
@@ -72,7 +64,6 @@
       "KAZANIM": "Doğal afet hareket planında su kaynaklarının yerlerini tespit eder. Doğal afet hareket PLANI üzerinde yerlerini işaretler.\nHaritadan kullanma suyu kaynakları işaretlenir.\n      Haritadan içme suyu kaynakları işaretlenir.\n      Su kaynaklarının yerleri harita üzerinde işaretlenir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Doğal afet seyyar kurtarma konteynerinde kurtarma ve söndürme ekipmanlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde kesici ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde ayırıcı ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde kaldırıcı  ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde jeneratör yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde taşınabilir yangın söndürücüler yerleştirilir."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
@@ -99,7 +88,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde kurtarma ve söndürme ekipmanlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde kesici ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde ayırıcı ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde kaldırıcı  ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde jeneratör yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde taşınabilir yangın söndürücüler yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
@@ -108,7 +96,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde göçük arama cihazlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde sismik dinleme cihazı yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde termal kamera cihazı yerleştirilir.\n       Doğal afet seyyar kurtarma konteynerinde görüntülü arama cihazı yerleştirilir.\n       Doğal afet seyyar kurtarma konteynerinde aydınlatma ekipmanları yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
@@ -117,7 +104,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde göçük arama cihazlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde sismik dinleme cihazı yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde termal kamera cihazı yerleştirilir.\n       Doğal afet seyyar kurtarma konteynerinde görüntülü arama cihazı yerleştirilir.\n       Doğal afet seyyar kurtarma konteynerinde aydınlatma ekipmanları yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
@@ -126,7 +112,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde tahliye ve aydınlatma ekipmanlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde taşıyıcı ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde aydınlatma ekipmanları yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde duman tahliye ekipmanları yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde su tahliye ekipmanları yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
@@ -135,7 +120,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde tahliye ve aydınlatma ekipmanlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde taşıyıcı ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde aydınlatma ekipmanları yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde duman tahliye ekipmanları yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde su tahliye ekipmanları yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
@@ -144,7 +128,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde ilk yardım ekipmanlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde ilk yardım çantası içerisinde bulunması gereken ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde solunum cihazları yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
@@ -152,7 +135,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde ilk yardım ekipmanlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde ilk yardım çantası içerisinde bulunması gereken ekipmanlar yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde solunum cihazları yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  Doğal afet seyyar kurtarma konteynerinde el ve kazı takımlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde el takımları yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde kazı takımları yerleştirilir."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
@@ -193,7 +171,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde el ve kazı takımlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde el takımları yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde kazı takımları yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal  Afet  Seyyar Kurtarma Konteyneri",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
@@ -201,7 +178,6 @@
       "KAZANIM": "Doğal afet seyyar kurtarma konteynerinde el ve kazı takımlarını yerleştirir.\nDoğal afet seyyar kurtarma konteynerinde el takımları yerleştirilir.\n      Doğal afet seyyar kurtarma konteynerinde kazı takımları yerleştirilir."
     },
     {
-      "ÜNİTE": "Doğal                Afet Tatbikatı",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
@@ -209,7 +185,6 @@
       "KAZANIM": "Doğal afet tatbikat senaryosu hazırlamak için gereken işlemleri yapar.\nDoğal afet tatbikatındaki ekipler oluşturulur.\n      Doğal afet tatbikat senaryosunu ekiplere anlatılır.\n      Ekiplerin görev ve sorumlulukları açıklanır.\n      Her öğrenciye farklı doğal afet tatbikat senaryosu yaptırılır."
     },
     {
-      "ÜNİTE": "Doğal                Afet Tatbikatı",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
@@ -218,7 +193,6 @@
       "KAZANIM": "Doğal afet tatbikat senaryosu hazırlamak için gereken işlemleri yapar.\nDoğal afet tatbikatındaki ekipler oluşturulur.\n      Doğal afet tatbikat senaryosunu ekiplere anlatılır.\n      Ekiplerin görev ve sorumlulukları açıklanır.\n      Her öğrenciye farklı doğal afet tatbikat senaryosu yaptırılır."
     },
     {
-      "ÜNİTE": "Doğal                Afet Tatbikatı",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
@@ -227,7 +201,6 @@
       "KAZANIM": "Tatbikatta olay yeri tehlikeleri ve oluşabilecek riskler hakkında yapılmasını gerekenleri önlemler alır.\nTatbikat olay yerini tanıtarak oluşabilecek tehlikeler açıklanır.\n      Tatbikat olay yeri harita üzerinde yeri işaretlenerek ulaşım ve tahliye yolları belirlenir.\n      Tatbikatta alınabilecek önlemler hakkında eğitim verilir."
     },
     {
-      "ÜNİTE": "Doğal                Afet Tatbikatı",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
@@ -236,7 +209,6 @@
       "KAZANIM": "Tatbikatta olay yeri tehlikeleri ve oluşabilecek riskler hakkında yapılmasını gerekenleri önlemler alır.\nTatbikat olay yerini tanıtarak oluşabilecek tehlikeler açıklanır.\n      Tatbikat olay yeri harita üzerinde yeri işaretlenerek ulaşım ve tahliye yolları belirlenir.\n      Tatbikatta alınabilecek önlemler hakkında eğitim verilir."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Doğal                Afet Tatbikatı",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
@@ -254,7 +225,6 @@
       "KAZANIM": "Doğal afet tatbikatı hazırlayarak bir senaryo uygulaması aşamalarını uygular.\nTatbikat sırasında veya sonrasında oluşabilecek yangın senaryosu uygulanır.\n      Tatbikatta gerçekleştirilebilecek arama kurtarma senaryosu uygulanır.\n      Tatbikatta yapılması gereken ilk yardım senaryosu uygulanır.\n      Tatbikatta yapılması gereken lojistik destek senaryosu uygulanır.\n      Tatbikat sonrası değerlendirmesi yapılır."
     },
     {
-      "ÜNİTE": "Doğal                Afet Tatbikatı",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
@@ -263,7 +233,6 @@
       "KAZANIM": "Doğal afet tatbikatı hazırlayarak bir senaryo uygulaması aşamalarını uygular.\nTatbikat sırasında veya sonrasında oluşabilecek yangın senaryosu uygulanır.\n      Tatbikatta gerçekleştirilebilecek arama kurtarma senaryosu uygulanır.\n      Tatbikatta yapılması gereken ilk yardım senaryosu uygulanır.\n      Tatbikatta yapılması gereken lojistik destek senaryosu uygulanır.\n      Tatbikat sonrası değerlendirmesi yapılır."
     },
     {
-      "ÜNİTE": "Doğal                Afet Tatbikatı",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav  Doğal afet tatbikatı hazırlayarak bir senaryo uygulaması aşamalarını uygular.\nTatbikat sırasında veya sonrasında oluşabilecek yangın senaryosu uygulanır.\n      Tatbikatta gerçekleştirilebilecek arama kurtarma senaryosu uygulanır.\n      Tatbikatta yapılması gereken ilk yardım senaryosu uygulanır.\n      Tatbikatta yapılması gereken lojistik destek senaryosu uygulanır.\n      Tatbikat sonrası değerlendirmesi yapılır."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
@@ -281,7 +249,6 @@
       "KAZANIM": "Afet öncesi deprem etkilerini açıklar.\nDeprem tanımlanır\n      Türkiyedeki ve dünyadaki deprem bölgeleri belirlenir.\n      Harita üzerinde deprem bölgeleri işaretlenir.\n      Türkiyedeki yer yapısı ve faylar tanımlanarak bölgeler belirlenir.\n      Türkiyenin sismik haritaları incelenir.\n      Deprem şiddeti ve büyüklüğü tanımlanarak arasındaki farklar açıklanır.\n      Deprem sırasında ve sonucunda oluşabilecek durumlar açıklanır."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
@@ -290,7 +257,6 @@
       "KAZANIM": "Afet öncesi deprem etkilerini açıklar.\nDeprem tanımlanır\n      Türkiyedeki ve dünyadaki deprem bölgeleri belirlenir.\n      Harita üzerinde deprem bölgeleri işaretlenir.\n      Türkiyedeki yer yapısı ve faylar tanımlanarak bölgeler belirlenir.\n      Türkiyenin sismik haritaları incelenir.\n      Deprem şiddeti ve büyüklüğü tanımlanarak arasındaki farklar açıklanır.\n      Deprem sırasında ve sonucunda oluşabilecek durumlar açıklanır."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
@@ -299,7 +265,6 @@
       "KAZANIM": "Afet öncesi deprem etkilerini açıklar.\nDeprem tanımlanır\n      Türkiyedeki ve dünyadaki deprem bölgeleri belirlenir.\n      Harita üzerinde deprem bölgeleri işaretlenir.\n      Türkiyedeki yer yapısı ve faylar tanımlanarak bölgeler belirlenir.\n      Türkiyenin sismik haritaları incelenir.\n      Deprem şiddeti ve büyüklüğü tanımlanarak arasındaki farklar açıklanır.\n      Deprem sırasında ve sonucunda oluşabilecek durumlar açıklanır."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
@@ -308,7 +273,6 @@
       "KAZANIM": "Afet ile ilgili mevzuat çerçevesinde yapılması gereken işlemleri belirler.\nDeprem ile ilgili mevzuat incelenerek yapılabilecek işlemler açıklanır.\n      Yerel afet gönüllülerin oluşturulması açıklanır.\n      Yerel afet gönüllüsü eğitim programları açıklanır."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
@@ -317,7 +281,6 @@
       "KAZANIM": "Afet ile ilgili mevzuat çerçevesinde yapılması gereken işlemleri belirler.\nDeprem ile ilgili mevzuat incelenerek yapılabilecek işlemler açıklanır.\n      Yerel afet gönüllülerin oluşturulması açıklanır.\n      Yerel afet gönüllüsü eğitim programları açıklanır."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
@@ -326,7 +289,6 @@
       "KAZANIM": "Afet ile ilgili mevzuat çerçevesinde yapılması gereken işlemleri belirler.\nDeprem ile ilgili mevzuat incelenerek yapılabilecek işlemler açıklanır.\n      Yerel afet gönüllülerin oluşturulması açıklanır.\n      Yerel afet gönüllüsü eğitim programları açıklanır."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
@@ -335,7 +297,6 @@
       "KAZANIM": "Depremin etkilerine karşı alınması gereken önlemleri alır.\nDepreme karşı bireysel olarak alabileceğimiz önlemler açıklanır.\n      Mevcut yapıları ve şekilleri tanımlanır.\n      Binaların deprem sırasında ve sonrasında oluşabilecek etkileri açıklanır.\n      Depreme dayanıklı yapılar açıklanır.\n      Planlar üzerinde işaretlemeler yapılarak depreme dayanıklı yapılara uygun yerler tespit edilir."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  Depremin etkilerine karşı alınması gereken önlemleri alır.\nDepreme karşı bireysel olarak alabileceğimiz önlemler açıklanır.\n      Mevcut yapıları ve şekilleri tanımlanır.\n      Binaların deprem sırasında ve sonrasında oluşabilecek etkileri açıklanır.\n      Depreme dayanıklı yapılar açıklanır.\n      Planlar üzerinde işaretlemeler yapılarak depreme dayanıklı yapılara uygun yerler tespit edilir."
     },
     {
-      "ÜNİTE": "Depreme Hazırlık",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
@@ -353,7 +313,6 @@
       "KAZANIM": "Depremin etkilerine karşı alınması gereken önlemleri alır.\nDepreme karşı bireysel olarak alabileceğimiz önlemler açıklanır.\n      Mevcut yapıları ve şekilleri tanımlanır.\n      Binaların deprem sırasında ve sonrasında oluşabilecek etkileri açıklanır.\n      Depreme dayanıklı yapılar açıklanır.\n      Planlar üzerinde işaretlemeler yapılarak depreme dayanıklı yapılara uygun yerler tespit edilir."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",

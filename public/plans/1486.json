@@ -3,7 +3,6 @@
   "ders": "Web Tabanlı Uygulama Gelıstırme",
   "plan": [
     {
-      "ÜNİTE": "Temel Kavramlar",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "8",
@@ -12,7 +11,6 @@
       "KAZANIM": "Web Sayfası yayınlama ile ilgili temel kavramları açıklar.\n Web yazılımcısı rollerini açıklar.\n İşaretleme      DiliHTML      kodlarının      kullanılabileceği editörlere örnek verir.\n Basamaklı  stil  şablonu  CSS    Cascaded  Style  Sheet kavramını açıklar.\n WYSIWYG   What   you   see   is   what   you   get   editör kullanımını açıklar.\nWeb sayfası kavramı açıklanır.\n       Web sitesi kavramı açıklanır.\n       Alan adıdomain  kavramı açıklanır.\n       Alan adı uzantıları açıklanır.\n       Alan adı alma işlemi açıklanır.\n       Hostingweb sitesi barındırmakavramı açıklanır.\n       Front-end yazılımcı rolü açıklanır.\n       Back-end yazılımcı rolü açıklanır.\n       Full-stack yazılımcı rolü açıklanır.\n       HTML kavramı açıklanır.\n       HTML kodlarının kullanılabileceği editörler açıklanır.\n       CSS kavramı açıklanır.\n       WYSIWYG kavramı açıklanır."
     },
     {
-      "ÜNİTE": "Web Tasarım İlkeleri",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "8",
@@ -21,7 +19,6 @@
       "KAZANIM": "Tasarım açısından içeriğin önemini açıklar.\n Tasarımda  yerleşim  planını  uygun  bir  şekilde  olmasını sağlar.\n Renk düzeni okunabilirlik içerik - tasarım ilişkisini kurar.\n Web    sitesinin    kullanıcı    dostu    olmasını    ve    erişim kolaylığını sağlar.\n Yeni teknolojilerin kullanılmasının önemini açıklar.\n Web sitesinin alan adı içerik vb konularda uygunluğunu açıklar.\n Web   sitesinin   tüm   platformlarda   sorunsuz   çalışması ilkesini açıklar.\nTasarım açısından içeriğin önemi açıklanır.\n       İçerikte   kullanılacak   resim   ve   metinlerin   belirlenmesi açıklanır.\n       Yerleşim   planının  uygunluğunun  sağlanması  gerektiği açıklanır.\n       Sitede kullanılacak  logo  ve menü gibi site bileşenlerinin nasıl kullanılacağı açıklanır.\n       Sitenin renk ve tipografi düzeninin nasıl olacağı açıklanır.\n       İçerik-tasarım  ilişkisinin  kurdurulması  ile  ilgili  detaylar anlatılır.\n       Uyumlu renk düzeni yaptırılır.\n       Okunaklı yazı seçimi yaptırılır.\n       Web sitesinin nasıl kullanıcı dostu olacağı açıklanır.\n       Web sitesine erişimin nasıl kolay olacağı açıklanır.\n       Site haritalarının oluşturulması açıklanır.\n       Web  sitesi  ziyaretçilerinin  siteyi  nasıl  rahat  kullanacağı açıklanır.\n       Site   içerik   ve  teknolojilerinin   güncel   olması   gerektiği açıklanır.\n       Yeni teknolojilerin kullanılmasının gerekliliği açıklanır.\n       Çalışılacak   platformun   yeni   nesil   teknolojilere   uygun seçilmesi gerekliliği açıklanır.\n       Alan    adınındomain    name    nasıl    olması    gerektiği açıklanır.\n       Özgün içerik oluşturulması gerektiği açıklanır.\n       Dilbilgisi kurallarına uyulmasının önemi açıklanır.\n       Web sitelerinde tarayıcı uyumluluğunun önemi açıklanır.\n       Tarayıcı uyumluluk testinin önemi açıklanır.\n       Responsive tasarım açıklanır.\n       Media query kullanımı gerekliliği açıklanır."
     },
     {
-      "ÜNİTE": "HTML5",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "8",
@@ -29,7 +26,6 @@
       "KAZANIM": "HTML5  belge  yapısını  kullanarak  basit  bir  web  sayfası hazırlar.\n H1-H6  elemanlarını  web  sayfasında  uygun  bir  şekilde kullanır.\nHTML kavramı açıklanır.\n       Etiket Tag kavramı açıklanır.\n       HTML5 kavramı açıklanır.\n       HTML5 belge yapısı açıklanır.\n       HTML  sayfasında  bulunması  gereken  standart  etiketler açıklanır.\n       DOCTYPE kavramı açıklanır\n       Temel meta etiketleri açıklanır.\n       HTMLde açıklama satırı kullanmanın gerekliliği açıklanır.\n       HTMl5deki yeni özellikler açıklanır.\n       HTML5  belge  yapısı  kullanılarak  basit  bir  web  sayfası hazırlatılır.\n       em kavramı açıklanır.\n       H1-H6 elemanlarının özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "HTML5",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "8",
@@ -38,7 +34,6 @@
       "KAZANIM": "Paragraflar  ve  metin  biçimlendirme  elemanlarını  uygun bir şekilde web sayfasında kullanır.\nMetin biçimlendirme etiketleri açıklanır.\n       Görünüm düzenleme etiketleri açıklanır\n       Paragraflar  ve  metin  biçimlendirme  elemanlarını  web sayfasında kullanımı açıklanır.\n       Listeleme etiketleri açıklanır.\n       Madde işaretleri açıklanır.\n       Tabloların kullanım amacı açıklanır.\n       Tablo etiketlerinde kullanılan özellikler açıklanır."
     },
     {
-      "ÜNİTE": "HTML5",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "8",
@@ -47,7 +42,6 @@
       "KAZANIM": "Yerleşim   Layout   elemanlarını   kullanarak   örnek   web uygulamaları geliştirir.\nDiv ve span kavramları açıklanır.\n       HTML tasarım şablonu açıklanır.\n       HTML5 tasarım şablonu açıklanır.\n       Yerleşim elemanlarının kullanımı açıklanır."
     },
     {
-      "ÜNİTE": "HTML5",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "8",
@@ -55,7 +49,6 @@
       "KAZANIM": "Web  sayfası  içerisinde  resim  sesvideo  gösteren  HTML5 kodlarını uygular.\nResim ekleme etiketi ve özellikleri açıklanır.\n       Ses ekleme etiketi ve özellikleri açıklanır.\n       Video ekleme etiketi ve özellikleri açıklanır.\n       Slider ekleme açıklanır.\n       Resim    video    ve    ses    elemanlarını    sayfaya    nasıl ekleneceği açıklanır."
     },
     {
-      "ÜNİTE": "HTML5",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "8",
@@ -63,7 +56,6 @@
       "KAZANIM": "Web  sayfaları  arasında  bağlantı  sağlayan  HTML  kodunu uygular.\nBağlantıköprü özellikleri açıklanır.\n       Bağlantı  elemanlarının  özellikleri  ve  kullanım   şekilleri açıklanır."
     },
     {
-      "ÜNİTE": "HTML5",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "8",
@@ -72,7 +64,6 @@
       "KAZANIM": "Form  elemanlarının  özelliklerini  gösteren  HTML5  kodunu uygular.\nFormların yapısı açıklanır.\n       Form nesnelerinin görevleri açıklanır.\n       Form    elemanları    özellikleri    ve    çalışma    prensipleri açıklanır."
     },
     {
-      "ÜNİTE": "Basamaklı Stil Şablonu CSS",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "8",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Stil uygulanacak olan elemanların seçimini yapar.\nStil  uygulanacak  elemanların  seçiminin  nasıl  yapılacağı açıklanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "8",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Basamaklı Stil Şablonu CSS",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "8",
@@ -99,7 +88,6 @@
       "KAZANIM": "Kutu modeli özelliklerini açıklar.\nKutu modeli özellikleri ve çalışma prensipleri açıklanır.\n       Görünüm ve pozisyon ayarlarının nasıl yapıldığı açıklanır.\n       Görünüm ve pozisyon ayarları yaptırılır."
     },
     {
-      "ÜNİTE": "Basamaklı Stil Şablonu CSS",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "8",
@@ -108,7 +96,6 @@
       "KAZANIM": "RGB Red Green Blue  Kırmızı Yeşil Mavi değerleri ile renk tanımı yapar.\nWeb sayfasında kullanılacak renk tanımlamasını yaptırır.\n       Tipografi özellikleri açıklanır.\n       Tipografi kullanımı açıklanır."
     },
     {
-      "ÜNİTE": "Basamaklı Stil Şablonu CSS",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "8",
@@ -117,7 +104,6 @@
       "KAZANIM": "Duyarlılık Responsivity kavramının önemini açıklar.\nDuyarlılık kavramı açıklanır.\n       Farklı   ortamlar   için   medya   sorguları   media   query oluşturulur.\n       Popüler    frameworkler    listelenir.Bootstrap    UI    Kit Materialize vd.\n       CSS frameworkleri açıklanır."
     },
     {
-      "ÜNİTE": "Basamaklı Stil Şablonu CSS",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "8",
@@ -126,7 +112,6 @@
       "KAZANIM": "Duyarlılık Responsivity kavramının önemini açıklar.\nDuyarlılık kavramı açıklanır.\n       Farklı   ortamlar   için   medya   sorguları   media   query oluşturulur.\n       Popüler    frameworkler    listelenir.Bootstrap    UI    Kit Materialize vd.\n       CSS frameworkleri açıklanır."
     },
     {
-      "ÜNİTE": "Etkileşim Javascript",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "8",
@@ -135,7 +120,6 @@
       "KAZANIM": "Değişkenler ve veri tiplerini kullanarak etkileşimli sayfalar geliştirir.\nJavascript kod yazım kurallarını açıklar.\n       Javascript eleman seçicilerini sıralar.\n       Değişken ve veri tipleri açıklanır\n       Operatörlerin kullanımı ve kullanım yerleri açıklanır"
     },
     {
-      "ÜNİTE": "Etkileşim Javascript",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "8",
@@ -144,7 +128,6 @@
       "KAZANIM": "Fonksiyon türlerini kullanarak etkileşimli sayfa geliştirir.\nOlayların kullanımını açıklar\n      Olay çeşitlerini sıralar.\n      Fonksiyon kullanımı açıklanır."
     },
     {
-      "ÜNİTE": "Etkileşim Javascript",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "8",
@@ -152,7 +135,6 @@
       "KAZANIM": "Kontrol yapılarını kullanarak etkileşimli sayfa geliştirir.\nKoşullu ifadelerin kullanımı açıklanır."
     },
     {
-      "ÜNİTE": "Etkileşim Javascript",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "8",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  Dizileri kullanarak etkileşimli sayfa geliştirir.\nDizilerin kullanımı açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "8",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "8",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "8",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "8",
@@ -193,7 +171,6 @@
       "KAZANIM": ".Net Core özelliklerini açıklar.\n.Net Core teknolojisi ile ilgili özellikler açıklanır.\n       Diğer teknolojilerden farkları açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "8",
@@ -201,7 +178,6 @@
       "KAZANIM": "MVC tasarım desenini kullanarak web uygulamaları geliştirir\nModel katmanı kullanımı açıklanır.\n       View katmanı kullanımı açıklanır.\n       Controller katmanı kullanımı açıklanır.\n       Razor sayfaları özellikleri açıklanır.\n       MVC ve Razor sayfaları aralarındaki ilişki açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "8",
@@ -209,7 +185,6 @@
       "KAZANIM": "Standart klasör ve sayfaları kullanarak web uygulamaları geliştirir.\nStandart  klasör  ve  sayfaların  kullanımıyla  ilgili  özellikler açıklanır.\n       Konfigürasyon yöntemlerinin özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "8",
@@ -218,7 +193,6 @@
       "KAZANIM": "Ara katman Middleware yapısını kullanır.\nAra katman yapısının kullanımı açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "8",
@@ -227,7 +201,6 @@
       "KAZANIM": "Yönlendirme Routing mekanizmasını kullanır.\nYönlendirme mekanizmasının özellikleri kullanılır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "8",
@@ -236,7 +209,6 @@
       "KAZANIM": "Form işlemleri ve model doğrulama yapar.\nForm işlemleri ve form özellikleri açıklanır.\n       Form doğrulama özellikleri açıklanır.\n       Form kullandırılır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "8",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "8",
@@ -254,7 +225,6 @@
       "KAZANIM": "Etiket yardımcılarını Tag Helpers kullanır.\nEtiket yardımcılarının kullanımı açıklanır"
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "8",
@@ -263,7 +233,6 @@
       "KAZANIM": "Doğrulama işlemleri yapar.\nSunucu taraflı doğrulama işlemlerini açıklar.\n       İstemci taraflı doğrulama işlemlerini açıklar."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "8",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav  Paket yöneticisini Nuget kullanır.\nPaket yöneticisi özellikleri açıklanır.\n       Paket yöneticisi kullandırılır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "8",
@@ -281,7 +249,6 @@
       "KAZANIM": "Entity Framework Core ile veri tabanı işlemlerini yapar.\nEF Core özellikleri açıklanır.\n       Veri tabanı bağlantısı yaptırılır.\n       Veri tabanı işlemleri gerçekleştirilir."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "8",
@@ -290,7 +257,6 @@
       "KAZANIM": "Web servislerini kullanır.\nWeb servisleri özellikleri ve çeşitleri açıklanır.\n       Web servisi ile nasıl haberleşileceği açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "8",
@@ -299,7 +265,6 @@
       "KAZANIM": "Yayınlama Publish işlemini yapar.\nYayınlama işlemi açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "8",
@@ -308,7 +273,6 @@
       "KAZANIM": "Yayınlama Publish işlemini yapar.\nYayınlama işlemi açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "8",
@@ -317,7 +281,6 @@
       "KAZANIM": "Yayınlama Publish işlemini yapar.\nYayınlama işlemi açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "8",
@@ -326,7 +289,6 @@
       "KAZANIM": "Yayınlama Publish işlemini yapar.\nYayınlama işlemi açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "8",
@@ -335,7 +297,6 @@
       "KAZANIM": "Yayınlama Publish işlemini yapar.\nYayınlama işlemi açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "8",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  Yayınlama Publish işlemini yapar.\nYayınlama işlemi açıklanır."
     },
     {
-      "ÜNİTE": "Arka Uç YAZILIM Geliştirme",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "8",
@@ -353,7 +313,6 @@
       "KAZANIM": "Yayınlama Publish işlemini yapar.\nYayınlama işlemi açıklanır."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "8",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "8",

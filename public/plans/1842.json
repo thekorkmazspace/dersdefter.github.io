@@ -3,7 +3,6 @@
   "ders": "Müzik-2",
   "plan": [
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "1",
@@ -11,7 +10,6 @@
       "KAZANIM": "Mü.2.A.5. İstiklâl Marşını anlamına uygun söyler. Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "1",
@@ -19,14 +17,12 @@
       "KAZANIM": "Mü.2.A.5. İstiklâl Marşını anlamına uygun söyler."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "1",
       "KAZANIM": "Mü.2.A.1. Ses ve nefes çalışmaları yapar."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "EKİM",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "1",
@@ -34,7 +30,6 @@
       "KAZANIM": "Mü.2.A.1. Ses ve nefes çalışmaları yapar."
     },
     {
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
       "AY": "EKİM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "1",
@@ -42,21 +37,18 @@
       "KAZANIM": "Mü.2.B.1. Doğada duyduğu sesleri gürlük\nözelliklerine göre farklı ses kaynakları kullanarak canlandırır."
     },
     {
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
       "AY": "EKİM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "1",
       "KAZANIM": "Mü.2.B.2. Dağarcığındaki müzikleri anlamlarına uygun hız ve gürlükte söyler."
     },
     {
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
       "AY": "EKİM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "1",
       "KAZANIM": "Mü.2.B.5. Duyduğu ince ve kalın sesleri ayırt eder."
     },
     {
-      "ÜNİTE": "Dinleme\nSöylemeDinleme SöylemeDinleme Söyleme",
       "AY": "EKİM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "1",
@@ -64,7 +56,6 @@
       "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik etkinliklerine katılır.Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik etkinliklerine katılır.Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "1",
@@ -72,7 +63,6 @@
       "KAZANIM": "Mü.2.A.3. Öğrendiği müzikleri birlikte seslendirir."
     },
     {
-      "ÜNİTE": "Ara Tatil",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "1",
@@ -81,7 +71,6 @@
       "KAZANIM": "Ara Tatil"
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "1",
@@ -89,7 +78,6 @@
       "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "1",
@@ -97,7 +85,6 @@
       "KAZANIM": "Mü.2.B.4. Konuşmalarında uzun ve kısa heceleri ayırt eder"
     },
     {
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "1",
@@ -105,7 +92,6 @@
       "KAZANIM": "Mü.2.B.4. Konuşmalarında uzun ve kısa heceleri ayırt eder"
     },
     {
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "1",
@@ -113,7 +99,6 @@
       "KAZANIM": "Mü.2.B.3. Çevresinde kullanılan çalgıları tanır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "1",
@@ -121,7 +106,6 @@
       "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Müziksel Algı ve Bilgilenme",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "1",
@@ -129,14 +113,12 @@
       "KAZANIM": "Mü.2.B.3. Çevresinde kullanılan çalgıları tanır."
     },
     {
-      "ÜNİTE": "Müziksel Algı ve BilgilenmeMüziksel Algı ve Bilgilenme",
       "AY": "OCAK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "1",
       "KAZANIM": "Mü.2.B.3. Çevresinde kullanılan çalgıları tanır.Mü.2.B.3. Çevresinde kullanılan çalgıları tanır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "1",
@@ -144,14 +126,12 @@
       "KAZANIM": "Mü.2.A.2. Vücudunu ritim çalgısı gibi kullanır."
     },
     {
-      "ÜNİTE": "Dinleme\nSöylemeDinleme Söyleme",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "1",
       "KAZANIM": "Mü.2.A.2. Vücudunu ritim çalgısı gibi kullanır.Mü.2.A.2.\nVücudunu ritim çalgısı gibi kullanır."
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "1",
@@ -159,7 +139,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "1",
@@ -167,28 +146,24 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Müziksel Yaratıcılık",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "1",
       "KAZANIM": "Mü.2.C.2. Oyun müziklerine özgün hareketlerle eşlik eder."
     },
     {
-      "ÜNİTE": "Müziksel Yaratıcılık",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "1",
       "KAZANIM": "Mü.2.C.2. Oyun müziklerine özgün hareketlerle eşlik eder."
     },
     {
-      "ÜNİTE": "Müzik Kültürü",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "1",
       "KAZANIM": "Mü.2.D.1. Ortama uygun müzik dinleme ve yapma davranışları sergiler."
     },
     {
-      "ÜNİTE": "Müzik Kültürü",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "1",
@@ -196,7 +171,6 @@
       "KAZANIM": "Mü.2.D.1. Ortama uygun müzik dinleme ve yapma davranışları sergiler."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "1",
@@ -204,7 +178,6 @@
       "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Müziksel Yaratıcılık",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "1",
@@ -212,7 +185,6 @@
       "KAZANIM": "Mü.2.C.1. Dinlediği öyküdeki olayları farklı materyaller kullanarak canlandırır."
     },
     {
-      "ÜNİTE": "Ara Tatil",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "1",
@@ -221,7 +193,6 @@
       "KAZANIM": "Ara Tatil"
     },
     {
-      "ÜNİTE": "Müziksel Yaratıcılık",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "1",
@@ -229,7 +200,6 @@
       "KAZANIM": "Mü.2.C.1. Dinlediği öyküdeki olayları farklı materyaller kullanarak canlandırır."
     },
     {
-      "ÜNİTE": "Müzik Kültürü",
       "AY": "NİSAN",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "1",
@@ -237,7 +207,6 @@
       "KAZANIM": "Mü.2.D.2. Farklı türlerdeki müzikleri dinleyerek müzik beğeni ve kültürünü\ngeliştirir."
     },
     {
-      "ÜNİTE": "Müzik Kültürü",
       "AY": "NİSAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "1",
@@ -245,7 +214,6 @@
       "KAZANIM": "Mü.2.D.2. Farklı türlerdeki müzikleri dinleyerek müzik beğeni ve kültürünü\ngeliştirir."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "NİSAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "1",
@@ -253,7 +221,6 @@
       "KAZANIM": "Mü.2.A.6. Millî dinî ve manevi günler ile ilgili müzikler dinler."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "NİSAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "1",
@@ -261,7 +228,6 @@
       "KAZANIM": "Mü.2.A.6. Millî dinî ve manevi günler ile ilgili müzikler dinler. Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik etkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "NİSAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "1",
@@ -269,7 +235,6 @@
       "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "1",
@@ -277,7 +242,6 @@
       "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "1",
@@ -285,7 +249,6 @@
       "KAZANIM": "Mü.2.A.6. Millî dinî ve manevi günler ile ilgili müzikler dinler."
     },
     {
-      "ÜNİTE": "Müzik Kültürü",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "1",
@@ -293,7 +256,6 @@
       "KAZANIM": "Mü.2.D.3. Okuldaki müzik etkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Müzik Kültürü",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "1",
@@ -301,7 +263,6 @@
       "KAZANIM": "Mü.2.D.3. Okuldaki müzik etkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Müzik Kültürü",
       "AY": "HAZİRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "1",
@@ -309,7 +270,6 @@
       "KAZANIM": "Mü.2.D.4. Çevresindeki müzik etkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "HAZİRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "1",
@@ -317,7 +277,6 @@
       "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Dinleme Söyleme",
       "AY": "HAZİRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "1",
@@ -325,7 +284,6 @@
       "KAZANIM": "Mü.2.A.4. Belirli gün ve haftalarla ilgili müzik\netkinliklerine katılır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZİRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "1",

@@ -3,7 +3,6 @@
   "ders": "Hareket Kontrol Sistemleri-12",
   "plan": [
     {
-      "ÜNİTE": "MODÜL 1 KAVRAMA SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "4",
@@ -12,7 +11,6 @@
       "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak aracı lifte alıp güç aktarma organlarının genel kontrolünü yapar."
     },
     {
-      "ÜNİTE": "MODÜL 1 KAVRAMA SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "4",
@@ -21,7 +19,6 @@
       "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak debriyaj baskı plakası balatası ve bilyesini kontrol eder."
     },
     {
-      "ÜNİTE": "MODÜL 1 KAVRAMA SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
@@ -29,7 +26,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak debriyaj halatını değiştirip boşluk ayarı yapar."
     },
     {
-      "ÜNİTE": "MODÜL 1 KAVRAMA SİSTEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "4",
@@ -38,7 +34,6 @@
       "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak hidrolik debriyaj merkezini kontrol eder."
     },
     {
-      "ÜNİTE": "MODÜL 2 MEKANİK VİTES KUTULARI",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "4",
@@ -47,7 +42,6 @@
       "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak mekanik vites kutusu kontrolünü ve bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 2 MEKANİK VİTES KUTULARI",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
@@ -55,7 +49,6 @@
       "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak vites kutusu kumanda mekanizmasının bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 2 MEKANİK VİTES KUTULARI",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "4",
@@ -63,7 +56,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak vites kutusu yağını değiştirir."
     },
     {
-      "ÜNİTE": "MODÜL 3 OTOMATİK VİTES KUTULARI",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "4",
@@ -72,7 +64,6 @@
       "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak tork konvertör ve hidrolik kavramanın bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 3 OTOMATİK VİTES KUTULARI",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "4",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 2. İş sağlığı ve güvenliği tedbirlerini alarak otomatik vites kutularının hidrolik kumanda ünitelerinin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "4",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "MODÜL 3 OTOMATİK VİTES KUTULARI",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "4",
@@ -99,7 +88,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak otomatik vites kutularının mekanik kumanda ünitelerinin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 3 OTOMATİK VİTES KUTULARI",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "4",
@@ -108,7 +96,6 @@
       "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak otomatik vites kutularının elektronik kumanda ünitelerinin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 3 OTOMATİK VİTES KUTULARI",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "4",
@@ -117,7 +104,6 @@
       "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak yarı otomatik vites kutularının bakım ve onarımını yapar.\n6. İş sağlığı ve güvenliği tedbirlerini alarak sürekli değişken geometrili vites kutularının bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 4 ŞAFT DİFERANSİYEL VE AKSLAR",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "4",
@@ -126,7 +112,6 @@
       "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak şaft mafsallar ve askı bilyesinin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 4 ŞAFT DİFERANSİYEL VE AKSLAR",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "4",
@@ -135,7 +120,6 @@
       "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak şaft mafsallar ve askı bilyesinin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 4 ŞAFT DİFERANSİYEL VE AKSLAR",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "4",
@@ -144,7 +128,6 @@
       "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak diferansiyelin bakım onarım ve ayarını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 4 ŞAFT DİFERANSİYEL VE AKSLAR",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "4",
@@ -152,7 +135,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak aks rulman keçe ve körüklerin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 5 DİREKSİYON SİSTEMLERİ",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "4",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 1. İş sağlığı ve güvenliği tedbirlerini alarak direksiyon sistemi elemanlarını kontrol eder."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "MODÜL 5 DİREKSİYON SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "4",
@@ -193,7 +171,6 @@
       "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak direksiyon dişli kutusunu kontrol eder."
     },
     {
-      "ÜNİTE": "MODÜL 5 DİREKSİYON SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "4",
@@ -201,7 +178,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak hidrolik yardımlı direksiyon sisteminin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 5 DİREKSİYON SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "4",
@@ -209,7 +185,6 @@
       "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak elektrik yardımlı direksiyon sisteminin bakım ve onarımını yapar.\n5. İş sağlığı ve güvenliği tedbirlerini alarak direksiyon yardımcı sistemlerini kontrol eder."
     },
     {
-      "ÜNİTE": "MODÜL 6  SÜSPANSİYON SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "4",
@@ -218,7 +193,6 @@
       "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak süspansiyon sistemlerini ve amortisörleri kontrol edip değiştirir."
     },
     {
-      "ÜNİTE": "MODÜL 6  SÜSPANSİYON SİSTEMLERİ",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "4",
@@ -227,7 +201,6 @@
       "KAZANIM": "2. İş sağlığı ve güvenliği tedbirlerini alarak yayları yaprak ve helezon kontrol edip değiştirir."
     },
     {
-      "ÜNİTE": "MODÜL 6  SÜSPANSİYON SİSTEMLERİ",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "4",
@@ -236,7 +209,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak çeşitli süspansiyon sistemlerinin ve salıncakların kontrolünü yapar."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "4",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "MODÜL 6  SÜSPANSİYON SİSTEMLERİ",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "4",
@@ -254,7 +225,6 @@
       "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak aktif elektronik kontrollü süspansiyon sistemini kontrol edip bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 7 ÖN DÜZEN VE TEKERLEKLER",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "4",
@@ -263,7 +233,6 @@
       "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak tekerlek ve lastikleri söküp kontrol eder."
     },
     {
-      "ÜNİTE": "MODÜL 7 ÖN DÜZEN VE TEKERLEKLER",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "4",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 2. İş sağlığı ve güvenliği tedbirlerini alarak lastik basınç sensörünü kontrol edip değiştirir."
     },
     {
-      "ÜNİTE": "MODÜL 7 ÖN DÜZEN VE TEKERLEKLER",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "4",
@@ -281,7 +249,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak tekerlek balans ayarını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 7 ÖN DÜZEN VE TEKERLEKLER",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "4",
@@ -290,7 +257,6 @@
       "KAZANIM": "4. İş sağlığı ve güvenliği tedbirlerini alarak ön takım parçalarını kontrol edip değiştirir.                                                                                                                                                           ATATÜRK ün çocuklara verdiği önemi bilir."
     },
     {
-      "ÜNİTE": "MODÜL 7 ÖN DÜZEN VE TEKERLEKLER",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "4",
@@ -299,7 +265,6 @@
       "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak ön düzen ayarlarını kontrol edip ayarlar."
     },
     {
-      "ÜNİTE": "MODÜL 8  FREN SİSTEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "4",
@@ -308,7 +273,6 @@
       "KAZANIM": "1. İş sağlığı ve güvenliği tedbirlerini alarak fren sisteminin kontrollerini yapar.\n2. İş sağlığı ve güvenliği tedbirlerini alarak fren ana merkez ve hidrovak ünitesinin kontrolünü ve bakımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 8  FREN SİSTEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "4",
@@ -317,7 +281,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak diskli fren mekanizmasının bakım ve onarımını yapar.\n4. İş sağlığı ve güvenliği tedbirlerini alarak kampanalı fren mekanizmasının bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 8  FREN SİSTEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "4",
@@ -326,7 +289,6 @@
       "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak fren borularını ve rekorlarını kontrol edip değiştirir.\n6. İş sağlığı ve güvenliği tedbirlerini alarak fren limitörünü kontrol eder.\n7. İş sağlığı ve güvenliği tedbirlerini alarak el fren mekanizmasının bakımını yapar.                                                                                                                                                                                    ATATÜRKün Türk Gençliğine verdiği önemi bilir"
     },
     {
-      "ÜNİTE": "MODÜL 8  FREN SİSTEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "4",
@@ -335,7 +297,6 @@
       "KAZANIM": "8. İş sağlığı ve güvenliği tedbirlerini alarak elektromekanik park frenlerini kontrol edip bakımını yapar.\n9. İş sağlığı ve güvenliği tedbirlerini alarak havalı fren mekanizmasını kontrol edip değiştirir."
     },
     {
-      "ÜNİTE": "MODÜL 9 FREN YARDIMCI SİSTEMLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "4",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav 1. İş sağlığı ve güvenliği tedbirlerini alarak ABS sisteminin bakım ve onarımını yapar.\n2. İş sağlığı ve güvenliği tedbirlerini alarak patinaj kontrol sisteminin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 9 FREN YARDIMCI SİSTEMLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "4",
@@ -353,7 +313,6 @@
       "KAZANIM": "3. İş sağlığı ve güvenliği tedbirlerini alarak elektronik denge sisteminin bakım ve onarımını yapar.\n4. İş sağlığı ve güvenliği tedbirlerini alarak elektronik fren kuvveti dağılımı sisteminin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "MODÜL 9 FREN YARDIMCI SİSTEMLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "4",
@@ -362,7 +321,6 @@
       "KAZANIM": "5. İş sağlığı ve güvenliği tedbirlerini alarak vakum pompasının dizel bakım ve değiştirilmesini yapar.\n6. İş sağlığı ve güvenliği tedbirlerini alarak retarder sisteminin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "4",

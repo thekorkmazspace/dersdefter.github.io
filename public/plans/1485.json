@@ -3,7 +3,6 @@
   "ders": "Mobıl Uygulamaları",
   "plan": [
     {
-      "ÜNİTE": "Mobil Uygulamaya Giriş",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "5",
@@ -12,7 +11,6 @@
       "KAZANIM": "İşletim sistemine uygun uygulama geliştirme ortamını kurar.\nGeliştirilen uygulama için en uygun aktivity ekranını seçtirir.\nJava geliştirme paketinin kurulumunu yaptırır.\n       Uygulama geliştirme ortamının kurulumunu yaptırır.\n       Sanal makineyi yapılandırmasını gösterir."
     },
     {
-      "ÜNİTE": "Mobil Uygulamaya Giriş",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "5",
@@ -21,7 +19,6 @@
       "KAZANIM": "Uygulamada kullanılacak farklı aktivity ekranlarına ulaştırır.\nUygulama geliştirme ortamını kullanarak proje oluşturur.\nYeni bir proje oluşturma adımlarını gösterir.\n       Kütüphane ekleme komutlarını kullanarak harici kütüphaneleri ekletir."
     },
     {
-      "ÜNİTE": "Temel Komutlar",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "5",
@@ -29,7 +26,6 @@
       "KAZANIM": "Veri tipi isimlendirme kurallarına ve ihtiyaca uygun veri tipleri ve sabitleri kullanır.\nİhtiyaca uygun yapıda veri tipi tanımını gösterir.\n       İhtiyaca uygun yapıda sabit tanımını gösterir.\n       Veri tipine uygun veri atama işleminin yaptırır.\n       Klavyeden veri tipine değer atama işlemini uygulatır.\n       Kod bloklarına açıklama satırları ekletir."
     },
     {
-      "ÜNİTE": "Temel Komutlar",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "5",
@@ -38,7 +34,6 @@
       "KAZANIM": "Veri tipi isimlendirme kurallarına ve ihtiyaca uygun veri tipleri ve sabitleri kullanır.\nİhtiyaca uygun yapıda veri tipi tanımını gösterir.\n       İhtiyaca uygun yapıda sabit tanımını gösterir.\n       Veri tipine uygun veri atama işleminin yaptırır.\n       Klavyeden veri tipine değer atama işlemini uygulatır.\n       Kod bloklarına açıklama satırları ekletir."
     },
     {
-      "ÜNİTE": "Temel Komutlar",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "5",
@@ -47,7 +42,6 @@
       "KAZANIM": "İşlem önceliğini dikkate alarak operatörleri kullanır.\nTekli operatörleri kullanarak aritmetiksel işlemleri yaptırır.\n        İkili aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yaptırır.\n        Aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yaptırır.\n        Mantıksal operatörleri kullanarak koşul ifadeleri oluşturulmasını sağlar."
     },
     {
-      "ÜNİTE": "Temel Komutlar",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "5",
@@ -55,7 +49,6 @@
       "KAZANIM": "İşlem önceliğini dikkate alarak operatörleri kullanır.\nTekli operatörleri kullanarak aritmetiksel işlemleri yaptırır.\n        İkili aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yaptırır.\n        Aritmetiksel operatörleri kullanarak aritmetiksel işlemleri yaptırır.\n        Mantıksal operatörleri kullanarak koşul ifadeleri oluşturulmasını sağlar."
     },
     {
-      "ÜNİTE": "Kontrol İfadeleri",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "5",
@@ -63,7 +56,6 @@
       "KAZANIM": "Algoritmaya uygun karar kontrol yapılarını kullanır.\nAlgoritmaya uygun karar kontrol yapısını yaptırır.\n        Mantıksal operatörleri kullanarak birden fazla şartı karar kontrol yapısı içinde yaptırır."
     },
     {
-      "ÜNİTE": "Kontrol İfadeleri",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "5",
@@ -72,7 +64,6 @@
       "KAZANIM": "Algoritmaya uygun karar kontrol yapılarını kullanır.\nAlgoritmaya uygun karar kontrol yapısını yaptırır.\n        Mantıksal operatörleri kullanarak birden fazla şartı karar kontrol yapısı içinde yaptırır."
     },
     {
-      "ÜNİTE": "Kontrol İfadeleri",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "5",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Algoritmaya uygun döngü kontrollerini kullanır.\nAlgoritmaya uygun döngü komutunu seçtirir.\n       İç içe döngüleri uygulatır.\n       Belirli şarta göre döngünün sonlandırılması veya devam edilmesi işlemini yaptırır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "5",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Kontrol İfadeleri",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "5",
@@ -99,7 +88,6 @@
       "KAZANIM": "Algoritmaya uygun döngü kontrollerini kullanır.\nAlgoritmaya uygun döngü komutunu seçtirir.\n       İç içe döngüleri uygulatır.\n       Belirli şarta göre döngünün sonlandırılması veya devam edilmesi işlemini yaptırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Komutlar",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "5",
@@ -108,7 +96,6 @@
       "KAZANIM": "Algoritma yapısına ve kod okunabilirliğine uygun sınıflar ile çalışır.\nİstenen özelliklere göre sınıf tanımlama işleminin yaptırır.\n        Belirtilen sınıftan yeni bir nesne oluşturulmasını sağlatır.\n       Sınıflarda kapsülleme kalıtım çok biçimlilik işlemlerini yaptırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Komutlar",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "5",
@@ -117,7 +104,6 @@
       "KAZANIM": "Algoritma yapısına ve kod okunabilirliğine uygun sınıflar ile çalışır.\nİstenen özelliklere göre sınıf tanımlama işleminin yaptırır.\n        Belirtilen sınıftan yeni bir nesne oluşturulmasını sağlatır.\n       Sınıflarda kapsülleme kalıtım çok biçimlilik işlemlerini yaptırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Komutlar",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "5",
@@ -126,7 +112,6 @@
       "KAZANIM": "Tekrarlanan kodları engellemek için metotlar ile çalışır.\nTekrarlayan kodlar için metot yapısı oluşturulmasını sağlar.\n        Oluşturulan metotları proje içinde kullandırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Komutlar",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "5",
@@ -135,7 +120,6 @@
       "KAZANIM": "Tekrarlanan kodları engellemek için metotlar ile çalışır.\nTekrarlayan kodlar için metot yapısı oluşturulmasını sağlar.\n        Oluşturulan metotları proje içinde kullandırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Komutlar",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "5",
@@ -144,7 +128,6 @@
       "KAZANIM": "Parametreleri doğru girerek hazır metotları kullanır.\nYapılacak işe uygun metinsel metotları kullandırır.\n       Yapılacak işe uygun tarih metotlarını kullandırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Komutlar",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "5",
@@ -152,7 +135,6 @@
       "KAZANIM": "Parametreleri doğru girerek hazır metotları kullanır.\nYapılacak işe uygun metinsel metotları kullandırır.\n       Yapılacak işe uygun tarih metotlarını kullandırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Komutlar",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "5",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  İhtiyaca uygun dizileri tanımlar ve kullanır.\nYapılacak işe uygun dizileri tanımlattırır.\n       Proje içinde oluşturulan dizilere kullandırır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "5",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "5",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "5",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Uygulama Tasarımı",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "5",
@@ -193,7 +171,6 @@
       "KAZANIM": "Yapılandırma bilgilerinin doğruluğuna dikkat ederek proje oluşturur.\nUygulama projesi hazırlatır.\n        Önceden oluşturulmuş projeyi geliştirme ortamına ekletir.\n        Projenin sanal makine üzerinde çalışmasını sağlatır."
     },
     {
-      "ÜNİTE": "Uygulama Tasarımı",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "5",
@@ -201,7 +178,6 @@
       "KAZANIM": "Yapılandırma bilgilerinin doğruluğuna dikkat ederek proje oluşturur.\nUygulama projesi hazırlatır.\n        Önceden oluşturulmuş projeyi geliştirme ortamına ekletir.\n        Projenin sanal makine üzerinde çalışmasını sağlatır."
     },
     {
-      "ÜNİTE": "Uygulama Tasarımı",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "5",
@@ -209,7 +185,6 @@
       "KAZANIM": "Görsel elemanları kullanarak arayüz tasarlar.\nGörsel elemanlarını kullanarak projeye uygun arayüz tasarımını yaptırır.\n        Layout elemanlarını kullanarak projeye uygun arayüz tasarımını yaptırır.\n        Arayüz elemanlarının yapacağı iş ile ilgili kodlarını yazdırır.\n       Çoklu Aktiviteler kullanarak uygulama tasarımını yaptırır.\n       Fragments kullanarak uygulama tasarımını yaptırır."
     },
     {
-      "ÜNİTE": "Uygulama Tasarımı",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "5",
@@ -218,7 +193,6 @@
       "KAZANIM": "Görsel elemanları kullanarak arayüz tasarlar.\nGörsel elemanlarını kullanarak projeye uygun arayüz tasarımını yaptırır.\n        Layout elemanlarını kullanarak projeye uygun arayüz tasarımını yaptırır.\n        Arayüz elemanlarının yapacağı iş ile ilgili kodlarını yazdırır.\n       Çoklu Aktiviteler kullanarak uygulama tasarımını yaptırır.\n       Fragments kullanarak uygulama tasarımını yaptırır."
     },
     {
-      "ÜNİTE": "Uygulama Tasarımı",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "5",
@@ -227,7 +201,6 @@
       "KAZANIM": "Görsel elemanları kullanarak arayüz tasarlar.\nGörsel elemanlarını kullanarak projeye uygun arayüz tasarımını yaptırır.\n        Layout elemanlarını kullanarak projeye uygun arayüz tasarımını yaptırır.\n        Arayüz elemanlarının yapacağı iş ile ilgili kodlarını yazdırır.\n       Çoklu Aktiviteler kullanarak uygulama tasarımını yaptırır.\n       Fragments kullanarak uygulama tasarımını yaptırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "5",
@@ -236,7 +209,6 @@
       "KAZANIM": "Farklı uygulamalar ile etkileşime geçen uygulama tasarlar.\nYeni bir activity başlatma işlemini gerçekleştirtir\n       Intentleri kullanarak uygulamalar ile etkileşim kurdurur.\n       Servisleri kullanarak arka plan uygulamaları oluşturtur.\n       Yayın alıcılarını kullanarak sistemden gelen bildirimleri işletir.\n       İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullandırır.\n       Uygulamada e-posta ve sms kullanımını yaptırır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "5",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "5",
@@ -254,7 +225,6 @@
       "KAZANIM": "Farklı uygulamalar ile etkileşime geçen uygulama tasarlar.\nYeni bir activity başlatma işlemini gerçekleştirtir\n       Intentleri kullanarak uygulamalar ile etkileşim kurdurur.\n       Servisleri kullanarak arka plan uygulamaları oluşturtur.\n       Yayın alıcılarını kullanarak sistemden gelen bildirimleri işletir.\n       İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullandırır.\n       Uygulamada e-posta ve sms kullanımını yaptırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "5",
@@ -263,7 +233,6 @@
       "KAZANIM": "Farklı uygulamalar ile etkileşime geçen uygulama tasarlar.\nYeni bir activity başlatma işlemini gerçekleştirtir\n       Intentleri kullanarak uygulamalar ile etkileşim kurdurur.\n       Servisleri kullanarak arka plan uygulamaları oluşturtur.\n       Yayın alıcılarını kullanarak sistemden gelen bildirimleri işletir.\n       İçerik sağlayıcıları kullanarak farklı veri kaynaklarını kullandırır.\n       Uygulamada e-posta ve sms kullanımını yaptırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "5",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav  Uygulamada kullanılacak sensörlerin varlığını kontrol eder ve doğru şekilde kullanır.\nSensörleri kullanarak uygulama geliştirme işlemini yaptırır.\n       Sensörleri YAZILIM ile uyumlu olarak çalışmasını gösterir."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "5",
@@ -281,7 +249,6 @@
       "KAZANIM": "Uygulamada kullanılacak sensörlerin varlığını kontrol eder ve doğru şekilde kullanır.\nSensörleri kullanarak uygulama geliştirme işlemini yaptırır.\n       Sensörleri YAZILIM ile uyumlu olarak çalışmasını gösterir."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "5",
@@ -290,7 +257,6 @@
       "KAZANIM": "Uygulamada kullanılacak sensörlerin varlığını kontrol eder ve doğru şekilde kullanır.\nSensörleri kullanarak uygulama geliştirme işlemini yaptırır.\n       Sensörleri YAZILIM ile uyumlu olarak çalışmasını gösterir."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "5",
@@ -299,7 +265,6 @@
       "KAZANIM": "Uygulamadan elde edilen verileri veritabanına kaydeder.\nUygulama için uygun veritabanı oluşturma işlemini yaptırır.\n       Oluşturulan veritabanına uygulamadan veri aktarma işlemini yaptırır.\n       Uygulamada yerel veritabanı işlemlerini yaptırır.\n       Uygulamada uzak veritabanı işlemlerini yaptırır.\n       Uygulamada SharedPrefences yapısını kullandırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "5",
@@ -308,7 +273,6 @@
       "KAZANIM": "Uygulamadan elde edilen verileri veritabanına kaydeder.\nUygulama için uygun veritabanı oluşturma işlemini yaptırır.\n       Oluşturulan veritabanına uygulamadan veri aktarma işlemini yaptırır.\n       Uygulamada yerel veritabanı işlemlerini yaptırır.\n       Uygulamada uzak veritabanı işlemlerini yaptırır.\n       Uygulamada SharedPrefences yapısını kullandırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "5",
@@ -317,7 +281,6 @@
       "KAZANIM": "Uygulamadan elde edilen verileri veritabanına kaydeder.\nUygulama için uygun veritabanı oluşturma işlemini yaptırır.\n       Oluşturulan veritabanına uygulamadan veri aktarma işlemini yaptırır.\n       Uygulamada yerel veritabanı işlemlerini yaptırır.\n       Uygulamada uzak veritabanı işlemlerini yaptırır.\n       Uygulamada SharedPrefences yapısını kullandırır."
     },
     {
-      "ÜNİTE": "Gelişmiş Uygulama Tasarlama",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "5",
@@ -326,7 +289,6 @@
       "KAZANIM": "Uygulamadan elde edilen verileri veritabanına kaydeder.\nUygulama için uygun veritabanı oluşturma işlemini yaptırır.\n       Oluşturulan veritabanına uygulamadan veri aktarma işlemini yaptırır.\n       Uygulamada yerel veritabanı işlemlerini yaptırır.\n       Uygulamada uzak veritabanı işlemlerini yaptırır.\n       Uygulamada SharedPrefences yapısını kullandırır."
     },
     {
-      "ÜNİTE": "Uygulama Paylaşımı",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "5",
@@ -335,7 +297,6 @@
       "KAZANIM": "Sensörleri kullanarak uygulama geliştirme işlemini yapar.\nUygulama güvenliği prosedürlerini uygulatır.\n       Uygulama için manifesto dosyasını oluşturulmasını gösterir.\n       Uygulamayı paketleyerek dağıtım için hazırlatır."
     },
     {
-      "ÜNİTE": "Uygulama Paylaşımı",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "5",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  Sensörleri YAZILIM ile uyumlu olarak çalıştırır.\nMarket üzerinde geliştirici hesabı tanımlatır.\n       Uygulamayı markete yükletir.\n       Market üzerindeki uygulamayı güncelleştirmeyi gösterir."
     },
     {
-      "ÜNİTE": "Uygulama Paylaşımı",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "5",
@@ -353,7 +313,6 @@
       "KAZANIM": "Sensörleri YAZILIM ile uyumlu olarak çalıştırır.\nMarket üzerinde geliştirici hesabı tanımlatır.\n       Uygulamayı markete yükletir.\n       Market üzerindeki uygulamayı güncelleştirmeyi gösterir."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "5",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "5",

@@ -54,6 +54,21 @@ def load_json(path: Path) -> dict:
         return json.load(handle)
 
 
+def sanitize_plan_payload(plan_payload: dict) -> dict:
+    sanitized_rows = []
+    for row in plan_payload.get("plan", []):
+        sanitized_row = {
+            key: value
+            for key, value in row.items()
+            if key not in {"ÜNİTE", "SDB", "OB"}
+        }
+        sanitized_rows.append(sanitized_row)
+
+    sanitized_payload = dict(plan_payload)
+    sanitized_payload["plan"] = sanitized_rows
+    return sanitized_payload
+
+
 def extract_plan_id(filename: str) -> int:
     match = PLAN_ID_RE.search(filename)
     if not match:
@@ -113,7 +128,7 @@ def build_public() -> None:
         public_plan_name = f"{plan_id}.json"
         public_plan_path = PUBLIC_PLANS_DIR / public_plan_name
 
-        plan_payload = load_json(source_plan_path)
+        plan_payload = sanitize_plan_payload(load_json(source_plan_path))
         normalized_name = normalize_display_name(
             official_names.get(str(plan_id), source_entry["ders"])
         )

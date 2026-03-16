@@ -3,7 +3,6 @@
   "ders": "Gaz Türbi̇nli̇ Motor Si̇stemleri̇ Atölyesi̇ (*)(Yeni*)-11",
   "plan": [
     {
-      "ÜNİTE": "Yağlama Sistemi",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "6",
@@ -12,7 +11,6 @@
       "KAZANIM": "Uçak  bakım   el   kitabına   AMM   göre  uygun   yağı seçerek yağ ikmalini yapar.\nMotor yağları tanımlanır.\n      Motor yağının görevleri açıklanır.\n      Uygun yağın seçilmesinde dikkat edilecek hususlar açıklanır."
     },
     {
-      "ÜNİTE": "Yağlama Sistemi",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "6",
@@ -21,7 +19,6 @@
       "KAZANIM": "Uçak    bakım    el    kitabına   AMM    göre    yağlama sisteminin parçalarının bakımını yapar.\nGaz     türbinli     motorlarda     yağlama     sisteminin çalışması açıklanır.\n     Sistem parçalarının dağılımı açıklanır."
     },
     {
-      "ÜNİTE": "Yağlama Sistemi",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "6",
@@ -29,7 +26,6 @@
       "KAZANIM": "Uçak  bakım  el  kitabına  AMM  göre  yatakların  ve contaların bakım onarımını yapar.\nYataklar ve contalar tanımlanır.\n      Yatakların ve contaların yapısal özellikleri açıklanır.\n      Yataklar ve contaların bakımı açıklanır."
     },
     {
-      "ÜNİTE": "Motor Yakıt Sistemi",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "6",
@@ -38,7 +34,6 @@
       "KAZANIM": "Uçak  bakım  el  kitabına  AMM  göre  uygun  yakıtı seçerek yakıt kontrollerini yapar.\nYakıtlar ve özellikleri açıklanır.\n      Uygun  yakıtı  seçerken  dikkat  edilmesi  gereken kurallar açıklanır.\n      Yakıt katkı maddeleri açıklanır."
     },
     {
-      "ÜNİTE": "Motor Yakıt Sistemi",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "6",
@@ -47,7 +42,6 @@
       "KAZANIM": "Uçak  bakım  el  kitabına  AMM  göre  yüksek  basınç yakıt sistemi elemanlarının bakımını yapar.\nMotor  yakıt  sistemi  yüksek  basınç  yakıt  sistemi açıklanır.\n      Yüksek  basınç  yakıt  sistemi  elemanlarının  bakımı yapılırken     dikkat     edilmesi     gereken     noktalar açıklanır."
     },
     {
-      "ÜNİTE": "Motor Yakıt Sistemi",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "6",
@@ -55,7 +49,6 @@
       "KAZANIM": "Uçak    bakım    el    kitabına    AMM    göre    FADEC sisteminin kontrollerini yapar.\nFADEC sistemi tanımlanır.\n      FADEC sisteminin kontrollerini yaparken dikkat edilmesi gereken noktalar açıklanır."
     },
     {
-      "ÜNİTE": "Hava Sistemi",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "6",
@@ -63,7 +56,6 @@
       "KAZANIM": "Uçak  bakım  el  kitabına   AMM  göre  motor  hava dağıtım sistemini kontrol eder.\nMotor hava dağıtım sistemi tanımlanır.\n       Motor hava dağıtım sistemini kontrol ederken dikkat edilecek noktalar açıklanır."
     },
     {
-      "ÜNİTE": "Hava Sistemi",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "6",
@@ -72,7 +64,6 @@
       "KAZANIM": "Uçak  bakım  el  kitabına  AMM  göre  buz  önleme kumanda sistemlerinin çalışmasını kontrol eder.\nBuz önleme kumanda sisteminin çalışması açıklanır.\n       Pnömatik sistem havası ile çalışan koruma sistemlerinin kumanda sistemi açıklanır.\n       Elektriksel güç ile çalışan koruma sistemlerinin kumanda sistemi açıklanır."
     },
     {
-      "ÜNİTE": "Hava Sistemi",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "6",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Uçak   bakım   el   kitabına   AMM   göre   hava   giriş kısımlarında bostikleme  sealleme yapar.\nİç soğutma sistemi açıklanır.\n       İç soğutma sisteminin görevleriaçıklanır.\n       Contalama bostikleme kavramı açıklanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "6",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "İlk Hareket Sistemleri",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "6",
@@ -99,7 +88,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre starteri motordan söker.\nMotorstart sistemlerinin çalışmasıaçıklanır.\n       Starterin motordan sökülmesiaçıklanır."
     },
     {
-      "ÜNİTE": "İlk Hareket Sistemleri",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "6",
@@ -108,7 +96,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre starter ve komponentlerinin bakımını yapar.\nPnömatikstartsisteminin çalışmasıaçıklanır.\n       Elektrikli start sisteminin çalışmasıaçıklanır.\n       Starter motorunun çalışma limitleriaçıklanır."
     },
     {
-      "ÜNİTE": "İlk Hareket Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "6",
@@ -117,7 +104,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre dişli kutusu ve parçalarını kontrol eder.\nİlk hareket sistemi açıklanır.\n       İlk hareket sistemleri dişli kutularının çalışması açıklanır."
     },
     {
-      "ÜNİTE": "İlk Hareket Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "6",
@@ -126,7 +112,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre starteri motora takar.\nStarterin bakımıaçıklanır.\n       Starter kontrolleri yapılırken dikkat edilecek noktalaraçıklanır."
     },
     {
-      "ÜNİTE": "Ateşleme Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "6",
@@ -135,7 +120,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre ateşleme sistemiyle ilgili emniyet tedbirlerini alır.\nAteşleme sistemi ile çalışırken alınacak emniyet tedbirleri açıklanır.\n       Exciter ın görevleri ve yapısı kavratılır."
     },
     {
-      "ÜNİTE": "Ateşleme Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "6",
@@ -144,7 +128,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre ateşleme sistemiyle ilgili emniyet tedbirlerini alır.\nAteşleme bujisiningörevleri ve yapısı kavratılır.\n       Ateşleme kablosunungörevleri ve yapısı kavratılır."
     },
     {
-      "ÜNİTE": "Ateşleme Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "6",
@@ -152,7 +135,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre ateşleme sisteminin bakım onarımını yapar.\nAteşleme sistemi açıklanır."
     },
     {
-      "ÜNİTE": "Ateşleme Sistemleri",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "6",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav Uçak bakım el kitabına AMM göre ateşleme sisteminin bakım onarımını yapar.\nAteşleme sisteminin bakım onarımı açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "6",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "6",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "6",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Güç Artırma Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "6",
@@ -193,7 +171,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre su enjeksiyonlu güç artırma sistemlerinin bakımını yapar.\nSu enjeksiyonlu güç artırma sistemleri açıklanır.\n       Kompresör su enjeksiyon sisteminin yapısı açıklanır.\n       Su enjeksiyonlu yanma odalarının yapısı açıklanır.\n       Su enjeksiyonlu güç artırma sistemlerinin bakım işlemleri açıklanır."
     },
     {
-      "ÜNİTE": "Güç Artırma Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "6",
@@ -201,7 +178,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre su metanol güç artırma sistemlerinin bakımını yapar.\nSu metanol güç artırma sistemlerinin yapısı açıklanır.\n       Su metanol karışımının ikmal işlemi açıklanır.\n       Sistem parçalarının tanıtımıyapılır.\n       Sumetanol kontrol sisteminin bakım işlemleri açıklanır."
     },
     {
-      "ÜNİTE": "Güç Artırma Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "6",
@@ -209,7 +185,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre afterburner sisteminin bakımını yapar.\nAfterburner sisteminin yapısı ve çalışması açıklanır.\n       Değişken egzoz nozul sisteminin yapısı açıklanır.\n       AB egzoz kısımlarının sökülmesi takılması ve bakımı açıklanır."
     },
     {
-      "ÜNİTE": "Motor Çalıştırma ve Bremze",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "6",
@@ -218,7 +193,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre motoru çalıştırarak takip işlemlerini yapar.\nMotorun yerde çalıştırma işlemleri açıklanır.\n      Motorun bremzede çalıştırılma nedenleri açıklanır.\n      Bremze çeşitleri ve yapısı açıklanır.\n      Motorstart sistemlerinin çalışması açıklanır."
     },
     {
-      "ÜNİTE": "Motor Çalıştırma ve Bremze",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "6",
@@ -227,7 +201,6 @@
       "KAZANIM": "Uçak Bakım El Kitabına AMM göre motor güç çıkışlarını ve parametrelerini yorumlar.\nMotor güç çıkışları ve parametreleri açıklanır.\n       Motor indikasyon sisteminin yapısı ve çalışması açıklanır."
     },
     {
-      "ÜNİTE": "Motor Çalıştırma ve Bremze",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "6",
@@ -236,7 +209,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre boroskop kullanarak motor kontrollerini yapar.\nBoroskop tanımlanır.\n       Boroskop çeşitleri ve yapısı açıklanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "6",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Motor Çalıştırma ve Bremze",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "6",
@@ -254,7 +225,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre motor komponentlerini kontrol eder.\nManuel start sistemini açıklar.\n       Kompresör stall ve surge emareleri açıklanır.\n       Gunswitch kontrolü açıklanır."
     },
     {
-      "ÜNİTE": "Motor Çalıştırma ve Bremze",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "6",
@@ -263,7 +233,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre motorun yıkama ve temizleme işlemlerini yapar.\nMekanik temizleme metodu açıklanır.\n       Kimyasal temizleme metodu açıklanır.\n       Ultrasonik temizleme metodu açıklanır."
     },
     {
-      "ÜNİTE": "Motor Çalıştırma ve Bremze",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "6",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav Uçak bakım el kitabına AMM göre yabancı madde hasarını önleyici tedbirleri alır.\nYabancı madde hasarınaFOD sebep olan faktörler açıklanır.\n      Yabancı madde hasarı oluşumunu önlemede kullanılan yöntemler açıklanır."
     },
     {
-      "ÜNİTE": "Motor Gösterge Sistemleri",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "6",
@@ -281,7 +249,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre motor bölgesel sıcaklık ve basınç sistemi göstergelerinin bakımını ve onarımını yapar.\nMotor bölgesel sıcaklıkları tanımlanır."
     },
     {
-      "ÜNİTE": "Motor Gösterge Sistemleri",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "6",
@@ -290,7 +257,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre motor bölgesel sıcaklık ve basınç sistemi göstergelerinin bakımını ve onarımını yapar.\nMotor bölgesel basınçları tanımlanır."
     },
     {
-      "ÜNİTE": "Motor Gösterge Sistemleri",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "6",
@@ -299,7 +265,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre motor hız ve tork sistemi göstergelerinin bakımını ve onarımını yapar.\nMotor hız ölçme sistemleri açıklanır.\n      Pervane hızı açıklanır."
     },
     {
-      "ÜNİTE": "Motor Gösterge Sistemleri",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "6",
@@ -308,7 +273,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre motor hız ve tork sistemi göstergelerinin bakımını ve onarımını yapar.\nMotor torku açıklanır.\n      Motor vibrasyon ölçümüaçıklanır."
     },
     {
-      "ÜNİTE": "Motor Yerleşimi ve Koruma",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "6",
@@ -317,7 +281,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre güç sistemlerini kontrol ederek kurulumunu yapar.\nYangın duvarlarının konfigürasyonuyapısal özellikleri açıklanır.\n       Motor kaportalarının cowling konfigürasyonuaçıklanır.\n       Akustik panellerin konfigürasyonuaçıklanır.\n       Motor yataklarının ve anti-vibrationmount larınkonfigürasyonuaçıklanır."
     },
     {
-      "ÜNİTE": "Motor Yerleşimi ve Koruma",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "6",
@@ -326,7 +289,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre sistemde kullanılan yardımcı elemanların bakımını ve onarımını yapar.\nBorular ve hortumların konfigürasyonuaçıklanır.\n       Konnektörlerin ve kablo kanallarının konfigürasyonuaçıklanır.\n       Kontrol kablolarının ve çubuklarının konfigürasyonuaçıklanır."
     },
     {
-      "ÜNİTE": "Motor Yerleşimi ve Koruma",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "6",
@@ -335,7 +297,6 @@
       "KAZANIM": "Uçak bakım el kitabına AMM göre motor kaldırma yöntemlerini uygular.\nBootstrap yöntemi açıklanır.\n       Kreyn destekli askı yöntemiaçıklanır.\n       UpliftLoader yöntemi açıklanır.\n       Motor Dreyn sistemi açıklanır."
     },
     {
-      "ÜNİTE": "Motor Yerleşimi ve Koruma",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "6",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Uçak bakım el kitabına AMM göre motor ve aksesuar sistemlerinin koruma işlemlerini yapar.\nMotorun korunmasıaçıklanır.\n      Motorun depolanması açıklanır.\n      Motor ve aksesuar sistemlerinin muhafazadan çıkarılması açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "6",
@@ -353,7 +313,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "6",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "6",

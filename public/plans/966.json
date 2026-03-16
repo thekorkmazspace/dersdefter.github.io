@@ -3,7 +3,6 @@
   "ders": "Uçak Si̇stemleri̇ Atölyesi̇(Yeni*)-11",
   "plan": [
     {
-      "ÜNİTE": "Pnömatik Sistemler",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "5",
@@ -12,7 +11,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre   hava   kaynaklarının   bakımını   ve   onarımını yapar.\nUçak bakım el kitabı AMM açıklanır.\n      Hava kaynakları açıklanır.\n      Pnömatik sistem depoları açıklanır.\n      Sistemin göstergeleri açıklanır.\n      Sistemin uyarı levhaları açıklanır.\n      Farklı pnömatik sistemler açıklanır."
     },
     {
-      "ÜNİTE": "Pnömatik Sistemler",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "5",
@@ -21,7 +19,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre klima sisteminin bakımını yapar.\nKlima airconditioning  sistemi açıklanır.\n      Hava çevrimi sistemi açıklanır.\n      Nem dönüşüm sistemi açıklanır.\n      Dağıtım sistemi açıklanır.\n      Akış kontrol sistemi açıklanır.\n      Isı kontrol sistemi açıklanır.\n      Nem kontrol sistemi açıklanır."
     },
     {
-      "ÜNİTE": "Pnömatik Sistemler",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "5",
@@ -29,7 +26,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre basınçlandırma sisteminin bakımını yapar.\nBasınçlandırma sistemi açıklanır.\n      Basınçlandırma    kontrollerinin    nasıl    yapıldığı açıklanır.\n      Basınç kumandaları açıklanır.\n      Gösterge kumandaları açıklanır.\n      Emniyet valfleri açıklanır.\n      Uyarı cihazları açıklanır.\n      Emniyet cihazları açıklanır."
     },
     {
-      "ÜNİTE": "Pnömatik Sistemler",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "5",
@@ -38,7 +34,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre basınçlandırma sisteminin bakımını yapar.\nBasınçlandırma sistemi açıklanır.\n      Basınçlandırma    kontrollerinin    nasıl    yapıldığı açıklanır.\n      Basınç kumandaları açıklanır.\n      Gösterge kumandaları açıklanır.\n      Emniyet valfleri açıklanır.\n      Uyarı cihazları açıklanır.\n      Emniyet cihazları açıklanır."
     },
     {
-      "ÜNİTE": "Hidrolik Sistemler",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "5",
@@ -47,7 +42,6 @@
       "KAZANIM": "Uçak Bakım El Kitabı ve görsel parça kataloğuna göre hidrolik sistem elemanlarının bakımını yapar.\nUçak hidrolik sistem elemanları açıklanır.\n      Sistem yerleşimi açıklanır.\n      Hidrolik sıvıların çeşitleri açıklanır.\n      Gösterge ve uyarı sistemi açıklanır.\n      Takviyeli uçuş kontrol sistemleri açıklanır."
     },
     {
-      "ÜNİTE": "Hidrolik Sistemler",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "5",
@@ -55,7 +49,6 @@
       "KAZANIM": "Uçak Bakım El Kitabı ve görsel parça kataloğuna göre iniş takımlarının bakımını yapar.\nİniş takımlarının görevleri açıklanır.\n      İniş takımlarının yapısı açıklanır.\n      Şok gidericiler Damperler açıklanır.\n      Açma ve toplama sistemleri açıklanır.\n      Gösterge ve uyarı sistemleri açıklanır."
     },
     {
-      "ÜNİTE": "Hidrolik Sistemler",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "5",
@@ -63,7 +56,6 @@
       "KAZANIM": "Uçak Bakım El Kitabı ve görsel parça kataloğuna göre tekerlekler ve lastiklerin bakımını ve onarımını yapar.\nUçak tekerleri açıklanır.\n      Uçak lastikleri açıklanır.\n      Lastiklerin depolanması açıklanır.\n      Lastik ömürleri açıklanır."
     },
     {
-      "ÜNİTE": "Hidrolik Sistemler",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "5",
@@ -72,7 +64,6 @@
       "KAZANIM": "Uçak Bakım El Kitabı ve görsel parça kataloğuna göre frenlerin bakımını ve onarımını yapar.\nFren sisteminin görevleri açıklanır.\n      Fren sisteminin parçaları açıklanır.\n      Fren sistemi çeşitleri açıklanır.\n      Fren sistemi şeması açıklanır."
     },
     {
-      "ÜNİTE": "Hidrolik Sistemler",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "5",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Uçak Bakım El Kitabı ve görsel parça kataloğuna göre steering sisteminin bakımını yapar.\nDireksiyon      steering      sisteminin      çalışması açıklanır.\n      Direksiyon sistemi parçaları açıklanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "5",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Hidrolik Sistemler",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "5",
@@ -99,7 +88,6 @@
       "KAZANIM": "Uçak Bakım El Kitabı ve görsel parça kataloğuna göre hava-yer algılayıcı sistemin bakımını yaparak test eder.\nAlet sistemleri açıklanır.\n      Pitot statik sistem açıklanır.\n      Altimetre açıklanır.\n      Kuyruk tamponu açıklanır.\n      Kuyruk vurma tailstrike olayı açıklanır."
     },
     {
-      "ÜNİTE": "Aletler ve Aviyonik Sistemler",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "5",
@@ -108,7 +96,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre   alet   sistemleri   göstergelerinin   bakımını   ve onarımını yapar.\nPitot-statik göstergeleri açıklanır.\n      Pitot-statik göstergelerinin çeşitleri açıklanır.\n      Jiroskopik gösterge sistemi açıklanır.\n      Jiroskopikgösterge sistemi çeşitleri açıklanır.\n      Pusulaların çalışma prensibi açıklanır.\n      Hücum açısı göstergesi açıklanır.\n      Ani  hız  düşümü  stall  uyarı  sistemi  göstergesi açıklanır.\n      Diğer uçak gösterge sistemleri açıklanır."
     },
     {
-      "ÜNİTE": "Aletler ve Aviyonik Sistemler",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "5",
@@ -117,7 +104,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre aviyonik sistemleri test eder.\nUçak   Aviyonik   sistemlerinin   temel   prensipleri açıklanır.\n      Plan    ve    hareket    sistemlerinin    temel    ilkeleri açıklanır.\n      Otomatik uçuş açıklanır.\n      Haberleşme sistemiçalışması açıklanır.\n     Yer   ve   rota   belirleme   navigasyon   sistemleri açıklanır."
     },
     {
-      "ÜNİTE": "Aletler ve Aviyonik Sistemler",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "5",
@@ -126,7 +112,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre aviyonik sistemleri test eder.\nUçak   Aviyonik   sistemlerinin   temel   prensipleri açıklanır.\n      Plan    ve    hareket    sistemlerinin    temel    ilkeleri açıklanır.\n      Otomatik uçuş açıklanır.\n      Haberleşme sistemiçalışması açıklanır.\n     Yer   ve   rota   belirleme   navigasyon   sistemleri açıklanır."
     },
     {
-      "ÜNİTE": "Yangından Koruma Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "5",
@@ -135,7 +120,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre yangın algılama ve uyarı sistemlerini test eder.\nYangın algılama sistemleri açıklanır.\n      Sıcaklık algılama detektörleri açıklanır.\n      Uçaklarda sıcaklık algılama detektörlerinin  yerleri açıklanır.\n      Duman detektörleri açıklanır.\n      Duman detektörlerinin yerleri açıklanır.\n      Yangın algılama sistemlerinin kontrol ve bakımları açıklanır."
     },
     {
-      "ÜNİTE": "Yangından Koruma Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "5",
@@ -144,7 +128,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre yangın söndürme sistemi testlerini yapar.\nYangın tipleri açıklanır.\n      Yangın söndürme maddeleri açıklanır.\n      Genel yangın söndürme sistemleri açıklanır.\n      Uçaklardaki yangın söndürme sistemleri açıklanır.\n     Uçaklardaki yangın bölgeleri açıklanır."
     },
     {
-      "ÜNİTE": "Yangından Koruma Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "5",
@@ -152,7 +135,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre yangın söndürme sistemi testlerini yapar.\nYangın tipleri açıklanır.\n      Yangın söndürme maddeleri açıklanır.\n      Genel yangın söndürme sistemleri açıklanır.\n      Uçaklardaki yangın söndürme sistemleri açıklanır.\n     Uçaklardaki yangın bölgeleri açıklanır."
     },
     {
-      "ÜNİTE": "Oksijen Sistemi",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "5",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre oksijen sisteminde çalışırken gerekli iş sağlığı ve güvenliği tedbirlerini alır.Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre  uçuş  ekibi   oksijen   sisteminin   bakımını   ve onarımını yapar.\nOksijen sisteminin genel özellikleri açıklanır.\n      Oksijen   sisteminde   çalışırken   gerekli   emniyet tedbirleri açıklanır.\n      Oksijen tanımlanır.\n      Yükseklik etkisini açıklanır\n      Neden yüksekten uçulduğu açıklanır.\n      Oksijenin elde edilmesi açıklanır.\n      Oksijenin tüplerinin depolanması açıklanır.\n      Uçuş ekibi oksijen sisteminin yerleşimi açıklanır.\n      Uçuş  ekibi  oksijen  sisteminin  yapısı  ve  parçaları açıklanır.\n      Uçuş ekibi oksijen sisteminin çalışması açıklanır.\n      Uçuş ekibi oksijen sistemi kaynakları açıklanır.\n      Uçuş    ekibi    oksijen    sisteminin    depolanması açıklanır.\n      Göstergeler ve uyarı sistemleri açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "5",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "5",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "5",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Oksijen Sistemi",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "5",
@@ -199,7 +177,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Buzlanmayı Önleme ve Yağmurdan\nKoruma Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "5",
@@ -207,7 +184,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre     buz     önleme     sistemi     komponentlerinin bakımını yapar.\nBuz önleme sisteminin yapısı açıklanır.\n      Buzlanma çeşitleri açıklanır.\n      Buz    çözücü    sistemleri    anti-icing    görevleri açıklanır.\n      Buz   çözücü   sistemlerin   anti-icing      çeşitleri açıklanır.\n      Buz  çözücü  sistemin  gösterge  ve  ikaz  sistemi açıklanır."
     },
     {
-      "ÜNİTE": "Buzlanmayı Önleme ve Yağmurdan\nKoruma Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "5",
@@ -216,7 +192,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre   buz   önleme   yöntemlerinin   uçak   üzerinde uygulamasını yapar.\nBuz temizleme de icing tipleri açıklanır.\n      Saydam  buzun  oluşmasına  neden  olan  faktörler açıklanır.\n      Uçak   üzerinde   buzlanmaya   karşı   en   hassas bölgeler açıklanır.\n      Harici kontroller açıklanır.\n      Haberleşme prosedürleri açıklanır.\n      De-icing    işlemleri    sonrası    uçakta    yapılması gereken işlemler açıklanır."
     },
     {
-      "ÜNİTE": "Buzlanmayı Önleme ve Yağmurdan\nKoruma Sistemleri",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "5",
@@ -225,7 +200,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre yağıştan korunma sisteminin bakımını yapar.\nYağıştan korunma sistemi açıklanır.\n      Yağmur silecekleri açıklanır.\n      Yağmur suyunun temizlenmesi açıklanır.\n      Sileceklerin çalışması açıklanır."
     },
     {
-      "ÜNİTE": "Su ve Atık Su Sistemleri",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "5",
@@ -234,7 +208,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre su sisteminin servis işlemlerini yapar.\nSu sisteminin çalışması açıklanır.\n      Su sistemi parçaları açıklanır.\n      Su servis araçları açıklanır.\n      Su sistemi bakımları açıklanır.\n      Su sistemi kontrolleri açıklanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "5",
@@ -243,7 +216,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Su ve Atık Su Sistemleri",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "5",
@@ -252,7 +224,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre atık su sisteminin servis işlemlerini yapar.\nAtık su sisteminin çalışması açıklanır.\n      Lavabo atık su sistemi açıklanır.\n      Tuvalet sistemi açıklanır.\n      Tuvalet temizleme sıvısı açıklanır.\n      Tuvalet servis panelleri açıklanır.\n      Tuvalet sistemi kontrolleri açıklanır.\n      Tuvalet sistemi bakımları9z açıklanır."
     },
     {
-      "ÜNİTE": "Su ve Atık Su Sistemleri",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "5",
@@ -261,7 +232,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre atık su sisteminin servis işlemlerini yapar.\nAtık su sisteminin çalışması açıklanır.\n      Lavabo atık su sistemi açıklanır.\n      Tuvalet sistemi açıklanır.\n      Tuvalet temizleme sıvısı açıklanır.\n      Tuvalet servis panelleri açıklanır.\n      Tuvalet sistemi kontrolleri açıklanır.\n      Tuvalet sistemi bakımları9z açıklanır."
     },
     {
-      "ÜNİTE": "Mefruşat ve Ekipman",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "5",
@@ -270,7 +240,6 @@
       "KAZANIM": "2. Dönem 1. Sınav Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre acil durum donanımlarının kontrolünü yapar.\nEmergency acil durum ekipmanları sınıflandırılır.\n      Acil ekipman malzemeleri açıklanır.\n      Taşınabilir oksijen tüpleri açıklanır.\n      Taşınabilir yangın söndürücüleri açıklanır."
     },
     {
-      "ÜNİTE": "Mefruşat ve Ekipman",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "5",
@@ -279,7 +248,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre kabin içi donanım ve mefruşatlarının yerleşim kontrollerini yapar.\nUçuş kompartımanı pilot koltukları açıklanır.\n      Görevli koltukları açıklanır.\n      Gözlemci koltukları açıklanır.\n      Yolcu kompartımanı açıklanır.\n      Koltukların    kumanda    ve    bağlantı    elemanları açıklanır."
     },
     {
-      "ÜNİTE": "Mefruşat ve Ekipman",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "5",
@@ -288,7 +256,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre hava merdivenlerinin kontrolünü yapar.\nUçak merdivenleri açıklanır.\n      Uçak merdiveni kapağı açıklanır.\n      Uçak merdiveni tertibatları açıklanır.\n      Arka merdiven tertibatları açıklanır."
     },
     {
-      "ÜNİTE": "Mefruşat ve Ekipman",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "5",
@@ -297,7 +264,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre kabin eğlendirme ekipmanlarını test eder.\nYolcu eğlence sistemi PES Passenger entertainment system  açıklanır.\n      Video sistemi açıklanır.\n      Ses sistemi açıklanır.\n      Video    ve    ses    kumanda-bağlantı    elemanları açıklanır."
     },
     {
-      "ÜNİTE": "Mefruşat ve Ekipman",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "5",
@@ -306,7 +272,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre galley yerleşimlerini kontrol eder.\nGalleylerin    mutfak    çalışması    parçaları    ve bağlantıları açıklanır.\n      Galleylerin     mutfak     bağlantılarını     sökülüp takılması açıklanır."
     },
     {
-      "ÜNİTE": "Mefruşat ve Ekipman",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "5",
@@ -315,7 +280,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre   kargo   taşıma   ve   muhafaza   ekipmanlarının bakım onarımını yapar.\nKargo yükleme sistemi açıklanır.\n      Kargo bölümleri açıklanır\n      Kargo kapasiteleri açıklanır.\n     Kargo kompartımanı bağlantı elemanları açıklanır."
     },
     {
-      "ÜNİTE": "Uçak Yakıt Sistemi",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "5",
@@ -324,7 +288,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre   alçak   basınç   yakıt   sistemi   ekipmanlarının yerleşimini kavrar.\nAlçak basınç yakıt sisteminin çalışması açıklanır.\n      Alçak basınç yakıt sisteminin parçaları açıklanır.\n      Yakıt tanklar fueltanks açıklanır.\n      İkmalbesleme sistemleri açıklanır.\n      Yakıt boşaltma drain sistemi açıklanır.\n      Çapraz besleme ve transfer sistemi açıklanır.\n      Gösterge ve uyarı sistemleri açıklanır."
     },
     {
-      "ÜNİTE": "Uçak Yakıt Sistemi",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "5",
@@ -333,7 +296,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre   alçak   basınç   yakıt   sistemi   ekipmanlarının yerleşimini kavrar.\nAlçak basınç yakıt sisteminin çalışması açıklanır.\n      Alçak basınç yakıt sisteminin parçaları açıklanır.\n      Yakıt tanklar fueltanks açıklanır.\n      İkmalbesleme sistemleri açıklanır.\n      Yakıt boşaltma drain sistemi açıklanır.\n      Çapraz besleme ve transfer sistemi açıklanır.\n      Gösterge ve uyarı sistemleri açıklanır."
     },
     {
-      "ÜNİTE": "Uçak Yakıt Sistemi",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "5",
@@ -342,7 +304,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre  uçak  yakıt  sistemi  parçalarının  bakımını  ve onarımını yapar.\nYakıt ikmali açıklanır.\n      Yakıt boşaltma açıklanır.\n      Yakıt sistemi parçalarının bakımları açıklanır.\n      Alçak   basınç   yakıt   sistemi   emniyet   tedbirleri açıklanır."
     },
     {
-      "ÜNİTE": "Uçak Yakıt Sistemi",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "5",
@@ -351,7 +312,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre  uçak  yakıt  sistemi  parçalarının  bakımını  ve onarımını yapar.\nYakıt ikmali açıklanır.\n      Yakıt boşaltma açıklanır.\n      Yakıt sistemi parçalarının bakımları açıklanır.\n      Alçak   basınç   yakıt   sistemi   emniyet   tedbirleri açıklanır."
     },
     {
-      "ÜNİTE": "Uçak Yakıt Sistemi",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "5",
@@ -360,7 +320,6 @@
       "KAZANIM": "Uçak  Bakım  El  Kitabı  ve  görsel  parça  kataloğuna göre  uçak  yakıt  sistemi  parçalarının  bakımını  ve onarımını yapar.\nYakıt ikmali açıklanır.\n      Yakıt boşaltma açıklanır.\n      Yakıt sistemi parçalarının bakımları açıklanır.\n      Alçak   basınç   yakıt   sistemi   emniyet   tedbirleri açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "5",

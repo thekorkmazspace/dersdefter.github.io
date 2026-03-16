@@ -3,7 +3,6 @@
   "ders": "Atölye(kt)",
   "plan": [
     {
-      "ÜNİTE": "Alaşım Metali ve Kimyasallar",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "7",
@@ -12,7 +11,6 @@
       "KAZANIM": "Kuyumculukta    kullanılan    metaller    ile    alaşım yapar.\nAlaşım  yapılırken  metallerin  ergime  derecesine dikkat edilir.\n       İlave  kaynak  malzemesinin  yapımında  kaynak sertliği   ve  kadmiyum   ilavesi   zamanına  dikkat edilir."
     },
     {
-      "ÜNİTE": "Alaşım Metali ve Kimyasallar",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "7",
@@ -21,7 +19,6 @@
       "KAZANIM": "Kuyumculukta  kullanılan  kimyasalları  ve  ramatı açıklar.\nAsitlerle  çalışma  esnasında  zehirlenmelere  ve yanıklara karşı alınacak tedbirler açıklanır.\n       Çalışma  esnasında  fire  ve  rahatın  önemine  ve dikkat edilmesine değinilir."
     },
     {
-      "ÜNİTE": "Alaşım Metali ve Kimyasallar",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "7",
@@ -29,7 +26,6 @@
       "KAZANIM": "Alaşım     yapımında     kullandığı     ekipmanların temizlik ve bakımını yapar."
     },
     {
-      "ÜNİTE": "Alaşım Metal Oranları",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "7",
@@ -38,7 +34,6 @@
       "KAZANIM": "Alaşımların ayar ve milyem tespitini yapar.\nAyar suları dikkatli ve yerinde kullanılır.\n       Ayar   suların   saklanmasına   özen   ve   dikkat gösterilir."
     },
     {
-      "ÜNİTE": "Alaşım Metal Oranları",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "7",
@@ -47,7 +42,6 @@
       "KAZANIM": "Alaşımların ayar ve milyem hesabını yapar.\nHesaplamalarda milyem değerleri açıklanır."
     },
     {
-      "ÜNİTE": "Alaşım Metal Oranları",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "7",
@@ -55,7 +49,6 @@
       "KAZANIM": "Maliyet hesabı yapar.\nSatış         fiyatlandırmalarında         ve         işçilik hesaplamalarında odaların verdiği fiyat açıklanır."
     },
     {
-      "ÜNİTE": "Alaşım Metal Oranları",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "7",
@@ -63,7 +56,6 @@
       "KAZANIM": "Maliyet hesabı yapar.\nSatış         fiyatlandırmalarında         ve         işçilik hesaplamalarında odaların verdiği fiyat açıklanır."
     },
     {
-      "ÜNİTE": "Yarı Mamul Hazırlama",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "7",
@@ -72,7 +64,6 @@
       "KAZANIM": "Ağırlık ölçümü  yapar.\n Alaşım metallerini eritir.\nAğırlık  tartım  işlemlerinde  terazinin  zemini  ve hava sirkülâsyonunun önemi açıklanır.\n       Eritme    işleminde    metal    ergime    sıcaklıkları açıklanır.\n       Eriyik   metal   dökülürken   şidenin   ısıtılması   ve yağlanması anlatılır.\n       Yanıklara karşı tedbirler anlatılır."
     },
     {
-      "ÜNİTE": "Yarı Mamul Hazırlama",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "7",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Uzunluk ölçme aparatları ile ölçüm yapar.\n Tel ve levha tavlama işlemini yapar.\nUzunluk ölçmede ısı ve ışık durumu anlatılır.\n       Tavlama   esnasında   metalin   çevrilmesi   işlemi açıklanır.\n       Yanmalara karşı alınacak tedbirler açıklanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "7",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Yarı Mamul Hazırlama",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "7",
@@ -99,7 +88,6 @@
       "KAZANIM": "Tel çekme işlemini yapar.\nTel     çekme     işleminde     silindirde     çalışma esnasında güvenlik tedbirleri açıklanır.\n       Tel   veya   levhanın   zaman   zaman   tavlanması gerektiği açıklanır."
     },
     {
-      "ÜNİTE": "Yarı Mamul Hazırlama",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "7",
@@ -108,7 +96,6 @@
       "KAZANIM": "Levha çekme işlemini yapar.\nSilindirde çalışma kuralları açıklanır.\n       Silindirlerin emniyet kuralları açıklanır."
     },
     {
-      "ÜNİTE": "Yarı Mamul Hazırlama",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "7",
@@ -117,7 +104,6 @@
       "KAZANIM": "Yarı mamul hazırlamada kullanılan ekipmanların bakım ve temizliğini yapar."
     },
     {
-      "ÜNİTE": "Markalama",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "7",
@@ -126,7 +112,6 @@
       "KAZANIM": "Düzeltme işlemi yapar.\nYüzeylerin    zarar    görmemesi    için    alınacak tedbirler açıklanır."
     },
     {
-      "ÜNİTE": "Markalama",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "7",
@@ -135,7 +120,6 @@
       "KAZANIM": "Desen aktarma işlemini yapar.\nYüzeylerin yemiz olması açıklanır.\n       Yanmalara ve kesiklere karşı tedbirler alınır."
     },
     {
-      "ÜNİTE": "Markalama",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "7",
@@ -144,7 +128,6 @@
       "KAZANIM": "Desen        aktarma        işleminde        kullanılan ekipmanların bakım ve temizliğini yapar."
     },
     {
-      "ÜNİTE": "Delme-Kesme",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "7",
@@ -152,7 +135,6 @@
       "KAZANIM": "Gerekli delme işlemlerini yapar.\nMatkap çaplarına uygun devir açıklanır.\n       Matkapta   ki   uygulanacak   kuvvetin   şekli   ve miktarı açıklanır."
     },
     {
-      "ÜNİTE": "Delme-Kesme",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "7",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  Gerekli kesme işlemlerini yapar.\nMalzeme ve motife uygun testere kılı seçilmesi açıklanır.\n       Kesilmeler     karşı     tedbirler     ve     ramatların toplanması açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "7",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "7",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "7",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Delme-Kesme",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "7",
@@ -193,7 +171,6 @@
       "KAZANIM": "Delme-kesme            işleminde            kullanılan ekipmanların bakım ve temizliğini yapar."
     },
     {
-      "ÜNİTE": "Eğeleme",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "7",
@@ -201,7 +178,6 @@
       "KAZANIM": "Çeşitli   eğeler   ile   takı   parçalarına   eğeleme yapar.\nYüzeylerin temiz olması açıklanır.\n       Eğenin yüzeydeki kuvvet dengesi açıklanır."
     },
     {
-      "ÜNİTE": "Eğeleme",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "7",
@@ -209,7 +185,6 @@
       "KAZANIM": "Takı üzerindeki zımparalama işlemlerini yapar.\nCila   motorunda   uygulanacak   baskı   kuvveti açıklanır."
     },
     {
-      "ÜNİTE": "Eğeleme",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "7",
@@ -218,7 +193,6 @@
       "KAZANIM": "Eğeleme   işleminde   kullanılan   ekipmanların bakım ve temizliğini yapar."
     },
     {
-      "ÜNİTE": "Eğeleme",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "7",
@@ -227,7 +201,6 @@
       "KAZANIM": "Eğeleme   işleminde   kullanılan   ekipmanların bakım ve temizliğini yapar."
     },
     {
-      "ÜNİTE": "Tel ve Levha Şekillendirme",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "7",
@@ -236,7 +209,6 @@
       "KAZANIM": "Çeşitli  el  aletleri  ile  eğme  ve  bükme  işlemi yapar\n Tel ve levhayı  burma işlemi yapar.\nEğme bükmenin tanımı önemi açıklanır.\n       Kullanılan araç gereçler açıklanır.\n       Tel  ve  levha  eğme  bükmede  dikkat  edilecek hususlar açıklanır.\n       Tavlamanın önemi açıklanır.\n       Uygun   metal   için   uygun   takım   kullanılması açıklanır.\n       Tel ve levha burma açıklanır.\n       Kullanılan araç gereçler açıklanır.\n       Burma   işleminde   dikkat   edilecek    hususlar açıklanır.\n       Tavlamanın önemi açıklanır.\n       Uygun   metal   için   uygun   takım   kullanılması açıklanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "7",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Tel ve Levha Şekillendirme",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "7",
@@ -254,7 +225,6 @@
       "KAZANIM": "Telleri halka halinde sarar.\n Heştekleme işlemi yapar.\nHalka  sarma  şarnel  yapımı  kullanılan  araç gereçler dikkat edilecek hususlar açıklanır.\n       Tavlamanın önemi açıklanır.\n       Uygun   metal   için   uygun   takım   kullanılması açıklanır.\n       Heştekleme   kullanılan   araç   gereçler   dikkat edilecek hususlar açıklanır.\n       Tavlamanın önemi açıklanır.\n       Levha     kalınlığı     ve     kullanılacak     zımba ölçüsünün önemi açıklanır."
     },
     {
-      "ÜNİTE": "Tel ve Levha Şekillendirme",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "7",
@@ -263,7 +233,6 @@
       "KAZANIM": "Tel ve levha şekillendirme işleminde kullanılan ekipmanların bakım ve temizliğini yapar."
     },
     {
-      "ÜNİTE": "Tel ve Levha Şekillendirme",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "7",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav"
     },
     {
-      "ÜNİTE": "Tel ve Levha Şekillendirme",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "7",
@@ -281,7 +249,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Kuyumculukta Kaynak",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "7",
@@ -290,7 +257,6 @@
       "KAZANIM": "Kaynak araç ve gereçlerini hazırlar.\nKaynak işlemini çeşitleri kullanılan araç-gereç ve malzemeler açıklanır.\n       İşin özelliğine ve malzeme cinsine uygun kaynak seçimi açıklanır."
     },
     {
-      "ÜNİTE": "Kuyumculukta Kaynak",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "7",
@@ -299,7 +265,6 @@
       "KAZANIM": "Kaynak işlemlerini yapar.\nKaynak   yapımında   dikkat   edilecek   hususlar açıklanır.\n       Kaynak    öncesi    sağlıklı    kaynak    için    yüzey temizliği açıklanır.\n       Kaynak  esnasında  şaloma  mesafesi  ve  şaloma ölçüsü açıklanır."
     },
     {
-      "ÜNİTE": "Kuyumculukta Kaynak",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "7",
@@ -308,7 +273,6 @@
       "KAZANIM": "Kaynak        yapma        işleminde        kullanılan ekipmanların bakım ve temizliğini yapar."
     },
     {
-      "ÜNİTE": "Kuyumculukta Kaynak",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "7",
@@ -317,7 +281,6 @@
       "KAZANIM": "Kaynak        yapma        işleminde        kullanılan ekipmanların bakım ve temizliğini yapar."
     },
     {
-      "ÜNİTE": "Cilalama",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "7",
@@ -326,7 +289,6 @@
       "KAZANIM": "Üretimi son aşamaya gelen ürünün cilalanması işlemini yapar.\nCila işlemi kullanılan araç-gereç ve malzemeler dikkat edilecek hususlar açıklanır.\n       Cila işlemi esnasında maske kullanımı açıklanır.\n       Takı cinsine uygun fırça seçimi açıklanır."
     },
     {
-      "ÜNİTE": "Cilalama",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "7",
@@ -335,7 +297,6 @@
       "KAZANIM": "Cilalama    sonrası    ürünün    yıkama    işlemini yapar.\nÜrün yıkanmasında kullanılacak deterjan çeşitleri ve kimyasallar açıklanır."
     },
     {
-      "ÜNİTE": "Cilalama",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "7",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  Cilalama   sonrası   ürünün   kurutma   işlemini yapar.\nTakıya uygun kurutma yönteminin şekli açıklanır."
     },
     {
-      "ÜNİTE": "Cilalama",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "7",
@@ -353,7 +313,6 @@
       "KAZANIM": "Cilalama   yıkama   ve   kurutma   işlemlerinde kullanılan  ekipmanların  bakım  ve  temizliğini yapar."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "7",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "7",

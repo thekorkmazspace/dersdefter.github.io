@@ -3,7 +3,6 @@
   "ders": "Kimya (anadolu Lisesi Meb)",
   "plan": [
     {
-      "ÜNİTE": "MODERN ATOM TEORİSİ",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "4",
@@ -12,7 +11,6 @@
       "KAZANIM": "11.1.1.1. Atomu kuantum modeliyle açıklar.\na. Bohr atom modelinin deney ve gözlemlerden elde edilen bulguları açıklamadaki sınırlılıkları vurgulanarak modern atom teorisinin bulut modelinin önemi üzerinde durulur. b. Tek elektronlu atomlariyonlar için orbital kavramı elektronların bulunma olasılığı ile ilişkilendirilir. c. Yörünge ve orbital kavramları karşılaştırılır. ç. Kuantum sayıları orbitallerle ilişkilendirilir. d. Çok elektronlu atomlarda orbitallerin enerji seviyeleri açıklanır."
     },
     {
-      "ÜNİTE": "MODERN ATOM TEORİSİ",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "4",
@@ -21,7 +19,6 @@
       "KAZANIM": "11.1.2.1. Nötr atomların elektron dizilimleriyle periyodik sistemdeki yerleri arasında ilişki kurar.\na. Hund Kuralı Pauli İlkesi ve Aufbau Prensibi açıklanır. b. Atomların ve iyonların elektron dizilimlerine örnekler verilir. Atom numarası 36 ve daha küçük türlerin elektron dizilimleri esas alınır. c. Değerlik orbital ve değerlik elektronu kavramları açıklanır. ç. Elektron dizilimleriyle elementin ait olduğu blok ilişkilendirilerek grup ve periyot belirlenir."
     },
     {
-      "ÜNİTE": "MODERN ATOM TEORİSİ",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
@@ -29,7 +26,6 @@
       "KAZANIM": "11.1.3.1. Periyodik özelliklerdeki değişim eğilimlerini sebepleriyle açıklar.\na. Kovalent yarıçap van der Waals yarıçapı ve iyonik yarıçapın farkları üzerinde durulur. b. Periyodik özellikler arasında metallikametallik atomiyon yarıçapı iyonlaşma enerjisi elektron ilgisi elektronegatiflik ve oksithidroksit bileşiklerinin asitlikbazlık eğilimleri üzerinde durulur. Periyodik özelliklerin nasıl ölçüldüğüne girilmez."
     },
     {
-      "ÜNİTE": "MODERN ATOM TEORİSİ",
       "AY": "EKİM",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "4",
@@ -38,7 +34,6 @@
       "KAZANIM": "11.1.3.1. Periyodik özelliklerdeki değişim eğilimlerini sebepleriyle açıklar.\nc. Ardışık iyonlaşma enerjilerinin grup numarasıyla ilişkisi örneklerle gösterilir."
     },
     {
-      "ÜNİTE": "MODERN ATOM TEORİSİ",
       "AY": "EKİM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "4",
@@ -47,7 +42,6 @@
       "KAZANIM": "11.1.4.1. Elementlerin periyodik sistemdeki konumu ile özellikleri arasındaki ilişkileri açıklar.\na. s p d bloku elementlerinin metalametal karakteri iyon yükleri aktiflikleri ve yaptıkları kimyasal bağ tipi elektron dizilimiyle ilişkilendirilir. b. f blok elementlerinin periyodik sistemdeki konumlarıyla ilgili özel durumları vurgulanır. c. Asal gaz özellikleri elektron dizilimleriyle ilişkilendirilir."
     },
     {
-      "ÜNİTE": "MODERN ATOM TEORİSİ",
       "AY": "EKİM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
@@ -55,7 +49,6 @@
       "KAZANIM": "11.1.5.1. Yükseltgenme basamakları ile elektron dizilimleri arasındaki ilişkiyi açıklar.\na. Ametallerin anyon hâlindeki yükleriyle yükseltgenme basamakları arasındaki fark örneklendirilir. b. d bloku elementlerinin birden çok yükseltgenme basamağında bulunabilmeleri elektron dizilimleriyle ilişkilendirilir."
     },
     {
-      "ÜNİTE": "GAZLAR",
       "AY": "EKİM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "4",
@@ -63,7 +56,6 @@
       "KAZANIM": "11.2.1.1. Gazların betimlenmesinde kullanılan özellikleri açıklar.\na. Basınç birimleri atm Torr mmHg  ve hacim birimleri L m3 ile bunların ondalık ast ve üst katları kısaca açıklanır. b. Gazların özelliklerinin ölçme yöntemleri üzerinde durulur. Manometrelerle ilgili hesaplamalara girilmez."
     },
     {
-      "ÜNİTE": "SINAV HAFTASI",
       "AY": "EKİM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "4",
@@ -72,7 +64,6 @@
       "KAZANIM": "SINAV HAFTASI"
     },
     {
-      "ÜNİTE": "GAZLAR",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "4",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 11.2.1.2. Gaz yasalarını açıklar.\na. Gazların özelliklerine ilişkin yasalar Boyle Charles Gay Lussac ve Avogadro üzerinde durulur. b. Öğrencilerin hazır veriler kullanılarak gaz yasaları ile ilgili grafikler çizmeleri ve yorumlamaları sağlanır."
     },
     {
-      "ÜNİTE": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım 2025",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "4",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. DÖNEM ARA TATİLİ 10 - 14 Kasım 2025"
     },
     {
-      "ÜNİTE": "GAZLAR",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "4",
@@ -99,7 +88,6 @@
       "KAZANIM": "11.2.2.1. Deneysel yoldan türetilmiş gaz yasaları ile ideal gaz yasası arasındaki ilişkiyi açıklar.\na. Boyle Charles ve Avogadro yasalarından yola çıkılarak ideal gaz denklemi türetilir. b. İdeal gaz denklemi kullanılarak örnek hesaplamalar yapılır."
     },
     {
-      "ÜNİTE": "GAZLAR",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "4",
@@ -108,7 +96,6 @@
       "KAZANIM": "11.2.2.1. Deneysel yoldan türetilmiş gaz yasaları ile ideal gaz yasası arasındaki ilişkiyi açıklar.\nc. Normal şartlarda gaz hacimleri kütle ve mol sayısıyla ilişkilendirilir."
     },
     {
-      "ÜNİTE": "GAZLAR",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "4",
@@ -117,7 +104,6 @@
       "KAZANIM": "11.2.3.1. Gaz davranışlarını kinetik teori ile açıklar.\na. Kinetik teorinin temel varsayımları üzerinde durulur. b. Kinetik teorinin temel varsayımları kullanılarak Graham Difüzyon ve Efüzyon Yasası türetilir. c. Difüzyon deneyi yaptırılır bilişim teknolojilerinden animasyon simülasyon video vb. yararlanılarak da açıklanır. Deney yapılırken güvenlik uyarılarına dikkat edilmesi gerektiği hatırlatılır."
     },
     {
-      "ÜNİTE": "GAZLAR",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "4",
@@ -126,7 +112,6 @@
       "KAZANIM": "11.2.4.1. Gaz karışımlarının kısmi basınçlarını günlük hayattan örneklerle açıklar.\nSıvıların doygun buhar basınçları kısmi basınç kavramıyla ilişkilendirilerek su üzerinde toplanan gazlarla ilgili hesaplamalar yapılır."
     },
     {
-      "ÜNİTE": "GAZLAR",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "4",
@@ -135,7 +120,6 @@
       "KAZANIM": "11.2.5.1. Gazların sıkışmagenleşme sürecinde gerçek gaz ve ideal gaz kavramlarını karşılaştırır.\na. Gerçek gazların hangi durumlarda ideallikten saptığı belirtilir. b. Karbon dioksitin ve suyun faz diyagramı açıklanarak buhar ve gaz kavramları arasındaki fark vurgulanır. c. Suyun farklı kristal yapılarını gösteren faz diyagramlarına girilmez. ç. Günlük hayatta yaygın kullanılan ve gerçek gazların hâl değişimlerinin uygulamaları olan soğutma sistemleri Joule-Thomson olayı örnekleriyle açıklanır."
     },
     {
-      "ÜNİTE": "SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "4",
@@ -144,7 +128,6 @@
       "KAZANIM": "11.3.1.1. Kimyasal türler arası etkileşimleri kullanarak sıvı ortamda çözünme olayını açıklar. 11.3.2.1. Çözünen madde miktarı ile farklı derişim birimlerini ilişkilendirir.\n11.3.1.1. Kimyasal türler arası etkileşimleri kullanarak sıvı ortamda çözünme olayını açıklar. 11.3.2.1. a. Derişim birimleri olarak molarite ve molalite tanıtılır. b. Normalite ve formalite tanımlarına girilmez."
     },
     {
-      "ÜNİTE": "SINAV HAFTASI",
       "AY": "OCAK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "4",
@@ -152,7 +135,6 @@
       "KAZANIM": "SINAV HAFTASI"
     },
     {
-      "ÜNİTE": "SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "4",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 11.3.2.2. Farklı derişimlerde çözeltiler hazırlar.\nDerişimle ilgili hesaplamalar yapılarak hesaplamalarda molarite ve molalite yanında kütlece yüzde hacimce yüzde mol kesri ve ppm kavramları da kullanılır."
     },
     {
-      "ÜNİTE": "SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
@@ -169,7 +150,6 @@
       "KAZANIM": "11.3.3.1. Çözeltilerin koligatif özellikleri ile derişimleri arasında ilişki kurar.\na. Koligatif özelliklerden buhar basıncı alçalması donma noktası alçalması kriyoskopi kaynama noktası yükselmesi ebülyoskopi ve osmotik basınç üzerinde durulur. b. Osmotik basınç ile ilgili hesaplamalara girilmez. c. Ters osmoz yöntemiyle su arıtımı hakkında kısaca bilgi verilir. ç. Saf suyun ve farklı derişimlerdeki sulu çözeltilerin kaynama noktası tayini deneyleri yaptırılır."
     },
     {
-      "ÜNİTE": "YARIYIL TATİLİ 19  - 30 Ocak 2026",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
@@ -177,7 +157,6 @@
       "KAZANIM": "YARIYIL TATİLİ 19  - 30 Ocak 2026"
     },
     {
-      "ÜNİTE": "YARIYIL TATİLİ 19  - 30 Ocak 2026",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
@@ -185,7 +164,6 @@
       "KAZANIM": "YARIYIL TATİLİ 19  - 30 Ocak 2026"
     },
     {
-      "ÜNİTE": "SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "4",
@@ -193,7 +171,6 @@
       "KAZANIM": "11.3.4.1.Çözeltileri çözünürlük kavramı temelinde sınıflandırır.\na. Seyreltik derişik doygun aşırı doygun ve doymamış çözelti kavramları üzerinde durulur. b. Çözünürlükler g100 g su birimi cinsinden verilir. c. Çözünürlükle ilgili hesaplamalar yapılır."
     },
     {
-      "ÜNİTE": "SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "4",
@@ -201,7 +178,6 @@
       "KAZANIM": "11.3.5.1. Çözünürlüğün sıcaklık ve basınçla ilişkisini açıklar.\na. Farklı tuzların sıcaklığa bağlı çözünürlük eğrilerinin yorumlanması sağlanır. b. Tuzların farklı sıcaklıklardaki çözünürlüklerinden faydalanılarak deriştirme ve kristallendirme ile ilgili hesaplamalar yapılır."
     },
     {
-      "ÜNİTE": "SIVI ÇÖZELTİLER VE ÇÖZÜNÜRLÜK",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "4",
@@ -209,7 +185,6 @@
       "KAZANIM": "11.3.5.1. Çözünürlüğün sıcaklık ve basınçla ilişkisini açıklar.\nc. Gazların çözünürlüklerinin basınç ve sıcaklıkla değişimi üzerinde durulur çözünürlük eğrilerinin yorumlanması sağlanır. ç. Öğrencilerin çözünürlüğün sıcaklık ve basınçla ilişkisini elektronik tablolama programı kullanarak kurgulamaları değerleri değiştirerek gerçekleşen değişiklikleri gözlemlemeleri ve yorumlamaları sağlanır."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE ENERJİ",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "4",
@@ -218,7 +193,6 @@
       "KAZANIM": "11.4.1.1. Tepkimelerde meydana gelen enerji değişimlerini açıklar.\na. Tepkimelerin ekzotermik ve endotermik olması ısı alışverişiyle ilişkilendirilir. b. Ekzotermik ve endotermik tepkimelerin açıklanmasında bilişim teknolojilerinden animasyon simülasyon video vb. yararlanılır."
     },
     {
-      "ÜNİTE": "SINAV HAFTASI",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "4",
@@ -227,7 +201,6 @@
       "KAZANIM": "SINAV HAFTASI"
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE ENERJİ",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "4",
@@ -236,7 +209,6 @@
       "KAZANIM": "11.4.2.1. Standart oluşum entalpileri üzerinden tepkime entalpilerini hesaplar.\na. Standart oluşum entalpileri tanımlanır. b. Tepkime entalpisi potansiyel enerji-tepkime koordinatı grafiği üzerinden açıklanır. c. Öğrencilerin tepkime entalpilerine ilişkin elektronik tablolama programı kullanarak grafik oluşturmaları değerleri değiştirerek gerçekleşen değişimleri gözlemlemeleri ve yorumlamaları sağlanır."
     },
     {
-      "ÜNİTE": "2. DÖNEM ARA TATİLİ 16 - 20 Mart 2026",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "4",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. DÖNEM ARA TATİLİ 16 - 20 Mart 2026"
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE ENERJİ",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "4",
@@ -254,7 +225,6 @@
       "KAZANIM": "11.4.3.1. Bağ enerjileri ile tepkime entalpisi arasındaki ilişkiyi açıklar.\nOluşan ve kırılan bağ enerjileri üzerinden tepkime entalpisi hesaplamaları yapılır."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE ENERJİ",
       "AY": "NİSAN",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "4",
@@ -263,7 +233,6 @@
       "KAZANIM": "11.4.4.1. Hess Yasasını açıklar.\nHess Yasası ile ilgili hesaplamalar yapılır."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE HIZ",
       "AY": "NİSAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "4",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 11.5.1.1. Kimyasal tepkimeler ile tanecik çarpışmaları arasındaki ilişkiyi açıklar. 11.5.1.2. Kimyasal tepkimelerin hızlarını açıklar.\n11.5.1.2. a. Madde miktarı derişim mol kütle gaz maddeler için normal şartlarda hacim ile tepkime hızı ilişkilendirilir. b. Ortalama tepkime hızı kavramı açıklanır. c. Homojen ve heterojen faz tepkimelerine örnekler verilir."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE HIZ",
       "AY": "NİSAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "4",
@@ -281,7 +249,6 @@
       "KAZANIM": "11.5.2.1. Tepkime hızına etki eden faktörleri açıklar.\n11.5.2.1. a. Tek basamaklı tepkimelerde her iki yöndeki tepkime hızının derişime bağlı ifadeleri verilir. b. Çok basamaklı tepkimeler için hız belirleyici basamağın üzerinde durulur. c. Madde cinsi derişim sıcaklık katalizör enzimlere girilmez ve temas yüzeyinin tepkime hızına etkisi üzerinde durulur. Arrhenius bağıntısına girilmez. ç. Oktay Sinanoğlunun kısa biyografisini ve tepkime mekanizmaları üzerine yaptığı çalışmaları tanıtan okuma parçasına yer verilir."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE DENGE",
       "AY": "NİSAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "4",
@@ -290,7 +257,6 @@
       "KAZANIM": "11.6.1.1. Fiziksel ve kimyasal değişimlerde dengeyi açıklar.\na. Maksimum düzensizlik ve minimum enerji eğilimleri üzerinden denge açıklanır. b. İleri ve geri tepkime hızları üzerinden denge açıklanır. c. Tersinir reaksiyonlar için derişim ve basınç cinsinden denge ifadeleri türetilerek hesaplamalar yapılır. ç. Farklı denge sabitleri arasındaki ilişki incelenir."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE DENGE",
       "AY": "NİSAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "4",
@@ -299,7 +265,6 @@
       "KAZANIM": "11.6.2.1. Dengeyi etkileyen faktörleri açıklar.\na. Sıcaklığın derişimin hacmin kısmi basınçların ve toplam basıncın dengeye etkisi denge ifadesi üzerinden açıklanır. b. Le Chatelier İlkesi örnekler üzerinden irdelenir. c. Katalizör-denge ilişkisi vurgulanır."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE DENGE",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "4",
@@ -308,7 +273,6 @@
       "KAZANIM": "11.6.3.1. pH ve pOH kavramlarını suyun oto-iyonizasyonu üzerinden açıklar."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE DENGE",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "4",
@@ -317,7 +281,6 @@
       "KAZANIM": "11.6.3.2. Brönsted-Lowry asitlerinibazlarını karşılaştırır."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE DENGE",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "4",
@@ -326,7 +289,6 @@
       "KAZANIM": "11.6.3.3. Katyonların asitliğini ve anyonların bazlığını su ile etkileşimleri temelinde açıklar. 11.6.3.4. Asitlikbazlık gücü ile ayrışma denge sabitleri arasında ilişki kurar.\n11.6.3.3. a. Kuvvetlizayıf asitler ve bazlar tanıtılır konjuge asit-baz çiftlerine örnekler verilir. b. Asit gibi davranan katyonların ve baz gibi davranan anyonların su ile etkileşimleri üzerinde durulur. 11.6.3.4.Asitlerinbazların iyonlaşma oranları denge sabitleriyle ilişkilendirilir."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE DENGE",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "4",
@@ -335,7 +297,6 @@
       "KAZANIM": "11.6.3.5. Kuvvetli ve zayıf monoprotik asitbaz çözeltilerinin pH değerlerini hesaplar.\na. Çok derişik ve çok seyreltik asitbaz çözeltilerinin pH değerlerine girilmez. b. Zayıf asitlerbazlar için H  Ka.Ca12 ve OH-  Kb.Cb12 eşitlikleri esas alınır. c. Poliprotik asitlere girilmez."
     },
     {
-      "ÜNİTE": "SINAV HAFTASI",
       "AY": "HAZİRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "4",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav\nSINAV HAFTASI"
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE DENGE",
       "AY": "HAZİRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "4",
@@ -353,7 +313,6 @@
       "KAZANIM": "11.6.3.6. Tampon çözeltilerin özellikleri ile günlük kullanım alanlarını ilişkilendirir. 11.6.3.7. Tuz çözeltilerinin asitlikbazlık özelliklerini açıklar.\n11.6.3.6. a. Tampon çözeltilerin pH değerlerinin seyrelme ve asitbaz ilavesi ile fazla değişmemesi ortamdaki dengeler üzerinden açıklanır. Henderson formülü ve tampon kapasitesine girilmez. b. Tampon çözeltilerin canlı organizmalar açısından önemine değinilir. 11.6.3.7. a. Asidik bazik ve nötr tuz kavramları açıklanır. b. Anyonu zayıf baz olan tuzlara örnekler verilir. c. Katyonu NH4 veya anyonu HSO4 olan tuzların asitliği üzerinde durulur. ç. Hidroliz hesaplamalarına girilmez."
     },
     {
-      "ÜNİTE": "KİMYASAL TEPKİMELERDE DENGE",
       "AY": "HAZİRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "4",
@@ -362,7 +321,6 @@
       "KAZANIM": "11.6.3.8. Kuvvetli asitbaz derişimlerini titrasyon yöntemiyle belirler. 11.6.3.9. Sulu ortamlarda çözünme-çökelme dengelerini açıklar.\n11.6.3.8. a. Titrasyon deneyi yaptırılıp sonuçların grafik üzerinden gösterilerek yorumlanması sağlanır. b. Titrasyonla ilgili hesaplama örnekleri verilir. c. Öğrencilerin titrasyon yöntemine yönelik hesaplamaları elektronik tablolama programı yardımıyla kurgulamaları değerleri değiştirerek gerçekleşen değişiklikleri gözlemlemeleri ve yorumlamaları sağlanır. 11.6.3.9. a. Çözünme-çökelme denge örneklerine yer verilir çözünürlük çarpımı Kçç ve çözünürlük s kavramlarının ilişkilendirilmesi sağlanır. b. Tuzların çözünürlüğüne etki eden faktörlerden sıcaklık ve ortak iyon etkisi üzerinde durulur. c. Ortak iyon etkisi hesaplamaları yapılır."
     },
     {
-      "ÜNİTE": "SOSYAL ETKİNLİK",
       "AY": "HAZİRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "4",

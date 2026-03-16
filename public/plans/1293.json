@@ -3,7 +3,6 @@
   "ders": "Batı Müziği Teori ve Uygulaması(Yeni*)-9",
   "plan": [
     {
-      "ÜNİTE": "MÜZİK TEORİSİNE GİRİŞ",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
@@ -11,7 +10,6 @@
       "KAZANIM": "9.1.1.1 Müzik yazısını açıklar.\n9.1.2.1 Müzikte birim zamanı açıklar.\nMüzik yazısında kullanılan temel müzik terimlerini ve işaretlerini dizek ek çizgi sol anahtarı fa anahtarı ve do anahtarı ölçü ölçü çizgisi ölçü göstergesi ayırma çizgisi bitiş çizgisi nota sus puandorg puandre reprise ölçü tekrar işareti dolap D. C. all fine segno coda diyez bemol natürel çift diyez çift bemol görsel olarak tanıması ve işlevlerini açıklaması beklenir.\nSeslendirdiği parçadaki birim zamanı vuruş yaparak gösterir.\nRitim duygusu geliştirmesi sağlanır."
     },
     {
-      "ÜNİTE": "MÜZİK TEORİSİNE GİRİŞ",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
@@ -19,14 +17,12 @@
       "KAZANIM": "9.1.2.2 Birim zamana göre nota ve sus süre değerlerini gösterir.\nBirlik ikilik ve dörtlük nota ve sus değerlerinin süresini birim zamana göre ölçmesi beklenir.\nBirim zamanın ikiye üçe ve dörde bölündüğü tartım kalıpları oluşturulur.\nSenkop üçleme uzatma bağı ve uzatma noktası açıklanır."
     },
     {
-      "ÜNİTE": "MÜZİK TEORİSİNE GİRİŞ",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "KAZANIM": "9.1.3.1 Müzikte kullanılan temel hız terimlerini açıklar.\nAna hız basamaklarını kavraması beklenir."
     },
     {
-      "ÜNİTE": "MÜZİK TEORİSİNE GİRİŞ",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
@@ -34,7 +30,6 @@
       "KAZANIM": "9.1.3.2 Müzikte kullanılan gürlük terimlerini açıklar.\nAna gürlük terim ve işaretleri kavraması beklenir."
     },
     {
-      "ÜNİTE": "BASİT ÖLÇÜLER",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
@@ -42,21 +37,18 @@
       "KAZANIM": "9.2.1.1 İki zamanlı basit ölçüleri açıklar.\n9.2.1.2 İki zamanlı basit ölçülerde hazırlanmış alıştırmaları okur.\nİki zamanlı basit ölçülerdeki kuvvetli ve zayıf zamanları ayırt etmesi beklenir.\nİki zamanlı basit ölçülerde hazırlanmış alıştırmaları ritmik okuması bona beklenir.\nBona çalışmalarında devinimsel olarak iki zamanlı vuruş yapması istenir."
     },
     {
-      "ÜNİTE": "BASİT ÖLÇÜLER",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "KAZANIM": "9.2.1.3 İki zamanlı basit ölçülerde hazırlanmış alıştırmaları yazar.\n9.2.2.1 Üç zamanlı basit ölçüleri açıklar.\nİki zamanlı basit ölçülerde tartım diktesi yazması beklenir.\nÜç zamanlı basit ölçülerdeki kuvvetli ve zayıf zamanları ayırt etmesi beklenir."
     },
     {
-      "ÜNİTE": "BASİT ÖLÇÜLER",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "KAZANIM": "9.2.2.2 Üç zamanlı basit ölçülerde hazırlanmış alıştırmaları okur.\n9.2.2.3 Üç zamanlı basit ölçülerde hazırlanmış alıştırmaları yazar.\nÜç zamanlı basit ölçülerde hazırlanmış alıştırmaları ritmik okuması bona beklenir.\nBona çalışmalarında devinimsel olarak üç zamanlı vuruş yapması istenir.\nÜç zamanlı basit ölçülerde tartım diktesi yazması beklenir."
     },
     {
-      "ÜNİTE": "BASİT ÖLÇÜLER",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
@@ -64,7 +56,6 @@
       "KAZANIM": "9.2.3.1 Dört zamanlı basit ölçüleri açıklar.\nDört zamanlı basit ölçülerdeki kuvvetli ve zayıf zamanları ayırt etmesi beklenir."
     },
     {
-      "ÜNİTE": "BASİT ÖLÇÜLER",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
@@ -72,7 +63,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 9.2.3.2 Dört zamanlı basit ölçülerde hazırlanmış alıştırmaları okur.\nDört zamanlı basit ölçülerde hazırlanmış alıştırmaları ritmik okuması bona beklenir.\nBona çalışmalarında devinimsel olarak dört zamanlı vuruş yapması istenir."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -81,7 +71,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "BASİT ÖLÇÜLER",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
@@ -89,7 +78,6 @@
       "KAZANIM": "9.2.3.3 Dört zamanlı basit ölçülerde hazırlanmış alıştırmaları yazar.\nDört zamanlı basit ölçülerde tartım diktesi yazması beklenir."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
@@ -97,7 +85,6 @@
       "KAZANIM": "9.3.1.1 Diyatonik kromatik ve pentatonik dizilerin oluşumunu açıklar."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
@@ -105,7 +92,6 @@
       "KAZANIM": "9.3.2.1 Do majör diziyi oluşturur."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
@@ -113,7 +99,6 @@
       "KAZANIM": "9.3.2.2 Do majör dizinin derecelerini ayırt eder.\nTonik ve dominant notalarına önem verilir."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
@@ -121,7 +106,6 @@
       "KAZANIM": "9.3.2.3 Do majör tonundaki solfejleri okur.\nÇıkıcı ve inici solfejlerde entonasyon ve seslendirme doğruluğu sağlanır."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
@@ -129,14 +113,12 @@
       "KAZANIM": "9.3.2.4 Do majör tonundaki ezgi diktelerini yazar.\nBasit ölçülerdeki tartım kalıplarına yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "KAZANIM": "9.3.3.1 La minör diziyi oluşturur.\nDoğal armonik ve melodik minör diziler yazılır."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
@@ -144,7 +126,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 9.3.3.2 La minör dizinin derecelerini ayırt eder.\nTonik ve dominant notalarına önem verilir.\nFarklı minör dizi türleri arasındaki değişiklikler ele alınır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -152,7 +133,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -160,7 +140,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -168,28 +147,24 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "KAZANIM": "9.3.3.4 La minör tonundaki ezgi diktelerini yazar.\nBasit ölçülerdeki tartım kalıplarına yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "KAZANIM": "9.3.3.4 La minör tonundaki ezgi diktelerini yazar.\nBasit ölçülerdeki tartım kalıplarına yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "KAZANIM": "9.3.3.4 La minör tonundaki ezgi diktelerini yazar.\nBasit ölçülerdeki tartım kalıplarına yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKTE DİZİ VE TON",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
@@ -197,7 +172,6 @@
       "KAZANIM": "9.3.3.4 La minör tonundaki ezgi diktelerini yazar.\nBasit ölçülerdeki tartım kalıplarına yer verilir."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
@@ -205,7 +179,6 @@
       "KAZANIM": "9.4.1.1 Bir aralığı ünison oluşturur.\n9.4.2.1 İkili aralıkları oluşturur.\nMajör ve minör ikili aralıklar yazılır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
@@ -213,7 +186,6 @@
       "KAZANIM": "9.4.2.2 İkili aralıkları seslendirir.\n9.4.2.3 İkili aralıkları işitsel olarak ayırt eder.\nSes yüksekliği ve entonasyon doğruluğu sağlanır.\nSolfej çalışmaları yapılır.\nİşitsel ayırt etme çalışmaları yapılır.\nAlıştırmalar uygulanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -222,7 +194,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
@@ -230,7 +201,6 @@
       "KAZANIM": "9.4.3.1 Üçlü aralıkları oluşturur.\n9.4.3.2 Üçlü aralıkları seslendirir.\nMajör ve minör üçlü aralıklar yazılır.\nSes yüksekliği ve entonasyon doğruluğu sağlanır.\nSolfej çalışmaları yapılır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
@@ -238,7 +208,6 @@
       "KAZANIM": "9.4.3.3 Üçlü aralıkları işitsel olarak ayırt eder.\n9.4.4.1 Dörtlü aralıkları oluşturur.\nİşitsel ayırt etme çalışmaları yapılır.\nAlıştırmalar uygulanır.\nMükemmel ve artırılmış dörtlü aralıklar yazılır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
@@ -246,7 +215,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 9.4.4.2 Dörtlü aralıkları seslendirir.\n9.4.4.3 Dörtlü aralıkları işitsel olarak ayırt eder.\nSes yüksekliği ve entonasyon doğruluğu sağlanır.\nSolfej çalışmaları yapılır.\nİşitsel ayırt etme çalışmaları yapılır.\nAlıştırmalar uygulanır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
@@ -254,7 +222,6 @@
       "KAZANIM": "9.4.5.1 Beşli aralıkları oluşturur.\n9.4.5.2 Beşli aralıkları seslendirir.\nMükemmel ve eksik beşli aralıklar yazılır.\nSes yüksekliği ve entonasyon doğruluğu sağlanır.\nSolfej çalışmaları yapılır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
@@ -262,7 +229,6 @@
       "KAZANIM": "9.4.5.3 Beşli aralıkları işitsel olarak ayırt eder.\n9.4.6.1 Altılı aralıkları oluşturur.\nİşitsel ayırt etme çalışmaları yapılır.\nAlıştırmalar uygulanır.\nMajör ve minör altılı aralıklar yazılır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
@@ -270,7 +236,6 @@
       "KAZANIM": "9.4.6.2 Altılı aralıkları seslendirir.\n9.4.6.3 Altılı aralıkları işitsel olarak ayırt eder.\nSes yüksekliği ve entonasyon doğruluğu sağlanır.\nSolfej çalışmaları yapılır.\nİşitsel ayırt etme çalışmaları yapılır.\nAlıştırmalar uygulanır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
@@ -278,7 +243,6 @@
       "KAZANIM": "9.4.7.1 Yedili aralıkları oluşturur.\nMajör ve minör yedili aralıklar yazılır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
@@ -286,7 +250,6 @@
       "KAZANIM": "9.4.7.2 Yedili aralıkları seslendirir.\nSes yüksekliği ve entonasyon doğruluğu sağlanır.\nSolfej çalışmaları yapılır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
@@ -294,7 +257,6 @@
       "KAZANIM": "9.4.7.3 Yedili aralıkları işitsel olarak ayırt eder.\nİşitsel ayırt etme çalışmaları yapılır.\nAlıştırmalar uygulanır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
@@ -302,7 +264,6 @@
       "KAZANIM": "9.4.8.1 Sekizli aralığı oluşturur."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
@@ -310,7 +271,6 @@
       "KAZANIM": "2. Dönem 2. Sınav 9.4.8.2 Sekizli aralığı seslendirir.\nSes yüksekliği ve entonasyon doğruluğu sağlanır.\nSolfej çalışmaları yapılır."
     },
     {
-      "ÜNİTE": "ARALIK BİLGİSİ",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
@@ -318,7 +278,6 @@
       "KAZANIM": "9.4.8.3 Sekizli aralığı işitsel olarak ayırt eder.\nİşitsel ayırt etme çalışmaları yapılır.\nAlıştırmalar uygulanır."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
@@ -327,7 +286,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",

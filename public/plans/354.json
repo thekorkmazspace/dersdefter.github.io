@@ -3,7 +3,6 @@
   "ders": "Araç Teknolojisi Atölyesi-9",
   "plan": [
     {
-      "ÜNİTE": "1. İŞ SAĞLIĞI VE GÜVENLİĞİ",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "9",
@@ -12,7 +11,6 @@
       "KAZANIM": "1. İş Güvenliği kurallarına uygun olarak çalışma alanını düzenler.\n2. Yangın önleme tedbirlerini alır.\n3. Acil durumları tespit eder.\n4. Çevre koruma ile ilgili tedbirleri alır.\n5. Çalışma alet ve donanımlarının bakımlarını yapar.\n6. Kişisel koruyucu donanımları uygun şekilde kullanır."
     },
     {
-      "ÜNİTE": "2. TEMEL SERVİS\nEKİPMANLARI",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "9",
@@ -21,7 +19,6 @@
       "KAZANIM": "1. Anahtar takımlarını kullanım yerlerine uygun şekilde kullanır.                                                                                                                                                                                    2. Mesleğe özel el takımlarını kullanım yerlerine uygun şekilde kullanır."
     },
     {
-      "ÜNİTE": "2. TEMEL SERVİS\nEKİPMANLARI",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "9",
@@ -29,7 +26,6 @@
       "KAZANIM": "3. Motorlu araç kaldırma sehpalama alet ve donanımlarını uygun şekilde kullanır.                                                                                                                                                          4. Ölçü aletleri ile ölçme ve kontrol işlemlerini yapar."
     },
     {
-      "ÜNİTE": "3. TEMEL MEKANİK İŞLEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "9",
@@ -38,7 +34,6 @@
       "KAZANIM": "1. Metal iş parçasını istenilen boyutlarda keser.\n2. Metal iş parçasını eğeleyerek gönyeye getirir."
     },
     {
-      "ÜNİTE": "3. TEMEL MEKANİK İŞLEMLERİ",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "9",
@@ -47,7 +42,6 @@
       "KAZANIM": "3. İş parçası üzerine istenilen markalamayı yapar.\n4. El taşlama aleti ile taşlama yapar.\n5. El aletlerinin bileme işlemini yapar."
     },
     {
-      "ÜNİTE": "3. TEMEL MEKANİK İŞLEMLERİ",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "9",
@@ -55,7 +49,6 @@
       "KAZANIM": "6. Metal iş parçasına delik deler.\n7. Kılavuz ile delik içine diş açar."
     },
     {
-      "ÜNİTE": "3. TEMEL MEKANİK İŞLEMLERİ",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "9",
@@ -63,7 +56,6 @@
       "KAZANIM": "8. Pafta ile silindir parça üzerine diş açar.                                                                                   9. Perçinleme yaparak metal parçaları birleştirir.\n10. Cıvataları söker ve takar."
     },
     {
-      "ÜNİTE": "4. MOTOR TERİMLERİ VE MOTORU SENTEYE GETİRME",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "9",
@@ -72,7 +64,6 @@
       "KAZANIM": "1. İçten yanmalı motorların tanımı tarihçesi ve kullanıldığı yerleri açıklar.\n2. İçten yanmalı bir motorun genel yapısını oluşturan parçaları sıralar.\n3. Alternatif motorları ve çeşitlerini sıralar."
     },
     {
-      "ÜNİTE": "4. MOTOR TERİMLERİ VE MOTORU SENTEYE GETİRME",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "9",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 4. Motor terimlerini açıklar.                                                                 5. Motoru senteye getirme işlemini yapar."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "9",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "5. SABİT MOTOR PARÇALARI",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "9",
@@ -99,7 +88,6 @@
       "KAZANIM": "1. Motor bağlantı takozlarının kontrollerini ve değiştirme işlemlerini yapar.\n2. Emme ve egzoz manifoltlarının kontrol ve değişimini yapar."
     },
     {
-      "ÜNİTE": "5. SABİT MOTOR PARÇALARI",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "9",
@@ -108,7 +96,6 @@
       "KAZANIM": "3. Silindir kapağının kontrollerini ve değişimini yapar."
     },
     {
-      "ÜNİTE": "5. SABİT MOTOR PARÇALARI",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "9",
@@ -117,7 +104,6 @@
       "KAZANIM": "4. Silindir bloğunun kontrollerini ve değişimini yapar."
     },
     {
-      "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "9",
@@ -126,7 +112,6 @@
       "KAZANIM": "1. Külbütör mekanizmasının kontrollerini ve değişimini yapar."
     },
     {
-      "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "9",
@@ -135,7 +120,6 @@
       "KAZANIM": "2. Kam milinin kontrollerini ve değişimini yapar."
     },
     {
-      "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "9",
@@ -144,7 +128,6 @@
       "KAZANIM": "3. Zaman ayar mekanizmasının kontrollerini ve değişimini yapar."
     },
     {
-      "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "9",
@@ -152,7 +135,6 @@
       "KAZANIM": "4. Supap mekanizması kontrol ve değişimi"
     },
     {
-      "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "9",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 4. Supap mekanizması kontrol ve değişimi"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "9",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "9",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "9",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "6. SUPAP SİSTEMLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "9",
@@ -193,7 +171,6 @@
       "KAZANIM": "5. Değişken supap zamanlama mekanizması kontrol ve değişimi"
     },
     {
-      "ÜNİTE": "7. MOTOR DONANIMLARI",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "9",
@@ -201,7 +178,6 @@
       "KAZANIM": "1. Motor soğutma sistemlerinin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "7. MOTOR DONANIMLARI",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "9",
@@ -209,7 +185,6 @@
       "KAZANIM": "2. Motor yağlama sistemlerinin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "7. MOTOR DONANIMLARI",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "9",
@@ -218,7 +193,6 @@
       "KAZANIM": "2. Motor yağlama sistemlerinin bakım ve onarımını yapar."
     },
     {
-      "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "9",
@@ -227,7 +201,6 @@
       "KAZANIM": "1. Piston-biyel kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "9",
@@ -236,7 +209,6 @@
       "KAZANIM": "1. Piston-biyel kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "9",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "9",
@@ -254,7 +225,6 @@
       "KAZANIM": "2. Krank milinin kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "9",
@@ -263,7 +233,6 @@
       "KAZANIM": "2. Krank milinin kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "9",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 3. Krank keçesi ve yatakların kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "9",
@@ -281,7 +249,6 @@
       "KAZANIM": "3. Krank keçesi ve yatakların kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "8. PİSTON BİYEL KRANK MEKANİZMASI",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "9",
@@ -290,7 +257,6 @@
       "KAZANIM": "4. Volanın kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "9. ARAÇLARDA TEMEL ELEKTRİK İŞLEMLERİ",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "9",
@@ -299,7 +265,6 @@
       "KAZANIM": "1. Basit elektrik devre elemanlarının gerilim akım şiddeti direnç değerlerini ölçer."
     },
     {
-      "ÜNİTE": "9. ARAÇLARDA TEMEL ELEKTRİK İŞLEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "9",
@@ -308,7 +273,6 @@
       "KAZANIM": "2. Seri ve paralel devrelerde gerilim ve akım şiddetini ölçerek direnç değerini hesaplar."
     },
     {
-      "ÜNİTE": "9. ARAÇLARDA TEMEL ELEKTRİK İŞLEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "9",
@@ -317,7 +281,6 @@
       "KAZANIM": "3. Elektriğin manyetik ve kimyasal etkisi deneylerini yapar."
     },
     {
-      "ÜNİTE": "10. ARAÇLARDA TEMEL ELEKTRONİK İŞLEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "9",
@@ -326,7 +289,6 @@
       "KAZANIM": "1. Elektronik devre elemanlarının kontrolünü yapar.                                                                                                                                                                                     ATATÜRKün Türk Gençliğine verdiği önemi bilir"
     },
     {
-      "ÜNİTE": "10. ARAÇLARDA TEMEL ELEKTRONİK İŞLEMLERİ",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "9",
@@ -335,7 +297,6 @@
       "KAZANIM": "1. Elektronik devre elemanlarının kontrolünü yapar."
     },
     {
-      "ÜNİTE": "10. ARAÇLARDA TEMEL ELEKTRONİK İŞLEMLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "9",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav 2. Basit elektronik devreler kurar."
     },
     {
-      "ÜNİTE": "11. OTOMOTİV AKÜLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "9",
@@ -353,7 +313,6 @@
       "KAZANIM": "1. Akünün kontrolünü ve değişimini yapar."
     },
     {
-      "ÜNİTE": "11. OTOMOTİV AKÜLERİ",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "9",
@@ -362,7 +321,6 @@
       "KAZANIM": "2. Aküyü şarj eder."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "9",

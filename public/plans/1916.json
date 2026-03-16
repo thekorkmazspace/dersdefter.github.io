@@ -3,7 +3,6 @@
   "ders": "Havaclk Ve Uzay Blmlerne Grs (havacılık Ve Uzay Teknolojisi)",
   "plan": [
     {
-      "ÜNİTE": "Havacılık ve Uzay Bilimlerinde Matematiksel Yöntemler",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
@@ -12,7 +11,6 @@
       "KAZANIM": "Matris ile ilgili hesaplama yapar.\nMatris kavramı açıklanır.\n Matris ile ilgili hesaplamalar yaptırılır."
     },
     {
-      "ÜNİTE": "Havacılık ve Uzay Bilimlerinde Matematiksel Yöntemler",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
@@ -21,7 +19,6 @@
       "KAZANIM": "Matris ile ilgili hesaplama yapar.\nMatris kavramı açıklanır.\n Matris ile ilgili hesaplamalar yaptırılır."
     },
     {
-      "ÜNİTE": "Havacılık ve Uzay Bilimlerinde Matematiksel Yöntemler",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
@@ -29,7 +26,6 @@
       "KAZANIM": "Lineer cebir ile ilgili hesaplama yapar.\nLineer cebir kavramı açıklanır.\n Lineer cebir ile ilgili hesaplamalar yaptırılır."
     },
     {
-      "ÜNİTE": "Havacılık ve Uzay Bilimlerinde Matematiksel Yöntemler",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
@@ -38,7 +34,6 @@
       "KAZANIM": "Lineer cebir ile ilgili hesaplama yapar.\nLineer cebir kavramı açıklanır.\n Lineer cebir ile ilgili hesaplamalar yaptırılır."
     },
     {
-      "ÜNİTE": "Havacılık ve Uzay Bilimlerinde Matematiksel Yöntemler",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
@@ -47,7 +42,6 @@
       "KAZANIM": "Vektör ile ilgili hesaplama yapar.\nVektör kavramı açıklanır.\n Vektör ile ilgili hesaplamalar yaptırılır."
     },
     {
-      "ÜNİTE": "Havacılık ve Uzay Bilimlerinde Matematiksel Yöntemler",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
@@ -55,7 +49,6 @@
       "KAZANIM": "Vektör ile ilgili hesaplama yapar.\nVektör kavramı açıklanır.\n Vektör ile ilgili hesaplamalar yaptırılır."
     },
     {
-      "ÜNİTE": "Havacılık ve Uzay Bilimlerinde Matematiksel Yöntemler",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
@@ -63,7 +56,6 @@
       "KAZANIM": "Vektör ile ilgili hesaplama yapar.\nVektör kavramı açıklanır.\n Vektör ile ilgili hesaplamalar yaptırılır."
     },
     {
-      "ÜNİTE": "Uzay Geometrisi",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
@@ -72,7 +64,6 @@
       "KAZANIM": "Geometrik kavramları tanımlar.\nDüzgün çokgen elips çember gibi kavramları tanımlanır.\n Hacim ve platonik cisimleri tanımlanır.\n Simetri asimetri veya izometri gibi kavramları tanımlanır."
     },
     {
-      "ÜNİTE": "Uzay Geometrisi",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
@@ -81,7 +72,6 @@
       "KAZANIM": "Geometrik kavramları tanımlar.\nDüzgün çokgen elips çember gibi kavramları tanımlanır.\n Hacim ve platonik cisimleri tanımlanır.\n Simetri asimetri veya izometri gibi kavramları tanımlanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Uzay Geometrisi",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
@@ -99,7 +88,6 @@
       "KAZANIM": "Ürün tasarım için kullanılacak geometriyi belirler.\nDüzlemi tanımlanır.\n Hacmi tanımlanır.\n Düzlemden hacime geçişi belirlenir."
     },
     {
-      "ÜNİTE": "Uzay Geometrisi",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
@@ -108,7 +96,6 @@
       "KAZANIM": "Ürün tasarım için kullanılacak geometriyi belirler.\nDüzlemi tanımlanır.\n Hacmi tanımlanır.\n Düzlemden hacime geçişi belirlenir."
     },
     {
-      "ÜNİTE": "Uzay Geometrisi",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
@@ -117,7 +104,6 @@
       "KAZANIM": "Ürün tasarımı için geometrik öğeleri kullanır.\nKenar açı yüzey veya arakesit gibi geometrik öğeleri hesaplanır.\n Ürünün ihtiyaçlarına uygun geometriyi tasarlanır.\n Ürün için tasarlanmış geometriyi uygular."
     },
     {
-      "ÜNİTE": "Uzay Geometrisi",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
@@ -126,7 +112,6 @@
       "KAZANIM": "Ürün tasarımı için geometrik öğeleri kullanır.\nKenar açı yüzey veya arakesit gibi geometrik öğeleri hesaplanır.\n Ürünün ihtiyaçlarına uygun geometriyi tasarlanır.\n Ürün için tasarlanmış geometriyi uygular."
     },
     {
-      "ÜNİTE": "Uzay Geometrisi",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
@@ -135,7 +120,6 @@
       "KAZANIM": "Ürün tasarımı için geometrik öğeleri kullanır.\nKenar açı yüzey veya arakesit gibi geometrik öğeleri hesaplanır.\n Ürünün ihtiyaçlarına uygun geometriyi tasarlanır.\n Ürün için tasarlanmış geometriyi uygular."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
@@ -144,7 +128,6 @@
       "KAZANIM": "Ölçme işlemini yapar.\nUzaklık kütle ve zaman kavramları açıklanır.\n Farklı birim sistemlerinde kullanılan uzunluk ve kütle dönüşümlerinin yapılması sağlanır.\n Yapmış olduğu hesaplardaki hata miktarlarının tespit edilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
@@ -152,7 +135,6 @@
       "KAZANIM": "Vektörlerle ilgili işlemler yapar.\nKoordinat sistemleri açıklanır.\n Bir cismin koordinat sistemindeki konumu belirlenir.\n Bir cismin koordinat sistemindeki uzaklığı tayin edilir.\n Bir cismin koordinat sisteminde yön tayini yapılır."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
@@ -161,7 +143,6 @@
       "KAZANIM": "Bir ve iki boyutta hareketleri açıklar.\nBir cismin hareketinin yönü ve hızı zamana göre açıklanır.\n Hızın zamana göre yön veya büyüklüğünün değişebileceği açıklanır.\n İvme kavramı açıklanır.\n Birbirinden bağımsız eksenlere göre cisimlerin hareketi açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
@@ -193,7 +171,6 @@
       "KAZANIM": "Hareketin nedenlerini analiz eder.\nEylemli ve eylemsiz referans sistemleri açıklanır.\n İvmenin kaynağı çözümlenir.\n Cisimlerin birbirlerine olan karşılıklı etki ve tepkilerini açıklanır.\n Dairesel hareketleri açıklanır."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
@@ -201,7 +178,6 @@
       "KAZANIM": "Enerji aktarımını açıklar.\nFizikte iş kavramı açıklanır.\n Yapılan işin enerji aktarımı olduğu ifade edilir.\n Bir cismin konumu ve hareketi nedeniyle sahip olduğu enerjilerinin arasındaki fark betimlenir."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
@@ -209,7 +185,6 @@
       "KAZANIM": "Çizgisel momentum ve çarpışmayı açıklar.\nÇizgisel momentum açıklanır.\n Korunum kavramları açıklanır.\n Bir ve iki boyutta çarpışma olayları analiz edilir."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
@@ -218,7 +193,6 @@
       "KAZANIM": "Bir katı cismin bir eksen etrafında dönmesini analiz eder.\nAçısal konum açısal hız ve açısal ivmenin değerlendirmesi yapılır.\n Açısal ve çizgisel kavramlar ilişkilendirilir.\n Cisimlerin dönmesine sebep olan etki analiz edilir.\n Farklı kütle ve geometrik yapılara göre cisimlerin belirli bir eksen etrafında döndürülmeleri açıklanır.\n Bir katı cismin yuvarlanması analiz edilir."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
@@ -227,7 +201,6 @@
       "KAZANIM": "Denge kavramını açıklar.\nDengenin şartları tanımlanır.\n Ağırlık merkezi ve kütle merkezi arasındaki fark açıklanır."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
@@ -236,7 +209,6 @@
       "KAZANIM": "Denge kavramını açıklar.\nDengenin şartları tanımlanır.\n Ağırlık merkezi ve kütle merkezi arasındaki fark açıklanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
@@ -254,7 +225,6 @@
       "KAZANIM": "Denge kavramını açıklar.\nDengenin şartları tanımlanır.\n Ağırlık merkezi ve kütle merkezi arasındaki fark açıklanır."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
@@ -263,7 +233,6 @@
       "KAZANIM": "Denge kavramını açıklar.\nDengenin şartları tanımlanır.\n Ağırlık merkezi ve kütle merkezi arasındaki fark açıklanır."
     },
     {
-      "ÜNİTE": "Havacılık Fiziği",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
@@ -272,7 +241,6 @@
       "KAZANIM": "Denge kavramını açıklar.\nDengenin şartları tanımlanır.\n Ağırlık merkezi ve kütle merkezi arasındaki fark açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
@@ -281,7 +249,6 @@
       "KAZANIM": "Atmosfer ve uzay koşulları hakkında temel kavramları açıklar.\nAtmosfer koşulları açıklanır.\n Uzay koşulları açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
@@ -290,7 +257,6 @@
       "KAZANIM": "Atmosfer ve uzay koşulları hakkında temel kavramları açıklar.\nAtmosfer koşulları açıklanır.\n Uzay koşulları açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
@@ -299,7 +265,6 @@
       "KAZANIM": "Atmosfer ve uzay koşulları hakkında temel kavramları açıklar.\nAtmosfer koşulları açıklanır.\n Uzay koşulları açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
@@ -308,7 +273,6 @@
       "KAZANIM": "Aerodinamik kavramını açıklar.\nAerodinamik etkiler açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
@@ -317,7 +281,6 @@
       "KAZANIM": "Aerodinamik kavramını açıklar.\nAerodinamik etkiler açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
@@ -326,7 +289,6 @@
       "KAZANIM": "Aerodinamik kavramını açıklar.\nAerodinamik etkiler açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
@@ -335,7 +297,6 @@
       "KAZANIM": "Uçuş teorisi temellerini açıklar.\nUçuş teorisi kavramı açıklanır.\n Havacılık terimleri açıklanır.\n Havacılık ve uzay tarihi açıklanır.\n Havauzay araçları türleri açıklanır.\n Hava araçlarının kumanda yüzeyleri açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
@@ -344,7 +305,6 @@
       "KAZANIM": "Uçuş teorisi temellerini açıklar.\nUçuş teorisi kavramı açıklanır.\n Havacılık terimleri açıklanır.\n Havacılık ve uzay tarihi açıklanır.\n Havauzay araçları türleri açıklanır.\n Hava araçlarının kumanda yüzeyleri açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
@@ -353,7 +313,6 @@
       "KAZANIM": "Uçuş teorisi temellerini açıklar.\nUçuş teorisi kavramı açıklanır.\n Havacılık terimleri açıklanır.\n Havacılık ve uzay tarihi açıklanır.\n Havauzay araçları türleri açıklanır.\n Hava araçlarının kumanda yüzeyleri açıklanır."
     },
     {
-      "ÜNİTE": "Havacılığın Temelleri",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
@@ -362,7 +321,6 @@
       "KAZANIM": "Uçuş teorisi temellerini açıklar.\nUçuş teorisi kavramı açıklanır.\n Havacılık terimleri açıklanır.\n Havacılık ve uzay tarihi açıklanır.\n Havauzay araçları türleri açıklanır.\n Hava araçlarının kumanda yüzeyleri açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",
@@ -371,19 +329,15 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Ortam Havacılık ve uzay atölyesi matematik laboratuvarı fizik laboratuvarı\nDonanım Etkileşimli tahtaprojeksiyon bilgisayar yazıcıtarayıcı bilgisayar donanımı resim masası örnek model parçalar makine parçaları çizim araç gereçleri ölçme ve kontrol araç gereçleri",
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Bu derste öğrenci performansı belirlemeye yönelik çalışmalar değerlendirilirken gözlem formu derecelendirme ölçeği ve dereceli puanlama anahtarı gibi ölçme araçlarından uygun olanlar seçilerek kullanılabilir. Bunun yanında öz değerlendirme ve akran değerlendirme formları kullanılarak öğrencilerin öğretimin süreç boyutuna katılmaları sağlanabilir.",
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Havacılık ve Uzay Bilimlerinde Matematiksel Yöntemler 1. Matris Lineer Cebir Vektör ile ilgili farklı örneklerle hesaplamalar yapma.\nUzay Geometrisi 1. Kullanılacak farklı geometrik öğeleri ile ilgili örnek olay inceleme.\n2. Rapor hazırlama ve sunma.\nHavacılık Fiziği 1. Uzaklık kütle ve zaman ile ilgili sorun ve problem çözme.\n2. Bir katı cismin bir eksen etrafında dönmesini inceleme.\nHavacılığın Temelleri 1. Atmosfer ve uzay koşulları araştırılarak sunu modelleme yapma.\n2. Basit Hava araçlarının kumanda yüzeylerini tasarlama.",
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "* * Bu plan Talim Terbiye Kurulunun yayınladığı Çerçeve Öğretim Programı ve Ders Bilgi Formlarına göre hazırlanmıştır. ATATÜRKÇÜLÜK konuları ile ilgili olarak Talim ve Terbiye Kurulu Başkanlığının 2104 ve 2488 sayılı Tebliğler Dergisinden yararlanılmıştır.",
       "KAZANIM": "-"
     }
   ]

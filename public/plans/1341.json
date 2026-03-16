@@ -3,7 +3,6 @@
   "ders": "Ki̇myasal Ve Fi̇zi̇ksel Test Laboratuvari(Yeni*)-11",
   "plan": [
     {
-      "ÜNİTE": "Standartlar",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "4",
@@ -12,7 +11,6 @@
       "KAZANIM": "Kalite Ve Standart Kavramlarını Açıklar.\n Avrupa Test Standartlarının Özelliklerini Açıklar.\nKalitenin tanımı ve önemini açıklar\n       Standardın tanımı ve önemini açıklar\n       Kalitenin önemini hazırladığı bir sunumda gösterir.\n       Standardın tanımını gösteren bir tablo yapar.\n       Avrupa test standartlarını açıklar\n       TSEyi açıklar\n       BSyi açıklar\n       ISOyu açıklar\n       DINi açıklar\n       JISi açıklar\n       Avrupa test standartları arasındaki farkları açıklar\n       Avrupa test standartlarını hazırladığı bir sunumda gösterir.\n       Avrupa test standartlarını diğer standartlarla hazırladığı bir tabloda karşılaştırır."
     },
     {
-      "ÜNİTE": "Standartlar",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "4",
@@ -21,7 +19,6 @@
       "KAZANIM": "Amerika Test Standartlarının Özelliklerini Açıklar.\nAmerika test standartlarını açıklar\n       AATCC standardını açıklar\n       ASTM standardını açıklar\n       Amerika test standartları arasındaki farkları açıklar\n       Amerika test standartlarını hazırladığı bir sunumda açıklar.\n       Amerika test standartlarını diğer standartlarla hazırladığı bir tabloda karşılaştırır."
     },
     {
-      "ÜNİTE": "Laboratuvarı Ve Numuneyi Hazırlama",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
@@ -29,7 +26,6 @@
       "KAZANIM": "Laboratuvarın Ortam Koşullarını Kontrol Eder.\n Numuneyi Standarda Uygun Hazırlar\nCihazların bakımını açıklar\n       Cihazların temizliğini açıklar\n       Genel kalibrasyon eğitimini açıklar\n       Sertifika okumayı açıklar\n       Cihazı doğrulamayı açıklar\n       Laboratuvarın uygun atmosfer koşullarında olmasını sağlamayı açıklar\n       Laboratuvarın dış ortamdan etkilenmemesini\n       Sıcaklık- Nem kaydedici ve klima arasındaki farklılıkları açıklar\n       Sapmaları düzeltmeyi açıklar\n       Laboratuvarın akredite kalmasını sağlamayı açıklar.\n       Cihazların bakımını yapar\n       Cihazların temizliğini yapar\n       Cihazları doğrulamayı gösterir\n       Laboratuvarın teste uygun atmosfer koşullarında olmasını sağlar\n       Laboratuvarın sürekli kontrollerini yaparak akredite kalmasını sağlar\n       Teste uygun parça almayı açıklar\n       Avrupa standartlarına uygun parça almayı açıklar\n       Amerika standartlarına uygun parça almayı açıklar\n       Kondüsyonlamayı açıklar\n       Kondüsyonlamanın önemini açıklar\n       Ön kondüsyonu açıklar\n       Asıl kondüsyonu açıklar\n       Avrupa ve Amerika standartlarına uygun büyüklükte parça alır\n       Ön kondüsyonlamayı ve asıl Kondüsyonlamayı yapar"
     },
     {
-      "ÜNİTE": "Numune Kabulü",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "4",
@@ -38,7 +34,6 @@
       "KAZANIM": "Müşteriden numune teslim alma ile ilgili işlemleri yapar.\n Test Numunesini Sisteme Kaydeder.\nTest talep formu doldurmayı açıklar\n       Müşteriyi bilgilendirmeyi açıklar\n       Testin süresini açıklar\n       Testin ücretini açıklar\n       Test talep formunu doldurur\n       Eksik bilgiyi tamamlar\n       Eksik numuneyi tamamlar\n       Test talep formuna testin süresi ve ücretini yazar\n       Yapılacak testlerle ilgili müşteriyi bilgilendirme formu düzenler\n       Test Numunesini Numaralandırmayı açıklar\n       Test numunesinin numaralandırılmasının önemini açıklar\n       Test numunesinin numaralandırılmasında gizliliğini açıklar\n       İstenilen Testleri Sisteme Girmeyi açıklar\n       Testler İçin Çalışma Kâğıdı Hazırlamayı açıklar\n       Test numunesine numara verir\n       Testleri sisteme girer\n       Testler için çalışma kâğıdı hazırlar"
     },
     {
-      "ÜNİTE": "Boyutsal Değişim Ve Görünüm Testleri",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "4",
@@ -47,7 +42,6 @@
       "KAZANIM": "Yıkama Sonrası Boyutsal Değişim Ve Görünüm Testini Yapar.\n Buharlama Sonrası Boyutsal Değişim Ve Görünüm Testini Yapar.\nYıkama sonrası boyutsal değişim ve görünüm testinin Amacını açıklar.\n       Testin yapılışını açıklar\n       Teste uygun parça almayı açıklar\n       Kondüsyonlamayı açıklar\n       Ölçüm aralıklarını işaretlemeyi açıklar\n       Standarda uygun yıkamayı açıklar\n       Avrupa Standartlarına uygun yıkama işlemini açıklar\n       Amerika Standartlarına uygun yıkama işlemini açıklar\n       Yıkama Makinelerini açıklar\n       Avrupa Standartlarında kullanılan makineleri açıklar\n       Amerika Standartlarında kullanılan makineleri açıklar\n       Boyutsal değişim yüzdesi hesaplama işlemini açıklar\n       Test numunesinin Görünümüne bakmayı kavrar\n       Teste uygun büyüklükte parçayı keserek hazırlar\n       Numuneyi kondüsyonlar\n       Ölçüm aralıklarını işaretler\n       Standartlara uygun yıkama işlemini yapar\n       Standartalara uygun Kurutma işlemini yapar\n       Yeniden kondüsyonlama işlemini yapar\n       Boyutsal değişim yüzdesini hesaplar\n       Test numunesinin Görünümüne bakar\n       Buharlama sonrası boyutsal değişim ve görünüm testinin Amacını açıklar.\n       Testin yapılışını açıklar\n       Teste uygun parça almayı açıklar\n       Kondüsyonlamayı açıklar\n       Ölçüm aralıklarını işaretlemeyi açıklar\n       Buharlama işlemini açıklar\n       Boyutsal değişim yüzdesi hesaplamayı açıklar\n       Test numunesinin Görünümüne bakmayı açıklar\n       Teste uygun büyüklükte parça keserek hazırlar\n       Numuneyi kondüsyonlar\n       Ölçüm aralıklarını işaretler\n       Standartlara uygun buharlama işlemini yapar\n       İşaretlenen aralıkları ölçer\n       Boyutsal değişim yüzdesini hesaplar\n       Test numunesinin Görünümüne bakar"
     },
     {
-      "ÜNİTE": "Boyutsal Değişim Ve Görünüm Testleri",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
@@ -55,7 +49,6 @@
       "KAZANIM": "Kuru Isı Sonrası Boyutsal Değişim Ve Görünüm Testini Yapar.\nKuru ısı sonrası boyutsal değişim ve görünüm testinin Amacını açıklar.\n       Testin yapılışını açıklar\n       Teste uygun parça almayı açıklar\n       Kondüsyonlamayı açıklar\n       Ölçüm aralıklarını işaretlemeyi açıklar\n       Kuru ısı ile muamele işlemini açıklar\n       Boyutsal değişim yüzdesi hesaplamayı açıklar\n       Test numunesinin Görünümüne bakmayı açıklar\n       Teste uygun büyüklükte parça keserek hazırlar\n       Numuneyi kondüsyonlar\n       Ölçüm aralıklarını işaretler\n       Numuneyi kuru ısıya tabi tutar\n       İşaretlenen aralıkları ölçer\n       Boyutsal değişim yüzdesini hesaplar\n       Test numunesinin Görünümüne bakar."
     },
     {
-      "ÜNİTE": "Boyutsal Değişim Ve Görünüm Testleri",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "4",
@@ -63,7 +56,6 @@
       "KAZANIM": "Kuru Temizleme Sonrası Boyutsal Değişim Ve Görünüm Testini Yapar.\nKuru temizleme sonrası boyutsal değişim ve görünüm testinin Amacını açıklar\n       Testin yapılışını açıklar\n       Teste uygun parça almayı açıklar\n       Kondüsyonlamayı açıklar\n       Ölçüm aralıklarını işaretlemeyi açıklar\n       Kuru Temizleme Makinelerini açıklar\n       Boyutsal değişim yüzdesi hesaplamayı açıklar\n       Test numunesinin Görünümüne bakmayı açıklar\n       Teste uygun büyüklükte parça keserek hazırlar\n       Numuneyi kondüsyonlar\n       Ölçüm aralıklarını işaretler\n       Numuneyi kuru ısıya tabi tutar\n       İşaretlenen aralıkları ölçer\n       Boyutsal değişim yüzdesini hesaplar\n       Test numunesinin görünümüne bakar."
     },
     {
-      "ÜNİTE": "Kimyasal Testler",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "4",
@@ -72,7 +64,6 @@
       "KAZANIM": "Su Geçirmezlik Testi Yapar.\n Su Emicilik Kapilarite  Testi Yapar.\nSu Geçirmezlik Testinin Amacını açıklar.\n       Kullanılan Yöntemleri açıklar\n       Kova test yöntemini açıklar.\n       Sprey test yöntemini açıklar\n       Sabit  hızla  artan  su  basıncında  yapılan  testi açıklar\n       Yağmurlama test yöntemini açıklar\n       Testin Uygulanışını açıklar\n       Testin Değerlendirilmesini açıklar\n       Su   geçirmezlik   testi   için   Test   Numunesini hazırlar\n       Su geçirmezlik Kova test yöntemini uygular\n       Su geçirmezlik Sprey test yöntemini uygular\n       Sabit  hızla  artan  su  basıncında  yapılan  testi uygular\n       Yağmurlama test yöntemini uygular\n       Su geçirmezlik testini değerlendirir.\n       Su emicilik kapilarite Testini açıklar\n       Kapilarite Test Standartlarını açıklar\n       Testin Başlama Ve Bitim Zamanını belirlemeyi açıklar\n       Testin Uygulanışını açıklar\n       Testin Değerlendirilmesini açıklar\n       Su   emicilik   kapilarite   testi   için   numuneyi hazırlar\n       Kronometreyi başlatır\n       Testi uygular\n       Kronometreyi durdurur\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kimyasal Testler",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "4",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Kir İticilik Yağ İticilik Testi Yapar.\n Yün İçin Alkalide Çözünebilirlik Testi Yapar.\nKir iticilik yağ iticilik Testinin Amacını açıklar.\n       Teste  uygun  büyüklükte  numune  hazırlamayı açıklar.\n       Kirleri açıklar.\n       Yağları açıklar.\n       Testin Yapılışını açıklar.\n       Test Sonrası görsel değerlendirmeyi açıklar.\n       Teste uygun büyüklükte parça keser\n       Tanımlı kirleri hazırlar\n       Standart yağları hazırlar\n       Testi uygular\n       Testi değerlendirir.\n       Yün İçin Alkalide Çözünebilirlik Testinin Amacını açıklar.\n       Deney Numunesinin Temizlenmesini açıklar\n       Kuru Numunenin Tartımını açıklar\n       Testin Yapılışını açıklar\n       Test Sonucunu Hesaplamayı açıklar\n       Deney numunesini temizler\n       Kuru numuneyi tartarak hazırlar\n       Testi uygular\n       Testin sonucunu hesaplar"
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "4",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Kimyasal Testler",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "4",
@@ -99,7 +88,6 @@
       "KAZANIM": "Dokunmuş Ve Örülmüş Yünlü Tekstil Mamullerinde Gevşeme Sıkılaşma Ve Keçeleşme Nedeniyle Meydana Gelen Boyut Değişimlerinin Tayinini Yapar.\n Yıkanmış  Yünde  Bitkisel  Madde  Ve  Alkalide Çözünmeyen Yabancı Madde Testi Yapar.\nDokunmuş ve örülmüş yünlü tekstil mamullerinde gevşeme sıkılaşma ve keçeleşme nedeniyle meydana gelen boyut değişimlerinin tayininin Amacını açıklar.\n       Keçeleşme Çekmesinin Tanımını açıklar\n       Dinlendirme Çekmesinin Tanımını açıklar\n       Deney Numunesini Hazırlamayı açıklar\n       Dokuma kumaş numunesini açıklar\n       Örgü kumaş numunesini açıklar\n       Çorap numunesini açıklar\n       Testi Uygulamayı açıklar\n       Keçeleşme çekmesini açıklar\n       Dinlendirme çekmesi açıklar\n       Test Sonucunu Hesaplamayı açıklar\n       Deney numunesi hazırlar.\n       Keçeleşme çekmesi testini uygular\n       Dinlendirme çekmesi testini uygular\n       Test sonucunu hesaplar.\n       Yıkanmış Yünde Bitkisel Madde ve Alkalide Çözünmeyen Yabancı Madde Testinin Amacını açıklar\n       Deney Numunesini Hazırlamayı açıklar\n       Testin Yapılışını açıklar\n       Sodyum Hidroksit çözeltisinde tamamen çözünen yün çeşitleri için kavrar\n       Sodyum Hidroksit çözeltisinde çözünmeyen kaba ve sert halı yünleri için kavrar\n       Süzme işlemini açıklar.\n       Kurutma Ve Yakma işlemlerini açıklar\n       Test Sonucunu Hesaplamayı açıklar\n       Deney numunesi hazırlar\n       Testi uygular\n       Numuneyi süzer\n       Numuneyi kurutma ve yakma işlemlerini uygular\n       Test sonucunu hesaplar"
     },
     {
-      "ÜNİTE": "Su İle Yapılan Renk Haslığı Testleri",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "4",
@@ -108,7 +96,6 @@
       "KAZANIM": "Su Haslığı Testi Yapar\nSu Haslığı Testinin Amacını açıklar\n       Refakat Kumaşı ile Numuneyi Dikmeyi açıklar\n       Suda Bekletmeyi açıklar\n       Fazla Suyu Uzaklaştırma Ve Bekletmeyi açıklar\n       Perspirometreyi açıklar\n       Su Haslığı Testinin Değerlendirilmesini açıklar\n       Işık  kabininde  D65  gün  ışığında  incelemeyi açıklar\n       Gri skalayı açıklar\n       Değerlendirmeyi 2. şahısa göstermeyi açıklar\n       Teste uygun büyüklükte parça keser\n       Refakat kumaşıyla numuneyi diker\n       Test numunesini Suda bekletir\n       Fazla suyu uzaklaştırıp bekletir\n       Numuneyi Kurutur\n       Testi Değerlendirir\n       Teste uygun büyüklükte parça keser"
     },
     {
-      "ÜNİTE": "Su İle Yapılan Renk Haslığı Testleri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "4",
@@ -117,7 +104,6 @@
       "KAZANIM": "Yıkama Haslığı Testi Yapar.\nYıkama Haslığı Testinin Amacını açıklar\n       Refakat Kumaşı İle Numuneyi Dikmeyi açıklar\n       Yıkamayı açıklar\n       Yıkama makinelerini hazırlamayı açıklar\n       Yıkama şartlarını açıklar\n       Yıkama Makinelerini açıklar\n       Avrupa  standartlarında  kullanılan   makineleri açıklar\n       Amerika  standartlarında  kullanılan  makineleri açıklar\n       Testin Değerlendirilmesini açıklar\n       Işık  kabininde  D65  gün  ışığında  incelemeyi açıklar\n       Gri skalayı açıklar\n       Değerlendirmeyi 2. şahısa göstermeyi açıklar\n       Teste uygun büyüklükte parça keser\n       Refakat kumaşıyla numuneyi diker\n       Yıkama makinesinde yıkar\n       Numuneyi Kurutur\n       Testi değerlendirir."
     },
     {
-      "ÜNİTE": "Su İle Yapılan Renk Haslığı Testleri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "4",
@@ -126,7 +112,6 @@
       "KAZANIM": "Su Damlamasına Karşı Renk Haslığı Testi Yapar.\nSu Damlamasına Karşı Renk Haslığı Testinin Amacını açıklar\n       Testin Yapılışını açıklar\n       Numunenin Kurutulmasını açıklar\n       Test Sonrası Değerlendirmeyi açıklar\n       Gri skalayı açıklar\n       Numunenin üzerine su damlatır\n       Numuneyi kurutur\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kimyasal Maddelerle Yapılan Renk Haslığı Testleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "4",
@@ -135,7 +120,6 @@
       "KAZANIM": "Ter Haslığı Testi Yapar.\n Klorlu - Klorsuz Beyazlatma Haslığı Testi Yapar.\nTer haslığı testinin amacını açıklar\n       Refakat kumaşı ile numuneyi dikmeyi açıklar\n       Numuneleri ter çözeltilerinde bekletmeyi açıklar\n       Ter çözeltileri hazırlamayı açıklar\n       Bekletme şartlarını açıklar\n       Fazla çözeltiyi uzaklaştırıp bekletmeyi açıklar\n       Perspirometreyi açıklar\n       Testin değerlendirilmesini açıklar\n       Işık kabininde D65 gün ışığında incelemeyi açıklar\n       Gri skalayı açıklar\n       Değerlendirmeyi 2. Şahısa göstermeyi açıklar\n       Teste uygun büyüklükte parça keser\n       Refakat kumaşıyla numuneyi  diker\n       Numuneleri ter çözeltilerinde bekletir\n       Fazla çözeltiyi uzaklaştırıp bekletir\n       Numuneyi kurutur\n       Klorlu beyazlatma haslığı testinin amacını açıklar\n       Teste uygun büyüklükte parça kesmeyi açıklar\n       Çözeltileri hazırlamayı açıklar\n       Hipoklorit çözeltisini açıklar\n       Potasyum dihidrojen fosfat çözeltisini açıklar\n       Disodyum hidrojen fosfat dihidrat çözeltisini açıklar\n       Çözeltilerin karıştırılmasını açıklar\n       Hazırlanan yeni çözeltide işlem yapmayı açıklar\n       Testi değerlendirmeyi açıklar\n       Teste uygun büyüklükte parça keser\n       Çözeltileri hazırlama ve karıştırmak\n       Hazırlanan yeni çözelti ile işlem yapar\n       Testi değerlendirir\n       Klorsuz beyazlatma haslığı testinin amacını açıklar\n       Teste uygun büyüklükte parça kesmeyi açıklar\n       Kullanılan yıkama maddelerini açıklar\n       Yıkama makinelerini açıklar\n       Testin değerlendirilmesini açıklar\n       Işık kabininde D65 gün ışığında incelemeyi kavrar\n       Gri skalayı kavrar\n       Değerlendirmeyi 2. Şahısa göstermeyi açıklar\n       Teste uygun büyüklükte parça keser\n       Uygun deterjanla numuneyi yıkar\n       Numuneyi kurutur\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kimyasal Maddelerle Yapılan Renk Haslığı Testleri",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "4",
@@ -144,7 +128,6 @@
       "KAZANIM": "Tükürük Haslığı Testi Yapar.\n Deniz Suyu -Havuz Suyu Haslığı Testi Yapar.\nTükürük haslığı testinin amacını açıklar.\n       Tükürük çözeltisi hazırlamayı açıklar\n       Numune ve refakat kâğıdını hazırlamayı açıklar\n       Numuneyi çözeltide bekletmeyi açıklar\n       Numuneyi kurutmayı açıklar\n       Testi değerlendirmeyi açıklar\n       Işık kabininde D65 gün ışığında incelemeyi açıklar\n       Gri skalayı açıklar\n       Değerlendirmeyi 2. Şahısa göstermeyi kavrar\n       Tükürük çözeltisi hazırlar\n       Numune ve refakat kâğıdını hazırlar\n       Numuneyi çözeltide bekletir\n       Numuneyi kurutur\n       Testi değerlendirir\n       Deniz suyu haslığı testinin amacını açıklar\n       Teste uygun büyüklükte parça kesmeyi açıklar\n       Ulusal ve uluslararası ulusal ve uluslararası standartlar doğrultusunda çözelti hazırlama ve bekletmeyi açıklar\n       Amerika standartlarına uygun çözeltiyi açıklar\n       Avrupa standartlarına uygun çözeltiyi açıklar\n       Numuneyi kurutmayı açıklar\n       Testi değerlendirmeyi açıklar\n       Işık kabininde D65 gün ışığında incelemeyi açıklar\n       Gri skalayı açıklar\n       Değerlendirmeyi 2. şahısa göstermeyi kavrar\n       Teste uygun büyüklükte parça keser\n       Standarda uygun çözeltide bekletir\n       Numuneyi kurutur\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kimyasal Maddelerle Yapılan Renk Haslığı Testleri",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "4",
@@ -152,7 +135,6 @@
       "KAZANIM": "Kuru Temizleme Haslığı Testi Yapar.\nKuru temizleme haslığı testinin amacını açıklar\n       Numune hazırlamayı açıklar\n       Çelik bilyeler ve torbanın hazırlanmasını açıklar\n       Testin yapılışını açıklar\n       Test sonrası numunenin kurutulmasını açıklar\n       Test sonrası değerlendirmeyi açıklar\n       Gri skalayı açıklar\n       Numuneyi hazırlar\n       Çelik bilyelerin konacağı torbayı hazırlar\n       Testi uygular\n       Numuneyi kurutur\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kimyasal Maddelerle Yapılan Renk Haslığı Testleri",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "4",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  Alkali-Asit Damlamasına Karşı Renk Haslığı Testi Yapar.\nAlkali damlamasına karşı renk haslığı testinin amacını açıklar\n       Numuneyi hazırlamayı açıklar\n       Testin yapılışını açıklar\n       Test sonrası değerlendirmeyi açıklar\n       Gri skalayı açıklar\n       Numuneyi hazırlar\n       Numune üzerine alkali damlatır\n       Numuneyi kurutur\n       Testi değerlendirir\n       Asit damlamasına karşı renk haslığı testinin amacını açıklar\n       Numuneyi hazırlamayı açıklar\n       Testin yapılışını açıklar\n       Test sonrası değerlendirmeyi açıklar\n       Gri skalayı açıklar\n       Numuneyi hazırlar\n       Numune üzerine asit damlatmak\n       Numuneyi kurutmak\n       Testi değerlendirmek"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Dokusuz Yüzeylere Emme Testleri",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "4",
@@ -193,7 +171,6 @@
       "KAZANIM": "Sıvı Emme Zamanı Testini Yapar.\n Sıvı Emme Kapasitesi Testini Yapar.\nSıvı emme zamanı testi için numune hazırlamayı açıklar\n       Silindirik tel sepeti açıklar\n       Sıvı emme zamanı testini açıklar\n       Sıvı emme zamanı testi için numune hazırlar\n       Silindirik tel sepeti kullanır\n       Sıvı emme zamanı testini yapar\n       Sıvı   emme   kapasitesi   testi   için   numune hazırlamayı açıklar\n       Kelepçeli tel örgüyü açıklar\n       Sıvı emme kapasitesi testini açıklar\n       Sıvı   emme   kapasitesi   testi   için   numune hazırlar\n       Kelepçeli tel örgüyü kullanır\n       Sıvı emme kapasitesi testini yapar"
     },
     {
-      "ÜNİTE": "Dokusuz Yüzeylere Emme Testleri",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "4",
@@ -201,7 +178,6 @@
       "KAZANIM": "Kapilarite Testini Yapar.\n Sıvı İdrar Nüfuz Zamanı Testini Yapar.\nKapilarite testi için numune hazırlamayı açıklar\n       Kapilarite testi deney düzeneğini açıklar\n       Kapilarite testini açıklar\n       Kapilarite testi için numune hazırlar\n       Kapilarite testi deney düzeneğini kullanır\n       Kapilarite testini yapar\n       Sıvı idrar nüfuz zamanı testi için numune hazırlamayı açıklar\n       Sıvı idrar nüfuz zamanı testi düzeneğini açıklar.\n       Sıvı idrar nüfuz zamanı testini açıklar\n       Sıvı idrar nüfuz zamanı testinin Hesaplamalarını açıklar\n       Sıvı idrar nüfuz zamanı testinin Değerlendirilmesini açıklar\n       Sıvı idrar nüfuz zamanı testi için numune hazırlar\n       Sıvı idrar nüfuz zamanı testi deney düzeneğini kullanır\n       Sıvı idrar nüfuz zamanı testini yapar"
     },
     {
-      "ÜNİTE": "Dokusuz Yüzeylere Emme Testleri",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "4",
@@ -209,7 +185,6 @@
       "KAZANIM": "Sıvı Bırakma Testini Yapar.\n Sıvı Bariyer Testini Yapar.\nSıvı bırakma testi için numune hazırlamayı açıklar\n       Sıvı bırakma testi düzeneğini açıklar\n       Sıvı bırakma testini açıklar\n       Sıvı bırakma testinin Hesaplamalarını açıklar\n       Sıvı bırakma testinin Değerlendirilmesini açıklar\n       Sıvı bırakma testi için numune hazırlar\n       Sıvı bırakma testi deney düzeneğini kullanır\n       Sıvı bırakma testini yapar\n       Sıvı bariyer testi için numune hazırlamayı açıklar\n       Sıvı bariyer testi deney düzeneğini açıklar\n       Sıvı bariyer testini açıklar\n       Sıvı bariyer testinin Hesaplamalarını açıklar\n       Sıvı bariyer testinin Değerlendirilmesini açıklar\n       Sıvı bariyer testi için numune hazırlar\n       Sıvı bariyer testi deney düzeneğini kullanır\n       Sıvı bariyer testini yapar"
     },
     {
-      "ÜNİTE": "Renk Karşılaştırması",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "4",
@@ -218,7 +193,6 @@
       "KAZANIM": "Renk karşılaştırma için numune ve cihazı hazırlar.\nRenk karşılaştırmanın amacını açıklar\n       Renk karşılaştırma için numune hazırlamayı açıklar\n       Spektrofotometreyi açıklar\n       Spektrofotometreyi renk karşılaştırma için hazırlamayı açıklar\n       Uygun büyüklükte numune hazırlar\n       Spektrometreyi kullanıma hazır hale getirir"
     },
     {
-      "ÜNİTE": "Renk Karşılaştırması",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "4",
@@ -227,7 +201,6 @@
       "KAZANIM": "Spektrofotometre Kullanarak Değerlendirme Yapar.\nSpektrofotometreye numunenin yerleştirilmesini açıklar\n       Spektrofotometre kullanımını açıklar\n       Değerleri almayı açıklar\n       Renk değerlendirmesini açıklar\n       Numuneyi spektrofotometreye yerleştirir\n       Spektrofotmetre kullanır\n       Renk karşılaştırması yapar"
     },
     {
-      "ÜNİTE": "Renk Karşılaştırması",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "4",
@@ -236,7 +209,6 @@
       "KAZANIM": "Spektrofotometre Kullanarak Değerlendirme Yapar.\nSpektrofotometreye numunenin yerleştirilmesini açıklar\n       Spektrofotometre kullanımını açıklar\n       Değerleri almayı açıklar\n       Renk değerlendirmesini açıklar\n       Numuneyi spektrofotometreye yerleştirir\n       Spektrofotmetre kullanır\n       Renk karşılaştırması yapar"
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "4",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Mekanik Yapılan Renk Haslığı Testleri",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "4",
@@ -254,7 +225,6 @@
       "KAZANIM": "Işık Haslığı Testi Yapar.\n Sürtme Haslığı Testi Yapar.\nIşık haslığı testinin amacını açıklar\n       Test uygun büyüklükte numune hazırlamayı açıklar\n       Standart mavi yünleri hazırlamayı açıklar\n       Işık haslığı test cihazlarını açıklar\n       Testin yapılışını açıklar\n       Testin değerlendirilmesini açıklar\n       Işık  kabininde  D65  gün  ışığında  incelemeyi açıklar\n       Mavi yün skalayı açıklar\n       Değerlendirmeyi 2. şahısa göstermeyi açıklar\n       Teste uygun büyüklükte numune hazırlar\n       Standart mavi yünleri hazırlar\n       Numuneyi ve standart mavi yünleri cihaza yerleştirir\n       Testi değerlendirir\n       Sürtme haslığı testinin amacını açıklar\n       Sürtme haslığı testi çeşitlerini açıklar\n       Yaş sürtme haslığını açıklar\n       Kuru sürtme haslığını açıklar\n       Sürtme cihazını  crockmetre  açıklar\n       Testin yapılışını açıklar\n       Testin değerlendirilmesini açıklar\n       Işık  kabininde  D65  gün  ışığında  incelemeyi açıklar\n       Gri skalayı açıklar\n       Değerlendirmeyi 2. şahısa göstermeyi açıklar\n       Numuneyi sürtme cihazına yerleştirir\n       Yaş ve kuru sürtme bezlerini hazırlar\n       Sürtme işlemini yapar\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Mekanik Yapılan Renk Haslığı Testleri",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "4",
@@ -263,7 +233,6 @@
       "KAZANIM": "Ütülemeye Karşı Renk Haslığı Testi Yapar.\n Hava Şartlarına Karşı Renk Haslığı Testi Yapar.\nÜtülemeye karşı renk haslığı testinin amacını açıklar\n       Numune ve refakat bezini hazırlama ve dikmeyi açıklar\n       Preslemeyi açıklar\n       Kuru preslemeyi açıklar\n       Nemli preslemeyi açıklar\n       Islak preslemeyi açıklar\n       Pres cihazını  hot plate  açıklar\n       Test sonrası değerlendirmeyi açıklar\n       Işık kabininde D65 gün ışığında incelemeyi açıklar\n       Gri skalayı açıklar\n       Değerlendirmeyi 2. şahısa göstermeyi açıklar\n       Numuneyi kondüsyonlamayı açıklar\n       Kondüsyonlama sonrası değerlendirmeyi açıklar\n       Numune ve refakat bezini hazırlar ve diker\n       Presleme işlemini yapar\n       Test sonrası değerlendirmeyi yapar\n       Numuneyi kondüsyonlar\n       Kondüsyonlama sonrası değerlendirmeyi yapar\n       Hava şartlarına karşı renk haslığı testinin amacını açıklar\n       Numune ve refakat bezini hazırlama ve dikmeyi açıklar\n       Testin uygulanışını açıklar\n       Açık havada uygulanan metodunu açıklar\n       Ksenon ark lambası metodunu açıklar\n       Test sonrası değerlendirmeyi açıklar\n       Mavi yün skalayı açıklar\n       Gri skalayı açıklar\n       Numuneyi ve refakat bezini hazırlar ve diker\n       Testi uygular\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Mekanik Yapılan Renk Haslığı Testleri",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "4",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav  Kuru Isıya Karşı Renk  Süblimasyon  Haslığı Testi Yapar.\nKuru  ısıya  karşı  renk    süblimasyon    haslığı testinin amacını açıklar\n       Numune ve refakat bezini hazırlamayı açıklar\n       Testin uygulanışını açıklar\n       Fixotest cihazını açıklar\n       Test sonrası değerlendirmeyi açıklar\n       Işık kabininde D65 gün ışığında incelemeyi açıklar\n       Gri skalayı açıklar\n       Numune ve refakat bezini hazırlar\n       Testi uygular\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Mukavemet Testleri",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "4",
@@ -281,7 +249,6 @@
       "KAZANIM": "Patlama Mukavemeti Testi Yapar.\n Kopma Mukavemeti Testi Yapar\nPatlama mukavemeti testinin amacını açıklar\n       Teste uygun numune hazırlamayı açıklar\n       Numuneyi kondüsyonlamayı açıklar\n       Testin uygulanışını açıklar\n       Patlama testi metotlarını açıklar\n       Yağ basıncı ile patlamayı açıklar\n       Hava basıncı ile patlamayı açıklar\n       Patlama   mukavemeti   değerini   hesaplamayı açıklar\n       Testi değerlendirmeyi açıklar\n       Teste uygun numune hazırlar\n       Numuneyi kondüsyonlar\n       Testi uygular\n       Patlama mukavemeti değerini hesaplar\n       Testi değerlendirir\n       Kopma mukavemeti testinin amacını açıklar\n       Teste uygun numune hazırlamayı açıklar\n       Numuneyi kondüsyonlamayı açıklar\n       Numuneyi test cihazına yerleştirmeyi açıklar\n       Testin yapılışını açıklar\n       Kopma mukavemeti test metotlarını açıklar\n       Grap metodunu açıklar\n       Strip metodunu açıklar\n       Testi değerlendirmeyi açıklar\n       Teste uygun numune hazırlar\n       Numuneyi kondüsyonlar\n       Numuneyi cihaza yerleştirir\n       Testi uygular\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Mukavemet Testleri",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "4",
@@ -290,7 +257,6 @@
       "KAZANIM": "Yırtılma Mukavemeti Testi Yapar.\n Dikiş Mukavemeti Testini Yapar.\nYırtılma mukavemeti testinin amacını açıklar\n       Teste uygun numune hazırlamayı açıklar\n       Numuneyi kondüsyonlamayı açıklar\n       Numuneyi test cihazına yerleştirmeyi açıklar\n       Testin yapılışını açıklar\n       Yırtılma mukavemeti test metotlarını açıklar\n       Sarkaçlı metodunu açıklar\n       Diğer metotları açıklar\n       Testi değerlendirmeyi açıklar\n       Teste uygun numune hazırlar\n       Numuneyi kondüsyonlar\n       Numuneyi cihaza yerleştirir\n       Testi uygular\n       Testi değerlendirir\n       Dikiş mukavemeti testinin amacını açıklar\n       Teste uygun numune hazırlamayı açıklar\n       Numuneyi kondüsyonlamayı açıklar\n       Testin uygulanışını açıklar\n       Çekme cihazını açıklar\n       Dikiş makinesini açıklar\n       Dikiş     mukavemeti     değerini     hesaplamayı açıklar\n       Testi değerlendirmeyi açıklar\n       Teste uygun numune hazırlar\n       Testi uygular\n       Dikiş mukavemeti değerini hesaplar\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kumaşta Fiziksel Testler",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "4",
@@ -299,7 +265,6 @@
       "KAZANIM": "Gramaj Tespiti Yapar.\n Doku  İplik  Sıklığı Testi Yapar.\nGramaj tespitinin amacını açıklar\n       Teste uygun numuneler hazırlamayı açıklar\n       Numuneleri kondüsyonlamayı açıklar\n       Numuneleri tartmayı açıklar\n       Ortalama sonuç bulmayı açıklar\n       Rapor hazırlamayı açıklar\n       Teste uygun numuneler hazırlar\n       Numuneleri kondüsyonlar\n       Numuneleri tartar\n       Ortalama sonuç bulur\n       Rapor hazırlar\n       Doku  iplik  sıklığı testinin amacını açıklar\n       Teste  uygun  büyüklükte  numune  hazırlamayı açıklar\n       Numuneyi sökme ve saymayı açıklar\n       Testin tekrarlanmasını açıklar\n       Testin değerlendirilmesini açıklar\n       Teste uygun büyüklükte numune hazırlar\n       Numuneyi söker ve sayar\n       Testi tekrarlar\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kumaşta Fiziksel Testler",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "4",
@@ -308,7 +273,6 @@
       "KAZANIM": "Elastikiyet  Geri Dönüşüm  Testi Yapar.\n Yanabilirlik Testi Yapar.\nElastikiyet    geri  dönüşüm    testinin  amacını açıklar\n       Teste uygun numune hazırlamayı açıklar\n       Dokuma kumaşı açıklar\n       Örme kumaşı açıklar\n       Kondüsyonlamayı açıklar\n       Numuneyi işaretlemeyi açıklar\n       Kullanılan cihaz hakkında bilgiyi açıklar\n       Testin uygulanışını açıklar\n       Test sonrası elastikiyet  geri dönüşüm \n       Teste uygun büyüklükte numune hazırlar\n       Numuneyi kondüsyonlar\n       Numuneye gerekli işaretlemeleri yapar\n        Numuneyi cihaza yerleştirir\n       Testi uygular\n       Numuneyi cihazdan çıkartıp elastikiyet  geri dönüşüm  yüzdesini hesaplar\n       Yanabilirlik testinin amacını açıklar\n       Teste uygun numune hazırlamayı açıklar\n       Test öncesi yıkama işlemlerini açıklar\n       Teste uygun parça almayı açıklar\n       Yanabilirlik test cihazlarını açıklar\n       Testin yapılışını açıklar\n       Avrupa test standartlarına göre testin yapılışını açıklar\n       Amerika test standartlarına göre testin yapılışını açıklar.\n       Testi değerlendirmeyi açıklar\n       Teste uygun numune hazırlar\n        Numuneyi cihaza yerleştirir\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kumaşta Fiziksel Testler",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "4",
@@ -317,7 +281,6 @@
       "KAZANIM": "Buruşmazlık Testi Yapar.\n Tuşe Tutum Sertlik Dökümlülük Testlerini Yapar.\nBuruşmazlık testinin amacını açıklar\n       Buruşmazlık açılarının ölçülmesini açıklar\n       Kuru buruşmazlık açılarının ölçülmesini açıklar\n       Testi değerlendirmesini açıklar\n       Test skalalarını açıklar\n       Teste uygun numune hazırlar\n        Numuneyi cihaza yerleştirir\n        Testi değerlendirir\n       Tuşe tutum sertlik dökümlülük testinin amacını açıklar.\n       Teste uygun büyüklükte numune hazırlamayı açıklar.\n       Tuşe tutum sertlik dökümlülük test cihazlarını açıklar.\n       Testin yapılışını açıklar.\n       Cantilever cihazında testin yapılışını açıklar.\n       Handle-o- meter cihazında testin yapılışını açıklar.\n       Tuşetutum sertlik dökümlülük testi ile elde edilen ölçüm sonuçlarını standartlarla karşılaştırmayı açıklar.\n       Teste uygun büyüklükte numune hazırlar\n       Cantilever cihazını hazırlar.\n       Cantilever cihazında testi uygular\n       Handle-o- meter cihazını hazırlar kalibrasyonunu yapar.\n       Handle-o- meter cihazında testi uygular.\n       Ölçüm yapar.\n       Ölçüm sonuçlarını standartlarla karşılaştırır."
     },
     {
-      "ÜNİTE": "Kumaşta Fiziksel Testler",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "4",
@@ -326,7 +289,6 @@
       "KAZANIM": "Boncuklanma Testi Yapar.\nBoncuklanma testinin amacını açıklar\n       Teste uygun numune hazırlamayı açıklar\n       Numuneyi kondüsyonlamayı açıklar\n       Numuneyi test cihazına yerleştirmeyi açıklar\n       Testin yapılışını açıklar\n       Boncuklanma testi metotlarını açıklar\n       Icı pilling box metodunu açıklar\n       Martindale metodunu açıklar\n       Random tumble pilling metodunu açıklar\n       Testi değerlendirmesini açıklar\n       Işık  kabininde  D65  gün  ışığında  incelemeyi açıklar\n       Standart fotoğrafları açıklar\n       Değerlendirmeyi 2. Şahısa göstermeyi açıklar\n       Teste uygun numune hazırlar\n        Numuneyi kondüsyonlar\n        Numuneyi cihaza yerleştirir\n       Testi uygular\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "Kumaşta Fiziksel Testler",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "4",
@@ -335,7 +297,6 @@
       "KAZANIM": "Aşınma Testi Yapar.\nAşınma testinin amacını açıklar.\n       Teste uygun büyüklükte parça almayı açıklar\n       Kullanılan cihaz hakkında bilgiyi açıklar\n       Testin uygulanışını açıklar\n       Testin değerlendirilmesini açıklar\n       Teste uygun parça alır\n       Cihaza numuneyi yerleştirir\n       Testi uygular\n       Testi değerlendirir"
     },
     {
-      "ÜNİTE": "İplikte Fiziksel Testler",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "4",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  İplik Numarasını Tespit Eder.\n İplikte Büküm Kontrolü Yapar.\nİplik Numarası Tespitinin Amacını açıklar\n       Teste Uygun Numune Hazırlamayı açıklar\n       Numuneyi Tartmayı açıklar\n       Testin Tekrarını açıklar\n       İplik Numarası Hesaplamayı açıklar\n       Teste uygun numune hazırlar\n        Numuneyi tartar\n       Testi 10 kez tekrar eder\n       İplik numarası hesaplar\n       İplik büküm kontrolü yapmanın amacını açıklar\n       İplikte büküm yönünü açıklar\n       İplik büküm kontrol cihazı çalışma prensibini açıklar\n       Büküm ölçüm sonuçlarını standartlarla karşılaştırmayı açıklar\n       Büküm kontrol cihazını ölçüm için hazırlar.\n       Büküm kontrol cihazı ile iplik büküm ölçümünü yapar.\n       Büküm ölçüm sonuçlarını standartlarla karşılaştırır."
     },
     {
-      "ÜNİTE": "İplikte Fiziksel Testler",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "4",
@@ -353,7 +313,6 @@
       "KAZANIM": "Bantta Düzgünsüzlük Sapmaları Tespiti Yapar.\n İplikte Düzgünsüzlük Kontrolü Yapar.\nBantta düzgünsüzlük kontrolünün yapmanın amacını açıklar\n       Bantta düzgünsüzlük kontrolü için numune almayı açıklar\n       Düzgünsüzlük tespit cihazı ile düzgünsüzlük tespiti yapmayı açıklar\n       Düzgünsüzlük test cihazında ekran ve yazıcıdan alınan nümerik değerleri sıralar.\n       Düzgünsüzlük test cihazında ekran ve yazıcıdan alınan grafiksel değerleri sıralar.\n       Düzgünsüzlük  ölçüm sonuçlarını standartlarla karşılaştırmayı açıklar\n       Bantta düzgünsüzlük kontrolü için numune alma işlemini yapar.\n       Düzgünsüzlük tespit cihazı ile bant düzgünsüzlük tespitini yapar.\n       Düzgünsüzlük  ölçüm sonuçlarını standartlarla karşılaştırır.\n       İplik düzgünsüzlük kontrolü yapmanın amacını açıklar\n       İplik düzgünsüzlük cihazı çalışma prensibini açıklar\n       Düzgünsüzlük değerini okuma işlemini açıklar\n       Düzgünsüzlük  ölçüm sonuçlarını standartlarla karşılaştırmayı açıklar\n       İplik düzgünsüzlük cihazını ölçüm için ayarlar\n       İplik düzgünsüzlük cihazı ile düzgünsüzlük testini yapar.\n       Düzgünsüzlük değer sonuçlarını cihazdan alır.\n       Düzgünsüzlük  ölçüm sonuçlarını standartlarla karşılaştırır."
     },
     {
-      "ÜNİTE": "İplikte Fiziksel Testler",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "4",
@@ -362,7 +321,6 @@
       "KAZANIM": "İpliğin Mukavemet ve Uzama Yüzdesi Kontrolünü Yapar.\n İplikte Tüylülük Kontrolü Yapar.\nİpliğin mukavemet ve uzama si kontrolünü yapmanın amacını açıklar\n       Dinamometremukavemet test cihazı çalışma prensibini açıklar\n       Mukavemet değerini okumayı açıklar\n       Uzama yüzdesini okumayı açıklar\n       Dinamometremukavemet test cihazı  elde edilen ölçüm sonuçlarını standartlarla karşılaştırmayı açıklar\n       Mukavemet test cihazını ölçüm için hazırlar.\n       Dinamometremukavemet test cihazıile iplik mukavemet ve uzama yüzdesi ölçümünü yapar.\n       Dinamometremukavemet test cihazı elde edilen ölçüm sonuçlarını standartlarla karşılaştırır\n       İplikte tüylülük kontrolü yapmanın amacını açıklar\n       İplikte tüylülük test cihazı çalışma prensibini açıklar\n       Standart iplik tüylülük değerleri tablosunu okumayı açıklar\n       Tüylülük test cihazı ile elde edilen ölçüm sonuçlarını standartlarla karşılaştırmayı açıklar\n       Tüylülük test cihazını ölçüm için hazırlar.\n       Tüylülük test cihazı ile iplik tüylülüğü ölçümünü yapar.\n       Tüylülük test cihazı ile elde edilen ölçüm sonuçlarını standartlarla karşılaştırır"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "4",

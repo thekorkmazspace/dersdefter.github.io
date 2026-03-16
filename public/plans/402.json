@@ -3,7 +3,6 @@
   "ders": "Seçmeli Otomotiv Test Teknikleri-11",
   "plan": [
     {
-      "ÜNİTE": "MODÜL 1 ARIZA TESPİTİ HAZIRLIK İŞLEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "5",
@@ -12,7 +11,6 @@
       "KAZANIM": "1. İş organizasyonunu yapar."
     },
     {
-      "ÜNİTE": "MODÜL 1 ARIZA TESPİTİ HAZIRLIK İŞLEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "5",
@@ -21,7 +19,6 @@
       "KAZANIM": "2. Kullanılacak araç gereç ve malzemeleri belirler."
     },
     {
-      "ÜNİTE": "MODÜL 1 ARIZA TESPİTİ HAZIRLIK İŞLEMLERİ",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "5",
@@ -29,7 +26,6 @@
       "KAZANIM": "3. Kontrol ve test işlemleri öncesi araç üzerinde hazırlık ve ön kontrol yapar."
     },
     {
-      "ÜNİTE": "MODÜL 2 KOMPRESYON TESTİ",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "5",
@@ -38,7 +34,6 @@
       "KAZANIM": "1. Kompresyon testi hazırlık işlemlerini yapar                                     2. Kompresyon testi yapar"
     },
     {
-      "ÜNİTE": "MODÜL 2 KOMPRESYON TESTİ",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "5",
@@ -47,7 +42,6 @@
       "KAZANIM": "2. Kompresyon testi yapar                                    3. Kompresyon test sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "MODÜL 3 VAKUM TESTİ",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "5",
@@ -55,7 +49,6 @@
       "KAZANIM": "1. Vakum testi hazırlık işlemlerini yapar                                         2. Vakum testi yapar"
     },
     {
-      "ÜNİTE": "MODÜL 3 VAKUM TESTİ",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "5",
@@ -63,7 +56,6 @@
       "KAZANIM": "2. Vakum testi yapar                                                                    3. Vakum test sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "MODÜL 4 SİLİNDİR TESTİ",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "5",
@@ -72,7 +64,6 @@
       "KAZANIM": "1. Silindir kaçak testine hazırlık işlemlerini yapar                                             2. Silindir kaçak testi yapar"
     },
     {
-      "ÜNİTE": "MODÜL 4 SİLİNDİR TESTİ",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "5",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 2. Silindir kaçak testi yapar                         3. Silindir kaçak testi sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "5",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "MODÜL 5 MOTOR YAĞ BASINÇ TESTİ",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "5",
@@ -99,7 +88,6 @@
       "KAZANIM": "1. Motor yağ basınç testine hazırlık işlemlerini yapar                                    2. Motor yağ basınç testi yapar"
     },
     {
-      "ÜNİTE": "MODÜL 5 MOTOR YAĞ BASINÇ TESTİ",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "5",
@@ -108,7 +96,6 @@
       "KAZANIM": "2. Motor yağ basınç testi yapar                                                    3. Motor yağ basınç testi sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "MODÜL 6 YAKIT SİSTEMİ BASINÇ TESTİ",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "5",
@@ -117,7 +104,6 @@
       "KAZANIM": "1. Yakıt sistemi basınç testine hazırlık işlemlerini yapar                                2. Yakıt sistemi basınç testi yapar"
     },
     {
-      "ÜNİTE": "MODÜL 6 YAKIT SİSTEMİ BASINÇ TESTİ",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "5",
@@ -126,7 +112,6 @@
       "KAZANIM": "2. Yakıt sistemi basınç testi yapar                                                             3. Yakıt sistemi basınç testi sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "MODÜL 7 SUPAP AYARI",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "5",
@@ -135,7 +120,6 @@
       "KAZANIM": "1. Supap ayarına hazırlık işlemlerini yapar                                            2. Supap ayarı yapar"
     },
     {
-      "ÜNİTE": "MODÜL 7 SUPAP AYARI",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "5",
@@ -144,7 +128,6 @@
       "KAZANIM": "2. Supap ayarı yapar                                        3. Supap ayarını motoru çalıştırarak kontrol eder"
     },
     {
-      "ÜNİTE": "MODÜL 8 TANILAMA DİAGNOSTİK TEKNİKLERİ",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "5",
@@ -152,7 +135,6 @@
       "KAZANIM": "1. Tanılama diagnostik testine hazırlık işlemlerini yapar                                    2. Veri haberleşme hattı elemanlarını test eder."
     },
     {
-      "ÜNİTE": "MODÜL 8 TANILAMA DİAGNOSTİK TEKNİKLERİ",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "5",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 3. Motor sistemlerine tanılama diagnostik test uygular                                  4. Güç aktarma organlarına tanılama diagnostik test uygular."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "5",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "5",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "5",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "MODÜL 8 TANILAMA DİAGNOSTİK TEKNİKLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "5",
@@ -193,7 +171,6 @@
       "KAZANIM": "5. Hareket kontrol sistemine tanılama diagnostik test uygular.                                                                       6. Elektrikelektronik sistemlere tanılama diagnostik test uygular."
     },
     {
-      "ÜNİTE": "MODÜL 9 EGZOZ EMİSYON KONTROLLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "5",
@@ -201,7 +178,6 @@
       "KAZANIM": "1. Egzoz emisyon kontrolü için hazırlık işlemlerini yapar"
     },
     {
-      "ÜNİTE": "MODÜL 9 EGZOZ EMİSYON KONTROLLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "5",
@@ -209,7 +185,6 @@
       "KAZANIM": "2. Egzoz emisyon kontrolünü yapar."
     },
     {
-      "ÜNİTE": "MODÜL 9 EGZOZ EMİSYON KONTROLLERİ",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "5",
@@ -218,7 +193,6 @@
       "KAZANIM": "3. Egzoz emisyon kontrolü sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "MODÜL 10 MOTOR GÜÇ TESTİ",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "5",
@@ -227,7 +201,6 @@
       "KAZANIM": "1. Test öncesi gerekli kontrolleri yapar.                                                      2. Motoru teste hazırlar."
     },
     {
-      "ÜNİTE": "MODÜL 10 MOTOR GÜÇ TESTİ",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "5",
@@ -236,7 +209,6 @@
       "KAZANIM": "3. Motor üzerinde gerekli testleri uygular.                                        4. Test sonu işlemleri gerçekleştirir"
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "5",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "MODÜL 11 FREN TESTİ",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "5",
@@ -254,7 +225,6 @@
       "KAZANIM": "1. Fren testine hazırlık işlemlerini yapar                                      2. Fren testi yapar"
     },
     {
-      "ÜNİTE": "MODÜL 11 FREN TESTİ",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "5",
@@ -263,7 +233,6 @@
       "KAZANIM": "2. Fren testi yapar                                              3. Fren testi sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "MODÜL 12 YANAL KAYMA TESTİ",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "5",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 1. Yanal kayma testine hazırlık işlemlerini yapar                                        2. Yanal kayma testi yapar"
     },
     {
-      "ÜNİTE": "MODÜL 12 YANAL KAYMA TESTİ",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "5",
@@ -281,7 +249,6 @@
       "KAZANIM": "2. Yanal kayma testi yapar       3. Yanal kayma testi sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "MODÜL 13 SÜSPANSİYON TESTİ",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "5",
@@ -290,7 +257,6 @@
       "KAZANIM": "1. Süspansiyon testine hazırlık işlemlerini yapar                                       2. Süspansiyon testi yapar"
     },
     {
-      "ÜNİTE": "MODÜL 13 SÜSPANSİYON TESTİ",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "5",
@@ -299,7 +265,6 @@
       "KAZANIM": "2. Süspansiyon testi yapar         3. Süspansiyon testi sonuçlarını yorumlayarak arıza tespiti yapar"
     },
     {
-      "ÜNİTE": "MODÜL 14 ÖN DÜZEN AYARI",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "5",
@@ -308,7 +273,6 @@
       "KAZANIM": "1. Ön düzen ayarına hazırlık işlemlerini yapar"
     },
     {
-      "ÜNİTE": "MODÜL 14 ÖN DÜZEN AYARI",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "5",
@@ -317,7 +281,6 @@
       "KAZANIM": "2. Ön düzen ayarını yapar"
     },
     {
-      "ÜNİTE": "MODÜL 14 ÖN DÜZEN AYARI",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "5",
@@ -326,7 +289,6 @@
       "KAZANIM": "3. Ön düzen ayarı sonu işlemleri gerçekleştirir"
     },
     {
-      "ÜNİTE": "MODÜL 15 BALANS AYARI",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "5",
@@ -335,7 +297,6 @@
       "KAZANIM": "1. Balans ayarına hazırlık işlemlerini yapar"
     },
     {
-      "ÜNİTE": "MODÜL 15 BALANS AYARI",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "5",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav 2. Balans ayarını yapar"
     },
     {
-      "ÜNİTE": "MODÜL 16 FAR AYARI",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "5",
@@ -353,7 +313,6 @@
       "KAZANIM": "1. Far ayarına hazırlık işlemlerini yapar"
     },
     {
-      "ÜNİTE": "MODÜL 16 FAR AYARI",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "5",
@@ -362,7 +321,6 @@
       "KAZANIM": "2. Far ayarını yapar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "5",

@@ -3,7 +3,6 @@
   "ders": "Atölye 9 (metalurj)",
   "plan": [
     {
-      "ÜNİTE": "Kalıp Kumunu Yenileştirme",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "5",
@@ -12,7 +11,6 @@
       "KAZANIM": "Kalıp ve dökümü yapılmış eski kalıp kumunu eler.\n Eski kalıp kumuna sırayla kuru ve yaş katkı maddelerini ilave eder.\nYabancı maddelerin kumdan ayrılması sağlanır.\n Elenen eski kuma katkı maddelerini sırasıyla ve ölçüsüyle eklenmesi sağlanır.\n Karışımın homojen olması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "5",
@@ -21,7 +19,6 @@
       "KAZANIM": "Modelsiz alt ve üst dereceyi sıkıştırır.\nAlt derecenin tekniğe uygun sıkıştırılması sağlanır.\n Alt derece yüzeyine yüzey ayırıcı kullanması sağlanır.\n Üst derecenin tekniğe uygun sıkıştırılması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "5",
@@ -29,7 +26,6 @@
       "KAZANIM": "Kalıpladığı alt ve üst derecenin kalıp sıkılığını ölçer.\nKalıp sıkılığı ölçme cihazını tekniğe uygun kullanması sağlanır.\n Kalıbın yaş dayanım değerlerini yorumlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "5",
@@ -38,7 +34,6 @@
       "KAZANIM": "Kalıpta modelsiz şekil oluşturur.\nAlt derece yüzeyine geometrik şekiller çizmesi ve boşaltması sağlanır.\n Alt derecede oluşan boşluğu üst dereceye alması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "5",
@@ -47,7 +42,6 @@
       "KAZANIM": "Dikdörtgen kesitli modeli kalıplar.\nModelin konikliğine dikkat ederek alt derece içinde sıkıştırılması sağlanır.\n Alt derece üzerinde üst dereceninkalıplanması sağlanır.\n Üst derece yüzeyine şiş çekmesi sağlanır.\n Modeli tekniğe uygun takalayarak kalıptan çıkarması sağlanır.\n Üst derecenin alt derece üzerine tekniğe uygun kapatılması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "5",
@@ -55,7 +49,6 @@
       "KAZANIM": "Kalıba çeşitli yolluk bağlantılarını yapar.\nKalıba uygun yolluk bağlantılarını yapması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "5",
@@ -63,7 +56,6 @@
       "KAZANIM": "Verilen modelin kumda kalıbını yaparak üst derecede çıkıcı bağlantısını açar.\nModele uygun çıkıcı kullanması sağlanır.\n Mala yüzeyine çapak kesmesi sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "5",
@@ -72,7 +64,6 @@
       "KAZANIM": "Küp ve benzeri hacimdeki modelleri kalıplayarak besleyici bağlantısını yapar.\nKalıba uygun yolluk ve besleyici bağlantılarını yapması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "5",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Modele uygun firketeyi hazırlayarak çeşitli modelleri kalıplar.\nModele uygun firkete hazırlaması sağlanır.\n Modeli kalıplarken firketeyi kullanması sağlanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "5",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "5",
@@ -99,7 +88,6 @@
       "KAZANIM": "Modele uygun ana derece hazırlayarak çeşitli modelleri kalıplar.\nModelde mala yüzeyini belirlemesi sağlanır.\n Modele uygun ana derece hazırlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "5",
@@ -108,7 +96,6 @@
       "KAZANIM": "Modeli kumda kalıplarken mont alarak kalıbı yapar.\nKalıplama sistemine uygun mont alması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "5",
@@ -117,7 +104,6 @@
       "KAZANIM": "Eğreti parçalı modelleri kalıplayarak eğreti parçayı kalıptan çıkarır.\nModelin eğreti parçasının kalıptan çıkarması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "5",
@@ -126,7 +112,6 @@
       "KAZANIM": "Çivi kullanarak ince dilimli çeşitli modelleri kalıplar.\nİnce dilimli modellerin kalıplanmasında kum sıkılığının tekniğe uygun yapılması sağlanır.\n Kalıpta uygun yerlerde çivi kullanması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "5",
@@ -135,7 +120,6 @@
       "KAZANIM": "Dairesel modellere teğet yolluk bağlantısı yapar.\nKalıba uygun teğet yolluk sistemi bağlanması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "5",
@@ -144,7 +128,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "5",
@@ -152,7 +135,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "5",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "5",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "5",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "5",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "5",
@@ -193,7 +171,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "5",
@@ -201,7 +178,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "5",
@@ -209,7 +185,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "5",
@@ -218,7 +193,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "5",
@@ -227,7 +201,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "5",
@@ -236,7 +209,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "5",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "5",
@@ -254,7 +225,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Kalıplama",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "5",
@@ -263,7 +233,6 @@
       "KAZANIM": "Uygun modellere boynuz yolluk uygulaması yapar.\nKalıba uygun boynuz yolluk sistemi bağlaması sağlanır."
     },
     {
-      "ÜNİTE": "Pota Ocağı",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "5",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav  Onarım harcı malzemelerini hazırlayarak sıra ile kuru ve yaş katkı maddelerini karıştırır.\nOcak onarım harcını oluşturan maddeleri oranlarına göre hazırlayarak homojen olarak karıştırılması sağlanır."
     },
     {
-      "ÜNİTE": "Pota Ocağı",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "5",
@@ -281,7 +249,6 @@
       "KAZANIM": "Pota ocağının bozulan yerlerini temizleyerek hazırlanan astarla onarır.\nOcakta bozulan yerleri temizleyerek harçla onarması sağlanır."
     },
     {
-      "ÜNİTE": "Pota Ocağı",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "5",
@@ -290,7 +257,6 @@
       "KAZANIM": "Tekniğe uygun olarak pota ocağını çalıştırır.\nBrülörde hava ve yakıt oranını ayarlayarak ocağı çalıştırması sağlanır."
     },
     {
-      "ÜNİTE": "Pota Ocağı",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "5",
@@ -299,7 +265,6 @@
       "KAZANIM": "Pota ocağını çalıştırarak grafit potayı tavlar.\nYeni grafit potayı tekniğe uygun tavlaması sağlanır."
     },
     {
-      "ÜNİTE": "Alüminyum Alaşımları",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "5",
@@ -308,7 +273,6 @@
       "KAZANIM": "Alüminyum kalıp kumunu hazırlayarak belirlenen modeli kalıplar.\nAlüminyum kumuna katılan katkı maddelerininmiktarını belirleyerek karıştırması sağlanır.\n Hazırlanan kum ile istenen modelin kalıplanması sağlanır."
     },
     {
-      "ÜNİTE": "Alüminyum Alaşımları",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "5",
@@ -317,7 +281,6 @@
       "KAZANIM": "Alüminyum malzemeyi ocakta ergiterek kalıba döker.\nErgitilecek olan alüminyum alaşımının hazırlanması sağlanır.\n Tekniğe uygun olarak alüminyum alaşımlarını ergitmesi sağlanır.\n Sıvı metalin sıcaklığını ölçülmesi sağlanır.\n Temizleme flaksı ile sıvı metalin temizlenmesi sağlanır.\n Sıvı metalinhazırlanan kalıplara dökülmesi sağlanır."
     },
     {
-      "ÜNİTE": "Dökülen İşleri Elle Temizleme",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "5",
@@ -326,7 +289,6 @@
       "KAZANIM": "Dökülen işleri kalıbın içinden elle ayırarak kumun topaklarını ezer.\n Dökülen işlerin kum ve maçalarını elle temizler.\nDökülen kalıpların elle bozulması sağlanır.\n Dökülen işlerin ve maçaların üzerine yapışan kumların temizlenmesi sağlanır."
     },
     {
-      "ÜNİTE": "Dökülen İşleri Elle Temizleme",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "5",
@@ -335,7 +297,6 @@
       "KAZANIM": "Dökülen işleri mengeneye bağlayarak ek kısımlarını keser.\n Ek kısımlarını kestiği döküm parçanın eğeleme işlemini yapar.\nKesilecek malzemeye uygun kesme aletinin belirlenmesi sağlanır.\n Kesme aleti ile tekniğe uygun kesme yapması sağlanır.\n Eğelenecek malzemeye uygun eğe belirlenmesi sağlanır.\n Eğe ile tekniğe uygun eğeleme yapması sağlanır."
     },
     {
-      "ÜNİTE": "Dökülen İşleri Makine ile Temizleme",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "5",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  Dökülen kalıpları kalıp bozma makinesinde bozar.\n Dökülen işlerin ek kısımlarını makine ile ayırır.\n Dökülen işleri tambura yükleyerek temizler.\nKalıp bozma makinesi ile kalıpların bozulması sağlanır.\n Dökülen işin ek kısımlarının makine ile kesilmesi sağlanır.\n Çelik dökümlerin ek kısımlarının oksi-asetilen kaynağı ile kesilmesi sağlanır.\n Tamburda döküm parçaların temizlenmesi sağlanır."
     },
     {
-      "ÜNİTE": "Dökülen İşleri Makine ile Temizleme",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "5",
@@ -353,7 +313,6 @@
       "KAZANIM": "Dökülen işleri makineye yükleyerek çelik bilye ile temizler.\n Dökülen işlerin fazlalıklarını taşlayarak giderir.\nÇelik bilye ile çalışan makinede döküm parçaların temizlenmesi sağlanır.\n Dökülen işlerin taşlanarak fazlalıklarının kabaca giderilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "5",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "5",

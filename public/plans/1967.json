@@ -3,7 +3,6 @@
   "ders": "Otomotıv Elektrik Uygulamaları",
   "plan": [
     {
-      "ÜNİTE": "Oto Seslendirme Sistemi",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
@@ -12,7 +11,6 @@
       "KAZANIM": "Otomotiv seslendirme sistemlerinin montajını yapar.\nOto elektrik sisteminin yapısını açıklar.\n Akünün yapısını açıklar.\n Şarj dinamosunun yapısını açıklar.\n Sigorta tablosunun yapısını açıklar.\n Oto teyplerin yapısını açıklar.\n Oto teyplerin çeşitlerini sıralar.\n Oto teyplerin elektriksel bağlantılarını açıklar.\n Oto teyplerin sinyal giriş - çıkış bağlantılarını açıklar.\n Ekolayzırın yapısını açıklar.\n Ekolayzırın çeşitlerini sıralar.\n Ekolayzırın elektriksel bağlantılarını açıklar.\n Ekolayzırın sinyal giriş - çıkış bağlantılarını açıklar.\n Oto amplifikatörlerinin yapısını açıklar.\n Oto amplifikatörlerinin çeşitlerini sıralar.\n Oto amplifikatörlerinin elektriksel bağlantılarını açıklar.\n Oto amplifikatörlerinin sinyal giriş - çıkış bağlantılarını açıklar."
     },
     {
-      "ÜNİTE": "Oto Seslendirme Sistemi",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
@@ -21,7 +19,6 @@
       "KAZANIM": "Otomotiv seslendirme sistemlerinin montajını yapar.\nOto elektrik sisteminin yapısını açıklar.\n Akünün yapısını açıklar.\n Şarj dinamosunun yapısını açıklar.\n Sigorta tablosunun yapısını açıklar.\n Oto teyplerin yapısını açıklar.\n Oto teyplerin çeşitlerini sıralar.\n Oto teyplerin elektriksel bağlantılarını açıklar.\n Oto teyplerin sinyal giriş - çıkış bağlantılarını açıklar.\n Ekolayzırın yapısını açıklar.\n Ekolayzırın çeşitlerini sıralar.\n Ekolayzırın elektriksel bağlantılarını açıklar.\n Ekolayzırın sinyal giriş - çıkış bağlantılarını açıklar.\n Oto amplifikatörlerinin yapısını açıklar.\n Oto amplifikatörlerinin çeşitlerini sıralar.\n Oto amplifikatörlerinin elektriksel bağlantılarını açıklar.\n Oto amplifikatörlerinin sinyal giriş - çıkış bağlantılarını açıklar."
     },
     {
-      "ÜNİTE": "Oto Seslendirme Sistemi",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
@@ -29,7 +26,6 @@
       "KAZANIM": "Hoparlör ve kabloları yerleştirir.\nOto seslendirme sistemlerinde kullanılan hoparlörleri açıklar.\n Oto seslendirme sistemlerinde kullanılan hoparlörler çeşitlerini sıralar.\n Oto seslendirme sistemlerinde kullanılan kabloları açıklar.\n Oto seslendirme sistemlerinde kullanılan kablo çeşitlerini sıralar."
     },
     {
-      "ÜNİTE": "Oto Seslendirme Sistemi",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
@@ -38,7 +34,6 @@
       "KAZANIM": "Hoparlör ve kabloları yerleştirir.\nOto seslendirme sistemlerinde kullanılan hoparlörleri açıklar.\n Oto seslendirme sistemlerinde kullanılan hoparlörler çeşitlerini sıralar.\n Oto seslendirme sistemlerinde kullanılan kabloları açıklar.\n Oto seslendirme sistemlerinde kullanılan kablo çeşitlerini sıralar."
     },
     {
-      "ÜNİTE": "Oto Seslendirme Sistemi",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
@@ -47,7 +42,6 @@
       "KAZANIM": "Cihazlara bakım yaparken ESD Elektro Statik Deşarj kurallarına dikkat ederek otomotiv seslendirme sistemindeki arızaları giderir.\nOto teybi arızalarını açıklar.\n Oto amplifikatörü arızalarını açıklar.\n Hoparlör ve kablodan kaynaklanan arızaları açıklar."
     },
     {
-      "ÜNİTE": "Oto Seslendirme Sistemi",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
@@ -55,7 +49,6 @@
       "KAZANIM": "Cihazlara bakım yaparken ESD Elektro Statik Deşarj kurallarına dikkat ederek otomotiv seslendirme sistemindeki arızaları giderir.\nOto teybi arızalarını açıklar.\n Oto amplifikatörü arızalarını açıklar.\n Hoparlör ve kablodan kaynaklanan arızaları açıklar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
@@ -63,7 +56,6 @@
       "KAZANIM": "Arıza ve bakım kartını oluşturur.\nArıza ve bakım karteksi oluşturmanın önemini açıklar.\n Karteks çeşitlerini listeler.\n Kartekste doldurulacak alanları listeler."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
@@ -72,7 +64,6 @@
       "KAZANIM": "Arıza ve bakım kartını oluşturur.\nArıza ve bakım karteksi oluşturmanın önemini açıklar.\n Karteks çeşitlerini listeler.\n Kartekste doldurulacak alanları listeler."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
@@ -81,7 +72,6 @@
       "KAZANIM": "Arıza ve bakım kartını oluşturur.\nArıza ve bakım karteksi oluşturmanın önemini açıklar.\n Karteks çeşitlerini listeler.\n Kartekste doldurulacak alanları listeler."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
@@ -99,7 +88,6 @@
       "KAZANIM": "Arıza ve bakım kartını oluşturur.\nArıza ve bakım karteksi oluşturmanın önemini açıklar.\n Karteks çeşitlerini listeler.\n Kartekste doldurulacak alanları listeler."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
@@ -108,7 +96,6 @@
       "KAZANIM": "Arıza ve bakım kartını oluşturur.\nArıza ve bakım karteksi oluşturmanın önemini açıklar.\n Karteks çeşitlerini listeler.\n Kartekste doldurulacak alanları listeler."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
@@ -117,7 +104,6 @@
       "KAZANIM": "Arşivleme yapar.\nTakip Formunun önemini açıklar.\n Arşivleme formu içeriğindeki konu başlıkları listeler.\n Arşivleme yöntemleri sıralar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
@@ -126,7 +112,6 @@
       "KAZANIM": "Arşivleme yapar.\nTakip Formunun önemini açıklar.\n Arşivleme formu içeriğindeki konu başlıkları listeler.\n Arşivleme yöntemleri sıralar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
@@ -135,7 +120,6 @@
       "KAZANIM": "Arşivleme yapar.\nTakip Formunun önemini açıklar.\n Arşivleme formu içeriğindeki konu başlıkları listeler.\n Arşivleme yöntemleri sıralar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
@@ -144,7 +128,6 @@
       "KAZANIM": "Arşivleme yapar.\nTakip Formunun önemini açıklar.\n Arşivleme formu içeriğindeki konu başlıkları listeler.\n Arşivleme yöntemleri sıralar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
@@ -152,7 +135,6 @@
       "KAZANIM": "Arşivleme yapar.\nTakip Formunun önemini açıklar.\n Arşivleme formu içeriğindeki konu başlıkları listeler.\n Arşivleme yöntemleri sıralar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
@@ -161,7 +143,6 @@
       "KAZANIM": "Katalog okur.\nKatalog çeşitleri sıralar.\n İnternet üzerinden katalog bilgilerine ulaşma tarif eder.\n Katalogların okurken dikkat edilecek noktalar açıklar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
@@ -193,7 +171,6 @@
       "KAZANIM": "Katalog okur.\nKatalog çeşitleri sıralar.\n İnternet üzerinden katalog bilgilerine ulaşma tarif eder.\n Katalogların okurken dikkat edilecek noktalar açıklar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
@@ -201,7 +178,6 @@
       "KAZANIM": "Katalog okur.\nKatalog çeşitleri sıralar.\n İnternet üzerinden katalog bilgilerine ulaşma tarif eder.\n Katalogların okurken dikkat edilecek noktalar açıklar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
@@ -209,7 +185,6 @@
       "KAZANIM": "Katalog okur.\nKatalog çeşitleri sıralar.\n İnternet üzerinden katalog bilgilerine ulaşma tarif eder.\n Katalogların okurken dikkat edilecek noktalar açıklar."
     },
     {
-      "ÜNİTE": "Arşivleme ve Katalog",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
@@ -218,7 +193,6 @@
       "KAZANIM": "Katalog okur.\nKatalog çeşitleri sıralar.\n İnternet üzerinden katalog bilgilerine ulaşma tarif eder.\n Katalogların okurken dikkat edilecek noktalar açıklar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
@@ -227,7 +201,6 @@
       "KAZANIM": "İşe uygun lehimleme ekipmanları ile tekniğine uygun şekilde lehim yapar.\nLehimlemenin tanımını açıklar.\n Lehim sökme işlemi için dikkat edilmesi gereken hususları sıralar.\n Lehim teli yapısı çeşitleri ve özelliklerini açıklar.\n Lehim pastası ve görevini açıklar.\n Havya çeşitlerini ve özeliklerini açıklar.\n Yapılacak işe göre havya seçimini açıklar.\n Lehimleme ve lehimleme yöntemlerini açıklar.\n Nitelikli bir lehimleme yapak için dikkat edilecek hususları sıralar.\n İyi bir lehimlemenin sahip olması gereken özellikleri sıralar.\n Lehim sökme araç gereçlerini sıralar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
@@ -236,7 +209,6 @@
       "KAZANIM": "İşe uygun lehimleme ekipmanları ile tekniğine uygun şekilde lehim yapar.\nLehimlemenin tanımını açıklar.\n Lehim sökme işlemi için dikkat edilmesi gereken hususları sıralar.\n Lehim teli yapısı çeşitleri ve özelliklerini açıklar.\n Lehim pastası ve görevini açıklar.\n Havya çeşitlerini ve özeliklerini açıklar.\n Yapılacak işe göre havya seçimini açıklar.\n Lehimleme ve lehimleme yöntemlerini açıklar.\n Nitelikli bir lehimleme yapak için dikkat edilecek hususları sıralar.\n İyi bir lehimlemenin sahip olması gereken özellikleri sıralar.\n Lehim sökme araç gereçlerini sıralar."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
@@ -254,7 +225,6 @@
       "KAZANIM": "İşe uygun lehimleme ekipmanları ile tekniğine uygun şekilde lehim yapar.\nLehimlemenin tanımını açıklar.\n Lehim sökme işlemi için dikkat edilmesi gereken hususları sıralar.\n Lehim teli yapısı çeşitleri ve özelliklerini açıklar.\n Lehim pastası ve görevini açıklar.\n Havya çeşitlerini ve özeliklerini açıklar.\n Yapılacak işe göre havya seçimini açıklar.\n Lehimleme ve lehimleme yöntemlerini açıklar.\n Nitelikli bir lehimleme yapak için dikkat edilecek hususları sıralar.\n İyi bir lehimlemenin sahip olması gereken özellikleri sıralar.\n Lehim sökme araç gereçlerini sıralar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
@@ -263,7 +233,6 @@
       "KAZANIM": "İşe uygun lehimleme ekipmanları ile tekniğine uygun şekilde lehim yapar.\nLehimlemenin tanımını açıklar.\n Lehim sökme işlemi için dikkat edilmesi gereken hususları sıralar.\n Lehim teli yapısı çeşitleri ve özelliklerini açıklar.\n Lehim pastası ve görevini açıklar.\n Havya çeşitlerini ve özeliklerini açıklar.\n Yapılacak işe göre havya seçimini açıklar.\n Lehimleme ve lehimleme yöntemlerini açıklar.\n Nitelikli bir lehimleme yapak için dikkat edilecek hususları sıralar.\n İyi bir lehimlemenin sahip olması gereken özellikleri sıralar.\n Lehim sökme araç gereçlerini sıralar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
@@ -272,7 +241,6 @@
       "KAZANIM": "İşe uygun lehimleme ekipmanları ile tekniğine uygun şekilde lehim yapar.\nLehimlemenin tanımını açıklar.\n Lehim sökme işlemi için dikkat edilmesi gereken hususları sıralar.\n Lehim teli yapısı çeşitleri ve özelliklerini açıklar.\n Lehim pastası ve görevini açıklar.\n Havya çeşitlerini ve özeliklerini açıklar.\n Yapılacak işe göre havya seçimini açıklar.\n Lehimleme ve lehimleme yöntemlerini açıklar.\n Nitelikli bir lehimleme yapak için dikkat edilecek hususları sıralar.\n İyi bir lehimlemenin sahip olması gereken özellikleri sıralar.\n Lehim sökme araç gereçlerini sıralar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
@@ -281,7 +249,6 @@
       "KAZANIM": "Yapılacak devrenin ideal ölçülerinde patern çıkarma kurallarına uygun şekilde olarak baskı devre paterni çıkarır.\nBaskı devre tanım ve işlevini açıklar.\n Baskı devre plaketinin yapısını açıklar.\n Baskı devre plaketinin eleman ölçülerine göre boyutlandırmasını açıklar.\n Patern oluşturma aşamalarını açıklar.\n Paternin baskı devre plaketi üzerine aktarılma yöntemlerini açıklar.\n Patern oluştururken dikkat edilecek hususları açıklar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
@@ -290,7 +257,6 @@
       "KAZANIM": "Yapılacak devrenin ideal ölçülerinde patern çıkarma kurallarına uygun şekilde olarak baskı devre paterni çıkarır.\nBaskı devre tanım ve işlevini açıklar.\n Baskı devre plaketinin yapısını açıklar.\n Baskı devre plaketinin eleman ölçülerine göre boyutlandırmasını açıklar.\n Patern oluşturma aşamalarını açıklar.\n Paternin baskı devre plaketi üzerine aktarılma yöntemlerini açıklar.\n Patern oluştururken dikkat edilecek hususları açıklar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
@@ -299,7 +265,6 @@
       "KAZANIM": "Yapılacak devrenin ideal ölçülerinde patern çıkarma kurallarına uygun şekilde olarak baskı devre paterni çıkarır.\nBaskı devre tanım ve işlevini açıklar.\n Baskı devre plaketinin yapısını açıklar.\n Baskı devre plaketinin eleman ölçülerine göre boyutlandırmasını açıklar.\n Patern oluşturma aşamalarını açıklar.\n Paternin baskı devre plaketi üzerine aktarılma yöntemlerini açıklar.\n Patern oluştururken dikkat edilecek hususları açıklar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
@@ -308,7 +273,6 @@
       "KAZANIM": "Yapılacak devrenin ideal ölçülerinde patern çıkarma kurallarına uygun şekilde olarak baskı devre paterni çıkarır.\nBaskı devre tanım ve işlevini açıklar.\n Baskı devre plaketinin yapısını açıklar.\n Baskı devre plaketinin eleman ölçülerine göre boyutlandırmasını açıklar.\n Patern oluşturma aşamalarını açıklar.\n Paternin baskı devre plaketi üzerine aktarılma yöntemlerini açıklar.\n Patern oluştururken dikkat edilecek hususları açıklar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
@@ -317,7 +281,6 @@
       "KAZANIM": "Yapılacak devrenin ideal ölçülerinde patern çıkarma kurallarına uygun şekilde olarak baskı devre paterni çıkarır.\nBaskı devre tanım ve işlevini açıklar.\n Baskı devre plaketinin yapısını açıklar.\n Baskı devre plaketinin eleman ölçülerine göre boyutlandırmasını açıklar.\n Patern oluşturma aşamalarını açıklar.\n Paternin baskı devre plaketi üzerine aktarılma yöntemlerini açıklar.\n Patern oluştururken dikkat edilecek hususları açıklar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
@@ -326,7 +289,6 @@
       "KAZANIM": "Pozlandırma asit banyosu ve delme işlemlerini kullanarak baskı devre plaketini yapar.\nPaternin plaket üzerine aktarma yöntemlerini sıralar.\n Pozlandırma işlemini açıklar.\n Plaketin banyo işlemini açıklar.\n Asit çözeltisinin hazırlanmasında dikkat edilecek hususları açıklar.\n Plaketin asite atılması sırasında dikkat edilmesi gereken hususları açıklar.\n Plaketin delinmesi sırasında dikkat edilmesi gereken hususları açıklar.\n Plaket üzerine devre elemanlarının montajı sırasında dikkat edilmesi gerekenleri sıralar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
@@ -335,7 +297,6 @@
       "KAZANIM": "Pozlandırma asit banyosu ve delme işlemlerini kullanarak baskı devre plaketini yapar.\nPaternin plaket üzerine aktarma yöntemlerini sıralar.\n Pozlandırma işlemini açıklar.\n Plaketin banyo işlemini açıklar.\n Asit çözeltisinin hazırlanmasında dikkat edilecek hususları açıklar.\n Plaketin asite atılması sırasında dikkat edilmesi gereken hususları açıklar.\n Plaketin delinmesi sırasında dikkat edilmesi gereken hususları açıklar.\n Plaket üzerine devre elemanlarının montajı sırasında dikkat edilmesi gerekenleri sıralar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
@@ -344,7 +305,6 @@
       "KAZANIM": "Pozlandırma asit banyosu ve delme işlemlerini kullanarak baskı devre plaketini yapar.\nPaternin plaket üzerine aktarma yöntemlerini sıralar.\n Pozlandırma işlemini açıklar.\n Plaketin banyo işlemini açıklar.\n Asit çözeltisinin hazırlanmasında dikkat edilecek hususları açıklar.\n Plaketin asite atılması sırasında dikkat edilmesi gereken hususları açıklar.\n Plaketin delinmesi sırasında dikkat edilmesi gereken hususları açıklar.\n Plaket üzerine devre elemanlarının montajı sırasında dikkat edilmesi gerekenleri sıralar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
@@ -353,7 +313,6 @@
       "KAZANIM": "Pozlandırma asit banyosu ve delme işlemlerini kullanarak baskı devre plaketini yapar.\nPaternin plaket üzerine aktarma yöntemlerini sıralar.\n Pozlandırma işlemini açıklar.\n Plaketin banyo işlemini açıklar.\n Asit çözeltisinin hazırlanmasında dikkat edilecek hususları açıklar.\n Plaketin asite atılması sırasında dikkat edilmesi gereken hususları açıklar.\n Plaketin delinmesi sırasında dikkat edilmesi gereken hususları açıklar.\n Plaket üzerine devre elemanlarının montajı sırasında dikkat edilmesi gerekenleri sıralar."
     },
     {
-      "ÜNİTE": "Lehimleme ve Baskı Devre",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
@@ -362,7 +321,6 @@
       "KAZANIM": "Pozlandırma asit banyosu ve delme işlemlerini kullanarak baskı devre plaketini yapar.\nPaternin plaket üzerine aktarma yöntemlerini sıralar.\n Pozlandırma işlemini açıklar.\n Plaketin banyo işlemini açıklar.\n Asit çözeltisinin hazırlanmasında dikkat edilecek hususları açıklar.\n Plaketin asite atılması sırasında dikkat edilmesi gereken hususları açıklar.\n Plaketin delinmesi sırasında dikkat edilmesi gereken hususları açıklar.\n Plaket üzerine devre elemanlarının montajı sırasında dikkat edilmesi gerekenleri sıralar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",

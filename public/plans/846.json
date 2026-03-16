@@ -3,7 +3,6 @@
   "ders": "Atıklar",
   "plan": [
     {
-      "ÜNİTE": "Katı Atıklar",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "3",
@@ -12,7 +11,6 @@
       "KAZANIM": "Katı atıkları açıklar.\nKatı atıkların kaynakları bileşenleri ve çeşitleri açıklanır."
     },
     {
-      "ÜNİTE": "Katı Atıklar",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "3",
@@ -21,7 +19,6 @@
       "KAZANIM": "Katı atıkları açıklar.\nKatı atıkların insan ve çevre sağlığına olumsuz etkileri örneklerle açıklanır."
     },
     {
-      "ÜNİTE": "Katı Atıklar",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "3",
@@ -29,7 +26,6 @@
       "KAZANIM": "Katı atıkları yasal uygulamalara uygun şekilde toplama ve yok etme yöntemlerini açıklar.\nBerataraf tanımlanır.\n       Katı atık bertaraf tesislerinin yer seçiminde dikkat edilmesi gereken unsurlar açıklanır."
     },
     {
-      "ÜNİTE": "Katı Atıklar",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "3",
@@ -38,7 +34,6 @@
       "KAZANIM": "Katı atıkları yasal uygulamalara uygun şekilde toplama ve yok etme yöntemlerini açıklar.\nKatı atık bertaraf yöntemleri açıklanır.\n       Katı atık yönetimi ve entegre atık yönetimi açıklanır."
     },
     {
-      "ÜNİTE": "Organik Atıklar",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "3",
@@ -47,7 +42,6 @@
       "KAZANIM": "Organik atıkların gübreye dönüşümünü açıklar.\nOrganik atıklar tanımlanır."
     },
     {
-      "ÜNİTE": "Organik Atıklar",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "3",
@@ -55,7 +49,6 @@
       "KAZANIM": "Organik atıkların gübreye dönüşümünü açıklar.\nOrganik atık çeşitleri listelenir."
     },
     {
-      "ÜNİTE": "Organik Atıklar",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "3",
@@ -63,7 +56,6 @@
       "KAZANIM": "Organik atıklardan biyogaz oluşumu sürecini açıklar.\nBiyogaz oluşumu açıklanır.\n       Biyogaz üretiminde kullanılan materyaller listelenir."
     },
     {
-      "ÜNİTE": "Organik Atıklar",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "3",
@@ -72,7 +64,6 @@
       "KAZANIM": "Organik atıklardan biyogaz oluşumu sürecini açıklar.\nBiyogaz üretimini etkileyen faktörler açıklanır.\n       Biyoreaktörler ve biyogazın kullanım amaçları açıklanır."
     },
     {
-      "ÜNİTE": "Tıbbi Atıklar",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "3",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Tıbbi atıkları açıklar.\ntıbbi atıklar tanımlanır.\n       Tıbbi atıkların kaynakları açıklanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "3",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Tıbbi Atıklar",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "3",
@@ -99,7 +88,6 @@
       "KAZANIM": "Tıbbi atıkları açıklar.\nTıbbi atık çeşitleri açıklanır.\n       Tıbbi atıkların insan ve çevre sağlığı üzerindeki etkileri açıklanır."
     },
     {
-      "ÜNİTE": "Tıbbi Atıklar",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "3",
@@ -108,7 +96,6 @@
       "KAZANIM": "Tıbbi atıkların bertarafını açıklar.\nTıbbi atıkların biriktirilme ve toplanma yöntemleri"
     },
     {
-      "ÜNİTE": "Tıbbi Atıklar",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "3",
@@ -117,7 +104,6 @@
       "KAZANIM": "Tıbbi atıkların bertarafını açıklar.\nTıbbi atıkların biriktirilme ve toplanma yöntemleri"
     },
     {
-      "ÜNİTE": "Atık PillerAküler",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "3",
@@ -126,7 +112,6 @@
       "KAZANIM": "Atık pillerin özelliklerini ve toplanmasını açıklar.\nAtık piller tanımlanır."
     },
     {
-      "ÜNİTE": "Atık PillerAküler",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "3",
@@ -135,7 +120,6 @@
       "KAZANIM": "Atık pillerin özelliklerini ve toplanmasını açıklar.\nAtık pillerin özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Atık PillerAküler",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "3",
@@ -144,7 +128,6 @@
       "KAZANIM": "Akülerin toplanmasının önemini açıklar.\nAkü kavramı açıklanır.\n       Atık akümülatörleri ayrıştırma ve taşıma yöntemleri açıklanır.\n       Geçici depo ve depo alanlarının özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Atık PillerAküler",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "3",
@@ -152,7 +135,6 @@
       "KAZANIM": "Akülerin toplanmasının önemini açıklar.\nAtık akü taşıma araçlarının özellikleri açıklanır.\n       Atık pil ve akülerle ilgili mevzuat açıklanır.\n       Yükümlülükleri olan kurum ve kuruluşlar açıklanır."
     },
     {
-      "ÜNİTE": "Atık Yağlar",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "3",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav Bitkisel atık yağların toplama işlemlerini açıklar.\nBitkisel atık yağlar tanımlanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "3",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "3",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "3",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Atık Yağlar",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "3",
@@ -193,7 +171,6 @@
       "KAZANIM": "Bitkisel atık yağların toplama işlemlerini açıklar.\nBitkisel atık yağ oluşum süreci açıklanır."
     },
     {
-      "ÜNİTE": "Atık Yağlar",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "3",
@@ -201,7 +178,6 @@
       "KAZANIM": "Madeni atık yağların toplama işlemlerini açıklar.\nMadeni atıkların tanımı yapılır.\n       Madeni atıkların özellikleri listelenir."
     },
     {
-      "ÜNİTE": "Atık Yağlar",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "3",
@@ -209,7 +185,6 @@
       "KAZANIM": "Madeni atık yağların toplama işlemlerini açıklar.\nMadeni atık yağların geri kazanımı açıklanır.\n       Madeni atık yağların çevresel etkileri ve alınabilecek önlemler açıklanır."
     },
     {
-      "ÜNİTE": "Arıtma Çamurları",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "3",
@@ -218,7 +193,6 @@
       "KAZANIM": "Arıtma çamurlarının toplanmasını açıklar.\nArıtma çamurlarının tanımı yapılır."
     },
     {
-      "ÜNİTE": "Arıtma Çamurları",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "3",
@@ -227,7 +201,6 @@
       "KAZANIM": "Arıtma çamurlarının toplanmasını açıklar.\nÇamur kaynakları açıklanır."
     },
     {
-      "ÜNİTE": "Arıtma Çamurları",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "3",
@@ -236,7 +209,6 @@
       "KAZANIM": "Arıtma çamurlarının geri dönüşümünü sağlama işlem basamaklarını açıklar.\nArıtma çamurlarının kullanım alanları açıklanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "3",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Arıtma Çamurları",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "3",
@@ -254,7 +225,6 @@
       "KAZANIM": "Arıtma çamurlarının geri dönüşümünü sağlama işlem basamaklarını açıklar.\nKompostlaştırma kavramı açıklanır."
     },
     {
-      "ÜNİTE": "Atık Lastikler",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "3",
@@ -263,7 +233,6 @@
       "KAZANIM": "Atık lastiklerin toplanmasını açıklar.\nAtık lastiklerin tanımı yapılır.\n       Atık lastiklerin özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Atık Lastikler",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "3",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav Atık lastiklerin toplanmasını açıklar.\nAtık lastiklerin insan sağlığına ve çevre kirliliğine etkileri açıklanır.\n       Türkiyede atık lastiklerin geri kazanımı açıklanır."
     },
     {
-      "ÜNİTE": "Atık Lastikler",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "3",
@@ -281,7 +249,6 @@
       "KAZANIM": "Atık lastiklerin geri dönüşümünü sağlama işlem basamaklarını açıklar.\nGeri değerlendirme yöntemleri açıklanır."
     },
     {
-      "ÜNİTE": "Atık Lastikler",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "3",
@@ -290,7 +257,6 @@
       "KAZANIM": "Atık lastiklerin geri dönüşümünü sağlama işlem basamaklarını açıklar.\nPiroliz yöntemi açıklanır."
     },
     {
-      "ÜNİTE": "Atık Sular",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "3",
@@ -299,7 +265,6 @@
       "KAZANIM": "Evsel nitelikli atık suların fiziksel kimyasal ve biyolojik özelliklerini açıklar.\nAtık suların fiziksel kimyasal ve biyolojik özellikleri açıklanır.\n       Atık su arıtmada hedefler açıklanır."
     },
     {
-      "ÜNİTE": "Atık Sular",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "3",
@@ -308,7 +273,6 @@
       "KAZANIM": "Evsel nitelikli atık suların fiziksel kimyasal ve biyolojik özelliklerini açıklar.\nEvsel nitelikli atık suların arıtma yöntemleri açıklanır.\n       Evsel nitelikli atık suların arıtılma yöntemleri ve esasları açıklanır."
     },
     {
-      "ÜNİTE": "Atık Sular",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "3",
@@ -317,7 +281,6 @@
       "KAZANIM": "Endüstriyel nitelikli atık suların arıtılma yöntemlerini açıklar.\nEndüstriyel nitelikli atık suların özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Atık Sular",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "3",
@@ -326,7 +289,6 @@
       "KAZANIM": "Endüstriyel nitelikli atık suların arıtılma yöntemlerini açıklar.\nEndüstriyel nitelikli atık su oluşturan tesislerin özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Diğer Atıklar",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "3",
@@ -335,7 +297,6 @@
       "KAZANIM": "Hurda otomobilleri toplanmasını açıklar."
     },
     {
-      "ÜNİTE": "Diğer Atıklar",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "3",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Hurda otomobilleri toplanmasını açıklar."
     },
     {
-      "ÜNİTE": "Diğer Atıklar",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "3",
@@ -353,7 +313,6 @@
       "KAZANIM": "CRT ve elektronik ürünlerin toplanmasını açıklar."
     },
     {
-      "ÜNİTE": "Diğer Atıklar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "3",
@@ -362,7 +321,6 @@
       "KAZANIM": "Hurda otomobilleri toplanmasını açıklar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "3",

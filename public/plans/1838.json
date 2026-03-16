@@ -3,7 +3,6 @@
   "ders": "Model Ve Prototi̇p Atölyesi̇(Yeni*)-11",
   "plan": [
     {
-      "ÜNİTE": "Malzeme",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "7",
@@ -12,7 +11,6 @@
       "KAZANIM": "Tasarıma uygun metal malzeme seçer.\nMalzeme seçiminin önemi açıklanır.\n       Metal malzeme açıklanır.\n       Metal malzeme çeşitleri demir ve demir dışı açıklanır.\n       Metal malzemeleri fiziksel kimyasal ve mekanik özellikleri açıklanır.\n       Metal alaşımlar açıklanır.\n       TSE DIN ISO SAE MKE Standartları açıklanır.\n       Tasarıma uygun metal malzeme seçimi yapması sağlanır."
     },
     {
-      "ÜNİTE": "Malzeme",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "7",
@@ -21,7 +19,6 @@
       "KAZANIM": "Tasarıma uygun metal olmayan malzeme seçer.\nMetal olmayan malzemeler açıklanır.\n       Metal olmayan malzeme çeşitleri plastik seramik ahşap cam  açıklanır.\n       Metal  olmayan  malzemeleri  fiziksel  kimyasal  ve mekanik özellikleri açıklanır.\n       Plastik   seramik   ahşap   ve   camın   elde   edilişi açıklanır.\n       Tasarıma  uygun  metal  olmayan  malzeme  seçimi yapması sağlanır."
     },
     {
-      "ÜNİTE": "Talaşsız Üretim",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "7",
@@ -29,7 +26,6 @@
       "KAZANIM": "Basit modelleme yöntemleri ile modele uygun kalıplama işlemleri yapar.\nBasit modelleri kalıplama yöntemleri  açıklanır.\n       Basit modelleme çeşitleri açıklanır.\n       Basit kalıplama çeşitleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yollarını açıklanır.\n       Modele uygun kalıplama işlemi yapması sağlanır."
     },
     {
-      "ÜNİTE": "Talaşsız Üretim",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "7",
@@ -38,7 +34,6 @@
       "KAZANIM": "Kalıbı ve dökülecek materyalleri hazırlayıp basit kalıplama yöntemiyle döküm işlemini yapar.\nDöküm işlemi açıklanır.\n       Döküm çeşitleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Basit kalıplama yöntemi ile döküm işlemi yapması sağlanır."
     },
     {
-      "ÜNİTE": "Talaşsız Üretim",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "7",
@@ -47,7 +42,6 @@
       "KAZANIM": "Malzemeye göre bükme yöntemi ile ölçüsüne uygun bükme işlemlerini yapar.\nBükme işlemi açıklanır.\n       Bükme yöntemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Ölçüsüne göre basit bükme işlemleri yapması sağlanır."
     },
     {
-      "ÜNİTE": "Sökülebilir Birleştirme",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "7",
@@ -55,7 +49,6 @@
       "KAZANIM": "Uygun araç gereçler ile standartlara uygun vidalı  cıvatalı  ve  somunlu  birleştirmeler yapar.\nVidalı birleştirmeler açıklanır.\n       Vida türleri açıklanır.\n       Cıvata ve somun türleri açıklanır.\n       Cıvata ve somun ölçüleri açıklanır. Cıvata çeşitleri açıklanır.\n       Somun çeşitleri açıklanır.\n       Anahtar çeşitleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Cıvatalı birleştirme yapması sağlanır."
     },
     {
-      "ÜNİTE": "Sökülebilir Birleştirme",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "7",
@@ -63,7 +56,6 @@
       "KAZANIM": "Uygun araç gereçler ile standartlara uygun kamalı birleştirmeler yapar.\nKamalar açıklanır.\n       Kama çeşitleri açıklanır.\n       Mil ve muylular açıklanır.\n       Kamalı birleştirmeler açıklanır.\n       Yapılan   işle   ilgili   doğabilecek   kazaları   ve korunma yolları açıklanır.\n       Kamalı birleştirmeler yapması sağlanır."
     },
     {
-      "ÜNİTE": "Sökülebilir Birleştirme",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "7",
@@ -72,7 +64,6 @@
       "KAZANIM": "Uygun araç gereçler ile standartlara uygun pim ve pernolu birleştirmeler yapar.\nPerno ve pimler açıklanır.\n       Perno ve pim çeşitleri açıklanır.\n       Perno ve pimli birleştirme açıklanır.\n       Perno ve pimlerin kullanılma yerleri açıklanır.\n       Yapılan   işle   ilgili   doğabilecek   kazaları   ve korunma yolları açıklanır.\n       Pim ve pernolu birleştirme yapması sağlanır."
     },
     {
-      "ÜNİTE": "Sökülemeyen Birleştirme",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "7",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Uygun kaynak yöntemi ile kaynaklı birleştirmeler yapar.\nKaynak açıklanır.\n       Kaynak türleri açıklanır.\n       Kaynak makineleri açıklanır.\n       Elektrot çeşitleri sıralanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Kaynaklı birleştirme yapması sağlanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "7",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Sökülemeyen Birleştirme",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "7",
@@ -99,7 +88,6 @@
       "KAZANIM": "Uygun perçinleme yöntemi ile perçinli birleştirmeler yapar.\nPerçin açıklanır.\n       Perçin türleri ve malzemeleri açıklanır.\n       Perçinleme yöntemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Perçinli birleştirme yapması sağlanır."
     },
     {
-      "ÜNİTE": "Sökülemeyen Birleştirme",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "7",
@@ -108,7 +96,6 @@
       "KAZANIM": "Uygun perçinleme yöntemi ile perçinli birleştirmeler yapar.\nPerçin açıklanır.\n       Perçin türleri ve malzemeleri açıklanır.\n       Perçinleme yöntemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Perçinli birleştirme yapması sağlanır."
     },
     {
-      "ÜNİTE": "Ahşap Model",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "7",
@@ -117,7 +104,6 @@
       "KAZANIM": "Modele uygun ahşap malzemeyi seçer.\nAhşap malzemeler açıklanır.\n       Ahşap malzeme türleri açıklanır.\n       Ahşap malzeme kullanım yerleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Modele uygun ahşap malzeme seçmesi sağlanır."
     },
     {
-      "ÜNİTE": "Ahşap Model",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "7",
@@ -126,7 +112,6 @@
       "KAZANIM": "Çizim ölçülerine göre modeli ahşap üzerine markalar.\nMarkalama açıklanır.\n       Markalama aletleri açıklanır.\n       Ölçme aletleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Modelin ahşap üzerine markalanması sağlanır."
     },
     {
-      "ÜNİTE": "Ahşap Model",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "7",
@@ -135,7 +120,6 @@
       "KAZANIM": "Modeli işler.\nAhşap model işleme yöntemleri açıklanır.\n       Ahşap şekillendirme aletleri açıklanır.\n       Ahşap işleme makineleri açıklanır.\n       Üst yüzey işlemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Ahşap modeli yapması sağlanır."
     },
     {
-      "ÜNİTE": "Ahşap Model",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "7",
@@ -144,7 +128,6 @@
       "KAZANIM": "Modeli işler.\nAhşap model işleme yöntemleri açıklanır.\n       Ahşap şekillendirme aletleri açıklanır.\n       Ahşap işleme makineleri açıklanır.\n       Üst yüzey işlemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Ahşap modeli yapması sağlanır."
     },
     {
-      "ÜNİTE": "Kâğıt Model",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "7",
@@ -152,7 +135,6 @@
       "KAZANIM": "Uygun kâğıt malzeme seçip kaba ölçüde hazırlar.\nKâğıt malzemeler açıklanır.\n       Model yapımında kullanılan kâğıt ve karton malzemeler açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Uygun kağıt malzeme seçip kaba ölçülerde hazırlaması sağlanır."
     },
     {
-      "ÜNİTE": "Kâğıt Model",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "7",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  Hazırladığı modeli kâğıt üzerine markalar.\nAçınım ve arakesit açıklanır.\n       Kâğıt üzerine markalama yapımı açıklanır.\n       Markalamada kullanılan araç gereçler açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Hazırlana modelin kağıt üzerine markalaması sağlanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "7",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "7",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "7",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Kâğıt Model",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "7",
@@ -193,7 +171,6 @@
       "KAZANIM": "İşlem sırasına dikkat edip modeli yapar.\nKâğıt model açıklanır.\n       Kâğıt model araç-gereçleri açıklanır.\n       Yapıştırıcılar açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       İşlem sırasına dikkat ederek kağıt modeli yapması sağlanır."
     },
     {
-      "ÜNİTE": "Plastik Model",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "7",
@@ -201,7 +178,6 @@
       "KAZANIM": "Modele uygun plastik malzemeyi seçer.\nPlastik malzemeler açıklanır.\n       Plastik malzeme türleri açıklanır.\n       Plastik malzeme şekillendirme yöntemleri açıklanır.\n       Termofor malzemeler açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Modele uygun plastik malzeme seçimi yapması sağlanır."
     },
     {
-      "ÜNİTE": "Plastik Model",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "7",
@@ -209,7 +185,6 @@
       "KAZANIM": "İşleme yöntemini belirleyerek ölçüsüne uygun köpük model yapar.\nKöpük model açıklanır.\n       Straforların özellikleri açıklanır.\n       Strafor şekillendirme yöntemleri açıklanır.\n       Strafor üzerine markalama ölçme ve yapıştırma işlemleri açıklanır.\n       Üst yüzey işlemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Ölçüsüne uygun köpük model yapması sağlanır."
     },
     {
-      "ÜNİTE": "Plastik Model",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "7",
@@ -218,7 +193,6 @@
       "KAZANIM": "İşlem sırasına göre termoform model yapar.\nTermoform model açıklanır.\n       Termoform malzemeler ve özellikleri açıklanır.\n       Termoform modelleme yöntemlerini açıklar.\n       Üst yüzey işlemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Termofor model yapması sağlanır."
     },
     {
-      "ÜNİTE": "Kompozit Model",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "7",
@@ -227,7 +201,6 @@
       "KAZANIM": "Modele uygun kompozit malzeme seçer.\nKompozit malzemeler açıklanır.\n       Kompozit malzemelerin özellikleri açıklanır.\n       Kompozit malzeme çeşitleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Modele uygun kompozit malzeme seçimi yapması sağlanır."
     },
     {
-      "ÜNİTE": "Kompozit Model",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "7",
@@ -236,7 +209,6 @@
       "KAZANIM": "Blok kompozit malzemeleri işleyip oluşturduğu modele üst yüzey işlemlerini uygular.\nBlok kompozit malzemeler açıklanır.\n       Blok kompozit malzemelerin özellikleri açıklanır.\n       Blok kompozit malzemeleri işleme yöntemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Kompozit malzemeyi işleyip üst yüzey işlemlerini uygulaması sağlanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "7",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Kompozit Model",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "7",
@@ -254,7 +225,6 @@
       "KAZANIM": "İşlem sırasına göre kabuk model yapar.\nKabuk modeli açıklanır.\n       Kompozit reçineler ve özelikleri açıklanır.\n       Elyaf çeşitleri açıklanır.\n       Kalıp ayırıcıları hızlandırıcılar ve sertleştiriciler açıklanır.\n       Üst yüzey işlemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Kabuk model yapması sağlanır."
     },
     {
-      "ÜNİTE": "Kompozit Model",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "7",
@@ -263,7 +233,6 @@
       "KAZANIM": "İşlem sırasına göre döküm kompozit model yapar.\nDöküm kompozit model açıklanır.\n       Kompozit reçineler açıklanır.\n       Dolgu maddeler açıklanır.\n       Kalıp ayırıcılar açıklanır.\n       Jelkotları açıklanır.\n       Üst yüzey işlemleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Döküm kompozit model yapması sağlanır."
     },
     {
-      "ÜNİTE": "Hızlı Prototipleme",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "7",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav  Tezgâhı talimatlara uygun şekilde çalışmaya hazırlar.\nTezgâh hazırlık işlemleri açıklanır.\n       Kullanılan ham maddelerin özellikleri açıklanır.\n       Tezgâhın çalışma sistemi açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Tezgahı çalışmaya hazırlaması sağlanır."
     },
     {
-      "ÜNİTE": "Hızlı Prototipleme",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "7",
@@ -281,7 +249,6 @@
       "KAZANIM": "Tezgâhı talimatlara uygun şekilde çalışmaya hazırlar.\nTezgâh hazırlık işlemleri açıklanır.\n       Kullanılan ham maddelerin özellikleri açıklanır.\n       Tezgâhın çalışma sistemi açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Tezgahı çalışmaya hazırlaması sağlanır."
     },
     {
-      "ÜNİTE": "Hızlı Prototipleme",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "7",
@@ -290,7 +257,6 @@
       "KAZANIM": "Modeli prototip tezgâhında işler.\nPrototip tezgahları ve çalışma sistemleri açıklanır.\n       Tezgâh yazılımının özellikleri açıklanır.\n       Tezgâh parametreleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Modeli prototip tezgahında işlemesi sağlanır."
     },
     {
-      "ÜNİTE": "Hızlı Prototipleme",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "7",
@@ -299,7 +265,6 @@
       "KAZANIM": "Modeli prototip tezgâhında işler.\nPrototip tezgahları ve çalışma sistemleri açıklanır.\n       Tezgâh yazılımının özellikleri açıklanır.\n       Tezgâh parametreleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Modeli prototip tezgahında işlemesi sağlanır."
     },
     {
-      "ÜNİTE": "Hızlı Prototipleme",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "7",
@@ -308,7 +273,6 @@
       "KAZANIM": "Modele üst yüzey işlemlerini uygular.\nArdıl işlemler açıklanır.\n       Ardıl işlemde kullanılan araç-gereçler açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Modele üst yüzey işlemleri uygulaması sağlanır."
     },
     {
-      "ÜNİTE": "Hızlı Prototipleme",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "7",
@@ -317,7 +281,6 @@
       "KAZANIM": "Modele üst yüzey işlemlerini uygular.\nArdıl işlemler açıklanır.\n       Ardıl işlemde kullanılan araç-gereçler açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Modele üst yüzey işlemleri uygulaması sağlanır."
     },
     {
-      "ÜNİTE": "Üst Yüzey İşlemler",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "7",
@@ -326,7 +289,6 @@
       "KAZANIM": "Yüzeye macun uygulayıp kullanılan araç gereçleri temizler.\nMacun açıklanır.\n       Macun çeşitleri açıklanır.\n       Macun uygulama araçları açıklanır.\n       Temizleyiciler açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Yüzeye macun uygulayıp kullanılan araç gereçleri temizlemesi sağlanır."
     },
     {
-      "ÜNİTE": "Üst Yüzey İşlemler",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "7",
@@ -335,7 +297,6 @@
       "KAZANIM": "Macun uygulanan yüzeye el ve makine ile zımparalama işlemi yapar.\nZımpara açıklanır.\n       Zımpara çeşitleri açıklanır.\n       Zımparalama yöntemleri açıklanır.\n       Zımparalamada kullanılan makineler açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Macun uygulanan yüzeye el ve makine ile zımparalama işlemi yapması sağlanır."
     },
     {
-      "ÜNİTE": "Üst Yüzey İşlemler",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "7",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  Zımparalanan yüzeye uygun boyama aracı ile boya uygular.\nBoyama açıklanır.\n       Boya türleri açıklanır.\n       Boyama araçları açıklanır.\n       Boya katkı maddeleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Zımparalanmış yüzeye uygun boyama aracı ile boya uygulaması sağlanır."
     },
     {
-      "ÜNİTE": "Üst Yüzey İşlemler",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "7",
@@ -353,7 +313,6 @@
       "KAZANIM": "Zımparalanan yüzeye uygun boyama aracı ile boya uygular.\nBoyama açıklanır.\n       Boya türleri açıklanır.\n       Boyama araçları açıklanır.\n       Boya katkı maddeleri açıklanır.\n       Yapılan işle ilgili doğabilecek kazaları ve korunma yolları açıklanır.\n       Zımparalanmış yüzeye uygun boyama aracı ile boya uygulaması sağlanır."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "7",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "7",

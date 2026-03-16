@@ -3,7 +3,6 @@
   "ders": "Mıkromekanıkte Talaslı Imalat",
   "plan": [
     {
-      "ÜNİTE": "Mikro Ölçme ve Kontrol",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "7",
@@ -12,7 +11,6 @@
       "KAZANIM": "Mikro ölçme ve kontrol işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Ölçme ve Kontrol",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "7",
@@ -21,7 +19,6 @@
       "KAZANIM": "Standartlara uygun geleneksel ölçüm cihazları ile ölçme yapar."
     },
     {
-      "ÜNİTE": "Mikro Ölçme ve Kontrol",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "7",
@@ -29,7 +26,6 @@
       "KAZANIM": "Standartlara   uygun   temaslı   ölçüm   cihazları   ile ölçüm yapar."
     },
     {
-      "ÜNİTE": "Mikro Ölçme ve Kontrol",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "7",
@@ -38,7 +34,6 @@
       "KAZANIM": "Standartlara  uygun  temassız  ölçüm  cihazları  ile ölçüm yapar."
     },
     {
-      "ÜNİTE": "Mikro Ölçme ve Kontrol",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "7",
@@ -47,7 +42,6 @@
       "KAZANIM": "Standartlara   uygun   kontrol   aletleri   ile   mikro parçaların kontrolünü yapar."
     },
     {
-      "ÜNİTE": "Mikro Ölçme ve Kontrol",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "7",
@@ -55,7 +49,6 @@
       "KAZANIM": "Standartlara   uygun   kontrol   aletleri   ile   mikro parçaların kontrolünü yapar."
     },
     {
-      "ÜNİTE": "Mikro Ölçme ve Kontrol",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "7",
@@ -63,7 +56,6 @@
       "KAZANIM": "Standartlara   uygun   kontrol   aletleri   ile   mikro parçaların kontrolünü yapar."
     },
     {
-      "ÜNİTE": "Temel Mikro İmalat Uygulamaları",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "7",
@@ -72,7 +64,6 @@
       "KAZANIM": "Temel    mikro    imalat    uygulamaları    işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Temel Mikro İmalat Uygulamaları",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "7",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Mikro eğeleme işlemleri yapar."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "7",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Temel Mikro İmalat Uygulamaları",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "7",
@@ -99,7 +88,6 @@
       "KAZANIM": "İş   resmine   uygun   mikro   markalama   işlemleri yapar."
     },
     {
-      "ÜNİTE": "Temel Mikro İmalat Uygulamaları",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "7",
@@ -108,7 +96,6 @@
       "KAZANIM": "Standartlara uygun mikro kesme işlemleri yapar."
     },
     {
-      "ÜNİTE": "Temel Mikro İmalat Uygulamaları",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "7",
@@ -117,7 +104,6 @@
       "KAZANIM": "Standartlara uygun mikro kesme işlemleri yapar."
     },
     {
-      "ÜNİTE": "Mikro Tornalama İşlemleri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "7",
@@ -126,7 +112,6 @@
       "KAZANIM": "Mikro tornalama işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Tornalama İşlemleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "7",
@@ -135,7 +120,6 @@
       "KAZANIM": "Mikro alın tornalama yapar."
     },
     {
-      "ÜNİTE": "Mikro Tornalama İşlemleri",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "7",
@@ -144,7 +128,6 @@
       "KAZANIM": "Mikro  iş  parçasına  punta  deliği  ve  normal  delik açar."
     },
     {
-      "ÜNİTE": "Mikro Tornalama İşlemleri",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "7",
@@ -152,7 +135,6 @@
       "KAZANIM": "Mikro vida açma uygulamaları yapar."
     },
     {
-      "ÜNİTE": "Mikro Tornalama İşlemleri",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "7",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav Mikro kaçık merkezli parça uygulamaları yapar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "7",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "7",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "7",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Mikro Tornalama İşlemleri",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "7",
@@ -193,7 +171,6 @@
       "KAZANIM": "Mikro kaçık merkezli parça uygulamaları yapar."
     },
     {
-      "ÜNİTE": "Mikro Frezeleme İşlemleri",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "7",
@@ -201,7 +178,6 @@
       "KAZANIM": "Mikro frezeleme işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Frezeleme İşlemleri",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "7",
@@ -209,7 +185,6 @@
       "KAZANIM": "Mikro yüzey frezeleme işlemleri yapar."
     },
     {
-      "ÜNİTE": "Mikro Frezeleme İşlemleri",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "7",
@@ -218,7 +193,6 @@
       "KAZANIM": "Mikro kanal ve cep frezeler."
     },
     {
-      "ÜNİTE": "Mikro Frezeleme İşlemleri",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "7",
@@ -227,7 +201,6 @@
       "KAZANIM": "Tezgâh  özelliklerine  göre  mikro  dişli  çark  açma işlemleri yapar."
     },
     {
-      "ÜNİTE": "Mikro Frezeleme İşlemleri",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "7",
@@ -236,7 +209,6 @@
       "KAZANIM": "Tezgâh  özelliklerine  göre  mikro  dişli  çark  açma işlemleri yapar."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "7",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Mikro Parçalarda Yüzey İşlemleri",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "7",
@@ -254,7 +225,6 @@
       "KAZANIM": "Mikro parçalarda yüzey işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Parçalarda Yüzey İşlemleri",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "7",
@@ -263,7 +233,6 @@
       "KAZANIM": "İş  parçası  imalat  resmine  göre  düzlem  yüzey  ve silindirik    yüzey    taşlama    tezgâhlarında    mikro parçaların yüzey işlemlerini işler."
     },
     {
-      "ÜNİTE": "Mikro Parçalarda Yüzey İşlemleri",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "7",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav İş     parçası     imalat     resmine     göre     lebleme tezgâhlarında mikro lebleme işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Parçalarda Yüzey İşlemleri",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "7",
@@ -281,7 +249,6 @@
       "KAZANIM": "İş     parçası     imalat     resmine     göre     honlama tezgâhlarında mikro honlama işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Parçalarda Yüzey İşlemleri",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "7",
@@ -290,7 +257,6 @@
       "KAZANIM": "İş  parçası  imalat  resmine  göre  yüzey  temizleme işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Parçalarda Yüzey İşlemleri",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "7",
@@ -299,7 +265,6 @@
       "KAZANIM": "İş     parçası     imalat     resmine     göre     kaplama işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Parçalarda Yüzey İşlemleri",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "7",
@@ -308,7 +273,6 @@
       "KAZANIM": "İş     parçası     imalat     resmine     göre     kaplama işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikro Parçalarda Yüzey İşlemleri",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "7",
@@ -317,7 +281,6 @@
       "KAZANIM": "İş     parçası     imalat     resmine     göre     kaplama işlemlerini yapar."
     },
     {
-      "ÜNİTE": "Mikromekanik Parçaları Delme",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "7",
@@ -326,7 +289,6 @@
       "KAZANIM": "Mikro   mekanik   parçaları   delme   uygulamalarınıyapar."
     },
     {
-      "ÜNİTE": "Mikromekanik Parçaları Delme",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "7",
@@ -335,7 +297,6 @@
       "KAZANIM": "Ölçüye uygun mikro delme işlemleri yapar."
     },
     {
-      "ÜNİTE": "Mikromekanik Parçaları Delme",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "7",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Standartlara uygun şekilde özel tezgâhlarla mikro delik delme uygulaması yapar."
     },
     {
-      "ÜNİTE": "Mikromekanik Parçaları Delme",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "7",
@@ -353,7 +313,6 @@
       "KAZANIM": "Standartlara uygun şekilde özel tezgâhlarla mikro delik delme uygulaması yapar."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "7",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "7",

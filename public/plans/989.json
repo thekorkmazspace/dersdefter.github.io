@@ -3,7 +3,6 @@
   "ders": "Arıcılık",
   "plan": [
     {
-      "ÜNİTE": "Arıcılık İçin Hazırlık",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "4",
@@ -12,7 +11,6 @@
       "KAZANIM": "Karlı ve sürdürülebilir arıcılık için güvenlik maliyet ve üretim planlamalarını yapar.\nArıcılıkta iş sağlığı ve güvenliği ile ilgili araç gereç ve tedbirler açıklanır.\n       Floranın nektar ve polen potansiyeli ve bitkilerin çiçeklenme tarihi açıklanır.\n       Bitki florasına göre üretim kapasitesi ve yıllıkmevsimlik üretim planlaması yapılır.\n       Arıcılıkta temel harcamalar ve gelir gider hesabı açıklanır.\n       Arıcılık yapılacak bölgenin ve yerin özellikleri açıklanır.\n       Arıcılık faaliyeti için gerekli izinler açıklanır.\n       Yetiştirilecek arı ırkının özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Arıcılık İçin Hazırlık",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "4",
@@ -21,7 +19,6 @@
       "KAZANIM": "Arıcılıkta kullanılan araç gereçleri hazırlar.\nArıcılıkta kullanılan araç gereçler ve özellikleri açıklanır.\n       Arıcılıkta kullanılan standart kovan çeşitleri açıklanır.\n       Kovanlar üretime hazır hale getirtilir.\n       Çerçeve çeşitleri açıklanır.\n       Çerçeveleri hazırlığı açıklanır.\n       Sezon içinde kullanılacak çerçeveler üretime hazır hale getirtilir."
     },
     {
-      "ÜNİTE": "Arıcılık İçin Hazırlık",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "4",
@@ -29,7 +26,6 @@
       "KAZANIM": "Yöreye uyumlu ve verimli arı kolonilerini temin ederek kovanları arıcılık için uygun bölgeye ve yere yerleştirir.\nArı kolonilerini temin etme yolları açıklanır.\n       Arı kolonilerinin seçiminde dikkat edilecek hususlar açıklanır.\n       Arı kolonilerinin araziye yerleştirilmesi açıklanır.\n       Arı kovanları arazi özelliklerine uygun şekilde araziye yerleştirilir."
     },
     {
-      "ÜNİTE": "Koloni Kontrolü",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "4",
@@ -38,7 +34,6 @@
       "KAZANIM": "Koloni kontrolü öncesi hazırlık işlemlerini açıklar.\nKoloni kontrolünde iş sağlığı ve güvenliği kuralları açıklanır.\n       Kontrolde kullanılacak arıcılık ekipmanları hazırlanır.\n       Kontrol yapma zamanı açıklanır."
     },
     {
-      "ÜNİTE": "Koloni Kontrolü",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "4",
@@ -47,7 +42,6 @@
       "KAZANIM": "Bakımı yapılacak kovanı tekniğine uygun şekilde açar.\nKovanı açmak için yapılması gerekenler açıklanır.\n       Kovan tekniğine uygun şekilde açılır."
     },
     {
-      "ÜNİTE": "Koloni Kontrolü",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "4",
@@ -55,7 +49,6 @@
       "KAZANIM": "Kovandaki çerçeveleri kolonilerin çalışma düzenine zarar vermeden kontrol eder.\nÇerçevede ana arı memesi kontrolü yapılır.\n       Çerçevede günlük yumurta larva ve pupa kontrolü yapılır.\n       Çerçevenin fiziki kontrolü yapılır."
     },
     {
-      "ÜNİTE": "Koloni Kontrolü",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "4",
@@ -63,7 +56,6 @@
       "KAZANIM": "Kovan kapağını tekniğine uygun şekilde kapatır.\nKovan kapatma işlemleri açıklanır.\n       Kovan iç düzenlemesi uygun hale getirilir.\n       Kovan kapağı tekniğine uygun şekilde kapatılır."
     },
     {
-      "ÜNİTE": "Koloni Kontrolü",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "4",
@@ -72,7 +64,6 @@
       "KAZANIM": "Arıcılık işletmesinin kayıtlarını tutar.\nArıcılık işletmesinde tutulması gereken kayıtlar açıklanır.\n       Kovan bakım kayıtları tutulur.\n       Arı verim kayıtları tutulur.\n       Arıcılık gelir gider kayıtları tutulur."
     },
     {
-      "ÜNİTE": "Kolonilerin İlkbahar ve Bal Dönemi İşlemleri",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "4",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Araç gereçlerin temizlik dezenfeksiyon ve bakım işlemlerini yapar.Koloni kondisyonunu kontrol eder.\nKovan temizliği yapılır.\n       Araç gereç temizliği yapılır.\n       Kovan ve araç gereç dezenfeksiyonu yapılır.\n       Kovanlar pürmüzle yakılarak dezenfekte edilir.\n       Açılan kolonilerde çerçeveler kontrol edilir.\n       Kovan kapatılarak etiketleme ve kayıt yapılır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "4",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Kolonilerin İlkbahar ve Bal Dönemi İşlemleri",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "4",
@@ -99,7 +88,6 @@
       "KAZANIM": "Nektar akımı öncesi kolonileri besler.Kovana arılıarısız çerçeve eklemeçıkarma yapar.\nArı kolonisine bal verme açıklanır.\n       Arı kolonisine bal verilir.\n       Kek hazırlanır.\n       Hazırlanan kek arıya verilir.\n       Şurup hazırlanır.\n       Hazırlanan şurup arıya verilir.\n       Popülasyondaki artışa göre çerçeve eklenir.\n       Popülasyondaki azalışa göre çerçeve çıkarılır.\n       Mevsime bağlı çerçeve sayısı düzenlenir.\n       Petek kabartma işlemi açıklanır."
     },
     {
-      "ÜNİTE": "Kolonilerin İlkbahar ve Bal Dönemi İşlemleri",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "4",
@@ -108,7 +96,6 @@
       "KAZANIM": "Koloni kondisyonuna uygun olarak ilave kat koyar.Bal akım döneminde kuluçkalık ile ballık arasına ana arı ızgarası koyar.\nKoloni kondisyon durumuna göre kat koyulur.\n       Mevsime bağlı olarak kat durumu düzenlenir.\n       Bal akım dönemi tespit edilir.\n       Kuluçkalık ile ballık arasına ana arı ızgarası koyulur.\n       Bal hasadı bittiğinde ana arı ızgarası alınır."
     },
     {
-      "ÜNİTE": "Kolonilerin İlkbahar ve Bal Dönemi İşlemleri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "4",
@@ -117,7 +104,6 @@
       "KAZANIM": "Kolonilerin kaliteli genç ana arı ihtiyacını karşılar.Zayıf kolonileri tekniğine uygun şekilde birleştirir.\nAna arının kontrolü yapılır.\n       Ana arı değişim teknikleri uygulanır.\n       Kolonilerin verimsiz ana arısı alınarak yerine genç ve verimli ana arı verilir.\n       Yağmacılığa karşı önlem alınır.\n       Zayıf koloniler uygun tekniklerle birleştirir."
     },
     {
-      "ÜNİTE": "Kolonilerin İlkbahar ve Bal Dönemi İşlemleri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "4",
@@ -126,7 +112,6 @@
       "KAZANIM": "Kolonilerin oğul dönemi işlemlerini yapar.Destek koloni yönetim sistemini uygular.\nOğul verecek koloniler tespit edilir.\n       Oğulu engelleyici kültürel önlemler açıklanır.\n       Oğula gidecek koloniyi yönlendirme işlemleri açıklanır.\n       Oğul kolonisini alma ve yönetme işlemleri yapılır.\n       Yapay oğul elde etme açıklanır.\n       Destek koloni kovanı hazırlanır.\n       Destek koloni kovanından yavrulu çıta ilave edilir."
     },
     {
-      "ÜNİTE": "Kolonilerin İlkbahar ve Bal Dönemi İşlemleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "4",
@@ -155,7 +140,6 @@
       "KAZANIM": "1. Dönem 2. Sınav"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "4",
@@ -163,7 +147,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "4",
@@ -171,7 +154,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "4",
@@ -185,7 +167,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Arı Ürünleri Elde Etme",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "4",
@@ -193,7 +174,6 @@
       "KAZANIM": "Tekniğine uygun şekilde olgunlaşmış balın hasadını yapar.Uygun sezonda seçilen kolonilerden tekniğine uygun şekilde polen elde eder.\nBal hasadına hazırlık işlemleri açıklanır.\n       Kovandaki olgunlaşmış bal tekniğine uygun olarak alınır.\n       Çerçevedeki baldan tekniğine uygun şekilde süzme bal elde edilir.\n       Ballar satışa hazır hale getirilir.\n       Ballı peteklerin muhafazası açıklanır.\n       Hasat sonrası koloni düzenlenmesi açıklanır.\n       Polen elde edilecek koloniler seçilir.\n       Polen tuzakları kolonilere yerleştirilir.\n       Polenler toplanarak muhafazası sağlanır.\n       Polenler satışa hazır hale getirilir."
     },
     {
-      "ÜNİTE": "Arı Ürünleri Elde Etme",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "4",
@@ -201,7 +181,6 @@
       "KAZANIM": "Tekniğine uygun şekilde arı sütü üretimi yapar.Seçilen kolonilerden tekniğine uygun şekilde propolis elde eder.\nArı sütü üretimi için araç gereç ve başlatıcı koloniler hazırlanır.\n       Hazırlanan ana arı yüksüklerine larva nakli yapılır.\n       Aşılı yüksükler başlatıcı kovanlara nakledilir.\n       Başlatıcılardan alınan arı sütü çerçeveleri besleyici kolonilere verilir.\n       Arı sütleri hasat edilir.\n       Arı sütünün muhafazası sağlanır.\n       Propolis üretimi yapılacak kovanlar hazırlanır.\n       Propolis tuzaklarının kovana yerleştirilmesi sağlanır.\n       Propolisler toplanarak muhafazası sağlanır."
     },
     {
-      "ÜNİTE": "Arı Ürünleri Elde Etme",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "4",
@@ -224,7 +203,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "4",
@@ -233,7 +211,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Kolonilerin Sonbahar Dönemi İşlemleri",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "4",
@@ -242,7 +219,6 @@
       "KAZANIM": "Kolonilerin kışlık besin ihtiyacını karşılamak için besleme yapar.\nKolonilerin kışlık besin ihtiyacı hesaplanır.\n       Kolonilerin ihtiyacını karşılayacak kadar beslenme sağlanır."
     },
     {
-      "ÜNİTE": "Kolonilerin Sonbahar Dönemi İşlemleri",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "4",
@@ -251,7 +227,6 @@
       "KAZANIM": "Sonbahar dönemi koloni kontrolü yaparak hastalıklara karşı ilaçlama yapar.\nKolonilere sonbahar dönemi hastalık kontrolü yapılır.\n       Varroa mücadelesi yapılır."
     },
     {
-      "ÜNİTE": "Kolonilerin Sonbahar Dönemi İşlemleri",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "4",
@@ -260,7 +235,6 @@
       "KAZANIM": "2. Dönem 1. Sınav Kolonilerin kışlatma işlemlerini yapar.\nKolonilerin kışlatılacağı ortamın özellikleri açıklanır.\n       Kolonilerin kışlık besin ihtiyacı belirlenir.\n       Kolonilerde kış döneminde bulunması gereken genç işçi arı miktarı açıklanır.\n       Kolonilerin sonbahar dönemi ilaçlaması yapılır.\n       Kolonilerin içeride ve dışarıda kışlatılmasında yapılacak işlemler açıklanır.\n       Uygun malzemeler kullanılarak kovan izolasyon işlemleri yapılır."
     },
     {
-      "ÜNİTE": "Ana Arı Yetiştirme",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "4",
@@ -269,7 +243,6 @@
       "KAZANIM": "Ana arı yetiştirmek için damızlık kolonileri hazırlar.Başlatıcı koloni hazırlar.\nDamızlık koloni seçimi yapılır.\n       Başlatıcı koloniler hazır hale getirilir."
     },
     {
-      "ÜNİTE": "Ana Arı Yetiştirme",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "4",
@@ -278,7 +251,6 @@
       "KAZANIM": "Aşılama çıtası ve ana arı aşılama yüksüklerini hazırlamayı açıklar.Larva nakli yapar.\nAşılama çıtası hazırlanır.\n       Aşılama yüksükleri hazırlanır.\n       Larva nakli açıklanır."
     },
     {
-      "ÜNİTE": "Ana Arı Yetiştirme",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "4",
@@ -287,7 +259,6 @@
       "KAZANIM": "Aşılı yüksükleri başlatıcı kovanlara nakleder.Aşılanmış çerçeveyi bitirici koloniye yerleştirir.\nAşılı yüksükler hazırlanır.\n       Aşılı yüksüklerin bakımı yapılır.\n       Aşılı yüksükler başlatıcı kovanlara nakledilir.\n       Aşılanmış çerçeve hazırlanır.\n       Aşılanmış çerçeve bitirici koloniye yerleştirilir."
     },
     {
-      "ÜNİTE": "Ana Arı Yetiştirme",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "4",
@@ -310,7 +281,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Arı Hastalık ve Zararlılarıyla Mücadele",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "4",
@@ -319,7 +289,6 @@
       "KAZANIM": "Hastalık bulaşmasına karşı koruyucu önlem alır.Kolonilerde hastalık parazit ve zararlı kontrolü yaparyaptırır.\nArı işletmelerinde biyogüvenlik tedbirleri açıklanır.\n       Araç gereçlerin temizlik ve dezenfeksiyon işlemleri yapılır.\n       Arı zararlılarına karşı kovanı koruyucu tedbirler açıklanır.\n       Hastalık kontrolü yapmayaptırma açıklanır.\n       Kolonilerde zararlı kontrolü açıklanır."
     },
     {
-      "ÜNİTE": "Arı Hastalık ve Zararlılarıyla Mücadele",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "4",
@@ -328,7 +297,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Hastalık materyali marazi madde alıraldırır.Arıların salgın hastalıklarıyla mücadeleye yardım eder.\nKovandaki hastalık durumlarında marazi madde alımı açıklanır.\n       Alınan marazi maddenin gönderilmesi açıklanır.\n       Arılarda görülen mikrobik hastalıklar açıklanır.\n       Arılarda sık görülen salgın hastalıklar açıklanır.\n       Arı salgın hastalıklarıyla mücadelede uygulanan mevzuat açıklanır."
     },
     {
-      "ÜNİTE": "Arı Hastalık ve Zararlılarıyla Mücadele",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "4",
@@ -344,7 +312,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "4",

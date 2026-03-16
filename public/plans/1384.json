@@ -3,7 +3,6 @@
   "ders": "Temel Gem Makıneler Atölyesi",
   "plan": [
     {
-      "ÜNİTE": "Temel Gemi Makineleri",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "10",
@@ -12,7 +11,6 @@
       "KAZANIM": "Dört   zamanlı   motor   çalışma   prensiplerini açıklar.\nMotorculukla ilgili terimler açıklanır.\n       Dört zamanlı dizel teorik çevrimi açıklanır.\n       Dört zamanlı dizel gerçek çevrimi açıklanır.\n       Beraber   çalışan   pistonların   tespit   edilmesi sağlanır.\n       Valfleri tespit etmesi sağlanır.\n       Motorun    sente    ve    supap    bindirmesine getirilmesi sağlanır.\n       Ateşleme sırasının tespit edilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Temel Gemi Makineleri",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "10",
@@ -21,7 +19,6 @@
       "KAZANIM": "Dört   zamanlı   motor   çalışma   prensiplerini açıklar.\nMotorculukla ilgili terimler açıklanır.\n       Dört zamanlı dizel teorik çevrimi açıklanır.\n       Dört zamanlı dizel gerçek çevrimi açıklanır.\n       Beraber   çalışan   pistonların   tespit   edilmesi sağlanır.\n       Valfleri tespit etmesi sağlanır.\n       Motorun    sente    ve    supap    bindirmesine getirilmesi sağlanır.\n       Ateşleme sırasının tespit edilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Temel Gemi Makineleri",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "10",
@@ -29,7 +26,6 @@
       "KAZANIM": "İki    zamanlı    motor    çalışma    prensiplerini açıklar.\nİki zamanlı dizel teorik çevrimi açıklanır.\n       İki zamanlı dizel gerçek çevrimi açıklanır.\n       İki   ve   dört   zamanlı   motorların   avantaj   ve dezavantajları açıklanır."
     },
     {
-      "ÜNİTE": "Temel Gemi Makineleri",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "10",
@@ -38,7 +34,6 @@
       "KAZANIM": "İki    zamanlı    motor    çalışma    prensiplerini açıklar.\nİki zamanlı dizel teorik çevrimi açıklanır.\n       İki zamanlı dizel gerçek çevrimi açıklanır.\n       İki   ve   dört   zamanlı   motorların   avantaj   ve dezavantajları açıklanır."
     },
     {
-      "ÜNİTE": "Aşırı doldurma sistemleri",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "10",
@@ -47,7 +42,6 @@
       "KAZANIM": "Blower ve turbo şarjın bakımını yapar.\nGemi dizel makinelere giren hava miktarının önemi açıklanır.\n       Hava giriş devresi elemanlarının görev ve özellikleri açıklanır.\n       Blowerin görev ve yapısı açıklanır.\n       Turbo şarjın görev ve yapısı açıklanır.\n       Blowerin bakımının yapılması sağlanır.\n       Turbo şarjın bakımının yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Aşırı doldurma sistemleri",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "10",
@@ -55,7 +49,6 @@
       "KAZANIM": "Air coolerin bakımını yapar.\nAir coolerin görev ve yapısı açıklanır.\n       Air coolerin bakımının yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Sabit Parçalar",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "10",
@@ -63,7 +56,6 @@
       "KAZANIM": "Gemi makineleri manifoldlarında onarım yapar.\nEmme ve eksoz devreleri elemanlarının görev ve yapıları açıklanır.\n       Hava filtresinin temizlenmesi veya değiştirilmesi sağlanır.\n       Emme giriş havası susturucularının temizlenmesi sağlanır.\n       Skavenç bölgesinin özellikleri açıklanır.\n       Skavenç bölgesinin temizlenmesi sağlanır.\n       Egzoz ve emme manifoldunun kontrollerinin yapılması sağlanır.\n       Kompansatörün kontrol edilmesi sağlanır.\n       Geyçlerin kontrol edilmesi sağlanır.\n       Susturucunun kontrol edilmesi sağlanır.\n       Kıvılcım tutucuların özellikleri açıklanır.\n       Pirometrelerin özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Sabit Parçalar",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "10",
@@ -72,7 +64,6 @@
       "KAZANIM": "Gemi makinelerinin roker-armlarının Külbütör onarımını yapar.\nRokerarmın ve iticilerin yapısal özellikleri açıklanır.\n       Külbütör mekanizmasının kontrollerinin yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Sabit Parçalar",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "10",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Gemi makinelerinin kaverlerinde onarım yapar.\nKaverin görev ve yapısı açıklanır.\n       Rilif valfin gerekliliği açıklanır.\n       Kaver sökülüp takılırken dikkat edilmesi gereken hususlar açıklanır.\n       Kaver üzerindeki parçaların kontrolleri sağlanır.\n       Kaver kontrollerinin yapılması sağlanır.\n       Kaver contası yapısal özellikleri açıklanır.\n       Kaver ve conta arızalarının belirtileri açıklanır.\n       Kaver ve conta arızalarının bulunması sağlanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "10",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Sabit Parçalar",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "10",
@@ -99,7 +88,6 @@
       "KAZANIM": "Gemi makineleri motor bloğunda onarım yapar.\nMotor bloğunun yapısal özellikleri ve kısımları açıklanır.\n       Krankkeys Üst karter ve bedpleyt açıklanır.\n       Laynerin görevi ve gerekliliği açıklanır.\n       Laynerlerin çeşitleri ve soğutulması açıklanır.\n       Laynerleri sökmeden önce makine üzerinde gerekli hazırlıkların yapılması sağlanır.\n       Layner üzerinde gerekli kontrollerin yapılması sağlanır.\n       İç silindirik parçalardan komparatörle ölçü alması sağlanır.\n       Silindir kontrol ve ölçümlerinin yapılması sağlanır.\n       Set raybası ile silindir setinin alınması sağlanır.\n       Motor bloğunun gerekli kontrollerinin yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Sabit Parçalar",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "10",
@@ -108,7 +96,6 @@
       "KAZANIM": "Gemi makineleri motor bloğunda onarım yapar.\nMotor bloğunun yapısal özellikleri ve kısımları açıklanır.\n       Krankkeys Üst karter ve bedpleyt açıklanır.\n       Laynerin görevi ve gerekliliği açıklanır.\n       Laynerlerin çeşitleri ve soğutulması açıklanır.\n       Laynerleri sökmeden önce makine üzerinde gerekli hazırlıkların yapılması sağlanır.\n       Layner üzerinde gerekli kontrollerin yapılması sağlanır.\n       İç silindirik parçalardan komparatörle ölçü alması sağlanır.\n       Silindir kontrol ve ölçümlerinin yapılması sağlanır.\n       Set raybası ile silindir setinin alınması sağlanır.\n       Motor bloğunun gerekli kontrollerinin yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Hareketli Parçalar",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "10",
@@ -117,7 +104,6 @@
       "KAZANIM": "Zaman ayar düzeneklerinin onarımını yapar.\n Kam şaftların onarımını yapar.\nMakinelerde zaman ayarının nedeni açıklanır.\n       Zaman ayar düzeneklerinin görevleri ve çeşitleri açıklanır.\n       Zaman ayar dişlilerinin zincirlerinin kayışlarının sökülerek kontrollerinin yapılması sağlanır.\n       Kam şaftın görevleri açıklanır.\n       Kam şaftın kısımlarının gösterilmesi sağlanır.\n       Kam şaft kontrollerinin yapılması sağlanır.\n       Komparatör  yardımı  eksenel  gezinti  kontrolü yapması sağlanır."
     },
     {
-      "ÜNİTE": "Hareketli Parçalar",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "10",
@@ -126,7 +112,6 @@
       "KAZANIM": "Valfleri onarır.\nValflerin görev ve kısımları açıklanır.\n       Gayıt ve sitlerin görevleri açıklanır.\n       Valf ayarı yapmanın gereği açıklanır.\n       Valflerin sökülmesi sağlanır.\n       Valf sit ve gayıtların kontrolü sağlanır.\n       Valf gayıt ve sit arızalarının bulunması sağlanır.\n       Valf ayarının yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Hareketli Parçalar",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "10",
@@ -135,7 +120,6 @@
       "KAZANIM": "Piston mekanizmasının onarımını yapar.\nPiston biyel mekanizmasının görevleri açıklanır.\n       Pistonun görevini ve yapısını açıklanır.\n       Ringlerin görevleri ve çeşitleri açıklanır.\n       Gacın pinin görevi açıklanır.\n       Kroshed donanımının görevi açıklanır.\n       Konnektin rod görevi ve yapısı açıklanır.\n       Gayıt ve sliperin görev ve yapısı açıklanır.\n       Pistonların kontrollerinin yapılması sağlanır.\n       Ring kontrollerinin yapılması sağlanır.\n       Kroshed donanımının kontrollerinin yapılması sağlanır.\n       Gayıt ve sliperin kontrollerinin yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Hareketli Parçalar",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "10",
@@ -144,7 +128,6 @@
       "KAZANIM": "Krank şaft mekanizmasının onarımını yapar.\nKrank şaftın görev ve yapısı açıklanır.\n       Krank şaftta yatakların ve yağlamanın önemi açıklanır.\n       Makine üzerinde krank şaft deflekşın ölçülerinin alınması sağlanır.\n       Komparatör  yardımı  eksenel  gezinti  kontrolü yapması sağlanır.\n       Krank şaft muylularının kontrollerinin yapılması sağlanır.\n       Ana yatak ve kol yatak kontrollerinin yapılması sağlanır.\n       Yağ kanallarının kontrollerinin yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Hareketli Parçalar",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "10",
@@ -152,7 +135,6 @@
       "KAZANIM": "Volanın onarımını yapar.\nVolanın görev ve yapısı açıklanır.\n       Volan kontrollerinin yapılması sağlanır.\n       Volan arızalarının bulunması sağlanır."
     },
     {
-      "ÜNİTE": "Pervane ve Şaft",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "10",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  Devir düşürücülerin bakımını yapar.\n Stern tüpün bakımını yapar.\nDevir    düşürücülerin    görev    ve    yapısı açıklanır.\n       Kaplinlerin sökülmeleri sağlanır.\n       Dişlilerin kontrol edilmeleri sağlanır.\n       Dişlilerin değiştirilmeleri sağlanır.\n       Balansını     yaparak      kaplinlerin      yerine takılması sağlanır.\n       Stern tüpün görev ve yapısı açıklanır.\n       Stern tüp bağlantılarının ve sızdırmazlığının kontrol edilmesi sağlanır.\n       Salmastranın değiştirilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "10",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "10",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "10",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Makine Elemanları",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "10",
@@ -193,7 +171,6 @@
       "KAZANIM": "Sökülebilen        birleştirme        elemanlarının seçimini ve ilgili hesaplamalarını yapar.\n Sökülemeyen      birleştirme      elemanlarının seçimini ve ilgili hesaplamalarını yapar.\nKama ile birleştirme yapılması sağlanır.\n       Pimlerin kullanılması sağlanır.\n       Vida    cıvata    ve    somun    ile    birleştirme yapılması sağlanır.\n       Tolerans hesaplamaları yapılması sağlanır.\n       Yüzey    kalite    işaretlerini    uygun    yerde kullanılması sağlanır.\n       Sökülebilen       birleştirme       elemanlarının hesaplamalarının yapılması sağlanır.\n       Perçinli   birleştirme   işlemlerinin   yapılması sağlanır.\n       Kaynaklı  birleştirme  işlemlerinin  yapılması sağlanır.\n       Sökülemeyen     birleştirme     elemanlarının hesaplamalarının yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Makine Elemanları",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "10",
@@ -201,7 +178,6 @@
       "KAZANIM": "Makine   elemanlarının   kataloglarına   uygun şekilde yağ bakımını yapar.\n Miller  muylular  ve  yatakların  seçimini  ve ilgili hesaplamaları yapar.\nMakine   parçalarının   yağlanması   gereken yerlerinin belirlenmesi sağlanır.\n       Makine   parçalarının   yağlama   şekillerinin tespit edilmesi sağlanır.\n       Yağ kataloglarının incelenmesi sağlanır.\n       Kataloga      uygun      yağlama      yapılması sağlanır.\n       Düz miller ve çeşitleri açıklanır.\n       Muylu ve çeşitleri açıklanır.\n       Yuvarlanma dirençli yataklar açıklanır.\n       Mil ve yataklarının yağlanması açıklanır.\n       Mil    muylu    ve    yatakların    hesaplarının yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Makine Elemanları",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "10",
@@ -209,7 +185,6 @@
       "KAZANIM": "Kayış   kasnak   dişli   çarklar   ve   zincirlerin seçimini ve ilgili hesaplamaları yapar.\n Kavramaların seçimini yapar.\nKayış  kasnak  dişli  çarklar  ve  zincirlerin hareket   iletimleri   ile   ilgili   uygulamaların yapılması sağlanır.\n       Kayış  kasnak  dişli  çarklar  ve  zincirlerin hareket      iletimleri      ile      hesaplamaların yapılması sağlanır.\n       Moment  ve  güç  hesaplamaların  yapılması sağlanır.\n       Kayış   kasnak   dişli   çark   ve   zincirlerin çeşitleri kullanıldığı yerler açıklanır.\n       Kavramaların  hareket  iletim  hesaplamaları yapılması sağlanır.\n       Kavramaların çeşitleri ve kullanıldığı yerler açıklanır."
     },
     {
-      "ÜNİTE": "Malzeme",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "10",
@@ -218,7 +193,6 @@
       "KAZANIM": "Çelik malzemeye ısıl işlem uygular.\n Yapıştırıcı ile birleştirir.\nÇelik malzemenin özellikleri açıklanır.\n       Malzeme     özellikleri     ile     ısıl     işlemler arasındaki ilişki açıklanır.\n       Verilen   malzemeye   homojen   tavlamanın yapılması sağlanır.\n       Termometre ile sıcaklık ölçülmesi sağlanır.\n       Soğutma       sıvısını       veya       ortamının belirlenmesi sağlanır.\n       Malzemeyi sertleştirmesi sağlanır.\n       Yapıştırıcıların özellikleri açıklanır.\n       Sızdırmazlık test işlemleri açıklanır.\n       Verilen     malzemeye     uygun     yapıştırıcı seçiminin yapılması sağlanır.\n       Verilen     malzemeleri     uygun     yapıştırıcı kullanarak birleştirmesi sağlanır.\n       Birleştirme  yapılan  kısma  sızdırmazlık  testi yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Malzeme",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "10",
@@ -227,7 +201,6 @@
       "KAZANIM": "Boya uygulamaları yapar.\nKorozyon        ve        korozyonu        önleme yöntemlerini açıklanır.\n       Gemide    korozyonu    önlemek    amacıyla kullanılan boyaların özellikleri açıklanır.\n       Boyaya uygun yüzey hazırlanması sağlanır.\n       Boyayı hazırlaması sağlanır.\n       Boyama yapması sağlanır."
     },
     {
-      "ÜNİTE": "Malzeme",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "10",
@@ -236,7 +209,6 @@
       "KAZANIM": "Katodik koruma sistemini test eder.\nKatodik koruma açıklanır.\n       Katodik       koruma       sisteminin       yerinin hazırlanması sağlanır.\n       Katodik korumayı test etmesi sağlanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "10",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Gemilerde Onarım ve İmalat",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "10",
@@ -254,7 +225,6 @@
       "KAZANIM": "İş parçası üzerinde markalama işlemlerini yapar.\n Verilen malzemeyi istenilen ölçülerde keser.\nMarkalama ve markalama araçları açıklanır.\n       Verilen iş parçasında markalama işlemlerinin yapılması sağlanır.\n       Verilen   iş   parçasında   kontrol   işlemlerinin yapılması sağlanır.\n       Kesme   işlemi   ve   kullanılacak   el   takımları açıklanır.\n       Testere  koluna  testere  lamasının  takılması sağlanır.\n       Kesme      işlemi      yapılacak      malzemeye markalama yapılması sağlanır.\n       Verilen malzemenin kesilmesi sağlanır"
     },
     {
-      "ÜNİTE": "Gemilerde Onarım ve İmalat",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "10",
@@ -263,7 +233,6 @@
       "KAZANIM": "Verilen      malzemenin      yüzeyini      düzelterek kontrolünü yapar.\nYüzey  düzeltme  işlemlerinde  kullanılan  araç ve gereçler açıklanır.\n       Eğeleme yapma teknikleri açıklanır.\n       Verilen iş parçasının mengeneye bağlanması sağlanır.\n       Malzemede elde edilmek istenilen yüzeye ve malzeme  cinsine  uygun  diş  ve  büyüklükte eğe seçiminin yapılması sağlanır.\n       Verilen     malzemeye     eğeleme     yapılması sağlanır.\n       Eğelenen  yüzeylerin  kontrolünün  yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Gemilerde Onarım ve İmalat",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "10",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav  El aletlerini ve matkapları biler.\nZımpara  taşı  tezgâhı  ve  taşlama  taşlarının özellikleri açıklanır.\n       El aletlerinin kesme açıları açıklanır.\n       Düz tornavidanın bilenmesi sağlanır.\n       Keskinin bilenmesi sağlanır.\n       Noktanın bilenmesi sağlanır.\n       Makasın bilenmesi sağlanır.\n       Matkabın bilenmesi sağlanır."
     },
     {
-      "ÜNİTE": "Gemilerde Onarım ve İmalat",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "10",
@@ -281,7 +249,6 @@
       "KAZANIM": "Malzemeyi el makineleriyle deler.\nMakinede  delme  işlemlerinde  kullanılan  araç ve gereçler açıklanır.\n       Verilen malzemeye matkap tezgâhında delme işleminin yapılması sağlanır.\n       Verilen malzemeye havşa açılması sağlanır.\n       Verilen malzemeye rayba yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Gemilerde Onarım ve İmalat",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "10",
@@ -290,7 +257,6 @@
       "KAZANIM": "Dişleri bozulmuş vidayı onarır.\nMakine bağlama yüzeyinde kırılmış cıvatanın delinerek tekrar diş açılması sağlanır.\n       Yalama olmuş cıvata saplama veya iç vidaya diş açılması sağlanır.\n       Diş tarağının kullanılması sağlanır.\n       Heilcoil kullanılması sağlanır."
     },
     {
-      "ÜNİTE": "Gemilerde Onarım ve İmalat",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "10",
@@ -299,7 +265,6 @@
       "KAZANIM": "Elektrikli el aletleri ile ilgili uygulamalar yapar.\nVerilen   parçanın   avuç   taşlama   aleti   ile kesilmesi sağlanır.\n       Verilen   parçanın   el   bireyzi   ile   delinmesi sağlanır.\n       Verilen parçaya yüzey zımpara aleti ile yüzey temizliği yapılması sağlanır.\n       Verilen      parçanın      testere      makinesinde kesilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Saç ve Boru İşlemleri",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "10",
@@ -308,7 +273,6 @@
       "KAZANIM": "Sac malzemeleri şekillendirir.\nSaç malzemenin özellikleri açıklanır.\n       Eğme-bükme yöntemleri açıklanır.\n       Elde eğme bükme pah radyüs işlemlerinde kullanılan araç gereçler açıklanır.\n       İş parçasının eğme bükme açısının ayarlanması sağlanır.\n       Saçın bükülmesi sağlanır.\n       Perçin tabancası kullanarak saçın perçinle birleştirilmesi sağlanır.\n       Çekiç kullanarak saçın perçinle birleştirilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Saç ve Boru İşlemleri",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "10",
@@ -317,7 +281,6 @@
       "KAZANIM": "Plastik boruları birleştirir.\nPlastik borular ve fittingslerin özellikleri açıklanır.\n       Plastik boru birleştirmede kullanılan takımlar açıklanır.\n       Verilen plastik boruların ölçüsünde kesilmesi sağlanır.\n       Verilen boru çapına uygun kaynak paftası seçilmesi sağlanır.\n       Boru ve fittingslerin birleştirilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Saç ve Boru İşlemleri",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "10",
@@ -326,7 +289,6 @@
       "KAZANIM": "Bakır ve alüminyum boruları birleştirir.\nBakır alüminyum boruların ve fittingslerin özellikleri açıklanır.\n       Bakır ve alüminyum boruları birleştirmede kullanılan takımlar ve özellikleri açıklanır.\n       Verilen bakır veya alüminyum boruların kesilmesi sağlanır.\n       Verilen bakır veya alüminyum borulara havşa açması sağlanır.\n       Uygun fitings seçilerek boruların birleştirilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Saç ve Boru İşlemleri",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "10",
@@ -335,7 +297,6 @@
       "KAZANIM": "Çelik boruları birleştirir.\nÇelik boruların özellikleri açıklanır.\n       Çelik boruları birleştirmede kullanılan araç ve gereçlerin özelliklerin açıklanır.\n       Verilen çelik borunun ölçüsüne göre kesilmesi sağlanır.\n       Verilen çelik boruya diş açılması sağlanır.\n       Verilen çelik boruların fittingslerle bağlanılması sağlanır.\n       Boru birleştirmede uygun sızdırmazlık elemanlarını kullanılması sağlanır.\n       Çelik borunun verilen ölçüye göre kesilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Saç ve Boru İşlemleri",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "10",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  Çelik boruları birleştirir.\nÇelik boruların özellikleri açıklanır.\n       Çelik boruları birleştirmede kullanılan araç ve gereçlerin özelliklerin açıklanır.\n       Verilen çelik borunun ölçüsüne göre kesilmesi sağlanır.\n       Verilen çelik boruya diş açılması sağlanır.\n       Verilen çelik boruların fittingslerle bağlanılması sağlanır.\n       Boru birleştirmede uygun sızdırmazlık elemanlarını kullanılması sağlanır.\n       Çelik borunun verilen ölçüye göre kesilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Saç ve Boru İşlemleri",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "10",
@@ -353,7 +313,6 @@
       "KAZANIM": "Çelik boruları birleştirir.\nÇelik boruların özellikleri açıklanır.\n       Çelik boruları birleştirmede kullanılan araç ve gereçlerin özelliklerin açıklanır.\n       Verilen çelik borunun ölçüsüne göre kesilmesi sağlanır.\n       Verilen çelik boruya diş açılması sağlanır.\n       Verilen çelik boruların fittingslerle bağlanılması sağlanır.\n       Boru birleştirmede uygun sızdırmazlık elemanlarını kullanılması sağlanır.\n       Çelik borunun verilen ölçüye göre kesilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "10",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "10",

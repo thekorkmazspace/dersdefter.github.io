@@ -3,7 +3,6 @@
   "ders": "Temel Denizcilik Atölyesi",
   "plan": [
     {
-      "ÜNİTE": "Temel Geometrik Şekiller",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "7",
@@ -12,7 +11,6 @@
       "KAZANIM": "İki    boyutlu    çizim    uygulamalarını    çizim takımları ile kâğıda çizer.Model parçaların görünüşlerini çıkarır.\nÇizim ortamı hazırlanması sağlanır.\n       Norm yazı yazılması sağlanır\n       Paralel ve dik çizgiler çizilmesi sağlanır\n       Pergel yardımı ile daireler çizilmesi sağlanır\n       Daireyi  değişik  sayılarda  bölme  çizimleri yapılması sağlanır\n       Model     parçalara     bakarak     görünüşleri çizilmesi sağlanır.\n       Perspektif üzerinden yeterli sayıda görünüş çizilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Ölçülendirme ve Perspektifler",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "7",
@@ -21,7 +19,6 @@
       "KAZANIM": "Perspektif çizimleri yapar.İki  ve  üç  boyutlu  resimlerde  ölçülendirme ve ölçeklendirme yapar.\nModel parçalara bakarak perspektif görünüş çizilmesi sağlanır\n       Ölçülendirme çeşitleri açıklanır.\n       Ölçülendirme kuralları açıklanır.\n       Görünüşler üzerinde ölçü bağlama çizgilerini çizilmesi sağlanır\n       Ölçü çizgileri çizilmesi sağlanır\n       Ölçü okları çizilmesi sağlanır\n       Ölçü    değerleri    ve    sembolleri    çizelgesi yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Kesit Görünüşler",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "7",
@@ -29,7 +26,6 @@
       "KAZANIM": "Makine    parçalarının    kesit    görünüşünü çıkartır.Açınım ve arakesit çizer.\nKesit görünüşler ve özellikleri açıklanır.\n       Açınım ve arakesitler açıklanır.\n       Açınım çizilmesi sağlanır.\n       Arakesitler çizilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Gemi Genel Planları",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "7",
@@ -38,7 +34,6 @@
       "KAZANIM": "Gemi genel planına uygun olarak gemi bölümleri ve donatımlarının yerini bulur.Gemi emniyet PLANI üzerinde işaretli olan malzemelerin konumunu tespit eder.Ulusal   ve   uluslararası    mevzuata   uygun olarak gemi adamı olmak için gerekli şartları yerine getirir.Denizcilik  örf  adetlerine  ve  gemi  düzenine uygun davranışları açıklar.\nGemi PLANI ve gemi genel PLANI açıklanır.\n       Makine dairesi yerleşimi plan üzerinde gösterilir.\n       Güverte teçhiz ve donanımını bulması sağlanır\n       Gemi emniyet ve yangın planını açıklanır.\n       Gemi emniyet ve yangın PLANI üzerinde işaretli olan malzemelerin konumunun tespit edilmesi sağlanır.\n       Gemiadamı olma şartları açıklanır.\n       Gemiadamı yeterlikleri açıklanır.\n       İş sözleşmesinin hukuki gerekleri açıklanır\n       Gemiadamı  olmak  için  müracaat  edilmesi sağlanır.\n       Gemiadamı   cüzdanı   ve   yeterlilik   belgesi alınması sağlanır.\n       Gemideki hiyerarşik yapı açıklanır.\n       Gemide yaşam koşulları açıklanır.\n       Gemide ki çalışma düzeni açıklanır.\n       Gemiye    katılma    ve    ayrılma    işlemleri açıklanır.\n       Gemide çalışmaya başlanması sağlanır.\n       Gemide verilen görevleri yapması sağlanır.\n       Gemideki  kişisel  yaşam  düzenine  uyması sağlanır.\n       Gemiden  ayrılmak  için  müracaat  edilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Oşinografi",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "7",
@@ -47,7 +42,6 @@
       "KAZANIM": "Fiziksel oşinografik ölçümler yapar.\nSıcaklık ve denizdeki değişimi açıklanır.\n       Tuzluluk ve denizdeki değişimleri açıklanır.\n       Yoğunluk ve denizdeki değişimleri açıklanır.\n       Bulanıklık ve denizdeki değişimleri açıklanır.\n       Deniz     ortamında     sıcaklığın     değişimi ölçülmesi sağlanır.\n       Deniz     ortamında     tuzluluğun     değişimi ölçülmesi sağlanır.\n       Deniz    ortamında    yoğunluğun    değişimi ölçülmesi sağlanır."
     },
     {
-      "ÜNİTE": "Oşinografi",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "7",
@@ -55,7 +49,6 @@
       "KAZANIM": "Dinamik oşinografik ölçümler yapar.\nDeniz    ortamlarının    kimyasal    özellikleri açıklanır.\n       Akıntı ve çeşitleri açıklanır.\n       Akıntı ölçüm yöntemleri sıralanır.\n       Dalga ve çeşitleri açıklanır.\n       Bofor tablosu açıklanır.\n       Gel-git açıklanır.\n       Deniz     ortamının     fiziksel     özelliklerinin belirlenmesi sağlanır."
     },
     {
-      "ÜNİTE": "Gemi Yapısı",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "7",
@@ -63,7 +56,6 @@
       "KAZANIM": "Gemi boyutlarını ve kısımlarını tespit eder.\nGemi yönleri açıklanır.\n       Gemi genel kısımları açıklanır.\n       Gemiyi oluşturan kısımların sınıflandırması sağlanır.\n       Gemi geometrisiyle ilgili tanımlar açıklanır.\n       Sehim siyer borda çalımını açıklanır.\n       Gemi tonajları açıklanır.\n       Gemi  maketi  üzerinde  gemiye  ait  yönleri gösterilmesi sağlanır.\n       Gemi maketi üzerinde gemiye ait kısımların gösterilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Gemi Yapısı",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "7",
@@ -72,7 +64,6 @@
       "KAZANIM": "Gemi   yapı   elemanlarını   ve   donanımlarını tespit eder.\nGemiyi oluşturan yapı elamanları açıklanır.\n       Tekne kaplama sacları hakkında açıklanır.\n       Posta ve kemerelerin özellikleri açıklanır.\n       Su geçirmez bölme perdelerini açıklanır.\n       Puntelleri ne olduğu açıklanır.\n       Deniz sandıkları sintine kuyuları menholler hava   firar   iskandil   borularının   özellikleri açıklanır.\n       Gemi üzerinde oluşan gerilimler açıklanır.\n       Dümen ve pervane açıklanır.\n       Gemiyi     oluşturan     temel     donanımların gösterilmesi sağlanır.\n       Gemi ana makine açıklanır.\n       Gemi yardımcı makineleri açıklanır.\n       Draftların okuması ve yorumlaması sağlanır."
     },
     {
-      "ÜNİTE": "Gemici Bağları",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "7",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Kazık bağı yapar.Sancak bağı yapar.\nHalat burgataları açıklanır.\n       Halat kısımları açıklanır.\n       Kazık  bağının  kullanım  yerleri  ve  amacı açıklanır.\n       Kazık bağı yapılması sağlanır.\n       Çifte kazık bağı yapılması sağlanır.\n       Sancak bağının kullanım amacı açıklanır.\n       Sancak bağı yapılması sağlanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "7",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Gemici Bağları",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "7",
@@ -99,7 +88,6 @@
       "KAZANIM": "Anele bağı yapar.Piyan yapar.\nAnele bağı kullanım amacı açıklanır.\n       Piyanların   çeşitlerinin  ve   kullanım  yerleri açıklanır.\n       Gizli piyan yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Gemici Bağları",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "7",
@@ -108,7 +96,6 @@
       "KAZANIM": "Yoma bağı yapar.İzbarco bağı yapar.\nYoma   ve   camadan   bağlarının   kullanım amaçları ve yerleri açıklanır.\n       Yoma bağı yapılması sağlanır.\n       Çifte yoma bağı yapılması sağlanır.\n       İzbarco   bağlarının   kullanım   amaçları   ve yerleri açıklanır.\n       İzbarço bağı yapılması sağlanır.\n       Çifte izbarço bağı yapılması sağlanır.\n       Foralı izbarço bağı yapılması sağlanır.\n       Doblin izbarço bağı yapılması sağlanır.\n       Sugalı izbarço bağı yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Seyir",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "7",
@@ -117,7 +104,6 @@
       "KAZANIM": "Uygun    harita    üzerinde    seyir    araç    ve gereçlerini kullanır.Manyetik  pusula  ve  gyro  pusula  ile  yönleri belirler.\nKoordinat sistemini oluşturan enlem boylam kavramları açıklanır.\n       Harita çeşitleri ve kitabe kısmı açıklanır.\n       Harita üzerinde paralel cetvel ve minkale ile yön ölçümü yapılması sağlanır.\n       Harita   üzerinde   kör   pergel   ile   mesafe ölçümü yapılması sağlanır.\n       Harita   kitabesi   içerisinde   yazan   bilgiler açıklanır.\n       Enlemi   ve   boylamı   verilen   bir   noktanın mevkii haritaya işletilmesi sağlanır.\n       Haritadaki bir noktanın enlem ve boylamının okunması sağlanır.\n       Manyetik   kuzey   ve   manyetik   meridyeni açıklanır.\n       Manyetik  ve  gyro  pusulanın  yön  gösterme özelliği açıklanır.\n       Yön  kavramının  ve  yön  belirtme  çeşitleri açıklanır.\n       Manyetik  pusuladan  yön  tespiti  yapılması sağlanır.\n       Gyro     cayro     pusuladan     yön     tespiti yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Seyir",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "7",
@@ -126,7 +112,6 @@
       "KAZANIM": "Manyetik        pusula        değerini        gerekli hesaplamaları    yaparak    hakiki    değerine çevirir.Harita    yardımı    ile    denizde    bulunduğu noktanın kerterizini alır.\nDeviationtable açıklanır.\n       Variation  değerinin  neden  kaynaklandığını ve nasıl hesaplandığı açıklanır.\n       Manyetik    pusula    yönü    ile    hakiki    yön arasındaki farkı açıklanır.\n       Devationtableden      devation      değerinin bulunması sağlanır.\n       Varation      değerini     hesap     yöntemiyle bulunması sağlanır.\n       Manyetik pusula yönüne deviation değerini uygulayarak    manyetik    kuzey    yönünün bulunması sağlanır.\n       Nispi ve hakiki kerteriz açıklanır.\n       Hedefe kullanılması sağlanır.\n       Pusula hatası açıklanır.\n       Pruvaya    göre    kerteriz    alma    işleminin yapılması sağlanır.\n       Hakiki kuzeye  göre  kerteriz  alma  işleminin yapılması sağlanır."
     },
     {
-      "ÜNİTE": "Temel Seyir",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "7",
@@ -148,7 +133,6 @@
       "KAZANIM": "-"
     },
     {
-      "ÜNİTE": "El Aletleri",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "7",
@@ -157,7 +141,6 @@
       "KAZANIM": "1. Dönem 2. Sınav Basit   tutucu   kesici   ve   şekillendirici   el aletlerini kullanır.Tornavida kullanır.Çeşitli   ağızlara   sahip   anahtar   takımlarını kullanır.Çeşitli çekiçleri kullanır.\nPense kullanılması sağlanır.\n       Kargaburun kullanılması sağlanır.\n       Yan keski kullanılması sağlanır.\n       Sekman pensesi kullanılması sağlanır.\n       Ayarlı pense kullanılması sağlanır.\n       Düz tornavida kullanılması sağlanır.\n       Yıldız uçlu tornavida kullanılması sağlanır.\n       Torx tornavida kullanılması sağlanır.\n       Açık ağız anahtar kullanılması sağlanır.\n       Yıldız anahtar kullanılması sağlanır.\n       Kombine anahtar kullanılması sağlanır.\n       Lokma    anahtar    ve   takımı    kullanılması sağlanır.\n       Allen anahtarı kullanılması sağlanır.\n       Torx anahtar takımı kullanılması sağlanır.\n       Kurbağacık kullanılması sağlanır.\n       Değişik    ağırlıktaki   çekiçleri    kullanılması sağlanır.\n       Plastik çekiç kullanılması sağlanır.\n       Lastik tokmak kullanılması sağlanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "7",
@@ -165,7 +148,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "7",
@@ -173,7 +155,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "7",
@@ -181,7 +162,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Ölçme ve Kontrol",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "7",
@@ -189,7 +169,6 @@
       "KAZANIM": "Uluslararası  standartlarda  ölçü  sistemlerini açıklar.Çelik cetvelle parça üzerinden ölçü alır.\nMetrik sistemi açıklanır.\n       İnç sistemi açıklanır.\n       Metrik  ve  inç  cetveller  ile  parça  üzerinden ölçü alınması sağlanır."
     },
     {
-      "ÜNİTE": "Ölçme ve Kontrol",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "7",
@@ -197,7 +176,6 @@
       "KAZANIM": "Kumpasla parça üzerinden ölçü alır.Mikrometre ile parça üzerinden ölçü alır.\nMetrik  ve  inç  kumpaslar  ile  değişik  parça üzerinden   dış   iç   ve   derinlik   ölçülerin alınması sağlanır.\n       Parçaya     uygun     mikrometre     seçmesi sağlanır.\n       Metrik    ve    inç    mikrometrelerle    değişik parçalar   üzerinden   dış   ölçüsü   alınması sağlanır.\n       Metrik ve inç çap mikrometreleriyle değişik parçalar üzerinden iç ölçü alınması sağlanır."
     },
     {
-      "ÜNİTE": "Gemi Makinelerine Giriş",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "7",
@@ -205,7 +183,6 @@
       "KAZANIM": "Dört     zamanlı     makinelerin     çevrimlerini açıklar.\nMotorculukla ilgili terimler açıklanır.\n       Dört zamanlı dizel teorik ve gerçek çevrimi açıklanır.\n       Dört     zamanlı     motorların     avantaj     ve dezavantajları açıklanır.\n       Beraber  çalışan  pistonları  tespit  edilmesi sağlanır.\n       Valflerin tespit edilmesi sağlanır.\n       Motoru    sente    ve    supap    bindirmesine getirmesi sağlanır.\n       Ateşleme sırasını tespit edilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Gemi Makinelerine Giriş",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "7",
@@ -214,7 +191,6 @@
       "KAZANIM": "İki zamanlı makinelerin çevrimlerini açıklar.\nİki  zamanlı  dizel  teorik  ve  gerçek  çevrimi açıklanır.\n       İki     zamanlı     motorların     avantaj     ve dezavantajları açıklanır.\n       Benzinli   ve   dizel   motorların   avantaj   ve dezavantajları açıklanır."
     },
     {
-      "ÜNİTE": "Sabit Parçalar",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "7",
@@ -223,7 +199,6 @@
       "KAZANIM": "Gemi   makineleri   üzerinde   hava   filtrelerini temizler veya değiştirir.Gemi      makinesi      hava      giriş      devresi susturucularını temizler.Manifoldları söker ve takar.\nHava   filtrelerinin    görevleri   ve    çeşitleri açıklanır.\n         Susturucuların     görevleri     ve     çeşitleri açıklanır.\n         Manifoldların görevleri açıklanır.\n         Manifoldların sökülmesi sağlanır."
     },
     {
-      "ÜNİTE": "Sabit Parçalar",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "7",
@@ -232,7 +207,6 @@
       "KAZANIM": "Rokerarmları söker ve takarKaveri söker ve takar.Laynerleri söker ve takar.\nRokerarmın görevleri açıklanır.\n         Rokerarmı sökülmesi sağlanır.\n         Puşrodları sökülmesi sağlanır.\n         Rokerarmı takılması sağlanır.\n         Kaverin görevleri açıklanır.\n         Kaverin  üzerindeki  elemanların  sökülmesi sağlanır.\n         Gayıt ve sitlerin sökülmesi sağlanır.\n         Kaverin   işlem   sırasına   göre   sökülmesi sağlanır.\n         Laynerin görevleri açıklanır.\n         Laynerleri sökmeden önce makine üzerinde gerekli hazırlıkları yapması sağlanır.\n         Laynerin sökülmesi sağlanır"
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "7",
@@ -241,7 +215,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Sabit Parçalar",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "7",
@@ -250,7 +223,6 @@
       "KAZANIM": "Karteri söker ve takar.\nKarterin görevleri açıklanır\n         Çevre   temizliğine   dikkat   ederek   motor yağının boşaltılması sağlanır.\n         Karterin sökülmesi sağlanır.\n         Karterin takılması sağlanır"
     },
     {
-      "ÜNİTE": "Hareketli Parçalar",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "7",
@@ -259,7 +231,6 @@
       "KAZANIM": "Zaman ayar düzeneklerini söker ve takar.Kamşaftı söker ve takar.\nZaman      ayar      düzeneğinin      görevleri açıklanır.\n         Motor   üzerindeki   işaretlere   göre   zaman ayar dişlisinin sökülmesi sağlanır.\n         Motor   üzerindeki   işaretlere   göre   zaman ayar zincirinin sökülmesi sağlanır.\n         Motor   üzerindeki   işaretlere   göre   zaman ayar kayışının sökülmesi sağlanır.\n         Motor   üzerindeki   işaretlere   göre   zaman ayar dişlisinin takılması sağlanır.\n         Motor   üzerindeki   işaretlere   göre   zaman ayar zincirinin takılması sağlanır.\n         Kamşaftın görevleri açıklanır.\n         Kamşaftın sökülmesi sağlanır."
     },
     {
-      "ÜNİTE": "Hareketli Parçalar",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "7",
@@ -268,7 +239,6 @@
       "KAZANIM": "2. Dönem 1. Sınav Valfleri söker ve takar.Piston mekanizmasını söker ve takar.\nValfl mekanizmasının görevleri açıklanır.\n         Valf  sökme  ve  takma  aparatı  ile  valflerin sökülmesi sağlanır.\n         Gayıtın sökülmesi sağlanır.\n         Sitlerin sökülmesi sağlanır.\n         Valf  sökme  ve  takma  aparatı  ile  valflerin takılması sağlanır.\n         Gayıtın takılması sağlanır.\n         Piston mekanizmasının görevleri açıklanır.\n         Makine        üzerinden        piston        biyel mekanizmasının sökülmesi sağlanır.\n         Pistonlar   üzerinden   ringlerin   sökülmesi sağlanır.\n         Kroshed donanımının sökülmesi sağlanır.\n         Gayıt ve sliperin sökülmesi sağlanır.\n         Pistonların    üzerine    ringlerin    takılması sağlanır.\n         Kroshed donanımının takılması sağlanır.\n         Gayıt ve sliperin takılması sağlanır."
     },
     {
-      "ÜNİTE": "Hareketli Parçalar",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "7",
@@ -277,7 +247,6 @@
       "KAZANIM": "Krank şaftı söker ve takar.Volanı söker ve takar.\nKrank şaftın görevleri açıklanır.\n         Krank şaftın sökülmesi sağlanır.\n         Volanın görevleri açıklanır.\n         Volanın sökülmesi sağlanır.\n         Volanın takılması sağlanır."
     },
     {
-      "ÜNİTE": "Ana Makine Yardımcı Devreleri",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "7",
@@ -286,7 +255,6 @@
       "KAZANIM": "Yakıt devre elemanlarının bakımını yapar.Yağlama devre elemanlarının bakımını yapar.\nYakıt    devresi    elemanlarının    görevleri açıklanır.\n         Yağlama  Devresi  elemanlarının  görevleri açıklanır."
     },
     {
-      "ÜNİTE": "Ana Makine Yardımcı Devreleri",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "7",
@@ -295,7 +263,6 @@
       "KAZANIM": "Soğutma devre elemanlarının bakımını yapar.İlk   hareket   devre   elemanlarının   bakımını yapar.\nSoğutma Devreleri elemanlarının görevleri açıklanır.\n         İlk hareket devrelerinin görevleri açıklanır.\n         İlk hareket devresi elamanları açıklanır.\n         İlk      hareket      Devreleri      elemanlarının bakımlarının yapılmasını sağlar."
     },
     {
-      "ÜNİTE": "Gemi Elektrik Elektroniğine Giriş",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "7",
@@ -304,7 +271,6 @@
       "KAZANIM": "Kontrol kalemi ile faz kontrolü yapar.Avometre ile ölçüm yapar.Kablo şekillendirir keser ve eklemeler yapar.\nFaz kontrolü açıklanır.\n         Avometre nin özellikleri açıklanır."
     },
     {
-      "ÜNİTE": "Gemi Elektrik Elektroniğine Giriş",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "7",
@@ -313,7 +279,6 @@
       "KAZANIM": "İletkenleri lehim yaparak birleştirir.Lehimlenmiş iletkenleri söker.\nKalem    havya    kullanımı    ile    birleştirme açıklanır.\n         Kalem havya ile lehim yapılması sağlanır.\n         Isı tabancası ile birleştirme açıklanır.\n         Kalem havya kullanımı açıklanır.\n         Kalem havya ile lehim sökülmesi sağlanır.\n         Isı tabancası özellikleri açıklanır.\n         Isı tabancası ile lehim sökülmesi sağlanır."
     },
     {
-      "ÜNİTE": "Temel Gemi Elektrik Elektroniği",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "7",
@@ -322,7 +287,6 @@
       "KAZANIM": "Temel elektronik devrelerini kurar.Aydınlatma tesisatı devrelerini kurar.\nElektronik        devrelerin        elemanlarının özellikleri açıklanır.\n         Elektronik  devre  elemanlarının  dizimi  ile ilgili kurallar açıklanır.\n         Güç    tesisatında    kullanılan    elemanların özellikleri açıklanır.\n         Güç tesisatında pano kullanımı açıklanır."
     },
     {
-      "ÜNİTE": "Temel Gemi Elektrik Elektroniği",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "7",
@@ -331,7 +295,6 @@
       "KAZANIM": "Direnç kanunları ile ilgili hesaplamalar yapar.Elektronik  devreler  üzerinde  ölçü  aletlerini kullanarak  akım  gerilim  frekans  ve  gücü ölçer.\nOHM kanunu açıklanır.\n         Kirchoff kanunu açıklanır.\n         Akım ölçümü açıklanır.\n         Akım ölçümü yapılması sağlanır.\n         Direnç ölçümü açıklanır.\n         Direnç ölçümü yapılması sağlanır.\n         Gerilim ölçümü açıklanır.\n         Gerilim ölçümü yapılması sağlanır.\n         Güç ölçümü açıklanır.\n         Güç ölçümü yapılması sağlanır.\n         Frekans ölçümü açıklanır.\n         Frekans ölçümü yapılması sağlanır."
     },
     {
-      "ÜNİTE": "DC Güç Kaynakları",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "7",
@@ -340,7 +303,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Batarya    şarjı    için    kullanılabilecek    güç kaynağı yapar.\nTransformatörün özellikleri açıklanır.\n         Transformatörün ölçülmesi sağlanır.\n         Transformatör        bağlantısı        yapılması sağlanır.\n         Tümleşik devre açıklanır.\n         Tümleşik devrenin ölçülmesi sağlanır."
     },
     {
-      "ÜNİTE": "DC Güç Kaynakları",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "7",
@@ -349,7 +311,6 @@
       "KAZANIM": "Aküyü doğru koşullar altında şarj eder.\nAkünün şarj koşulları açıklanır.\n         Akünün şarj edilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "7",
@@ -358,7 +319,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "7",

@@ -3,7 +3,6 @@
   "ders": "Türk Halk Müziği Teori ve Uygulaması(Yeni*)-11",
   "plan": [
     {
-      "ÜNİTE": "TÜRK HALK MÜZİĞİ",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "3",
@@ -11,7 +10,6 @@
       "KAZANIM": "11.1.1.1 Türk halk müziğinin tarihsel gelişimini ifade eder.\n11.1.1.2 Türk halk müziğinin kültürel evrelerine göre açıklar."
     },
     {
-      "ÜNİTE": "TÜRK HALK MÜZİĞİ",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "3",
@@ -19,14 +17,12 @@
       "KAZANIM": "11.1.2.1 Süreklilik gösteren ritimli ezgileri fark eder.\n11.1.2.2 Serbest ritimli ezgilere örnek verir."
     },
     {
-      "ÜNİTE": "TÜRK HALK MÜZİĞİ",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "3",
       "KAZANIM": "11.1.2.3 Süreklilik gösteren ve serbest ritimli ezgileri ayırt eder."
     },
     {
-      "ÜNİTE": "TÜRKÜ",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "3",
@@ -34,7 +30,6 @@
       "KAZANIM": "11.2.1.1 Türküyü sözlüklü kavramsal olarak ifade eder.\n11.2.1.2 Türkünün tarihsel gelişimini ve özelliklerini biçimsel olarak açıklar.\nTürkünün form yapısı ve dil özellikleri.\nTürkünün geleneksel üslup icra ve makam özellikleri."
     },
     {
-      "ÜNİTE": "TÜRKÜ",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "3",
@@ -42,21 +37,18 @@
       "KAZANIM": "11.2.2.1 Türküleri yapısal özelliklerine göre ayırt eder.\nBasit usul ve ölçülerdeki türküler.\nKarma usul ve ölçülerdeki türküler."
     },
     {
-      "ÜNİTE": "TÜRKÜ",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "3",
       "KAZANIM": "11.2.3.1 Türküleri konu hikaye ve derleme zamanlarına göre sınıflandırır."
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "3",
       "KAZANIM": "11.3.1.1 Nota değerlerini açıklar.\n11.3.1.2 Sus değerlerini açıklar.\n11.3.1.3 Usul kavramını ifade eder."
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "3",
@@ -64,7 +56,6 @@
       "KAZANIM": "11.3.1.4 Ölçü kavramını ifade eder.\n11.3.1.5 Ritim kalıplarından oluşan düzüm kavramını örneklerle gösterir.\n11.3.2.1 İki zamanlı usulü açıklar."
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "3",
@@ -72,7 +63,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 11.3.2.2 İki zamanlı usulü okur.\n11.3.2.3 İki zamanlı usulü yazar.\n11.3.2.4 İki zamanlı usulü vuruş biçimlerini uygular."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "3",
@@ -81,7 +71,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "3",
@@ -89,7 +78,6 @@
       "KAZANIM": "11.3.3.1 Üç zamanlı usulü açıklar.\n11.3.3.2 Üç zamanlı usulü okur.\n11.3.3.3 Üç zamanlı usulü yazar."
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "3",
@@ -97,7 +85,6 @@
       "KAZANIM": "11.3.3.4 Üç zamanlı usulü vuruş biçimlerini uygular.\n11.3.4.1 Dört zamanlı usulü açıklar.\n11.3.4.2 Dört zamanlı usulü okur."
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "3",
@@ -105,7 +92,6 @@
       "KAZANIM": "11.3.4.3 Dört zamanlı usulü yazar.\n11.3.4.4 Dört zamanlı usulü vuruş biçimlerini uygular.\n11.3.5.1 Birleşik beş zamanlı usulü açıklar."
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "3",
@@ -113,7 +99,6 @@
       "KAZANIM": "11.3.5.2 Birleşik beş zamanlı usulü okur.\n11.3.5.3 Birleşik beş zamanlı usulü yazar.\n11.3.5.4 Birleşik beş zamanlı usulü vuruş biçimlerini uygular."
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "3",
@@ -121,7 +106,6 @@
       "KAZANIM": "11.3.6.1 Birleşik altı zamanlı usulü açıklar.\n11.3.6.2 Birleşik altı zamanlı usulü okur."
     },
     {
-      "ÜNİTE": "USUL VE ÖLÇÜ",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "3",
@@ -129,14 +113,12 @@
       "KAZANIM": "11.3.6.3 Birleşik altı zamanlı usulü yazar.\n11.3.6.4 Birleşik altı zamanlı usulü vuruş biçimlerini uygular."
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "3",
       "KAZANIM": "11.4.1.1 Türk müziğinde kullanılan ikili aralıkları açıklar.\n11.4.1.2 Türk müziğinde kullanılan diğer aralıkları ayırt eder.\n11.4.2.1 Makamsal dizi oluşturmaya yarayan özel dörtlüleri ayırt eder.\nTürk müziğinde kullanılan ikili aralıkların perde ve bakiye Türk müziği perde sistemine uygun olarak anlatılır.\nÜçlü dörtlü beşli altılı yedili ve sekizli aralıklar Türk müziği perde sistemine uygun olarak anlatılır.\nDurak seyir dizi güçlü asma karar donanım perde ve yeden kavramları."
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "3",
@@ -144,7 +126,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 11.4.3.1 Makamsal dizi oluşturmaya yarayan özel beşlileri ayırt eder.\n11.4.4.1 Makam kavramını ifade eder.\n11.4.4.2 Türk müziğindeki makam kavramını birleşenlere açıklar.\nDurak seyir dizi güçlü asma karar donanım perde ve yeden kavramları."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "3",
@@ -152,7 +133,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "3",
@@ -160,7 +140,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "3",
@@ -168,28 +147,24 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "3",
       "KAZANIM": "11.4.5.1 Çargah makamının dizisini oluşturan perdeleri ifade eder.\n11.4.5.2 Çargah makamını oluşturan dörtlü ve beşlileri ifade eder.\n11.4.5.3 Çargah makamının özelliklerini açıklar.\nDurak seyir dizi güçlü asma karar donanım perde ve yeden özellikleri."
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "3",
       "KAZANIM": "11.4.5.4 Çargah makamındaki eserleri ayırt eder.\n11.4.6.1 Dügah makamının dizisini oluşturan perdeleri ifade eder.\n11.4.6.2 Dügah makamını oluşturan dörtlü ve beşlileri ifade eder."
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "3",
       "KAZANIM": "11.4.6.3 Dügah makamının özelliklerini açıklar.\n11.4.6.4 Dügah makamındaki eserleri ayırt eder.\n11.4.7.1 Kürdi makamının dizisini oluşturan perdeleri ifade eder.\nDurak seyir dizi güçlü asma karar donanım perde ve yeden özellikleri."
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "3",
@@ -197,7 +172,6 @@
       "KAZANIM": "11.4.7.2 Kürdi makamını oluşturan dörtlü ve beşlileri ifade eder.\n11.4.7.3 Kürdi makamının özelliklerini açıklar.\n11.4.7.4 Kürdi makamındaki eserleri ayırt eder.\nDurak seyir dizi güçlü asma karar donanım perde ve yeden özellikleri."
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "3",
@@ -205,7 +179,6 @@
       "KAZANIM": "11.4.8.1 Rast makamının dizisini oluşturan perdeleri ifade eder.\n11.4.8.2 Rast makamını oluşturan dörtlü ve beşlileri ifade eder.\n11.4.8.3 Rast makamının özelliklerini açıklar.\nDurak seyir dizi güçlü asma karar donanım perde ve yeden özellikleri."
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "3",
@@ -213,7 +186,6 @@
       "KAZANIM": "11.4.8.4 Rast makamındaki eserleri ayırt eder.\n11.4.9.1 Segah makamının dizisini oluşturan perdeleri ifade eder.\n11.4.9.2 Segah makamını oluşturan dörtlü ve beşlileri ifade eder."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "3",
@@ -222,7 +194,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "3",
@@ -230,7 +201,6 @@
       "KAZANIM": "11.4.9.3 Segah makamının özelliklerini açıklar.\n11.4.9.4 Segah makamındaki eserleri ayırt eder.\n11.4.10.1 Hüseyni makamının ve hüseyni ayağının oluşumunu ifade eder.\nDurak seyir dizi güçlü asma karar donanım perde ve yeden özellikleri."
     },
     {
-      "ÜNİTE": "MAKAMSAL MÜZİK-I",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "3",
@@ -238,7 +208,6 @@
       "KAZANIM": "11.4.10.2 Hüseyni makamını oluşturan beşli ve dörtlüleri ifade eder.\n11.4.10.3 Hüseyni makamının özelliklerini açıklar.\n11.4.10.4 Hüseyni makamındaki eserleri ayırt eder.\nDurak seyir dizi güçlü asma karar donanım perde ve yeden özellikleri."
     },
     {
-      "ÜNİTE": "MÜZİKSEL OKUMA VE SÖYLEME-I",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "3",
@@ -246,7 +215,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 11.5.1.1 Çargah makamı dizisini seslendirir.\n11.5.1.2 Çargah makamı dizisinde yazılı ezgileri okur.\n11.5.1.3 Çargah makamı dizisinde yazılı ezgileri söyler.\n11.5.2.1 Büselik makamı dizisini seslendirir.\nÇargah makamı dizisinde deşifre çalışmalarıyla birlikte ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL OKUMA VE SÖYLEME-I",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "3",
@@ -254,7 +222,6 @@
       "KAZANIM": "11.5.2.2 Büselik makamı dizisinde yazılı ezgileri okur.\n11.5.2.3 Büselik makamı dizisinde yazılı ezgileri söyler.\n11.5.3.1 Kürdi makamı dizisini seslendirir.\n11.5.3.2 Kürdi makamı dizisinde yazılı ezgileri okur.\nBüselik makamı dizisinde deşifre çalışmalarıyla birlikte ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL OKUMA VE SÖYLEME-I",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "3",
@@ -262,7 +229,6 @@
       "KAZANIM": "11.5.3.3 Kürdi makamı dizisinde yazılı ezgileri söyler.\n11.5.4.1 Rast makamı dizisini seslendirir.\n11.5.4.2 Rast makamı dizisinde yazılı ezgileri okur.\n11.5.4.3 Rast makamı dizisinde yazılı ezgileri söyler.\nKürdi makamı dizisinde deşifre çalışmalarıyla birlikte ritimsel okuma çalışmalarına da yer verilir.\nRast makamı dizisinde deşifre çalışmalarıyla birlikte ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL OKUMA VE SÖYLEME-I",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "3",
@@ -270,7 +236,6 @@
       "KAZANIM": "11.5.5.1 Segah makamı dizisini seslendirir.\n11.5.5.2 Segah makamı dizisinde yazılı ezgileri okur.\n11.5.5.3 Segah makamı dizisinde yazılı ezgileri söyler.\nSegah makamı dizisinde deşifre çalışmalarıyla birlikte ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL OKUMA VE SÖYLEME-I",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "3",
@@ -278,7 +243,6 @@
       "KAZANIM": "11.5.6.1 Hüseyni makamı dizisini seslendirir.\n11.5.6.2 Hüseyni makamı dizisinde yazılı ezgileri okur.\n11.5.6.3 Hüseyni makamı dizisinde yazılı ezgileri söyler.\nHüseyni makamı dizisinde deşifre çalışmalarıyla birlikte ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL YAZMA VE ÇALMA-I",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "3",
@@ -286,7 +250,6 @@
       "KAZANIM": "11.6.1.1 Çargah makamı dizisini yazar.\n11.6.1.2 Çargah makamı dizisini çalar.\n11.6.1.3 Çargah makamı dizisindeki ezgi diktelerini yapar.\n11.6.2.1 Büselik makamı dizisini yazar.\nÇargah dizisindeki yazma ve çalma çalışmalarında dizi çalanarak karar sesi seyir ve aldığı değiştiricilere vurgu yapılır. 2 3 ve 4 zamanlı usullerde ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL YAZMA VE ÇALMA-I",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "3",
@@ -294,7 +257,6 @@
       "KAZANIM": "11.6.2.2 Büselik makamı dizisini çalar.\n11.6.2.3 Büselik makamı dizisindeki ezgi diktelerini yapar.\n11.6.3.1 Kürdi makamı dizisini yazar.\n11.6.3.2 Kürdi makamı dizisini çalar.\nBüselik makamı dizisindeki yazma ve çalma çalışmalarında dizi çalanarak karar sesi seyir ve aldığı değiştiricilere vurgu yapılır. 2 3 ve 4 zamanlı usullerde ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL YAZMA VE ÇALMA-I",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "3",
@@ -302,7 +264,6 @@
       "KAZANIM": "11.6.3.3 Kürdi makamı dizisindeki ezgi diktelerini yapar.\n11.6.4.1 Rast makamı dizisini yazar.\n11.6.4.2 Rast makamı dizisini çalar.\n11.6.4.3 Rast makamı dizisindeki ezgi diktelerini yapar.\nKürdi makamı dizisindeki yazma ve çalma çalışmalarında dizi çalanarak karar sesi seyir ve aldığı değiştiricilere vurgu yapılır. 2 3 ve 4 zamanlı usullerde ritimsel okuma çalışmalarına da yer verilir.\nRast makamı dizisindeki yazma ve çalma çalışmalarında dizi çalanarak karar sesi seyir ve aldığı değiştiricilere vurgu yapılır. 2 3 ve 4 zamanlı usullerde ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL YAZMA VE ÇALMA-I",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "3",
@@ -310,7 +271,6 @@
       "KAZANIM": "2. Dönem 2. Sınav 11.6.5.1 Segah makamı dizisini yazar.\n11.6.5.2 Segah makamı dizisini çalar.\n11.6.5.3 Segah makamı dizisindeki ezgi diktelerini yapar.\nSegah makamı dizisindeki yazma ve çalma çalışmalarında dizi çalanarak karar sesi seyir ve aldığı değiştiricilere vurgu yapılır. 2 3 ve 4 zamanlı usullerde ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "MÜZİKSEL YAZMA VE ÇALMA-I",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "3",
@@ -318,7 +278,6 @@
       "KAZANIM": "11.6.6.1 Hüseyni makamı dizisini yazar.\n11.6.6.2 Hüseyni makamı dizisini çalar.\n11.6.6.3 Hüseyni makamı dizisindeki ezgi diktelerini yapar.\nHüseyni makamı dizisindeki yazma ve çalma çalışmalarında dizi çalanarak karar sesi seyir ve aldığı değiştiricilere vurgu yapılır. 2 3 ve 4 zamanlı usullerde ritimsel okuma çalışmalarına da yer verilir."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "3",
@@ -327,7 +286,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "3",

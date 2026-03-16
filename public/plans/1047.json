@@ -3,7 +3,6 @@
   "ders": "Bi̇yo Si̇nyal İzleme Ve Taki̇p Ci̇hazlari Atölyesi̇(Yeni*)-11",
   "plan": [
     {
-      "ÜNİTE": "EEG Cihazının Arızaları",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "12",
@@ -12,7 +11,6 @@
       "KAZANIM": "EEG     cihazının güç ünitesi ve junction-box arızalarını giderir.EEG cihazının elektrot ve olası diğer arızalarını giderir.\nEEG cihazının blok diyagram üzerinde birimleri sıralanır.\n EEG Üniteleri kontrol edilir.\n EEG Güç Ünitesinin çalışması gerçekleştirilir.\n Güç ünitesindeki olası arızalar sıralanır.\n Junction-Box ve arızalar tespit eder ve giderir.\n EEG işaretlerinin bilgisayar yardımıyla analizi yapılır.\n Elektrot ve olası diğer arızalar tespit edilir ve giderilir.\n EEG elektrot yapıları açıklanır ve incelenir.\n EEG elektrotlarının bağlantı şekilleri açıklanır ve bağlantılar yapılır.\n Photic-Lamb yapısı ve arızaları tespit edilir ve giderir."
     },
     {
-      "ÜNİTE": "EEG Cihazının Arızaları",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "12",
@@ -21,7 +19,6 @@
       "KAZANIM": "EEG cihazının bakım ve kalibrasyonunu yapar.\nEEG servis el kitabına göre bakımı yapılır.\n EEG cihazının yazıcı mürekkep haznesinin doldurulmasını gerçekleştirir.\n Yazıcının mürekkep haznesi çıkarılır ve temizlenir.\n Yazıcı kaleminin teknik özellikleri açıklanır ve incelenir.\n EEG cihazı periyodik bakımı yapılır.\n EEG kalibrasyonu yapılır."
     },
     {
-      "ÜNİTE": "Efor EKG Cihazı ve Arızaları",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "12",
@@ -29,7 +26,6 @@
       "KAZANIM": "Efor EKG cihazı sisteminin mekanik aksamlarını çalışmasını kontrolünü ve arıza tespitini yapar.\nEfor EKG cihazının yapısı incelenir ve çalışma prensibi kontrol edilir.\n Efor EKG cihazının mekanizmalarının bakımı yapılır.\n Efor EKG cihazının arıza tespiti yapılır ve giderilir.\n Efor EKG cihazının kullanımı gerçekleştirir."
     },
     {
-      "ÜNİTE": "Holter Cihazı ve Arızaları",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "12",
@@ -38,7 +34,6 @@
       "KAZANIM": "Holter cihazı sistem özelliklerini ve ölçme sistemlerini ayırt eder.\nHolter cihazının mekanizmaların bakımı yapılır.\n Holter cihazının arıza tespiti yapılır ve giderilir.\n Holter cihazı bakımı yapılır."
     },
     {
-      "ÜNİTE": "Holter Cihazı ve Arızaları",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "12",
@@ -47,7 +42,6 @@
       "KAZANIM": "Holter cihazı bilgisayar kaydını açıklar.\nHolter  bilgisayar kaydı gerçekleştirilir."
     },
     {
-      "ÜNİTE": "EMG-ENG Cihazı Kurulumu ve Kullanımı",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "12",
@@ -55,7 +49,6 @@
       "KAZANIM": "Kas-sinir  sinyal  izleyicileri  ve  ölçme sistemlerini ayırt eder.EMG ENGnin yerleşim ve montajın yaparak kullanıma hazır hale getirir.EMG-ENG  bağlantı  ayar  ve  sistem bütünlüğü kontrolü ve fonksiyon testlerini yapar ve kullanır.EMG cihazı besleme ünitesi arızaların giderir.EMG-ENG cihazlarının elektrot ve olas diğer arızalarını giderir.\nEMG işaretlerini ölçer.\n ENG işaretlerinin ölçer.\n EMG cihazının nakli yapılarak  ve yerleştirilir.\n EMG-ENGnin teknik özellikleri açıklanır ve incelenir.\n EMG-ENGnin aparatları sıralanır.\n EMG-ENG kurulumu ve montajı yapılır.\n Fiziki ortamın EMG-ENG cihazlarına etkisi açıklanır ve kontrol edilir.\n EMG-ENG cihazlarının kurulum alanı özellikleri ve güvenli nakil işlemleri gerçekleştirilir.\n EMG-ENG montajı yapılır.\n EMG-ENG cihazlarının elektriksel güvenlik ve topraklama kontrolü yapılır.\n EMG-ENG cihazı kaçak akım kontrolü yapılır.\n Enerji kablosu ve sistemin güç bağlantısı yapılır.\n Harici cihaz bağlantısı yapılır.\n Elektrot bağlantısı yapılır.\n Fiziksel-Elektriksel uyarıcı bağlantısı yapılır.\n Yazılımına ait özellikler kontrol edilir..\n EMG-ENG fonksiyon testi yapılır.\n EMG-ENG simülatörü kullanır.\n EMG-ENG üniteleri sıralanır.\n EMG-ENG güç-besleme ünitesi ve arızaları tespit edilir ve giderilir.\n İzoleli güç kaynağı yapısı ve çalışması izah edilir.\n Junction- Box ve arızaları tespit edilir ve giderilir.\n EMG-ENG işaretlerinin bilgisayar yardımıyla analizi yapılır.\n EMG karakteristiği açıklanır.\n Elektrot ve olası diğer arızaları tespit edilir ve giderilir.\n EMG arızaları ve giderme yöntemleri açıklanır ve arızaları giderilir.."
     },
     {
-      "ÜNİTE": "EMG-ENG Cihazı Kurulumu ve Kullanımı",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "12",
@@ -63,7 +56,6 @@
       "KAZANIM": "EMG-ENG cihazlarının bakım ve kalibrasyonunu yapar.EKT Elektrokonvülsif cihaz ölçümlerini yapar.EKT Elektrokonvülsif cihazı besleme katı arızalarını giderir.EKT Elektrokonvülsif cihaz aparatlarındaki rastgele arızalar giderir.\nEMG-ENG servis el kitabı bakım talimatları açıklanır ve bakımı yapılır.\n EMG-ENG cihazları periyodik bakımı yapılır.\n EMG-ENG kalibrasyonu yapılır.\n EKT Elektrokonvülsif cihazı mekanik aksamları açıklanır.\n EKT Elektrokonvülsif cihazı kurulumunu yapar.\n EKT Elektrokonvülsif cihazı şekli ve yapısı anlatılır.\n EKT Elektrokonvülsif cihazı mekanizmalarının bakımı yapılır.\n EKT  Cihazı  besleme  katı  arızalar tespit edilir ve giderilir.\n EKT cihazı rastgele arızalarının tespiti açıklanır ve arıza giderilir.\n EKT Besleme-güç ünitesi ve arızaları tespit edilir ve giderilir.\n Ana PCB LCD ünitesi ve diğer ünite arızaları sıralanır.\n EKT Fonksiyon testleri ve ayarları yapılır."
     },
     {
-      "ÜNİTE": "Uyku Bozukluğu Teşhis Cihazları",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "12",
@@ -72,7 +64,6 @@
       "KAZANIM": "Uyku bozuklukları teşhis cihazlarının kurulumunu gerçekleştirerek ölçüm yöntemlerin ayırt eder.Uyku bozuklukları teşhis cihazlarının arızalarını giderir.\nUyku bozuklukları teşhis cihazlarının kurulumunu gerçekleştirilir.\n Uyku bozuklukları teşhis cihazları çalışması ve özellikleri incelenir.\n Uyku bozuklukları teşhis cihazlarınınPSG-Polisomnografi Cihazı kullanım alanları ve çeşitleri açıklanır.\n Uyku bozuklukları teşhis cihazlarının olası arızaları tespit edilir ve giderilir.\n Yazılımdan kaynaklanan hataları sıralanır ve hatalar giderilir.\n Arıza bilgi formunda bulunması gereken bilgiler listelenir."
     },
     {
-      "ÜNİTE": "Uyku Bozukluğu Teşhis Cihazları",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "12",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Uyku bozuklukları  teşhis cihazlarının bakımını ve kalibrasyonunu yapar ve cihazı kullanır\nServis el kitabına göre  bakım yapılır.\n Uyku bozuklukları tedavi cihazı kalibrasyonları yapılır.\n Kalibrasyon sertifikası düzenlenir."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "12",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Nörolojik-Psikolojik Bozuklukları Teşhis Cihazları",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "12",
@@ -99,7 +88,6 @@
       "KAZANIM": "Nörolojik-psikolojik bozuklukları teşhis edici cihazların kurulum ölçüm yöntemlerini ayırt eder.Nörolojik-psikolojik bozuklukları teşhis edici cihazların arızalarını giderir.\nNörolojik-psikolojik bozuklukları teşhis edici cihazların kurulumunu yapar.\n Cihaza ait ölçme parametreleri kontrol edilir.\n Nörolojik-psikolojik bozuklukları tedavi edici manyetik simülatör cihazı ve arızaları tespit edilir ve giderilir.\n Manyetik simülatör cihazı kullanım alanları açıklanır.\n Manyetik simülatör cihazı çeşitleri açıklanır.\n Manyetik simülatör cihazı teknik özellikleri izah edilir.\n Manyetik simülatör cihazı aparatları açıklanır.\n Manyetik simülatör cihazı besleme-güç ünitesi ve arızaları  tespit edilir ve giderilir\n Manyetik simülatör cihazı fonksiyon testleri ve ayarları yapılır."
     },
     {
-      "ÜNİTE": "Nörolojik-Psikolojik Bozuklukları Teşhis Cihazları",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "12",
@@ -108,7 +96,6 @@
       "KAZANIM": "Nörolojik-psikolojik bozuklukları teşhis edici cihazların bakımını ve kalibrasyonunu yapar ve kullanır.\nNörolojik-psikolojik bozuklukları tedavi cihazlarının bakım ve kalibrasyonu yapılır.\n Ömürlü elemanlar kontrol edilir.\n Simulator İle Kalibrasyonu yapılır.\n Kalibrasyon sertifikasında bulunması gereken bilgiler listelenir ve cihaz kullanılır."
     },
     {
-      "ÜNİTE": "EKG Montajı",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "12",
@@ -117,7 +104,6 @@
       "KAZANIM": "EKG cihazının naklini ve kurulumunu yapar.EKG cihazlarının elektriksel güvenlik testlerini yaparak gerekli tedbirler alır.EKG yazıcısını çalıştırır.\nEKG cihazının aparatları kontrol edilir.\n EKG cihazlarının kurulumunu yapar.\n Teslim tutanağı hazırlanır..\n EKG Cihazı çalıştırır.\n EKG Cihazlarında kaçak akım kontrolü yapılır.\n Eş potansiyel topraklama kontrolü yapılır.\n EKG yazıcısında kağıt değişimi yapılır ve test çıktısı alınır."
     },
     {
-      "ÜNİTE": "EKGyi Kullanıma Hazırlama ve Kullanımı",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "12",
@@ -126,7 +112,6 @@
       "KAZANIM": "EKGnin dış birimlerinin kontrolünü yapar.EKG  bağlantı  ayar  ve  sistem bütünlüğü kontrolünü yapar.EKGnin fonksiyonel testini ve kalibrasyonunu yapar ve kullanır.\nEKG cihazının dış birimler kontrol edilir.\n EKG cihazında kullanılan aparatlar kontrol edilir.\n Hasta kablolarının kullanır.\n Kablo sembolleri ve renklerini açıklar.\n EKG harici ekipmanları kontrol edilir.\n EKG harici elemanlarının bağlantı şekilleri ve iletişim yöntemlerini gerçekleştirir.\n EKG fonksiyon testi yapılır\n Manuel ve otomatik fonksiyon kontrolü yapılır.\n EKG simülatörü ile fonksiyon kontrolü açıklanır ve gerçekleştirilir.\n EKG cihazlarında kalibrasyonu yapılan parametreler açıklanır ve kalibrasyon yapılır.\n Kalibrasyon sertifikası hazırlanır."
     },
     {
-      "ÜNİTE": "EKG LCD Ekran Elektrot   ve   Rastgele Arızaları",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "12",
@@ -135,7 +120,6 @@
       "KAZANIM": "EKG cihazı LCD ekran lead ve soket arızalarını giderir.\nLCD ekran sürücü devresinin arızaları tespit edilir ve giderilir..\n EKG lead ve soket arızaları tespit edilir ve giderilir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "EKG LCD Ekran Elektrot   ve   Rastgele Arızaları",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "12",
@@ -144,7 +128,6 @@
       "KAZANIM": "EKG cihazı elektrot ve rastgele arızalarını  giderir.\nEKG cihazında kullanılan elektrotların arızaları tespit edilir ve giderilir.\n EKG genel arıza çeşitleri tespit edilir ve giderilir.\n EKG ölçüm hataları tespit edilir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "EKG   Besleme   Sinyal İşleme ve Diğer Ünite Arızaları",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "12",
@@ -152,7 +135,6 @@
       "KAZANIM": "EKG cihazı AC ve DC besleme ünitelerinin arızalarını giderir.Kalp-dolaşım  sisteminin  özellikleri  ve elektrokardiyografi ölçüm düzeneklerini ayırt eder.EKG   sinyal   yükselteç   katı   ve   diğer ünite arızalarını giderir.\nGüç ünitesinin birimlerinin kontrolü yapılır ve arızaları giderilir\n Simetrik gerilim kontrolü yapılır ve arızalar giderilir.\n Arıza bilgi formu hazırlanır.\n EKG işaretlerinin parametrelerini ayırt eder.\n Kalp sinyallerini algılama metotları açıklanır.\n EKG iç yapısında ve  blok diyagramındaki arızalar tespit edilir ve giderilir.\n EKG cihazı yükselteç katındaki arızalar tespit edilir ve giderilir.\n Sağ bacak sürücü devresi ve blok diyagramındaki arızalar tespit edilir ve giderilir.\n Mikroişlemcili EKG düzeni kurulur.\n Arıza bilgi formu hazırlanır.."
     },
     {
-      "ÜNİTE": "EKG  Bakımı  ve  Yazıcı Arızaları",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "12",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav EKG yazıcı arızalarını giderir.\nEKG yazıcı mekaniği ve çalışma arızasını giderir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "12",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "12",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "12",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "EKG İşaretlerini Değerlendiren Diğer Düzenlerin Arızaları",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "12",
@@ -193,7 +171,6 @@
       "KAZANIM": "Kardiyotakometre çalışma sistemini ayırt eder.\nKardiyotakometrenin yapısı incelenir."
     },
     {
-      "ÜNİTE": "EKG İşaretlerini Değerlendiren Diğer Düzenlerin Arızaları",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "12",
@@ -201,7 +178,6 @@
       "KAZANIM": "Fetal EKG arızalarını giderir.\nFetal Monitör Kurulumu gerçekleştirilir.\n Fetal Monitör Elektriksel Güvenlik kontrolü yapılır.\n Fetal monitör blok yapısı kontrol edilir.\n Kablolu fetal monitör transduser arızaları tespit edilir ve giderilir.\n Kablosuz fetal transduser arızaları tespit edilir ve giderilir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "HBM Kurulumu ve Kullanımı",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "12",
@@ -209,7 +185,6 @@
       "KAZANIM": "HBM ile takip edilen parametreleri ve özelliklerini ayırt eder.HBMnin yerleşim ve montajını yapar.\nHBM ile parametreler takip edilir\n HBM   ile   takip   edilen   parametrelerin ölçüm yöntemleri incelenir.\n HBMnin   elektriksel   özellikleri   kontro edilir.\n HBMnin montajı gerçekleştirilir.\n HBMnin aparatlarının montajı yapılır.\n Teslim tutanağı hazırlanır."
     },
     {
-      "ÜNİTE": "HBM Kurulumu ve Kullanımı",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "12",
@@ -218,7 +193,6 @@
       "KAZANIM": "HBM   elektriksel   güvenlik   testlerin yaparak gerekli tedbirleri alır.HBM     bağlantı     ayar     ve     sistem bütünlüğü    kontrolü    ile    fonksiyon testlerini yapar ve kullanır.\nHBMye  enerji uygulanır.\n HBM akım kaçağı kontrolü yapılır.\n Eş    potansiyelli    topraklama    kontrolü yapılır.\n Hasta ve diğer kablo bağlantıları yapılır.\n HBM fonksiyon testi  yapılır.\n HBM  ayarları  gerçekleştirilir  ve  cihaz kullanılır."
     },
     {
-      "ÜNİTE": "HBM Giriş Çıkış Üniteleri Arızaları",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "12",
@@ -227,7 +201,6 @@
       "KAZANIM": "HBM  besleme-güç  ünitesi  arızaların giderir.HBM ekran-görüntü arızalarını giderir\nHBMnin   besleme   ünitesinin   arızalar tespit edilir ve giderilir.\n Besleme     devresi     birimlerinin     çıkış sinyalleri takip edilir.\n Arıza bilgi formu hazırlanır.\n Ekran ve görüntü ayarları yapılır.\n Olası  görüntü  arızaları  tespit  edilir  ve giderilir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "HBM Giriş Çıkış Üniteleri Arızaları",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "12",
@@ -236,7 +209,6 @@
       "KAZANIM": "HBM yazıcı arızalarını giderir.\nCihazlara   özel   dâhili   yazıcı   üniteler arızaları tespit edilir ve giderilir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "12",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "HBM Giriş Çıkış Üniteleri Arızaları",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "12",
@@ -254,7 +225,6 @@
       "KAZANIM": "HBM kayıt üniteleri arızalarını giderir.\nHBM kayıt ünitesinin arızaları tespit edilir ve giderilir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "HBM Bakımı ve Onarımı",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "12",
@@ -263,7 +233,6 @@
       "KAZANIM": "HBM sistem arızalarını giderir.HBM anahtar soket ve sensör arızalarını giderir.\nHBMün  ünite  ve  birim  arızaları  tespi edilir ve giderilir.\n Arıza bilgi formu hazırlanır.\n HBMde   kullanılan   sensör   arızalar tespit edilir ve giderilir.\n HBMde kullanılan soket arızaları tespi edilir ve giderilir.\n HBMnin   hata   kodları   ve   nedenler tespit edilir ve giderilir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "HBM Bakımı ve Onarımı",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "12",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav HBM bakım ve kalibrasyonunu yapar.\nBakım yapılır.\n Cihaz temizliği yapılır.\n Bakım çizelgesi hazırlanır.\n Kalibrasyon yapılır.\n CO2 kalibrasyonu yapılır.\n Kalibrasyon sertifikası hazırlanır."
     },
     {
-      "ÜNİTE": "Solunum Ölçüm Cihazları",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "12",
@@ -281,7 +249,6 @@
       "KAZANIM": "Solunum sistemi özellikleri ve ölçme sistemlerini ayırt eder.Spirometre kurulumunu yapar..\nSolunum ölçme yöntemleri ayırt edilir\n Spirometrenin montajın gerçekleştirilir.\n Teslim tutanağı hazırlanır."
     },
     {
-      "ÜNİTE": "Solunum Ölçüm Cihazları",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "12",
@@ -290,7 +257,6 @@
       "KAZANIM": "Spirometre arızalarını giderir.Spirometre bakım ve kalibrasyonunu yapar ve kullanır.\nSpirometrenin parçaları listelenir.\n Spirometrenin   tipik   arızaları   tespi edilir ve giderilir.\n Arıza bilgi formu hazırlanır.\n Bakım çizelgesi hazırlanır.\n Kalibrasyon yapılır.\n Fonksiyon testi yapılır.\n Kalibrasyon sertifikası hazırlanır.\n Cihaz kullanılır."
     },
     {
-      "ÜNİTE": "Timpanometri Cihazı Arızaları",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "12",
@@ -299,7 +265,6 @@
       "KAZANIM": "Timpanometri cihazı ölçümlerini yapar.Timpanometri  cihazının  besleme  kat arızalarını giderir.\nTimpanometri cihazı ölçümlerini yapar.\n Timpanometri cihazının mekanizmalarının bakımı yapılır.\n Timpanometri cihazının arıza tespiti yapılır.\n Timpanometri   cihazının   besleme   kat arızaları tespit edilir ve giderilir."
     },
     {
-      "ÜNİTE": "Timpanometri Cihazı Arızaları",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "12",
@@ -308,7 +273,6 @@
       "KAZANIM": "Timpanometri cihazının rastgele arızalarını giderir.\nTimpanometri cihazının rastgele arızaları tespit edilir ve giderilir.\n Arıza bilgi formu hazırlanır."
     },
     {
-      "ÜNİTE": "Odyometri Cihazlarının Bakımı ve Onarımı",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "12",
@@ -317,7 +281,6 @@
       "KAZANIM": "İşitme  sistemi  özelliklerini  ve  ölçme sistemlerini ayırt eder.Odyometri kurulumunu yapar.Odyometri arızalarını giderir.Odyometri cihazının bakım ve kalibrasyonunu yapar ve kullanır.\nOdyolojik inceleme yapılır.\n Odyometri kurulumu yapar.\n Odyometrik testlerin uygulanma yöntemleri  gerçekleştirilir.\n Teslim tutanağı hazırlanır.\n Odyometri cihazının parçaları listelenir.\n Odyometrinin  tipik  arızaları  tespit  edilir ve giderilir.\n Arıza bilgi formu hazırlanır.\n Cihaz bakımı yapılır.\n Bakım çizelgesi hazırlanır.\n Kalibrasyonun   gerekliliği   ve   çeşitler açıklanır.\n Fonksiyon testi yapılır.\n Kalibrasyon sertifikası hazırlanır."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "12",
@@ -326,7 +289,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "12",
@@ -335,7 +297,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "12",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Genel Tekrar\nGenel Tekrar"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "12",
@@ -353,7 +313,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "12",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "12",

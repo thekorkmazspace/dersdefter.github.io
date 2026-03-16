@@ -3,7 +3,6 @@
   "ders": "Otomotıv Elektromekanık Teknolojisi",
   "plan": [
     {
-      "ÜNİTE": "Aydınlatma ve Uyarı Sistemleri",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "5",
@@ -12,7 +11,6 @@
       "KAZANIM": "Araç tesisatı elemanlarını kontrol eder.\n Aydınlatma lambalarını kontrol ederek değiştirir.\nAraç elektrik tesisatında kullanılan kabloların yapısını ve çeşitlerini açıklar.\n Tesisata göre kablo seçimini açıklar.\n Soketlerin ve ampullerin çeşitlerini ve kullanıldığı yerleri açıklar.\n Aydınlatma devrelerini ve kullanılan malzemeleri açıklar.\n Aydınlatma devrelerinde yapılan kontrolleri açıklar."
     },
     {
-      "ÜNİTE": "Aydınlatma ve Uyarı Sistemleri",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "5",
@@ -21,7 +19,6 @@
       "KAZANIM": "Far ayarı ve kontrolünü yapar.\n Kornayı kontrol ederek değiştirir.\nFarları  yapılarını ve çeşitlerini açıklar.\n Far devrelerini ve kullanılan malzemeleri açıklar.\n Far devrelerinde yapılan kontrol ve ayarları açıklar.\n Kornaların görevi yapısal özelliklerini açıklar.\n Kornaların çeşitlerini ve çalışmasını açıklar.\n Kornaların kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Aydınlatma ve Uyarı Sistemleri",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "5",
@@ -29,7 +26,6 @@
       "KAZANIM": "Uyarı lambalarını kontrol ederek değiştirir.\n Sigorta panelini ve sigortaları kontrol ederek değiştirir.\nÖn ve arka park devresinin görevini çalışmasını ve kontrollerini açıklar.\n Sinyal devresinin görevini çalışmasını ve kontrollerini açıklar.\n Dörtlü flaşör devresinin görevini çalışmasını ve kontrollerini açıklar.\n Geri vites devresinin görevini çalışmasını ve kontrollerini açıklar.\n Fren lamba devresinin görevini çalışmasını ve kontrollerini açıklar.\n Sigorta paneli ve sigortaların görevi çeşitleri çalışmasını açıklar.\n Rölelerin görevi çeşitleri çalışmasını açıklar.\n Kısa devrenin oluşturacağı tehlikeleri sıralar.\n Sigorta paneli sigortaların ve rölelerin kontrollerini sıralar."
     },
     {
-      "ÜNİTE": "Marş Sistemleri",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "5",
@@ -38,7 +34,6 @@
       "KAZANIM": "Kontak anahtarının bakım ve onarımını yapar.\nMarş sisteminin görevi ve çalışmasını açıklar.\n Marş sisteminin parçalarını sıralar.\n Kontak anahtarının görevi çeşitleri ve yapısal özelliklerini açıklar.\n Kontak anahtarının çalışması ve arızalarını açıklar."
     },
     {
-      "ÜNİTE": "Marş Sistemleri",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "5",
@@ -47,7 +42,6 @@
       "KAZANIM": "Marş sisteminin elektrik tesisatının bakım ve onarımını yapar.\nMarş devresinin özelliklerini açıklar.\n Marş devresinde kullanılan kablo çeşitlerini sıralar.\n Marş selenoidinin görevi yapısı ve özelliklerini açıklar."
     },
     {
-      "ÜNİTE": "Marş Sistemleri",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "5",
@@ -55,7 +49,6 @@
       "KAZANIM": "Marş motorunun bakım ve onarımını yapar.\nMarş motorlarının çalışma prensibi Faraday prensibi ve genel yapısını açıklar.\n Marş motoru çeşitleri ve yapılarını açıklar.\n Marş sistemi kontrolleri ve arızalarını sıralar.\n Sökülüp takılmasında dikkat edilmesi gereken hususları listeler."
     },
     {
-      "ÜNİTE": "Şarj Sistemleri",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "5",
@@ -63,7 +56,6 @@
       "KAZANIM": "Şarj sistemi elemanlarının bakım ve onarımını yapar.\nŞarj sisteminin görevini ve yapısını açıklar.\n Şarj sisteminin parçalarını ve çalışmasını açıklar.\n Alternatörün kontrollerini ve arızalarını açıklar."
     },
     {
-      "ÜNİTE": "Şarj Sistemleri",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "5",
@@ -72,7 +64,6 @@
       "KAZANIM": "Şarj sistemi elektrik tesisatının bakım ve onarımını yapar.\nAlternatör kayışının görevi çeşitleri ve yapısal özelliklerini açıklar\n Alternatör kayışının kontrollerini ve değiştirilme zamanlarını sıralar.\n Alternatör kayışının gerginlik ayarını açıklar."
     },
     {
-      "ÜNİTE": "Şarj Sistemleri",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "5",
@@ -81,7 +72,6 @@
       "KAZANIM": "Alternatör elemanlarının bakım ve onarımını yapar.\nŞarj sisteminde şarj akımının ve şarj voltajının kontrolünü açıklar.\n Test cihazı ile alternatörün kontrol edilmesini açıklar."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "5",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Benzinli Motorlarda Ateşleme Sistemleri",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "5",
@@ -99,7 +88,6 @@
       "KAZANIM": "Klasik ateşleme sisteminin tanımını ve özelliklerini açıklar.\n Platin kumandalı transistorlu elektronik ateşleme sisteminin bakım ve onarımını yapar.\n Endüktif vericili elektronik ateşleme sistemlerinin bakım ve onarımını yapar.\nKlasik ateşleme sisteminin tanımı ve özelliklerini açıklar.\n Klasik ateşleme sisteminin yetersizliklerini açıklar.\n Elektronik ateşleme sisteminin tanımı ve özelliklerini açıklar\n Klasik ateşleme sisteminin yetersizlikleri ve elektronik ateşleme sisteminin üstünlüklerini açıklar\n Elektronik ateşleme sisteminin çeşitlerini sıralar\n Platin kumandalı transistörlü ateşleme sisteminin özelliklerini ve parçalarını sıralar.\n Platin kumandalı transistörlü ateşleme sisteminin sistemin çalışmasını ve kontrollerini açıklar.\n Platin kumandalı transistörlü ateşleme sisteminin yetersizliklerini açıklar.\n Endüktif vericili elektronik ateşleme sisteminin yapısını ve çeşitlerini açıklar.\n Distribütörden uyartımlı sistemin parçaları çalışmasını ve kontrollerini açıklar.\n Volan veya kasnaktan uyartımlı sistemin parçaları çalışmasını ve kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Benzinli Motorlarda Ateşleme Sistemleri",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "5",
@@ -108,7 +96,6 @@
       "KAZANIM": "Hall etkili elektronik ateşleme sistemlerinin bakım ve onarımını yapar.\n Distribütörsüz eş silindir elektronik ateşleme sisteminin bakım ve onarımını yapar.\nHall etkisi kumandalı elektronik ateşleme sisteminin parçalarını ve çalışmasını açıklar.\n Hall etkisi kumandalı elektronik ateşleme sisteminin kontrollerini açıklar.\n Distribütörsüz tip elektronik ateşleme sistemi çeşitlerini sıralar.\n İkiz ateşleme sisteminin yapısını ve çeşitlerini listeler.\n İkiz ateşleme sisteminin parçalarını sıralar.\n İkiz ateşleme sisteminin çalışmasını ve sistemde yapılan kontrolleri açıklar."
     },
     {
-      "ÜNİTE": "Benzinli Motorlarda Ateşleme Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "5",
@@ -117,7 +104,6 @@
       "KAZANIM": "Distribütörsüz bağımsız ateşleme sisteminin bakım ve onarımını yapar.\n Elektronik ateşleme sisteminde arıza teşhisi yapar.\nBağımsız ateşleme sisteminin parçalarını sıralar.\n Bağımsız ateşleme sisteminin çalışmasını ve sistemde yapılan kontrolleri açıklar.\n Distribütörsüz elektronik ateşleme sistemlerinde avans tertibatlarını açıklar.\n Elektronik ateşleme sisteminde oluşabilecek arızaları sıralar."
     },
     {
-      "ÜNİTE": "Benzinli Motorlarda Yakıt Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "5",
@@ -126,7 +112,6 @@
       "KAZANIM": "Karbüratörlü yakıt sisteminin bakım ve onarımını yapar.\nKarbüratörlü yakıt sisteminin görevini ve elemanlarını açıklar.\n Karbüratörün tanımı görevi yapısı ve çeşitlerini açıklar."
     },
     {
-      "ÜNİTE": "Benzinli Motorlarda Yakıt Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "5",
@@ -135,7 +120,6 @@
       "KAZANIM": "Tek nokta enjeksiyon sisteminin bakım ve onarımını yapar.\nTek nokta enjeksiyon sisteminin genel yapısını ve özelliklerini listeler.\n Tek nokta enjeksiyon sisteminin devre şemasını ve çalışma sistemini açıklar.\n Tek nokta enjeksiyon sisteminin elemanlarını sıralar.\n Tek nokta enjeksiyon sisteminin elemanlarının yapısını ve çalışmasını açıklar."
     },
     {
-      "ÜNİTE": "Benzinli Motorlarda Yakıt Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "5",
@@ -144,7 +128,6 @@
       "KAZANIM": "Çok nokta enjeksiyon sisteminin bakım ve onarımını yapar.\nÇok nokta enjeksiyon sisteminin genel yapısı ve özelliklerini listeler.\n Çok nokta enjeksiyon sistemi devre şeması ve çalışma sistemini açıklar.\n Çok nokta enjeksiyon sisteminin elemanlarını sıralar.\n Çok nokta enjeksiyon sisteminin elemanlarının yapısını ve çalışmasını açıklar."
     },
     {
-      "ÜNİTE": "Benzinli Motorlarda Yakıt Sistemleri",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "5",
@@ -152,7 +135,6 @@
       "KAZANIM": "Direkt enjeksiyon sisteminin bakım ve onarımını yapar.\nDirekt püskürtmeli enjeksiyon sisteminin genel yapısını ve özelliklerini açıklar.\n Direkt püskürtmeli enjeksiyon sisteminin devre şemasını ve çalışmasını açıklar."
     },
     {
-      "ÜNİTE": "Benzinli Motor Yönetim Sistemleri",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "5",
@@ -161,7 +143,6 @@
       "KAZANIM": "Sensörlerin bakım ve onarımını yapar.\n Enjektörlerin bakım ve onarımını yapar.\nMotor yönetim sisteminin yapısını ve elektronik kontrol ünitesine giren bilgileri listeler.\n Elektronik kontrol ünitesine bilgi veren elemanları sıralar.\n Hava debimetresinin görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Emme havası sıcaklık sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Mutlak basınç sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Gaz pedal konum sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Gaz kelebeği konum sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Oksijen Lamda sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Motor soğutma suyu sıcaklık sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Yakıt sıcaklık sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Egzoz geri basınç bildirim ve egzoz sıcaklık sensörlerinin görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Kick-downsensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Turbo şarj ve basınç sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Darbe sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Motor yağı sıcaklık sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Motor yağ basınç ve seviye sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Krank mili konum sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Kam mili konum sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Vuruntu sensörünün görevini  yapısal özelliklerini ve kontrollerini açıklar.\n Elektromanyetik enjektörlerin görevlerini ve çeşitlerini listeler.\n Enjektörlerin yapısal özelliklerini ve çalışmasını açıklar.\n Enjektörlerin kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "5",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "5",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "5",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Benzinli Motor Yönetim Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "5",
@@ -193,7 +171,6 @@
       "KAZANIM": "Ateşleme bobinlerinin bakım ve onarımını yapar.\n Elektronik gaz kelebeğinin bakım ve onarımını yapar.\nAteşleme bobinlerinin görevlerini ve yapısal özelliklerini listeler.\n Ateşleme bobinlerinin çeşitlerini ve çalışmasını açıklar.\n Ateşleme bobinlerinin kontrollerini açıklar.\n Elektronik kontrollü gaz kelebeğinin görevlerini ve yapısal özelliklerini listeler.\n Elektronik kontrollü gaz kelebeğinin çalışmasını ve kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Benzinli Motor Yönetim Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "5",
@@ -201,7 +178,6 @@
       "KAZANIM": "Karbon kanister valfinin bakım ve onarımını yapar.\nKarbon kanisterelektrovanasının görevlerini ve yapısal özelliklerini listeler.\n Karbon kanisterelektrovanasının çalışmasını ve kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Benzinli Motor Yönetim Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "5",
@@ -209,7 +185,6 @@
       "KAZANIM": "Rölanti motorunun aktüvatörü bakım ve onarımını yapar.\nRölanti motorunun aktüvatörü görevlerini ve yapısal özelliklerini listeler.\n Rölanti motorunun çalışmasını ve kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Araç Gösterge ve Güvenlik Sistemleri",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "5",
@@ -218,7 +193,6 @@
       "KAZANIM": "Gösterge panelinin bakım ve onarımını yapar.\n İmmobilizer sisteminin bakım ve onarımını yapar.\nYakıt gösterge devresini çizerek açıklar.\n Yağ gösterge devresini çizerek açıklar.\n El freni gösterge devresini çizerek açıklar.\n Şarj lambası gösterge devresini çizerek açıklar.\n Kilometre ve devir gösterge devresini çizerek açıklar.\n Sıcaklık gösterge devresini çizerek açıklar.\n Arıza uyarı lambası devresini çizerek açıklar.\n Kızdırma bujileri lamba devresini çizerek açıklar.\n Yağ seviye uyarı lamba devresini çizerek açıklar.\n Hidrolik seviye uyarı lambası devresini çizerek açıklar.\n Kumanda düğmelerinin çalışmasını çeşitlerini arızalarını ve kontrollerini açıklar.\n İmmobilizerin code sistemi görevini ve çalışmasını açıklar.\n İmmobilizer sisteminin parçalarını listeler.\n İmmobilizer sisteminin arızalarını ve kontrollerini açıklar.\n İmmobilizer sisteminin anahtarların programlanmasını ve parçalarının değiştirilmesinde dikkat edilmesi gerekenleri açıklar."
     },
     {
-      "ÜNİTE": "Araç Gösterge ve Güvenlik Sistemleri",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "5",
@@ -227,7 +201,6 @@
       "KAZANIM": "Uzaktan kumandanın bakım ve onarımını yapar.\n Araç alarmının bakım ve onarımını yapar.\nUzaktan kumanda sisteminin görevini ve devre elemanlarını açıklar.\n Uzaktan kumanda sisteminin yapısal özelliklerini ve kontrolünü açıklar.\n Alarm sisteminin görevini ve özelliklerini açıklar.\n Alarm sisteminin parçalarını ve çalışmasını açıklar.\n Alarm kumanda mekanizmasının fonksiyonlarını ve programlanması listeler.\n Alarm sisteminin arızalarını ve test edilmesini açıklar."
     },
     {
-      "ÜNİTE": "Araç Gösterge ve Güvenlik Sistemleri",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "5",
@@ -236,7 +209,6 @@
       "KAZANIM": "Airbaglerin bakım ve onarımını yapar.\n Emniyet kemerlerinin bakım ve onarımını yapar.\nAirbaglerin hava yastıkları görevini ve parçalarını listeler.\n Hava yastıklarının yapısını ve çalışmasını açıklar.\n Hava yastıklarının arızalarını ve belirtilerini sıralar.\n Emniyet kemerlerinin görevini önemini ve çeşitlerini sıralar.\n Emniyet kemerlerinin yapısı ve çalışmasını açıklar."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "5",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Araç İklimlendirme Sistemleri",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "5",
@@ -254,7 +225,6 @@
       "KAZANIM": "Araç klimalarının genel kontrol ve bakımını yapar.\n Klima kompresörünün kontrol ve bakımını yapar.\nKlimalarda kullanılan temel tanımları ve araç klimalarının kullanım amaçlarını sıralar.\n Araç klimalarının görevini genel yapısını ve çeşitlerini açıklar.\n Klima gazlarının görevini çeşitlerini ve özelliklerini listeler.\n Klima gazlarının çevreye etkilerini açıklar.\n Klima soğutucu akışkan tüplerinde dikkat edilecek hususları sıralar.\n Klima servis cihazlarının görevlerini çeşitlerini ve kullanılmasında dikkat edilecek hususları açıklar.\n Klima sisteminin genel kontrolleri ve bakımını açıklar.\n Klima kompresörlerinin görevini ve çeşitlerini açıklar.\n Klima kompresörlerinin yapısını ve çalışmasını açıklar.\n Klima kompresör yağının özelliklerini listeler.\n Elektro-manyetik kavramalı kasnakların yapısını ve çalışmasını açıklar.\n Klima kompresörlerinin bakım ve kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Araç İklimlendirme Sistemleri",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "5",
@@ -263,7 +233,6 @@
       "KAZANIM": "Klima sistemi soğutucu akışkan devresi elemanlarını kontrol ve bakımını yapar.\nKlima sistemi soğutucu akışkan devresi elemanlarının görevini ve yapısını açıklar.\n Klima soğutucu akışkan devresinin çalışmasını açıklar.\n Klima soğutucu akışkan devresinin arızalarını kontrollerini ve bakımlarını listeler.\n Evaporator radyatörünü ve fanını kontrol edip değiştirir.\n Sistemde gaz dedektörü ve UV yağı ile sızıntı kontrolü yapar.\n Kısılma vanasının kontrollerini yapar.\n Kondenser radyatörünü ve fanını kontrol eder.\n Klima hortum ve rekorlarını kontrol eder.\n Nem tutucu filtreyi kontrol eder.\n Basınç anahtarının presostat kontrolünü yapar.\n Klima soğutucu akışkan diğer devre elemanlarını ve sensörlerini kontrol eder."
     },
     {
-      "ÜNİTE": "Araç İklimlendirme Sistemleri",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "5",
@@ -272,7 +241,6 @@
       "KAZANIM": "Otomatik klima sisteminde işletim ve yönetim sistemlerinin kontrol ve bakımını yapar.\nOtomatik klimaların görevlerini ve çeşitlerini açıklar.\n Otomatik klimaların yapısını ve parçalarını listeler.\n Otomatik klimaların çalışmasını ve avantajlarını açıklar.\n Otomatik klimaların arızalarını ve belirtilerini listeler.\n Otomatik klimaların bakımı ve kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Araç Isıtma ve Havalandırma Sistemleri",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "5",
@@ -281,7 +249,6 @@
       "KAZANIM": "Kalorifer sisteminin kontrol ve bakımını yapar.\n Havalandırma sisteminin kontrol ve bakımını yapar.\nIsıtma sisteminin görevini çalışmasını ve yapısını açıklar.\n Isıtma sisteminin parçalarını ve parçaların görevlerini açıklar.\n Havalandırma sisteminin görevini çalışmasını ve yapısını açıklar.\n Havalandırma sisteminin parçalarını ve bu parçaların görevlerini açıklar.\n Havalandırma sisteminin parçalarının yapısını ve kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Araç Isıtma ve Havalandırma Sistemleri",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "5",
@@ -290,7 +257,6 @@
       "KAZANIM": "İlave kalorifer sisteminin kontrol ve bakımını yapar.\nİlave kalorifer sisteminin görevini çalışmasını ve yapısını açıklar.\n İlave kalorifer sisteminin parçalarını ve bu parçaların görevlerini açıklar.\n İlave kalorifer sisteminin kontrollerini açıklar."
     },
     {
-      "ÜNİTE": "Araç Haberleşme Ağları",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "5",
@@ -299,7 +265,6 @@
       "KAZANIM": "Elektronik kontrol ünitesini ECU kontrol ederek değiştirir.\nElektronik kontrol ünitesinin ECU bilgi verdiği ve aldığı elemanları listeler.\n Elektronik kontrol ünitesinin çalışma prensibini ve kısımlarını açıklar.\n ECU kontrollerini ve arızalarını açıklar."
     },
     {
-      "ÜNİTE": "Araç Haberleşme Ağları",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "5",
@@ -308,7 +273,6 @@
       "KAZANIM": "Merkezî veri hattını CAN-BUS kontrol ederek değiştirir.\nElektronik kontrol üniteleri arasında haberleşme yöntemlerini açıklar.\n CAN-BUS hattının görevini ve yapısal özelliklerini açıklar.\n CAN-BUS hattının arıza ve belirtilerini sıralar."
     },
     {
-      "ÜNİTE": "Araç Sistem Testleri",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "5",
@@ -317,7 +281,6 @@
       "KAZANIM": "Diagnostik cihazı ile kontrol ve arıza tespitini yapar.\n Diagnostik cihazı ile tespit ettiği arızanın onarımını yapar.\nElektronik kontrol ünitelerinin yapısı ve bilginin işlenmesini açıklar.\n Elektronik kontrol üniteleri arasında haberleşme yöntemlerini sıralar.\n CAN-BUS hattının yapısal özelliklerini açıklar.\n Diagnostik cihazların çalışma prensibini ve tekniğini açıklar.\n Hata anında durum tespitini ve parametrelerin yorumlanmasını açıklar.\n Hata kodu okuma hata giderme-hata silme mantığını açıklar.\n Hata çeşitlerini açıklar.\n Elektronik olarak kontrol edilen elemanların diagnostik cihazıyla bağımsız olarak çalıştırılmasını açıklar.\n Bölgesel çalıştırma yöntemiyle arıza tespitini açıklar.\n Hareketli sensör testini açıklar."
     },
     {
-      "ÜNİTE": "Araç Sistem Testleri",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "5",
@@ -326,7 +289,6 @@
       "KAZANIM": "Diagnostik cihazı ile kodlama yapar.\n Kompresyon testi yapar.\nDeğiştirilen parçaların araca tanıtılmasını açıklar.\n Elektronik kontrol ünitesinin yeniden programlanmasını açıklar.\n Güncellenmiş programların yüklenmesini açıklar.\n Kompresyon testinin amacını tarif eder.\n Kompresyon test cihazının görevini ve çalışmasını açıklar.\n Kompresyon basınç değerlerinin anlamını açıklar.\n Kompresyon testinin yapılışını ve motorda gerçekleşen kompresyonun anlamını açıklar.\n Silindirlere giren yabancı cisimlerin motora oluşturacağı tehlikeleri sıralar."
     },
     {
-      "ÜNİTE": "Araç Sistem Testleri",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "5",
@@ -335,7 +297,6 @@
       "KAZANIM": "Silindir kaçak testi yapar.\n Vakum testi yapar.\nMotor sentesini ve benzinli-dizel motorlarda silindir basıncını açıklar.\n Silindir kaçak testinin amacını tarif eder.\n Silindir kaçak testi cihazının görevini çalışmasını açıklar.\n Silindir kaçak testinin yapılmasını ve sonuçların açıklar.\n Emme manifoldu vakumunun anlamını açıklar.\n Emme manifoldu vakumunun ölçülmesini açıklar."
     },
     {
-      "ÜNİTE": "Periyodik Bakım",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "5",
@@ -344,7 +305,6 @@
       "KAZANIM": "Benzinli motorun periyodik bakımını yapar.\n Yakıt sisteminin periyodik bakımını yapar.\nBenzinli motorlarda yapılacak periyodik bakım aşama ve yöntemlerini sıralar.\n Periyodik bakım sırasında kullanılacak makine alet ve avadanlıkları listeler.\n Yakıt sistemlerinde yapılacak periyodik bakım aşama ve yöntemlerini sıralar.\n Periyodik bakım sırasında kullanılacak makine alet ve avadanlıkları listeler."
     },
     {
-      "ÜNİTE": "Periyodik Bakım",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "5",
@@ -353,7 +313,6 @@
       "KAZANIM": "Şarj sisteminin periyodik bakımını yapar.\n Klima sisteminin periyodik bakımını yapar.\nŞarj sisteminde  yapılacak periyodik bakım aşama ve yöntemlerini sıralar.\n Periyodik bakım sırasında kullanılacak makine alet ve avadanlıkları listeler.\n Klima sisteminde  yapılacak periyodik bakım aşama ve yöntemlerini sıralar.\n Periyodik bakım sırasında kullanılacak makine alet ve avadanlıkları listeler."
     },
     {
-      "ÜNİTE": "Periyodik Bakım",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "5",
@@ -362,7 +321,6 @@
       "KAZANIM": "Kalorifer sisteminin periyodik bakımını yapar.\n Aydınlatma sisteminin periyodik bakımını yapar.\nKalorifer sisteminde yapılacak periyodik bakım aşama ve yöntemlerini sıralar.\n Periyodik bakım sırasında kullanılacak makine alet ve avadanlıkları listeler.\n Aydınlatma sisteminde yapılacak periyodik bakım aşama ve yöntemlerini sıralar.\n Periyodik bakım sırasında kullanılacak makine alet ve avadanlıkları listeler."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "5",

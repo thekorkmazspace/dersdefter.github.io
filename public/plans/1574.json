@@ -3,7 +3,6 @@
   "ders": "Mesleki Teknolojisi Izabe 10 (metalurj)",
   "plan": [
     {
-      "ÜNİTE": "Taş kömürü ve depolanması",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
@@ -12,7 +11,6 @@
       "KAZANIM": "Kömürü cinslerine göre ayırma kömürü kırıcılara sevk etme silolara doldurulmasını açıklar.\nKömürün oluşumunu önemini çeşitlerini özelliklerini ifade edilmesini sağlanır.\n   Karbon elementinin özelliklerinin kullanım alanlarının oranının ifade edilmesi sağlanır.\n   Kömür harmanının bantlarının silolarının termokopulun kantarının kırıcılarının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Taş kömürü ve depolanması",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
@@ -21,7 +19,6 @@
       "KAZANIM": "Kömürü cinslerine göre ayırma kömürü kırıcılara sevk etme silolara doldurulmasını açıklar.\nKömürün oluşumunu önemini çeşitlerini özelliklerini ifade edilmesini sağlanır.\n   Karbon elementinin özelliklerinin kullanım alanlarının oranının ifade edilmesi sağlanır.\n   Kömür harmanının bantlarının silolarının termokopulun kantarının kırıcılarının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Taş kömürü ve depolanması",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
@@ -29,7 +26,6 @@
       "KAZANIM": "Kömürü cinslerine göre ayırma kömürü kırıcılara sevk etme silolara doldurulmasını açıklar.\nKömürün oluşumunu önemini çeşitlerini özelliklerini ifade edilmesini sağlanır.\n   Karbon elementinin özelliklerinin kullanım alanlarının oranının ifade edilmesi sağlanır.\n   Kömür harmanının bantlarının silolarının termokopulun kantarının kırıcılarının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Taş kömürü ve depolanması",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
@@ -38,7 +34,6 @@
       "KAZANIM": "Şarj kömürünü silolara şarj malzemesini kok kamaralarına doldurmayı açıklar\nŞarj kömürü mikserinin batarya silolarının bantlarının açıklanması sağlanır.\n   Kok kamaralarının görevinin açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Taş kömürü ve depolanması",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
@@ -47,7 +42,6 @@
       "KAZANIM": "Şarj kömürünü silolara şarj malzemesini kok kamaralarına doldurmayı açıklar\nŞarj kömürü mikserinin batarya silolarının bantlarının açıklanması sağlanır.\n   Kok kamaralarının görevinin açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Taş kömürü ve depolanması",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
@@ -55,7 +49,6 @@
       "KAZANIM": "Şarj kömürünü silolara şarj malzemesini kok kamaralarına doldurmayı açıklar\nŞarj kömürü mikserinin batarya silolarının bantlarının açıklanması sağlanır.\n   Kok kamaralarının görevinin açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Kömürde fiziksel testler ve analizleri",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
@@ -63,7 +56,6 @@
       "KAZANIM": "Yığın ağırlık cihazını ve elek analiz cihazını tanıtır.\nYığın ağırlığı hesabının yapılması sağlanır.\n   Elek analizi sürecinin öneminin ifade edilmesi sağlanır."
     },
     {
-      "ÜNİTE": "Kömürde fiziksel testler ve analizleri",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
@@ -72,7 +64,6 @@
       "KAZANIM": "Rutubet tayini kok sertlik hesabı ve kükürt tayin deneylerinin aşamalarını açıklar.\nKömür ve kok kömüründe rutubet analizinin tanımının aşamalarının ifade edilmesi sağlanır.\n   Kok kömürü stabilite testi tanımının aşamalarının sertlik hesabının ifade edilmesi sağlanır.\n   Taş kömüründe ve kok kömüründeki kükürt tayini yapma nedenini kükürtdioksit oluşumunu ifade etmesi sağlanır."
     },
     {
-      "ÜNİTE": "Kamaralarda koklaştırma",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav  Kamaraları çalışma şeklini açıklar.\nNozulların ve kullanılan gazların açıklanması sağlanır.\n   Yanma odasının işlevini ortaya çıkan baca gazlarını açıklaması sağlanır.\n   Kamaraların çalıştırılması aşamalarının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Kamaralarda koklaştırma",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
@@ -99,7 +88,6 @@
       "KAZANIM": "Kamaraları çalışma şeklini açıklar.\nNozulların ve kullanılan gazların açıklanması sağlanır.\n   Yanma odasının işlevini ortaya çıkan baca gazlarını açıklaması sağlanır.\n   Kamaraların çalıştırılması aşamalarının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Kamaralarda koklaştırma",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
@@ -108,7 +96,6 @@
       "KAZANIM": "Kamaraları çalışma şeklini açıklar.\nNozulların ve kullanılan gazların açıklanması sağlanır.\n   Yanma odasının işlevini ortaya çıkan baca gazlarını açıklaması sağlanır.\n   Kamaraların çalıştırılması aşamalarının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Kamaralarda koklaştırma",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
@@ -117,7 +104,6 @@
       "KAZANIM": "Kamaralarda koklaşma sürecini açıklar.\nKoklaşmanın oluşumunun açıklanması sağlanır.\n   Koklaşma sürecinde kullanılan araba çeşitlerinin görevini açıklar."
     },
     {
-      "ÜNİTE": "Kamaralarda koklaştırma",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
@@ -126,7 +112,6 @@
       "KAZANIM": "Kamaralarda koklaşma sürecini açıklar.\nKoklaşmanın oluşumunun açıklanması sağlanır.\n   Koklaşma sürecinde kullanılan araba çeşitlerinin görevini açıklar."
     },
     {
-      "ÜNİTE": "Kamaralarda koklaştırma",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
@@ -135,7 +120,6 @@
       "KAZANIM": "Kamaralarda koklaşma sürecini açıklar.\nKoklaşmanın oluşumunun açıklanması sağlanır.\n   Koklaşma sürecinde kullanılan araba çeşitlerinin görevini açıklar."
     },
     {
-      "ÜNİTE": "Demir cevheri ve cevherin sintere hazırlanması",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
@@ -144,7 +128,6 @@
       "KAZANIM": "Demir cevherinin kırılmasını açıklar.\nSaf demirin tanımının ifade edilmesi sağlanır.\n   Saf demirin özelliklerinin çeşitlerinin açıklaması sağlanır.\n   Çubuk eleklerinin özelliklerini açıklaması sağlanır."
     },
     {
-      "ÜNİTE": "Demir cevheri ve cevherin sintere hazırlanması",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
@@ -152,7 +135,6 @@
       "KAZANIM": "Demir cevherinin öğütülmesini açıklar.\nDemir cevherinin öğütülmesinin öneminin açıklaması sağlanır.\n   Konveyör bantlarının görevinin açıklaması sağlanır.\n   Öğütmede kullanılan değirmenin açıklaması sağlanır."
     },
     {
-      "ÜNİTE": "Demir cevheri ve cevherin sintere hazırlanması",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav  Peletleme yapmayı açıklar.\nPeletin tanımını açıklaması sağlanır.\n   Peletleme makinesinin önemini açıklaması sağlanır.\n   Peletleme yöntemini ifade etmesi sağlanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Sinter imalatı",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
@@ -193,7 +171,6 @@
       "KAZANIM": "Sinterlenecek malzemeleri tanıtır.\nToz cevherin sinterlemedeki öneminin açıklaması sağlanır.\n   Sinterlenecek malzemeleri hazırlamada kullanılan mikserin tanıtması sağlanır.\n   Cevher silolarının özelliklerinin açıklanması sağlanır.\n   Artık maddelerin içeriklerini açıklaması sağlanır."
     },
     {
-      "ÜNİTE": "Sinter imalatı",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
@@ -201,7 +178,6 @@
       "KAZANIM": "Sinter hammaddesi tanıtır.\nSinterlenecek malzemelerin tanıtılması sağlanır.\n   Hammaddenin topak hale getirilmesinin öneminin açıklanması sağlanır.\n   Sinter bantlarının özelliklerini tanıtılması sağlanır."
     },
     {
-      "ÜNİTE": "Sinter imalatı",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
@@ -209,7 +185,6 @@
       "KAZANIM": "Sinter hammaddesi pişirme yöntemini açıklar.\nSinter makinesinin tanıtılması sağlanır.\n   Döner besleyicinin görevinin açıklaması sağlanır.\n   Segregasyon plakasının tanıtılması sağlanır."
     },
     {
-      "ÜNİTE": "Sinter imalatı",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
@@ -218,7 +193,6 @@
       "KAZANIM": "Sinterin yüksek fırına sevkini açıklar.\nSıcak eleğin sinter üretimindeki öneminin açıklanması sağlanır.\n   Soğutucu fanların görevini ifade edilmesi sağlanır.\n   Soğuk eleğin sinter üretimindeki önemini açıklanması sağlanır.\n   Toz silolarının özelliklerini tanıtılması sağlanır."
     },
     {
-      "ÜNİTE": "Sinter imalatı",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
@@ -227,7 +201,6 @@
       "KAZANIM": "Sinterin yüksek fırına sevkini açıklar.\nSıcak eleğin sinter üretimindeki öneminin açıklanması sağlanır.\n   Soğutucu fanların görevini ifade edilmesi sağlanır.\n   Soğuk eleğin sinter üretimindeki önemini açıklanması sağlanır.\n   Toz silolarının özelliklerini tanıtılması sağlanır."
     },
     {
-      "ÜNİTE": "Sıvı maden kanalı yapımı",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
@@ -236,7 +209,6 @@
       "KAZANIM": "Ergimiş maden akış kanalı yapımını açıklar.\nMaden kanalının görevinin açıklanması sağlanır.\n   Kırıcı tabancanın özelliklerinin tanıtılması sağlanır.\n   Kanal yapma harçlarının ifade edilmesi sağlanır.\n   Sıkıştırma tabancasının özelliklerinin tanıtılması sağlanır.\n   Kok gazının öneminin ifade edilmesi sağlanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Sıvı maden kanalı yapımı",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
@@ -254,7 +225,6 @@
       "KAZANIM": "Yüksek fırın akış kanalı sifon yapımını açıklar.\nCüruf kanalının öneminin ifade edilmesi sağlanır.\n   Sifonun görevinin açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
@@ -263,7 +233,6 @@
       "KAZANIM": "Yüksek fırının tanıtımını yapar.\nYüksek fırınını tanıtarak kısımlarının açıklaması sağlanır.\n   İzabenin tanımlanması sağlanır.\n   Yüksek fırına yüklenen şarj malzemelerinin ifade edilmesi sağlanır.\n   Yüksek fırına yüklenen cüruf yapıcıların açıklanması sağlanır.\n   Skip kovalarının özelliklerinin açıklanması sağlanır.\n   Yüksek fırın sobalarının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav  Yüksek fırının tanıtımını yapar.\nYüksek fırınını tanıtarak kısımlarının açıklaması sağlanır.\n   İzabenin tanımlanması sağlanır.\n   Yüksek fırına yüklenen şarj malzemelerinin ifade edilmesi sağlanır.\n   Yüksek fırına yüklenen cüruf yapıcıların açıklanması sağlanır.\n   Skip kovalarının özelliklerinin açıklanması sağlanır.\n   Yüksek fırın sobalarının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
@@ -281,7 +249,6 @@
       "KAZANIM": "Yüksek fırın çevre sistemlerinin ve torpidonun tanıtımını yapar.\nYüksek fırına şarj malzemelerini yüklemesinin açıklanması sağlanır.\n   Yüksek fırına hava verilmesinin öneminin açıklanması sağlanır.\n   Sıvı ham demir üretiminde tüyerlerin görevinin açıklanması sağlanır.\n   Enjeksiyon sistemini ifade etmesi sağlanır.\n   Ergime sırasında açığa çıkan gazların tanıtılması sağlanır.\n   Yüksek fırın gazometresinin açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
@@ -290,7 +257,6 @@
       "KAZANIM": "Yüksek fırın çevre sistemlerinin ve torpidonun tanıtımını yapar.\nYüksek fırına şarj malzemelerini yüklemesinin açıklanması sağlanır.\n   Yüksek fırına hava verilmesinin öneminin açıklanması sağlanır.\n   Sıvı ham demir üretiminde tüyerlerin görevinin açıklanması sağlanır.\n   Enjeksiyon sistemini ifade etmesi sağlanır.\n   Ergime sırasında açığa çıkan gazların tanıtılması sağlanır.\n   Yüksek fırın gazometresinin açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
@@ -299,7 +265,6 @@
       "KAZANIM": "Yüksek fırının akış ağzını matkapla açılmasını açıklar.\nMatkabı tanıtarak kısımlarının açıklanması sağlanır.\n   Pnömatik sistemin öneminin ifade edilmesi sağlanır.\n   Metal alma ağzının görevinin açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
@@ -308,7 +273,6 @@
       "KAZANIM": "Yüksek fırının akış ağzını matkapla açılmasını açıklar.\nMatkabı tanıtarak kısımlarının açıklanması sağlanır.\n   Pnömatik sistemin öneminin ifade edilmesi sağlanır.\n   Metal alma ağzının görevinin açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
@@ -317,7 +281,6 @@
       "KAZANIM": "Yüksek fırının akış ağzını çamurla kapatılmasını açıklar.\nYüksek fırın metal alma deliğinin temizlenmesin kapatma çamuruyla kapatılmasının açıklanması sağlanır.\n   Yüksek fırın metal alma deliği kapatma topunun tanıtılması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
@@ -326,7 +289,6 @@
       "KAZANIM": "Yüksek fırının akış ağzını çamurla kapatılmasını açıklar.\nYüksek fırın metal alma deliğinin temizlenmesin kapatma çamuruyla kapatılmasının açıklanması sağlanır.\n   Yüksek fırın metal alma deliği kapatma topunun tanıtılması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
@@ -335,7 +297,6 @@
       "KAZANIM": "Pik üretimini açıklar.\nYüksek fırın şarj malzemesini ergitme işleminin açıklanması sağlanır.\n   Pik üretim makinesinin tanıtılması sağlanır.\n   Pik kalıbının önemini ifade edilmesi sağlanır.\n   Pik kavramının açıklanması sağlanır.\n   Pik üretiminde döner bantların görevinin açıklanması sağlanır.\n   Pik stok sahasının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav  Pik üretimini açıklar.\nYüksek fırın şarj malzemesini ergitme işleminin açıklanması sağlanır.\n   Pik üretim makinesinin tanıtılması sağlanır.\n   Pik kalıbının önemini ifade edilmesi sağlanır.\n   Pik kavramının açıklanması sağlanır.\n   Pik üretiminde döner bantların görevinin açıklanması sağlanır.\n   Pik stok sahasının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Ham demir üretimi",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
@@ -353,7 +313,6 @@
       "KAZANIM": "Pik üretimini açıklar.\nYüksek fırın şarj malzemesini ergitme işleminin açıklanması sağlanır.\n   Pik üretim makinesinin tanıtılması sağlanır.\n   Pik kalıbının önemini ifade edilmesi sağlanır.\n   Pik kavramının açıklanması sağlanır.\n   Pik üretiminde döner bantların görevinin açıklanması sağlanır.\n   Pik stok sahasının açıklanması sağlanır."
     },
     {
-      "ÜNİTE": "Genel Tekrar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
@@ -362,7 +321,6 @@
       "KAZANIM": "Genel Tekrar"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",

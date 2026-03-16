@@ -3,7 +3,6 @@
   "ders": "Genel Jımnastık",
   "plan": [
     {
-      "ÜNİTE": "Düzen Alıştırmaları",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "2",
@@ -11,7 +10,6 @@
       "KAZANIM": "1.1.1 Duruşları açıklar.\n1.1.2 Duruş hareketlerini uygular.\n1.2.1 Duruşları dönüş hareketlerini yapar."
     },
     {
-      "ÜNİTE": "Düzen Alıştırmaları",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "2",
@@ -19,14 +17,12 @@
       "KAZANIM": "1.3.1 Sıralanmaları açıklar.\n1.3.2 Sıralanmaları uygular."
     },
     {
-      "ÜNİTE": "Düzen Alıştırmaları",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "2",
       "KAZANIM": "1.4.1 Yürüyüş çeşitlerini açıklar.\n1.4.2 Yürüyüş çeşitlerini uygular."
     },
     {
-      "ÜNİTE": "Düzen Alıştırmaları",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "2",
@@ -34,7 +30,6 @@
       "KAZANIM": "1.5.1 Yönelim dönüş hareketlerini uygular.\n1.6.1 Koşu çeşitlerini açıklar."
     },
     {
-      "ÜNİTE": "Düzen Alıştırmaları",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "2",
@@ -42,21 +37,18 @@
       "KAZANIM": "1.6.2 Koşu çeşitlerini uygular.\n1.7.1 Temel duruşları ve dengeyi açıklar."
     },
     {
-      "ÜNİTE": "Düzen Alıştırmaları",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "2",
       "KAZANIM": "1.7.2 Temel duruşları uygular.\n1.7.3 Dengeyi uygular."
     },
     {
-      "ÜNİTE": "Temel Duruş Formları",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "2",
       "KAZANIM": "2.1.1 Yürüyüş formundaki hareketleri uygular.\n2.2.1 Koşu formundaki hareketleri uygular."
     },
     {
-      "ÜNİTE": "Temel Duruş Formları",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "2",
@@ -64,7 +56,6 @@
       "KAZANIM": "2.3.1 Sıçrama formundaki hareketleri uygular.\n2.4.1 Dönüşme formundaki hareketleri uygular."
     },
     {
-      "ÜNİTE": "Serbest Alıştırmalar",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "2",
@@ -72,7 +63,6 @@
       "KAZANIM": "1. Dönem 1. Sınav 3.1.1 Serbest alıştırmalarla ilgili bilgileri açıklar."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "2",
@@ -81,7 +71,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Serbest Alıştırmalar",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "2",
@@ -89,7 +78,6 @@
       "KAZANIM": "3.1.2 Serbest bireysel hareketleri uygular."
     },
     {
-      "ÜNİTE": "Serbest Alıştırmalar",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "2",
@@ -97,7 +85,6 @@
       "KAZANIM": "3.2.1 Eşli alıştırmalarla ilgili bilgileri açıklar."
     },
     {
-      "ÜNİTE": "Serbest Alıştırmalar",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "2",
@@ -105,7 +92,6 @@
       "KAZANIM": "3.2.2 Serbest hareketleri eşli olarak uygular."
     },
     {
-      "ÜNİTE": "Serbest Alıştırmalar",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "2",
@@ -113,7 +99,6 @@
       "KAZANIM": "3.3.1 Serbest hareketleri grup hâlinde uygular."
     },
     {
-      "ÜNİTE": "Serbest Alıştırmalar",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "2",
@@ -121,7 +106,6 @@
       "KAZANIM": "3.3.1 Serbest hareketleri grup hâlinde uygular."
     },
     {
-      "ÜNİTE": "Serbest Alıştırmalar",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "2",
@@ -129,14 +113,12 @@
       "KAZANIM": "3.3.1 Serbest hareketleri grup hâlinde uygular."
     },
     {
-      "ÜNİTE": "Serbest Alıştırmalar",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "2",
       "KAZANIM": "3.3.1 Serbest hareketleri grup hâlinde uygular."
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "2",
@@ -144,7 +126,6 @@
       "KAZANIM": "1. Dönem 2. Sınav 4.1.1 Aletli alıştırmalarla ilgili bilgileri açıklar.\n4.1.2 Aletli alıştırmaları uygular."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "2",
@@ -152,7 +133,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "2",
@@ -160,7 +140,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "2",
@@ -168,28 +147,24 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "2",
       "KAZANIM": "4.1.5 Sağlık topu çalışmaları ile ilgili bilgileri açıklar.\n4.1.6 Sağlık topu çalışmalarını uygular."
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "2",
       "KAZANIM": "4.1.7 Halter alıştırmalarını açıklar.\n4.1.8 Halterle ilgili hareketleri bireysel olarak uygular."
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "2",
       "KAZANIM": "4.1.9 Parmaklıkla alıştırmaları açıklar.\n4.1.10 Parmaklıkla bireysel hareketleri uygular."
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "2",
@@ -197,7 +172,6 @@
       "KAZANIM": "4.2.1 Aletli alıştırmalarla ilgili bilgileri açıklar."
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "2",
@@ -205,7 +179,6 @@
       "KAZANIM": "4.2.2 Aletli eşli hareketleri uygular."
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "2",
@@ -213,7 +186,6 @@
       "KAZANIM": "4.2.3 Sağlık topu çalışmalarını açıklar."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "2",
@@ -222,7 +194,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "2",
@@ -230,7 +201,6 @@
       "KAZANIM": "4.2.4 Sağlık topu alıştırmalarını bireysel olarak uygular."
     },
     {
-      "ÜNİTE": "Aletli Alıştırmalar",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "2",
@@ -238,7 +208,6 @@
       "KAZANIM": "4.2.5 Serbest hareketleri grup olarak uygular."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "2",
@@ -246,7 +215,6 @@
       "KAZANIM": "2. Dönem 1. Sınav 5.1.1 Kasa alıştırmaları ile ilgili bilgileri açıklar."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "2",
@@ -254,7 +222,6 @@
       "KAZANIM": "5.1.2 Kasa çalışmalarını uygular."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "2",
@@ -262,7 +229,6 @@
       "KAZANIM": "5.2.1 Halka alıştırmaları ile ilgili bilgileri açıklar."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "2",
@@ -270,7 +236,6 @@
       "KAZANIM": "5.2.2 Halka çalışmalarını hareket olarak uygular."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "2",
@@ -278,7 +243,6 @@
       "KAZANIM": "5.3.1 Trambolinde alıştırmaları açıklar."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "2",
@@ -286,7 +250,6 @@
       "KAZANIM": "5.3.2 Trambolinde alıştırmaları hareket olarak uygular."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "2",
@@ -294,7 +257,6 @@
       "KAZANIM": "5.4.1 İstasyonda çalışmaların önemini açıklar."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "2",
@@ -302,7 +264,6 @@
       "KAZANIM": "5.4.2 İstasyonda çalışmalarını hareket olarak uygular."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "2",
@@ -310,7 +271,6 @@
       "KAZANIM": "2. Dönem 2. Sınav 5.4.2 İstasyonda çalışmalarını hareket olarak uygular."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "2",
@@ -318,7 +278,6 @@
       "KAZANIM": "5.4.2 İstasyonda çalışmalarını hareket olarak uygular."
     },
     {
-      "ÜNİTE": "Artistik Alıştırmalar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "2",
@@ -326,7 +285,6 @@
       "KAZANIM": "5.4.2 İstasyonda çalışmalarını hareket olarak uygular."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "2",

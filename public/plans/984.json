@@ -3,7 +3,6 @@
   "ders": "Yazlm Uygulamaları",
   "plan": [
     {
-      "ÜNİTE": "Programlama Yapıları",
       "AY": "EYLÜL",
       "HAFTA": "1. Hafta:\n08-12 Eylül",
       "SAAT": "5",
@@ -12,7 +11,6 @@
       "KAZANIM": "Verilen problemi çözmek için algoritma hazırlar.\nAlgoritma ve akış diyagramı kavramları açıklanır."
     },
     {
-      "ÜNİTE": "Programlama Yapıları",
       "AY": "EYLÜL",
       "HAFTA": "2. Hafta:\n15-19 Eylül",
       "SAAT": "5",
@@ -21,7 +19,6 @@
       "KAZANIM": "Verilen problemi çözmek için algoritma hazırlar.\nAlgoritma ve akış diyagramı kavramları açıklanır."
     },
     {
-      "ÜNİTE": "Programlama Yapıları",
       "AY": "EYLÜL",
       "HAFTA": "3. Hafta:\n22-26 Eylül",
       "SAAT": "5",
@@ -29,7 +26,6 @@
       "KAZANIM": "Verilen problemi çözmek için algoritma hazırlar.\nAlgoritma ve akış diyagramı kavramları açıklanır."
     },
     {
-      "ÜNİTE": "Programlama Yapıları",
       "AY": "EYLÜL",
       "HAFTA": "4. Hafta:\n29 Eylül-03 Ekim",
       "SAAT": "5",
@@ -38,7 +34,6 @@
       "KAZANIM": "Programlama temel yapılarını kullanır. Esas    konu    anlatımında    Python    önerilmektedir. Öğrencilerin  farklı  programlama  dilleri  sözdizimlerini tanıması ve karşılaştırabilmesi için tercihen Go Ruby C dillerinden de örnekler verilebilir.\nProgramlama kavramları komut program YAZILIM programlama dili makine dili derleme yorumlama açıklanır.\n YAZILIM geliştirme yaşam döngüsü Software Development Life Cycle - SDLC açıklanır.\n Şelale waterfall ve çevik agile YAZILIM geliştirme yaşam döngüsü modelleri karşılaştırılarak açıklanır.\n Temiz kod clean code açıklanır.\n Temiz kod yazma prensipleri açıklanır.\n Değişken açıklanır.\n Değişken tanımlama kuralları açıklanır.\n Veri tipleri açıklanır.\n Farklı veri tiplerinde değişkenler tanımlanır.\n Operatör kavramı açıklanır.\n Operatör türleri aritmetiksel ilişkisel atama ve mantıksal açıklanır.\n Operatör önceliği açıklanır.\n Veri tipi dönüşümleri yaptırır.\n Kullanıcıdan girdi alma ve ekrana yazdırma uygulaması yaptırır.\n Liste list veri yapısı açıklanır.\n Liste list veri yapısı ile ilgili uygulamalar yaptırır.\n Demet tuple veri yapısı açıklanır.\n Demet tuple veri yapısı ile ilgili uygulamalar yaptırır.\n Sözlük dictionary veri yapısı açıklanır.\n Sözlük dictionary veri yapısı ile ilgili uygulamalar yaptırır.\n Küme set veri yapısı açıklanır.\n Küme set veri yapısı ile ilgili uygulamalar yaptırır.\n Karar yapıları if-else if-elif-else iç içe if match-case açıklanır.\n Karar yapıları ile ilgili uygulamalar yaptırır.\n Tekrarlı yapılar döngüler açıklanır.\n Break ve continue komutları açıklanır.\n Tekrarlı yapılar döngüler ile ilgili uygulamalar yaptırır.\n Fonksiyon kavramı açıklanır.\n Parametre kavramı açıklanır.\n Geri değer döndürme kavramı açıklanır.\n Fonksiyon uygulamaları yaptırır.\n Yerel local ve global değişkenler açıklanır.\n Özyinelemeli recursive fonksiyon açıklanır.\n Özyinelemeli recursive fonksiyon uygulaması yaptırır.\n Lambda fonksiyon açıklanır.\n Lambda fonksiyon uygulaması yaptırır.\n İç içe nested fonksiyon kullanımı açıklanır.\n İç içe nested fonksiyon uygulaması yaptırır.\n Özel fonksiyonlar filter map reduce zip açıklanır.\n Modüller ve sağladığı avantajlar açıklanır.\n Hazır modüller random time datetime math sys os vb. ile uygulama yaptırır.\n Hata yakalama try-except-finally uygulamaları yaptırır.\n Dosya okuma oluşturma ve yazma işlemlerini yaptırır."
     },
     {
-      "ÜNİTE": "Programlama Yapıları",
       "AY": "EKIM",
       "HAFTA": "5. Hafta:\n06-10 Ekim",
       "SAAT": "5",
@@ -47,7 +42,6 @@
       "KAZANIM": "Programlama temel yapılarını kullanır. Esas    konu    anlatımında    Python    önerilmektedir. Öğrencilerin  farklı  programlama  dilleri  sözdizimlerini tanıması ve karşılaştırabilmesi için tercihen Go Ruby C dillerinden de örnekler verilebilir.\nProgramlama kavramları komut program YAZILIM programlama dili makine dili derleme yorumlama açıklanır.\n YAZILIM geliştirme yaşam döngüsü Software Development Life Cycle - SDLC açıklanır.\n Şelale waterfall ve çevik agile YAZILIM geliştirme yaşam döngüsü modelleri karşılaştırılarak açıklanır.\n Temiz kod clean code açıklanır.\n Temiz kod yazma prensipleri açıklanır.\n Değişken açıklanır.\n Değişken tanımlama kuralları açıklanır.\n Veri tipleri açıklanır.\n Farklı veri tiplerinde değişkenler tanımlanır.\n Operatör kavramı açıklanır.\n Operatör türleri aritmetiksel ilişkisel atama ve mantıksal açıklanır.\n Operatör önceliği açıklanır.\n Veri tipi dönüşümleri yaptırır.\n Kullanıcıdan girdi alma ve ekrana yazdırma uygulaması yaptırır.\n Liste list veri yapısı açıklanır.\n Liste list veri yapısı ile ilgili uygulamalar yaptırır.\n Demet tuple veri yapısı açıklanır.\n Demet tuple veri yapısı ile ilgili uygulamalar yaptırır.\n Sözlük dictionary veri yapısı açıklanır.\n Sözlük dictionary veri yapısı ile ilgili uygulamalar yaptırır.\n Küme set veri yapısı açıklanır.\n Küme set veri yapısı ile ilgili uygulamalar yaptırır.\n Karar yapıları if-else if-elif-else iç içe if match-case açıklanır.\n Karar yapıları ile ilgili uygulamalar yaptırır.\n Tekrarlı yapılar döngüler açıklanır.\n Break ve continue komutları açıklanır.\n Tekrarlı yapılar döngüler ile ilgili uygulamalar yaptırır.\n Fonksiyon kavramı açıklanır.\n Parametre kavramı açıklanır.\n Geri değer döndürme kavramı açıklanır.\n Fonksiyon uygulamaları yaptırır.\n Yerel local ve global değişkenler açıklanır.\n Özyinelemeli recursive fonksiyon açıklanır.\n Özyinelemeli recursive fonksiyon uygulaması yaptırır.\n Lambda fonksiyon açıklanır.\n Lambda fonksiyon uygulaması yaptırır.\n İç içe nested fonksiyon kullanımı açıklanır.\n İç içe nested fonksiyon uygulaması yaptırır.\n Özel fonksiyonlar filter map reduce zip açıklanır.\n Modüller ve sağladığı avantajlar açıklanır.\n Hazır modüller random time datetime math sys os vb. ile uygulama yaptırır.\n Hata yakalama try-except-finally uygulamaları yaptırır.\n Dosya okuma oluşturma ve yazma işlemlerini yaptırır."
     },
     {
-      "ÜNİTE": "Programlama Yapıları",
       "AY": "EKIM",
       "HAFTA": "6. Hafta:\n13-17 Ekim",
       "SAAT": "5",
@@ -55,7 +49,6 @@
       "KAZANIM": "Programlama temel yapılarını kullanır. Esas    konu    anlatımında    Python    önerilmektedir. Öğrencilerin  farklı  programlama  dilleri  sözdizimlerini tanıması ve karşılaştırabilmesi için tercihen Go Ruby C dillerinden de örnekler verilebilir.\nProgramlama kavramları komut program YAZILIM programlama dili makine dili derleme yorumlama açıklanır.\n YAZILIM geliştirme yaşam döngüsü Software Development Life Cycle - SDLC açıklanır.\n Şelale waterfall ve çevik agile YAZILIM geliştirme yaşam döngüsü modelleri karşılaştırılarak açıklanır.\n Temiz kod clean code açıklanır.\n Temiz kod yazma prensipleri açıklanır.\n Değişken açıklanır.\n Değişken tanımlama kuralları açıklanır.\n Veri tipleri açıklanır.\n Farklı veri tiplerinde değişkenler tanımlanır.\n Operatör kavramı açıklanır.\n Operatör türleri aritmetiksel ilişkisel atama ve mantıksal açıklanır.\n Operatör önceliği açıklanır.\n Veri tipi dönüşümleri yaptırır.\n Kullanıcıdan girdi alma ve ekrana yazdırma uygulaması yaptırır.\n Liste list veri yapısı açıklanır.\n Liste list veri yapısı ile ilgili uygulamalar yaptırır.\n Demet tuple veri yapısı açıklanır.\n Demet tuple veri yapısı ile ilgili uygulamalar yaptırır.\n Sözlük dictionary veri yapısı açıklanır.\n Sözlük dictionary veri yapısı ile ilgili uygulamalar yaptırır.\n Küme set veri yapısı açıklanır.\n Küme set veri yapısı ile ilgili uygulamalar yaptırır.\n Karar yapıları if-else if-elif-else iç içe if match-case açıklanır.\n Karar yapıları ile ilgili uygulamalar yaptırır.\n Tekrarlı yapılar döngüler açıklanır.\n Break ve continue komutları açıklanır.\n Tekrarlı yapılar döngüler ile ilgili uygulamalar yaptırır.\n Fonksiyon kavramı açıklanır.\n Parametre kavramı açıklanır.\n Geri değer döndürme kavramı açıklanır.\n Fonksiyon uygulamaları yaptırır.\n Yerel local ve global değişkenler açıklanır.\n Özyinelemeli recursive fonksiyon açıklanır.\n Özyinelemeli recursive fonksiyon uygulaması yaptırır.\n Lambda fonksiyon açıklanır.\n Lambda fonksiyon uygulaması yaptırır.\n İç içe nested fonksiyon kullanımı açıklanır.\n İç içe nested fonksiyon uygulaması yaptırır.\n Özel fonksiyonlar filter map reduce zip açıklanır.\n Modüller ve sağladığı avantajlar açıklanır.\n Hazır modüller random time datetime math sys os vb. ile uygulama yaptırır.\n Hata yakalama try-except-finally uygulamaları yaptırır.\n Dosya okuma oluşturma ve yazma işlemlerini yaptırır."
     },
     {
-      "ÜNİTE": "Nesneye Yönelik Programlama\nİşlemleri",
       "AY": "EKIM",
       "HAFTA": "7. Hafta:\n20-24 Ekim",
       "SAAT": "5",
@@ -63,7 +56,6 @@
       "KAZANIM": "Programlamada nesneye yönelik işlemler yapar.  Python önerilmektedir\nNesneye yönelik programlama yaklaşımı açıklanır.\n Nesneye yönelik programlama yaklaşımının sağladığı kolaylıklar açıklanır.\n Sınıf class kavramı açıklanır.\n Sınıf üyeleri özellikler ve metotlar açıklanır.\n Erişim belirleyiciler access modifiers açıklanır.\n Nesne kavramı açıklanır.\n Nesneye yönelik programlama yaklaşımının temel prensipleri soyutlama kapsülleme kalıtım çok biçimlilik açıklanır.\n Yapıcı metot constructors yıkıcı metot destructors ve self parametresi açıklanır.\n Sınıf class tanımlama ve örnekleme instantiation uygulamaları yaptırır.\n Yineleyici iterator ve üreteç generator açıklanır.\n Yineleyici iterator fonksiyonları iter ve next ile ilgili uygulama yaptırır.\n Iterator sınıfı uygulaması yaptırır.\n Generator fonksiyon uygulaması yaptırır.\n Dekoratör fonksiyon açıklanır.\n Dekoratör fonksiyon uygulaması yaptırır.\n Setter  getter metotları açıklanır.\n Setter  getter metotları ile kapsülleme ve bilgi gizleme uygulaması yaptırır.\n Kalıtım Inheritance işlemi alt sınıf üst sınıf super fonksiyonu vb. açıklanır.\n Çoklu kalıtım işlemi açıklanır.\n Kalıtım miras alma uygulamaları yaptırır.\n Çok biçimlilik Polymorphism açıklanır.\n Çok biçimlilik ile ilgili uygulama yaptırır.\n Soyut abstract sınıf açıklanır.\n Soyut abstract metot açıklanır.\n Soyut sınıf ile ilgili uygulama yaptırır.\n PyQt kütüphanesi açıklanır.\n PyQt kütüphanesini nesne yönelimli programlama yaklaşımı ile kullandırır."
     },
     {
-      "ÜNİTE": "Nesneye Yönelik Programlama\nİşlemleri",
       "AY": "EKIM",
       "HAFTA": "8. Hafta:\n27-31 Ekim",
       "SAAT": "5",
@@ -72,7 +64,6 @@
       "KAZANIM": "Programlamada nesneye yönelik işlemler yapar.  Python önerilmektedir\nNesneye yönelik programlama yaklaşımı açıklanır.\n Nesneye yönelik programlama yaklaşımının sağladığı kolaylıklar açıklanır.\n Sınıf class kavramı açıklanır.\n Sınıf üyeleri özellikler ve metotlar açıklanır.\n Erişim belirleyiciler access modifiers açıklanır.\n Nesne kavramı açıklanır.\n Nesneye yönelik programlama yaklaşımının temel prensipleri soyutlama kapsülleme kalıtım çok biçimlilik açıklanır.\n Yapıcı metot constructors yıkıcı metot destructors ve self parametresi açıklanır.\n Sınıf class tanımlama ve örnekleme instantiation uygulamaları yaptırır.\n Yineleyici iterator ve üreteç generator açıklanır.\n Yineleyici iterator fonksiyonları iter ve next ile ilgili uygulama yaptırır.\n Iterator sınıfı uygulaması yaptırır.\n Generator fonksiyon uygulaması yaptırır.\n Dekoratör fonksiyon açıklanır.\n Dekoratör fonksiyon uygulaması yaptırır.\n Setter  getter metotları açıklanır.\n Setter  getter metotları ile kapsülleme ve bilgi gizleme uygulaması yaptırır.\n Kalıtım Inheritance işlemi alt sınıf üst sınıf super fonksiyonu vb. açıklanır.\n Çoklu kalıtım işlemi açıklanır.\n Kalıtım miras alma uygulamaları yaptırır.\n Çok biçimlilik Polymorphism açıklanır.\n Çok biçimlilik ile ilgili uygulama yaptırır.\n Soyut abstract sınıf açıklanır.\n Soyut abstract metot açıklanır.\n Soyut sınıf ile ilgili uygulama yaptırır.\n PyQt kütüphanesi açıklanır.\n PyQt kütüphanesini nesne yönelimli programlama yaklaşımı ile kullandırır."
     },
     {
-      "ÜNİTE": "Nesneye Yönelik Programlama\nİşlemleri",
       "AY": "KASIM",
       "HAFTA": "9. Hafta:\n03-07 Kasım",
       "SAAT": "5",
@@ -81,7 +72,6 @@
       "KAZANIM": "1. Dönem 1. Sınav Programlamada nesneye yönelik işlemler yapar.  Python önerilmektedir\nNesneye yönelik programlama yaklaşımı açıklanır.\n Nesneye yönelik programlama yaklaşımının sağladığı kolaylıklar açıklanır.\n Sınıf class kavramı açıklanır.\n Sınıf üyeleri özellikler ve metotlar açıklanır.\n Erişim belirleyiciler access modifiers açıklanır.\n Nesne kavramı açıklanır.\n Nesneye yönelik programlama yaklaşımının temel prensipleri soyutlama kapsülleme kalıtım çok biçimlilik açıklanır.\n Yapıcı metot constructors yıkıcı metot destructors ve self parametresi açıklanır.\n Sınıf class tanımlama ve örnekleme instantiation uygulamaları yaptırır.\n Yineleyici iterator ve üreteç generator açıklanır.\n Yineleyici iterator fonksiyonları iter ve next ile ilgili uygulama yaptırır.\n Iterator sınıfı uygulaması yaptırır.\n Generator fonksiyon uygulaması yaptırır.\n Dekoratör fonksiyon açıklanır.\n Dekoratör fonksiyon uygulaması yaptırır.\n Setter  getter metotları açıklanır.\n Setter  getter metotları ile kapsülleme ve bilgi gizleme uygulaması yaptırır.\n Kalıtım Inheritance işlemi alt sınıf üst sınıf super fonksiyonu vb. açıklanır.\n Çoklu kalıtım işlemi açıklanır.\n Kalıtım miras alma uygulamaları yaptırır.\n Çok biçimlilik Polymorphism açıklanır.\n Çok biçimlilik ile ilgili uygulama yaptırır.\n Soyut abstract sınıf açıklanır.\n Soyut abstract metot açıklanır.\n Soyut sınıf ile ilgili uygulama yaptırır.\n PyQt kütüphanesi açıklanır.\n PyQt kütüphanesini nesne yönelimli programlama yaklaşımı ile kullandırır."
     },
     {
-      "ÜNİTE": "1. Dönem Ara Tatili",
       "AY": "KASIM",
       "HAFTA": "10. Hafta:\n10-14 Kasım",
       "SAAT": "5",
@@ -90,7 +80,6 @@
       "KAZANIM": "1. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Nesneye Yönelik Programlama\nİşlemleri",
       "AY": "KASIM",
       "HAFTA": "11. Hafta:\n17-21 Kasım",
       "SAAT": "5",
@@ -99,7 +88,6 @@
       "KAZANIM": "Programlamada nesneye yönelik işlemler yapar.  Python önerilmektedir\nNesneye yönelik programlama yaklaşımı açıklanır.\n Nesneye yönelik programlama yaklaşımının sağladığı kolaylıklar açıklanır.\n Sınıf class kavramı açıklanır.\n Sınıf üyeleri özellikler ve metotlar açıklanır.\n Erişim belirleyiciler access modifiers açıklanır.\n Nesne kavramı açıklanır.\n Nesneye yönelik programlama yaklaşımının temel prensipleri soyutlama kapsülleme kalıtım çok biçimlilik açıklanır.\n Yapıcı metot constructors yıkıcı metot destructors ve self parametresi açıklanır.\n Sınıf class tanımlama ve örnekleme instantiation uygulamaları yaptırır.\n Yineleyici iterator ve üreteç generator açıklanır.\n Yineleyici iterator fonksiyonları iter ve next ile ilgili uygulama yaptırır.\n Iterator sınıfı uygulaması yaptırır.\n Generator fonksiyon uygulaması yaptırır.\n Dekoratör fonksiyon açıklanır.\n Dekoratör fonksiyon uygulaması yaptırır.\n Setter  getter metotları açıklanır.\n Setter  getter metotları ile kapsülleme ve bilgi gizleme uygulaması yaptırır.\n Kalıtım Inheritance işlemi alt sınıf üst sınıf super fonksiyonu vb. açıklanır.\n Çoklu kalıtım işlemi açıklanır.\n Kalıtım miras alma uygulamaları yaptırır.\n Çok biçimlilik Polymorphism açıklanır.\n Çok biçimlilik ile ilgili uygulama yaptırır.\n Soyut abstract sınıf açıklanır.\n Soyut abstract metot açıklanır.\n Soyut sınıf ile ilgili uygulama yaptırır.\n PyQt kütüphanesi açıklanır.\n PyQt kütüphanesini nesne yönelimli programlama yaklaşımı ile kullandırır."
     },
     {
-      "ÜNİTE": "Nesneye Yönelik Programlama\nİşlemleri",
       "AY": "KASIM",
       "HAFTA": "12. Hafta:\n24-28 Kasım",
       "SAAT": "5",
@@ -108,7 +96,6 @@
       "KAZANIM": "Yapılan uygulamaları versiyon kontrol sistemlerine aktarır.\nVersiyon kontrol sistemi açıklanır.\n Versiyon kontrol sisteminin sağladığı faydalar açıklanır.\n Versiyon kontrol sistemi türleri yerel merkezi ve dağıtık açıklanır.\n Git versiyon kontrol sistemi açıklanır.\n Git versiyon kontrol sistemini kullanan depolama hizmetleri GitHub GitLab açıklanır.\n Git versiyon kontrol sisteminin kurulumunu yaptırır.\n Git versiyon kontrol sistemi kavramları repository branch master commit checkout fork pull request merge vb. açıklanır.\n Git versiyon kontrol sisteminin çalışma mantığı açıklanır.\n Git komutları açıklanır.\n GitHub depolama servisinde repo oluşturulur.\n Yapılan uygulamaları Git komutları ile versiyon kontrol sistemine gönderme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Nesneye Yönelik Programlama\nİşlemleri",
       "AY": "ARALIK",
       "HAFTA": "13. Hafta:\n01-05 Aralık",
       "SAAT": "5",
@@ -117,7 +104,6 @@
       "KAZANIM": "Yapılan uygulamaları versiyon kontrol sistemlerine aktarır.\nVersiyon kontrol sistemi açıklanır.\n Versiyon kontrol sisteminin sağladığı faydalar açıklanır.\n Versiyon kontrol sistemi türleri yerel merkezi ve dağıtık açıklanır.\n Git versiyon kontrol sistemi açıklanır.\n Git versiyon kontrol sistemini kullanan depolama hizmetleri GitHub GitLab açıklanır.\n Git versiyon kontrol sisteminin kurulumunu yaptırır.\n Git versiyon kontrol sistemi kavramları repository branch master commit checkout fork pull request merge vb. açıklanır.\n Git versiyon kontrol sisteminin çalışma mantığı açıklanır.\n Git komutları açıklanır.\n GitHub depolama servisinde repo oluşturulur.\n Yapılan uygulamaları Git komutları ile versiyon kontrol sistemine gönderme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Nesneye Yönelik Programlama\nİşlemleri",
       "AY": "ARALIK",
       "HAFTA": "14. Hafta:\n08-12 Aralık",
       "SAAT": "5",
@@ -126,7 +112,6 @@
       "KAZANIM": "Yapılan uygulamaları versiyon kontrol sistemlerine aktarır.\nVersiyon kontrol sistemi açıklanır.\n Versiyon kontrol sisteminin sağladığı faydalar açıklanır.\n Versiyon kontrol sistemi türleri yerel merkezi ve dağıtık açıklanır.\n Git versiyon kontrol sistemi açıklanır.\n Git versiyon kontrol sistemini kullanan depolama hizmetleri GitHub GitLab açıklanır.\n Git versiyon kontrol sisteminin kurulumunu yaptırır.\n Git versiyon kontrol sistemi kavramları repository branch master commit checkout fork pull request merge vb. açıklanır.\n Git versiyon kontrol sisteminin çalışma mantığı açıklanır.\n Git komutları açıklanır.\n GitHub depolama servisinde repo oluşturulur.\n Yapılan uygulamaları Git komutları ile versiyon kontrol sistemine gönderme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Nesneye Yönelik Programlama\nİşlemleri",
       "AY": "ARALIK",
       "HAFTA": "15. Hafta:\n15-19 Aralık",
       "SAAT": "5",
@@ -135,7 +120,6 @@
       "KAZANIM": "Yapılan uygulamaları versiyon kontrol sistemlerine aktarır.\nVersiyon kontrol sistemi açıklanır.\n Versiyon kontrol sisteminin sağladığı faydalar açıklanır.\n Versiyon kontrol sistemi türleri yerel merkezi ve dağıtık açıklanır.\n Git versiyon kontrol sistemi açıklanır.\n Git versiyon kontrol sistemini kullanan depolama hizmetleri GitHub GitLab açıklanır.\n Git versiyon kontrol sisteminin kurulumunu yaptırır.\n Git versiyon kontrol sistemi kavramları repository branch master commit checkout fork pull request merge vb. açıklanır.\n Git versiyon kontrol sisteminin çalışma mantığı açıklanır.\n Git komutları açıklanır.\n GitHub depolama servisinde repo oluşturulur.\n Yapılan uygulamaları Git komutları ile versiyon kontrol sistemine gönderme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Otomatik İşlem\nUygulamaları",
       "AY": "ARALIK",
       "HAFTA": "16. Hafta:\n22-26 Aralık",
       "SAAT": "5",
@@ -144,7 +128,6 @@
       "KAZANIM": "Uygulamalarda web kazıma tekniklerini kullanır.\nWeb kazıma web scraping işlemi açıklanır.\n Web kazıma süreci ve teknikleri açıklanır.\n Web kazıma sürecinde kullanılan programlama dilleri ve kütüphaneler açıklanır.\n Veri toplamak için BeautifulSoup ve requests kütüphaneleri ile web kazıma uygulaması yaptırır.\n Web kazıma işlemini önleme yöntemleri açıklanır."
     },
     {
-      "ÜNİTE": "Otomatik İşlem\nUygulamaları",
       "AY": "ARALIK",
       "HAFTA": "17. Hafta:\n29 Aralık-02 Ocak",
       "SAAT": "5",
@@ -152,7 +135,6 @@
       "KAZANIM": "Uygulamalarda web kazıma tekniklerini kullanır.\nWeb kazıma web scraping işlemi açıklanır.\n Web kazıma süreci ve teknikleri açıklanır.\n Web kazıma sürecinde kullanılan programlama dilleri ve kütüphaneler açıklanır.\n Veri toplamak için BeautifulSoup ve requests kütüphaneleri ile web kazıma uygulaması yaptırır.\n Web kazıma işlemini önleme yöntemleri açıklanır."
     },
     {
-      "ÜNİTE": "Otomatik İşlem\nUygulamaları",
       "AY": "OCAK",
       "HAFTA": "18. Hafta:\n05-09 Ocak",
       "SAAT": "5",
@@ -161,7 +143,6 @@
       "KAZANIM": "1. Dönem 2. Sınav Uygulamalarda otomatik işlemler gerçekleştirmek için bot oluşturur.\nBot YAZILIM açıklanır.\n Bot kullanım alanları açıklanır.\n Bot oluşturmak için kullanılan kütüphaneler açıklanır.\n Selenium kütüphanesi ile bot uygulamaları yaptırır.\n Bot engelleme yöntemleri açıklanır."
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "OCAK",
       "HAFTA": "19. Hafta:\n12-16 Ocak",
       "SAAT": "5",
@@ -169,7 +150,6 @@
       "KAZANIM": "Etkinlik Haftası"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "20. Hafta:\n19-23 Ocak",
       "SAAT": "5",
@@ -177,7 +157,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Yarıyıl Tatili",
       "AY": "OCAK",
       "HAFTA": "21. Hafta:\n26-30 Ocak",
       "SAAT": "5",
@@ -185,7 +164,6 @@
       "KAZANIM": "Yarıyıl Tatili"
     },
     {
-      "ÜNİTE": "Otomatik İşlem\nUygulamaları",
       "AY": "ŞUBAT",
       "HAFTA": "22. Hafta:\n02-06 ubat",
       "SAAT": "5",
@@ -193,7 +171,6 @@
       "KAZANIM": "Uygulamalarda otomatik işlemler gerçekleştirmek için bot oluşturur.\nBot YAZILIM açıklanır.\n Bot kullanım alanları açıklanır.\n Bot oluşturmak için kullanılan kütüphaneler açıklanır.\n Selenium kütüphanesi ile bot uygulamaları yaptırır.\n Bot engelleme yöntemleri açıklanır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "ŞUBAT",
       "HAFTA": "23. Hafta:\n09-13 ubat",
       "SAAT": "5",
@@ -201,7 +178,6 @@
       "KAZANIM": "Web teknolojisinin temellerini açıklar.\nWeb teknolojisinin temelleri www URL ve URI sözdizimleri hypertext HTML web host web browser vb. açıklanır.\n Web tarihinin gelişim süreci Web 1.0 Web 2.0 Web 3.0 Web 4.0 açıklanır.\n HTTP protokolü açıklanır.\n Http request isteği ve http response yanıtı yapısı açıklanır.\n Http metotları Get Post Head Put Delete açıklanır.\n Http durum kodları 1xx 2xx 3xx 4xx 5xx açıklanır.\n Http başlıkları açıklanır.\n Web tarayıcı geliştirici araçlarını kullanarak http request ve http response inceleme uygulaması yaptırır.\n Çerez cookie kavramı açıklanır.\n Oturum session kavramı açıklanır.\n Uygulama Programlama Arayüzü API açıklanır.\n API mimarileri REST RESTful SOAP GraphQL WebSocket Webhook açıklanır.\n Veri değişim formatları XML JSON YAML açıklanır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "ŞUBAT",
       "HAFTA": "24. Hafta:\n16-20 ubat",
       "SAAT": "5",
@@ -209,7 +185,6 @@
       "KAZANIM": "Web teknolojisinin temellerini açıklar.\nWeb teknolojisinin temelleri www URL ve URI sözdizimleri hypertext HTML web host web browser vb. açıklanır.\n Web tarihinin gelişim süreci Web 1.0 Web 2.0 Web 3.0 Web 4.0 açıklanır.\n HTTP protokolü açıklanır.\n Http request isteği ve http response yanıtı yapısı açıklanır.\n Http metotları Get Post Head Put Delete açıklanır.\n Http durum kodları 1xx 2xx 3xx 4xx 5xx açıklanır.\n Http başlıkları açıklanır.\n Web tarayıcı geliştirici araçlarını kullanarak http request ve http response inceleme uygulaması yaptırır.\n Çerez cookie kavramı açıklanır.\n Oturum session kavramı açıklanır.\n Uygulama Programlama Arayüzü API açıklanır.\n API mimarileri REST RESTful SOAP GraphQL WebSocket Webhook açıklanır.\n Veri değişim formatları XML JSON YAML açıklanır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "ŞUBAT",
       "HAFTA": "25. Hafta:\n23-27 ubat",
       "SAAT": "5",
@@ -218,7 +193,6 @@
       "KAZANIM": "Web teknolojisinin temellerini açıklar.\nWeb teknolojisinin temelleri www URL ve URI sözdizimleri hypertext HTML web host web browser vb. açıklanır.\n Web tarihinin gelişim süreci Web 1.0 Web 2.0 Web 3.0 Web 4.0 açıklanır.\n HTTP protokolü açıklanır.\n Http request isteği ve http response yanıtı yapısı açıklanır.\n Http metotları Get Post Head Put Delete açıklanır.\n Http durum kodları 1xx 2xx 3xx 4xx 5xx açıklanır.\n Http başlıkları açıklanır.\n Web tarayıcı geliştirici araçlarını kullanarak http request ve http response inceleme uygulaması yaptırır.\n Çerez cookie kavramı açıklanır.\n Oturum session kavramı açıklanır.\n Uygulama Programlama Arayüzü API açıklanır.\n API mimarileri REST RESTful SOAP GraphQL WebSocket Webhook açıklanır.\n Veri değişim formatları XML JSON YAML açıklanır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "MART",
       "HAFTA": "26. Hafta:\n02-06 Mart",
       "SAAT": "5",
@@ -227,7 +201,6 @@
       "KAZANIM": "Web teknolojisinin temellerini açıklar.\nWeb teknolojisinin temelleri www URL ve URI sözdizimleri hypertext HTML web host web browser vb. açıklanır.\n Web tarihinin gelişim süreci Web 1.0 Web 2.0 Web 3.0 Web 4.0 açıklanır.\n HTTP protokolü açıklanır.\n Http request isteği ve http response yanıtı yapısı açıklanır.\n Http metotları Get Post Head Put Delete açıklanır.\n Http durum kodları 1xx 2xx 3xx 4xx 5xx açıklanır.\n Http başlıkları açıklanır.\n Web tarayıcı geliştirici araçlarını kullanarak http request ve http response inceleme uygulaması yaptırır.\n Çerez cookie kavramı açıklanır.\n Oturum session kavramı açıklanır.\n Uygulama Programlama Arayüzü API açıklanır.\n API mimarileri REST RESTful SOAP GraphQL WebSocket Webhook açıklanır.\n Veri değişim formatları XML JSON YAML açıklanır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "MART",
       "HAFTA": "27. Hafta:\n09-13 Mart",
       "SAAT": "5",
@@ -236,7 +209,6 @@
       "KAZANIM": "Web teknolojisinin temellerini açıklar.\nWeb teknolojisinin temelleri www URL ve URI sözdizimleri hypertext HTML web host web browser vb. açıklanır.\n Web tarihinin gelişim süreci Web 1.0 Web 2.0 Web 3.0 Web 4.0 açıklanır.\n HTTP protokolü açıklanır.\n Http request isteği ve http response yanıtı yapısı açıklanır.\n Http metotları Get Post Head Put Delete açıklanır.\n Http durum kodları 1xx 2xx 3xx 4xx 5xx açıklanır.\n Http başlıkları açıklanır.\n Web tarayıcı geliştirici araçlarını kullanarak http request ve http response inceleme uygulaması yaptırır.\n Çerez cookie kavramı açıklanır.\n Oturum session kavramı açıklanır.\n Uygulama Programlama Arayüzü API açıklanır.\n API mimarileri REST RESTful SOAP GraphQL WebSocket Webhook açıklanır.\n Veri değişim formatları XML JSON YAML açıklanır."
     },
     {
-      "ÜNİTE": "2. Dönem Ara Tatili",
       "AY": "MART",
       "HAFTA": "28. Hafta:\n16-20 Mart",
       "SAAT": "5",
@@ -245,7 +217,6 @@
       "KAZANIM": "2. Dönem Ara Tatili"
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "MART",
       "HAFTA": "29. Hafta:\n23-27 Mart",
       "SAAT": "5",
@@ -254,7 +225,6 @@
       "KAZANIM": "Web teknolojisinin temellerini açıklar.\nWeb teknolojisinin temelleri www URL ve URI sözdizimleri hypertext HTML web host web browser vb. açıklanır.\n Web tarihinin gelişim süreci Web 1.0 Web 2.0 Web 3.0 Web 4.0 açıklanır.\n HTTP protokolü açıklanır.\n Http request isteği ve http response yanıtı yapısı açıklanır.\n Http metotları Get Post Head Put Delete açıklanır.\n Http durum kodları 1xx 2xx 3xx 4xx 5xx açıklanır.\n Http başlıkları açıklanır.\n Web tarayıcı geliştirici araçlarını kullanarak http request ve http response inceleme uygulaması yaptırır.\n Çerez cookie kavramı açıklanır.\n Oturum session kavramı açıklanır.\n Uygulama Programlama Arayüzü API açıklanır.\n API mimarileri REST RESTful SOAP GraphQL WebSocket Webhook açıklanır.\n Veri değişim formatları XML JSON YAML açıklanır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "MART",
       "HAFTA": "30. Hafta:\n30 Mart-03 Nisan",
       "SAAT": "5",
@@ -263,7 +233,6 @@
       "KAZANIM": "Web uygulamaları geliştirir. 30 Front-End 70 Back-End önerilmektedir.\nWeb uygulamalarının temel yapıtaşları HTML5 CSS3 Javascript açıklanır.\n En çok kullanılan HTML5 etiketleri açıklanır.\n En çok kullanılan CSS3 stilleri açıklanır.\n HTML5 etiketlerini ve CSS3 stillerini kullanarak web tasarım yaptırır.\n Javascript programlama yapıları değişkenler veri tipleri operatörler fonksiyonlar koşul ifadeleri döngüler Document Object Model olay işleyicileri açıklanır.\n Javascript programlama yapılarını kullanarak uygulamalar yaptırır.\n Esnek ölçeklenebilir ve modern web tasarımları yapmak için Bootstrap Tailwind Svelte React Angular vb. kütüphaneleri kullandırır.\n XAMPP web sunucusu yazılımının kurulumunu yaptırır.\n PHP programlama dili açıklanır.\n PHP programlama yapıları değişkenler veri tipleri operatörler koşul ifadeleri döngüler fonksiyonlar açıklanır.\n PHP programlama dili ile form işlemleri yaptırır.\n PHP programlama dili ile GET ve POST metotlarını kullanarak uygulama yaptırır.\n PHP programlama dilinde http başlıklarının kullanımı ile ilgili uygulama yaptırır\n PHP programlama dili ile regex string ifadeleri kullanarak uygulama yaptırır.\n PHP programlama dili ile oturum yönetimi uygulaması yaptırır.\n PHP programlama dili ile hata yönetimi uygulaması yaptırır.\n PHP programlama dilinde PDO ile veritabanı bağlantısı açıklanır.\n PHP programlama dilinde PDO ile veritabanı giriş seviyesinde veritabanı - tercihen SQLite MySql bağlantısı yaptırır.\n PHP programlama dilinde CRUD uygulaması yaptırır  giriş  seviyesinde  CRUD  -  tercihen SQLite MySql.\n PHP programlama dili ile REST API geliştirme uygulaması yaptırır.\n Postman aracını kullanarak geliştirilen APInin testini yaptırır.\n Bootstrap PHP SQLite teknolojilerini kullanarak kişisel portföy sitesi hakkında iletişim proje sayfaları geliştirme uygulaması yaptırır.\n Node.js çalışma zamanı ortamının javascript ile ilişkisi açıklanır.\n Node.js    kavramları    modüller    asenkron fonksiyonlar      olaylar       ECMAScript       CommonJS vb. açıklanır.\n Node.js       çalışma       zamanı       ortamının kurulumunu yaptırır.\n Node.js paket yöneticisi npm açıklanır.\n NPM  ile  proje  oluşturma  ve  bağımlılıkları indirme uygulaması yaptırır.\n Node.js     dahili     kütüphaneleri     os     fs childprocess process http vb. açıklanır.\n Node.js    dahili    kütüphanelerini    os    fs childprocess  process  http  vb.  kullanarak uygulama yaptırır.\n Express  vb.  web  uygulama  frameworklerini kullanarak web sunucusu başlatır.\n NPM ile web sunucusu eklentileri rate-limit static  helmet vb  ve  middlewareler  yükletip kullandırır.\n Node.js  çalışma  zamanı  ortamında  CRUD uygulaması yaptırır giriş seviyesinde CRUD - tercihen MongoDB.\n Node.js    ile    oturum    yönetimi    ve    kimlik doğrulama uygulamaları yaptırır.\n HttpOnly   Secure   SameSite   gibi   cookie öznitelikleri açıklanır.\n Node.js ile REST API uygulaması yaptırır.\n Node.js ile geliştirilen APInin testini postman aracını kullanarak yaptırır.\n Node.js ile WebSocket uygulaması yaptırır.\n NPM audit vb. yöntemlerle bağımlılıkların güvenlik kontrollerini yaptırır.\n Node.js ile dosya yükleme ve indirme işlemlerini gerekli kontrolleri gerçekleştirerek yaptırır.\n Node.js ve docker kullanarak mikroservis oluşturma uygulaması yaptırır.\n Komut  satırı  argümanları  ile  çalışan  araçlar geliştirmek  için  uygulama  yaptırır  npx  ile çalıştırma.\n MongoDB    ve    Express    kullanarak    API entegrasyonu  gönderi  oluşturma  ve  dosya yükleme    özelliklerine    sahip    bir    sohbet platformu geliştirme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "NISAN",
       "HAFTA": "31. Hafta:\n06-10 Nisan",
       "SAAT": "5",
@@ -272,7 +241,6 @@
       "KAZANIM": "2. Dönem 1. Sınav Web uygulamaları geliştirir. 30 Front-End 70 Back-End önerilmektedir.\nWeb uygulamalarının temel yapıtaşları HTML5 CSS3 Javascript açıklanır.\n En çok kullanılan HTML5 etiketleri açıklanır.\n En çok kullanılan CSS3 stilleri açıklanır.\n HTML5 etiketlerini ve CSS3 stillerini kullanarak web tasarım yaptırır.\n Javascript programlama yapıları değişkenler veri tipleri operatörler fonksiyonlar koşul ifadeleri döngüler Document Object Model olay işleyicileri açıklanır.\n Javascript programlama yapılarını kullanarak uygulamalar yaptırır.\n Esnek ölçeklenebilir ve modern web tasarımları yapmak için Bootstrap Tailwind Svelte React Angular vb. kütüphaneleri kullandırır.\n XAMPP web sunucusu yazılımının kurulumunu yaptırır.\n PHP programlama dili açıklanır.\n PHP programlama yapıları değişkenler veri tipleri operatörler koşul ifadeleri döngüler fonksiyonlar açıklanır.\n PHP programlama dili ile form işlemleri yaptırır.\n PHP programlama dili ile GET ve POST metotlarını kullanarak uygulama yaptırır.\n PHP programlama dilinde http başlıklarının kullanımı ile ilgili uygulama yaptırır\n PHP programlama dili ile regex string ifadeleri kullanarak uygulama yaptırır.\n PHP programlama dili ile oturum yönetimi uygulaması yaptırır.\n PHP programlama dili ile hata yönetimi uygulaması yaptırır.\n PHP programlama dilinde PDO ile veritabanı bağlantısı açıklanır.\n PHP programlama dilinde PDO ile veritabanı giriş seviyesinde veritabanı - tercihen SQLite MySql bağlantısı yaptırır.\n PHP programlama dilinde CRUD uygulaması yaptırır  giriş  seviyesinde  CRUD  -  tercihen SQLite MySql.\n PHP programlama dili ile REST API geliştirme uygulaması yaptırır.\n Postman aracını kullanarak geliştirilen APInin testini yaptırır.\n Bootstrap PHP SQLite teknolojilerini kullanarak kişisel portföy sitesi hakkında iletişim proje sayfaları geliştirme uygulaması yaptırır.\n Node.js çalışma zamanı ortamının javascript ile ilişkisi açıklanır.\n Node.js    kavramları    modüller    asenkron fonksiyonlar      olaylar       ECMAScript       CommonJS vb. açıklanır.\n Node.js       çalışma       zamanı       ortamının kurulumunu yaptırır.\n Node.js paket yöneticisi npm açıklanır.\n NPM  ile  proje  oluşturma  ve  bağımlılıkları indirme uygulaması yaptırır.\n Node.js     dahili     kütüphaneleri     os     fs childprocess process http vb. açıklanır.\n Node.js    dahili    kütüphanelerini    os    fs childprocess  process  http  vb.  kullanarak uygulama yaptırır.\n Express  vb.  web  uygulama  frameworklerini kullanarak web sunucusu başlatır.\n NPM ile web sunucusu eklentileri rate-limit static  helmet vb  ve  middlewareler  yükletip kullandırır.\n Node.js  çalışma  zamanı  ortamında  CRUD uygulaması yaptırır giriş seviyesinde CRUD - tercihen MongoDB.\n Node.js    ile    oturum    yönetimi    ve    kimlik doğrulama uygulamaları yaptırır.\n HttpOnly   Secure   SameSite   gibi   cookie öznitelikleri açıklanır.\n Node.js ile REST API uygulaması yaptırır.\n Node.js ile geliştirilen APInin testini postman aracını kullanarak yaptırır.\n Node.js ile WebSocket uygulaması yaptırır.\n NPM audit vb. yöntemlerle bağımlılıkların güvenlik kontrollerini yaptırır.\n Node.js ile dosya yükleme ve indirme işlemlerini gerekli kontrolleri gerçekleştirerek yaptırır.\n Node.js ve docker kullanarak mikroservis oluşturma uygulaması yaptırır.\n Komut  satırı  argümanları  ile  çalışan  araçlar geliştirmek  için  uygulama  yaptırır  npx  ile çalıştırma.\n MongoDB    ve    Express    kullanarak    API entegrasyonu  gönderi  oluşturma  ve  dosya yükleme    özelliklerine    sahip    bir    sohbet platformu geliştirme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "NISAN",
       "HAFTA": "32. Hafta:\n13-17 Nisan",
       "SAAT": "5",
@@ -281,7 +249,6 @@
       "KAZANIM": "Web uygulamaları geliştirir. 30 Front-End 70 Back-End önerilmektedir.\nWeb uygulamalarının temel yapıtaşları HTML5 CSS3 Javascript açıklanır.\n En çok kullanılan HTML5 etiketleri açıklanır.\n En çok kullanılan CSS3 stilleri açıklanır.\n HTML5 etiketlerini ve CSS3 stillerini kullanarak web tasarım yaptırır.\n Javascript programlama yapıları değişkenler veri tipleri operatörler fonksiyonlar koşul ifadeleri döngüler Document Object Model olay işleyicileri açıklanır.\n Javascript programlama yapılarını kullanarak uygulamalar yaptırır.\n Esnek ölçeklenebilir ve modern web tasarımları yapmak için Bootstrap Tailwind Svelte React Angular vb. kütüphaneleri kullandırır.\n XAMPP web sunucusu yazılımının kurulumunu yaptırır.\n PHP programlama dili açıklanır.\n PHP programlama yapıları değişkenler veri tipleri operatörler koşul ifadeleri döngüler fonksiyonlar açıklanır.\n PHP programlama dili ile form işlemleri yaptırır.\n PHP programlama dili ile GET ve POST metotlarını kullanarak uygulama yaptırır.\n PHP programlama dilinde http başlıklarının kullanımı ile ilgili uygulama yaptırır\n PHP programlama dili ile regex string ifadeleri kullanarak uygulama yaptırır.\n PHP programlama dili ile oturum yönetimi uygulaması yaptırır.\n PHP programlama dili ile hata yönetimi uygulaması yaptırır.\n PHP programlama dilinde PDO ile veritabanı bağlantısı açıklanır.\n PHP programlama dilinde PDO ile veritabanı giriş seviyesinde veritabanı - tercihen SQLite MySql bağlantısı yaptırır.\n PHP programlama dilinde CRUD uygulaması yaptırır  giriş  seviyesinde  CRUD  -  tercihen SQLite MySql.\n PHP programlama dili ile REST API geliştirme uygulaması yaptırır.\n Postman aracını kullanarak geliştirilen APInin testini yaptırır.\n Bootstrap PHP SQLite teknolojilerini kullanarak kişisel portföy sitesi hakkında iletişim proje sayfaları geliştirme uygulaması yaptırır.\n Node.js çalışma zamanı ortamının javascript ile ilişkisi açıklanır.\n Node.js    kavramları    modüller    asenkron fonksiyonlar      olaylar       ECMAScript       CommonJS vb. açıklanır.\n Node.js       çalışma       zamanı       ortamının kurulumunu yaptırır.\n Node.js paket yöneticisi npm açıklanır.\n NPM  ile  proje  oluşturma  ve  bağımlılıkları indirme uygulaması yaptırır.\n Node.js     dahili     kütüphaneleri     os     fs childprocess process http vb. açıklanır.\n Node.js    dahili    kütüphanelerini    os    fs childprocess  process  http  vb.  kullanarak uygulama yaptırır.\n Express  vb.  web  uygulama  frameworklerini kullanarak web sunucusu başlatır.\n NPM ile web sunucusu eklentileri rate-limit static  helmet vb  ve  middlewareler  yükletip kullandırır.\n Node.js  çalışma  zamanı  ortamında  CRUD uygulaması yaptırır giriş seviyesinde CRUD - tercihen MongoDB.\n Node.js    ile    oturum    yönetimi    ve    kimlik doğrulama uygulamaları yaptırır.\n HttpOnly   Secure   SameSite   gibi   cookie öznitelikleri açıklanır.\n Node.js ile REST API uygulaması yaptırır.\n Node.js ile geliştirilen APInin testini postman aracını kullanarak yaptırır.\n Node.js ile WebSocket uygulaması yaptırır.\n NPM audit vb. yöntemlerle bağımlılıkların güvenlik kontrollerini yaptırır.\n Node.js ile dosya yükleme ve indirme işlemlerini gerekli kontrolleri gerçekleştirerek yaptırır.\n Node.js ve docker kullanarak mikroservis oluşturma uygulaması yaptırır.\n Komut  satırı  argümanları  ile  çalışan  araçlar geliştirmek  için  uygulama  yaptırır  npx  ile çalıştırma.\n MongoDB    ve    Express    kullanarak    API entegrasyonu  gönderi  oluşturma  ve  dosya yükleme    özelliklerine    sahip    bir    sohbet platformu geliştirme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "NISAN",
       "HAFTA": "33. Hafta:\n20-24 Nisan",
       "SAAT": "5",
@@ -290,7 +257,6 @@
       "KAZANIM": "Web uygulamaları geliştirir. 30 Front-End 70 Back-End önerilmektedir.\nWeb uygulamalarının temel yapıtaşları HTML5 CSS3 Javascript açıklanır.\n En çok kullanılan HTML5 etiketleri açıklanır.\n En çok kullanılan CSS3 stilleri açıklanır.\n HTML5 etiketlerini ve CSS3 stillerini kullanarak web tasarım yaptırır.\n Javascript programlama yapıları değişkenler veri tipleri operatörler fonksiyonlar koşul ifadeleri döngüler Document Object Model olay işleyicileri açıklanır.\n Javascript programlama yapılarını kullanarak uygulamalar yaptırır.\n Esnek ölçeklenebilir ve modern web tasarımları yapmak için Bootstrap Tailwind Svelte React Angular vb. kütüphaneleri kullandırır.\n XAMPP web sunucusu yazılımının kurulumunu yaptırır.\n PHP programlama dili açıklanır.\n PHP programlama yapıları değişkenler veri tipleri operatörler koşul ifadeleri döngüler fonksiyonlar açıklanır.\n PHP programlama dili ile form işlemleri yaptırır.\n PHP programlama dili ile GET ve POST metotlarını kullanarak uygulama yaptırır.\n PHP programlama dilinde http başlıklarının kullanımı ile ilgili uygulama yaptırır\n PHP programlama dili ile regex string ifadeleri kullanarak uygulama yaptırır.\n PHP programlama dili ile oturum yönetimi uygulaması yaptırır.\n PHP programlama dili ile hata yönetimi uygulaması yaptırır.\n PHP programlama dilinde PDO ile veritabanı bağlantısı açıklanır.\n PHP programlama dilinde PDO ile veritabanı giriş seviyesinde veritabanı - tercihen SQLite MySql bağlantısı yaptırır.\n PHP programlama dilinde CRUD uygulaması yaptırır  giriş  seviyesinde  CRUD  -  tercihen SQLite MySql.\n PHP programlama dili ile REST API geliştirme uygulaması yaptırır.\n Postman aracını kullanarak geliştirilen APInin testini yaptırır.\n Bootstrap PHP SQLite teknolojilerini kullanarak kişisel portföy sitesi hakkında iletişim proje sayfaları geliştirme uygulaması yaptırır.\n Node.js çalışma zamanı ortamının javascript ile ilişkisi açıklanır.\n Node.js    kavramları    modüller    asenkron fonksiyonlar      olaylar       ECMAScript       CommonJS vb. açıklanır.\n Node.js       çalışma       zamanı       ortamının kurulumunu yaptırır.\n Node.js paket yöneticisi npm açıklanır.\n NPM  ile  proje  oluşturma  ve  bağımlılıkları indirme uygulaması yaptırır.\n Node.js     dahili     kütüphaneleri     os     fs childprocess process http vb. açıklanır.\n Node.js    dahili    kütüphanelerini    os    fs childprocess  process  http  vb.  kullanarak uygulama yaptırır.\n Express  vb.  web  uygulama  frameworklerini kullanarak web sunucusu başlatır.\n NPM ile web sunucusu eklentileri rate-limit static  helmet vb  ve  middlewareler  yükletip kullandırır.\n Node.js  çalışma  zamanı  ortamında  CRUD uygulaması yaptırır giriş seviyesinde CRUD - tercihen MongoDB.\n Node.js    ile    oturum    yönetimi    ve    kimlik doğrulama uygulamaları yaptırır.\n HttpOnly   Secure   SameSite   gibi   cookie öznitelikleri açıklanır.\n Node.js ile REST API uygulaması yaptırır.\n Node.js ile geliştirilen APInin testini postman aracını kullanarak yaptırır.\n Node.js ile WebSocket uygulaması yaptırır.\n NPM audit vb. yöntemlerle bağımlılıkların güvenlik kontrollerini yaptırır.\n Node.js ile dosya yükleme ve indirme işlemlerini gerekli kontrolleri gerçekleştirerek yaptırır.\n Node.js ve docker kullanarak mikroservis oluşturma uygulaması yaptırır.\n Komut  satırı  argümanları  ile  çalışan  araçlar geliştirmek  için  uygulama  yaptırır  npx  ile çalıştırma.\n MongoDB    ve    Express    kullanarak    API entegrasyonu  gönderi  oluşturma  ve  dosya yükleme    özelliklerine    sahip    bir    sohbet platformu geliştirme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "NISAN",
       "HAFTA": "34. Hafta:\n27 Nisan-01 Mayıs",
       "SAAT": "5",
@@ -299,7 +265,6 @@
       "KAZANIM": "Web uygulamaları geliştirir. 30 Front-End 70 Back-End önerilmektedir.\nWeb uygulamalarının temel yapıtaşları HTML5 CSS3 Javascript açıklanır.\n En çok kullanılan HTML5 etiketleri açıklanır.\n En çok kullanılan CSS3 stilleri açıklanır.\n HTML5 etiketlerini ve CSS3 stillerini kullanarak web tasarım yaptırır.\n Javascript programlama yapıları değişkenler veri tipleri operatörler fonksiyonlar koşul ifadeleri döngüler Document Object Model olay işleyicileri açıklanır.\n Javascript programlama yapılarını kullanarak uygulamalar yaptırır.\n Esnek ölçeklenebilir ve modern web tasarımları yapmak için Bootstrap Tailwind Svelte React Angular vb. kütüphaneleri kullandırır.\n XAMPP web sunucusu yazılımının kurulumunu yaptırır.\n PHP programlama dili açıklanır.\n PHP programlama yapıları değişkenler veri tipleri operatörler koşul ifadeleri döngüler fonksiyonlar açıklanır.\n PHP programlama dili ile form işlemleri yaptırır.\n PHP programlama dili ile GET ve POST metotlarını kullanarak uygulama yaptırır.\n PHP programlama dilinde http başlıklarının kullanımı ile ilgili uygulama yaptırır\n PHP programlama dili ile regex string ifadeleri kullanarak uygulama yaptırır.\n PHP programlama dili ile oturum yönetimi uygulaması yaptırır.\n PHP programlama dili ile hata yönetimi uygulaması yaptırır.\n PHP programlama dilinde PDO ile veritabanı bağlantısı açıklanır.\n PHP programlama dilinde PDO ile veritabanı giriş seviyesinde veritabanı - tercihen SQLite MySql bağlantısı yaptırır.\n PHP programlama dilinde CRUD uygulaması yaptırır  giriş  seviyesinde  CRUD  -  tercihen SQLite MySql.\n PHP programlama dili ile REST API geliştirme uygulaması yaptırır.\n Postman aracını kullanarak geliştirilen APInin testini yaptırır.\n Bootstrap PHP SQLite teknolojilerini kullanarak kişisel portföy sitesi hakkında iletişim proje sayfaları geliştirme uygulaması yaptırır.\n Node.js çalışma zamanı ortamının javascript ile ilişkisi açıklanır.\n Node.js    kavramları    modüller    asenkron fonksiyonlar      olaylar       ECMAScript       CommonJS vb. açıklanır.\n Node.js       çalışma       zamanı       ortamının kurulumunu yaptırır.\n Node.js paket yöneticisi npm açıklanır.\n NPM  ile  proje  oluşturma  ve  bağımlılıkları indirme uygulaması yaptırır.\n Node.js     dahili     kütüphaneleri     os     fs childprocess process http vb. açıklanır.\n Node.js    dahili    kütüphanelerini    os    fs childprocess  process  http  vb.  kullanarak uygulama yaptırır.\n Express  vb.  web  uygulama  frameworklerini kullanarak web sunucusu başlatır.\n NPM ile web sunucusu eklentileri rate-limit static  helmet vb  ve  middlewareler  yükletip kullandırır.\n Node.js  çalışma  zamanı  ortamında  CRUD uygulaması yaptırır giriş seviyesinde CRUD - tercihen MongoDB.\n Node.js    ile    oturum    yönetimi    ve    kimlik doğrulama uygulamaları yaptırır.\n HttpOnly   Secure   SameSite   gibi   cookie öznitelikleri açıklanır.\n Node.js ile REST API uygulaması yaptırır.\n Node.js ile geliştirilen APInin testini postman aracını kullanarak yaptırır.\n Node.js ile WebSocket uygulaması yaptırır.\n NPM audit vb. yöntemlerle bağımlılıkların güvenlik kontrollerini yaptırır.\n Node.js ile dosya yükleme ve indirme işlemlerini gerekli kontrolleri gerçekleştirerek yaptırır.\n Node.js ve docker kullanarak mikroservis oluşturma uygulaması yaptırır.\n Komut  satırı  argümanları  ile  çalışan  araçlar geliştirmek  için  uygulama  yaptırır  npx  ile çalıştırma.\n MongoDB    ve    Express    kullanarak    API entegrasyonu  gönderi  oluşturma  ve  dosya yükleme    özelliklerine    sahip    bir    sohbet platformu geliştirme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Web Uygulamaları",
       "AY": "MAYIS",
       "HAFTA": "35. Hafta:\n04-08 Mayıs",
       "SAAT": "5",
@@ -308,7 +273,6 @@
       "KAZANIM": "Web uygulamaları geliştirir. 30 Front-End 70 Back-End önerilmektedir.\nWeb uygulamalarının temel yapıtaşları HTML5 CSS3 Javascript açıklanır.\n En çok kullanılan HTML5 etiketleri açıklanır.\n En çok kullanılan CSS3 stilleri açıklanır.\n HTML5 etiketlerini ve CSS3 stillerini kullanarak web tasarım yaptırır.\n Javascript programlama yapıları değişkenler veri tipleri operatörler fonksiyonlar koşul ifadeleri döngüler Document Object Model olay işleyicileri açıklanır.\n Javascript programlama yapılarını kullanarak uygulamalar yaptırır.\n Esnek ölçeklenebilir ve modern web tasarımları yapmak için Bootstrap Tailwind Svelte React Angular vb. kütüphaneleri kullandırır.\n XAMPP web sunucusu yazılımının kurulumunu yaptırır.\n PHP programlama dili açıklanır.\n PHP programlama yapıları değişkenler veri tipleri operatörler koşul ifadeleri döngüler fonksiyonlar açıklanır.\n PHP programlama dili ile form işlemleri yaptırır.\n PHP programlama dili ile GET ve POST metotlarını kullanarak uygulama yaptırır.\n PHP programlama dilinde http başlıklarının kullanımı ile ilgili uygulama yaptırır\n PHP programlama dili ile regex string ifadeleri kullanarak uygulama yaptırır.\n PHP programlama dili ile oturum yönetimi uygulaması yaptırır.\n PHP programlama dili ile hata yönetimi uygulaması yaptırır.\n PHP programlama dilinde PDO ile veritabanı bağlantısı açıklanır.\n PHP programlama dilinde PDO ile veritabanı giriş seviyesinde veritabanı - tercihen SQLite MySql bağlantısı yaptırır.\n PHP programlama dilinde CRUD uygulaması yaptırır  giriş  seviyesinde  CRUD  -  tercihen SQLite MySql.\n PHP programlama dili ile REST API geliştirme uygulaması yaptırır.\n Postman aracını kullanarak geliştirilen APInin testini yaptırır.\n Bootstrap PHP SQLite teknolojilerini kullanarak kişisel portföy sitesi hakkında iletişim proje sayfaları geliştirme uygulaması yaptırır.\n Node.js çalışma zamanı ortamının javascript ile ilişkisi açıklanır.\n Node.js    kavramları    modüller    asenkron fonksiyonlar      olaylar       ECMAScript       CommonJS vb. açıklanır.\n Node.js       çalışma       zamanı       ortamının kurulumunu yaptırır.\n Node.js paket yöneticisi npm açıklanır.\n NPM  ile  proje  oluşturma  ve  bağımlılıkları indirme uygulaması yaptırır.\n Node.js     dahili     kütüphaneleri     os     fs childprocess process http vb. açıklanır.\n Node.js    dahili    kütüphanelerini    os    fs childprocess  process  http  vb.  kullanarak uygulama yaptırır.\n Express  vb.  web  uygulama  frameworklerini kullanarak web sunucusu başlatır.\n NPM ile web sunucusu eklentileri rate-limit static  helmet vb  ve  middlewareler  yükletip kullandırır.\n Node.js  çalışma  zamanı  ortamında  CRUD uygulaması yaptırır giriş seviyesinde CRUD - tercihen MongoDB.\n Node.js    ile    oturum    yönetimi    ve    kimlik doğrulama uygulamaları yaptırır.\n HttpOnly   Secure   SameSite   gibi   cookie öznitelikleri açıklanır.\n Node.js ile REST API uygulaması yaptırır.\n Node.js ile geliştirilen APInin testini postman aracını kullanarak yaptırır.\n Node.js ile WebSocket uygulaması yaptırır.\n NPM audit vb. yöntemlerle bağımlılıkların güvenlik kontrollerini yaptırır.\n Node.js ile dosya yükleme ve indirme işlemlerini gerekli kontrolleri gerçekleştirerek yaptırır.\n Node.js ve docker kullanarak mikroservis oluşturma uygulaması yaptırır.\n Komut  satırı  argümanları  ile  çalışan  araçlar geliştirmek  için  uygulama  yaptırır  npx  ile çalıştırma.\n MongoDB    ve    Express    kullanarak    API entegrasyonu  gönderi  oluşturma  ve  dosya yükleme    özelliklerine    sahip    bir    sohbet platformu geliştirme uygulaması yaptırır."
     },
     {
-      "ÜNİTE": "Mobil Uygulamalar",
       "AY": "MAYIS",
       "HAFTA": "36. Hafta:\n11-15 Mayıs",
       "SAAT": "5",
@@ -317,7 +281,6 @@
       "KAZANIM": "Mobil uygulamanın çalışma sürecini açıklar.\nMobil Android işletim sistemi mimari yapısı kernel     donanım     soyutlama     katmanı kütüphaneler     Dalvik     ART     application framework  uygulamalar  Android  SDK  vb. açıklanır.\n APK  dosyası  ve  bileşenleri  META-INF  lib res          assets          AndroidManifest.xml classes.dex resources.arsc vb. açıklanır.\n Mobil      Android      uygulamanın      temel bileşenleri    content    providers    activities services broadcast receivers açıklanır.\n Mobil   Android   uygulama   derleme   süreci java  program  parçacığının  apk  dosyasına dönüşmesi açıklanır."
     },
     {
-      "ÜNİTE": "Mobil Uygulamalar",
       "AY": "MAYIS",
       "HAFTA": "37. Hafta:\n18-22 Mayıs",
       "SAAT": "5",
@@ -326,7 +289,6 @@
       "KAZANIM": "Mobil uygulamanın çalışma sürecini açıklar.\nMobil Android işletim sistemi mimari yapısı kernel     donanım     soyutlama     katmanı kütüphaneler     Dalvik     ART     application framework  uygulamalar  Android  SDK  vb. açıklanır.\n APK  dosyası  ve  bileşenleri  META-INF  lib res          assets          AndroidManifest.xml classes.dex resources.arsc vb. açıklanır.\n Mobil      Android      uygulamanın      temel bileşenleri    content    providers    activities services broadcast receivers açıklanır.\n Mobil   Android   uygulama   derleme   süreci java  program  parçacığının  apk  dosyasına dönüşmesi açıklanır."
     },
     {
-      "ÜNİTE": "Mobil Uygulamalar",
       "AY": "MAYIS",
       "HAFTA": "38. Hafta:\n25-29 Mayıs",
       "SAAT": "5",
@@ -335,7 +297,6 @@
       "KAZANIM": "Mobil uygulamanın çalışma sürecini açıklar.\nMobil Android işletim sistemi mimari yapısı kernel     donanım     soyutlama     katmanı kütüphaneler     Dalvik     ART     application framework  uygulamalar  Android  SDK  vb. açıklanır.\n APK  dosyası  ve  bileşenleri  META-INF  lib res          assets          AndroidManifest.xml classes.dex resources.arsc vb. açıklanır.\n Mobil      Android      uygulamanın      temel bileşenleri    content    providers    activities services broadcast receivers açıklanır.\n Mobil   Android   uygulama   derleme   süreci java  program  parçacığının  apk  dosyasına dönüşmesi açıklanır."
     },
     {
-      "ÜNİTE": "Mobil Uygulamalar",
       "AY": "HAZIRAN",
       "HAFTA": "39. Hafta:\n01-05 Haziran",
       "SAAT": "5",
@@ -344,7 +305,6 @@
       "KAZANIM": "2. Dönem 2. Sınav Mobil uygulama geliştirir.\nMobil      Android      uygulama      geliştirme ortamının  JDK   Android   Studio   ve   SDK kurulumunu yaptırır.\n Emülatör kurulumunu yaptırır.\n Farklı tasarım yapılarını kullanarak yeni proje oluşturma adımlarını uygulatır.\n Mobil uygulama arayüz tasarımı yaptırır.\n Activity     yaşam     döngüsü     ve     metotları onCreate  onStart  onResume  onRestart onPause onStop onDestroy açıklanır.\n Mobil    programlama    dili    Java    yapıları değişkenler  veri  tipleri  operatörler  karar ifadeleri döngüler diziler ArrayList metotlar hata ayıklama açıklanır.\n Mobil   programlama   dili   Java   yapılarını kullanarak uygulamalar yaptırır.\n Android      Studio      uygulama      geliştirme ortamında Java programlama dilini kullanarak IPv4      subnet      hesaplayıcı      uygulaması uygulamayı      paketleyip      dağıtım      için"
     },
     {
-      "ÜNİTE": "Mobil Uygulamalar",
       "AY": "HAZIRAN",
       "HAFTA": "40. Hafta:\n08-12 Haziran",
       "SAAT": "5",
@@ -353,7 +313,6 @@
       "KAZANIM": "Mobil uygulama geliştirir.\nMobil      Android      uygulama      geliştirme ortamının  JDK   Android   Studio   ve   SDK kurulumunu yaptırır.\n Emülatör kurulumunu yaptırır.\n Farklı tasarım yapılarını kullanarak yeni proje oluşturma adımlarını uygulatır.\n Mobil uygulama arayüz tasarımı yaptırır.\n Activity     yaşam     döngüsü     ve     metotları onCreate  onStart  onResume  onRestart onPause onStop onDestroy açıklanır.\n Mobil    programlama    dili    Java    yapıları değişkenler  veri  tipleri  operatörler  karar ifadeleri döngüler diziler ArrayList metotlar hata ayıklama açıklanır.\n Mobil   programlama   dili   Java   yapılarını kullanarak uygulamalar yaptırır.\n Android      Studio      uygulama      geliştirme ortamında Java programlama dilini kullanarak IPv4      subnet      hesaplayıcı      uygulaması uygulamayı      paketleyip      dağıtım      için"
     },
     {
-      "ÜNİTE": "Mobil Uygulamalar",
       "AY": "HAZIRAN",
       "HAFTA": "41. Hafta:\n15-19 Haziran",
       "SAAT": "5",
@@ -362,7 +321,6 @@
       "KAZANIM": "Mobil uygulama geliştirir.\nMobil      Android      uygulama      geliştirme ortamının  JDK   Android   Studio   ve   SDK kurulumunu yaptırır.\n Emülatör kurulumunu yaptırır.\n Farklı tasarım yapılarını kullanarak yeni proje oluşturma adımlarını uygulatır.\n Mobil uygulama arayüz tasarımı yaptırır.\n Activity     yaşam     döngüsü     ve     metotları onCreate  onStart  onResume  onRestart onPause onStop onDestroy açıklanır.\n Mobil    programlama    dili    Java    yapıları değişkenler  veri  tipleri  operatörler  karar ifadeleri döngüler diziler ArrayList metotlar hata ayıklama açıklanır.\n Mobil   programlama   dili   Java   yapılarını kullanarak uygulamalar yaptırır.\n Android      Studio      uygulama      geliştirme ortamında Java programlama dilini kullanarak IPv4      subnet      hesaplayıcı      uygulaması uygulamayı      paketleyip      dağıtım      için"
     },
     {
-      "ÜNİTE": "Etkinlik Haftası",
       "AY": "HAZIRAN",
       "HAFTA": "42. Hafta:\n22-26 Haziran",
       "SAAT": "5",
